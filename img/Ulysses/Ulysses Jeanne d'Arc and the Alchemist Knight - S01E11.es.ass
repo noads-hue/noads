@@ -1,0 +1,325 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_TitleEp,Times New Roman,26,&H00FFFFFF,&H000000FF,&H003A3A3A,&H006D6D6D,-1,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0120,1
+Style: Cart_Avance,Arial,28,&H000D00D3,&H000000FF,&H00060503,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,8,0020,0020,0100,1
+Style: Cart_Next,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00060503,&H00060503,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0030,1
+Style: Cart_Nota,Trebuchet MS,36,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,-1,0,0,0,100,100,0,0,1,0,0,3,0010,0080,0120,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00010101,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Ari,Arial,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0010,0010,0010,1
+Style: Main,Trebuchet MS,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Flashback_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00500000,&H00500000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Ep Title,Times New Roman,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,0020,0020,0120,1
+Style: To_Be_Continued(right),Comic Sans MS,13,&H00FFFFFF,&H000000FF,&H00292826,&H00292826,-1,0,0,0,140,140,0,0,1,1,1,1,0485,0300,0087,1
+Style: sign_31337_348_To_Be_Continued,Comic Sans MS,13,&H00FFFFFF,&H000000FF,&H00292826,&H00292826,-1,0,0,0,140,140,0,0,1,1,1,1,0505,0006,0090,1
+Style: Series Title,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,0250,0010,0010,1
+Style: sign_33335_317_Jeanne_d_Arc_and,Verdana,12,&H00FFFFFF,&H000000FF,&H0020211F,&H0020211F,-1,0,0,0,120,120,0,0,1,0,0,1,0291,0208,0095,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.62,0:00:22.17,Gen_Main,John,0000,0000,0000,,Es una oportunidad.
+Dialogue: 0,0:00:22.64,0:00:24.25,Gen_Main,P,0000,0000,0000,,Una oportunidad…
+Dialogue: 0,0:00:25.51,0:00:30.50,Gen_Main,John,0000,0000,0000,,Es la gran oportunidad para que Borgoña\Nse convierta en un gran imperio.
+Dialogue: 0,0:00:37.81,0:00:39.00,Gen_Main,P,0000,0000,0000,,Montmorency…
+Dialogue: 0,0:00:41.02,0:00:51.32,Cart_TitleEp,TS,0000,0000,0000,,#11 Utopía, y entonces…
+Dialogue: 0,0:02:16.29,0:02:18.48,Gen_Main,Man,0000,0000,0000,,Por la presente declaro…
+Dialogue: 0,0:02:18.48,0:02:20.40,Gen_Main,Man,0000,0000,0000,,¡que se ha dictado sentencia!
+Dialogue: 0,0:02:20.40,0:02:23.88,Gen_Main,Man,0000,0000,0000,,Mintió y dijo que era una santa,\Nmintió sobre su pureza
+Dialogue: 0,0:02:23.88,0:02:27.91,Gen_Main,Man,0000,0000,0000,,y la bruja que conspiró para llevar\Na Francia a la oscuridad eterna…
+Dialogue: 0,0:02:27.91,0:02:29.67,Gen_Main,Man,0000,0000,0000,,¡ya no existe!
+Dialogue: 0,0:03:00.02,0:03:01.53,Gen_Main,J,0000,0000,0000,,Montmorency…
+Dialogue: 0,0:03:04.36,0:03:05.77,Gen_Main,L,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:03:05.77,0:03:09.14,Gen_Main,L,0000,0000,0000,,¡Oye, Jeanne!\N¿Qué le pasó a Montmorency?
+Dialogue: 0,0:03:09.68,0:03:10.70,Gen_Main,L,0000,0000,0000,,¿Jeanne?
+Dialogue: 0,0:03:11.21,0:03:12.17,Gen_Main,,0000,0000,0000,,¡Cuidado!
+Dialogue: 0,0:03:23.08,0:03:24.72,Gen_Main,F,0000,0000,0000,,¿Podría ser…?
+Dialogue: 0,0:03:32.00,0:03:33.23,Gen_Main,L,0000,0000,0000,,¡Jeanne!
+Dialogue: 0,0:03:36.77,0:03:38.08,Gen_Main,J,0000,0000,0000,,Ya no escucho…
+Dialogue: 0,0:03:38.08,0:03:41.86,Gen_Main,J,0000,0000,0000,,¡Ya no escucho la voz de Montmorency!
+Dialogue: 0,0:03:42.16,0:03:44.06,Gen_Main,J,0000,0000,0000,,¡Montmorency!
+Dialogue: 0,0:03:46.13,0:03:49.64,Gen_Main,E,0000,0000,0000,,Era {\i1}Mur d'Air{\i0}, ¿no?
+Dialogue: 0,0:03:54.00,0:03:55.88,Gen_Main,J,0000,0000,0000,,¡Montmorency!
+Dialogue: 0,0:03:55.88,0:03:59.05,Gen_Main,E,0000,0000,0000,,No, me llamo Enlil.
+Dialogue: 0,0:03:59.05,0:04:01.10,Gen_Main,E,0000,0000,0000,,Soberano de la utopía
+Dialogue: 0,0:04:01.10,0:04:04.13,Gen_Main,E,0000,0000,0000,,y rey de los 72 dioses,
+Dialogue: 0,0:04:04.13,0:04:05.51,Gen_Main,E,0000,0000,0000,,¡Enlil!
+Dialogue: 0,0:04:12.71,0:04:15.53,Gen_Italics,P,0000,0000,0000,,Montmorency… ya no estás…
+Dialogue: 0,0:04:16.88,0:04:18.95,Gen_Main,John,0000,0000,0000,,Véngalo.
+Dialogue: 0,0:04:19.60,0:04:20.79,Gen_Main,P,0000,0000,0000,,¿Vengarlo?
+Dialogue: 0,0:04:21.28,0:04:26.91,Gen_Main,John,0000,0000,0000,,Sí. Mata al dios y extiende\Ntu reputación como matadioses,
+Dialogue: 0,0:04:26.91,0:04:30.46,Gen_Main,John,0000,0000,0000,,como la salvadora, la santa Philip…
+Dialogue: 0,0:04:30.46,0:04:33.21,Gen_Main,John,0000,0000,0000,,Que te conozcan en Francia e Inglaterra.
+Dialogue: 0,0:04:33.21,0:04:37.29,Gen_Main,John,0000,0000,0000,,¡Úsalo como los cimientos\Ndel imperio de Borgoña!
+Dialogue: 0,0:04:38.45,0:04:40.19,Gen_Main,John,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:04:40.19,0:04:43.55,Gen_Main,John,0000,0000,0000,,Tienes tu as en la manga.
+Dialogue: 0,0:04:54.63,0:04:56.69,Gen_Main,G,0000,0000,0000,,Te saqué del río junto con esto.
+Dialogue: 0,0:04:59.28,0:05:00.63,Gen_Main,P,0000,0000,0000,,Mi as en la manga.
+Dialogue: 0,0:05:01.06,0:05:02.09,Gen_Main,G,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:05:16.50,0:05:18.53,Gen_Main,G,0000,0000,0000,,Es cierto que…
+Dialogue: 0,0:05:18.53,0:05:22.09,Gen_Main,G,0000,0000,0000,,si ese alquimista\Nse convirtió en Ulysses,
+Dialogue: 0,0:05:22.09,0:05:24.12,Gen_Main,G,0000,0000,0000,,mi virote sería efectivo.
+Dialogue: 0,0:05:24.12,0:05:25.61,Gen_Main,G,0000,0000,0000,,Pero ¿lo olvidaste?
+Dialogue: 0,0:05:26.05,0:05:29.40,Gen_Main,G,0000,0000,0000,,Puede bloquearlo con su muro de aire.
+Dialogue: 0,0:05:29.40,0:05:33.10,Gen_Main,P,0000,0000,0000,,Usaremos a Jeanne como sacrificio\Ny crearemos una oportunidad.
+Dialogue: 0,0:05:34.65,0:05:38.55,Gen_Main,P,0000,0000,0000,,Debería ser\Nun buen trato para ti, lord Bedford.
+Dialogue: 0,0:05:39.36,0:05:41.11,Gen_Main,P,0000,0000,0000,,¿Puedo contar contigo?
+Dialogue: 0,0:05:42.31,0:05:43.75,Gen_Main,G,0000,0000,0000,,¿Podrás hacerlo?
+Dialogue: 0,0:05:44.36,0:05:45.42,Gen_Main,G,0000,0000,0000,,Noire…
+Dialogue: 0,0:05:45.42,0:05:48.55,Gen_Main,G,0000,0000,0000,,No, princesa Philip de Borgoña.
+Dialogue: 0,0:05:49.03,0:05:52.40,Gen_Main,G,0000,0000,0000,,Escuché que no mataste ni a una mosca.
+Dialogue: 0,0:05:52.40,0:05:54.98,Gen_Main,G,0000,0000,0000,,Tu apodo es Philip la Buena.
+Dialogue: 0,0:05:56.85,0:05:58.28,Gen_Main,G,0000,0000,0000,,¿Podrás hacerlo tú?
+Dialogue: 0,0:06:00.47,0:06:03.06,Gen_Main,P,0000,0000,0000,,Debe de ser mi destino.
+Dialogue: 0,0:06:04.19,0:06:06.28,Gen_Main,P,0000,0000,0000,,Para vengar a Montmorency.
+Dialogue: 0,0:06:06.87,0:06:11.17,Gen_Main,P,0000,0000,0000,,Debe de ser la razón de haber\Nencontrado este casco.
+Dialogue: 0,0:06:11.17,0:06:15.39,Gen_Main,P,0000,0000,0000,,En ese caso, abandonaré mi apodo\Ny aceptaré la oscuridad.
+Dialogue: 0,0:06:26.82,0:06:29.06,Gen_Main,P,0000,0000,0000,,¿Puedo contar con tu ayuda?
+Dialogue: 0,0:06:29.06,0:06:30.66,Gen_Main,G,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:06:33.49,0:06:34.79,Gen_Main,J,0000,0000,0000,,¡No!
+Dialogue: 0,0:06:36.16,0:06:38.04,Gen_Main,E,0000,0000,0000,,¡Atraviésalas!
+Dialogue: 0,0:06:41.58,0:06:43.29,Gen_Main,J,0000,0000,0000,,¡Protege tus partes vitales!
+Dialogue: 0,0:06:54.40,0:06:56.92,Gen_Main,L,0000,0000,0000,,¿Cuánto tiempo de Ulysses te queda?
+Dialogue: 0,0:06:56.92,0:06:58.76,Gen_Main,J,0000,0000,0000,,No mucho más.
+Dialogue: 0,0:07:02.16,0:07:03.71,Gen_Main,L,0000,0000,0000,,Yo seré tu escudo.
+Dialogue: 0,0:07:03.71,0:07:05.86,Gen_Main,L,0000,0000,0000,,¡Destruye la cabeza de Montmorency!
+Dialogue: 0,0:07:06.57,0:07:10.24,Gen_Main,L,0000,0000,0000,,Vuestros corazones están unidos,\Ndeberías saber mejor que nadie…
+Dialogue: 0,0:07:10.24,0:07:12.98,Gen_Main,L,0000,0000,0000,,Que ese ya no es Montmorency.
+Dialogue: 0,0:07:18.83,0:07:21.01,Gen_Main,L,0000,0000,0000,,¡Decídete, Jeanne!
+Dialogue: 0,0:07:24.59,0:07:26.12,Gen_Main,L,0000,0000,0000,,¡Adelante, balas mágicas!
+Dialogue: 0,0:07:32.66,0:07:36.39,Gen_Main,L,0000,0000,0000,,¡Ahora, vamos!
+Dialogue: 0,0:07:46.90,0:07:48.73,Gen_Main,L,0000,0000,0000,,Este es el final…
+Dialogue: 0,0:08:01.75,0:08:04.58,Gen_Main,E,0000,0000,0000,,¡Venid, seguidores!
+Dialogue: 0,0:08:14.51,0:08:17.34,Gen_Main,E,0000,0000,0000,,Llegó la hora del juicio.
+Dialogue: 0,0:08:27.01,0:08:30.50,Gen_Main,E,0000,0000,0000,,Parece que lleváis mucho tiempo\Nen esa dimensión del vacío.
+Dialogue: 0,0:08:31.46,0:08:34.19,Gen_Main,G,0000,0000,0000,,Oye, esto no es lo que esperaba.
+Dialogue: 0,0:08:34.19,0:08:36.52,Gen_Main,G,0000,0000,0000,,¿Esa cosa sigue siendo un Ulysses?
+Dialogue: 0,0:08:36.52,0:08:38.74,Gen_Main,G,0000,0000,0000,,¿Funcionará mi virote?
+Dialogue: 0,0:08:39.16,0:08:44.14,Gen_Main,P,0000,0000,0000,,El dios no intentó matar a Montmorency\Ny quedarse su piedra filosofal.
+Dialogue: 0,0:08:44.14,0:08:45.64,Gen_Main,P,0000,0000,0000,,¿Por qué crees que lo hizo?
+Dialogue: 0,0:08:46.04,0:08:49.69,Gen_Main,E,0000,0000,0000,,Como pensaba, necesitamos\Nun huésped especial
+Dialogue: 0,0:08:49.69,0:08:53.61,Gen_Main,,0000,0000,0000,,para mantener nuestra forma\Ny consciencia.
+Dialogue: 0,0:08:53.61,0:08:59.05,Gen_Main,E,0000,0000,0000,,Bueno. ¡Yo seré el único dios\Nque tenga un huésped!
+Dialogue: 0,0:08:59.49,0:09:01.40,Gen_Main,P,0000,0000,0000,,Es un Ulysses.
+Dialogue: 0,0:09:01.40,0:09:03.56,Gen_Main,P,0000,0000,0000,,Prepárate, Glasdale.
+Dialogue: 0,0:09:06.06,0:09:07.77,Gen_Main,X,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:09:07.77,0:09:10.07,Gen_Main,X,0000,0000,0000,,¡No quiero morir virgen!
+Dialogue: 0,0:09:10.07,0:09:11.04,Gen_Main,B,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:09:11.04,0:09:14.22,Gen_Main,X,0000,0000,0000,,¡Ya había elegido a Etienne!
+Dialogue: 0,0:09:14.90,0:09:17.14,Gen_Main,X,0000,0000,0000,,¡Tendré que conformarme contigo!
+Dialogue: 0,0:09:20.58,0:09:22.73,Gen_Main,E,0000,0000,0000,,¡Restauraré la utopía!
+Dialogue: 0,0:09:22.73,0:09:25.07,Gen_Main,E,0000,0000,0000,,El mundo volverá a ser como debe ser.
+Dialogue: 0,0:09:25.07,0:09:28.44,Gen_Main,E,0000,0000,0000,,¡Sin embargo, no habrá\Nsitio para los humanos!
+Dialogue: 0,0:09:28.44,0:09:33.32,Gen_Main,E,0000,0000,0000,,La próxima generación de esclavos\Nno se hará a nuestra imagen.
+Dialogue: 0,0:09:33.32,0:09:36.92,Gen_Main,E,0000,0000,0000,,¡Obedeceréis nuestras órdenes\Nsin pensarlo!
+Dialogue: 0,0:09:37.80,0:09:39.36,Gen_Main,F,0000,0000,0000,,Qué tragedia.
+Dialogue: 0,0:09:39.36,0:09:43.82,Gen_Main,F,0000,0000,0000,,¿Será este el final\Nde la historia de la humanidad?
+Dialogue: 0,0:09:44.79,0:09:46.10,Gen_Main,F,0000,0000,0000,,¿Qué estás…?
+Dialogue: 0,0:09:47.85,0:09:51.12,Gen_Main,A,0000,0000,0000,,Yo soy la que enfrentó\Na humanos y dioses.
+Dialogue: 0,0:09:51.12,0:09:53.58,Gen_Main,A,0000,0000,0000,,Castígame si necesitas\Ncastigar a alguien.
+Dialogue: 0,0:09:53.58,0:09:57.24,Gen_Main,A,0000,0000,0000,,Puedes quemarme o descuartizarme\Ndurante toda la eternidad.
+Dialogue: 0,0:09:57.24,0:09:58.44,Gen_Main,A,0000,0000,0000,,Haz lo que quieras.
+Dialogue: 0,0:09:58.96,0:10:01.58,Gen_Main,A,0000,0000,0000,,Pero, por favor, perdónalos…
+Dialogue: 0,0:10:01.60,0:10:02.86,Gen_Main,A,0000,0000,0000,,Perdona a los humanos…
+Dialogue: 0,0:10:10.20,0:10:14.76,Gen_Main,E,0000,0000,0000,,Quédate aquí y presencia el fin\Nde esta falsa utopía.
+Dialogue: 0,0:10:16.51,0:10:17.96,Gen_Italics,,0000,0000,0000,,¿Todavía no…?
+Dialogue: 0,0:10:19.64,0:10:24.14,Gen_Main,G,0000,0000,0000,,¡Responde a mi voz, Nave del Cielo!
+Dialogue: 0,0:10:36.28,0:10:37.38,Gen_Main,E,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:10:38.31,0:10:39.48,Gen_Main,P,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:10:43.87,0:10:47.42,Gen_Italics,P,0000,0000,0000,,Te dedico esta venganza, Montmorency.
+Dialogue: 0,0:10:48.00,0:10:51.50,Gen_Italics,P,0000,0000,0000,,Te quiero. ¡Te quería!
+Dialogue: 0,0:10:56.80,0:10:58.20,Gen_Main,G,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:10:58.80,0:11:00.44,Gen_Main,J,0000,0000,0000,,No se ha acabado…
+Dialogue: 0,0:11:02.28,0:11:05.05,Gen_Main,J,0000,0000,0000,,Montmorency sigue ahí.
+Dialogue: 0,0:11:05.54,0:11:08.38,Gen_Main,J,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:11:10.06,0:11:12.74,Gen_Main,E,0000,0000,0000,,¿Hasta cuándo piensas agarrarme?
+Dialogue: 0,0:11:13.27,0:11:14.34,Gen_Main,E,0000,0000,0000,,¡Aparta!
+Dialogue: 0,0:11:20.57,0:11:22.07,Gen_Main,G,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:11:22.41,0:11:23.82,Gen_Main,E,0000,0000,0000,,Patético.
+Dialogue: 0,0:11:34.93,0:11:37.14,Gen_Main,P,0000,0000,0000,,No lo sabía.
+Dialogue: 0,0:11:38.93,0:11:42.97,Gen_Main,P,0000,0000,0000,,Pero tú pudiste sentir su presencia.
+Dialogue: 0,0:11:43.46,0:11:44.68,Gen_Main,P,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:11:45.35,0:11:48.81,Gen_Main,,0000,0000,0000,,tú eres la única que puede salvar\Na Montmorency.
+Dialogue: 0,0:11:52.60,0:11:54.98,Gen_Main,E,0000,0000,0000,,¡Ya basta de esta lucha sin sentido!
+Dialogue: 0,0:12:01.74,0:12:03.24,Gen_Main,J,0000,0000,0000,,¡Montmorency!
+Dialogue: 0,0:12:19.00,0:12:20.68,Gen_Main,J,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,0:12:23.78,0:12:25.86,Gen_Main,J,0000,0000,0000,,¿Hola? ¿Perdone?
+Dialogue: 0,0:12:26.51,0:12:28.68,Gen_Main,J,0000,0000,0000,,¿Y Montmorency?
+Dialogue: 0,0:12:29.95,0:12:32.13,Gen_Main,J,0000,0000,0000,,Pues…
+Dialogue: 0,0:12:32.13,0:12:35.52,Gen_Main,Man,0000,0000,0000,,¿El nieto de Jean Barbarroja?
+Dialogue: 0,0:12:35.87,0:12:37.19,Gen_Main,Man,0000,0000,0000,,Está por allí.
+Dialogue: 0,0:12:53.50,0:12:57.85,Gen_Main,M,0000,0000,0000,,¡Transmutación con la piedra filosofal!\N¡Es el arte secreto definitivo!
+Dialogue: 0,0:12:57.85,0:13:00.96,Gen_Main,M,0000,0000,0000,,¡Dicen que la piedra convierte\Na su dueño en inmortal!
+Dialogue: 0,0:13:00.96,0:13:02.80,Gen_Main,M,0000,0000,0000,,Bueno, si domino la alquimia…
+Dialogue: 0,0:13:10.52,0:13:14.55,Gen_Main,M,0000,0000,0000,,Si dominamos la alquimia,\Nnadie más tendrá que morir en batalla.
+Dialogue: 0,0:13:16.05,0:13:17.65,Gen_Main,M,0000,0000,0000,,¿No dices nada?
+Dialogue: 0,0:13:17.65,0:13:20.30,Gen_Main,R,0000,0000,0000,,Siempre estás con la misma historia.
+Dialogue: 0,0:13:23.17,0:13:26.83,Gen_Main,R,0000,0000,0000,,Quieres comprar todos los grimorios\Nque encuentres…
+Dialogue: 0,0:13:26.83,0:13:28.09,Gen_Main,M,0000,0000,0000,,¡Eso es!
+Dialogue: 0,0:13:28.09,0:13:30.38,Gen_Main,M,0000,0000,0000,,Leí algunos, pero parecen codificados.
+Dialogue: 0,0:13:30.38,0:13:32.64,Gen_Main,M,0000,0000,0000,,No avanzaré si ese viejo no me enseña.
+Dialogue: 0,0:13:32.64,0:13:33.96,Gen_Italics,J,0000,0000,0000,,¡Montmorency!
+Dialogue: 0,0:13:34.83,0:13:36.12,Gen_Main,J,0000,0000,0000,,¡Menos mal!
+Dialogue: 0,0:13:36.12,0:13:38.15,Gen_Main,J,0000,0000,0000,,¡Ahí estás!
+Dialogue: 0,0:13:41.94,0:13:42.99,Gen_Main,M,0000,0000,0000,,¿Quién eres?
+Dialogue: 0,0:13:42.99,0:13:45.34,Gen_Main,J,0000,0000,0000,,¡Soy yo, Jeanne!
+Dialogue: 0,0:13:45.34,0:13:49.16,Gen_Main,R,0000,0000,0000,,Oye, aquí solo\Npueden entrar los alumnos.
+Dialogue: 0,0:13:49.16,0:13:50.60,Gen_Main,R,0000,0000,0000,,Márchate ahora mismo.
+Dialogue: 0,0:13:50.60,0:13:52.85,Gen_Main,J,0000,0000,0000,,¡Deja de hacerte el tonto, Montmorency!
+Dialogue: 0,0:13:53.21,0:13:54.28,Gen_Main,M,0000,0000,0000,,Suéltame.
+Dialogue: 0,0:13:55.10,0:13:57.00,Gen_Main,M,0000,0000,0000,,No te conozco.
+Dialogue: 0,0:13:57.00,0:13:59.73,Gen_Main,M,0000,0000,0000,,¡Así que suéltame!
+Dialogue: 0,0:14:13.49,0:14:15.42,Gen_Main,J,0000,0000,0000,,Ahora lo entiendo.
+Dialogue: 0,0:14:15.42,0:14:19.00,Gen_Main,J,0000,0000,0000,,Montmorency está atrapado en su pasado.
+Dialogue: 0,0:14:19.80,0:14:21.50,Gen_Main,P,0000,0000,0000,,Oye, ¿hacemos un juramento?
+Dialogue: 0,0:14:22.37,0:14:24.31,Gen_Main,P,0000,0000,0000,,Para ser siempre amigos.
+Dialogue: 0,0:14:27.26,0:14:28.76,Gen_Main,R,0000,0000,0000,,¡Entonces, hagámoslo!
+Dialogue: 0,0:14:28.76,0:14:29.76,Gen_Main,M,0000,0000,0000,,Lo seremos…
+Dialogue: 0,0:14:29.76,0:14:31.01,Gen_Main,C,0000,0000,0000,,Lo seremos…
+Dialogue: 0,0:14:31.01,0:14:33.43,Gen_Main,P,0000,0000,0000,,aunque nos graduemos de la academia…
+Dialogue: 0,0:14:33.43,0:14:35.94,Gen_Main,All,0000,0000,0000,,¡seremos amigos siempre!
+Dialogue: 0,0:14:37.06,0:14:38.46,Gen_Main,J,0000,0000,0000,,Montmorency.
+Dialogue: 0,0:14:39.94,0:14:41.75,Gen_Main,M,0000,0000,0000,,¿Otra vez tú?
+Dialogue: 0,0:14:42.31,0:14:44.94,Gen_Main,J,0000,0000,0000,,Oye, Montmorency…
+Dialogue: 0,0:14:45.09,0:14:47.07,Gen_Main,M,0000,0000,0000,,No me hables como si me conocieras.
+Dialogue: 0,0:14:47.07,0:14:49.93,Gen_Main,M,0000,0000,0000,,Ya te lo dije, no te conozco.
+Dialogue: 0,0:14:49.93,0:14:51.26,Gen_Main,J,0000,0000,0000,,La piedra filosofal.
+Dialogue: 0,0:14:52.58,0:14:55.48,Gen_Main,J,0000,0000,0000,,Me diste una mitad.
+Dialogue: 0,0:14:55.48,0:14:58.43,Gen_Main,J,0000,0000,0000,,Me salvaste cuando iba a morir.
+Dialogue: 0,0:14:58.43,0:15:00.96,Gen_Main,J,0000,0000,0000,,Y después pasaron muchas cosas.
+Dialogue: 0,0:15:01.29,0:15:04.58,Gen_Main,J,0000,0000,0000,,Fui al castillo de Chinon\Ny me nombraron caballero.
+Dialogue: 0,0:15:04.58,0:15:07.72,Gen_Main,J,0000,0000,0000,,Luchamos contra\Nel ejército inglés en Orleans.
+Dialogue: 0,0:15:07.72,0:15:10.30,Gen_Main,J,0000,0000,0000,,Y cuando me atravesaron el corazón, tú…
+Dialogue: 0,0:15:10.30,0:15:11.21,Gen_Main,M,0000,0000,0000,,Para.
+Dialogue: 0,0:15:11.62,0:15:15.72,Gen_Main,J,0000,0000,0000,,Tú me dijiste que me protegerías.
+Dialogue: 0,0:15:15.72,0:15:17.85,Gen_Main,J,0000,0000,0000,,Que nunca te casarías.
+Dialogue: 0,0:15:17.85,0:15:20.92,Gen_Main,J,0000,0000,0000,,Como los caballeros legendarios\Nque juraban a las nobles,
+Dialogue: 0,0:15:20.13,0:15:22.82,Gen_Italics,,0000,0000,0000,,Para.
+Dialogue: 0,0:15:20.92,0:15:23.36,Gen_Main,J,0000,0000,0000,,mientras mantenían su pureza interior.
+Dialogue: 0,0:15:23.36,0:15:27.60,Gen_Main,M,0000,0000,0000,,¡Para!
+Dialogue: 0,0:15:34.82,0:15:36.58,Gen_Main,J,0000,0000,0000,,¿Dónde estoy ahora?
+Dialogue: 0,0:15:41.38,0:15:42.88,Gen_Main,Catherine,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:15:42.88,0:15:44.79,Gen_Main,M,0000,0000,0000,,Mis hermanitas duermen aquí.
+Dialogue: 0,0:15:45.47,0:15:47.71,Gen_Main,M,0000,0000,0000,,Las chicas que trajeron al castillo…
+Dialogue: 0,0:15:48.00,0:15:51.08,Gen_Main,M,0000,0000,0000,,y murieron en la torre.
+Dialogue: 0,0:15:52.64,0:15:55.48,Gen_Main,M,0000,0000,0000,,Querían volver a casa,\Nver a sus familias.
+Dialogue: 0,0:15:56.05,0:15:58.66,Gen_Main,M,0000,0000,0000,,Lloraron, perdieron\Nla esperanza y murieron.
+Dialogue: 0,0:15:59.20,0:16:01.77,Gen_Main,M,0000,0000,0000,,No pude salvar a ninguna\Nde mis hermanitas.
+Dialogue: 0,0:16:01.77,0:16:04.24,Gen_Main,Catherine,0000,0000,0000,,¡No es culpa tuya!
+Dialogue: 0,0:16:04.24,0:16:06.08,Gen_Main,Catherine,0000,0000,0000,,Jean Barbarroja hizo esto…
+Dialogue: 0,0:16:06.08,0:16:08.04,Gen_Main,M,0000,0000,0000,,El viejo se ha vuelto loco.
+Dialogue: 0,0:16:08.04,0:16:10.68,Gen_Main,M,0000,0000,0000,,Pero la guerra lo hizo así.
+Dialogue: 0,0:16:12.28,0:16:14.88,Gen_Main,M,0000,0000,0000,,Solo los fuertes sobreviven.
+Dialogue: 0,0:16:14.88,0:16:19.24,Gen_Main,M,0000,0000,0000,,Tienes que pisar a alguien\Nu otros te pisarán.
+Dialogue: 0,0:16:19.80,0:16:24.26,Gen_Main,M,0000,0000,0000,,En un mundo así, la gente solo\Npuede ser como Jean Barbarroja.
+Dialogue: 0,0:16:25.04,0:16:29.16,Gen_Main,M,0000,0000,0000,,Aunque muriera, nada cambiaría.
+Dialogue: 0,0:16:29.84,0:16:33.96,Gen_Main,M,0000,0000,0000,,Si no acabamos con las guerras,\Nlas tragedias nunca acabarán.
+Dialogue: 0,0:16:37.54,0:16:39.31,Gen_Main,M,0000,0000,0000,,Alquimia…
+Dialogue: 0,0:16:39.31,0:16:42.50,Gen_Main,M,0000,0000,0000,,Si domino esto,\Nnadie morirá en las guerras.
+Dialogue: 0,0:16:43.10,0:16:47.06,Gen_Main,M,0000,0000,0000,,No, incluso yo podré\Nacabar con las guerras.
+Dialogue: 0,0:16:48.98,0:16:50.65,Gen_Main,J,0000,0000,0000,,Montmorency.
+Dialogue: 0,0:16:52.74,0:16:54.65,Gen_Main,J,0000,0000,0000,,Volvamos juntos a casa.
+Dialogue: 0,0:16:54.65,0:16:56.87,Gen_Main,J,0000,0000,0000,,Acabemos juntos con las tragedias.
+Dialogue: 0,0:16:56.87,0:16:59.02,Gen_Main,J,0000,0000,0000,,Seguro que podremos hacerlo.
+Dialogue: 0,0:16:59.02,0:17:00.74,Gen_Main,J,0000,0000,0000,,Podremos hacerlo juntos.
+Dialogue: 0,0:17:02.77,0:17:04.87,Gen_Main,M,0000,0000,0000,,No podemos estar juntos.
+Dialogue: 0,0:17:04.87,0:17:06.01,Gen_Main,J,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:17:26.53,0:17:28.33,Gen_Main,J,0000,0000,0000,,¿Mi lazo?
+Dialogue: 0,0:17:31.54,0:17:33.16,Gen_Main,M,0000,0000,0000,,He visto…
+Dialogue: 0,0:17:33.16,0:17:34.94,Gen_Main,M,0000,0000,0000,,lo que te pasará.
+Dialogue: 0,0:17:35.72,0:17:37.82,Gen_Main,J,0000,0000,0000,,¿Qué me pasará?
+Dialogue: 0,0:17:42.96,0:17:43.94,Gen_Main,J,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:17:44.34,0:17:47.91,Gen_Main,M,0000,0000,0000,,Vi el flujo del tiempo cuando\Nme convertí en uno con Enlil.
+Dialogue: 0,0:17:48.55,0:17:50.27,Gen_Main,M,0000,0000,0000,,Aprendí mucho del pasado
+Dialogue: 0,0:17:50.27,0:17:52.68,Gen_Main,,0000,0000,0000,,y cosas que pasarán en el futuro.
+Dialogue: 0,0:17:54.22,0:17:55.66,Gen_Main,M,0000,0000,0000,,¿Puedes sentirlo?
+Dialogue: 0,0:17:55.66,0:17:57.58,Gen_Main,M,0000,0000,0000,,No es una ilusión.
+Dialogue: 0,0:17:58.02,0:18:00.55,Gen_Main,M,0000,0000,0000,,Es algo inevitable\Nque pasará en el futuro.
+Dialogue: 0,0:18:02.24,0:18:05.37,Gen_Main,M,0000,0000,0000,,Pero no pasa nada,\Nsiempre que nos quedemos aquí.
+Dialogue: 0,0:18:12.42,0:18:14.04,Gen_Main,J,0000,0000,0000,,Me trae recuerdos.
+Dialogue: 0,0:18:14.04,0:18:17.39,Gen_Main,M,0000,0000,0000,,Sí, estuvimos aquí no hace mucho.
+Dialogue: 0,0:18:17.39,0:18:19.54,Gen_Main,,0000,0000,0000,,Pero parece tan lejano.
+Dialogue: 0,0:18:21.60,0:18:24.82,Gen_Main,M,0000,0000,0000,,Es un mundo falso.
+Dialogue: 0,0:18:25.35,0:18:27.37,Gen_Main,M,0000,0000,0000,,Pero aquí tenemos la eternidad.
+Dialogue: 0,0:18:28.13,0:18:29.51,Gen_Main,M,0000,0000,0000,,Asentémonos aquí.
+Dialogue: 0,0:18:29.94,0:18:32.39,Gen_Main,M,0000,0000,0000,,Olvida el mundo.
+Dialogue: 0,0:18:34.74,0:18:38.09,Gen_Main,M,0000,0000,0000,,Mientras te tenga a ti,\Nes todo lo que necesito.
+Dialogue: 0,0:18:47.65,0:18:50.02,Gen_Main,J,0000,0000,0000,,No podemos, Montmorency.
+Dialogue: 0,0:18:51.56,0:18:54.63,Gen_Main,J,0000,0000,0000,,Hay muchas cosas tristes en el mundo.
+Dialogue: 0,0:18:54.63,0:18:58.46,Gen_Main,J,0000,0000,0000,,Guerra, traición, malentendidos…
+Dialogue: 0,0:18:58.46,0:19:01.36,Gen_Main,J,0000,0000,0000,,Pero amo ese mundo.
+Dialogue: 0,0:19:01.36,0:19:05.66,Gen_Main,J,0000,0000,0000,,A la princesa Charlotte, La Hire,\NAstaroth, Richemont,
+Dialogue: 0,0:19:05.66,0:19:09.16,Gen_Main,J,0000,0000,0000,,Alençon, Batard, Xaintrailles,
+Dialogue: 0,0:19:09.16,0:19:13.01,Gen_Main,J,0000,0000,0000,,los voluntarios de la doncella,\Nlos aldeanos, las hadas…
+Dialogue: 0,0:19:13.01,0:19:15.58,Gen_Main,J,0000,0000,0000,,Amo el mundo en el que vivo.
+Dialogue: 0,0:19:15.58,0:19:17.53,Gen_Main,J,0000,0000,0000,,Seguro que tú te sientes igual.
+Dialogue: 0,0:19:17.53,0:19:21.63,Gen_Main,J,0000,0000,0000,,Por eso aprendiste alquimia,\Npara hacer del mundo un sitio mejor.
+Dialogue: 0,0:19:21.63,0:19:24.56,Gen_Main,M,0000,0000,0000,,Pero ¡tú no estarás allí!
+Dialogue: 0,0:19:24.56,0:19:26.62,Gen_Main,M,0000,0000,0000,,¡No podremos estar juntos!
+Dialogue: 0,0:19:30.63,0:19:36.25,Gen_Main,J,0000,0000,0000,,No, un mundo donde\Nno solo los fuertes sobrevivan…
+Dialogue: 0,0:19:36.25,0:19:40.27,Gen_Main,J,0000,0000,0000,,Un mundo donde las personas\Nsobrevivan sin pisarse entre ellas…
+Dialogue: 0,0:19:40.27,0:19:43.24,Gen_Main,J,0000,0000,0000,,Un mundo que tú y yo crearemos.
+Dialogue: 0,0:19:43.24,0:19:45.13,Gen_Main,J,0000,0000,0000,,Ese mundo seguirá viviendo.
+Dialogue: 0,0:19:45.84,0:19:49.08,Gen_Main,J,0000,0000,0000,,Estaré en las sonrisas de todo el mundo.
+Dialogue: 0,0:19:49.56,0:19:53.05,Gen_Main,J,0000,0000,0000,,Y siempre estaremos juntos, Montmorency.
+Dialogue: 0,0:19:54.77,0:19:59.37,Gen_Main,M,0000,0000,0000,,Idiota, hablas como una verdadera santa.
+Dialogue: 0,0:20:04.08,0:20:07.72,Gen_Main,M,0000,0000,0000,,Te hice sentir sola un momento.
+Dialogue: 0,0:20:08.34,0:20:11.45,Gen_Main,M,0000,0000,0000,,Pero desde ahora,\Nsiempre estaremos juntos.
+Dialogue: 0,0:20:12.58,0:20:13.70,Gen_Main,J,0000,0000,0000,,Volvamos a casa.
+Dialogue: 0,0:20:14.23,0:20:16.17,Gen_Main,J,0000,0000,0000,,A nuestro mundo.
+Dialogue: 0,0:20:16.87,0:20:19.78,Gen_Main,M,0000,0000,0000,,Sí, a nuestro mundo.
+Dialogue: 0,0:20:32.21,0:20:37.06,Gen_Main,M,0000,0000,0000,,¡Sal de mi cuerpo!
+Dialogue: 0,0:20:42.72,0:20:44.65,Gen_Main,E,0000,0000,0000,,Imposible…
+Dialogue: 0,0:20:44.65,0:20:47.30,Gen_Main,E,0000,0000,0000,,¡Esto no puede estar pasando!
+Dialogue: 0,0:20:51.98,0:20:54.62,Gen_Main,E,0000,0000,0000,,¡Maldito!
+Dialogue: 0,0:20:54.62,0:20:56.23,Gen_Main,E,0000,0000,0000,,¡Nave del Cielo!
+Dialogue: 0,0:20:58.73,0:21:02.09,Gen_Main,E,0000,0000,0000,,Falsa utopía…
+Dialogue: 0,0:21:02.09,0:21:04.17,Gen_Main,E,0000,0000,0000,,Un mundo sin dioses…
+Dialogue: 0,0:21:04.17,0:21:06.86,Gen_Main,E,0000,0000,0000,,¡no puede existir!
+Dialogue: 0,0:21:13.99,0:21:15.96,Gen_Main,M,0000,0000,0000,,Hemos sido elegidos.
+Dialogue: 0,0:21:15.96,0:21:19.09,Gen_Main,M,0000,0000,0000,,No por los dioses ni por el destino.
+Dialogue: 0,0:21:19.09,0:21:22.51,Gen_Main,J,0000,0000,0000,,¡Tú me elegiste y yo te elegí!
+Dialogue: 0,0:21:22.51,0:21:26.34,Gen_Main,M,0000,0000,0000,,Debe ser algo que no pueda\Nconseguir uno solo.
+Dialogue: 0,0:21:26.34,0:21:28.43,Gen_Main,M,0000,0000,0000,,Debemos conseguirlo juntos.
+Dialogue: 0,0:21:28.43,0:21:32.63,Gen_Main,M,0000,0000,0000,,¡Nuestras eternidades existen\Nen el mundo que cambiaremos!
+Dialogue: 0,0:21:37.02,0:21:39.64,Gen_Main,E,0000,0000,0000,,¡Imposible!
+Dialogue: 0,0:21:41.52,0:21:43.79,Gen_Main,M,0000,0000,0000,,Te ha llegado la hora.
+Dialogue: 0,0:21:43.79,0:21:47.03,Gen_Main,M,0000,0000,0000,,¡Crearemos este mundo\Ncon nuestras manos!
+Dialogue: 0,0:21:47.03,0:21:50.03,Cart_Nota,,0000,0000,0000,,Continuará
+Dialogue: 0,0:23:20.00,0:23:35.01,Ep Title,TS,0000,0000,0000,,#12 En este maravilloso mundo
+Dialogue: 0,0:23:21.07,0:23:23.76,Gen_Main,M,0000,0000,0000,,Seguiremos caminando\Npor el mundo sin dioses.
+Dialogue: 0,0:23:23.76,0:23:25.71,Gen_Main,M,0000,0000,0000,,Nuestras huellas desaparecerán.
+Dialogue: 0,0:23:25.71,0:23:27.58,Gen_Main,M,0000,0000,0000,,¡Pero nuestros sentimientos no!
+Dialogue: 0,0:23:27.58,0:23:30.38,Gen_Main,M,0000,0000,0000,,¡Se convertirán en historia\Ntoda la eternidad!
+Dialogue: 0,0:23:30.38,0:23:32.91,Gen_Main,M,0000,0000,0000,,Episodio final:\N"En este maravilloso mundo".
+Dialogue: 0,0:23:32.91,0:23:35.01,Gen_Main,M,0000,0000,0000,,¡Pechos para siempre!
+Dialogue: 0,0:23:35.45,0:23:38.53,Cart_A_Ari,,0000,0000,0000,,Francés que parece inútil, pero no lo es
+Dialogue: 0,0:23:35.48,0:23:38.52,Cart_A_Ari,,0000,0000,0000,,{\an2\c&HD3DBCA&}¡"Protege las joyas de la familia"!\N{\fs18}¡Usadlo cuando tengáis que proteger algo importante!
