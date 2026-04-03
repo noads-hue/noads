@@ -1,0 +1,374 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: untitled
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,20,20,22,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.81,0:00:16.04,Gen_Main,,0,0,0,,Días de Midori
+Dialogue: 0,0:00:16.25,0:00:20.55,Gen_Main,,0,0,0,,El latido de mi corazón.
+Dialogue: 0,0:00:22.86,0:00:27.95,Gen_Main,,0,0,0,,Un deseo que llena incluso un suspiro.
+Dialogue: 0,0:00:28.90,0:00:34.67,Gen_Main,,0,0,0,,Una sensación de calor\Nsolo con mirarte.
+Dialogue: 0,0:00:34.87,0:00:40.53,Gen_Main,,0,0,0,,Buscando errores\Nen un amor cobarde.
+Dialogue: 0,0:00:42.61,0:00:47.64,Gen_Main,,0,0,0,,Esa torpe amabilidad tuya.
+Dialogue: 0,0:00:47.78,0:00:55.09,Gen_Main,,0,0,0,,Las gotas fugaces\Nquiero guardarlas para mí.
+Dialogue: 0,0:00:56.26,0:01:02.82,Gen_Main,,0,0,0,,Creer solo en estos sentimientos desbordantes\Ncomo si todo pasara rápidamente.
+Dialogue: 0,0:01:03.00,0:01:09.16,Gen_Main,,0,0,0,,¡Algún día quiero ser especial para ti!\N¡Atrápame con todo tu corazón!
+Dialogue: 0,0:01:09.27,0:01:18.58,Gen_Main,,0,0,0,,Mi corazón baila en diferentes colores\Nmientras su melodía resuena hacia ti.
+Dialogue: 0,0:01:18.68,0:01:25.24,Gen_Main,,0,0,0,,Aférrate fuerte a estos días amados...
+Dialogue: 0,0:01:30.99,0:01:32.48,Gen_Main,,0,0,0,,¡Vaya!
+Dialogue: 0,0:01:32.69,0:01:36.19,Gen_Main,,0,0,0,,Mira, Seiji.\NHace un día muy bonito hoy.
+Dialogue: 0,0:01:36.30,0:01:38.49,Gen_Main,,0,0,0,,Payasa silenciosa.
+Dialogue: 0,0:01:38.77,0:01:42.22,Gen_Main,,0,0,0,,Al menos déjame dormir hasta tarde un domingo.
+Dialogue: 0,0:01:42.44,0:01:46.37,Gen_Main,,0,0,0,,Pero sería una lástima\Nno airear el futón.
+Dialogue: 0,0:01:47.14,0:01:49.44,Gen_Main,,0,0,0,,Ah... Lo siento.
+Dialogue: 0,0:01:51.48,0:01:55.92,Gen_Main,,0,0,0,,Bueno, de todos modos es aburrido estar en casa.\NVamos a dar una vuelta.
+Dialogue: 0,0:01:57.08,0:01:58.11,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:58.29,0:02:02.35,Gen_Main,,0,0,0,,Estoy feliz de salir contigo\Nen un día libre tan bonito.
+Dialogue: 0,0:02:02.46,0:02:05.92,Gen_Main,,0,0,0,,Tal como están las cosas,\Nno puedes evitar estar "conmigo".
+Dialogue: 0,0:02:06.03,0:02:08.46,Gen_Main,,0,0,0,,Aun así, estoy FELIZ-
+Dialogue: 0,0:02:08.56,0:02:10.46,Gen_Main,,0,0,0,,Bien, bien, como quieras.
+Dialogue: 0,0:02:10.56,0:02:12.83,Gen_Main,,0,0,0,,¡Sálvame, Hermano Mayor!
+Dialogue: 0,0:02:12.97,0:02:13.83,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:02:15.80,0:02:18.70,Gen_Main,,0,0,0,,¡Hermano Mayor, llévame y corre!
+Dialogue: 0,0:02:18.81,0:02:20.50,Gen_Main,,0,0,0,,¡Q-qué demonios!
+Dialogue: 0,0:02:25.15,0:02:29.98,Gen_Main,,0,0,0,,Día 6\NLa gran estrategia de amor de Shiori
+Dialogue: 0,0:02:30.18,0:02:35.31,Gen_Main,,0,0,0,,Íbamos a salir en familia, pero\Nparece que a Shiori no le interesa.
+Dialogue: 0,0:02:35.46,0:02:39.45,Gen_Main,,0,0,0,,Bueno, son recién casados.
+Dialogue: 0,0:02:39.56,0:02:43.39,Gen_Main,,0,0,0,,Quería que pasaran\Nsu día libre solos, solo ellos dos.
+Dialogue: 0,0:02:43.50,0:02:45.19,Gen_Main,,0,0,0,,Por eso...
+Dialogue: 0,0:02:45.37,0:02:49.20,Gen_Main,,0,0,0,,Shiori... así que esa era la razón.
+Dialogue: 0,0:02:53.21,0:02:57.20,Gen_Main,,0,0,0,,¡Sawamura! Por favor, cuida de Shiori.
+Dialogue: 0,0:02:57.31,0:02:58.30,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:02:59.78,0:03:03.74,Gen_Main,,0,0,0,,Oh, papá, "Por favor, cuida de\Nmi hija para siempre".
+Dialogue: 0,0:03:03.85,0:03:05.94,Gen_Main,,0,0,0,,¡Eso no es lo que me dijo!
+Dialogue: 0,0:03:06.05,0:03:08.02,Gen_Main,,0,0,0,,Dime, Shiori.
+Dialogue: 0,0:03:08.86,0:03:12.22,Gen_Main,,0,0,0,,Vamos juntos.\NEstaba deseando...
+Dialogue: 0,0:03:13.13,0:03:16.10,Gen_Main,,0,0,0,,No te molestes conmigo. Solo vete.
+Dialogue: 0,0:03:26.31,0:03:28.67,Gen_Main,,0,0,0,,¿Por qué está pasando esto?
+Dialogue: 0,0:03:29.38,0:03:33.40,Gen_Main,,0,0,0,,¡Mi papá te dijo que cuidaras de mí!
+Dialogue: 0,0:03:33.61,0:03:36.28,Gen_Main,,0,0,0,,Cielos, supongo que no me queda de otra.
+Dialogue: 0,0:03:36.65,0:03:40.02,Gen_Main,,0,0,0,,Pero mi tiempo a solas con Seiji...
+Dialogue: 0,0:03:40.12,0:03:42.09,Gen_Main,,0,0,0,,Para de hacer pucheros.
+Dialogue: 0,0:03:46.36,0:03:50.23,Gen_Main,,0,0,0,,Entonces, otro chico de mi clase\Nse me confesó.
+Dialogue: 0,0:03:50.33,0:03:55.43,Gen_Main,,0,0,0,,Ya es el sexto. Me dan igual\Nlos chicos de mi edad.
+Dialogue: 0,0:03:55.54,0:03:58.16,Gen_Main,,0,0,0,,¿En serio? Qué lástima.
+Dialogue: 0,0:03:59.11,0:04:02.47,Gen_Main,,0,0,0,,Aunque yo sería tu novia cuando quieras.
+Dialogue: 0,0:04:02.58,0:04:05.74,Gen_Main,,0,0,0,,Gracias, lo tendré en cuenta.
+Dialogue: 0,0:04:05.85,0:04:08.75,Gen_Main,,0,0,0,,¡Otra vez me tratas como niña!
+Dialogue: 0,0:04:08.85,0:04:13.81,Gen_Main,,0,0,0,,Olvida eso. Tu familia estaba\Ntoda lista para salir juntos...
+Dialogue: 0,0:04:14.05,0:04:16.15,Gen_Main,,0,0,0,,¿Estás segura de esto?
+Dialogue: 0,0:04:16.32,0:04:17.95,Gen_Main,,0,0,0,,No importa.
+Dialogue: 0,0:04:19.63,0:04:24.83,Gen_Main,,0,0,0,,Me cansa un poco ver\Na esa señora esforzarse tanto...
+Dialogue: 0,0:04:25.00,0:04:26.63,Gen_Main,,0,0,0,,¿Esa señora?
+Dialogue: 0,0:04:27.03,0:04:31.80,Gen_Main,,0,0,0,,Quiero decir, no importa cuánto se esfuerce\Nla persona con la que mi papá se volvió a casar...
+Dialogue: 0,0:04:32.07,0:04:36.53,Gen_Main,,0,0,0,,...mi mamá en el cielo es mi única mamá.
+Dialogue: 0,0:04:41.45,0:04:43.92,Gen_Main,,0,0,0,,Oye, vamos a jugar-
+Dialogue: 0,0:04:44.12,0:04:45.61,Gen_Main,,0,0,0,,Sí, sí.
+Dialogue: 0,0:04:53.73,0:04:57.03,Gen_Main,,0,0,0,,Para de aferrarte. Hace que sea difícil caminar.
+Dialogue: 0,0:04:57.26,0:05:01.29,Gen_Main,,0,0,0,,Vamos, tengo miedo de\Nperderme en esta multitud.
+Dialogue: 0,0:05:01.40,0:05:03.67,Gen_Main,,0,0,0,,Además, está bien porque es una cita.
+Dialogue: 0,0:05:05.27,0:05:07.00,Gen_Main,,0,0,0,,¿C-cita?
+Dialogue: 0,0:05:07.11,0:05:08.60,Gen_Main,,0,0,0,,Para de hacer pucheros.
+Dialogue: 0,0:05:09.04,0:05:11.01,Gen_Main,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:05:11.34,0:05:12.00,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:05:12.81,0:05:14.18,Gen_Main,,0,0,0,,¿Sawamura?
+Dialogue: 0,0:05:14.45,0:05:15.71,Gen_Main,,0,0,0,,Hermano Mayor.
+Dialogue: 0,0:05:16.48,0:05:18.85,Gen_Main,,0,0,0,,Esa chica del otro día...
+Dialogue: 0,0:05:20.05,0:05:24.15,Gen_Main,,0,0,0,,¡¿Q-q-q-qué?! ¿Está Sawamura en una\Ncita con una niña pequeña?
+Dialogue: 0,0:05:24.86,0:05:26.12,Gen_Main,,0,0,0,,No puede ser...
+Dialogue: 0,0:05:27.43,0:05:28.45,Gen_Main,,0,0,0,,Pero...
+Dialogue: 0,0:05:30.30,0:05:31.46,Gen_Main,,0,0,0,,¿Y bien?
+Dialogue: 0,0:05:31.73,0:05:36.43,Gen_Main,,0,0,0,,¿No soy mucho mejor que\Nesas mujeres de más de veinte?
+Dialogue: 0,0:05:37.47,0:05:40.63,Gen_Main,,0,0,0,,Valió la pena salir contigo\Ndesde que eras pequeño.
+Dialogue: 0,0:05:40.77,0:05:42.97,Gen_Main,,0,0,0,,¿Y si eso pasa?
+Dialogue: 0,0:05:43.08,0:05:47.04,Gen_Main,,0,0,0,,¡Ah, idiota estúpido, no hay\Nforma de que sea así!
+Dialogue: 0,0:05:47.15,0:05:50.74,Gen_Main,,0,0,0,,¡Vamos, tomemos unas fotos juntos!
+Dialogue: 0,0:05:50.88,0:05:52.65,Gen_Main,,0,0,0,,Sí, claro.
+Dialogue: 0,0:05:55.76,0:05:59.56,Gen_Main,,0,0,0,,¡Fotos de pareja!\NY mira cómo se aferra a él...
+Dialogue: 0,0:05:59.73,0:06:02.09,Gen_Main,,0,0,0,,¡Será mejor que empiece a moverme!
+Dialogue: 0,0:06:03.73,0:06:04.70,Gen_Main,,0,0,0,,¡Tsumo!
+Dialogue: 0,0:06:04.80,0:06:09.10,Gen_Main,,0,0,0,,Conjunto puro de nueve linternas,\Nlímite triple cuádruple... 96,000 puntos.
+Dialogue: 0,0:06:13.01,0:06:15.41,Gen_Main,,0,0,0,,Oye, Hermano Mayor, hagamos esto ahora.
+Dialogue: 0,0:06:15.51,0:06:16.37,Gen_Main,,0,0,0,,
+Dialogue: 0,0:06:16.74,0:06:19.91,Gen_Main,,0,0,0,,Tienes agallas al retarme\Na un juego de pelea.
+Dialogue: 0,0:06:20.01,0:06:21.50,Gen_Main,,0,0,0,,¡Vamos a intentarlo!
+Dialogue: 0,0:06:21.62,0:06:22.84,Gen_Main,,0,0,0,,¡No perderé!
+Dialogue: 0,0:06:28.26,0:06:29.81,Gen_Main,,0,0,0,,Veamos...
+Dialogue: 0,0:06:30.92,0:06:32.48,Gen_Main,,0,0,0,,¡Voy a ganar!
+Dialogue: 0,0:06:36.76,0:06:37.39,Gen_Main,,0,0,0,,¡Pelea!
+Dialogue: 0,0:06:45.44,0:06:45.84,Gen_Main,,0,0,0,,¡Ganador! ¡Nyan Nyan! ¡Yay!
+Dialogue: 0,0:06:45.84,0:06:47.47,Gen_Main,,0,0,0,,¡Ganador! ¡Nyan Nyan! ¡Yay!\N¡Soy el mejor del mundo!
+Dialogue: 0,0:06:47.47,0:06:48.27,Gen_Main,,0,0,0,,¡Soy el mejor del mundo!
+Dialogue: 0,0:06:48.44,0:06:49.84,Gen_Main,,0,0,0,,¡Yay!
+Dialogue: 0,0:06:49.98,0:06:51.54,Gen_Main,,0,0,0,,¡De acuerdo!
+Dialogue: 0,0:06:52.25,0:06:54.08,Gen_Main,,0,0,0,,¡Q-qué!
+Dialogue: 0,0:06:54.25,0:06:57.88,Gen_Main,,0,0,0,,Nunca pierdo en juegos de pelea...
+Dialogue: 0,0:06:58.59,0:06:59.45,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:01.59,0:07:02.32,Gen_Main,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:07:02.32,0:07:03.38,Gen_Main,,0,0,0,,¡N-nada!
+Dialogue: 0,0:07:03.62,0:07:05.06,Gen_Main,,0,0,0,,Espera un segundo.
+Dialogue: 0,0:07:05.16,0:07:06.92,Gen_Main,,0,0,0,,Oye, ¿estás bien?
+Dialogue: 0,0:07:07.03,0:07:11.16,Gen_Main,,0,0,0,,Lo siento. No sé\Nqué botón es cuál...
+Dialogue: 0,0:07:11.33,0:07:12.66,Gen_Main,,0,0,0,,Es cierto...
+Dialogue: 0,0:07:13.83,0:07:17.33,Gen_Main,,0,0,0,,Bien, yo daré las órdenes, así que\Npresiona los botones que te diga.
+Dialogue: 0,0:07:17.44,0:07:19.24,Gen_Main,,0,0,0,,¡De acuerdo! Lo intentaré.
+Dialogue: 0,0:07:19.41,0:07:21.17,Gen_Main,,0,0,0,,¿Estás listo?
+Dialogue: 0,0:07:21.27,0:07:24.47,Gen_Main,,0,0,0,,¡Sí! ¡Esta vez no seré suave contigo!
+Dialogue: 0,0:07:29.45,0:07:30.92,Gen_Main,,0,0,0,,¡Ahora! ¡El botón A!
+Dialogue: 0,0:07:30.92,0:07:31.51,Gen_Main,,0,0,0,,¡Entendido!
+Dialogue: 0,0:07:33.12,0:07:34.85,Gen_Main,,0,0,0,,¡Mantén presionado A y pulsa C!
+Dialogue: 0,0:07:34.96,0:07:35.44,Gen_Main,,0,0,0,,¡Entendido!
+Dialogue: 0,0:07:36.72,0:07:42.03,Gen_Main,,0,0,0,,¡Inicia un combo! ¡Sigue machacando\Ntodos los botones así!
+Dialogue: 0,0:07:49.10,0:07:50.23,Gen_Main,,0,0,0,,¡Aún no!
+Dialogue: 0,0:07:52.64,0:07:54.33,Gen_Main,,0,0,0,,¡A! ¡A! ¡D! ¡B! ¡C!
+Dialogue: 0,0:08:03.88,0:08:05.28,Gen_Main,,0,0,0,,¡Maldición!
+Dialogue: 0,0:08:05.39,0:08:09.05,Gen_Main,,0,0,0,,¡Levántate! ¡Ponte de pie, Arashi!
+Dialogue: 0,0:08:11.52,0:08:13.75,Gen_Main,,0,0,0,,Eres mío. ¡Toma esto!
+Dialogue: 0,0:08:16.06,0:08:17.93,Gen_Main,,0,0,0,,¡E-estoy acabado!
+Dialogue: 0,0:08:20.80,0:08:21.67,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:08:25.04,0:08:26.47,Gen_Main,,0,0,0,,¡Es muy fuerte!
+Dialogue: 0,0:08:31.04,0:08:32.71,Gen_Main,,0,0,0,,¡Ganador, Arashi!
+Dialogue: 0,0:08:32.81,0:08:33.71,Gen_Main,,0,0,0,,¡Sí!
+Dialogue: 0,0:08:34.08,0:08:36.41,Gen_Main,,0,0,0,,Hermano Mayor, eres increíble...
+Dialogue: 0,0:08:36.88,0:08:37.68,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:08:42.46,0:08:45.91,Gen_Main,,0,0,0,,¡Oye! ¿Qué le estás haciendo\Na mi novio?
+Dialogue: 0,0:08:46.03,0:08:47.65,Gen_Main,,0,0,0,,¿Novio?
+Dialogue: 0,0:08:48.23,0:08:51.03,Gen_Main,,0,0,0,,Oye, salir con una niña de primaria...
+Dialogue: 0,0:08:51.13,0:08:52.90,Gen_Main,,0,0,0,,¿Eres estúpido?
+Dialogue: 0,0:08:53.03,0:08:56.49,Gen_Main,,0,0,0,,Oh, ya entiendo, estás\Ncuidando a una niña del vecindario.
+Dialogue: 0,0:08:56.60,0:08:58.87,Gen_Main,,0,0,0,,Realmente me tenías preocupada.
+Dialogue: 0,0:08:58.97,0:09:01.87,Gen_Main,,0,0,0,,¿Y qué estás haciendo\Ntú rondando por ahí sola?
+Dialogue: 0,0:09:02.04,0:09:05.74,Gen_Main,,0,0,0,,De vez en cuando pienso\Nque debería pasar por casa.
+Dialogue: 0,0:09:05.88,0:09:08.35,Gen_Main,,0,0,0,,Solo vienes a casa\Ncuando te da la gana.
+Dialogue: 0,0:09:08.45,0:09:09.97,Gen_Main,,0,0,0,,¿Qué dijiste?
+Dialogue: 0,0:09:10.08,0:09:13.49,Gen_Main,,0,0,0,,No, nada. Voy al baño.
+Dialogue: 0,0:09:13.82,0:09:17.35,Gen_Main,,0,0,0,,Maldita sea, esa era una\Nbuena oportunidad también...
+Dialogue: 0,0:09:20.79,0:09:25.32,Gen_Main,,0,0,0,,Apuesto a que estás loca por Seiji.\NAunque lo escondas, lo noto.
+Dialogue: 0,0:09:25.43,0:09:29.03,Gen_Main,,0,0,0,,Estás molesta porque no puedes\Nestar a solas con él, ¿verdad?
+Dialogue: 0,0:09:29.14,0:09:32.90,Gen_Main,,0,0,0,,¿Quieres que él te note, no es así?\N¡Lárgate!
+Dialogue: 0,0:09:33.01,0:09:34.47,Gen_Main,,0,0,0,,¿Y a ti qué te importa?
+Dialogue: 0,0:09:34.57,0:09:37.34,Gen_Main,,0,0,0,,Estaría dispuesta a ayudarte si quieres...
+Dialogue: 0,0:09:38.55,0:09:43.38,Gen_Main,,0,0,0,,Lo que digo es, deja que la hermana mayor\NO-Rin sea tu entrenadora especial...
+Dialogue: 0,0:09:43.52,0:09:48.22,Gen_Main,,0,0,0,,...porque ella conoce todos\Nlos detalles sobre Seiji.
+Dialogue: 0,0:09:50.42,0:09:53.02,Gen_Main,,0,0,0,,Días de Midori
+Dialogue: 0,0:09:55.46,0:09:58.02,Gen_Main,,0,0,0,,Días de Midori
+Dialogue: 0,0:09:58.50,0:10:01.66,Gen_Main,,0,0,0,,Gracias por cuidar de Shiori.\NNo es gran cosa...
+Dialogue: 0,0:10:03.00,0:10:04.40,Gen_Main,,0,0,0,,¡No hay de qué preocuparse!
+Dialogue: 0,0:10:04.57,0:10:08.34,Gen_Main,,0,0,0,,Lo vigilé para que no\Nle hicera nada malo a ella.
+Dialogue: 0,0:10:08.44,0:10:10.34,Gen_Main,,0,0,0,,¡No hagas comentarios raros como ese!
+Dialogue: 0,0:10:10.44,0:10:11.10,Gen_Main,,0,0,0,,Shiori.
+Dialogue: 0,0:10:11.48,0:10:12.71,Gen_Main,,0,0,0,,¡Sí, señora!
+Dialogue: 0,0:10:15.72,0:10:16.38,Gen_Main,,0,0,0,,¿Entendido?
+Dialogue: 0,0:10:16.48,0:10:19.08,Gen_Main,,0,0,0,,¡Sí! ¡Espero que funcione, entrenadora!
+Dialogue: 0,0:10:19.19,0:10:19.74,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:10:19.99,0:10:22.46,Gen_Main,,0,0,0,,¿Entrenadora? ¿De qué va eso?
+Dialogue: 0,0:10:23.76,0:10:25.28,Gen_Main,,0,0,0,,¡Es un secreto!
+Dialogue: 0,0:10:25.43,0:10:27.79,Gen_Main,,0,0,0,,Hermana, ¿qué le has estado diciendo?
+Dialogue: 0,0:10:27.89,0:10:28.95,Gen_Main,,0,0,0,,No mucho.
+Dialogue: 0,0:10:29.73,0:10:32.16,Gen_Main,,0,0,0,,Vamos a casa ahora, Shiori.
+Dialogue: 0,0:10:36.90,0:10:38.13,Gen_Main,,0,0,0,,Shiori.
+Dialogue: 0,0:10:42.31,0:10:44.57,Gen_Main,,0,0,0,,Solo vámonos ya.
+Dialogue: 0,0:10:57.89,0:11:02.42,Gen_Main,,0,0,0,,Los usos de la conjunción\N"as" son numerosos...
+Dialogue: 0,0:11:02.56,0:11:08.13,Gen_Main,,0,0,0,,...y fácilmente puede parecer complejo.
+Dialogue: 0,0:11:08.57,0:11:10.56,Gen_Main,,0,0,0,,Por ejemplo, en el #1
+Dialogue: 0,0:11:11.20,0:11:12.80,Gen_Main,,0,0,0,,¿Ayase?
+Dialogue: 0,0:11:22.58,0:11:25.45,Gen_Main,,0,0,0,,Sé lo dulce que\Nse ve su rostro dormido...
+Dialogue: 0,0:11:25.55,0:11:28.39,Gen_Main,,0,0,0,,Pero no tienes que\Nmirarlo tanto.
+Dialogue: 0,0:11:34.73,0:11:35.72,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:11:38.23,0:11:39.89,Gen_Main,,0,0,0,,Sa-Sawamura...
+Dialogue: 0,0:11:40.03,0:11:40.76,Gen_Main,,0,0,0,,¡Ah!
+Dialogue: 0,0:11:42.27,0:11:44.33,Gen_Main,,0,0,0,,Oye, Sawamura...
+Dialogue: 0,0:11:50.01,0:11:50.91,Gen_Main,,0,0,0,,¿Sawamura?
+Dialogue: 0,0:11:51.01,0:11:51.74,Gen_Main,,0,0,0,,¡Ay!
+Dialogue: 0,0:11:51.84,0:11:53.07,Gen_Main,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:11:53.15,0:11:54.38,Gen_Main,,0,0,0,,Sí...
+Dialogue: 0,0:12:00.62,0:12:02.36,Gen_Main,,0,0,0,,Lamento lo que pasó...
+Dialogue: 0,0:12:02.36,0:12:03.65,Gen_Main,,0,0,0,,Déjalo.\NLamento lo que pasó...
+Dialogue: 0,0:12:04.52,0:12:05.79,Gen_Main,,0,0,0,,¡Llegué!
+Dialogue: 0,0:12:06.46,0:12:08.52,Gen_Main,,0,0,0,,Bienvenido.
+Dialogue: 0,0:12:09.00,0:12:09.89,Gen_Main,,0,0,0,,¡Qué demonios!
+Dialogue: 0,0:12:10.13,0:12:12.00,Gen_Main,,0,0,0,,¿Qué rayos estás haciendo?
+Dialogue: 0,0:12:12.10,0:12:14.69,Gen_Main,,0,0,0,,Quería que me ayudaras con\Nla tarea...
+Dialogue: 0,0:12:14.80,0:12:15.89,Gen_Main,,0,0,0,,¿Tarea?
+Dialogue: 0,0:12:16.00,0:12:20.37,Gen_Main,,0,0,0,,B-bueno, supongo que puedo\Nmanejar la tarea de primaria...
+Dialogue: 0,0:12:22.61,0:12:26.01,Gen_Main,,0,0,0,,Primer paso, saludarlo\Ncomo una joven esposa... ¡listo!
+Dialogue: 0,0:12:26.11,0:12:29.67,Gen_Main,,0,0,0,,¡La encantadora estrategia de amor\Nproducida por Rin!
+Dialogue: 0,0:12:29.78,0:12:31.98,Gen_Main,,0,0,0,,¡La diversión apenas comienza!
+Dialogue: 0,0:12:36.72,0:12:37.42,Gen_Main,,0,0,0,,
+Dialogue: 0,0:12:38.73,0:12:41.79,Gen_Main,,0,0,0,,Entonces, no entiendo esta parte...
+Dialogue: 0,0:12:42.03,0:12:45.43,Gen_Main,,0,0,0,,¿Qué te parece mi look con gafas?
+Dialogue: 0,0:12:45.57,0:12:48.50,Gen_Main,,0,0,0,,Ahora tendré su corazón\Nen mis garras...
+Dialogue: 0,0:12:48.64,0:12:51.23,Gen_Main,,0,0,0,,¿Tienes mala vista?
+Dialogue: 0,0:12:51.47,0:12:54.10,Gen_Main,,0,0,0,,Voy por mi estuche de lápices.
+Dialogue: 0,0:12:54.41,0:12:58.07,Gen_Main,,0,0,0,,No funcionó, entrenadora.\NNo responde en absoluto.
+Dialogue: 0,0:12:58.21,0:13:02.81,Gen_Main,,0,0,0,,Bueno, pensé que era del tipo\Nque le gustaban las chicas con gafas...
+Dialogue: 0,0:13:03.02,0:13:06.21,Gen_Main,,0,0,0,,¡Bien! ¡Al siguiente plan!\N¡Vamos, Shiori!
+Dialogue: 0,0:13:06.32,0:13:07.48,Gen_Main,,0,0,0,,¡Sí, entrenadora!
+Dialogue: 0,0:13:07.92,0:13:10.22,Gen_Main,,0,0,0,,Perdón por tardar tanto, Hermano Mayor.
+Dialogue: 0,0:13:10.76,0:13:14.32,Gen_Main,,0,0,0,,¿Qué te parece mi look\Ncon uniforme de marinero?
+Dialogue: 0,0:13:14.46,0:13:19.49,Gen_Main,,0,0,0,,¡Ese es el uniforme escolar de mi hermana!\N¡Te mataría si te viera con él!
+Dialogue: 0,0:13:19.60,0:13:22.76,Gen_Main,,0,0,0,,¡Oh no, qué miedo!\N¡Mejor me lo quito rápido!
+Dialogue: 0,0:13:25.97,0:13:28.10,Gen_Main,,0,0,0,,¡Todavía hay esperanza!
+Dialogue: 0,0:13:28.21,0:13:28.90,Gen_Main,,0,0,0,,¡Oye!
+Dialogue: 0,0:13:31.14,0:13:34.81,Gen_Main,,0,0,0,,Te vas a resfriar con eso.\NToma, ponte esto.
+Dialogue: 0,0:13:34.95,0:13:35.97,Gen_Main,,0,0,0,,Hmm...
+Dialogue: 0,0:13:36.65,0:13:39.68,Gen_Main,,0,0,0,,No pensé que sería tan difícil...
+Dialogue: 0,0:13:39.79,0:13:42.78,Gen_Main,,0,0,0,,¡Pero no hay tiempo para\Ndepresiones, Shiori!
+Dialogue: 0,0:13:43.59,0:13:46.92,Gen_Main,,0,0,0,,¡Ahora tendremos que ir con todo!
+Dialogue: 0,0:13:47.09,0:13:48.53,Gen_Main,,0,0,0,,¡Perdón por la espera!
+Dialogue: 0,0:13:48.76,0:13:52.49,Gen_Main,,0,0,0,,Quiero que me ayudes a estudiar,\Namaestro. ¡Miau!
+Dialogue: 0,0:13:54.57,0:13:57.87,Gen_Main,,0,0,0,,¡Achú! ¡Enséñame a estudiar ahora!
+Dialogue: 0,0:13:59.34,0:14:03.28,Gen_Main,,0,0,0,,¡Ven! ¡Te ordeno que me instruyas!
+Dialogue: 0,0:14:03.58,0:14:05.41,Gen_Main,,0,0,0,,¡Ya basta de eso!
+Dialogue: 0,0:14:05.55,0:14:08.45,Gen_Main,,0,0,0,,¡Si no te lo tomas en serio, vete a casa!
+Dialogue: 0,0:14:09.78,0:14:10.75,Gen_Main,,0,0,0,,Seiji...
+Dialogue: 0,0:14:10.85,0:14:11.78,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:14:11.95,0:14:15.72,Gen_Main,,0,0,0,,¿Podría ser esto obra\Nde tu hermana?
+Dialogue: 0,0:14:15.82,0:14:16.81,Gen_Main,,0,0,0,,
+Dialogue: 0,0:14:16.99,0:14:18.18,Gen_Main,,0,0,0,,No sé.
+Dialogue: 0,0:14:18.36,0:14:19.59,Gen_Main,,0,0,0,,¡Mientes!
+Dialogue: 0,0:14:19.76,0:14:24.03,Gen_Main,,0,0,0,,¿Quién más que tú haría que una niña\Nhiciera cosas estúpidas como esas?
+Dialogue: 0,0:14:24.83,0:14:27.63,Gen_Main,,0,0,0,,La niña estaba deprimida.
+Dialogue: 0,0:14:27.73,0:14:28.57,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:14:29.14,0:14:32.80,Gen_Main,,0,0,0,,No estaba segura de ser\Natractiva como mujer...
+Dialogue: 0,0:14:32.91,0:14:36.00,Gen_Main,,0,0,0,,¿Atractiva? Todavía es una niña.
+Dialogue: 0,0:14:36.11,0:14:38.81,Gen_Main,,0,0,0,,Aunque sea una niña,\Nsigue siendo una chica.
+Dialogue: 0,0:14:38.91,0:14:42.44,Gen_Main,,0,0,0,,No puedes herir\Nsus delicados sentimientos.
+Dialogue: 0,0:14:42.55,0:14:44.38,Gen_Main,,0,0,0,,No quiero escuchar eso de ti.
+Dialogue: 0,0:14:44.48,0:14:46.51,Gen_Main,,0,0,0,,¡El baño está listo!\N¡Lo sé!
+Dialogue: 0,0:14:47.15,0:14:49.49,Gen_Main,,0,0,0,,Qué hermana tan insoportable...
+Dialogue: 0,0:14:51.49,0:14:54.98,Gen_Main,,0,0,0,,Pero es inesperadamente considerada.
+Dialogue: 0,0:14:55.16,0:14:57.26,Gen_Main,,0,0,0,,Está preocupada por Shiori...
+Dialogue: 0,0:14:57.36,0:14:59.89,Gen_Main,,0,0,0,,¡Eso es solo estúpido e ingenuo!
+Dialogue: 0,0:15:00.03,0:15:03.97,Gen_Main,,0,0,0,,Es una ogresa que\Nle gusta atrapar a la gente.
+Dialogue: 0,0:15:04.07,0:15:07.63,Gen_Main,,0,0,0,,Si le abres tu corazón, jugará\Ncontigo hasta el día de tu muerte.
+Dialogue: 0,0:15:13.81,0:15:16.94,Gen_Main,,0,0,0,,¿Qué le estás haciendo hacer a esta niña?
+Dialogue: 0,0:15:19.15,0:15:22.78,Gen_Main,,0,0,0,,Un encuentro casual en\Nel baño, por supuesto.
+Dialogue: 0,0:15:22.99,0:15:26.39,Gen_Main,,0,0,0,,Jugar con los sentimientos de la gente...
+Dialogue: 0,0:15:26.86,0:15:29.42,Gen_Main,,0,0,0,,¡Esta broma ha ido demasiado lejos!
+Dialogue: 0,0:15:29.60,0:15:31.19,Gen_Main,,0,0,0,,¡Es imperdonable!
+Dialogue: 0,0:15:31.30,0:15:35.50,Gen_Main,,0,0,0,,Ven, pequeño. No te arrepientas\Nuna vez que estés muerto.
+Dialogue: 0,0:15:36.17,0:15:38.60,Gen_Main,,0,0,0,,¡Para! Por favor.
+Dialogue: 0,0:15:39.17,0:15:42.01,Gen_Main,,0,0,0,,¡Ambos dejen de pelear!
+Dialogue: 0,0:15:42.41,0:15:45.94,Gen_Main,,0,0,0,,Tu hermana estaba intentando ayudarme.
+Dialogue: 0,0:15:46.51,0:15:49.50,Gen_Main,,0,0,0,,Quiero decir, realmente me gustas mucho.
+Dialogue: 0,0:15:49.72,0:15:54.62,Gen_Main,,0,0,0,,Pero no me tomas en serio\Nporque soy una niña.
+Dialogue: 0,0:15:54.82,0:15:56.35,Gen_Main,,0,0,0,,Por eso...
+Dialogue: 0,0:15:57.06,0:15:58.15,Gen_Main,,0,0,0,,Shiori...
+Dialogue: 0,0:15:58.26,0:15:59.88,Gen_Main,,0,0,0,,¿No sirvo?
+Dialogue: 0,0:16:00.56,0:16:03.86,Gen_Main,,0,0,0,,¿Una niña pequeña como yo\Nno es suficiente?
+Dialogue: 0,0:16:04.33,0:16:06.86,Gen_Main,,0,0,0,,No es eso, Shiori.
+Dialogue: 0,0:16:07.60,0:16:10.33,Gen_Main,,0,0,0,,A él le gustan aún más pequeñas.
+Dialogue: 0,0:16:10.84,0:16:11.57,Gen_Main,,0,0,0,,Mira.
+Dialogue: 0,0:16:20.08,0:16:22.24,Gen_Main,,0,0,0,,H-hola.
+Dialogue: 0,0:16:23.65,0:16:25.14,Gen_Main,,0,0,0,,¡Shiori!
+Dialogue: 0,0:16:25.55,0:16:27.68,Gen_Main,,0,0,0,,¿Estás bien, Shiori?
+Dialogue: 0,0:16:27.82,0:16:32.38,Gen_Main,,0,0,0,,Vaya, nunca conseguirá novia\Nsi es tan rígido.
+Dialogue: 0,0:16:32.53,0:16:35.09,Gen_Main,,0,0,0,,Pero, esa es una de sus buenas cualidades.
+Dialogue: 0,0:16:35.19,0:16:38.53,Gen_Main,,0,0,0,,¡Ogro! ¡Demonio! ¡Vaca!
+Dialogue: 0,0:16:39.13,0:16:41.46,Gen_Main,,0,0,0,,¡Por eso fue solo un sueño!
+Dialogue: 0,0:16:41.57,0:16:44.87,Gen_Main,,0,0,0,,¡Resbalaste y te caíste en el baño,\Ny te desmayaste!
+Dialogue: 0,0:16:45.44,0:16:47.53,Gen_Main,,0,0,0,,Tal vez tengas razón después de todo...
+Dialogue: 0,0:16:47.71,0:16:51.30,Gen_Main,,0,0,0,,Mira, mi mano ha estado lesionada\Ny vendada desde siempre.
+Dialogue: 0,0:16:51.51,0:16:55.85,Gen_Main,,0,0,0,,Por eso tuviste un sueño extraño\Nsobre una chica que estaba ahí.
+Dialogue: 0,0:16:55.95,0:16:57.31,Gen_Main,,0,0,0,,Solo un sueño.
+Dialogue: 0,0:16:57.42,0:17:01.44,Gen_Main,,0,0,0,,Ah, bueno, realmente desearía\Npoder ser tu mano derecha...
+Dialogue: 0,0:17:01.55,0:17:04.62,Gen_Main,,0,0,0,,Entonces podríamos estar\Njuntos todo el tiempo...
+Dialogue: 0,0:17:06.19,0:17:08.96,Gen_Main,,0,0,0,,¡Ah! ¡Ya son más de las ocho!
+Dialogue: 0,0:17:09.06,0:17:12.69,Gen_Main,,0,0,0,,Shiori, vete a casa.\NTe acompañaré.
+Dialogue: 0,0:17:13.40,0:17:16.16,Gen_Main,,0,0,0,,¡No me voy!
+Dialogue: 0,0:17:16.30,0:17:17.00,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:17:18.87,0:17:20.27,Gen_Main,,0,0,0,,¡Ya voy!
+Dialogue: 0,0:17:21.24,0:17:22.80,Gen_Main,,0,0,0,,¡Shiori!
+Dialogue: 0,0:17:23.78,0:17:25.71,Gen_Main,,0,0,0,,Gracias a Dios.
+Dialogue: 0,0:17:25.85,0:17:29.28,Gen_Main,,0,0,0,,Era tan tarde... estaba preocupada.
+Dialogue: 0,0:17:29.75,0:17:32.45,Gen_Main,,0,0,0,,Lamento que esto te causara problemas...
+Dialogue: 0,0:17:32.55,0:17:33.75,Gen_Main,,0,0,0,,No, está bien.
+Dialogue: 0,0:17:34.02,0:17:37.46,Gen_Main,,0,0,0,,Preparé tu bistec de hamburguesa\Nfavorito esta noche.
+Dialogue: 0,0:17:37.56,0:17:40.19,Gen_Main,,0,0,0,,Vamos a casa y comamos juntos.
+Dialogue: 0,0:17:40.29,0:17:42.23,Gen_Main,,0,0,0,,No quiero ir.
+Dialogue: 0,0:17:43.46,0:17:45.49,Gen_Main,,0,0,0,,No quiero volver a casa.
+Dialogue: 0,0:17:45.73,0:17:47.22,Gen_Main,,0,0,0,,O-oye.
+Dialogue: 0,0:17:47.37,0:17:51.70,Gen_Main,,0,0,0,,¡Viviré en esta casa con él!\N¿Verdad, Hermano Mayor?
+Dialogue: 0,0:17:51.80,0:17:53.86,Gen_Main,,0,0,0,,¡Tonta! ¿De qué estás hablando?
+Dialogue: 0,0:17:53.97,0:17:54.84,Gen_Main,,0,0,0,,Por qué...
+Dialogue: 0,0:17:54.94,0:17:58.31,Gen_Main,,0,0,0,,No intentes ser mi madre.\NNo importa cuánto lo intentes...
+Dialogue: 0,0:17:58.44,0:18:01.04,Gen_Main,,0,0,0,,...¡solo tengo una mamá!
+Dialogue: 0,0:18:01.41,0:18:02.97,Gen_Main,,0,0,0,,Shiori...
+Dialogue: 0,0:18:03.22,0:18:08.71,Gen_Main,,0,0,0,,Quieres vivir feliz con papá.\NSería más fácil si no estuviera, ¿verdad?
+Dialogue: 0,0:18:08.89,0:18:12.59,Gen_Main,,0,0,0,,¡De todos modos, nunca podrías ser mi mamá!
+Dialogue: 0,0:18:20.27,0:18:21.70,Gen_Main,,0,0,0,,Por qué...
+Dialogue: 0,0:18:22.27,0:18:24.70,Gen_Main,,0,0,0,,Por qué no entiendes...
+Dialogue: 0,0:18:27.37,0:18:31.94,Gen_Main,,0,0,0,,Solo quiero que\Nlas cosas vayan bien contigo...
+Dialogue: 0,0:18:33.48,0:18:36.68,Gen_Main,,0,0,0,,Incluso tú deberías verlo ahora.
+Dialogue: 0,0:18:36.92,0:18:40.78,Gen_Main,,0,0,0,,Tu mamá realmente piensa en ti.
+Dialogue: 0,0:18:40.92,0:18:41.98,Gen_Main,,0,0,0,,Yo...
+Dialogue: 0,0:18:43.52,0:18:45.05,Gen_Main,,0,0,0,,Vamos, ve.
+Dialogue: 0,0:18:45.19,0:18:47.89,Gen_Main,,0,0,0,,No seas terca, sé honesta.
+Dialogue: 0,0:18:49.30,0:18:53.39,Gen_Main,,0,0,0,,Estoy bastante seguro de que tu mamá\Nen el cielo también lo diría.
+Dialogue: 0,0:18:55.30,0:18:57.70,Gen_Main,,0,0,0,,¡No estoy siendo terca!
+Dialogue: 0,0:18:57.87,0:19:02.50,Gen_Main,,0,0,0,,Estaba preocupada de que estuvieras\Nsolo si volvía a casa.
+Dialogue: 0,0:19:02.71,0:19:05.61,Gen_Main,,0,0,0,,¿Ah, sí? ¿Y por qué estaría solo?
+Dialogue: 0,0:19:05.71,0:19:07.61,Gen_Main,,0,0,0,,¡Bien, no me importa!
+Dialogue: 0,0:19:08.25,0:19:10.01,Gen_Main,,0,0,0,,Vamos a casa, mamá.
+Dialogue: 0,0:19:11.92,0:19:13.44,Gen_Main,,0,0,0,,Shiori...
+Dialogue: 0,0:19:14.85,0:19:18.38,Gen_Main,,0,0,0,,Tengo hambre. Ese bistec suena bien.
+Dialogue: 0,0:19:20.06,0:19:23.93,Gen_Main,,0,0,0,,Mira, Shiori. Las estrellas\Nse ven hermosas esta noche.
+Dialogue: 0,0:19:24.03,0:19:25.69,Gen_Main,,0,0,0,,Claro que sí...
+Dialogue: 0,0:19:29.97,0:19:32.37,Gen_Main,,0,0,0,,Hermano Mayor, escucha esto.
+Dialogue: 0,0:19:33.97,0:19:34.80,Gen_Main,,0,0,0,,
+Dialogue: 0,0:19:36.18,0:19:38.18,Gen_Main,,0,0,0,,Para la buena suerte, para que no estés solo.
+Dialogue: 0,0:19:38.18,0:19:40.44,Gen_Main,,0,0,0,,¡Tonta, vete ya!
+Dialogue: 0,0:19:44.62,0:19:46.24,Gen_Main,,0,0,0,,¡Adiós!
+Dialogue: 0,0:19:47.85,0:19:50.41,Gen_Main,,0,0,0,,Parece que se llevarán bien.
+Dialogue: 0,0:19:50.52,0:19:51.32,Gen_Main,,0,0,0,,Sí...
+Dialogue: 0,0:19:51.42,0:19:53.65,Gen_Main,,0,0,0,,Sé honesto... ¿eh?
+Dialogue: 0,0:19:53.79,0:19:55.89,Gen_Main,,0,0,0,,Eso fue realmente conmovedor.
+Dialogue: 0,0:19:56.00,0:20:00.36,Gen_Main,,0,0,0,,No parecía que se iría si\Nno decía algo como eso.
+Dialogue: 0,0:20:08.01,0:20:09.84,Gen_Main,,0,0,0,,Hoy es el día...
+Dialogue: 0,0:20:18.15,0:20:19.62,Gen_Main,,0,0,0,,¡Allá vamos!
+Dialogue: 0,0:20:27.29,0:20:28.73,Gen_Main,,0,0,0,,¿Eh? ¿Ayase?
+Dialogue: 0,0:20:28.83,0:20:31.66,Gen_Main,,0,0,0,,Lo siento, tenía prisa.
+Dialogue: 0,0:20:31.76,0:20:34.93,Gen_Main,,0,0,0,,Oh, cierto. Supongo que tú servirás esta vez.
+Dialogue: 0,0:20:35.03,0:20:35.52,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:20:35.63,0:20:38.66,Gen_Main,,0,0,0,,Tengo dos entradas para el cine... no, eh...
+Dialogue: 0,0:20:38.97,0:20:43.07,Gen_Main,,0,0,0,,La chica que iba conmigo\Nde repente no pudo ir...
+Dialogue: 0,0:20:43.24,0:20:46.44,Gen_Main,,0,0,0,,¿No sería un desperdicio\Ntirar una entrada?
+Dialogue: 0,0:20:46.55,0:20:47.94,Gen_Main,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:20:48.05,0:20:52.88,Gen_Main,,0,0,0,,¡Ya sabes! Pensé que tal vez\Nte gustaría... ya sabes...
+Dialogue: 0,0:20:54.09,0:20:55.42,Gen_Main,,0,0,0,,Veamos...
+Dialogue: 0,0:20:55.89,0:20:58.65,Gen_Main,,0,0,0,,S-Seiji, esto significa...
+Dialogue: 0,0:20:59.06,0:21:02.43,Gen_Main,,0,0,0,,¡Oh! ¡Quería ver esta!
+Dialogue: 0,0:21:02.56,0:21:05.55,Gen_Main,,0,0,0,,Bueno, no es que tengas que...
+Dialogue: 0,0:21:05.66,0:21:07.60,Gen_Main,,0,0,0,,¡Iré, seguro que iré!
+Dialogue: 0,0:21:07.70,0:21:12.73,Gen_Main,,0,0,0,,¿D-de verdad? Entonces nos encontraremos frente a\Nla estación Hoshikawa a la 1:00 mañana.
+Dialogue: 0,0:21:12.84,0:21:13.70,Gen_Main,,0,0,0,,¡Claro!
+Dialogue: 0,0:21:21.41,0:21:23.47,Gen_Main,,0,0,0,,¡Lo hice!
+Dialogue: 0,0:21:27.25,0:21:30.81,Gen_Main,,0,0,0,,Ayase y Seiji viendo\Nuna película juntos...
+Dialogue: 0,0:21:31.59,0:21:35.32,Gen_Main,,0,0,0,,Seiji aún no\Nparece haberse dado cuenta.
+Dialogue: 0,0:21:35.76,0:21:38.99,Gen_Main,,0,0,0,,Pero eso fue una invitación a una cita.
+Dialogue: 0,0:21:42.80,0:21:46.50,Gen_Main,,0,0,0,,¿Qué debo hacer...
+Dialogue: 0,0:21:55.85,0:22:02.08,Gen_Main,,0,0,0,,Así que antes de que me diera cuenta,\Nestaba pensando en ti.
+Dialogue: 0,0:22:03.52,0:22:09.86,Gen_Main,,0,0,0,,Parecía terriblemente vergonzoso\Ny terriblemente desagradable...
+Dialogue: 0,0:22:10.03,0:22:15.47,Gen_Main,,0,0,0,,...porque tengo miedo\Nde expresar mis sentimientos.
+Dialogue: 0,0:22:15.57,0:22:21.94,Gen_Main,,0,0,0,,Aunque esté en mi cabeza,\Nmi corazón no puede hacer nada.
+Dialogue: 0,0:22:23.11,0:22:33.35,Gen_Main,,0,0,0,,Cuando te veo, como siempre intento hablar\Npara que no me descubras.
+Dialogue: 0,0:22:33.59,0:22:45.46,Gen_Main,,0,0,0,,Sin compostura y con dolor,\Ntermino mintiéndote.
+Dialogue: 0,0:22:45.66,0:22:48.83,Gen_Main,,0,0,0,,Pero...
+Dialogue: 0,0:22:50.04,0:23:00.88,Gen_Main,,0,0,0,,Un poco más, un poco más...\NSi me acerco un poco más a tu corazón...
+Dialogue: 0,0:23:01.08,0:23:12.15,Gen_Main,,0,0,0,,Un poco más, un poco más...\N...para que este momento no desaparezca.
+Dialogue: 0,0:23:12.39,0:23:23.63,Gen_Main,,0,0,0,,Dios, por favor dame valor.
+Dialogue: 0,0:23:25.14,0:23:27.27,Gen_Main,,0,0,0,,¡Una primera cita con Ayase!
+Dialogue: 0,0:23:27.37,0:23:31.04,Gen_Main,,0,0,0,,¡Ella planea esto y aquello,\Nllena de determinación y deseo!
+Dialogue: 0,0:23:31.24,0:23:34.87,Gen_Main,,0,0,0,,Días de Midori, Día 7: Primera cita.
+Dialogue: 0,0:23:35.15,0:23:38.38,Gen_Main,,0,0,0,,Seiji... estoy tan ansiosa.
