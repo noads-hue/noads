@@ -1,0 +1,352 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H00010101,&H000000FF,&H00C6DCE4,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.23,0:00:12.30,Gen_Main,,0000,0000,0000,,El estudiante primate más fuerte,\NTsukasa Shishio.
+Dialogue: 0,0:00:13.22,0:00:17.33,Gen_Main,,0000,0000,0000,,No volveréis a estar en peligro.
+Dialogue: 0,0:00:18.16,0:00:21.27,Gen_Main,,0000,0000,0000,,Desde ahora, pelearé por vosotros.
+Dialogue: 0,0:00:22.75,0:00:26.63,Gen_Main,,0000,0000,0000,,Pero este pavo\Nes fuerte de cojones.
+Dialogue: 0,0:00:29.35,0:00:33.71,Gen_Main,,0000,0000,0000,,Senku, ¿piensas traer de vuelta\Na todos, incluyendo
+Dialogue: 0,0:00:33.88,0:00:35.63,Gen_Main,,0000,0000,0000,,los adultos de corazón sucio?
+Dialogue: 0,0:00:36.29,0:00:38.38,Gen_Main,,0000,0000,0000,,Este es un mundo de piedra.
+Dialogue: 0,0:00:38.89,0:00:41.53,Gen_Main,,0000,0000,0000,,Un paraíso sin contaminar.
+Dialogue: 0,0:00:42.07,0:00:45.12,Gen_Main,,0000,0000,0000,,Reviviremos solo\Na los jóvenes puros de corazón
+Dialogue: 0,0:00:45.54,0:00:49.04,Gen_Main,,0000,0000,0000,,y viviremos en un mundo natural\Nque no sea de nadie.
+Dialogue: 0,0:00:50.29,0:00:52.94,Gen_Main,,0000,0000,0000,,Es la oportunidad\Nde purificar a la humanidad.
+Dialogue: 0,0:00:54.03,0:00:57.28,Gen_Main,,0000,0000,0000,,¿No lo crees, Senku?
+Dialogue: 0,0:01:02.38,0:01:04.79,Gen_Italics,,0000,0000,0000,,Este tío va a dar problemas.
+Dialogue: 0,0:01:05.43,0:01:09.58,Gen_Italics,,0000,0000,0000,,Pero de no haberlo despertado,\Nlos leones nos habrían matado.
+Dialogue: 0,0:01:09.77,0:01:11.88,Gen_Italics,,0000,0000,0000,,No teníamos opción.
+Dialogue: 0,0:01:12.05,0:01:14.61,Gen_Italics,,0000,0000,0000,,Y quiere ayudar a los jóvenes.
+Dialogue: 0,0:01:14.80,0:01:18.58,Gen_Italics,,0000,0000,0000,,Supongo que podremos controlarlo\Nhasta que sepa del fluido para revivir.
+Dialogue: 0,0:01:18.74,0:01:22.24,Gen_Italics,,0000,0000,0000,,Debo mantener el secreto\Ndel agua milagrosa aunque me muera.
+Dialogue: 0,0:01:22.40,0:01:23.68,Gen_Main,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:01:23.81,0:01:27.06,Gen_Main,,0000,0000,0000,,¡Buenas noticias, Senku, Tsukasa!
+Dialogue: 0,0:01:27.14,0:01:30.40,Gen_Main,,0000,0000,0000,,¡Tenemos un bote lleno\Nde agua milagrosa de la cueva!
+Dialogue: 0,0:01:27.29,0:01:30.40,Cart_C_Tre,,0000,0000,0000,,{\c&H444341&\pos(314,96)}Para Yuzuriha
+Dialogue: 0,0:01:30.54,0:01:34.11,Gen_Main,,0000,0000,0000,,¡Por fin podemos revivir a Yuzuriha!
+Dialogue: 0,0:01:38.53,0:01:40.99,Gen_Main,,0000,0000,0000,,¿Qué es esa agua milagrosa?
+Dialogue: 0,0:01:46.75,0:01:50.05,Gen_Main,,0000,0000,0000,,No perdamos el tiempo con explicaciones.
+Dialogue: 0,0:01:50.19,0:01:52.85,Gen_Main,,0000,0000,0000,,Será 10,000 millones de veces\Nmás rápido que lo veas.
+Dialogue: 0,0:01:53.58,0:01:56.34,Gen_Main,,0000,0000,0000,,Deberías agradecerlo.
+Dialogue: 0,0:01:56.97,0:02:00.29,Gen_Main,,0000,0000,0000,,Hora de disfrutar\Ndel espectáculo del renacimiento.
+Dialogue: 0,0:03:32.29,0:03:37.02,Cart_Title,,0000,0000,0000,,{\pos(334,247)\frz7.733}Armas de la ciencia
+Dialogue: 0,0:03:37.89,0:03:39.60,Gen_Main,,0000,0000,0000,,Bien, Yuzuriha.
+Dialogue: 0,0:03:39.84,0:03:43.03,Gen_Main,,0000,0000,0000,,Ahora sí, vamos a salvarte.
+Dialogue: 0,0:03:45.87,0:03:46.91,Gen_Main,,0000,0000,0000,,¿Y esto?
+Dialogue: 0,0:03:47.24,0:03:50.71,Gen_Main,,0000,0000,0000,,Apenas alcanza para uno.
+Dialogue: 0,0:03:50.92,0:03:51.73,Gen_Main,,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:03:51.88,0:03:52.87,Gen_Main,,0000,0000,0000,,¿Era muy pronto?
+Dialogue: 0,0:03:53.21,0:03:57.21,Gen_Main,,0000,0000,0000,,Tsukasa y yo jugaremos palabras\Nencadenadas mientras esperamos.
+Dialogue: 0,0:03:57.49,0:03:59.88,Gen_Main,,0000,0000,0000,,Ve tan rápido como puedas, grandullón.
+Dialogue: 0,0:04:00.22,0:04:02.23,Gen_Main,,0000,0000,0000,,¡Sí, voy para allá!
+Dialogue: 0,0:04:02.44,0:04:04.54,Gen_Main,,0000,0000,0000,,¡A toda velocidad!
+Dialogue: 0,0:04:08.98,0:04:12.05,Gen_Main,,0000,0000,0000,,Entonces, como soy más rápido, iré yo.
+Dialogue: 0,0:04:12.66,0:04:16.23,Gen_Main,,0000,0000,0000,,¿Puedes decirme dónde está\Nese líquido milagroso?
+Dialogue: 0,0:04:17.69,0:04:20.14,Gen_Italics,,0000,0000,0000,,Me lo veía venir.
+Dialogue: 0,0:04:20.91,0:04:23.87,Gen_Italics,,0000,0000,0000,,Si conoces la fuente\Ndel líquido de renacimiento,
+Dialogue: 0,0:04:24.14,0:04:27.74,Gen_Italics,,0000,0000,0000,,es seguro al 10,000 millones\Npor ciento que querrás detener
+Dialogue: 0,0:04:27.90,0:04:30.54,Gen_Italics,,0000,0000,0000,,mi plan para salvar a todos.
+Dialogue: 0,0:04:37.04,0:04:38.59,Gen_Main,,0000,0000,0000,,¿Tsukasa ya se ha ido?
+Dialogue: 0,0:04:38.99,0:04:41.20,Gen_Main,,0000,0000,0000,,Sí, en un parpadeo.
+Dialogue: 0,0:04:41.41,0:04:42.42,Gen_Main,,0000,0000,0000,,Es tan rápido que…
+Dialogue: 0,0:04:43.76,0:04:47.68,Gen_Main,,0000,0000,0000,,Hagamos el líquido de renacimiento\Ny traigamos a Yuzuriha de vuelta.
+Dialogue: 0,0:04:48.00,0:04:50.26,Gen_Main,,0000,0000,0000,,Mientras Tsukasa no está.
+Dialogue: 0,0:04:56.17,0:04:57.69,Gen_Main,,0000,0000,0000,,Murciélagos.
+Dialogue: 0,0:04:59.75,0:05:02.19,Gen_Main,,0000,0000,0000,,Tocarlo me pone amarillo el dedo.
+Dialogue: 0,0:05:03.97,0:05:06.57,Gen_Main,,0000,0000,0000,,El líquido milagroso es ácido nítrico.
+Dialogue: 0,0:05:19.39,0:05:20.93,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:05:20.38,0:05:23.38,Cart_C_Tim,,0000,0000,0000,,{\c&H20404C&\pos(307,68)}Laboratorio
+Dialogue: 0,0:05:21.13,0:05:23.38,Gen_Main,,0000,0000,0000,,Dijiste que no había suficiente.
+Dialogue: 0,0:05:23.69,0:05:27.15,Gen_Main,,0000,0000,0000,,¿Y por qué crees que dejé un bote\Njusto de ese tamaño?
+Dialogue: 0,0:05:27.32,0:05:28.35,Gen_Main,,0000,0000,0000,,Buen punto.
+Dialogue: 0,0:05:28.57,0:05:30.85,Gen_Main,,0000,0000,0000,,Pero ¿por qué enviaste a Tsukasa?
+Dialogue: 0,0:05:31.25,0:05:32.69,Gen_Main,,0000,0000,0000,,Un cebo de doble filo.
+Dialogue: 0,0:05:32.77,0:05:35.05,Gen_Main,,0000,0000,0000,,Quería librarme de él\Nantes de revivirla,
+Dialogue: 0,0:05:35.20,0:05:37.69,Gen_Main,,0000,0000,0000,,aunque tuviera que revelar la cueva.
+Dialogue: 0,0:05:37.97,0:05:40.00,Gen_Main,,0000,0000,0000,,¿Por qué librarte de él?
+Dialogue: 0,0:05:40.15,0:05:41.61,Gen_Main,,0000,0000,0000,,¡Es un buen tío!
+Dialogue: 0,0:05:41.82,0:05:44.20,Gen_Main,,0000,0000,0000,,Es demasiado para controlar.
+Dialogue: 0,0:05:44.83,0:05:48.91,Gen_Main,,0000,0000,0000,,Es complicado controlar
+Dialogue: 0,0:05:49.20,0:05:52.08,Gen_Main,,0000,0000,0000,,su visión de un gran mundo.
+Dialogue: 0,0:05:53.86,0:05:56.96,Gen_Main,,0000,0000,0000,,El juego de la civilización\Nes más emocionante.
+Dialogue: 0,0:05:59.33,0:06:01.88,Gen_Main,,0000,0000,0000,,De acuerdo.\NNo tienes por qué explicarte.
+Dialogue: 0,0:06:02.17,0:06:05.09,Gen_Main,,0000,0000,0000,,Senku, confío en lo que dices.
+Dialogue: 0,0:06:05.73,0:06:08.53,Gen_Main,,0000,0000,0000,,Algo debió pasar mientras no estaba.
+Dialogue: 0,0:06:09.63,0:06:10.59,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:06:11.51,0:06:14.35,Gen_Main,,0000,0000,0000,,Tsukasa Shishio es buena persona.
+Dialogue: 0,0:06:17.89,0:06:19.40,Gen_Main,,0000,0000,0000,,Y un asesino.
+Dialogue: 0,0:06:24.13,0:06:25.29,Gen_Main,,0000,0000,0000,,Yuzuriha.
+Dialogue: 0,0:06:25.54,0:06:27.11,Gen_Main,,0000,0000,0000,,Siento hacerte esperar.
+Dialogue: 0,0:06:27.47,0:06:29.95,Gen_Main,,0000,0000,0000,,Yo, yo…
+Dialogue: 0,0:06:30.95,0:06:32.03,Gen_Main,,0000,0000,0000,,Yo…
+Dialogue: 0,0:06:32.87,0:06:35.97,Gen_Main,,0000,0000,0000,,¡Te dije que te dieras prisa,\Ngrandullón!
+Dialogue: 0,0:06:36.89,0:06:40.12,Gen_Main,,0000,0000,0000,,¡Lo has tirado todo!\N¿No puedes tener más cuidado?
+Dialogue: 0,0:06:43.75,0:06:45.98,Gen_Main,,0000,0000,0000,,No pasa nada. ¿Funcionará?
+Dialogue: 0,0:06:46.15,0:06:48.09,Gen_Main,,0000,0000,0000,,¡No, todo va bien, Yuzuriha!
+Dialogue: 0,0:06:48.24,0:06:50.05,Gen_Main,,0000,0000,0000,,¡Pero ¿va bien?!
+Dialogue: 0,0:06:50.44,0:06:52.80,Gen_Main,,0000,0000,0000,,Necesita tiempo para reaccionar.
+Dialogue: 0,0:06:53.03,0:06:55.26,Gen_Main,,0000,0000,0000,,Es un tipo de criostasis.
+Dialogue: 0,0:06:55.76,0:06:58.10,Gen_Main,,0000,0000,0000,,Es una capa protectora\Nhecha de los rastros
+Dialogue: 0,0:06:58.30,0:07:00.04,Gen_Main,,0000,0000,0000,,de elementos metálicos del cuerpo.
+Dialogue: 0,0:07:00.18,0:07:02.64,Gen_Main,,0000,0000,0000,,Por un mecanismo extraño,\Nhace un cambio de fase
+Dialogue: 0,0:07:02.78,0:07:04.71,Gen_Main,,0000,0000,0000,,en los elementos para petrificar.
+Dialogue: 0,0:07:04.91,0:07:07.79,Gen_Main,,0000,0000,0000,,Qué follón. No pillo nada.
+Dialogue: 0,0:07:08.09,0:07:12.74,Gen_Main,,0000,0000,0000,,Es una hipótesis,\Nbasada en un año de experimentos.
+Dialogue: 0,0:07:13.05,0:07:17.87,Gen_Main,,0000,0000,0000,,La cosa es que con que una parte\Nreciba el nital y se rompa.
+Dialogue: 0,0:07:19.17,0:07:23.08,Gen_Main,,0000,0000,0000,,hará que todo se quiebre en cascada
+Dialogue: 0,0:07:23.49,0:07:25.92,Gen_Main,,0000,0000,0000,,y la petrificación terminará.
+Dialogue: 0,0:07:27.19,0:07:30.72,Gen_Main,,0000,0000,0000,,Escúchame, Yuzuriha.
+Dialogue: 0,0:07:31.02,0:07:32.72,Gen_Main,,0000,0000,0000,,Se lo diré a Yuzuriha.
+Dialogue: 0,0:07:32.88,0:07:34.81,Gen_Main,,0000,0000,0000,,¡Sobreviviré aunque me cueste la vida!
+Dialogue: 0,0:07:34.97,0:07:37.72,Gen_Main,,0000,0000,0000,,Pude mantenerme vivo\Ngracias a que tú existías.
+Dialogue: 0,0:07:38.06,0:07:41.47,Gen_Main,,0000,0000,0000,,Lo siento. No pude protegerte.
+Dialogue: 0,0:07:47.37,0:07:48.50,Gen_Italics,,0000,0000,0000,,Te quiero.
+Dialogue: 0,0:07:49.66,0:07:51.09,Gen_Italics,,0000,0000,0000,,Desde hace cientos de años…
+Dialogue: 0,0:07:52.17,0:07:53.95,Gen_Italics,,0000,0000,0000,,Desde hace miles…
+Dialogue: 0,0:08:07.84,0:08:10.38,Gen_Main,,0000,0000,0000,,Yuzuriha, ¿me escuchas? ¡Yuzuriha!
+Dialogue: 0,0:08:12.95,0:08:14.76,Gen_Main,,0000,0000,0000,,¿Taiju…?
+Dialogue: 0,0:08:16.65,0:08:20.45,Gen_Main,,0000,0000,0000,,Siento que hayas esperado 3700 años.
+Dialogue: 0,0:08:20.64,0:08:21.85,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:08:23.69,0:08:25.73,Gen_Main,,0000,0000,0000,,No lo entiendo.
+Dialogue: 0,0:08:25.97,0:08:27.77,Gen_Main,,0000,0000,0000,,Acabo de despertar.
+Dialogue: 0,0:08:28.01,0:08:32.14,Gen_Main,,0000,0000,0000,,Pero creo que sé lo que pasa.
+Dialogue: 0,0:08:32.51,0:08:36.11,Gen_Main,,0000,0000,0000,,Me has ayudado, ¿verdad?
+Dialogue: 0,0:08:36.81,0:08:39.03,Gen_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:08:42.90,0:08:44.06,Gen_Main,,0000,0000,0000,,No he sido yo.
+Dialogue: 0,0:08:44.90,0:08:46.80,Gen_Main,,0000,0000,0000,,Fue gracias a Senku.
+Dialogue: 0,0:08:47.45,0:08:50.25,Gen_Main,,0000,0000,0000,,Senku lleva un año\Ncon el líquido de renacimiento.
+Dialogue: 0,0:08:51.11,0:08:54.21,Gen_Main,,0000,0000,0000,,Siento meterme en vuestro reencuentro,
+Dialogue: 0,0:08:54.53,0:08:57.18,Gen_Main,,0000,0000,0000,,pero decidíos\Nantes de que Tsukasa regrese.
+Dialogue: 0,0:08:57.83,0:08:59.57,Gen_Main,,0000,0000,0000,,Hay dos opciones.
+Dialogue: 0,0:08:59.89,0:09:01.06,Gen_Main,,0000,0000,0000,,Elegid una.
+Dialogue: 0,0:09:01.53,0:09:04.27,Gen_Main,,0000,0000,0000,,El plan A: Taiju y Yuzuriha,
+Dialogue: 0,0:09:04.48,0:09:08.06,Gen_Main,,0000,0000,0000,,huid de inmediato\Ny vivid en algún lugar lejano.
+Dialogue: 0,0:09:08.57,0:09:13.03,Gen_Main,,0000,0000,0000,,El plan B: Peleamos juntos\Npara detener los asesinatos de Tsukasa.
+Dialogue: 0,0:09:13.29,0:09:15.78,Gen_Main,,0000,0000,0000,,Con el poder\Nde las armas de la civilización.
+Dialogue: 0,0:09:15.78,0:09:19.36,Gen_Main,,0000,0000,0000,,¡Está claro! ¡Pelearemos contigo!
+Dialogue: 0,0:09:19.63,0:09:21.87,Gen_Main,,0000,0000,0000,,¡No nos subestimes, Senku!
+Dialogue: 0,0:09:22.21,0:09:26.15,Gen_Main,,0000,0000,0000,,No sé qué pasa,\Npero yo también ayudaré.
+Dialogue: 0,0:09:26.35,0:09:28.74,Gen_Main,,0000,0000,0000,,No intento ser bueno ni nada.
+Dialogue: 0,0:09:28.98,0:09:31.88,Gen_Main,,0000,0000,0000,,Creo que lo sensato sería\Nque os pirarais.
+Dialogue: 0,0:09:32.00,0:09:35.78,Gen_Main,,0000,0000,0000,,Si Tsukasa de verdad mata gente, yo…
+Dialogue: 0,0:09:36.00,0:09:40.93,Gen_Main,,0000,0000,0000,,Si mato gente\Nes por cuestión de perspectiva.
+Dialogue: 0,0:09:42.62,0:09:46.64,Gen_Main,,0000,0000,0000,,Los selecciono para el nuevo mundo.
+Dialogue: 0,0:09:54.77,0:09:59.28,Gen_Italics,,0000,0000,0000,,Ni siquiera oculta lo que hace\Na Taiju o a Yuzuriha.
+Dialogue: 0,0:09:59.86,0:10:02.53,Gen_Italics,,0000,0000,0000,,Es decir, si alguien interfiere…
+Dialogue: 0,0:10:10.85,0:10:14.32,Gen_Main,,0000,0000,0000,,Senku, si algo sale mal,\Nencárgate de Yuzuriha.
+Dialogue: 0,0:10:14.76,0:10:17.09,Gen_Main,,0000,0000,0000,,¡Detendré a Tsukasa!
+Dialogue: 0,0:10:18.59,0:10:20.22,Gen_Italics,,0000,0000,0000,,¡Cabeza de chorlito!
+Dialogue: 0,0:10:21.45,0:10:23.96,Gen_Italics,,0000,0000,0000,,Ese pavo se cargó\Na un león con sus manos.
+Dialogue: 0,0:10:24.17,0:10:26.82,Gen_Italics,,0000,0000,0000,,¡Estás jodido\Nal 10,000 millones por ciento!
+Dialogue: 0,0:10:27.78,0:10:31.47,Gen_Italics,,0000,0000,0000,,Tenías que hacerme usar mi arma secreta.
+Dialogue: 0,0:10:35.30,0:10:39.39,Gen_Italics,,0000,0000,0000,,Dispararé entre ambos para detenerlos.
+Dialogue: 0,0:10:52.90,0:10:56.80,Gen_Main,,0000,0000,0000,,Eres el primero que sigue de pie\Ntras recibir mi patada.
+Dialogue: 0,0:10:58.05,0:10:59.79,Gen_Main,,0000,0000,0000,,Aunque en realidad
+Dialogue: 0,0:11:00.05,0:11:03.25,Gen_Main,,0000,0000,0000,,no es que no pudieras atacar,\Nsino que no lo hiciste.
+Dialogue: 0,0:11:03.61,0:11:04.43,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:11:04.77,0:11:06.34,Gen_Main,,0000,0000,0000,,¡No voy pegando a la gente!
+Dialogue: 0,0:11:06.62,0:11:09.37,Gen_Main,,0000,0000,0000,,Dame patadas o puñetazos si quieres.
+Dialogue: 0,0:11:09.69,0:11:12.56,Gen_Main,,0000,0000,0000,,Pero ¡deja de destruir las estatuas!
+Dialogue: 0,0:11:13.06,0:11:15.82,Gen_Main,,0000,0000,0000,,¡Matar a la gente está mal!
+Dialogue: 0,0:11:19.10,0:11:22.16,Gen_Main,,0000,0000,0000,,Taiju, déjame entender esto.
+Dialogue: 0,0:11:22.38,0:11:24.85,Gen_Main,,0000,0000,0000,,Dejarás que te pegue sin defenderte.
+Dialogue: 0,0:11:25.16,0:11:26.95,Gen_Main,,0000,0000,0000,,Para que no destruya las estatuas.
+Dialogue: 0,0:11:27.83,0:11:28.91,Gen_Main,,0000,0000,0000,,¿Es eso?
+Dialogue: 0,0:11:29.20,0:11:30.79,Gen_Main,,0000,0000,0000,,¡Así es!
+Dialogue: 0,0:11:36.26,0:11:37.74,Gen_Main,,0000,0000,0000,,No lo comprendo.
+Dialogue: 0,0:11:38.17,0:11:40.17,Gen_Main,,0000,0000,0000,,No hacemos ningún trato.
+Dialogue: 0,0:11:42.15,0:11:43.94,Gen_Main,,0000,0000,0000,,Si sigues interfiriendo…
+Dialogue: 0,0:11:44.10,0:11:45.71,Gen_Main,,0000,0000,0000,,¡Me da igual cuánto ataques!
+Dialogue: 0,0:11:45.87,0:11:48.18,Gen_Main,,0000,0000,0000,,¡Trataré de detenerte sin descanso!
+Dialogue: 0,0:11:48.59,0:11:50.93,Gen_Main,,0000,0000,0000,,Esa chica de ahí acaba de revivir.
+Dialogue: 0,0:11:51.38,0:11:53.44,Gen_Main,,0000,0000,0000,,¿Y si amenazo con matarla?
+Dialogue: 0,0:11:57.41,0:11:58.65,Gen_Italics,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:11:58.86,0:12:01.99,Gen_Italics,,0000,0000,0000,,Por eso Senku dijo\Nque era mejor que huyéramos.
+Dialogue: 0,0:12:07.96,0:12:09.13,Gen_Main,,0000,0000,0000,,¡Taiju!
+Dialogue: 0,0:12:09.38,0:12:12.57,Gen_Main,,0000,0000,0000,,Así que funciona. Sangra mucho.
+Dialogue: 0,0:12:12.57,0:12:14.75,Gen_Main,,0000,0000,0000,,Va a sobar unos cuantos días.
+Dialogue: 0,0:12:15.26,0:12:17.67,Gen_Main,,0000,0000,0000,,Sí. No peleemos entre nosotros.
+Dialogue: 0,0:12:18.25,0:12:20.29,Gen_Main,,0000,0000,0000,,Protege a Yuzuriha.
+Dialogue: 0,0:12:20.58,0:12:23.25,Gen_Main,,0000,0000,0000,,Yo haré lo que debo hacer.
+Dialogue: 0,0:12:24.99,0:12:27.37,Gen_Main,,0000,0000,0000,,Nada de estatuas de extraños.
+Dialogue: 0,0:12:29.89,0:12:31.45,Gen_Main,,0000,0000,0000,,No dejaré que os metáis.
+Dialogue: 0,0:12:36.48,0:12:40.67,Gen_Main,,0000,0000,0000,,La ballesta disparó\Na más de 200 km por hora.
+Dialogue: 0,0:12:40.83,0:12:43.03,Gen_Main,,0000,0000,0000,,La cogió con las manos.
+Dialogue: 0,0:12:44.33,0:12:45.45,Gen_Main,,0000,0000,0000,,Oye, en pie.
+Dialogue: 0,0:12:45.60,0:12:46.65,Gen_Main,,0000,0000,0000,,Vamos.
+Dialogue: 0,0:12:46.78,0:12:48.91,Gen_Main,,0000,0000,0000,,¿No iba a dormir unos días?
+Dialogue: 0,0:12:49.17,0:12:54.37,Gen_Main,,0000,0000,0000,,No dejarás que Tsukasa te mangonee así,\N¿verdad, grandullón?
+Dialogue: 0,0:12:54.72,0:12:56.25,Gen_Main,,0000,0000,0000,,Ni de coña.
+Dialogue: 0,0:12:57.18,0:12:58.88,Gen_Main,,0000,0000,0000,,¿Ya estás bien?
+Dialogue: 0,0:12:59.06,0:13:00.85,Gen_Main,,0000,0000,0000,,Soy muy resistente.
+Dialogue: 0,0:13:01.09,0:13:03.22,Gen_Main,,0000,0000,0000,,Tengo energía de sobra.
+Dialogue: 0,0:13:03.40,0:13:04.63,Gen_Main,,0000,0000,0000,,Qué alivio.
+Dialogue: 0,0:13:05.46,0:13:06.70,Gen_Main,,0000,0000,0000,,Sí, Tsukasa.
+Dialogue: 0,0:13:06.88,0:13:08.89,Gen_Main,,0000,0000,0000,,Debemos evitar que mate a alguien.
+Dialogue: 0,0:13:09.32,0:13:10.53,Gen_Main,,0000,0000,0000,,Espera, grandullón.
+Dialogue: 0,0:13:10.66,0:13:12.22,Gen_Main,,0000,0000,0000,,¡No me rendiré!
+Dialogue: 0,0:13:12.37,0:13:14.69,Gen_Main,,0000,0000,0000,,¿Tienes serrín en la cabeza o qué?
+Dialogue: 0,0:13:14.85,0:13:17.34,Gen_Main,,0000,0000,0000,,¡Has visto que no podemos detenerlo!
+Dialogue: 0,0:13:18.90,0:13:20.38,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:13:24.18,0:13:28.28,Gen_Main,,0000,0000,0000,,Solo hay una forma de parar\Na un monstruo en el mundo de piedra.
+Dialogue: 0,0:13:31.06,0:13:35.09,Gen_Main,,0000,0000,0000,,Hacer que avance la civilización\Ny crear armas de ciencia.
+Dialogue: 0,0:13:45.26,0:13:47.26,Gen_Main,,0000,0000,0000,,Qué desperdicio.
+Dialogue: 0,0:13:47.42,0:13:48.93,Gen_Main,,0000,0000,0000,,¿Qué haces, Senku?
+Dialogue: 0,0:13:49.07,0:13:55.02,Gen_Main,,0000,0000,0000,,Hago parecer que enloquecimos\Npor Tsukasa y huimos con la comida.
+Dialogue: 0,0:13:55.42,0:13:56.59,Gen_Main,,0000,0000,0000,,¿De qué hablas?
+Dialogue: 0,0:13:56.81,0:13:58.02,Gen_Main,,0000,0000,0000,,¿Escapamos?
+Dialogue: 0,0:13:58.32,0:14:00.07,Gen_Main,,0000,0000,0000,,Es un numerito.
+Dialogue: 0,0:14:01.27,0:14:05.99,Gen_Main,,0000,0000,0000,,Si hacemos armas de la ciencia\Nantes de que lo sepa, ganaremos.
+Dialogue: 0,0:14:06.40,0:14:08.68,Gen_Main,,0000,0000,0000,,Si lo descubre primero, perdemos.
+Dialogue: 0,0:14:09.06,0:14:11.28,Gen_Main,,0000,0000,0000,,De eso tratará esta carrera.
+Dialogue: 0,0:14:13.82,0:14:16.08,Gen_Main,,0000,0000,0000,,Iremos a por materiales para las armas.
+Dialogue: 0,0:14:16.30,0:14:17.54,Gen_Main,,0000,0000,0000,,Hacia Hakone.
+Dialogue: 0,0:14:18.38,0:14:22.05,Gen_Main,,0000,0000,0000,,Será una gran aventura\Nde 80 kilómetros.
+Dialogue: 0,0:14:22.52,0:14:24.38,Gen_Main,,0000,0000,0000,,Dos maratones, ¿eh?
+Dialogue: 0,0:14:24.80,0:14:26.42,Gen_Main,,0000,0000,0000,,Basta con cinco horas.
+Dialogue: 0,0:14:26.72,0:14:29.05,Gen_Main,,0000,0000,0000,,Eso para un musculitos como tú.
+Dialogue: 0,0:14:32.14,0:14:34.93,Gen_Main,,0000,0000,0000,,Los cerezos parecen diferentes.
+Dialogue: 0,0:14:35.16,0:14:37.02,Gen_Main,,0000,0000,0000,,Los cerezos que conocíamos,
+Dialogue: 0,0:14:37.32,0:14:40.19,Gen_Main,,0000,0000,0000,,Prunus yedoensis,\Nno se fertilizan solos.
+Dialogue: 0,0:14:40.83,0:14:41.89,Gen_Main,,0000,0000,0000,,O sea…
+Dialogue: 0,0:14:42.09,0:14:44.30,Gen_Main,,0000,0000,0000,,Debieron extinguirse pronto.
+Dialogue: 0,0:14:57.02,0:14:59.66,Gen_Main,,0000,0000,0000,,Qué pedazo de vista.
+Dialogue: 0,0:14:59.84,0:15:01.37,Gen_Main,,0000,0000,0000,,Perfecto.
+Dialogue: 0,0:15:04.18,0:15:05.71,Gen_Main,,0000,0000,0000,,¿Qué es eso, Senku?
+Dialogue: 0,0:15:06.01,0:15:07.26,Gen_Main,,0000,0000,0000,,Un sextante.
+Dialogue: 0,0:15:07.56,0:15:11.01,Gen_Main,,0000,0000,0000,,Van 35,970 segundos desde el amanecer.
+Dialogue: 0,0:15:11.59,0:15:14.43,Gen_Main,,0000,0000,0000,,¿No es así como increíble que diga eso?
+Dialogue: 0,0:15:14.58,0:15:18.38,Gen_Main,,0000,0000,0000,,Senku contó miles de millones\Nde segundos desde que se petrificó.
+Dialogue: 0,0:15:18.53,0:15:20.02,Gen_Main,,0000,0000,0000,,Es pan comido para él.
+Dialogue: 0,0:15:20.38,0:15:23.90,Gen_Main,,0000,0000,0000,,Un sextante debe determinar\Ntu posición según la hora.
+Dialogue: 0,0:15:24.16,0:15:26.90,Gen_Main,,0000,0000,0000,,Pero es ridículo lo poco preciso que es.
+Dialogue: 0,0:15:29.18,0:15:31.66,Gen_Main,,0000,0000,0000,,Aunque es nuestro único GPS.
+Dialogue: 0,0:15:31.90,0:15:34.11,Gen_Main,,0000,0000,0000,,Deberíamos andar por Kamakura.
+Dialogue: 0,0:15:34.28,0:15:36.28,Gen_Main,,0000,0000,0000,,Si supiera la latitud y la longitud…
+Dialogue: 0,0:15:37.89,0:15:40.18,Gen_Main,,0000,0000,0000,,¿No hay edificios para orientarnos?
+Dialogue: 0,0:15:40.43,0:15:42.04,Gen_Main,,0000,0000,0000,,Todo el metal se oxidó.
+Dialogue: 0,0:15:42.35,0:15:44.11,Gen_Main,,0000,0000,0000,,No queda nada.
+Dialogue: 0,0:15:46.27,0:15:47.63,Gen_Main,,0000,0000,0000,,¿Qué pasa, Yuzuriha?
+Dialogue: 0,0:15:52.99,0:15:54.30,Gen_Italics,,0000,0000,0000,,¿Eso no es…?
+Dialogue: 0,0:16:00.79,0:16:03.65,Gen_Main,,0000,0000,0000,,Esa zona no tiene árboles\Npor alguna razón.
+Dialogue: 0,0:16:06.14,0:16:08.11,Gen_Main,,0000,0000,0000,,Lo más distintivo de Kamakura…
+Dialogue: 0,0:16:12.66,0:16:14.01,Gen_Main,,0000,0000,0000,,Sé dónde estamos.
+Dialogue: 0,0:16:14.47,0:16:17.58,Gen_Main,,0000,0000,0000,,Estamos a 35 grados, 19 minutos norte.
+Dialogue: 0,0:16:17.79,0:16:20.79,Gen_Main,,0000,0000,0000,,Y 139 grados, 32 minutos este.
+Dialogue: 0,0:16:33.74,0:16:34.84,Gen_Main,,0000,0000,0000,,¡Mira, mira!
+Dialogue: 0,0:16:46.27,0:16:47.69,Gen_Main,,0000,0000,0000,,¿Qué pasa, Yuzuriha?
+Dialogue: 0,0:16:47.88,0:16:49.60,Gen_Main,,0000,0000,0000,,¿Quién te hizo llorar?
+Dialogue: 0,0:16:49.83,0:16:50.86,Gen_Main,,0000,0000,0000,,¿Yo?
+Dialogue: 0,0:16:51.05,0:16:52.90,Gen_Main,,0000,0000,0000,,No, no estoy llorando.
+Dialogue: 0,0:16:53.16,0:16:55.96,Gen_Main,,0000,0000,0000,,No, no es que llore.
+Dialogue: 0,0:16:56.30,0:16:57.78,Gen_Main,,0000,0000,0000,,Pero no, Taiju.
+Dialogue: 0,0:17:00.15,0:17:06.75,Gen_Main,,0000,0000,0000,,Acabo de despertar\Ny nada parece real.
+Dialogue: 0,0:17:07.17,0:17:10.25,Gen_Main,,0000,0000,0000,,Pero ver el Gran Buda de Kamakura
+Dialogue: 0,0:17:10.82,0:17:13.95,Gen_Main,,0000,0000,0000,,me deja claro que estamos en Japón.
+Dialogue: 0,0:17:14.20,0:17:18.05,Gen_Main,,0000,0000,0000,,Sí que han pasado miles de años.
+Dialogue: 0,0:17:19.02,0:17:24.86,Gen_Main,,0000,0000,0000,,Empecé a pensar en mamá,\Npapá y los demás.
+Dialogue: 0,0:17:32.30,0:17:34.20,Gen_Main,,0000,0000,0000,,No hay de qué preocuparse.
+Dialogue: 0,0:17:34.49,0:17:38.97,Gen_Main,,0000,0000,0000,,Venceremos a Tsukasa\Ny salvaremos a la humanidad.
+Dialogue: 0,0:17:39.14,0:17:40.87,Gen_Main,,0000,0000,0000,,¡Sí, Yuzuriha!
+Dialogue: 0,0:17:43.10,0:17:45.61,Gen_Main,,0000,0000,0000,,El Gran Buda nos mostró el camino.
+Dialogue: 0,0:17:45.81,0:17:49.39,Gen_Main,,0000,0000,0000,,No se ha deshecho en miles de años.\NEs todo un dios.
+Dialogue: 0,0:17:49.58,0:17:51.21,Gen_Main,,0000,0000,0000,,No, ¿un buda?
+Dialogue: 0,0:17:51.82,0:17:54.73,Gen_Main,,0000,0000,0000,,¡En fin, lo mismo da!
+Dialogue: 0,0:17:56.05,0:17:59.29,Gen_Main,,0000,0000,0000,,Bueno, está hecho de bronce.
+Dialogue: 0,0:17:59.85,0:18:02.37,Gen_Main,,0000,0000,0000,,Científicamente, no se pudre.
+Dialogue: 0,0:18:03.31,0:18:07.63,Gen_Main,,0000,0000,0000,,¡Mirad! ¡No hay nada verde\Ncreciendo alrededor!
+Dialogue: 0,0:18:07.84,0:18:10.81,Gen_Main,,0000,0000,0000,,¡Es como si quisiera\Nque lo viéramos fácilmente!
+Dialogue: 0,0:18:11.01,0:18:14.07,Gen_Main,,0000,0000,0000,,Pues sí, suelta muchos iones de cobre.
+Dialogue: 0,0:18:14.53,0:18:17.53,Gen_Main,,0000,0000,0000,,Es veneno para las plantas.
+Dialogue: 0,0:18:19.22,0:18:22.95,Gen_Main,,0000,0000,0000,,Eso es, bronce. Podemos hacer espejos.
+Dialogue: 0,0:18:23.09,0:18:27.25,Gen_Main,,0000,0000,0000,,¡Hora de mejorar mi sextante cutrón!\N¡Dame un poco de esto!
+Dialogue: 0,0:18:27.39,0:18:30.67,Gen_Main,,0000,0000,0000,,¡No! ¡Blasfemo!
+Dialogue: 0,0:18:30.85,0:18:32.34,Gen_Main,,0000,0000,0000,,¡A callar, cabeza de chorlito!
+Dialogue: 0,0:18:30.85,0:18:32.34,Gen_Italics,,0000,0000,0000,,¡Es el Gran Buda!
+Dialogue: 0,0:18:32.51,0:18:33.59,Gen_Main,,0000,0000,0000,,¡Largo!
+Dialogue: 0,0:18:57.17,0:18:58.78,Gen_Main,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:18:59.08,0:19:00.89,Gen_Main,,0000,0000,0000,,Debo protegernos de las bestias.
+Dialogue: 0,0:19:01.21,0:19:03.20,Gen_Main,,0000,0000,0000,,Y Tsukasa podría venir.
+Dialogue: 0,0:19:04.58,0:19:07.65,Gen_Main,,0000,0000,0000,,Si él nos alcanza,\Nestaremos perdidos sin remedio.
+Dialogue: 0,0:19:07.97,0:19:10.08,Gen_Main,,0000,0000,0000,,No tiene sentido preocuparse de eso.
+Dialogue: 0,0:19:10.46,0:19:12.04,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:19:12.32,0:19:13.67,Gen_Main,,0000,0000,0000,,Duérmete ya.
+Dialogue: 0,0:19:13.85,0:19:16.26,Gen_Main,,0000,0000,0000,,Descansar es parte del trabajo,\Ngrandullón.
+Dialogue: 0,0:19:20.59,0:19:23.95,Gen_Main,,0000,0000,0000,,Esto sí es hacer currar\Nese cuerpazo serrano.
+Dialogue: 0,0:19:24.10,0:19:25.42,Gen_Main,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:19:25.59,0:19:26.99,Gen_Main,,0000,0000,0000,,Soy muy alto.
+Dialogue: 0,0:19:27.17,0:19:31.19,Gen_Main,,0000,0000,0000,,Aún tengo mucha energía.\N¡No os preocupéis!
+Dialogue: 0,0:19:31.55,0:19:35.19,Gen_Main,,0000,0000,0000,,Yuzuriha, tu pie sigue petrificado.
+Dialogue: 0,0:19:35.47,0:19:40.20,Gen_Main,,0000,0000,0000,,Sí, molesta un poco, pero está bien.
+Dialogue: 0,0:19:40.53,0:19:41.36,Gen_Main,,0000,0000,0000,,No está bi…
+Dialogue: 0,0:19:45.34,0:19:46.23,Gen_Main,,0000,0000,0000,,Qué frío.
+Dialogue: 0,0:19:47.99,0:19:50.97,Gen_Main,,0000,0000,0000,,También se fue el dolor.
+Dialogue: 0,0:19:51.51,0:19:54.13,Gen_Main,,0000,0000,0000,,¿El líquido de renacimiento\Ntambién rejuvenece?
+Dialogue: 0,0:19:54.47,0:19:56.30,Gen_Main,,0000,0000,0000,,Claro que no.
+Dialogue: 0,0:19:56.49,0:20:00.80,Gen_Main,,0000,0000,0000,,Pero tapó las cuarteaduras\Ncuando se retiró la petrificación.
+Dialogue: 0,0:20:01.09,0:20:04.15,Gen_Main,,0000,0000,0000,,¿No ves que seguimos vivos\Naunque tenemos la cara partida?
+Dialogue: 0,0:20:05.90,0:20:06.93,Gen_Main,,0000,0000,0000,,Es cierto.
+Dialogue: 0,0:20:07.21,0:20:09.06,Gen_Main,,0000,0000,0000,,Vamos a la meta.
+Dialogue: 0,0:20:09.37,0:20:11.94,Gen_Main,,0000,0000,0000,,Si es que queréis\Nun verdadero baño rejuvenecedor.
+Dialogue: 0,0:20:12.60,0:20:15.19,Gen_Main,,0000,0000,0000,,¿La meta de Hakone no será…?
+Dialogue: 0,0:20:22.93,0:20:26.56,Gen_Italics,,0000,0000,0000,,Un cuarto desordenado,\Nhuellas con prisa…
+Dialogue: 0,0:20:26.97,0:20:28.54,Gen_Italics,,0000,0000,0000,,¿Huyeron asustados?
+Dialogue: 0,0:20:31.99,0:20:35.88,Gen_Main,,0000,0000,0000,,Es lo que quiere que crea.
+Dialogue: 0,0:20:36.30,0:20:40.88,Gen_Main,,0000,0000,0000,,Senku, no eres alguien que huiría así.
+Dialogue: 0,0:20:41.98,0:20:47.47,Gen_Italics,,0000,0000,0000,,¿Por qué mintió sobre Taiju\Nyendo al oeste en secreto?
+Dialogue: 0,0:20:49.55,0:20:50.78,Gen_Italics,,0000,0000,0000,,Es obvio.
+Dialogue: 0,0:20:51.30,0:20:55.98,Gen_Italics,,0000,0000,0000,,Senku quiere crear armas de la ciencia\Npara enfrentarme.
+Dialogue: 0,0:20:56.86,0:20:57.95,Gen_Main,,0000,0000,0000,,¿Dónde?
+Dialogue: 0,0:21:01.39,0:21:03.14,Gen_Main,,0000,0000,0000,,¡Llegamos a la meta!
+Dialogue: 0,0:21:03.32,0:21:04.74,Gen_Main,,0000,0000,0000,,¡Aguas termales!
+Dialogue: 0,0:21:06.01,0:21:08.28,Gen_Main,,0000,0000,0000,,Hay una gran vista del Fuji.
+Dialogue: 0,0:21:08.56,0:21:13.54,Gen_Main,,0000,0000,0000,,Más os vale no olvidar\Na qué hemos venido.
+Dialogue: 0,0:21:14.55,0:21:16.17,Gen_Main,,0000,0000,0000,,¿Esa arma de la ciencia?
+Dialogue: 0,0:21:18.02,0:21:20.73,Gen_Main,,0000,0000,0000,,El mayor invento\Nde la historia de la humanidad.
+Dialogue: 0,0:21:20.90,0:21:21.90,Gen_Main,,0000,0000,0000,,¡¿{\i1}Smartphones{\i0}?!
+Dialogue: 0,0:21:22.08,0:21:23.51,Gen_Main,,0000,0000,0000,,Estás obsesionadito.
+Dialogue: 0,0:21:24.18,0:21:25.15,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:21:25.86,0:21:28.97,Gen_Main,,0000,0000,0000,,Pistolas. Haremos pólvora.
+Dialogue: 0,0:21:31.18,0:21:33.66,Gen_Main,,0000,0000,0000,,La era de piedra\Nfue hace dos millones de años.
+Dialogue: 0,0:21:34.12,0:21:38.44,Gen_Main,,0000,0000,0000,,La pólvora apenas se inventó\Nen el 700 d. C.
+Dialogue: 0,0:21:38.85,0:21:40.84,Gen_Main,,0000,0000,0000,,Es decir, que ahora…
+Dialogue: 0,0:21:41.15,0:21:47.03,Gen_Main,,0000,0000,0000,,Saltaremos 1.998.700 años\Nde civilización.
+Dialogue: 0,0:21:47.47,0:21:49.74,Gen_Main,,0000,0000,0000,,Qué emocionante.
+Dialogue: 0,0:21:51.02,0:21:52.38,Gen_Main,,0000,0000,0000,,Hakone…
+Dialogue: 0,0:21:52.56,0:21:55.42,Gen_Main,,0000,0000,0000,,Si crean pólvora, no tendré oportunidad.
+Dialogue: 0,0:21:55.77,0:22:00.29,Gen_Main,,0000,0000,0000,,Debo detener a Senku\Nantes de que lo haga.
+Dialogue: 0,0:22:00.63,0:22:04.01,Gen_Main,,0000,0000,0000,,Por suerte,\NJapón está lleno de volcanes.
+Dialogue: 0,0:22:04.91,0:22:08.61,Gen_Main,,0000,0000,0000,,Si vas a unas aguas termales,\Nirás sobrado de sulfuro,
+Dialogue: 0,0:22:08.62,0:22:10.80,Gen_Main,,0000,0000,0000,,principal ingrediente de la pólvora.
+Dialogue: 0,0:22:14.22,0:22:20.27,Gen_Main,,0000,0000,0000,,Es el nacimiento de nuestra mejor arma\Nanti Tsukasa, polvo negro.
+Dialogue: 0,0:23:58.68,0:24:01.00,Cart_Next,,0000,0000,0000,,Próximo episodio\N{\fs26}Dispara la señal de humo
+Dialogue: 0,0:24:01.00,0:24:06.25,Gen_Nota,,0000,0000,0000,,Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad

@@ -1,0 +1,308 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.01,0:00:02.27,Gen_Main,,0000,0000,0000,,¡Escuchad!
+Dialogue: 0,0:00:02.44,0:00:05.24,Gen_Main,,0000,0000,0000,,¡Desde hoy, este hombre, Senku,
+Dialogue: 0,0:00:05.65,0:00:08.90,Gen_Main,,0000,0000,0000,,es el nuevo líder de Ishigami!
+Dialogue: 0,0:00:10.99,0:00:12.78,Gen_Main,,0000,0000,0000,,¿"Ishigami"?
+Dialogue: 0,0:00:14.75,0:00:16.29,Gen_Main,,0000,0000,0000,,Así es, Senku.
+Dialogue: 0,0:00:18.08,0:00:23.30,Gen_Main,,0000,0000,0000,,Lo sé desde hace tiempo.
+Dialogue: 0,0:00:24.69,0:00:29.19,Gen_Main,,0000,0000,0000,,Tu nombre es Senku Ishigami.
+Dialogue: 0,0:00:35.47,0:00:38.10,Gen_Main,,0000,0000,0000,,Ahora todo tiene sentido.
+Dialogue: 0,0:00:38.64,0:00:44.61,Gen_Main,,0000,0000,0000,,Si todos estaban petrificados,\N¿quién creo esta aldea?
+Dialogue: 0,0:00:44.92,0:00:50.20,Gen_Main,,0000,0000,0000,,¿Por qué Kohaku y tú claramente\Ntenéis sangre extranjera?
+Dialogue: 0,0:00:50.70,0:00:53.12,Gen_Main,,0000,0000,0000,,Todos los misterios están resueltos.
+Dialogue: 0,0:00:55.24,0:00:59.77,Gen_Main,,0000,0000,0000,,No, lo siento. No entiendo nada.
+Dialogue: 0,0:01:00.74,0:01:03.84,Gen_Main,,0000,0000,0000,,¿Por qué Senku tiene\Nel mismo nombre de la aldea?
+Dialogue: 0,0:01:04.50,0:01:07.03,Gen_Main,,0000,0000,0000,,¿Y tú sabías lo de Senku, Ruri?
+Dialogue: 0,0:01:08.96,0:01:12.76,Gen_Main,,0000,0000,0000,,Debo aparecer en tu mitología\Nde sacerdotisa, ¿no?
+Dialogue: 0,0:01:13.98,0:01:14.81,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:01:16.01,0:01:19.89,Gen_Main,,0000,0000,0000,,¿Mitología? ¿Como Momotaro y el gorila?
+Dialogue: 0,0:01:20.06,0:01:22.72,Gen_Main,,0000,0000,0000,,Por eso sabéis de cuentos clásicos
+Dialogue: 0,0:01:22.86,0:01:25.61,Gen_Main,,0000,0000,0000,,y animales que nunca habríais visto.
+Dialogue: 0,0:01:25.77,0:01:28.99,Gen_Main,,0000,0000,0000,,Sí. Ruri nos enseñó esas cosas.
+Dialogue: 0,0:01:29.27,0:01:33.18,Gen_Main,,0000,0000,0000,,Las historias que la sacerdotisa debe\Npasar a la siguiente generación.
+Dialogue: 0,0:01:33.32,0:01:34.65,Gen_Main,,0000,0000,0000,,Las Cien Historias.
+Dialogue: 0,0:01:37.12,0:01:38.25,Gen_Main,,0000,0000,0000,,Ruri,
+Dialogue: 0,0:01:39.87,0:01:43.07,Gen_Main,,0000,0000,0000,,la última historia, la número cien,
+Dialogue: 0,0:01:43.25,0:01:48.26,Gen_Main,,0000,0000,0000,,probablemente sea una historia real\Nque pasó hace mucho tiempo.
+Dialogue: 0,0:01:50.80,0:01:53.14,Gen_Main,,0000,0000,0000,,Mi madre
+Dialogue: 0,0:01:53.86,0:01:58.27,Gen_Main,,0000,0000,0000,,me enseñó una gran y dulce historia.
+Dialogue: 0,0:01:59.80,0:02:01.30,Gen_Main,,0000,0000,0000,,La número cien
+Dialogue: 0,0:02:02.60,0:02:03.77,Gen_Main,,0000,0000,0000,,de las Cien Historias.
+Dialogue: 0,0:02:08.90,0:02:10.28,Gen_Main,,0000,0000,0000,,Se llama…
+Dialogue: 0,0:02:12.24,0:02:13.74,Gen_Main,,0000,0000,0000,,Senku Ishigami.
+Dialogue: 0,0:03:45.29,0:03:50.04,Cart_Title,,0000,0000,0000,,{\frz6.057\pos(366,263)}Una historia para la eternidad
+Dialogue: 0,0:03:58.47,0:04:01.99,Gen_Main,,0000,0000,0000,,¿Por qué no dejas de seguirme, luna?
+Dialogue: 0,0:04:10.61,0:04:14.53,Gen_Main,,0000,0000,0000,,Aunque me escabulla, me sigue\Nal 10.000 millones por ciento.
+Dialogue: 0,0:04:16.61,0:04:18.91,Gen_Main,,0000,0000,0000,,Desde pequeño,
+Dialogue: 0,0:04:19.48,0:04:23.45,Gen_Main,,0000,0000,0000,,ese chico se interesó\Nen todas las cosas raras.
+Dialogue: 0,0:04:27.12,0:04:31.21,Gen_Main,,0000,0000,0000,,Tal vez le gustes, Senku.
+Dialogue: 0,0:04:32.88,0:04:35.08,Gen_Main,,0000,0000,0000,,No necesito esas tonterías.
+Dialogue: 0,0:04:35.26,0:04:37.42,Gen_Main,,0000,0000,0000,,Hablo de ciencia de verdad.
+Dialogue: 0,0:04:37.59,0:04:39.87,Gen_Main,,0000,0000,0000,,¿Qué clase de niño eres?
+Dialogue: 0,0:04:42.10,0:04:46.68,Gen_Main,,0000,0000,0000,,La razón por la que parece seguirte\Nes porque está muy lejos.
+Dialogue: 0,0:04:46.85,0:04:51.19,Gen_Main,,0000,0000,0000,,Y para mí mucho más
+Dialogue: 0,0:04:51.68,0:04:54.53,Gen_Main,,0000,0000,0000,,después de suspender\Nel examen de astronauta.
+Dialogue: 0,0:04:54.69,0:04:57.94,Gen_Main,,0000,0000,0000,,Tampoco me interesan tus poesías.
+Dialogue: 0,0:04:58.82,0:05:02.40,Gen_Main,,0000,0000,0000,,Me dio un calambre en la pierna\Ndurante la prueba de natación vestido.
+Dialogue: 0,0:05:02.57,0:05:04.74,Gen_Main,,0000,0000,0000,,Nadar nunca fue lo mío.
+Dialogue: 0,0:05:04.91,0:05:06.45,Gen_Main,,0000,0000,0000,,Fue terrible.
+Dialogue: 0,0:05:07.12,0:05:09.91,Gen_Main,,0000,0000,0000,,¿Cuándo volverán a reclutar astronautas?
+Dialogue: 0,0:05:10.29,0:05:11.63,Gen_Main,,0000,0000,0000,,No sé.
+Dialogue: 0,0:05:11.79,0:05:13.84,Gen_Main,,0000,0000,0000,,Dentro de al menos una década.
+Dialogue: 0,0:05:18.42,0:05:19.84,Gen_Main,,0000,0000,0000,,Iré al espacio.
+Dialogue: 0,0:05:19.84,0:05:27.77,Cart_A_Tre,,0000,0000,0000,,Qué quiero ser de mayor
+Dialogue: 0,0:05:20.01,0:05:23.55,Gen_Main,,0000,0000,0000,,Astronauta. Es un buen sueño.
+Dialogue: 0,0:05:23.72,0:05:25.14,Gen_Main,,0000,0000,0000,,Bueno, cuando crezcas…
+Dialogue: 0,0:05:25.31,0:05:27.77,Gen_Main,,0000,0000,0000,,No, iré ya mismo.
+Dialogue: 0,0:05:28.00,0:05:30.77,Gen_Italics,,0000,0000,0000,,A Senku le gustaba el espacio\Ntanto como a mí.
+Dialogue: 0,0:05:30.94,0:05:34.77,Gen_Italics,,0000,0000,0000,,Pero piensa por sí mismo\Ny construye las cosas.
+Dialogue: 0,0:05:34.94,0:05:38.40,Gen_Italics,,0000,0000,0000,,Descubrió la ciencia y no pudo dejarla.
+Dialogue: 0,0:05:44.70,0:05:46.45,Cart_A_Tre,,0000,0000,0000,,Universidad Hirosue
+Dialogue: 0,0:05:52.42,0:05:56.88,Cart_C_Tre,,0000,0000,0000,,Selección para candidatos de astronauta
+Dialogue: 0,0:05:54.08,0:05:56.88,Gen_Main,,0000,0000,0000,,Candidatos de astronauta de la JAXA.
+Dialogue: 0,0:05:57.05,0:05:59.26,Gen_Main,,0000,0000,0000,,La primera vez en diez años.
+Dialogue: 0,0:06:06.14,0:06:09.85,Cart_B_Tim,,0000,0000,0000,,{\pos(410,152)}Laboratorio de ciencias
+Dialogue: 0,0:06:17.77,0:06:20.23,Gen_Main,,0000,0000,0000,,¿Qué vamos a hacer con esto?
+Dialogue: 0,0:06:26.32,0:06:27.62,Gen_Main,,0000,0000,0000,,¡Mi mano se mueve sola!
+Dialogue: 0,0:06:27.78,0:06:29.71,Gen_Main,,0000,0000,0000,,¡¿Qué es esto?!
+Dialogue: 0,0:06:30.20,0:06:34.50,Gen_Main,,0000,0000,0000,,Solo hay que mandar electricidad\Nal músculo correcto.
+Dialogue: 0,0:06:54.21,0:06:57.11,Gen_Main,,0000,0000,0000,,¿Y este traje tan raro?
+Dialogue: 0,0:07:04.90,0:07:08.44,Gen_Main,,0000,0000,0000,,¡Me tiemblan los brazos\Ny hacen brazadas solos!
+Dialogue: 0,0:07:08.62,0:07:11.53,Gen_Main,,0000,0000,0000,,La prueba de natación vestido\Nera tu mayor problema, ¿no?
+Dialogue: 0,0:07:12.04,0:07:13.76,Gen_Main,,0000,0000,0000,,Te meteremos los movimientos
+Dialogue: 0,0:07:13.98,0:07:16.25,Gen_Main,,0000,0000,0000,,con el traje de entrenamiento\Nde electrodos.
+Dialogue: 0,0:07:16.42,0:07:18.33,Gen_Main,,0000,0000,0000,,¡No puedo nadar con esto!
+Dialogue: 0,0:07:29.14,0:07:31.14,Cart_A_Ari,,0000,0000,0000,,Selección de astronautas
+Dialogue: 0,0:07:39.20,0:07:42.57,Gen_Main,,0000,0000,0000,,¿Hizo ese traje tan raro él solo?\N¿Estando en quinto?
+Dialogue: 0,0:07:42.86,0:07:44.71,Gen_Main,,0000,0000,0000,,¿Y funcionó?
+Dialogue: 0,0:07:44.86,0:07:46.30,Gen_Main,,0000,0000,0000,,Claro que no.
+Dialogue: 0,0:07:46.45,0:07:47.66,Gen_Main,,0000,0000,0000,,Claro.
+Dialogue: 0,0:07:49.03,0:07:50.09,Gen_Main,,0000,0000,0000,,Pero…
+Dialogue: 0,0:07:51.45,0:07:55.96,Gen_Main,,0000,0000,0000,,Senku lo hizo para mí.
+Dialogue: 0,0:07:56.12,0:08:00.14,Gen_Main,,0000,0000,0000,,Tenía que nadar\Naunque fuera lo último que hiciera.
+Dialogue: 0,0:08:00.29,0:08:04.22,Gen_Main,,0000,0000,0000,,Al final, pude pasar\Nla prueba de natación vestido
+Dialogue: 0,0:08:04.38,0:08:07.09,Gen_Main,,0000,0000,0000,,y llegué hasta la entrevista.
+Dialogue: 0,0:08:07.84,0:08:11.68,Gen_Main,,0000,0000,0000,,Seré un astronauta e iré al espacio
+Dialogue: 0,0:08:12.18,0:08:14.57,Gen_Main,,0000,0000,0000,,y trabajaré por la ciencia.
+Dialogue: 0,0:08:15.26,0:08:19.38,Gen_Main,,0000,0000,0000,,Es la única forma\Nen la que puedo devolvérselo.
+Dialogue: 0,0:08:21.44,0:08:25.71,Cart_A_Ari,,0000,0000,0000,,{\bord1\pos(320,274)\be21\3c&H8A8A96&}Cinco años después
+Dialogue: 0,0:08:25.86,0:08:28.86,Gen_Main,,0000,0000,0000,,La tripulación empieza a abordar.
+Dialogue: 0,0:08:29.32,0:08:32.41,Gen_Main,,0000,0000,0000,,El lanzamiento del Soyuz\Nestá por empezar.
+Dialogue: 0,0:08:32.87,0:08:34.28,Gen_Main,,0000,0000,0000,,Hay un astronauta japonés
+Dialogue: 0,0:08:34.45,0:08:37.71,Gen_Main,,0000,0000,0000,,planeando una larga estancia\Nen la Estación Espacial.
+Dialogue: 0,0:08:38.96,0:08:41.92,Gen_Main,,0000,0000,0000,,Es Byakuya Ishigami.
+Dialogue: 0,0:08:42.09,0:08:45.39,Gen_Main,,0000,0000,0000,,Senku, conociéndote,
+Dialogue: 0,0:08:45.55,0:08:49.12,Gen_Main,,0000,0000,0000,,no estarás viendo esto,\Npero por si acaso…
+Dialogue: 0,0:08:49.30,0:08:52.76,Gen_Main,,0000,0000,0000,,¡Te traeré muchos regalos científicos!
+Dialogue: 0,0:08:53.35,0:08:54.64,Gen_Italics,,0000,0000,0000,,¡Espéralos!
+Dialogue: 0,0:08:54.81,0:08:56.78,Gen_Main,,0000,0000,0000,,Cállate.
+Dialogue: 0,0:08:57.35,0:08:59.68,Gen_Main,,0000,0000,0000,,¿Eh? ¿Es tu padre, Ishigami?
+Dialogue: 0,0:08:59.85,0:09:00.54,Gen_Main,,0000,0000,0000,,¡Déjame ver!
+Dialogue: 0,0:09:00.69,0:09:02.11,Gen_Main,,0000,0000,0000,,¡Estamos en clase!
+Dialogue: 0,0:09:21.77,0:09:25.15,Gen_Main,,0000,0000,0000,,Quien creo la primera\Ngeneración de la aldea Ishigami
+Dialogue: 0,0:09:26.92,0:09:28.88,Gen_Main,,0000,0000,0000,,era Byakuya Ishigami.
+Dialogue: 0,0:09:29.74,0:09:31.66,Gen_Main,,0000,0000,0000,,Mi padre.
+Dialogue: 0,0:09:42.69,0:09:44.03,Gen_Italics,,0000,0000,0000,,Aquí el Soyuz.
+Dialogue: 0,0:09:44.40,0:09:49.69,Gen_Italics,,0000,0000,0000,,Iniciando últimos preparativos\Npara enlace con la EEI.
+Dialogue: 0,0:10:05.86,0:10:07.59,Gen_Italics,,0000,0000,0000,,Enlace con éxito.
+Dialogue: 0,0:10:15.68,0:10:18.96,Gen_Main,,0000,0000,0000,,¡Bienvenidos\Na la Estación Espacial Internacional!
+Dialogue: 0,0:10:19.14,0:10:21.02,Gen_Main,,0000,0000,0000,,Bienvenidos.
+Dialogue: 0,0:10:22.60,0:10:23.85,Gen_Main,,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:10:24.02,0:10:25.69,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:10:25.86,0:10:29.48,Gen_Main,,0000,0000,0000,,Mi esposo es muy ruidoso\Npara no tener huevos.
+Dialogue: 0,0:10:29.65,0:10:31.47,Gen_Main,,0000,0000,0000,,Soy Byakuya Ishigami.
+Dialogue: 0,0:10:31.61,0:10:33.29,Gen_Main,,0000,0000,0000,,Este es Shamil.
+Dialogue: 0,0:10:33.45,0:10:34.32,Gen_Main,,0000,0000,0000,,Es un placer.
+Dialogue: 0,0:10:36.41,0:10:38.79,Gen_Main,,0000,0000,0000,,¿Por qué es esto tan estrecho?
+Dialogue: 0,0:10:38.95,0:10:41.75,Gen_Main,,0000,0000,0000,,No penséis que somos iguales.
+Dialogue: 0,0:10:42.21,0:10:45.17,Gen_Main,,0000,0000,0000,,Pagué 50 millones de dólares\Npara tener sitio.
+Dialogue: 0,0:10:45.33,0:10:47.96,Gen_Main,,0000,0000,0000,,Soy una turista espacial.
+Dialogue: 0,0:10:48.13,0:10:54.18,Gen_Main,,0000,0000,0000,,¿Así es como recibís\Na la gran cantante Lilian?
+Dialogue: 0,0:10:54.89,0:10:56.31,Gen_Main,,0000,0000,0000,,¿Es que no me conocéis?
+Dialogue: 0,0:10:56.47,0:10:58.61,Gen_Main,,0000,0000,0000,,Sí, claro que sí.
+Dialogue: 0,0:10:58.76,0:11:00.26,Gen_Main,,0000,0000,0000,,Hasta tengo sus CD.
+Dialogue: 0,0:11:00.43,0:11:02.18,Gen_Main,,0000,0000,0000,,Entonces, lo entendéis, ¿no?
+Dialogue: 0,0:11:02.35,0:11:04.31,Gen_Main,,0000,0000,0000,,Sí. Cálmese.
+Dialogue: 0,0:11:04.48,0:11:05.90,Gen_Main,,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:11:14.07,0:11:16.20,Gen_Main,,0000,0000,0000,,¿Por qué te ríes, Byakuya?
+Dialogue: 0,0:11:16.36,0:11:18.24,Gen_Main,,0000,0000,0000,,Podía haber seguido más tiempo.
+Dialogue: 0,0:11:18.41,0:11:19.64,Gen_Main,,0000,0000,0000,,Jopé.
+Dialogue: 0,0:11:19.78,0:11:23.46,Gen_Main,,0000,0000,0000,,Lo siento, pero era muy malo.
+Dialogue: 0,0:11:23.62,0:11:25.52,Gen_Main,,0000,0000,0000,,¿Quién habla así?
+Dialogue: 0,0:11:25.67,0:11:27.26,Gen_Main,,0000,0000,0000,,Vaya forma de empezar.
+Dialogue: 0,0:11:27.42,0:11:30.46,Gen_Main,,0000,0000,0000,,Dejad las risas, viejo.
+Dialogue: 0,0:11:31.05,0:11:33.26,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:11:33.88,0:11:35.69,Gen_Main,,0000,0000,0000,,Soy Lilian Weinberg.
+Dialogue: 0,0:11:35.84,0:11:37.39,Gen_Main,,0000,0000,0000,,Me quedaré una semana.
+Dialogue: 0,0:11:37.89,0:11:40.72,Gen_Main,,0000,0000,0000,,Me esforzaré para no estorbaros.
+Dialogue: 0,0:11:42.88,0:11:45.41,Gen_Main,,0000,0000,0000,,Ya veía por delante\Nuna semana de horror.
+Dialogue: 0,0:11:46.30,0:11:48.06,Gen_Main,,0000,0000,0000,,Nos engañaste.
+Dialogue: 0,0:11:48.86,0:11:53.11,Gen_Main,,0000,0000,0000,,Si era en serio,\Nun minuto más y te habría matado.
+Dialogue: 0,0:11:53.74,0:11:55.95,Gen_Main,,0000,0000,0000,,Soy Dalia. Encantada.
+Dialogue: 0,0:11:56.74,0:12:00.37,Gen_Main,,0000,0000,0000,,Ese gigante tembloroso\Nes mi esposo, Yakov.
+Dialogue: 0,0:12:01.99,0:12:04.33,Gen_Main,,0000,0000,0000,,Creí que me iba a dar un yuyu.
+Dialogue: 0,0:12:04.62,0:12:07.73,Gen_Main,,0000,0000,0000,,Dalia y yo éramos médicos.
+Dialogue: 0,0:12:07.87,0:12:10.89,Gen_Main,,0000,0000,0000,,Avísanos si te sientes mal.
+Dialogue: 0,0:12:11.04,0:12:12.96,Gen_Main,,0000,0000,0000,,Me alegra saber eso. Gracias.
+Dialogue: 0,0:12:13.39,0:12:15.58,Gen_Main,,0000,0000,0000,,Es genial tener a Yakov.
+Dialogue: 0,0:12:15.76,0:12:18.25,Gen_Main,,0000,0000,0000,,Es su segunda vez en el espacio.
+Dialogue: 0,0:12:18.43,0:12:20.93,Gen_Main,,0000,0000,0000,,Es algo tímido, pero es un veterano.
+Dialogue: 0,0:12:21.10,0:12:22.99,Gen_Main,,0000,0000,0000,,¿Y tú de qué presumes?
+Dialogue: 0,0:12:23.14,0:12:24.89,Gen_Main,,0000,0000,0000,,Silencio, viejo.
+Dialogue: 0,0:12:25.16,0:12:27.25,Gen_Main,,0000,0000,0000,,Soy muy famoso.
+Dialogue: 0,0:12:27.39,0:12:29.31,Gen_Main,,0000,0000,0000,,Tú tampoco exageres.
+Dialogue: 0,0:12:29.81,0:12:32.32,Gen_Main,,0000,0000,0000,,La chica de atrás es Connie.
+Dialogue: 0,0:12:32.52,0:12:33.82,Gen_Main,,0000,0000,0000,,Era personal de la NASA.
+Dialogue: 0,0:12:37.61,0:12:39.30,Gen_Main,,0000,0000,0000,,Esto…
+Dialogue: 0,0:12:40.74,0:12:46.41,Gen_Main,,0000,0000,0000,,¡Soy una gran admiradora tuya!
+Dialogue: 0,0:12:50.63,0:12:53.50,Gen_Main,,0000,0000,0000,,¿De dónde has sacado eso, Connie?
+Dialogue: 0,0:12:54.13,0:12:55.29,Gen_Main,,0000,0000,0000,,Eh…
+Dialogue: 0,0:12:55.46,0:12:56.98,Gen_Main,,0000,0000,0000,,Eso es todo.
+Dialogue: 0,0:12:57.84,0:13:02.85,Gen_Main,,0000,0000,0000,,Vamos, Connie. Pídele un autógrafo.
+Dialogue: 0,0:13:03.01,0:13:04.22,Gen_Main,,0000,0000,0000,,Vamos, vamos.
+Dialogue: 0,0:13:04.39,0:13:08.05,Gen_Main,,0000,0000,0000,,¿Me firmarías un autógrafo?
+Dialogue: 0,0:13:08.23,0:13:09.52,Gen_Main,,0000,0000,0000,,Sí, claro.
+Dialogue: 0,0:13:11.27,0:13:12.91,Gen_Main,,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:13:13.73,0:13:16.32,Gen_Main,,0000,0000,0000,,¿No soy de mucha ayuda?
+Dialogue: 0,0:13:16.64,0:13:21.72,Gen_Main,,0000,0000,0000,,Bueno, hora de preparar el escenario\Npara la gran cantante Lilian
+Dialogue: 0,0:13:21.86,0:13:24.38,Gen_Main,,0000,0000,0000,,que pagó 50 millones para venir.
+Dialogue: 0,0:13:26.79,0:13:29.27,Gen_Main,,0000,0000,0000,,Esta será la música del viaje.
+Dialogue: 0,0:13:29.41,0:13:30.62,Gen_Main,,0000,0000,0000,,¡De acuerdo!
+Dialogue: 0,0:13:30.79,0:13:32.40,Gen_Main,,0000,0000,0000,,Pongámosla 100 veces al día.
+Dialogue: 0,0:13:32.54,0:13:35.62,Gen_Main,,0000,0000,0000,,¡No! ¡Por favor, no! ¡Qué vergüenza!
+Dialogue: 0,0:13:35.80,0:13:37.80,Gen_Main,,0000,0000,0000,,¡Lo siento! ¡En serio!
+Dialogue: 0,0:15:03.25,0:15:06.01,Gen_Italics,,0000,0000,0000,,Ese ha sido mi miniconcierto espacial.
+Dialogue: 0,0:15:07.55,0:15:11.32,Gen_Italics,,0000,0000,0000,,No soy tan masoquista para cantar\Nen directo frente a los astronautas.
+Dialogue: 0,0:15:11.47,0:15:12.64,Gen_Italics,,0000,0000,0000,,Perdonadme.
+Dialogue: 0,0:15:13.52,0:15:15.48,Gen_Italics,,0000,0000,0000,,Nos vemos.
+Dialogue: 0,0:15:18.73,0:15:21.77,Gen_Main,,0000,0000,0000,,¿No vais a mandar un mensaje,\NShamil, Byakuya?
+Dialogue: 0,0:15:22.92,0:15:24.32,Gen_Main,,0000,0000,0000,,Para vuestra familia o algo.
+Dialogue: 0,0:15:24.82,0:15:27.70,Gen_Main,,0000,0000,0000,,No, gracias. No tengo familia.
+Dialogue: 0,0:15:28.03,0:15:29.05,Gen_Main,,0000,0000,0000,,¿Y Byakuya?
+Dialogue: 0,0:15:29.58,0:15:33.74,Gen_Main,,0000,0000,0000,,Tengo un hijo llamado Senku,
+Dialogue: 0,0:15:33.91,0:15:36.95,Gen_Main,,0000,0000,0000,,pero es un mocoso chuloplaya\Ncomo Shamil.
+Dialogue: 0,0:15:37.12,0:15:39.00,Gen_Main,,0000,0000,0000,,Le trae sin cuidado llamarme.
+Dialogue: 0,0:15:39.88,0:15:45.13,Gen_Main,,0000,0000,0000,,Estará enfrascado investigando algo.
+Dialogue: 0,0:15:48.29,0:15:51.14,Gen_Italics,,0000,0000,0000,,Los mensajes escritos\Nsobre las golondrinas de piedra
+Dialogue: 0,0:15:51.31,0:15:54.18,Gen_Italics,,0000,0000,0000,,son proporcionales en todo el mundo
+Dialogue: 0,0:15:54.35,0:15:57.06,Gen_Italics,,0000,0000,0000,,a la distribución\Nde las golondrinas reales.
+Dialogue: 0,0:15:57.60,0:16:00.56,Gen_Italics,,0000,0000,0000,,Calcular las estadísticas\Nsería excesivo.
+Dialogue: 0,0:16:01.11,0:16:02.94,Gen_Italics,,0000,0000,0000,,Significa que estas estatuas
+Dialogue: 0,0:16:03.25,0:16:05.82,Gen_Italics,,0000,0000,0000,,son golondrinas reales\Nque se petrificaron.
+Dialogue: 0,0:16:06.45,0:16:09.34,Gen_Italics,,0000,0000,0000,,¿Golondrinas petrificadas\Npor todo el mundo?
+Dialogue: 0,0:16:09.49,0:16:11.91,Gen_Italics,,0000,0000,0000,,Es tan absurdo que es gracioso.
+Dialogue: 0,0:16:12.62,0:16:14.45,Gen_Main,,0000,0000,0000,,Qué emocionante.
+Dialogue: 0,0:16:22.38,0:16:23.59,Gen_Main,,0000,0000,0000,,¿No puedes dormir?
+Dialogue: 0,0:16:24.93,0:16:26.26,Gen_Main,,0000,0000,0000,,¿Hacía mucho ruido?
+Dialogue: 0,0:16:26.42,0:16:30.55,Gen_Main,,0000,0000,0000,,Tanto que me reventaban los oídos.
+Dialogue: 0,0:16:34.52,0:16:35.85,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:16:36.30,0:16:38.48,Gen_Main,,0000,0000,0000,,Te encanta cantar, ¿eh?
+Dialogue: 0,0:16:42.16,0:16:43.98,Gen_Main,,0000,0000,0000,,Lo he hecho toda la vida.
+Dialogue: 0,0:16:44.15,0:16:45.69,Gen_Main,,0000,0000,0000,,¿Desde niña?
+Dialogue: 0,0:16:46.66,0:16:50.61,Gen_Main,,0000,0000,0000,,Una vez recogí un disco de la basura.
+Dialogue: 0,0:16:51.48,0:16:56.41,Gen_Main,,0000,0000,0000,,Escuchaba las canciones todos los días.
+Dialogue: 0,0:16:57.00,0:17:00.20,Gen_Main,,0000,0000,0000,,Y un día, mi tocadiscos se rompió.
+Dialogue: 0,0:17:01.25,0:17:03.65,Gen_Main,,0000,0000,0000,,Después, empecé a cantar sola.
+Dialogue: 0,0:17:04.25,0:17:07.07,Gen_Main,,0000,0000,0000,,Era muy divertido cantar.
+Dialogue: 0,0:17:08.19,0:17:13.77,Gen_Main,,0000,0000,0000,,Quería que todo tipo de gente\Nde todo el mundo me escuchara.
+Dialogue: 0,0:17:14.72,0:17:20.14,Gen_Main,,0000,0000,0000,,Me haría feliz si la gente\Napreciara el mundo
+Dialogue: 0,0:17:20.29,0:17:21.99,Gen_Main,,0000,0000,0000,,y le alegrara haber nacido.
+Dialogue: 0,0:17:23.15,0:17:26.44,Gen_Main,,0000,0000,0000,,Igual que a mí entonces.
+Dialogue: 0,0:17:29.66,0:17:31.29,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:17:31.45,0:17:33.57,Gen_Main,,0000,0000,0000,,Esto es muy vergonzoso.
+Dialogue: 0,0:17:36.75,0:17:37.74,Gen_Main,,0000,0000,0000,,Oye.
+Dialogue: 0,0:17:39.16,0:17:44.04,Gen_Main,,0000,0000,0000,,¿Dejarías que mi hijo\Nte escuchara cantar algún día?
+Dialogue: 0,0:17:47.34,0:17:48.42,Gen_Main,,0000,0000,0000,,Claro.
+Dialogue: 0,0:17:52.76,0:17:54.49,Gen_Main,,0000,0000,0000,,¡Soy sopa de miso!
+Dialogue: 0,0:17:54.64,0:17:57.50,Gen_Main,,0000,0000,0000,,¡Auxilio! ¡No quiero que me coman!
+Dialogue: 0,0:17:57.68,0:17:59.62,Gen_Main,,0000,0000,0000,,¡Estoy volando! ¡Gravedad cero!
+Dialogue: 0,0:17:59.77,0:18:01.98,Gen_Main,,0000,0000,0000,,¡Soy libre!
+Dialogue: 0,0:18:05.52,0:18:06.75,Gen_Main,,0000,0000,0000,,¡No, no lo eres!
+Dialogue: 0,0:18:06.89,0:18:08.54,Gen_Main,,0000,0000,0000,,¿Qué haces?
+Dialogue: 0,0:18:10.65,0:18:13.78,Gen_Main,,0000,0000,0000,,¿Quieres probar comida japonesa?
+Dialogue: 0,0:18:15.16,0:18:17.24,Gen_Main,,0000,0000,0000,,Esta jalea es suficiente para mí.
+Dialogue: 0,0:18:17.55,0:18:18.98,Gen_Main,,0000,0000,0000,,¿Para cada comida?
+Dialogue: 0,0:18:19.17,0:18:21.21,Gen_Main,,0000,0000,0000,,¿No te aburres?
+Dialogue: 0,0:18:25.37,0:18:26.25,Gen_Main,,0000,0000,0000,,Toma.
+Dialogue: 0,0:18:29.26,0:18:30.63,Gen_Main,,0000,0000,0000,,¿Qué es eso? ¿Fideos?
+Dialogue: 0,0:18:31.22,0:18:33.63,Gen_Main,,0000,0000,0000,,La mandé hacer a pedido.
+Dialogue: 0,0:18:34.14,0:18:38.14,Gen_Main,,0000,0000,0000,,Es el mismo sabor del restaurante\Ndonde siempre iba con Senku.
+Dialogue: 0,0:18:38.68,0:18:43.18,Gen_Main,,0000,0000,0000,,No quisiera rechazar tu comida,\Npero nos malcrías.
+Dialogue: 0,0:18:43.35,0:18:46.89,Gen_Main,,0000,0000,0000,,Los de la Agencia Espacial\Nvenimos a trabajar.
+Dialogue: 0,0:18:47.28,0:18:50.28,Gen_Main,,0000,0000,0000,,Los humanos no necesitan\Ndiversión para sobrevivir.
+Dialogue: 0,0:18:50.58,0:18:53.78,Gen_Main,,0000,0000,0000,,Vamos, pruébala. Te sorprenderá.
+Dialogue: 0,0:19:09.38,0:19:11.65,Gen_Main,,0000,0000,0000,,¿Lo ves? ¿No es genial?
+Dialogue: 0,0:19:11.80,0:19:13.93,Gen_Main,,0000,0000,0000,,¿En serio? ¿Puedo probarlo?
+Dialogue: 0,0:19:15.51,0:19:16.76,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:19:17.72,0:19:18.68,Gen_Main,,0000,0000,0000,,Mirad.
+Dialogue: 0,0:19:18.85,0:19:20.15,Gen_Main,,0000,0000,0000,,Por la ventana.
+Dialogue: 0,0:19:21.50,0:19:22.65,Gen_Main,,0000,0000,0000,,La Tierra…
+Dialogue: 0,0:19:32.32,0:19:33.54,Gen_Main,,0000,0000,0000,,¡Senku!
+Dialogue: 0,0:20:06.39,0:20:07.52,Gen_Main,,0000,0000,0000,,¡¿Por qué?!
+Dialogue: 0,0:20:07.69,0:20:10.50,Gen_Main,,0000,0000,0000,,No puedo contactar con la NASA\No Roscosmos.
+Dialogue: 0,0:20:10.65,0:20:11.37,Gen_Main,,0000,0000,0000,,¿Una avería?
+Dialogue: 0,0:20:11.52,0:20:13.19,Gen_Main,,0000,0000,0000,,No, nadie responde.
+Dialogue: 0,0:20:13.86,0:20:16.36,Gen_Main,,0000,0000,0000,,Tampoco responden\Npor la radio aficionada.
+Dialogue: 0,0:20:16.53,0:20:18.02,Gen_Main,,0000,0000,0000,,Esa luz…
+Dialogue: 0,0:20:18.20,0:20:21.19,Gen_Main,,0000,0000,0000,,Ha pasado algo en la superficie.\NAlgo terrible.
+Dialogue: 0,0:20:22.73,0:20:25.02,Gen_Main,,0000,0000,0000,,¿Como una guerra nuclear?
+Dialogue: 0,0:20:25.62,0:20:27.71,Gen_Main,,0000,0000,0000,,¡No pienses en eso!
+Dialogue: 0,0:20:29.88,0:20:32.10,Gen_Main,,0000,0000,0000,,¡Sí! Internet funciona.
+Dialogue: 0,0:20:32.25,0:20:34.34,Gen_Main,,0000,0000,0000,,¿Alguien tuitea sobre el tema?
+Dialogue: 0,0:20:39.68,0:20:43.31,Gen_Main,,0000,0000,0000,,Nada. Todo el mundo\Ndejó de postear a la vez.
+Dialogue: 0,0:20:44.14,0:20:46.02,Gen_Main,,0000,0000,0000,,Cierto. Las cámaras en directo.
+Dialogue: 0,0:20:50.49,0:20:51.60,Gen_Main,,0000,0000,0000,,¡Ahí!
+Dialogue: 0,0:20:54.02,0:20:55.45,Gen_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:20:55.89,0:20:57.09,Gen_Main,,0000,0000,0000,,¿Estatuas?
+Dialogue: 0,0:20:58.28,0:20:59.95,Gen_Main,,0000,0000,0000,,¿Cómo es posible?
+Dialogue: 0,0:21:11.80,0:21:13.03,Gen_Main,,0000,0000,0000,,Dios.
+Dialogue: 0,0:21:19.30,0:21:20.84,Gen_Main,,0000,0000,0000,,No nos precipitemos.
+Dialogue: 0,0:21:21.28,0:21:22.48,Gen_Main,,0000,0000,0000,,Esperemos.
+Dialogue: 0,0:21:22.80,0:21:24.96,Gen_Main,,0000,0000,0000,,Hay 7000 millones de personas.
+Dialogue: 0,0:21:25.21,0:21:27.46,Gen_Main,,0000,0000,0000,,Los supervivientes llamarán.
+Dialogue: 0,0:21:27.64,0:21:28.93,Gen_Main,,0000,0000,0000,,¡Nos ayudarán!
+Dialogue: 0,0:21:29.39,0:21:30.88,Gen_Main,,0000,0000,0000,,¿Esperar cuánto?
+Dialogue: 0,0:21:31.19,0:21:33.06,Gen_Main,,0000,0000,0000,,¿Un mes? ¿Dos?
+Dialogue: 0,0:21:33.81,0:21:35.72,Gen_Main,,0000,0000,0000,,Con la humanidad en ese estado,
+Dialogue: 0,0:21:35.90,0:21:39.45,Gen_Main,,0000,0000,0000,,no tenemos esperanza de rescate\Nsi no es del espacio.
+Dialogue: 0,0:21:44.75,0:21:46.66,Gen_Main,,0000,0000,0000,,Volvamos a la Tierra.
+Dialogue: 0,0:21:48.89,0:21:50.84,Gen_Main,,0000,0000,0000,,¡¿De qué hablas, Byakuya?!
+Dialogue: 0,0:21:51.12,0:21:54.58,Gen_Main,,0000,0000,0000,,¡He dicho que hay 7000 millones!\N¡Alguien nos ayudará!
+Dialogue: 0,0:21:54.74,0:21:56.59,Gen_Main,,0000,0000,0000,,No, Yakov.
+Dialogue: 0,0:21:58.06,0:22:01.95,Gen_Main,,0000,0000,0000,,Somos los últimos seis humanos.
+Dialogue: 0,0:22:03.87,0:22:06.46,Gen_Main,,0000,0000,0000,,¿Esperar ayuda? Os equivocáis.
+Dialogue: 0,0:22:08.52,0:22:10.75,Gen_Main,,0000,0000,0000,,Nosotros los ayudaremos a ellos.
+Dialogue: 0,0:22:11.26,0:22:14.01,Gen_Main,,0000,0000,0000,,A los 7000 millones de humanos.
+Dialogue: 0,0:23:52.83,0:23:55.00,Cart_Next,,0000,0000,0000,,Próximo episodio\N{\fs28}Cien noches y mil cielos
+Dialogue: 0,0:23:55.00,0:24:00.25,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}

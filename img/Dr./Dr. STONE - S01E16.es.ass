@@ -1,0 +1,293 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:10.99,0:00:13.26,Gen_Main,,0000,0000,0000,,Mirad por la ventana.
+Dialogue: 0,0:00:14.74,0:00:15.69,Gen_Main,,0000,0000,0000,,La Tierra…
+Dialogue: 0,0:00:40.77,0:00:42.02,Gen_Italics,,0000,0000,0000,,Tengo miedo.
+Dialogue: 0,0:00:42.14,0:00:42.81,Gen_Italics,,0000,0000,0000,,No me muevo.
+Dialogue: 0,0:00:42.92,0:00:43.87,Gen_Italics,,0000,0000,0000,,No siento nada.
+Dialogue: 0,0:00:43.98,0:00:46.25,Gen_Italics,,0000,0000,0000,,Si soy consciente de eso,
+Dialogue: 0,0:00:46.49,0:00:50.65,Gen_Italics,,0000,0000,0000,,mi mente funcionará\Nal 10.000 millones por ciento.
+Dialogue: 0,0:00:51.15,0:00:52.54,Gen_Italics,,0000,0000,0000,,No está mal.
+Dialogue: 0,0:00:53.40,0:00:55.31,Gen_Italics,,0000,0000,0000,,Bueno, piensa.
+Dialogue: 0,0:00:55.45,0:00:56.28,Gen_Italics,,0000,0000,0000,,Por ejemplo…
+Dialogue: 0,0:00:56.74,0:01:00.81,Gen_Italics,,0000,0000,0000,,Habrá bajado la media\Nde posts de Instagram y Twitter.
+Dialogue: 0,0:01:00.91,0:01:03.29,Gen_Main,,0000,0000,0000,,Descubre eso y calcula a la inversa…
+Dialogue: 0,0:01:03.41,0:01:08.79,Gen_Main,,0000,0000,0000,,… y podremos saber\Nde dónde vino la luz misteriosa.
+Dialogue: 0,0:01:09.38,0:01:11.67,Gen_Main,,0000,0000,0000,,Claramente empezó en Sudamérica.
+Dialogue: 0,0:01:11.80,0:01:15.55,Gen_Main,,0000,0000,0000,,El rayo petrificador\Nse extendió desde allí.
+Dialogue: 0,0:01:15.67,0:01:18.34,Gen_Main,,0000,0000,0000,,Nunca se me habría ocurrido hacer eso.
+Dialogue: 0,0:01:18.76,0:01:21.83,Gen_Main,,0000,0000,0000,,Molaría presumir, pero no fue mi idea.
+Dialogue: 0,0:01:21.98,0:01:25.23,Gen_Main,,0000,0000,0000,,Mi hijo, Senku, usa mucho ese truco.
+Dialogue: 0,0:01:25.63,0:01:28.00,Gen_Main,,0000,0000,0000,,Ahora que lo sabemos, es hora de salir.
+Dialogue: 0,0:01:28.69,0:01:30.24,Gen_Main,,0000,0000,0000,,Aguanta, Senku.
+Dialogue: 0,0:01:30.36,0:01:35.03,Gen_Main,,0000,0000,0000,,Te salvaré junto a los otros\N7000 millones de humanos.
+Dialogue: 0,0:03:05.33,0:03:10.08,Cart_Title,,0000,0000,0000,,{\frz14.41\pos(306,250)}Cien noches y mil cielos
+Dialogue: 0,0:03:12.40,0:03:15.13,Gen_Main,,0000,0000,0000,,¿De verdad irás a la superficie?
+Dialogue: 0,0:03:15.25,0:03:17.75,Gen_Main,,0000,0000,0000,,Podrías petrificarte al llegar.
+Dialogue: 0,0:03:17.88,0:03:20.42,Gen_Main,,0000,0000,0000,,Al menos ve\Nal otro lado de la fuente.
+Dialogue: 0,0:03:20.55,0:03:22.98,Gen_Main,,0000,0000,0000,,Rodea Japón,\Nal otro lado de Sudamérica.
+Dialogue: 0,0:03:23.09,0:03:26.93,Gen_Main,,0000,0000,0000,,Si el rayo petrificador es como\Nradiación, aléjate cuanto puedas.
+Dialogue: 0,0:03:27.06,0:03:30.85,Gen_Main,,0000,0000,0000,,Bueno, alguien debe ser\Nel sujeto de prueba.
+Dialogue: 0,0:03:30.98,0:03:33.65,Gen_Main,,0000,0000,0000,,Fue idea mía, así que me toca.
+Dialogue: 0,0:03:33.96,0:03:36.82,Gen_Main,,0000,0000,0000,,No habrá combustible\Nsuficiente para volver.
+Dialogue: 0,0:03:37.01,0:03:39.31,Gen_Main,,0000,0000,0000,,El Soyuz admite a tres\Ny solo tendremos dos.
+Dialogue: 0,0:03:39.44,0:03:41.49,Gen_Main,,0000,0000,0000,,Deben arriesgarse tres.
+Dialogue: 0,0:03:42.57,0:03:45.12,Gen_Main,,0000,0000,0000,,Lo siento, tendrán que ir otros dos.
+Dialogue: 0,0:03:45.30,0:03:46.87,Gen_Main,,0000,0000,0000,,Así que…
+Dialogue: 0,0:03:50.91,0:03:53.17,Gen_Main,,0000,0000,0000,,Shamil, idiota.
+Dialogue: 0,0:03:53.29,0:03:55.16,Gen_Main,,0000,0000,0000,,No habrá nadie en tierra ayudándonos.
+Dialogue: 0,0:03:55.29,0:03:57.20,Gen_Main,,0000,0000,0000,,Es un aterrizaje sin precedentes.
+Dialogue: 0,0:03:57.34,0:03:59.42,Gen_Main,,0000,0000,0000,,Podrías petrificarte al maniobrar.
+Dialogue: 0,0:04:00.30,0:04:03.17,Gen_Main,,0000,0000,0000,,Tienes un hijo, ¿verdad?
+Dialogue: 0,0:04:03.84,0:04:06.25,Gen_Main,,0000,0000,0000,,Debe ir alguien sin familia.
+Dialogue: 0,0:04:06.80,0:04:08.01,Gen_Main,,0000,0000,0000,,Como yo.
+Dialogue: 0,0:04:16.69,0:04:18.73,Gen_Italics,,0000,0000,0000,,Ocho, nueve…
+Dialogue: 0,0:04:19.23,0:04:21.45,Gen_Italics,,0000,0000,0000,,Van 216.000 segundos.
+Dialogue: 0,0:04:21.86,0:04:25.53,Gen_Italics,,0000,0000,0000,,Unas 16 horas desde que me inmovilicé.
+Dialogue: 0,0:04:37.71,0:04:40.84,Gen_Italics,,0000,0000,0000,,Tengo buenas y malas noticias.
+Dialogue: 0,0:04:41.51,0:04:45.71,Gen_Main,,0000,0000,0000,,Las buenas noticias son\Nque aterrizamos sin petrificarnos.
+Dialogue: 0,0:04:46.39,0:04:49.79,Gen_Main,,0000,0000,0000,,Las malas son que fallamos\Nel objetivo por mucho
+Dialogue: 0,0:04:49.93,0:04:51.52,Gen_Main,,0000,0000,0000,,y aterrizamos en el agua.
+Dialogue: 0,0:04:52.18,0:04:54.52,Gen_Main,,0000,0000,0000,,Si abrimos la escotilla, nos hundiremos.
+Dialogue: 0,0:04:55.98,0:04:57.15,Gen_Main,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:04:57.27,0:05:01.50,Gen_Main,,0000,0000,0000,,En otras caídas al agua comprobamos\Nque aguanta unas nueve horas.
+Dialogue: 0,0:05:01.61,0:05:02.61,Gen_Italics,,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:03.11,0:05:06.09,Gen_Main,,0000,0000,0000,,Pero es el fin de nuestras vidas.
+Dialogue: 0,0:05:07.49,0:05:10.42,Gen_Italics,,0000,0000,0000,,Cinco, seis, siete…
+Dialogue: 0,0:05:11.33,0:05:14.41,Gen_Italics,,0000,0000,0000,,Cuenta esa ridícula cantidad\Npara constatar la fecha.
+Dialogue: 0,0:05:14.83,0:05:19.57,Gen_Italics,,0000,0000,0000,,Debo estar al tanto de las estaciones\Npara cuando reviva.
+Dialogue: 0,0:05:20.00,0:05:22.30,Gen_Italics,,0000,0000,0000,,Es todo lo que puedo hacer ahora.
+Dialogue: 0,0:05:22.92,0:05:27.18,Gen_Italics,,0000,0000,0000,,Puede ser el peor de los casos,\Npero es lo que debo hacer.
+Dialogue: 0,0:05:27.89,0:05:31.08,Gen_Main,,0000,0000,0000,,Tenemos que bajar\Ny encontrar un bote para ayudarlos.
+Dialogue: 0,0:05:31.18,0:05:33.22,Gen_Main,,0000,0000,0000,,¿Y dónde está la llave de ese bote?
+Dialogue: 0,0:05:33.35,0:05:37.55,Gen_Main,,0000,0000,0000,,¿Cuántas estatuas debemos revisar\Nhasta encontrarlas?
+Dialogue: 0,0:05:37.69,0:05:40.52,Gen_Main,,0000,0000,0000,,Los ayudaremos\Ndesde la isla más cercana.
+Dialogue: 0,0:05:40.86,0:05:42.23,Gen_Main,,0000,0000,0000,,Aunque esté deshabitada.
+Dialogue: 0,0:05:42.36,0:05:44.70,Gen_Main,,0000,0000,0000,,Si no hay un bote, haremos una balsa.
+Dialogue: 0,0:05:44.82,0:05:47.51,Gen_Main,,0000,0000,0000,,¡¿Crees que podremos\Naterrizar en una isla?!
+Dialogue: 0,0:05:47.61,0:05:49.48,Gen_Main,,0000,0000,0000,,Podríamos fallar por 10 km.
+Dialogue: 0,0:05:49.66,0:05:51.78,Gen_Main,,0000,0000,0000,,Diez no es nada.
+Dialogue: 0,0:05:51.91,0:05:56.88,Gen_Main,,0000,0000,0000,,Nadaré todo el camino,\Nvestido si hace falta.
+Dialogue: 0,0:06:03.71,0:06:05.69,Gen_Main,,0000,0000,0000,,Controlad vuestra respiración.
+Dialogue: 0,0:06:06.72,0:06:09.13,Gen_Main,,0000,0000,0000,,Debemos racionar el oxígeno.
+Dialogue: 0,0:06:09.76,0:06:11.76,Gen_Main,,0000,0000,0000,,No habléis mucho.
+Dialogue: 0,0:06:20.15,0:06:23.15,Gen_Italics,,0000,0000,0000,,You can feel the music in the air.
+Dialogue: 0,0:06:23.27,0:06:27.32,Gen_Main,,0000,0000,0000,,¡¿Por qué cantas?!\N¡Dije que controlases tu respiración!
+Dialogue: 0,0:06:29.36,0:06:33.78,Gen_Main,,0000,0000,0000,,Lo siento, pero creo\Nque ya no necesitamos el oxígeno.
+Dialogue: 0,0:06:50.26,0:06:54.64,Gen_Main,,0000,0000,0000,,Siento que costase más de diez horas.
+Dialogue: 0,0:06:56.18,0:06:59.73,Gen_Main,,0000,0000,0000,,Que ya tienes una edad, viejo.
+Dialogue: 0,0:07:01.40,0:07:02.69,Gen_Main,,0000,0000,0000,,No te excedas.
+Dialogue: 0,0:07:03.36,0:07:05.14,Gen_Main,,0000,0000,0000,,Te arriesgas demasiado.
+Dialogue: 0,0:07:14.72,0:07:15.70,Gen_Main,,0000,0000,0000,,¡Han vuelto!
+Dialogue: 0,0:07:16.74,0:07:18.73,Gen_Main,,0000,0000,0000,,¡Están a salvo!
+Dialogue: 0,0:07:20.46,0:07:22.53,Gen_Main,,0000,0000,0000,,El bote estaba abandonado
+Dialogue: 0,0:07:22.67,0:07:26.63,Gen_Main,,0000,0000,0000,,en la isla más lejana\Ndel rayo petrificador.
+Dialogue: 0,0:07:27.34,0:07:31.58,Gen_Main,,0000,0000,0000,,O sea, que podría haber supervivientes.
+Dialogue: 0,0:07:45.56,0:07:46.98,Gen_Main,,0000,0000,0000,,No…
+Dialogue: 0,0:07:56.70,0:07:58.66,Gen_Main,,0000,0000,0000,,Mierda.
+Dialogue: 0,0:07:58.79,0:08:01.25,Gen_Main,,0000,0000,0000,,¿Por qué no vamos a por leña?
+Dialogue: 0,0:08:01.46,0:08:02.49,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:17.93,0:08:19.39,Gen_Main,,0000,0000,0000,,¡Bingo!
+Dialogue: 0,0:08:19.81,0:08:22.52,Gen_Main,,0000,0000,0000,,¡El equipo de supervivencia del Soyuz!
+Dialogue: 0,0:08:23.06,0:08:25.09,Gen_Main,,0000,0000,0000,,Son las mejores herramientas.
+Dialogue: 0,0:08:25.23,0:08:26.23,Gen_Main,,0000,0000,0000,,Genial.
+Dialogue: 0,0:08:26.69,0:08:30.81,Gen_Main,,0000,0000,0000,,Nos entrenaron muy bien\Npara estrellarnos.
+Dialogue: 0,0:08:30.94,0:08:33.49,Gen_Main,,0000,0000,0000,,Bien, empecemos por la cena.
+Dialogue: 0,0:08:33.74,0:08:37.02,Gen_Main,,0000,0000,0000,,Iré a buscar comida.
+Dialogue: 0,0:08:37.16,0:08:39.99,Gen_Main,,0000,0000,0000,,Vi granjas y eso cerca de aquel hombre.
+Dialogue: 0,0:08:40.12,0:08:41.97,Gen_Main,,0000,0000,0000,,Suena bien.
+Dialogue: 0,0:08:42.08,0:08:43.75,Gen_Main,,0000,0000,0000,,Cuento contigo, Connie.
+Dialogue: 0,0:08:43.87,0:08:44.73,Gen_Main,,0000,0000,0000,,Vale.
+Dialogue: 0,0:08:47.17,0:08:48.88,Gen_Main,,0000,0000,0000,,Yo también voy.
+Dialogue: 0,0:09:04.43,0:09:08.94,Cart_A_Ari,,0000,0000,0000,,{\bord1\be2\3c&H949494&\4c&H949494&\fs28\fad(400,0)}— 3 años después —
+Dialogue: 0,0:09:15.49,0:09:19.16,Gen_Main,,0000,0000,0000,,Felicidades, Connie, Shamil.
+Dialogue: 0,0:09:19.28,0:09:20.91,Gen_Main,,0000,0000,0000,,Felicidades.
+Dialogue: 0,0:09:23.08,0:09:24.75,Gen_Main,,0000,0000,0000,,Hacéis buena pareja.
+Dialogue: 0,0:09:25.07,0:09:29.36,Gen_Main,,0000,0000,0000,,Aprecio la intención,\Npero no necesitamos un ritual divertido.
+Dialogue: 0,0:09:29.75,0:09:33.13,Gen_Main,,0000,0000,0000,,Con el mundo en este estado,\Nagradezco solo estar vivo.
+Dialogue: 0,0:09:33.26,0:09:34.99,Gen_Main,,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:09:35.09,0:09:38.01,Gen_Main,,0000,0000,0000,,Debemos divertirnos\Njusto por esta situación.
+Dialogue: 0,0:09:38.14,0:09:39.97,Gen_Main,,0000,0000,0000,,Casi no hay entretenimiento.
+Dialogue: 0,0:09:40.10,0:09:42.35,Gen_Main,,0000,0000,0000,,Sí lo hay. ¡Música!
+Dialogue: 0,0:09:43.52,0:09:45.77,Gen_Main,,0000,0000,0000,,Cantaré por la ocasión.
+Dialogue: 0,0:09:46.85,0:09:50.11,Gen_Main,,0000,0000,0000,,¡Qué oportunidad! ¡La cantante Lilian!
+Dialogue: 0,0:09:51.90,0:09:54.03,Gen_Italics,,0000,0000,0000,,Qué lejos hemos llegado.
+Dialogue: 0,0:09:54.15,0:09:56.66,Gen_Italics,,0000,0000,0000,,Cuánto hemos cambiado.
+Dialogue: 0,0:09:56.78,0:10:01.34,Gen_Italics,,0000,0000,0000,,Mil noches y un millón de lágrimas.
+Dialogue: 0,0:10:01.45,0:10:08.58,Gen_Italics,,0000,0000,0000,,Ahora puedo decir\Nque conquisté mi temor.
+Dialogue: 0,0:10:10.08,0:10:15.01,Gen_Italics,,0000,0000,0000,,Si pudiera volver, ¿qué te diría?
+Dialogue: 0,0:10:15.13,0:10:18.98,Gen_Italics,,0000,0000,0000,,Desearía que escucharas la verdad.
+Dialogue: 0,0:10:19.09,0:10:27.33,Gen_Italics,,0000,0000,0000,,Hasta entonces,\Nesperaré aquí pacientemente.
+Dialogue: 0,0:10:43.41,0:10:44.43,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:10:45.74,0:10:47.66,Gen_Main,,0000,0000,0000,,Me siento tan frustrada.
+Dialogue: 0,0:10:49.25,0:10:52.99,Gen_Main,,0000,0000,0000,,Los genios que pasaron\Nmiles de años haciendo la música…
+Dialogue: 0,0:10:53.79,0:10:55.93,Gen_Main,,0000,0000,0000,,Mozart, los Beatles…
+Dialogue: 0,0:10:56.05,0:10:58.84,Gen_Main,,0000,0000,0000,,Y pensar que todo desaparecerá…
+Dialogue: 0,0:10:58.97,0:11:00.22,Gen_Main,,0000,0000,0000,,No lo hará.
+Dialogue: 0,0:11:01.35,0:11:03.58,Gen_Main,,0000,0000,0000,,Un día desharemos la petrificación.
+Dialogue: 0,0:11:04.15,0:11:05.97,Gen_Main,,0000,0000,0000,,La humanidad no ha terminado.
+Dialogue: 0,0:11:06.68,0:11:10.87,Gen_Main,,0000,0000,0000,,Cuando menos,\Nestoy seguro de que Senku sigue vivo.
+Dialogue: 0,0:11:13.98,0:11:15.72,Gen_Main,,0000,0000,0000,,Debe estarlo.
+Dialogue: 0,0:11:16.36,0:11:17.73,Gen_Main,,0000,0000,0000,,Es tu hijo.
+Dialogue: 0,0:11:18.88,0:11:21.89,Gen_Main,,0000,0000,0000,,No tenemos relación de sangre,\Npero es mi hijo.
+Dialogue: 0,0:11:22.03,0:11:25.09,Gen_Main,,0000,0000,0000,,Es 10.000 millones de veces\Nmejor que yo.
+Dialogue: 0,0:11:25.45,0:11:29.18,Gen_Main,,0000,0000,0000,,Seguro que pensará\Nque rendirse es lo menos lógico.
+Dialogue: 0,0:11:29.29,0:11:32.33,Gen_Main,,0000,0000,0000,,No moriría ni estando petrificado.
+Dialogue: 0,0:11:33.13,0:11:38.66,Gen_Main,,0000,0000,0000,,Aunque nuestra generación\Nno lo logre, él lo hará.
+Dialogue: 0,0:11:40.01,0:11:44.05,Gen_Main,,0000,0000,0000,,Salvará a los 7000 millones de personas.
+Dialogue: 0,0:11:47.56,0:11:48.56,Gen_Main,,0000,0000,0000,,Un día,
+Dialogue: 0,0:11:50.48,0:11:54.95,Gen_Main,,0000,0000,0000,,cuando Senku reviva, necesitará amigos.
+Dialogue: 0,0:11:55.77,0:11:57.93,Gen_Main,,0000,0000,0000,,Vamos a pasarle el testigo.
+Dialogue: 0,0:11:59.15,0:12:01.17,Gen_Main,,0000,0000,0000,,Miles de años en el futuro.
+Dialogue: 0,0:12:20.76,0:12:25.51,Gen_Main,,0000,0000,0000,,Qué historia tan rara.\NNo entiendo qué significa.
+Dialogue: 0,0:12:26.89,0:12:30.85,Gen_Main,,0000,0000,0000,,Toda la humanidad se convirtió\Nen piedra hace miles de años.
+Dialogue: 0,0:12:31.45,0:12:34.20,Gen_Main,,0000,0000,0000,,Habéis visto las estatuas\Nque hay por todos lados.
+Dialogue: 0,0:12:34.31,0:12:36.19,Gen_Main,,0000,0000,0000,,Esos son humanos.
+Dialogue: 0,0:12:36.69,0:12:41.62,Gen_Main,,0000,0000,0000,,Seis personas, incluyendo al padre\Nde Senku, sobrevivieron en el cielo.
+Dialogue: 0,0:12:42.48,0:12:44.91,Gen_Main,,0000,0000,0000,,Todos en la aldea somos\Nsus descendientes,
+Dialogue: 0,0:12:45.03,0:12:47.32,Gen_Main,,0000,0000,0000,,miles de años después.
+Dialogue: 0,0:12:47.82,0:12:51.95,Gen_Main,,0000,0000,0000,,Entonces, ¿todos somos\Nparientes de Senku?
+Dialogue: 0,0:12:54.26,0:12:58.03,Gen_Main,,0000,0000,0000,,Byakuya y yo no estábamos emparentados,\Nasí que es un tecnicismo.
+Dialogue: 0,0:12:58.17,0:13:01.01,Gen_Main,,0000,0000,0000,,Además, nos separan\Ncientos de generaciones.
+Dialogue: 0,0:13:01.13,0:13:03.09,Gen_Main,,0000,0000,0000,,No puedes considerarnos parientes.
+Dialogue: 0,0:13:03.22,0:13:04.47,Gen_Main,,0000,0000,0000,,¡Vosotros!
+Dialogue: 0,0:13:05.84,0:13:08.30,Gen_Main,,0000,0000,0000,,¿Qué hacéis? Es vuestro día.
+Dialogue: 0,0:13:08.85,0:13:12.41,Gen_Main,,0000,0000,0000,,¡Es una fiesta! Tenemos un nuevo jefe.
+Dialogue: 0,0:13:12.52,0:13:14.31,Gen_Main,,0000,0000,0000,,Solo queréis empinar el codo.
+Dialogue: 0,0:13:15.39,0:13:18.31,Gen_Main,,0000,0000,0000,,¿Vamos juntos al festín?
+Dialogue: 0,0:13:22.48,0:13:25.54,Gen_Main,,0000,0000,0000,,¡Bebe, hechicero!
+Dialogue: 0,0:13:25.65,0:13:27.22,Gen_Main,,0000,0000,0000,,Soy un cienticero.
+Dialogue: 0,0:13:27.32,0:13:28.11,Gen_Main,,0000,0000,0000,,¡Pero bueno!
+Dialogue: 0,0:13:37.21,0:13:38.45,Gen_Main,,0000,0000,0000,,Tome, jefe.
+Dialogue: 0,0:13:38.58,0:13:40.87,Gen_Main,,0000,0000,0000,,Ya no soy el jefe.
+Dialogue: 0,0:13:41.28,0:13:42.17,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:13:42.30,0:13:45.55,Gen_Main,,0000,0000,0000,,Me cuesta pensar\Nque la señorita Ruri está divorciada.
+Dialogue: 0,0:13:47.76,0:13:50.51,Gen_Main,,0000,0000,0000,,Hacía mucho que no estaba tan animado.
+Dialogue: 0,0:13:50.64,0:13:53.31,Gen_Main,,0000,0000,0000,,Todos sonríen. Es divertido.
+Dialogue: 0,0:13:53.62,0:13:55.89,Gen_Main,,0000,0000,0000,,¡Sí, me divier…!
+Dialogue: 0,0:13:57.02,0:13:59.15,Gen_Main,,0000,0000,0000,,Debemos vigilar el puente.
+Dialogue: 0,0:14:00.69,0:14:02.98,Gen_Main,,0000,0000,0000,,¡{\i1}Inyusticia{\i0}!
+Dialogue: 0,0:14:03.11,0:14:05.82,Gen_Main,,0000,0000,0000,,No, no. Soy un forastero.
+Dialogue: 0,0:14:05.94,0:14:07.79,Gen_Main,,0000,0000,0000,,¿Qué más da eso?
+Dialogue: 0,0:14:07.90,0:14:10.24,Gen_Main,,0000,0000,0000,,¡Ven a beber con nosotros!
+Dialogue: 0,0:14:11.78,0:14:14.05,Gen_Main,,0000,0000,0000,,¿Eh? ¿Y el jefe?
+Dialogue: 0,0:14:21.29,0:14:25.46,Gen_Main,,0000,0000,0000,,La historia termina\Ncon un mensaje del señor Byakuya.
+Dialogue: 0,0:14:26.34,0:14:29.76,Gen_Main,,0000,0000,0000,,Pensé que no debía\Ndecírselo a los demás.
+Dialogue: 0,0:14:31.55,0:14:34.26,Gen_Main,,0000,0000,0000,,Ya me imaginaba algo así.
+Dialogue: 0,0:14:49.40,0:14:52.34,Gen_Main,,0000,0000,0000,,Podemos encontrar antibióticos\Nen las islas principales.
+Dialogue: 0,0:14:52.91,0:14:55.41,Gen_Main,,0000,0000,0000,,Es nuestro turno de arriesgarnos.
+Dialogue: 0,0:14:56.75,0:15:00.62,Gen_Main,,0000,0000,0000,,Si no volvemos a casa,\Ncuidad de los niños.
+Dialogue: 0,0:15:20.35,0:15:22.38,Gen_Main,,0000,0000,0000,,Volvamos.
+Dialogue: 0,0:15:40.62,0:15:42.42,Gen_Main,,0000,0000,0000,,Solo era neumonía.
+Dialogue: 0,0:15:42.54,0:15:44.50,Gen_Main,,0000,0000,0000,,¡Joder!
+Dialogue: 0,0:15:45.29,0:15:47.10,Gen_Main,,0000,0000,0000,,¡Solo era neumonía!
+Dialogue: 0,0:15:56.18,0:16:01.38,Gen_Main,,0000,0000,0000,,Pareces deprimido, viejo.
+Dialogue: 0,0:16:02.22,0:16:04.04,Gen_Main,,0000,0000,0000,,Tú lo dijiste.
+Dialogue: 0,0:16:04.66,0:16:08.65,Gen_Main,,0000,0000,0000,,Debemos divertirnos justo por esta situación.
+Dialogue: 0,0:16:09.69,0:16:11.54,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:16:16.37,0:16:19.16,Gen_Main,,0000,0000,0000,,Los humanos no necesitan diversión\Npara sobrevivir.
+Dialogue: 0,0:16:21.08,0:16:22.58,Gen_Main,,0000,0000,0000,,Me divertí.
+Dialogue: 0,0:16:25.08,0:16:30.09,Gen_Main,,0000,0000,0000,,Pudimos sobrevivir\Nporque la humanidad llegó al espacio.
+Dialogue: 0,0:16:31.17,0:16:32.78,Gen_Main,,0000,0000,0000,,Sé que es tarde,
+Dialogue: 0,0:16:33.51,0:16:37.27,Gen_Main,,0000,0000,0000,,pero nunca pensé\Nque tendría esposa e hijos.
+Dialogue: 0,0:16:39.01,0:16:44.44,Gen_Main,,0000,0000,0000,,Me divertí mucho\Ndesde que fuimos juntos al espacio.
+Dialogue: 0,0:16:49.94,0:16:54.55,Gen_Main,,0000,0000,0000,,Hay algo que nunca pude decirte.
+Dialogue: 0,0:16:55.36,0:16:58.16,Gen_Main,,0000,0000,0000,,El día que la humanidad se petrificó
+Dialogue: 0,0:16:59.32,0:17:02.30,Gen_Main,,0000,0000,0000,,me obligaste a comer ramen.
+Dialogue: 0,0:17:03.87,0:17:06.22,Gen_Main,,0000,0000,0000,,El ramen que comí en el espacio
+Dialogue: 0,0:17:07.00,0:17:08.82,Gen_Main,,0000,0000,0000,,estaba muy bueno.
+Dialogue: 0,0:17:10.30,0:17:11.80,Gen_Main,,0000,0000,0000,,Es casi gracioso.
+Dialogue: 0,0:17:13.58,0:17:17.97,Gen_Main,,0000,0000,0000,,Sí. La humanidad llegará al punto
+Dialogue: 0,0:17:18.58,0:17:20.88,Gen_Main,,0000,0000,0000,,de comer ramen en el espacio de nuevo.
+Dialogue: 0,0:17:21.81,0:17:23.17,Gen_Main,,0000,0000,0000,,Estoy seguro.
+Dialogue: 0,0:17:54.44,0:17:56.05,Gen_Main,,0000,0000,0000,,¿Qué es eso? ¿Una historia?
+Dialogue: 0,0:17:56.30,0:17:59.61,Gen_Main,,0000,0000,0000,,Algo de sabiduría\Npara que vivan nuestros descendientes.
+Dialogue: 0,0:17:59.72,0:18:01.91,Gen_Main,,0000,0000,0000,,Pensé en que fueran\Nhistorias divertidas.
+Dialogue: 0,0:18:02.01,0:18:04.97,Gen_Main,,0000,0000,0000,,Típico de un exprofesor.
+Dialogue: 0,0:18:05.64,0:18:08.55,Gen_Main,,0000,0000,0000,,Pero es difícil escribirlas en inglés.
+Dialogue: 0,0:18:08.69,0:18:10.17,Gen_Main,,0000,0000,0000,,Pues hazlo en japonés.
+Dialogue: 0,0:18:10.27,0:18:12.90,Gen_Main,,0000,0000,0000,,Me gustaría aprender tu idioma.
+Dialogue: 0,0:18:15.61,0:18:16.90,Gen_Italics,,0000,0000,0000,,Las Cien Historias.
+Dialogue: 0,0:18:17.70,0:18:21.48,Gen_Italics,,0000,0000,0000,,Lo más importante es\Ncómo obtener comida y evitar peligros.
+Dialogue: 0,0:18:21.62,0:18:22.87,Gen_Italics,,0000,0000,0000,,Bestias grandes y eso.
+Dialogue: 0,0:18:23.62,0:18:25.93,Gen_Italics,,0000,0000,0000,,Necesitamos una historia de minerales.
+Dialogue: 0,0:18:26.37,0:18:32.38,Gen_Italics,,0000,0000,0000,,Podría aparecer alguien interesado\Nen piedras y que las coleccione.
+Dialogue: 0,0:18:35.26,0:18:37.93,Gen_Italics,,0000,0000,0000,,La historia número uno\Nde las Cien Historias.
+Dialogue: 0,0:18:39.08,0:18:44.50,Gen_Italics,,0000,0000,0000,,Quiero que vayáis a Japón,\Ndonde Senku espera.
+Dialogue: 0,0:18:46.06,0:18:48.02,Gen_Main,,0000,0000,0000,,Como esperaba el señor Byakuya,
+Dialogue: 0,0:18:48.52,0:18:51.98,Gen_Main,,0000,0000,0000,,hubo alguien\Nque se interesó en las rocas.
+Dialogue: 0,0:18:52.36,0:18:53.52,Gen_Main,,0000,0000,0000,,Y ese es Chrome.
+Dialogue: 0,0:18:53.65,0:18:54.49,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:18:56.23,0:18:59.03,Gen_Main,,0000,0000,0000,,Ese viejo no era tan inútil.
+Dialogue: 0,0:19:09.62,0:19:11.02,Gen_Main,,0000,0000,0000,,Este es el cementerio.
+Dialogue: 0,0:19:12.54,0:19:18.09,Gen_Main,,0000,0000,0000,,Dicen que estas son las tumbas\Ndel señor Byakuya y los fundadores.
+Dialogue: 0,0:19:19.76,0:19:22.75,Gen_Main,,0000,0000,0000,,Se fueron hace 3700 años.
+Dialogue: 0,0:19:22.89,0:19:26.85,Gen_Main,,0000,0000,0000,,Aunque sea una historia real,\Nya no habrá ni un hueso.
+Dialogue: 0,0:19:27.89,0:19:32.03,Gen_Main,,0000,0000,0000,,Y la última de las Cien Historias…
+Dialogue: 0,0:19:32.88,0:19:34.80,Gen_Main,,0000,0000,0000,,… es un mensaje mío.
+Dialogue: 0,0:19:35.32,0:19:37.33,Gen_Italics,,0000,0000,0000,,Oye, Senku.
+Dialogue: 0,0:19:37.44,0:19:40.12,Gen_Italics,,0000,0000,0000,,Si escuchas esta historia,
+Dialogue: 0,0:19:40.24,0:19:43.58,Gen_Italics,,0000,0000,0000,,es que rompiste la petrificación,\Nquizás milenios después.
+Dialogue: 0,0:19:44.49,0:19:45.85,Gen_Italics,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:19:46.41,0:19:48.95,Gen_Italics,,0000,0000,0000,,Aunque ya estaré muerto.
+Dialogue: 0,0:19:51.04,0:19:54.83,Gen_Italics,,0000,0000,0000,,El regalo científico que te prometí\Nson los amigos
+Dialogue: 0,0:19:54.96,0:19:57.95,Gen_Italics,,0000,0000,0000,,que conectarán contigo\Nmediante las Cien Historias.
+Dialogue: 0,0:19:59.17,0:20:02.26,Gen_Italics,,0000,0000,0000,,El mundo es muy divertido,\Nincluso después del colapso.
+Dialogue: 0,0:20:08.77,0:20:13.31,Gen_Italics,,0000,0000,0000,,Con tu ciencia y la ayuda de tus amigos,
+Dialogue: 0,0:20:13.44,0:20:16.52,Gen_Italics,,0000,0000,0000,,seguro que harás un mundo\Naún más divertido.
+Dialogue: 0,0:20:22.24,0:20:23.91,Gen_Main,,0000,0000,0000,,No perderás.
+Dialogue: 0,0:20:25.03,0:20:29.43,Gen_Main,,0000,0000,0000,,Reconstruirás la civilización desde cero\Ny salvarás a toda la humanidad.
+Dialogue: 0,0:20:30.91,0:20:34.79,Gen_Main,,0000,0000,0000,,Senku, puedes hacerlo.
+Dialogue: 0,0:20:43.09,0:20:47.00,Gen_Main,,0000,0000,0000,,Echaré un ojo antes de volver.
+Dialogue: 0,0:20:48.14,0:20:51.34,Gen_Main,,0000,0000,0000,,Sí. Regresaré a la aldea.
+Dialogue: 0,0:20:51.64,0:20:52.46,Gen_Main,,0000,0000,0000,,Bien.
+Dialogue: 0,0:20:57.86,0:20:59.23,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:20:59.36,0:21:01.99,Gen_Main,,0000,0000,0000,,Eso fue hace miles de años, ¿eh?
+Dialogue: 0,0:21:02.76,0:21:05.05,Gen_Main,,0000,0000,0000,,Fue cuando aún estaba\Nsolo en la oscuridad,
+Dialogue: 0,0:21:05.20,0:21:08.21,Gen_Main,,0000,0000,0000,,contando cientos de millones\Nde segundos.
+Dialogue: 0,0:21:11.83,0:21:13.69,Gen_Main,,0000,0000,0000,,Qué recuerdos.
+Dialogue: 0,0:21:16.17,0:21:17.45,Gen_Main,,0000,0000,0000,,Qué recuerdos.
+Dialogue: 0,0:21:34.35,0:21:37.48,Gen_Main,,0000,0000,0000,,Habría estado perdido\Nsin tu regalo científico.
+Dialogue: 0,0:21:37.85,0:21:40.93,Gen_Main,,0000,0000,0000,,Me alegra recibirlo\Nmiles de años después.
+Dialogue: 0,0:21:44.69,0:21:47.62,Gen_Main,,0000,0000,0000,,No, solo bebo cola.
+Dialogue: 0,0:21:47.76,0:21:48.36,Gen_Main,,0000,0000,0000,,¿Cola?
+Dialogue: 0,0:21:48.95,0:21:51.86,Gen_Main,,0000,0000,0000,,No podría hablar de negocios\Nsi me embriagase.
+Dialogue: 0,0:21:51.99,0:21:54.62,Gen_Main,,0000,0000,0000,,Ahora que la aldea está unida,\Ntengo un mensaje.
+Dialogue: 0,0:21:54.75,0:21:58.73,Gen_Main,,0000,0000,0000,,Sí, escuchémoslo, mentalista.
+Dialogue: 0,0:22:00.04,0:22:02.66,Gen_Main,,0000,0000,0000,,¿Qué pasó en el Imperio Tsukasa?
+Dialogue: 0,0:22:04.71,0:22:05.79,Gen_Main,,0000,0000,0000,,Van a venir.
+Dialogue: 0,0:22:06.38,0:22:07.80,Gen_Main,,0000,0000,0000,,Tsukasa y su ejército.
+Dialogue: 0,0:22:11.89,0:22:16.25,Gen_Main,,0000,0000,0000,,Por fin es hora de mostrar\Nel poder del reino científico.
+Dialogue: 0,0:22:17.60,0:22:20.02,Gen_Main,,0000,0000,0000,,Qué emocionante.
+Dialogue: 0,0:23:58.49,0:24:00.96,Cart_Next,,0000,0000,0000,,{\pos(79,302)}Próximo episodio\N{\fs36}Guerra de piedra
+Dialogue: 0,0:24:00.96,0:24:06.25,Cart_Nota,,0000,0000,0000,,Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad

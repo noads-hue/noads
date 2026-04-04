@@ -1,0 +1,338 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.44,0:00:10.90,Gen_Main,,0000,0000,0000,,Dejaré la aldea por ahora.
+Dialogue: 0,0:00:11.40,0:00:13.89,Gen_Main,,0000,0000,0000,,No quieres lidiar con un forastero
+Dialogue: 0,0:00:14.07,0:00:17.03,Gen_Main,,0000,0000,0000,,que ni siquiera ha participado,\N¿verdad, Kinro?
+Dialogue: 0,0:00:17.20,0:00:19.03,Gen_Main,,0000,0000,0000,,Hablaremos de tu parte del trato
+Dialogue: 0,0:00:19.20,0:00:24.57,Gen_Main,,0000,0000,0000,,cuando captures la aldea, Senku.
+Dialogue: 0,0:00:24.75,0:00:25.62,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:28.61,0:00:29.62,Gen_Main,,0000,0000,0000,,Chrome.
+Dialogue: 0,0:00:31.21,0:00:32.10,Gen_Main,,0000,0000,0000,,Rur…
+Dialogue: 0,0:00:32.26,0:00:36.01,Gen_Main,,0000,0000,0000,,Sacerdotisa, va a casarse\Ncon el ganador, ¿no?
+Dialogue: 0,0:00:36.72,0:00:37.89,Gen_Main,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:00:38.05,0:00:42.12,Gen_Main,,0000,0000,0000,,Ahora, Senku y yo solo tenemos\Nque ceder la victoria.
+Dialogue: 0,0:00:42.27,0:00:43.60,Gen_Main,,0000,0000,0000,,Ganará Chrome.
+Dialogue: 0,0:00:45.10,0:00:47.35,Gen_Main,,0000,0000,0000,,Se te nota en la cara.
+Dialogue: 0,0:00:47.52,0:00:50.94,Gen_Main,,0000,0000,0000,,Querías que ganara él, ¿verdad?
+Dialogue: 0,0:00:53.44,0:00:57.78,Gen_Main,,0000,0000,0000,,Buen trabajo notando la diferencia\Nde convexo y cóncavo.
+Dialogue: 0,0:00:58.62,0:01:02.73,Gen_Main,,0000,0000,0000,,No, como sacerdotisa,\Nno tengo esos pensamientos.
+Dialogue: 0,0:01:03.23,0:01:05.17,Gen_Main,,0000,0000,0000,,Solo sirvo a los dioses.
+Dialogue: 0,0:01:05.68,0:01:08.13,Gen_Main,,0000,0000,0000,,Me casaré con el ganador\Nde la Gran Batalla.
+Dialogue: 0,0:01:09.85,0:01:11.29,Gen_Main,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:01:11.80,0:01:13.70,Gen_Main,,0000,0000,0000,,Y yo que pensé…
+Dialogue: 0,0:01:13.88,0:01:16.88,Gen_Main,,0000,0000,0000,,Espera, ¿no te importa quién gane?
+Dialogue: 0,0:01:18.39,0:01:19.71,Gen_Main,,0000,0000,0000,,Bueno…
+Dialogue: 0,0:01:19.89,0:01:20.73,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:01:20.89,0:01:23.93,Gen_Italics,,0000,0000,0000,,Aprende a leer entre líneas, Ginro.
+Dialogue: 0,0:01:24.23,0:01:27.52,Gen_Italics,,0000,0000,0000,,¿Qué esperas que diga?
+Dialogue: 0,0:01:28.56,0:01:31.27,Cart_A_Ari,,0000,0000,0000,,{\fs28\c&HDDDDDD&}Ginro, el líder de la aldea
+Dialogue: 0,0:01:28.73,0:01:31.27,Gen_Italics,,0000,0000,0000,,¡Ginro, el líder de la aldea!
+Dialogue: 0,0:01:31.44,0:01:32.71,Cart_C_Tre,,0000,0000,0000,,{\pos(313.714,141.714)}Basura
+Dialogue: 0,0:01:35.68,0:01:38.23,Gen_Main,,0000,0000,0000,,Empieza la segunda pelea\Nde las semifinales.
+Dialogue: 0,0:01:38.41,0:01:39.80,Gen_Main,,0000,0000,0000,,Senku contra Ginro.
+Dialogue: 0,0:01:40.11,0:01:41.28,Gen_Main,,0000,0000,0000,,Adelante.
+Dialogue: 0,0:01:44.25,0:01:46.33,Gen_Main,,0000,0000,0000,,¡¿Qué haces, Ginro, {\i1}desgraciao{\i0}?!
+Dialogue: 0,0:01:46.50,0:01:48.33,Gen_Main,,0000,0000,0000,,¡Es que…
+Dialogue: 0,0:01:48.50,0:01:51.70,Gen_Main,,0000,0000,0000,,Ruri dice que se casará con cualquiera!
+Dialogue: 0,0:01:51.88,0:01:54.05,Gen_Main,,0000,0000,0000,,¡Tal vez tenga una oportunidad!
+Dialogue: 0,0:01:54.21,0:01:56.80,Gen_Main,,0000,0000,0000,,¡Es mi momento de ser el líder!
+Dialogue: 0,0:01:58.22,0:02:00.81,Gen_Main,,0000,0000,0000,,¡Ginro, idiota!
+Dialogue: 0,0:02:00.97,0:02:02.18,Gen_Main,,0000,0000,0000,,Qué rastrero.
+Dialogue: 0,0:02:02.35,0:02:07.35,Gen_Main,,0000,0000,0000,,¡Si me vuelvo el líder,\Ncomeré ramen todos los días!
+Dialogue: 0,0:02:08.19,0:02:09.99,Gen_Main,,0000,0000,0000,,¡Y tendré un harén!
+Dialogue: 0,0:02:10.15,0:02:14.69,Gen_Main,,0000,0000,0000,,¡Crearé una aldea estupenda!
+Dialogue: 0,0:02:19.00,0:02:20.15,Gen_Italics,,0000,0000,0000,,Creo que…
+Dialogue: 0,0:02:20.67,0:02:23.83,Gen_Italics,,0000,0000,0000,,Ginro, el que sea menos tú.
+Dialogue: 0,0:02:24.99,0:02:27.25,Gen_Italics,,0000,0000,0000,,No podemos dejarlo ser líder.
+Dialogue: 0,0:02:28.00,0:02:30.54,Gen_Main,,0000,0000,0000,,Hay que detener a ese idiota.
+Dialogue: 0,0:02:30.76,0:02:32.71,Gen_Main,,0000,0000,0000,,Pero Senku no tiene puede con él.
+Dialogue: 0,0:02:37.54,0:02:39.30,Gen_Main,,0000,0000,0000,,Senku.
+Dialogue: 0,0:02:40.18,0:02:43.64,Gen_Main,,0000,0000,0000,,Nuestra arma es la ciencia, ¿no?
+Dialogue: 0,0:02:51.85,0:02:53.94,Gen_Main,,0000,0000,0000,,Qué remedio.
+Dialogue: 0,0:02:54.96,0:02:57.40,Gen_Main,,0000,0000,0000,,Vas a hacer alguna hechicería, ¿verdad?
+Dialogue: 0,0:02:57.66,0:02:59.49,Gen_Main,,0000,0000,0000,,¡No te dejaré!
+Dialogue: 0,0:03:07.37,0:03:11.87,Gen_Italics,,0000,0000,0000,,Ese tal Senku es listo.
+Dialogue: 0,0:03:16.00,0:03:17.97,Gen_Main,,0000,0000,0000,,¡El ganador es Senku!
+Dialogue: 0,0:03:18.13,0:03:19.70,Gen_Main,,0000,0000,0000,,¡Ginro ha caído!
+Dialogue: 0,0:03:19.88,0:03:21.88,Gen_Main,,0000,0000,0000,,¡Senku irá a la final!
+Dialogue: 0,0:03:22.05,0:03:24.93,Gen_Main,,0000,0000,0000,,¡Toda la aldea se ha unido!
+Dialogue: 0,0:03:25.10,0:03:26.03,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:03:26.18,0:03:30.56,Gen_Main,,0000,0000,0000,,Ahora podemos convertirla\Nen un reino científico.
+Dialogue: 0,0:03:31.06,0:03:35.07,Gen_Main,,0000,0000,0000,,Y podemos salvar a Ruri.
+Dialogue: 0,0:03:40.84,0:03:43.03,Gen_Main,,0000,0000,0000,,Bueno, es la final.
+Dialogue: 0,0:03:43.20,0:03:46.00,Gen_Main,,0000,0000,0000,,Solo tengo que dejarme perder.
+Dialogue: 0,0:03:46.16,0:03:49.97,Gen_Main,,0000,0000,0000,,Chrome, podrás casarte y ser el líder.
+Dialogue: 0,0:03:51.21,0:03:54.03,Gen_Main,,0000,0000,0000,,Ahí tienes tu final de telenovela.
+Dialogue: 0,0:03:54.21,0:03:56.29,Gen_Main,,0000,0000,0000,,Levántate y…
+Dialogue: 0,0:04:02.34,0:04:05.42,Gen_Main,,0000,0000,0000,,Este… Ya se ha muerto.
+Dialogue: 0,0:04:06.06,0:04:11.06,Gen_Main,,0000,0000,0000,,Debió sentirse aliviado\Nal pensar que Ruri estará bien.
+Dialogue: 0,0:04:15.56,0:04:16.97,Gen_Main,,0000,0000,0000,,O sea, que…
+Dialogue: 0,0:04:17.15,0:04:18.18,Gen_Main,,0000,0000,0000,,¿Ahora qué?
+Dialogue: 0,0:04:18.90,0:04:21.40,Gen_Main,,0000,0000,0000,,Entonces, la final…
+Dialogue: 0,0:04:26.57,0:04:30.66,Gen_Main,,0000,0000,0000,,El nuevo líder de la aldea\Ny esposo de la sacerdotisa…
+Dialogue: 0,0:04:31.66,0:04:34.58,Gen_Main,,0000,0000,0000,,¡es el ganador\Nde la Gran Batalla, Senku!
+Dialogue: 0,0:04:37.46,0:04:42.05,Cart_A_Tre,,0000,0000,0000,,{\pos(128,173)}Ha obtenido el puesto\Nde líder de la aldea y esposa
+Dialogue: 0,0:06:12.22,0:06:16.98,Cart_Title,,0000,0000,0000,,{\pos(349,40)\frz18.68}La culminación\Nde dos millones de años
+Dialogue: 0,0:06:17.60,0:06:19.37,Gen_Italics,,0000,0000,0000,,Y ahora…
+Dialogue: 0,0:06:19.52,0:06:21.56,Gen_Italics,,0000,0000,0000,,¿Ahora qué?
+Dialogue: 0,0:06:21.73,0:06:25.43,Gen_Main,,0000,0000,0000,,Bueno, esto es un marrón.
+Dialogue: 0,0:06:25.61,0:06:30.82,Gen_Main,,0000,0000,0000,,Solo tengo que casarme con Ruri\Ny tendré la aldea, ¿no?
+Dialogue: 0,0:06:32.25,0:06:33.40,Gen_Main,,0000,0000,0000,,Pues adelante.
+Dialogue: 0,0:06:34.33,0:06:36.62,Gen_Main,,0000,0000,0000,,¡Senku se ha casado!
+Dialogue: 0,0:06:36.79,0:06:40.14,Gen_Main,,0000,0000,0000,,¡Espera, Senku, ¿de dónde has salido?!
+Dialogue: 0,0:06:40.29,0:06:42.88,Gen_Main,,0000,0000,0000,,¡No permitiré\Nque un forastero sea líder!
+Dialogue: 0,0:06:43.04,0:06:46.74,Gen_Main,,0000,0000,0000,,Anda, si es el exlíder.
+Dialogue: 0,0:06:46.92,0:06:50.80,Gen_Main,,0000,0000,0000,,No me interesa tu aprobación\Nni una pizca, oye.
+Dialogue: 0,0:06:51.47,0:06:54.37,Gen_Main,,0000,0000,0000,,¿De qué lado debemos estar?
+Dialogue: 0,0:06:54.51,0:06:56.54,Gen_Main,,0000,0000,0000,,¡Obviamente, con el señor Kokuyo!
+Dialogue: 0,0:06:56.68,0:06:58.70,Gen_Main,,0000,0000,0000,,¡¿Estás loco?!
+Dialogue: 0,0:06:58.85,0:07:02.06,Gen_Main,,0000,0000,0000,,Pero él ganó limpiamente\Nfrente a los dioses.
+Dialogue: 0,0:07:02.23,0:07:05.07,Gen_Main,,0000,0000,0000,,Y está casado con la sacerdotisa.
+Dialogue: 0,0:07:05.23,0:07:07.74,Gen_Main,,0000,0000,0000,,Una victoria es una victoria.
+Dialogue: 0,0:07:07.90,0:07:10.24,Gen_Main,,0000,0000,0000,,¡Alcohol! ¡Traed el alcohol!
+Dialogue: 0,0:07:10.40,0:07:11.16,Gen_Main,,0000,0000,0000,,¡Qué directo!
+Dialogue: 0,0:07:11.32,0:07:14.58,Gen_Main,,0000,0000,0000,,¡Pareces uno de esos!
+Dialogue: 0,0:07:20.60,0:07:22.31,Gen_Main,,0000,0000,0000,,Este barril no vale.
+Dialogue: 0,0:07:22.46,0:07:24.36,Gen_Main,,0000,0000,0000,,Ya se ha avinagrado.
+Dialogue: 0,0:07:24.50,0:07:26.82,Gen_Main,,0000,0000,0000,,¡Espera, también me vale!
+Dialogue: 0,0:07:29.97,0:07:30.83,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:07:31.01,0:07:31.91,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:07:33.43,0:07:34.80,Gen_Main,,0000,0000,0000,,Estoy bien.
+Dialogue: 0,0:07:34.97,0:07:38.35,Gen_Italics,,0000,0000,0000,,Está claro que está al límite.
+Dialogue: 0,0:07:39.85,0:07:44.31,Gen_Italics,,0000,0000,0000,,Acabamos de terminar\Ny no hay tiempo para descansar.
+Dialogue: 0,0:07:44.75,0:07:46.20,Gen_Main,,0000,0000,0000,,Iremos a terminar la pana…
+Dialogue: 0,0:07:46.36,0:07:47.57,Gen_Main,,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:07:48.07,0:07:50.69,Gen_Main,,0000,0000,0000,,La estrella no puede irse.
+Dialogue: 0,0:07:50.86,0:07:52.20,Gen_Main,,0000,0000,0000,,Vamos, un trago.
+Dialogue: 0,0:07:52.52,0:07:56.62,Gen_Main,,0000,0000,0000,,Debemos celebrarlo toda la noche.
+Dialogue: 0,0:07:57.71,0:07:58.82,Gen_Main,,0000,0000,0000,,¿En serio?
+Dialogue: 0,0:08:01.54,0:08:02.79,Gen_Main,,0000,0000,0000,,Pues me divorcio.
+Dialogue: 0,0:08:04.75,0:08:07.29,Gen_Main,,0000,0000,0000,,¡Senku se ha divorciado!
+Dialogue: 0,0:08:09.09,0:08:11.30,Gen_Main,,0000,0000,0000,,¡Tengo un montón de alcohol y vinagre!
+Dialogue: 0,0:08:11.80,0:08:14.58,Gen_Main,,0000,0000,0000,,¡Vámonos,\Nciudadanos del reino científico!
+Dialogue: 0,0:08:14.76,0:08:18.51,Gen_Main,,0000,0000,0000,,¿Cuándo me hice\Nciudadano del reino científico?
+Dialogue: 0,0:08:18.68,0:08:21.56,Gen_Main,,0000,0000,0000,,¡Lo siento, Ruri! ¡Luego te lo explico!
+Dialogue: 0,0:08:23.19,0:08:25.70,Gen_Main,,0000,0000,0000,,Ese hombre está loco.
+Dialogue: 0,0:08:27.86,0:08:33.74,Gen_Main,,0000,0000,0000,,Estoy algo confundida, pero creo que soy\Nla primera sacerdotisa divorciada.
+Dialogue: 0,0:08:35.57,0:08:37.62,Gen_Main,,0000,0000,0000,,¿Verdad, Chrome?
+Dialogue: 0,0:08:40.70,0:08:43.08,Gen_Main,,0000,0000,0000,,¡No me jodas!
+Dialogue: 0,0:08:43.25,0:08:45.38,Gen_Main,,0000,0000,0000,,¡Atrapad a ese hombre!
+Dialogue: 0,0:08:45.54,0:08:47.41,Gen_Main,,0000,0000,0000,,Senku no es malvado.
+Dialogue: 0,0:08:48.50,0:08:50.67,Gen_Main,,0000,0000,0000,,Deje que se explique.
+Dialogue: 0,0:08:51.42,0:08:54.78,Gen_Main,,0000,0000,0000,,Los hechi… no, los cienticeros…
+Dialogue: 0,0:08:54.93,0:08:58.26,Gen_Main,,0000,0000,0000,,arriesgaron sus vidas los últimos meses.
+Dialogue: 0,0:08:59.05,0:09:00.65,Gen_Main,,0000,0000,0000,,Los he visto hacerlo.
+Dialogue: 0,0:09:06.44,0:09:07.70,Gen_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:09:07.85,0:09:11.18,Gen_Main,,0000,0000,0000,,El agua del río hace girar el bambú.
+Dialogue: 0,0:09:12.44,0:09:14.33,Gen_Main,,0000,0000,0000,,Me salió bien a la primera.
+Dialogue: 0,0:09:14.49,0:09:17.89,Gen_Main,,0000,0000,0000,,Soy el mejor. Podéis enamoraros de mí.
+Dialogue: 0,0:09:18.03,0:09:19.39,Gen_Main,,0000,0000,0000,,Nada mal.
+Dialogue: 0,0:09:19.53,0:09:22.77,Gen_Main,,0000,0000,0000,,A mí siempre me falla\Nlo que construyo al primer intento.
+Dialogue: 0,0:09:22.91,0:09:25.70,Gen_Main,,0000,0000,0000,,Senku, tú no tienes que enamorarte.
+Dialogue: 0,0:09:25.87,0:09:28.29,Gen_Main,,0000,0000,0000,,¿Y esto para qué sirve?
+Dialogue: 0,0:09:28.83,0:09:32.38,Gen_Main,,0000,0000,0000,,Buena pregunta. No tengo ni idea.
+Dialogue: 0,0:09:33.67,0:09:35.55,Gen_Main,,0000,0000,0000,,Lo sabréis mañana.
+Dialogue: 0,0:09:35.72,0:09:38.26,Gen_Main,,0000,0000,0000,,Lo vigilaré un rato.
+Dialogue: 0,0:09:38.43,0:09:42.18,Gen_Main,,0000,0000,0000,,Lloraría si la corriente\Nse llevase a mi pequeño.
+Dialogue: 0,0:09:44.39,0:09:45.42,Gen_Main,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:09:45.60,0:09:51.51,Gen_Main,,0000,0000,0000,,¿Vas a dejar a un viejo débil\Nvigilar solo? ¿No me vas a ayudar?
+Dialogue: 0,0:09:52.23,0:09:54.03,Gen_Main,,0000,0000,0000,,¡Suéltame, abuelete!
+Dialogue: 0,0:09:57.61,0:09:59.77,Gen_Main,,0000,0000,0000,,Esto… vale, lo ayudaré.
+Dialogue: 0,0:10:00.32,0:10:01.86,Gen_Italics,,0000,0000,0000,,¿Abuelete?
+Dialogue: 0,0:10:13.88,0:10:16.41,Gen_Main,,0000,0000,0000,,Despierta y huele el amoniaco.
+Dialogue: 0,0:10:16.59,0:10:20.26,Gen_Main,,0000,0000,0000,,El equipo científico tiene que ayudar.
+Dialogue: 0,0:10:20.43,0:10:23.82,Gen_Main,,0000,0000,0000,,Ahora hay que mezclarlo y terminaremos.
+Dialogue: 0,0:10:23.97,0:10:27.63,Gen_Main,,0000,0000,0000,,Para mañana tendremos\Nla medicina de sulfa.
+Dialogue: 0,0:10:27.81,0:10:28.86,Gen_Main,,0000,0000,0000,,¡¿Mañana?!
+Dialogue: 0,0:10:31.05,0:10:33.58,Gen_Main,,0000,0000,0000,,Haciendo medicinas de sulfa\Npara niños felices.
+Dialogue: 0,0:10:33.73,0:10:35.19,Gen_Main,,0000,0000,0000,,Paso uno.
+Dialogue: 0,0:10:35.47,0:10:38.33,Gen_Main,,0000,0000,0000,,Primero se utiliza\Nuna roca combustible llamada carbón.
+Dialogue: 0,0:10:38.49,0:10:39.53,Gen_Main,,0000,0000,0000,,¡Roca combustible!
+Dialogue: 0,0:10:40.03,0:10:42.54,Gen_Main,,0000,0000,0000,,Déjamelo a mí. Tengo en mi choza.
+Dialogue: 0,0:10:45.08,0:10:48.75,Gen_Main,,0000,0000,0000,,La usamos toda al hacer el hierro.
+Dialogue: 0,0:10:48.91,0:10:50.17,Gen_Main,,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:10:51.70,0:10:53.18,Gen_Main,,0000,0000,0000,,No te preocupes.
+Dialogue: 0,0:10:53.34,0:10:58.17,Gen_Main,,0000,0000,0000,,Hay mucho carbón barato como ese\Nen las montañas alrededor.
+Dialogue: 0,0:10:58.45,0:11:01.88,Gen_Main,,0000,0000,0000,,Además, no es el carbón en sí\Nlo que queremos.
+Dialogue: 0,0:11:02.11,0:11:03.93,Gen_Main,,0000,0000,0000,,Es el alquitrán que queda al arder.
+Dialogue: 0,0:11:05.39,0:11:07.70,Gen_Main,,0000,0000,0000,,Primero se lava con ácido clorhídrico.
+Dialogue: 0,0:11:07.85,0:11:12.45,Gen_Main,,0000,0000,0000,,Se echa el acetato de etilo que hicimos\Nde alcohol y vinagre y tenemos anilina.
+Dialogue: 0,0:11:13.48,0:11:16.40,Gen_Main,,0000,0000,0000,,¡Espera, espera! Me he perdido.
+Dialogue: 0,0:11:17.08,0:11:18.75,Gen_Main,,0000,0000,0000,,¿Ese es el paso uno?
+Dialogue: 0,0:11:19.03,0:11:23.41,Gen_Main,,0000,0000,0000,,¿Cuántos pasos complicados\Nharemos para mañana?
+Dialogue: 0,0:11:24.48,0:11:26.83,Gen_Main,,0000,0000,0000,,Como 25, creo.
+Dialogue: 0,0:11:27.62,0:11:28.55,Gen_Main,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:12:02.49,0:12:05.41,Gen_Main,,0000,0000,0000,,¿Y esto qué hace?
+Dialogue: 0,0:12:05.57,0:12:08.20,Gen_Main,,0000,0000,0000,,¿Ya puedo ver dentro?
+Dialogue: 0,0:12:15.76,0:12:16.82,Gen_Main,,0000,0000,0000,,Esto es…
+Dialogue: 0,0:12:17.13,0:12:18.96,Cart_A_Tre,,0000,0000,0000,,{\fs18\pos(167,100)}Ha obtenido agua carbonatada
+Dialogue: 0,0:12:22.84,0:12:25.22,Gen_Main,,0000,0000,0000,,¿Puedes hacerlo?
+Dialogue: 0,0:12:25.84,0:12:28.39,Gen_Main,,0000,0000,0000,,Un refresco de cola.
+Dialogue: 0,0:12:29.28,0:12:30.85,Gen_Main,,0000,0000,0000,,Sí, sí puedo.
+Dialogue: 0,0:12:31.52,0:12:32.68,Gen_Main,,0000,0000,0000,,Aunque nadie más pueda.
+Dialogue: 0,0:12:33.23,0:12:37.73,Gen_Italics,,0000,0000,0000,,Bueno, no podría ser tan amable.
+Dialogue: 0,0:12:38.65,0:12:41.57,Gen_Main,,0000,0000,0000,,Senku, ¿para qué es esta cosita?
+Dialogue: 0,0:12:46.56,0:12:48.52,Gen_Main,,0000,0000,0000,,¿Ha explotado algo?
+Dialogue: 0,0:12:48.70,0:12:50.71,Gen_Main,,0000,0000,0000,,Esto pinta mal.
+Dialogue: 0,0:12:50.87,0:12:52.87,Gen_Main,,0000,0000,0000,,¿Qué ha pasado?
+Dialogue: 0,0:12:54.83,0:12:57.29,Gen_Main,,0000,0000,0000,,No hicimos nada.
+Dialogue: 0,0:12:57.80,0:13:01.74,Gen_Main,,0000,0000,0000,,Puse vinagre en conchas cosidas, extraje\Nácido acético con ácido sulfúrico,
+Dialogue: 0,0:13:01.92,0:13:06.05,Gen_Main,,0000,0000,0000,,lo hicimos cetena con un tubo de hierro\Ne hicimos anhídrido acético.
+Dialogue: 0,0:13:06.22,0:13:08.75,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:13:08.93,0:13:12.14,Gen_Main,,0000,0000,0000,,Probé a gotear el anhídrido acético\Nen la anilina,
+Dialogue: 0,0:13:12.31,0:13:15.57,Gen_Main,,0000,0000,0000,,solté mucho y boom.
+Dialogue: 0,0:13:15.73,0:13:17.52,Gen_Main,,0000,0000,0000,,De ahí este desastre.
+Dialogue: 0,0:13:18.15,0:13:21.86,Gen_Main,,0000,0000,0000,,Mezclas el ácido clorosulfúrico\Nen la acetanilida que hicimos
+Dialogue: 0,0:13:22.03,0:13:25.14,Gen_Main,,0000,0000,0000,,y conseguimos cloruro\Nde para-acetamidobencenosulfonilo.
+Dialogue: 0,0:13:25.32,0:13:29.74,Gen_Main,,0000,0000,0000,,Pones amoniaco y haces ácido\Npara-acetamidobencenosulfónico,
+Dialogue: 0,0:13:29.91,0:13:32.67,Gen_Main,,0000,0000,0000,,lo cocinas con ácido clorhídrico\Ny queda eso.
+Dialogue: 0,0:13:33.08,0:13:35.70,Gen_Main,,0000,0000,0000,,Te felicito por no trabarte\Nal decir eso.
+Dialogue: 0,0:13:35.87,0:13:39.09,Gen_Main,,0000,0000,0000,,Por último, el agua carbonatada.
+Dialogue: 0,0:13:39.25,0:13:40.74,Gen_Main,,0000,0000,0000,,Sí, sí, Senku.
+Dialogue: 0,0:13:40.92,0:13:43.60,Gen_Main,,0000,0000,0000,,No espero nada, pero…
+Dialogue: 0,0:13:43.76,0:13:45.92,Gen_Main,,0000,0000,0000,,Sí, el agua carbonatada es…
+Dialogue: 0,0:13:46.88,0:13:48.55,Gen_Main,,0000,0000,0000,,El agua carbonatada es…
+Dialogue: 0,0:13:49.05,0:13:52.56,Gen_Main,,0000,0000,0000,,¡para hacer bicarbonato de sodio\Nmezclándola con hidróxido de sodio.
+Dialogue: 0,0:13:52.76,0:13:54.83,Gen_Main,,0000,0000,0000,,Sí. Claro.
+Dialogue: 0,0:13:54.98,0:13:57.52,Gen_Main,,0000,0000,0000,,Bicarbonato. Eso pensaba.
+Dialogue: 0,0:13:58.60,0:14:00.45,Gen_Main,,0000,0000,0000,,Paso 25.
+Dialogue: 0,0:14:00.61,0:14:05.65,Gen_Main,,0000,0000,0000,,Por último, lo lavamos\Ncon bicarbonato y esperamos.
+Dialogue: 0,0:14:06.30,0:14:07.65,Gen_Main,,0000,0000,0000,,Ha costado mucho.
+Dialogue: 0,0:14:18.79,0:14:20.26,Gen_Main,,0000,0000,0000,,Medio año.
+Dialogue: 0,0:14:20.63,0:14:21.81,Gen_Main,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:14:22.59,0:14:24.81,Gen_Main,,0000,0000,0000,,Sulfamida.
+Dialogue: 0,0:14:24.96,0:14:26.88,Gen_Main,,0000,0000,0000,,También conocida
+Dialogue: 0,0:14:29.76,0:14:33.72,Gen_Main,,0000,0000,0000,,como medicina. ¡Terminamos!
+Dialogue: 0,0:14:33.89,0:14:34.93,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:14:38.62,0:14:40.06,Gen_Main,,0000,0000,0000,,Por fin.
+Dialogue: 0,0:14:40.73,0:14:42.52,Gen_Main,,0000,0000,0000,,Por fin, Ruri.
+Dialogue: 0,0:14:47.40,0:14:50.17,Gen_Main,,0000,0000,0000,,Aún no llores, idiota.
+Dialogue: 0,0:14:50.32,0:14:52.32,Gen_Main,,0000,0000,0000,,Espera a que mejore.
+Dialogue: 0,0:14:52.49,0:14:53.99,Gen_Main,,0000,0000,0000,,¡No estoy llorando!
+Dialogue: 0,0:14:54.53,0:14:55.99,Gen_Main,,0000,0000,0000,,Qué lástima.
+Dialogue: 0,0:14:56.16,0:14:57.91,Gen_Main,,0000,0000,0000,,No puedo entrar a la aldea.
+Dialogue: 0,0:14:58.08,0:15:00.87,Gen_Main,,0000,0000,0000,,No podré ver el gran momento de Ruri.
+Dialogue: 0,0:15:02.75,0:15:05.23,Gen_Main,,0000,0000,0000,,Diviértete cuidando el laboratorio.
+Dialogue: 0,0:15:05.50,0:15:08.95,Gen_Main,,0000,0000,0000,,Gen hizo mucho trabajo.
+Dialogue: 0,0:15:09.13,0:15:10.63,Gen_Main,,0000,0000,0000,,Me siento mal por él.
+Dialogue: 0,0:15:10.80,0:15:14.14,Gen_Main,,0000,0000,0000,,Supongo que esto es lo único\Nque recibimos los murciélagos.
+Dialogue: 0,0:15:22.19,0:15:24.82,Gen_Main,,0000,0000,0000,,Hola, soy Mecha Senku.
+Dialogue: 0,0:15:24.98,0:15:27.23,Gen_Main,,0000,0000,0000,,Mezcla agua carbonatada, cilantro, lima
+Dialogue: 0,0:15:27.40,0:15:31.13,Gen_Main,,0000,0000,0000,,y caramelo de miel y consigues una soda.
+Dialogue: 0,0:15:31.28,0:15:34.18,Gen_Main,,0000,0000,0000,,Prueba a frotar cáscara de lima\Nen cilantro molido.
+Dialogue: 0,0:15:34.32,0:15:36.83,Gen_Main,,0000,0000,0000,,Te sorprenderá\Ncuánto huele a refresco de cola.
+Dialogue: 0,0:16:08.98,0:16:11.08,Gen_Main,,0000,0000,0000,,Ruri, no te preocupes.
+Dialogue: 0,0:16:11.44,0:16:15.02,Gen_Main,,0000,0000,0000,,Esa medicina es un polvo de la vida\Nnacido de la piedra.
+Dialogue: 0,0:16:15.20,0:16:16.80,Gen_Main,,0000,0000,0000,,Es una cura científica.
+Dialogue: 0,0:16:17.24,0:16:19.49,Gen_Main,,0000,0000,0000,,¡Curará esa estúpida enfermedad!
+Dialogue: 0,0:16:29.25,0:16:35.01,Gen_Italics,,0000,0000,0000,,Bichos misteriosos contra la culminación\Nde dos millones de años de ciencia.
+Dialogue: 0,0:16:37.51,0:16:39.06,Gen_Italics,,0000,0000,0000,,Qué emocionante.
+Dialogue: 0,0:16:50.59,0:16:53.28,Gen_Main,,0000,0000,0000,,Bueno, por fin puedo ver al paciente.
+Dialogue: 0,0:16:54.24,0:16:55.99,Gen_Main,,0000,0000,0000,,Hagamos el diagnóstico.
+Dialogue: 0,0:16:56.45,0:16:58.45,Gen_Main,,0000,0000,0000,,Di "iiih".
+Dialogue: 0,0:17:06.79,0:17:09.16,Gen_Italics,,0000,0000,0000,,Suena como el balido de una cabra.
+Dialogue: 0,0:17:09.75,0:17:12.05,Gen_Italics,,0000,0000,0000,,Hay fluido en sus pulmones.
+Dialogue: 0,0:17:16.60,0:17:20.76,Gen_Main,,0000,0000,0000,,¿Qué harás con ese ratón?
+Dialogue: 0,0:17:21.07,0:17:22.61,Gen_Main,,0000,0000,0000,,¿Nos lo comeremos?
+Dialogue: 0,0:17:22.96,0:17:25.81,Gen_Main,,0000,0000,0000,,¿Eso es lo primero que se te ocurre?
+Dialogue: 0,0:17:26.06,0:17:29.13,Gen_Main,,0000,0000,0000,,Bueno, no suelo comer ratas.
+Dialogue: 0,0:17:29.27,0:17:30.45,Gen_Main,,0000,0000,0000,,Menos mal.
+Dialogue: 0,0:17:30.61,0:17:31.50,Gen_Main,,0000,0000,0000,,Normalmente.
+Dialogue: 0,0:17:32.44,0:17:34.29,Gen_Main,,0000,0000,0000,,Normalmente, ¿eh?
+Dialogue: 0,0:17:35.65,0:17:38.05,Gen_Main,,0000,0000,0000,,Es una buena fuente de proteína.
+Dialogue: 0,0:17:38.20,0:17:40.52,Gen_Main,,0000,0000,0000,,Por desgracia,\Nno nos lo comeremos.
+Dialogue: 0,0:17:40.83,0:17:41.85,Gen_Main,,0000,0000,0000,,Es una autopsia.
+Dialogue: 0,0:17:44.17,0:17:46.83,Gen_Italics,,0000,0000,0000,,Inflamación roja en los pulmones.
+Dialogue: 0,0:17:47.25,0:17:49.77,Gen_Italics,,0000,0000,0000,,No hay duda,\Nes una infección bacteriana.
+Dialogue: 0,0:17:50.63,0:17:52.59,Gen_Italics,,0000,0000,0000,,Hasta los ratones la tienen.
+Dialogue: 0,0:17:53.96,0:17:55.91,Gen_Main,,0000,0000,0000,,La pregunta es qué bacteria es.
+Dialogue: 0,0:17:57.05,0:17:59.74,Gen_Main,,0000,0000,0000,,Hasta la medicina tiene sus límites.
+Dialogue: 0,0:17:59.89,0:18:04.06,Gen_Main,,0000,0000,0000,,No es seguro al 10,000 millones\Npor ciento que acabe con todo.
+Dialogue: 0,0:18:04.58,0:18:06.93,Gen_Main,,0000,0000,0000,,Si Ruri tiene tuberculosis pulmonar…
+Dialogue: 0,0:18:07.10,0:18:09.42,Gen_Main,,0000,0000,0000,,Si el enemigo es\Nun germen de tuberculosis,
+Dialogue: 0,0:18:10.09,0:18:12.52,Gen_Main,,0000,0000,0000,,no tendremos ninguna oportunidad.
+Dialogue: 0,0:18:15.01,0:18:17.37,Gen_Main,,0000,0000,0000,,¡Esto es malo!
+Dialogue: 0,0:18:18.11,0:18:19.32,Gen_Main,,0000,0000,0000,,¡Ruri está…!
+Dialogue: 0,0:18:19.91,0:18:21.62,Gen_Main,,0000,0000,0000,,¡Ruri está…!
+Dialogue: 0,0:18:22.16,0:18:23.18,Gen_Main,,0000,0000,0000,,No te levantes.
+Dialogue: 0,0:18:23.33,0:18:25.95,Gen_Main,,0000,0000,0000,,Ponte de lado. Respira con calma.
+Dialogue: 0,0:18:26.12,0:18:28.78,Gen_Main,,0000,0000,0000,,Nunca estuvo tan mal.
+Dialogue: 0,0:18:29.54,0:18:31.04,Gen_Main,,0000,0000,0000,,Podría estar en peligro.
+Dialogue: 0,0:18:31.21,0:18:34.55,Gen_Main,,0000,0000,0000,,Empezó apenas probó ese polvo blanco.
+Dialogue: 0,0:18:34.71,0:18:37.09,Gen_Main,,0000,0000,0000,,¡Os dije que no confiarais\Nen esa hechicería!
+Dialogue: 0,0:18:38.72,0:18:39.46,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:18:39.63,0:18:40.55,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:18:48.98,0:18:50.44,Gen_Main,,0000,0000,0000,,Senku.
+Dialogue: 0,0:18:52.44,0:18:54.44,Gen_Main,,0000,0000,0000,,¡Senku, desgraciado!
+Dialogue: 0,0:18:54.61,0:18:56.41,Gen_Main,,0000,0000,0000,,¡Es por esa medicina!
+Dialogue: 0,0:18:56.57,0:18:57.13,Gen_Main,,0000,0000,0000,,¡Padre!
+Dialogue: 0,0:18:57.28,0:19:01.32,Gen_Main,,0000,0000,0000,,¡Si no fuera por eso,\NRuri no estaría así!
+Dialogue: 0,0:19:01.84,0:19:04.49,Gen_Main,,0000,0000,0000,,Sí, puede ser.
+Dialogue: 0,0:19:05.66,0:19:07.42,Gen_Main,,0000,0000,0000,,¡Lo sabía!
+Dialogue: 0,0:19:07.58,0:19:09.91,Gen_Main,,0000,0000,0000,,La bacteria va en serio.
+Dialogue: 0,0:19:10.51,0:19:12.70,Gen_Main,,0000,0000,0000,,Hace aliados esparciendo\Nsus genes tóxicos
+Dialogue: 0,0:19:12.88,0:19:16.92,Gen_Main,,0000,0000,0000,,con las bacterias inofensivas\Ndel entorno.
+Dialogue: 0,0:19:17.59,0:19:20.68,Gen_Main,,0000,0000,0000,,Es el ataque especial\Nde la bacteria del neumococo.
+Dialogue: 0,0:19:21.96,0:19:24.30,Gen_Main,,0000,0000,0000,,O sea, que la enfermedad de Ruri
+Dialogue: 0,0:19:25.00,0:19:26.26,Gen_Main,,0000,0000,0000,,es neumonía.
+Dialogue: 0,0:19:27.22,0:19:29.41,Gen_Main,,0000,0000,0000,,No subestiméis la neumonía.
+Dialogue: 0,0:19:29.56,0:19:32.65,Gen_Main,,0000,0000,0000,,Es una enfermedad\Nque mató a cientos de millones.
+Dialogue: 0,0:19:33.31,0:19:39.15,Gen_Main,,0000,0000,0000,,Pero la medicina de sulfa destruye\Nla bacteria del neumococo.
+Dialogue: 0,0:19:40.61,0:19:41.87,Gen_Main,,0000,0000,0000,,¡Hemos ganadoi!
+Dialogue: 0,0:19:42.03,0:19:44.25,Gen_Main,,0000,0000,0000,,¡La ciencia humana ha ganado!
+Dialogue: 0,0:19:44.95,0:19:47.84,Gen_Main,,0000,0000,0000,,Ahora que sabemos lo que es,\Ntenemos ventaja.
+Dialogue: 0,0:19:47.99,0:19:50.91,Gen_Main,,0000,0000,0000,,Solo hay que darle más medicina.
+Dialogue: 0,0:19:51.08,0:19:53.25,Gen_Main,,0000,0000,0000,,¡Suficiente!
+Dialogue: 0,0:19:54.04,0:19:57.88,Gen_Main,,0000,0000,0000,,Padre, esto no es como la hechicería\Nfraudulenta que conoces.
+Dialogue: 0,0:20:00.34,0:20:01.46,Gen_Main,,0000,0000,0000,,Es ciencia.
+Dialogue: 0,0:20:01.63,0:20:03.87,Gen_Main,,0000,0000,0000,,La culminación de la sabiduría humana.
+Dialogue: 0,0:20:04.68,0:20:08.90,Gen_Main,,0000,0000,0000,,Creo en la ciencia y en Senku.
+Dialogue: 0,0:20:11.46,0:20:13.23,Gen_Main,,0000,0000,0000,,Sí, yo también.
+Dialogue: 0,0:20:15.86,0:20:18.94,Gen_Main,,0000,0000,0000,,Creo que yo también.
+Dialogue: 0,0:20:28.33,0:20:32.91,Gen_Main,,0000,0000,0000,,Bueno, me sorprende\Nque viviera hasta los 18.
+Dialogue: 0,0:20:33.92,0:20:38.46,Gen_Main,,0000,0000,0000,,Si se mantiene limpia y tibia,\Nla progresión de la enfermedad parará.
+Dialogue: 0,0:20:42.38,0:20:45.89,Gen_Main,,0000,0000,0000,,El agua de manantial\Nque Kohaku le llevaba a diario
+Dialogue: 0,0:20:46.13,0:20:49.61,Gen_Main,,0000,0000,0000,,terminó protegiéndola.
+Dialogue: 0,0:21:02.65,0:21:03.86,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:21:04.53,0:21:05.49,Gen_Main,,0000,0000,0000,,¡Ruri!
+Dialogue: 0,0:21:34.84,0:21:40.23,Gen_Main,,0000,0000,0000,,No recuerdo cuántos años hacía\Nque no dejaba la aldea o podía correr.
+Dialogue: 0,0:21:42.65,0:21:47.24,Gen_Main,,0000,0000,0000,,La energía de Kohaku\Ndebe ser cosa de familia.
+Dialogue: 0,0:21:51.03,0:21:52.12,Gen_Main,,0000,0000,0000,,¡Escuchad!
+Dialogue: 0,0:21:52.29,0:21:55.08,Gen_Main,,0000,0000,0000,,¡Desde hoy, este hombre, Senku,
+Dialogue: 0,0:21:55.47,0:21:58.73,Gen_Main,,0000,0000,0000,,es el nuevo líder de Ishigami!
+Dialogue: 0,0:22:00.70,0:22:02.66,Gen_Italics,,0000,0000,0000,,¿Ishigami?
+Dialogue: 0,0:22:04.51,0:22:06.14,Gen_Main,,0000,0000,0000,,Senku.
+Dialogue: 0,0:22:07.82,0:22:13.14,Gen_Main,,0000,0000,0000,,Lo sé desde hace tiempo.
+Dialogue: 0,0:22:14.68,0:22:19.01,Gen_Main,,0000,0000,0000,,Tu nombre es Senku Ishigami.
+Dialogue: 0,0:23:58.74,0:24:01.04,Cart_Next,,0000,0000,0000,,Próximo episodio\N{\fs28}Una historia para la eternidad
+Dialogue: 0,0:24:01.04,0:24:06.25,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}

@@ -1,0 +1,340 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0050,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.77,0:00:14.16,Gen_Main,,0000,0000,0000,,Os agradezco la ciencia, Suika, Senku.
+Dialogue: 0,0:00:23.80,0:00:26.08,Gen_Main,,0000,0000,0000,,Te diré una cosa, Magma.
+Dialogue: 0,0:00:26.94,0:00:29.69,Gen_Main,,0000,0000,0000,,Si la ciencia me hubiera ayudado\Na conquistar mis ojos,
+Dialogue: 0,0:00:30.30,0:00:34.68,Gen_Main,,0000,0000,0000,,hace ya mucho\Nque habría superado tu fuerza.
+Dialogue: 0,0:00:37.47,0:00:39.56,Gen_Main,,0000,0000,0000,,¡Kinro es la leche!
+Dialogue: 0,0:00:39.72,0:00:41.93,Gen_Main,,0000,0000,0000,,¡Está destrozando a Magma!
+Dialogue: 0,0:00:42.25,0:00:44.52,Gen_Main,,0000,0000,0000,,¡Señor Magma!
+Dialogue: 0,0:00:44.69,0:00:47.02,Gen_Main,,0000,0000,0000,,¡Eres genial, Kinro!
+Dialogue: 0,0:00:47.19,0:00:50.67,Gen_Main,,0000,0000,0000,,Pero con esa máscara impones menos.
+Dialogue: 0,0:00:51.82,0:00:55.19,Gen_Main,,0000,0000,0000,,¡Sí! ¡Magma está acabado!
+Dialogue: 0,0:00:55.36,0:00:57.75,Gen_Main,,0000,0000,0000,,¡Fijo que gana Kinro!
+Dialogue: 0,0:00:58.91,0:01:01.66,Gen_Main,,0000,0000,0000,,¡Entonces, ya hemos ganado!
+Dialogue: 0,0:01:01.83,0:01:04.37,Gen_Main,,0000,0000,0000,,¡Ahora podremos\Ndarle la medicina a Ruri!
+Dialogue: 0,0:01:07.28,0:01:09.68,Gen_Main,,0000,0000,0000,,¿Esa máscara de sandía\Nes tu hechicería?
+Dialogue: 0,0:01:10.36,0:01:12.34,Gen_Main,,0000,0000,0000,,¿No va contra las reglas?
+Dialogue: 0,0:01:14.09,0:01:15.30,Gen_Main,,0000,0000,0000,,Cierto.
+Dialogue: 0,0:01:15.67,0:01:19.39,Gen_Main,,0000,0000,0000,,Aunque sea tarde,\Ndebemos confirmar las reglas.
+Dialogue: 0,0:01:19.55,0:01:21.70,Gen_Main,,0000,0000,0000,,Ya no puedo moverme.
+Dialogue: 0,0:01:21.85,0:01:23.36,Gen_Main,,0000,0000,0000,,Casi no puedo hablar.
+Dialogue: 0,0:01:23.52,0:01:25.05,Gen_Main,,0000,0000,0000,,El combate ha terminado.
+Dialogue: 0,0:01:25.23,0:01:27.30,Gen_Main,,0000,0000,0000,,Pregúntale al árbitro por mí.
+Dialogue: 0,0:01:27.94,0:01:31.67,Gen_Main,,0000,0000,0000,,Si acepta, aceptaré la derrota.
+Dialogue: 0,0:01:33.65,0:01:39.11,Gen_Main,,0000,0000,0000,,No escucho lo que dicen,\Npero ahora Magma parece bueno.
+Dialogue: 0,0:01:40.57,0:01:46.25,Gen_Main,,0000,0000,0000,,Árbitro, Suika me lanzó la máscara\Nclaramente para ayudarme.
+Dialogue: 0,0:01:46.91,0:01:48.98,Gen_Main,,0000,0000,0000,,Sabiéndolo, la usé de todos modos.
+Dialogue: 0,0:01:49.58,0:01:51.57,Gen_Main,,0000,0000,0000,,Si he roto las reglas, habré perdido.
+Dialogue: 0,0:01:51.93,0:01:53.09,Gen_Main,,0000,0000,0000,,Si esas son las reglas…
+Dialogue: 0,0:01:53.33,0:01:57.23,Gen_Main,,0000,0000,0000,,Joer, no lo rajes si vas a fastidiarte.
+Dialogue: 0,0:01:57.47,0:02:00.51,Gen_Main,,0000,0000,0000,,Kinro es demasiado estirado.
+Dialogue: 0,0:02:03.15,0:02:05.98,Gen_Main,,0000,0000,0000,,No se la lanzaste a él ni nada.
+Dialogue: 0,0:02:06.14,0:02:07.96,Gen_Main,,0000,0000,0000,,Solo es una prenda de vestir.
+Dialogue: 0,0:02:08.27,0:02:09.98,Gen_Main,,0000,0000,0000,,Por lo tanto, no es…
+Dialogue: 0,0:03:47.28,0:03:52.04,Cart_Title,,0000,0000,0000,,{\pos(315,89)\frz11.42}Amo de la llama
+Dialogue: 0,0:03:53.87,0:03:56.59,Gen_Main,,0000,0000,0000,,¡Sabía que irías a preguntarle!
+Dialogue: 0,0:03:56.75,0:04:01.09,Gen_Main,,0000,0000,0000,,¡Eres demasiado honrado, Kinro!
+Dialogue: 0,0:04:03.84,0:04:05.67,Gen_Main,,0000,0000,0000,,El ganador es Magma.
+Dialogue: 0,0:04:07.26,0:04:09.43,Gen_Main,,0000,0000,0000,,¡Maldito tramposo de mierda!
+Dialogue: 0,0:04:09.61,0:04:10.60,Gen_Main,,0000,0000,0000,,¡Kinro!
+Dialogue: 0,0:04:11.18,0:04:13.48,Gen_Main,,0000,0000,0000,,¡Kinro! ¡Kinro!
+Dialogue: 0,0:04:14.94,0:04:15.82,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:04:15.98,0:04:18.57,Gen_Main,,0000,0000,0000,,¡Qué alivio! ¡Estás vivo!
+Dialogue: 0,0:04:19.69,0:04:21.15,Gen_Main,,0000,0000,0000,,Bueno, da igual.
+Dialogue: 0,0:04:21.32,0:04:23.09,Gen_Main,,0000,0000,0000,,Es una batalla en equipo.
+Dialogue: 0,0:04:23.53,0:04:26.12,Gen_Main,,0000,0000,0000,,Si alguien derrota a Magma, ganaremos.
+Dialogue: 0,0:04:26.60,0:04:30.04,Gen_Main,,0000,0000,0000,,Esa pelea lo habrá dejado tocado.
+Dialogue: 0,0:04:30.20,0:04:32.02,Gen_Main,,0000,0000,0000,,Eso es lo importante.
+Dialogue: 0,0:04:33.22,0:04:36.21,Gen_Main,,0000,0000,0000,,Segundo combate.\NChrome, Mantle. ¡Empezad!
+Dialogue: 0,0:04:36.38,0:04:37.71,Gen_Main,,0000,0000,0000,,Me toca.
+Dialogue: 0,0:04:39.13,0:04:41.25,Gen_Main,,0000,0000,0000,,Me preocupa más este.
+Dialogue: 0,0:04:43.13,0:04:47.20,Gen_Main,,0000,0000,0000,,Si Kohaku no ha vuelto cuando\Ntermine la pelea, la descalificarán.
+Dialogue: 0,0:04:47.51,0:04:49.40,Gen_Main,,0000,0000,0000,,Sí, lo sé.
+Dialogue: 0,0:04:50.48,0:04:51.73,Gen_Main,,0000,0000,0000,,¿Y Kohaku?
+Dialogue: 0,0:04:51.97,0:04:54.04,Gen_Main,,0000,0000,0000,,¿Adónde ha ido Kohaku?
+Dialogue: 0,0:04:54.26,0:04:57.70,Gen_Main,,0000,0000,0000,,Se fue a salvarte.
+Dialogue: 0,0:04:58.77,0:05:00.69,Gen_Main,,0000,0000,0000,,¡Iré a buscarla!
+Dialogue: 0,0:05:02.48,0:05:05.32,Gen_Main,,0000,0000,0000,,Quédate quieta. Vas sin gafas.
+Dialogue: 0,0:05:07.74,0:05:11.67,Gen_Main,,0000,0000,0000,,Ya es tarde. Solo podemos esperar.
+Dialogue: 0,0:05:14.50,0:05:17.57,Gen_Italics,,0000,0000,0000,,Debo hacer tanto tiempo como pueda.
+Dialogue: 0,0:05:26.38,0:05:29.77,Gen_Main,,0000,0000,0000,,Después de ver a Kinro y Magma\Npelear a ese nivel…
+Dialogue: 0,0:05:29.93,0:05:31.79,Gen_Main,,0000,0000,0000,,Es como ver a dos niños.
+Dialogue: 0,0:05:31.97,0:05:33.81,Gen_Main,,0000,0000,0000,,¡Aguantad los dos!
+Dialogue: 0,0:05:33.97,0:05:37.72,Gen_Main,,0000,0000,0000,,Chrome, ¿eh? No será rival para mí.
+Dialogue: 0,0:05:37.94,0:05:40.77,Gen_Main,,0000,0000,0000,,Aunque llegue a la final,\Nno durará ni un segundo.
+Dialogue: 0,0:05:48.45,0:05:49.87,Gen_Italics,,0000,0000,0000,,¡Kohaku!
+Dialogue: 0,0:05:50.03,0:05:51.38,Gen_Main,,0000,0000,0000,,¡Mantle!
+Dialogue: 0,0:05:52.28,0:05:55.20,Gen_Italics,,0000,0000,0000,,¡Pierde! ¡Ahora mismo!
+Dialogue: 0,0:05:55.87,0:05:56.96,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:05:57.12,0:05:58.71,Gen_Main,,0000,0000,0000,,¡Presta atención!
+Dialogue: 0,0:05:58.87,0:06:00.81,Gen_Main,,0000,0000,0000,,¡Piedad!
+Dialogue: 0,0:06:01.49,0:06:02.88,Gen_Main,,0000,0000,0000,,¡El ganador es Chrome!
+Dialogue: 0,0:06:07.42,0:06:08.38,Gen_Main,,0000,0000,0000,,Mierda.
+Dialogue: 0,0:06:10.44,0:06:12.64,Gen_Main,,0000,0000,0000,,El tercer combate.
+Dialogue: 0,0:06:15.43,0:06:18.56,Gen_Main,,0000,0000,0000,,Debido a la ausencia de Kohaku,\Nel ganador es Senku.
+Dialogue: 0,0:06:23.02,0:06:25.05,Gen_Main,,0000,0000,0000,,¡No llegó a tiempo!
+Dialogue: 0,0:06:25.73,0:06:27.49,Gen_Main,,0000,0000,0000,,¡Senku!
+Dialogue: 0,0:06:28.25,0:06:29.49,Gen_Main,,0000,0000,0000,,¡Kohaku!
+Dialogue: 0,0:06:29.66,0:06:33.04,Gen_Main,,0000,0000,0000,,¡Joder! ¡No has llegado por un pelo!
+Dialogue: 0,0:06:33.20,0:06:35.45,Gen_Main,,0000,0000,0000,,¡Lo siento!
+Dialogue: 0,0:06:35.62,0:06:36.91,Gen_Main,,0000,0000,0000,,¡Mantle me atrapó!
+Dialogue: 0,0:06:37.08,0:06:37.93,Gen_Main,,0000,0000,0000,,¡Qué alivio!
+Dialogue: 0,0:06:40.42,0:06:42.47,Gen_Main,,0000,0000,0000,,Me alegra que mintiera.
+Dialogue: 0,0:06:43.21,0:06:46.70,Gen_Main,,0000,0000,0000,,Lo que me importa\Nes que no te ahogaras.
+Dialogue: 0,0:06:48.26,0:06:49.71,Gen_Main,,0000,0000,0000,,Es mi culpa.
+Dialogue: 0,0:06:50.76,0:06:52.17,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:06:53.43,0:06:56.27,Gen_Main,,0000,0000,0000,,Perdiste por mi culpa.
+Dialogue: 0,0:06:56.97,0:06:58.46,Gen_Main,,0000,0000,0000,,Ya no podemos hacer nada.
+Dialogue: 0,0:06:59.30,0:07:03.11,Gen_Main,,0000,0000,0000,,Además, no tienes la culpa de nada.
+Dialogue: 0,0:07:13.07,0:07:15.87,Gen_Main,,0000,0000,0000,,¿Eso no lo deja decidido?
+Dialogue: 0,0:07:16.33,0:07:19.41,Gen_Main,,0000,0000,0000,,El esposo de la sacerdotisa\Ny nuevo jefe será…
+Dialogue: 0,0:07:20.75,0:07:22.57,Gen_Main,,0000,0000,0000,,¡Magma!
+Dialogue: 0,0:07:23.74,0:07:25.21,Gen_Main,,0000,0000,0000,,Alégrate, Ruri.
+Dialogue: 0,0:07:25.48,0:07:28.01,Gen_Main,,0000,0000,0000,,Desde ahora, serás mi mujer.
+Dialogue: 0,0:07:30.53,0:07:33.48,Gen_Main,,0000,0000,0000,,Ahora que hemos perdido\Na nuestra mejor opción,
+Dialogue: 0,0:07:33.80,0:07:36.97,Gen_Main,,0000,0000,0000,,el único que tiene alguna\Noportunidad peleando es…
+Dialogue: 0,0:07:38.06,0:07:40.93,Gen_Main,,0000,0000,0000,,Ginro el guardia, eres el último.
+Dialogue: 0,0:07:42.60,0:07:44.55,Gen_Main,,0000,0000,0000,,Ginro el guardia…
+Dialogue: 0,0:07:45.62,0:07:48.22,Gen_Main,,0000,0000,0000,,¿Ginro tiene alguna oportunidad\Ncontra Magma?
+Dialogue: 0,0:07:48.40,0:07:50.53,Gen_Main,,0000,0000,0000,,La verdad, lo veo complicado.
+Dialogue: 0,0:07:52.68,0:07:55.45,Gen_Main,,0000,0000,0000,,Tú mismo lo dijiste, Senku.
+Dialogue: 0,0:07:55.62,0:07:58.48,Gen_Main,,0000,0000,0000,,La Gran Batalla es una apuesta.
+Dialogue: 0,0:07:58.83,0:08:02.12,Gen_Main,,0000,0000,0000,,El más fuerte no necesariamente\Nserá el que gane.
+Dialogue: 0,0:08:02.62,0:08:05.33,Gen_Main,,0000,0000,0000,,¿No os preguntabais
+Dialogue: 0,0:08:05.52,0:08:09.25,Gen_Main,,0000,0000,0000,,qué tenía en la boca todo el tiempo?
+Dialogue: 0,0:08:09.42,0:08:10.84,Gen_Main,,0000,0000,0000,,No me digas que…
+Dialogue: 0,0:08:11.01,0:08:13.93,Gen_Main,,0000,0000,0000,,¿Son los ingredientes\Nde la bebida científica de Senku?
+Dialogue: 0,0:08:14.09,0:08:17.28,Gen_Main,,0000,0000,0000,,¿Has ido con la boca llena\Nen plan ardilla todo el rato?
+Dialogue: 0,0:08:17.43,0:08:20.14,Gen_Main,,0000,0000,0000,,Lo guardaba\Npara justo antes de mi pelea.
+Dialogue: 0,0:08:20.69,0:08:23.05,Gen_Main,,0000,0000,0000,,Ginro, Argo, adelante.
+Dialogue: 0,0:08:25.15,0:08:27.11,Gen_Main,,0000,0000,0000,,Sé bien lo poderosa que es
+Dialogue: 0,0:08:27.27,0:08:32.32,Gen_Main,,0000,0000,0000,,la ciencia de Senku\Ndespués de ir a por el ácido sulfúrico.
+Dialogue: 0,0:08:32.74,0:08:35.57,Gen_Main,,0000,0000,0000,,La bebida energética de Senku
+Dialogue: 0,0:08:36.28,0:08:38.83,Gen_Main,,0000,0000,0000,,¡debe ser mucho más efectiva cruda!
+Dialogue: 0,0:08:38.99,0:08:42.48,Gen_Main,,0000,0000,0000,,¿Cruda? Te vas a fastidiar el estómago.
+Dialogue: 0,0:08:43.33,0:08:45.62,Gen_Main,,0000,0000,0000,,Será mejor no decirle nada.
+Dialogue: 0,0:08:50.94,0:08:54.43,Gen_Main,,0000,0000,0000,,¡Aquí vamos!
+Dialogue: 0,0:08:55.13,0:08:57.18,Cart_A_Ari,,0000,0000,0000,,{\an9\pos(623,208)}Nota: Esto es lo que\NGinro ve en su mente
+Dialogue: 0,0:09:00.22,0:09:03.89,Gen_Main,,0000,0000,0000,,Es demasiado impresionable.
+Dialogue: 0,0:09:04.06,0:09:05.35,Gen_Main,,0000,0000,0000,,Aunque ya lo sabía.
+Dialogue: 0,0:09:06.23,0:09:08.06,Gen_Main,,0000,0000,0000,,Para bien o para mal.
+Dialogue: 0,0:09:08.86,0:09:11.30,Gen_Main,,0000,0000,0000,,Nos jugamos mucho en la Gran Batalla.
+Dialogue: 0,0:09:11.44,0:09:14.82,Gen_Main,,0000,0000,0000,,Los tontos como él\Nsuelen abrirse paso en estas cosas.
+Dialogue: 0,0:09:15.40,0:09:17.20,Gen_Main,,0000,0000,0000,,¡Cuarto combate, adelante!
+Dialogue: 0,0:09:19.28,0:09:20.45,Gen_Main,,0000,0000,0000,,¡Se ha vuelto loco!
+Dialogue: 0,0:09:27.04,0:09:29.30,Gen_Main,,0000,0000,0000,,Va directo a por él.
+Dialogue: 0,0:09:29.46,0:09:30.79,Gen_Main,,0000,0000,0000,,¡Ginro es genial!
+Dialogue: 0,0:09:31.21,0:09:35.25,Gen_Main,,0000,0000,0000,,¿Cree que se hizo más fuerte\Nsolo por comerse las hierbas?
+Dialogue: 0,0:09:35.42,0:09:38.95,Gen_Main,,0000,0000,0000,,Nunca había probado la cafeína.
+Dialogue: 0,0:09:39.95,0:09:41.99,Gen_Main,,0000,0000,0000,,Debe tener un buen subidón.
+Dialogue: 0,0:09:42.14,0:09:43.93,Gen_Main,,0000,0000,0000,,Y es muy crédulo y temerario.
+Dialogue: 0,0:09:54.54,0:09:57.36,Gen_Main,,0000,0000,0000,,Eso no es nada.
+Dialogue: 0,0:09:57.36,0:10:03.12,Cart_A_Ari,,0000,0000,0000,,{\an9\pos(623,208)}Nota: Esto es lo que\NGinro ve en su mente
+Dialogue: 0,0:09:57.53,0:09:59.67,Gen_Main,,0000,0000,0000,,No me afecta.
+Dialogue: 0,0:09:59.82,0:10:03.12,Gen_Main,,0000,0000,0000,,¡Tengo una mente\Nque confía en la ciencia!
+Dialogue: 0,0:10:03.29,0:10:04.84,Gen_Main,,0000,0000,0000,,¡Eres increíble, Ginro!
+Dialogue: 0,0:10:05.00,0:10:05.94,Gen_Main,,0000,0000,0000,,¡Qué fuerte!
+Dialogue: 0,0:10:08.12,0:10:12.13,Cart_A_Ari,,0000,0000,0000,,{\pos(546,246)}La realidad
+Dialogue: 0,0:10:12.29,0:10:13.83,Gen_Main,,0000,0000,0000,,¡Eres increíble, Ginro!
+Dialogue: 0,0:10:14.00,0:10:15.09,Gen_Main,,0000,0000,0000,,Qué fuerte.
+Dialogue: 0,0:10:19.22,0:10:20.30,Gen_Main,,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:10:20.70,0:10:22.25,Gen_Main,,0000,0000,0000,,¿Por qué no caes?
+Dialogue: 0,0:10:30.10,0:10:31.77,Gen_Main,,0000,0000,0000,,¡El ganador es Ginro!
+Dialogue: 0,0:10:39.20,0:10:40.93,Gen_Main,,0000,0000,0000,,¡¿Adónde vas, Ginro?!
+Dialogue: 0,0:10:41.24,0:10:43.57,Gen_Main,,0000,0000,0000,,Estará enfermo.
+Dialogue: 0,0:10:43.74,0:10:45.89,Gen_Main,,0000,0000,0000,,No me extraña\Ncon lo que se ha zampado.
+Dialogue: 0,0:10:53.59,0:10:56.01,Gen_Main,,0000,0000,0000,,Se ha quedado tieso y reseco.
+Dialogue: 0,0:10:56.17,0:10:59.42,Gen_Main,,0000,0000,0000,,Terrible. No creo que pueda pelear más.
+Dialogue: 0,0:11:06.26,0:11:09.28,Gen_Main,,0000,0000,0000,,Ya conoces la situación.
+Dialogue: 0,0:11:09.60,0:11:12.85,Gen_Main,,0000,0000,0000,,Si dejamos que Magma\Nllegue a la final, se acabó todo.
+Dialogue: 0,0:11:13.13,0:11:15.02,Gen_Main,,0000,0000,0000,,La probabilidad de que Ginro
+Dialogue: 0,0:11:15.40,0:11:19.36,Gen_Main,,0000,0000,0000,,o Senku derroten a Magma es de cero.
+Dialogue: 0,0:11:20.03,0:11:24.70,Gen_Main,,0000,0000,0000,,Así que solo salvaremos a Ruri\Nsi yo derroto a Magma.
+Dialogue: 0,0:11:25.91,0:11:28.45,Gen_Main,,0000,0000,0000,,¡Magma, Chrome, adelante!
+Dialogue: 0,0:11:34.92,0:11:37.38,Gen_Main,,0000,0000,0000,,Acaba con Magma
+Dialogue: 0,0:11:37.61,0:11:43.26,Gen_Main,,0000,0000,0000,,y tú serás el líder y esposo de Ruri.
+Dialogue: 0,0:11:55.98,0:12:00.12,Gen_Main,,0000,0000,0000,,Chrome nunca podría vencerlo\Nen un enfrentamiento directo.
+Dialogue: 0,0:12:00.49,0:12:02.15,Gen_Main,,0000,0000,0000,,Pero somos un equipo.
+Dialogue: 0,0:12:02.32,0:12:06.61,Gen_Main,,0000,0000,0000,,Solo podemos esperar\Nque Kinro lo dañara lo suficiente.
+Dialogue: 0,0:12:06.80,0:12:10.28,Gen_Main,,0000,0000,0000,,Chrome estuvo practicando mucho\Ncon el objetivo.
+Dialogue: 0,0:12:10.45,0:12:13.58,Gen_Main,,0000,0000,0000,,Seguro que los dioses\Nde la batalla lo vieron.
+Dialogue: 0,0:12:14.00,0:12:17.35,Gen_Main,,0000,0000,0000,,Semifinal, Magma contra Chrome.
+Dialogue: 0,0:12:17.87,0:12:18.59,Gen_Main,,0000,0000,0000,,¡Empezad!
+Dialogue: 0,0:12:23.46,0:12:26.30,Gen_Main,,0000,0000,0000,,¿Qué ha pasado? ¿Cómo va Chrome?
+Dialogue: 0,0:12:42.17,0:12:43.43,Gen_Main,,0000,0000,0000,,Es terrible.
+Dialogue: 0,0:12:44.24,0:12:46.79,Gen_Main,,0000,0000,0000,,Lo sabíamos desde el principio.
+Dialogue: 0,0:12:46.95,0:12:49.24,Gen_Main,,0000,0000,0000,,Juega con él a propósito.
+Dialogue: 0,0:12:52.29,0:12:54.08,Gen_Main,,0000,0000,0000,,¡Ríndete!
+Dialogue: 0,0:12:54.25,0:12:57.26,Gen_Main,,0000,0000,0000,,¡Chrome va a morir!
+Dialogue: 0,0:13:04.24,0:13:05.97,Gen_Main,,0000,0000,0000,,Vaya.
+Dialogue: 0,0:13:06.13,0:13:10.28,Gen_Main,,0000,0000,0000,,Esto pinta mal, Chrome.
+Dialogue: 0,0:13:11.85,0:13:12.97,Gen_Main,,0000,0000,0000,,Chrome,
+Dialogue: 0,0:13:13.42,0:13:17.54,Gen_Main,,0000,0000,0000,,sé que no piensas rendirte por Ruri.
+Dialogue: 0,0:13:19.48,0:13:22.44,Gen_Main,,0000,0000,0000,,Me sorprende que lo sepas, Magma.
+Dialogue: 0,0:13:22.78,0:13:25.20,Gen_Main,,0000,0000,0000,,Cabeza de chorlito.
+Dialogue: 0,0:13:26.19,0:13:28.24,Gen_Main,,0000,0000,0000,,Eso es más emocionante.
+Dialogue: 0,0:13:28.41,0:13:30.89,Gen_Main,,0000,0000,0000,,Seguiré pegándote\Nhasta que no puedas andar
+Dialogue: 0,0:13:31.16,0:13:35.00,Gen_Main,,0000,0000,0000,,y Ruri grite pidiendo que te rindas.
+Dialogue: 0,0:13:35.54,0:13:36.73,Gen_Main,,0000,0000,0000,,Chrome…
+Dialogue: 0,0:13:45.76,0:13:47.76,Gen_Main,,0000,0000,0000,,¡Ataque especial: ceguera!
+Dialogue: 0,0:13:50.80,0:13:52.14,Gen_Main,,0000,0000,0000,,¿Cómo que ataque especial?
+Dialogue: 0,0:13:52.31,0:13:54.22,Gen_Main,,0000,0000,0000,,¡Idiota!
+Dialogue: 0,0:13:58.52,0:13:59.86,Gen_Italics,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:00.02,0:14:03.39,Gen_Italics,,0000,0000,0000,,No tenía ninguna\Noportunidad contra Magma.
+Dialogue: 0,0:14:09.26,0:14:10.26,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:10.86,0:14:12.10,Gen_Main,,0000,0000,0000,,Soy Chrome.
+Dialogue: 0,0:14:13.89,0:14:17.06,Gen_Main,,0000,0000,0000,,¡Chrome, el cienticero!
+Dialogue: 0,0:14:26.32,0:14:28.72,Gen_Main,,0000,0000,0000,,¿Qué hace con la máscara de Suika?
+Dialogue: 0,0:14:31.30,0:14:35.00,Gen_Main,,0000,0000,0000,,Es la máscara hechicera que rompí.
+Dialogue: 0,0:14:35.43,0:14:39.87,Gen_Main,,0000,0000,0000,,¿Crees que puedes asustarme con eso?
+Dialogue: 0,0:14:42.45,0:14:43.61,Gen_Italics,,0000,0000,0000,,Cielo despejado.
+Dialogue: 0,0:14:48.45,0:14:50.96,Gen_Italics,,0000,0000,0000,,Prenderé fuego con el sol y una lente.
+Dialogue: 0,0:14:51.20,0:14:53.91,Gen_Italics,,0000,0000,0000,,Debo apostarlo todo a eso.
+Dialogue: 0,0:14:56.24,0:14:57.95,Gen_Main,,0000,0000,0000,,Estás equivocado.
+Dialogue: 0,0:14:59.21,0:15:04.21,Gen_Main,,0000,0000,0000,,Chrome quiere usar las gafas de Suika\Npara quemar la ropa de Magma.
+Dialogue: 0,0:15:04.84,0:15:06.50,Gen_Main,,0000,0000,0000,,Seguro que es lo que piensa.
+Dialogue: 0,0:15:07.70,0:15:11.73,Gen_Main,,0000,0000,0000,,La lupa que usé para el fuego\Nera convexa y concentra la luz.
+Dialogue: 0,0:15:12.39,0:15:15.86,Gen_Main,,0000,0000,0000,,Pero esas lentes son cóncavas\Ny la extienden.
+Dialogue: 0,0:15:16.01,0:15:18.10,Gen_Main,,0000,0000,0000,,¿Qué significa eso?
+Dialogue: 0,0:15:18.50,0:15:22.85,Gen_Main,,0000,0000,0000,,Las gafas de Suika no prenderán fuego\Nen un 10,000 millones por ciento.
+Dialogue: 0,0:15:25.57,0:15:27.17,Gen_Italics,,0000,0000,0000,,Salvaré a Ruri.
+Dialogue: 0,0:15:27.65,0:15:30.99,Gen_Italics,,0000,0000,0000,,Ganaré y convertiré la aldea\Nen un reino científico.
+Dialogue: 0,0:15:31.70,0:15:36.29,Gen_Italics,,0000,0000,0000,,Con las lentes que creo Senku\Ny mi tenacidad.
+Dialogue: 0,0:15:40.65,0:15:42.20,Gen_Main,,0000,0000,0000,,¡Interesante!
+Dialogue: 0,0:15:42.50,0:15:48.00,Gen_Main,,0000,0000,0000,,¡Muéstrame lo que puedes hacer,\Ndebilucho!
+Dialogue: 0,0:15:48.17,0:15:51.88,Gen_Main,,0000,0000,0000,,¡No, Chrome!\N¡No harás fuego con una lente cóncava!
+Dialogue: 0,0:15:52.13,0:15:55.46,Gen_Main,,0000,0000,0000,,No te preocupes, profesor Senku.
+Dialogue: 0,0:15:55.64,0:15:58.35,Gen_Main,,0000,0000,0000,,Yo también sé cómo funciona la ciencia.
+Dialogue: 0,0:16:00.18,0:16:03.60,Gen_Italics,,0000,0000,0000,,Joder, mantén el brazo quieto.
+Dialogue: 0,0:16:04.53,0:16:06.38,Gen_Italics,,0000,0000,0000,,Calma los nervios.
+Dialogue: 0,0:16:08.56,0:16:11.45,Gen_Main,,0000,0000,0000,,Chrome, no me digas…
+Dialogue: 0,0:16:12.80,0:16:18.08,Gen_Main,,0000,0000,0000,,Hizo que goteara agua\Nen la lente cóncava de la máscara.
+Dialogue: 0,0:16:18.72,0:16:25.53,Gen_Main,,0000,0000,0000,,Literalmente hizo una lente convexa\Ncon sudor y lágrimas.
+Dialogue: 0,0:16:26.46,0:16:30.17,Gen_Main,,0000,0000,0000,,Pero ¿eso servirá para hacer fuego?
+Dialogue: 0,0:16:30.44,0:16:33.31,Gen_Main,,0000,0000,0000,,Sí, se llama espejo ustorio.
+Dialogue: 0,0:16:33.47,0:16:37.31,Gen_Main,,0000,0000,0000,,Hasta hay un caso de una lente\Nhecha con una ventosa y aire.
+Dialogue: 0,0:16:38.52,0:16:39.74,Gen_Main,,0000,0000,0000,,¡Gen Asagiri!
+Dialogue: 0,0:16:39.89,0:16:42.31,Gen_Main,,0000,0000,0000,,¡El charlatán! ¿Qué hace aquí?
+Dialogue: 0,0:16:42.81,0:16:44.48,Gen_Main,,0000,0000,0000,,¿Qué tal?
+Dialogue: 0,0:16:44.81,0:16:48.21,Gen_Main,,0000,0000,0000,,Lo que yo haga no importa.
+Dialogue: 0,0:16:48.36,0:16:50.57,Gen_Main,,0000,0000,0000,,¿No deberíais preocuparos por Chrome?
+Dialogue: 0,0:16:50.90,0:16:54.45,Gen_Main,,0000,0000,0000,,Necesito que el reino científico gane
+Dialogue: 0,0:16:54.95,0:16:57.20,Gen_Main,,0000,0000,0000,,o me quedaré sin refresco.
+Dialogue: 0,0:16:58.92,0:17:01.79,Gen_Main,,0000,0000,0000,,Estuviste observando\Nsin decir nada, ¿eh?
+Dialogue: 0,0:17:02.24,0:17:04.89,Gen_Main,,0000,0000,0000,,¿Cuántos segundos necesita\Npara iniciar el fuego?
+Dialogue: 0,0:17:05.04,0:17:06.29,Gen_Main,,0000,0000,0000,,Esa es la cuestión.
+Dialogue: 0,0:17:06.46,0:17:09.98,Gen_Main,,0000,0000,0000,,Calcular eso no es tan simple.
+Dialogue: 0,0:17:10.13,0:17:12.05,Gen_Main,,0000,0000,0000,,Lo haré ahora.
+Dialogue: 0,0:17:15.97,0:17:17.94,Gen_Main,,0000,0000,0000,,La lente tiene un diámetro de 5 cm.
+Dialogue: 0,0:17:18.09,0:17:21.80,Gen_Main,,0000,0000,0000,,La constante solar es\Nde 1362 vatios por metro cuadrado.
+Dialogue: 0,0:17:21.97,0:17:25.48,Gen_Main,,0000,0000,0000,,Joder, calcular la transferencia\Nmentalmente no es fácil.
+Dialogue: 0,0:17:25.89,0:17:30.32,Gen_Main,,0000,0000,0000,,Son 2.6821… Redondeado a 2.68.
+Dialogue: 0,0:17:30.98,0:17:33.27,Gen_Main,,0000,0000,0000,,Con un índice de radiación\Nde 0 sin viento,
+Dialogue: 0,0:17:33.44,0:17:35.32,Gen_Main,,0000,0000,0000,,la piel hará ignición como el papel.
+Dialogue: 0,0:17:36.16,0:17:38.27,Gen_Main,,0000,0000,0000,,Con calor específico de 1.3 kilojulios,
+Dialogue: 0,0:17:38.70,0:17:41.55,Gen_Main,,0000,0000,0000,,densidad de 900 kilos por metro cúbico,
+Dialogue: 0,0:17:41.70,0:17:44.29,Gen_Main,,0000,0000,0000,,punto de ignición\Nde 300 grados Celsius.
+Dialogue: 0,0:17:46.89,0:17:48.46,Gen_Main,,0000,0000,0000,,Sesenta segundos.
+Dialogue: 0,0:17:49.08,0:17:50.46,Gen_Main,,0000,0000,0000,,Exactamente.
+Dialogue: 0,0:17:51.08,0:17:52.34,Gen_Main,,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:17:53.63,0:17:56.43,Gen_Main,,0000,0000,0000,,Es turno del mentalista.
+Dialogue: 0,0:17:58.10,0:18:00.18,Gen_Main,,0000,0000,0000,,Vamos, muévete.
+Dialogue: 0,0:18:00.68,0:18:03.31,Gen_Main,,0000,0000,0000,,Date prisa o te mataré.
+Dialogue: 0,0:18:05.18,0:18:07.44,Gen_Main,,0000,0000,0000,,¡Magma!
+Dialogue: 0,0:18:09.88,0:18:14.28,Gen_Main,,0000,0000,0000,,Gracias por matarme el otro día.
+Dialogue: 0,0:18:15.15,0:18:17.78,Gen_Main,,0000,0000,0000,,¡Tú! ¡El hechicero forastero!
+Dialogue: 0,0:18:19.20,0:18:21.95,Gen_Main,,0000,0000,0000,,¡¿Por qué sigue vivo?!
+Dialogue: 0,0:18:22.12,0:18:24.77,Gen_Main,,0000,0000,0000,,Es por la hechicería, claro.
+Dialogue: 0,0:18:31.85,0:18:35.36,Gen_Main,,0000,0000,0000,,¡Te he lanzado una maldición\Nque hará que tu corazón explote
+Dialogue: 0,0:18:35.51,0:18:38.30,Gen_Main,,0000,0000,0000,,cuando des un solo paso!
+Dialogue: 0,0:18:39.12,0:18:41.26,Gen_Main,,0000,0000,0000,,¿Su corazón?
+Dialogue: 0,0:18:41.57,0:18:44.76,Gen_Main,,0000,0000,0000,,¡Obviamente interfiere con hechicería!\N¡Es trampa!
+Dialogue: 0,0:18:44.90,0:18:47.27,Gen_Main,,0000,0000,0000,,Como si tu corazón fuera a explotar.
+Dialogue: 0,0:18:47.68,0:18:50.51,Gen_Main,,0000,0000,0000,,Pero si es un truco,\Nsolo es para fastidiarte.
+Dialogue: 0,0:18:50.68,0:18:52.23,Gen_Main,,0000,0000,0000,,No es ningún drama, ¿no?
+Dialogue: 0,0:18:52.40,0:18:55.11,Gen_Main,,0000,0000,0000,,¿Por qué no te mueves?
+Dialogue: 0,0:18:55.28,0:18:57.69,Gen_Main,,0000,0000,0000,,Veamos si revientas.
+Dialogue: 0,0:18:57.86,0:18:58.58,Gen_Italics,,0000,0000,0000,,Qué sucio.
+Dialogue: 0,0:18:58.74,0:18:59.78,Gen_Italics,,0000,0000,0000,,Qué sucio.
+Dialogue: 0,0:19:06.62,0:19:11.12,Gen_Main,,0000,0000,0000,,Chrome, acaba con él\Nmientras no pueda moverse.
+Dialogue: 0,0:19:17.30,0:19:19.54,Gen_Main,,0000,0000,0000,,¡Oh, no!
+Dialogue: 0,0:19:19.72,0:19:22.47,Gen_Main,,0000,0000,0000,,Tengo tanto miedo que no puedo moverme.
+Dialogue: 0,0:19:22.76,0:19:25.81,Gen_Main,,0000,0000,0000,,Qué forma tan forzada de fingir.
+Dialogue: 0,0:19:26.52,0:19:29.92,Gen_Main,,0000,0000,0000,,No importa. Gen lo hizo convincente.
+Dialogue: 0,0:19:30.85,0:19:32.53,Gen_Main,,0000,0000,0000,,¡Te lo ruego!
+Dialogue: 0,0:19:32.69,0:19:37.13,Gen_Main,,0000,0000,0000,,¡Rápido!\N¡No puedo mantener esta hechicería!
+Dialogue: 0,0:19:37.28,0:19:40.11,Gen_Main,,0000,0000,0000,,¡Solo tengo un minuto!
+Dialogue: 0,0:19:42.28,0:19:44.66,Gen_Main,,0000,0000,0000,,No eres más que un debilucho.
+Dialogue: 0,0:19:44.82,0:19:49.37,Gen_Main,,0000,0000,0000,,Solo debo esperar a que el hechicero\Nse quede sin fuerzas.
+Dialogue: 0,0:19:50.04,0:19:52.50,Gen_Italics,,0000,0000,0000,,Nada mal, mentalista.
+Dialogue: 0,0:19:52.84,0:19:56.89,Gen_Italics,,0000,0000,0000,,Kinro le causó bastante daño.
+Dialogue: 0,0:19:57.05,0:20:00.15,Gen_Italics,,0000,0000,0000,,Y siguió golpeando a Chrome\Nhasta cansarse.
+Dialogue: 0,0:20:00.76,0:20:03.74,Gen_Main,,0000,0000,0000,,Lo sé. Quieres descansar un poco.
+Dialogue: 0,0:20:03.89,0:20:06.57,Gen_Main,,0000,0000,0000,,Y te he dado una buena excusa para eso.
+Dialogue: 0,0:20:06.72,0:20:09.77,Gen_Main,,0000,0000,0000,,Es mejor esperar\Na que el hechicero se canse.
+Dialogue: 0,0:20:09.93,0:20:15.25,Gen_Main,,0000,0000,0000,,La gente usará cualquier mentira\Npara justificar su pereza.
+Dialogue: 0,0:20:15.42,0:20:19.78,Gen_Main,,0000,0000,0000,,Ya has caído en mi magia, Magma.
+Dialogue: 0,0:20:20.37,0:20:21.45,Gen_Main,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:20:21.61,0:20:22.58,Gen_Main,,0000,0000,0000,,¡Vamos, Chrome!
+Dialogue: 0,0:20:22.74,0:20:24.11,Gen_Main,,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:20:22.74,0:20:24.11,Gen_Italics,,0000,0000,0000,,¡Dale!
+Dialogue: 0,0:20:24.77,0:20:26.99,Gen_Italics,,0000,0000,0000,,Gen nos ha dado 60 segundos.
+Dialogue: 0,0:20:27.37,0:20:30.44,Gen_Italics,,0000,0000,0000,,Depende de ti, Chrome.
+Dialogue: 0,0:20:30.62,0:20:32.65,Gen_Italics,,0000,0000,0000,,Idealmente son 60 segundos.
+Dialogue: 0,0:20:32.83,0:20:36.46,Gen_Italics,,0000,0000,0000,,La menor vibración en el agua\Nafectará al cálculo.
+Dialogue: 0,0:20:36.63,0:20:38.03,Gen_Italics,,0000,0000,0000,,Joder.
+Dialogue: 0,0:20:38.21,0:20:40.84,Gen_Italics,,0000,0000,0000,,No puedo mantener quieta\Nla punta de la lanza.
+Dialogue: 0,0:20:41.68,0:20:44.35,Gen_Italics,,0000,0000,0000,,Calma tu mente.
+Dialogue: 0,0:20:50.28,0:20:52.02,Gen_Main,,0000,0000,0000,,Gracias, Chrome.
+Dialogue: 0,0:20:54.03,0:20:55.73,Gen_Italics,,0000,0000,0000,,Salvaré a Ruri.
+Dialogue: 0,0:21:03.11,0:21:07.82,Gen_Italics,,0000,0000,0000,,La ciencia de Senku,\Nla magia de Gen, mi tenacidad…
+Dialogue: 0,0:21:09.37,0:21:14.39,Gen_Italics,,0000,0000,0000,,Con nuestras fuerzas combinadas,\Nla luz dará inicio al fuego.
+Dialogue: 0,0:21:18.42,0:21:19.50,Gen_Main,,0000,0000,0000,,Al ataque.
+Dialogue: 0,0:21:20.00,0:21:21.88,Gen_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:21:23.63,0:21:25.99,Gen_Main,,0000,0000,0000,,Es una combustión súbita.
+Dialogue: 0,0:21:26.13,0:21:29.80,Gen_Main,,0000,0000,0000,,La llama se extiende al instante\Npor la superficie peluda de la ropa.
+Dialogue: 0,0:21:31.80,0:21:34.31,Gen_Main,,0000,0000,0000,,Magma, relájate.
+Dialogue: 0,0:21:34.85,0:21:37.23,Gen_Main,,0000,0000,0000,,No pienso ser un asesino.
+Dialogue: 0,0:21:37.40,0:21:39.56,Gen_Main,,0000,0000,0000,,Te echaré una mano.
+Dialogue: 0,0:21:53.37,0:21:55.17,Gen_Main,,0000,0000,0000,,¡El ganador es Chrome!
+Dialogue: 0,0:21:55.49,0:21:56.87,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:21:57.04,0:21:58.58,Gen_Main,,0000,0000,0000,,¡Magma ha caído!
+Dialogue: 0,0:22:00.90,0:22:02.96,Gen_Main,,0000,0000,0000,,¡Entonces, los últimos que quedan son…!
+Dialogue: 0,0:22:03.24,0:22:07.09,Gen_Main,,0000,0000,0000,,Senku, Chrome y Ginro.
+Dialogue: 0,0:22:07.88,0:22:08.85,Gen_Main,,0000,0000,0000,,¡Chrome!
+Dialogue: 0,0:22:09.98,0:22:12.70,Gen_Main,,0000,0000,0000,,¡Todos están de nuestro lado!
+Dialogue: 0,0:22:13.60,0:22:14.47,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:22:15.64,0:22:19.14,Gen_Main,,0000,0000,0000,,¡Es la victoria\Npara el reino científico!
+Dialogue: 0,0:23:58.49,0:24:00.96,Cart_Next,,0000,0000,0000,,Próximo episodio\N{\fs26}La culminación de dos millones de años
+Dialogue: 0,0:24:00.96,0:24:06.25,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}

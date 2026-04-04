@@ -1,0 +1,316 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.29,0:00:25.60,Gen_Main,,0000,0000,0000,,Ese es el tío al que buscaba Tsukasa.
+Dialogue: 0,0:00:25.71,0:00:27.25,Gen_Main,,0000,0000,0000,,¿Eh? ¿En serio?
+Dialogue: 0,0:00:30.22,0:00:31.55,Gen_Main,,0000,0000,0000,,¿Quién es?
+Dialogue: 0,0:00:41.68,0:00:43.10,Gen_Main,,0000,0000,0000,,Hola, Hyoga.
+Dialogue: 0,0:00:44.06,0:00:46.56,Gen_Main,,0000,0000,0000,,Has despertado tras 3.700 años.
+Dialogue: 0,0:00:47.23,0:00:51.48,Gen_Main,,0000,0000,0000,,Este es un nuevo mundo\Ndonde tus habilidades brillarán.
+Dialogue: 0,0:00:56.24,0:00:59.53,Gen_Main,,0000,0000,0000,,Me preguntaba\Nqué clase de tío iba a revivir,
+Dialogue: 0,0:00:59.66,0:01:01.79,Gen_Main,,0000,0000,0000,,pero este es un blanducho.
+Dialogue: 0,0:01:03.33,0:01:06.21,Gen_Main,,0000,0000,0000,,¿De verdad vale de algo?
+Dialogue: 0,0:01:08.75,0:01:10.54,Gen_Main,,0000,0000,0000,,Pelea contra él y lo sabrás.
+Dialogue: 0,0:01:11.34,0:01:12.88,Gen_Main,,0000,0000,0000,,¿Queréis probar suerte?
+Dialogue: 0,0:01:13.84,0:01:16.63,Gen_Main,,0000,0000,0000,,¿Seguro? Podría palmar.
+Dialogue: 0,0:01:16.76,0:01:18.80,Gen_Main,,0000,0000,0000,,Me daría pena y todo.
+Dialogue: 0,0:01:19.22,0:01:21.39,Gen_Main,,0000,0000,0000,,Acaba de despertar.
+Dialogue: 0,0:01:23.35,0:01:24.81,Gen_Main,,0000,0000,0000,,No me importa.
+Dialogue: 0,0:01:28.06,0:01:33.11,Gen_Main,,0000,0000,0000,,Si puedo usar mi arma favorita,\Nme enfrentaré a diez a la vez.
+Dialogue: 0,0:01:37.24,0:01:40.37,Gen_Main,,0000,0000,0000,,¡Ahora es tarde para acojonarte!
+Dialogue: 0,0:01:48.87,0:01:51.38,Gen_Main,,0000,0000,0000,,Eso ha sido impresionante.
+Dialogue: 0,0:01:53.42,0:01:54.42,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:01:54.96,0:01:59.26,Gen_Main,,0000,0000,0000,,No había suficientes hombres\Npara calentar después de tu descanso.
+Dialogue: 0,0:02:00.01,0:02:02.56,Gen_Main,,0000,0000,0000,,No importa la cantidad.
+Dialogue: 0,0:02:03.60,0:02:05.52,Gen_Main,,0000,0000,0000,,El único combatiente digno,
+Dialogue: 0,0:02:05.77,0:02:09.92,Gen_Main,,0000,0000,0000,,es decir,\Nel único al que no quiero enfrentarme,
+Dialogue: 0,0:02:10.44,0:02:14.54,Gen_Main,,0000,0000,0000,,eres tú, el primate más fuerte,\NTsukasa Shishio.
+Dialogue: 0,0:02:15.99,0:02:19.82,Gen_Main,,0000,0000,0000,,Te mostraré nuestro nuevo mundo.
+Dialogue: 0,0:02:43.89,0:02:47.47,Gen_Main,,0000,0000,0000,,Hyoga, la naturaleza es muy generosa.
+Dialogue: 0,0:02:47.98,0:02:49.64,Gen_Main,,0000,0000,0000,,No nos falta de nada.
+Dialogue: 0,0:02:50.77,0:02:55.15,Gen_Main,,0000,0000,0000,,El mundo fue así durante muchas eras\Nantes de que llegara el hombre.
+Dialogue: 0,0:02:56.11,0:02:57.74,Gen_Main,,0000,0000,0000,,No le pertenecía a nadie.
+Dialogue: 0,0:03:00.28,0:03:03.74,Gen_Main,,0000,0000,0000,,Pero cuando tú y yo nacimos,
+Dialogue: 0,0:03:04.13,0:03:05.95,Gen_Main,,0000,0000,0000,,el viejo mundo nos dijo:
+Dialogue: 0,0:03:07.16,0:03:11.98,Gen_Main,,0000,0000,0000,,"Este mundo,\Nhasta el último centímetro cuadrado,
+Dialogue: 0,0:03:12.58,0:03:16.13,Gen_Main,,0000,0000,0000,,le pertenece\Na algún maldito viejo rico".
+Dialogue: 0,0:03:17.67,0:03:19.01,Gen_Main,,0000,0000,0000,,Cierto.
+Dialogue: 0,0:03:19.76,0:03:25.30,Gen_Main,,0000,0000,0000,,Trabajaba a destajo\Ny casi todo se iba al alquiler y demás.
+Dialogue: 0,0:03:25.43,0:03:28.22,Gen_Main,,0000,0000,0000,,Lo recuerdo como si fuera esclavitud.
+Dialogue: 0,0:03:29.06,0:03:32.93,Gen_Main,,0000,0000,0000,,Los privilegiados explotaban\Na los jóvenes más pobres.
+Dialogue: 0,0:03:33.36,0:03:36.61,Gen_Main,,0000,0000,0000,,Era un mundo en el que todos\Ndebíamos pelear y enfrentarnos.
+Dialogue: 0,0:03:36.90,0:03:39.44,Gen_Main,,0000,0000,0000,,Ahora soy más feliz.
+Dialogue: 0,0:03:41.20,0:03:44.16,Gen_Main,,0000,0000,0000,,Aunque eso es en parte por ser fan
+Dialogue: 0,0:03:44.28,0:03:46.99,Gen_Main,,0000,0000,0000,,del primate más fuerte.
+Dialogue: 0,0:03:47.49,0:03:50.33,Gen_Main,,0000,0000,0000,,¡Mira, hemos pillado uno bien grande!
+Dialogue: 0,0:03:52.48,0:03:54.79,Gen_Main,,0000,0000,0000,,Hemos vuelto, Tsukasa.
+Dialogue: 0,0:03:54.92,0:03:57.17,Gen_Main,,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:03:58.88,0:04:03.41,Gen_Italics,,0000,0000,0000,,Tsukasa ya era carismático\Nen el viejo mundo.
+Dialogue: 0,0:04:04.49,0:04:07.22,Gen_Italics,,0000,0000,0000,,Si pones a alguien fuerte,\Natractivo y bien hablado
+Dialogue: 0,0:04:07.35,0:04:09.39,Gen_Italics,,0000,0000,0000,,y le das un alegato razonable,
+Dialogue: 0,0:04:10.56,0:04:14.73,Gen_Italics,,0000,0000,0000,,será difícil evitar que te convenza.
+Dialogue: 0,0:04:20.61,0:04:21.90,Gen_Main,,0000,0000,0000,,Hyoga,
+Dialogue: 0,0:04:22.52,0:04:26.95,Gen_Main,,0000,0000,0000,,¿dirías que la sociedad\Nde hace 3.700 años era una utopía?
+Dialogue: 0,0:04:27.74,0:04:28.74,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:04:29.62,0:04:33.94,Gen_Main,,0000,0000,0000,,Imagina que la clase privilegiada\Ndel viejo mundo reviviera ahora
+Dialogue: 0,0:04:34.43,0:04:38.12,Gen_Main,,0000,0000,0000,,y consiguiera armas\Npara matar gracias a la ciencia.
+Dialogue: 0,0:04:38.59,0:04:40.00,Gen_Main,,0000,0000,0000,,¿Qué pasaría?
+Dialogue: 0,0:04:40.49,0:04:44.34,Gen_Main,,0000,0000,0000,,Supongo que querrían\Nusarlas para recuperar
+Dialogue: 0,0:04:44.47,0:04:46.51,Gen_Main,,0000,0000,0000,,la pirámide de riqueza que tenían.
+Dialogue: 0,0:04:47.01,0:04:51.52,Gen_Main,,0000,0000,0000,,Nadie que haya probado ese néctar\Nquerría olvidarse de él.
+Dialogue: 0,0:04:52.02,0:04:53.28,Gen_Main,,0000,0000,0000,,Aun así,
+Dialogue: 0,0:04:53.52,0:04:57.86,Gen_Main,,0000,0000,0000,,el mundo se reinició y no puede\Nsoportar 7.000 millones de vidas.
+Dialogue: 0,0:04:59.19,0:05:01.06,Gen_Main,,0000,0000,0000,,Hay que hacer recortes.
+Dialogue: 0,0:05:02.11,0:05:07.36,Gen_Italics,,0000,0000,0000,,Son los dos luchadores más peligrosos\Ny están de acuerdo.
+Dialogue: 0,0:05:08.16,0:05:12.58,Gen_Main,,0000,0000,0000,,Hay un nuevo mundo\Nque los jóvenes deben construir.
+Dialogue: 0,0:05:13.33,0:05:16.29,Gen_Main,,0000,0000,0000,,No necesitamos recrear el viejo.
+Dialogue: 0,0:05:21.05,0:05:25.01,Gen_Main,,0000,0000,0000,,No sé si llamarlo un amigo,\Npero antes hubo un hombre
+Dialogue: 0,0:05:25.13,0:05:28.64,Gen_Main,,0000,0000,0000,,llamado Senku con un entendimiento\Nsobrehumano de la ciencia
+Dialogue: 0,0:05:28.76,0:05:31.06,Gen_Main,,0000,0000,0000,,y quiso revivir el viejo mundo.
+Dialogue: 0,0:05:33.43,0:05:34.31,Gen_Main,,0000,0000,0000,,Y por eso…
+Dialogue: 0,0:05:35.68,0:05:37.76,Gen_Main,,0000,0000,0000,,lo maté con mis propias manos.
+Dialogue: 0,0:05:38.46,0:05:41.57,Gen_Main,,0000,0000,0000,,Sin Senku, no habrá ciencia.
+Dialogue: 0,0:05:42.52,0:05:47.11,Gen_Main,,0000,0000,0000,,La corrupta raza humana será purificada\Ny avanzará a un nuevo mundo.
+Dialogue: 0,0:05:50.53,0:05:52.12,Gen_Main,,0000,0000,0000,,Y para conseguirlo…
+Dialogue: 0,0:05:53.87,0:05:56.87,Gen_Main,,0000,0000,0000,,me mancharé las manos cuanto haga falta.
+Dialogue: 0,0:07:45.36,0:07:50.03,Cart_Title,,0000,0000,0000,,{\pos(319,87)\frz12.33\c&H000000&}A la modernidad
+Dialogue: 0,0:07:50.30,0:07:53.41,Gen_Main,,0000,0000,0000,,¡También han cortado la lanza de Hyoga!
+Dialogue: 0,0:07:53.53,0:07:55.37,Gen_Main,,0000,0000,0000,,¡Joder! ¡Huyamos!
+Dialogue: 0,0:07:55.82,0:07:57.70,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:07:58.79,0:08:02.58,Gen_Main,,0000,0000,0000,,Gran agilidad,\Ntrabajo en equipo coordinado
+Dialogue: 0,0:08:02.71,0:08:04.67,Gen_Main,,0000,0000,0000,,y una sucia traición.
+Dialogue: 0,0:08:06.38,0:08:10.05,Gen_Main,,0000,0000,0000,,Y el conocimiento científico\Npara crear pistolas y katanas.
+Dialogue: 0,0:08:10.59,0:08:13.88,Gen_Main,,0000,0000,0000,,Hacéis las cosas de forma correcta.
+Dialogue: 0,0:08:16.39,0:08:19.97,Gen_Main,,0000,0000,0000,,Habría sido más correcto de haber notado
+Dialogue: 0,0:08:20.10,0:08:22.68,Gen_Main,,0000,0000,0000,,que todo era una distracción.
+Dialogue: 0,0:08:28.08,0:08:31.69,Gen_Main,,0000,0000,0000,,Así que eso pretendíais.
+Dialogue: 0,0:08:33.49,0:08:35.45,Gen_Main,,0000,0000,0000,,¡No! ¡Un incendio!
+Dialogue: 0,0:08:36.74,0:08:37.45,Gen_Main,,0000,0000,0000,,¡Corred!
+Dialogue: 0,0:08:37.87,0:08:39.28,Gen_Main,,0000,0000,0000,,¡Al puente! ¡Rápido!
+Dialogue: 0,0:08:43.83,0:08:45.25,Gen_Main,,0000,0000,0000,,¡Jasper! ¡Turquoise!
+Dialogue: 0,0:08:45.37,0:08:48.25,Gen_Main,,0000,0000,0000,,¡No necesito protección!\N¡Id a por los niños!
+Dialogue: 0,0:08:48.38,0:08:49.25,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:08:59.47,0:09:00.47,Gen_Main,,0000,0000,0000,,El puente…
+Dialogue: 0,0:09:02.39,0:09:04.18,Gen_Main,,0000,0000,0000,,¿Quién es?
+Dialogue: 0,0:09:06.23,0:09:07.20,Gen_Main,,0000,0000,0000,,Un estorbo.
+Dialogue: 0,0:09:07.97,0:09:09.52,Gen_Main,,0000,0000,0000,,¡Poned a todos a salvo!
+Dialogue: 0,0:09:15.65,0:09:16.53,Gen_Main,,0000,0000,0000,,¿Otro más?
+Dialogue: 0,0:09:16.99,0:09:19.53,Gen_Main,,0000,0000,0000,,Saludad a mi mano derecha, Homura.
+Dialogue: 0,0:09:19.99,0:09:22.91,Gen_Main,,0000,0000,0000,,Puede cuidarse sola,
+Dialogue: 0,0:09:23.16,0:09:26.83,Gen_Main,,0000,0000,0000,,a diferencia de esos hombres\Ncon el cerebro derretido.
+Dialogue: 0,0:09:44.22,0:09:46.14,Gen_Main,,0000,0000,0000,,¿Qué movimientos son esos?
+Dialogue: 0,0:09:53.28,0:09:55.03,Gen_Main,,0000,0000,0000,,Esto es terrible.
+Dialogue: 0,0:09:55.11,0:09:56.95,Gen_Main,,0000,0000,0000,,Por culpa del fuego
+Dialogue: 0,0:09:57.07,0:10:01.87,Gen_Main,,0000,0000,0000,,el viento de la montaña es un viento\Nmortal que extiende las llamas.
+Dialogue: 0,0:10:01.99,0:10:03.04,Gen_Main,,0000,0000,0000,,¡Chicos!
+Dialogue: 0,0:10:03.29,0:10:04.70,Gen_Main,,0000,0000,0000,,¡Por aquí!
+Dialogue: 0,0:10:06.83,0:10:10.08,Gen_Main,,0000,0000,0000,,¡Salid de las casas! ¡¿Queréis morir?!
+Dialogue: 0,0:10:10.21,0:10:11.71,Gen_Main,,0000,0000,0000,,¡Marchaos ya!
+Dialogue: 0,0:10:16.13,0:10:18.63,Gen_Main,,0000,0000,0000,,¡Por ahí! ¡El puente ha ardido!
+Dialogue: 0,0:10:18.76,0:10:20.93,Gen_Main,,0000,0000,0000,,¡Debemos ir a la choza científica!
+Dialogue: 0,0:10:46.12,0:10:47.66,Gen_Main,,0000,0000,0000,,Buen trabajo, Homura.
+Dialogue: 0,0:10:48.03,0:10:50.33,Gen_Main,,0000,0000,0000,,No podía irme tras esa humillación.
+Dialogue: 0,0:10:50.46,0:10:52.67,Gen_Main,,0000,0000,0000,,Tu humillación no importa.
+Dialogue: 0,0:10:53.38,0:10:56.76,Gen_Main,,0000,0000,0000,,Les prendimos fuego\Npara obligarlos a estar al descubierto.
+Dialogue: 0,0:10:56.88,0:11:00.47,Gen_Main,,0000,0000,0000,,Debería ser obvio\Nincluso con tu cerebro derretido.
+Dialogue: 0,0:11:01.57,0:11:03.15,Gen_Main,,0000,0000,0000,,Tratamos con gente
+Dialogue: 0,0:11:03.30,0:11:07.81,Gen_Main,,0000,0000,0000,,que es tan ingenua\Nque no abandonan a un guardia.
+Dialogue: 0,0:11:07.93,0:11:08.98,Gen_Main,,0000,0000,0000,,¿Qué importa eso?
+Dialogue: 0,0:11:09.10,0:11:09.98,Gen_Main,,0000,0000,0000,,¡Ya sé!
+Dialogue: 0,0:11:10.10,0:11:14.06,Gen_Main,,0000,0000,0000,,¡Cogemos a uno de los niños que sacamos\Ny lo usamos como rehén!
+Dialogue: 0,0:11:14.32,0:11:16.07,Gen_Main,,0000,0000,0000,,¡Claro!
+Dialogue: 0,0:11:18.61,0:11:20.74,Gen_Main,,0000,0000,0000,,No hay garantía\Nde que ataquen de frente.
+Dialogue: 0,0:11:20.96,0:11:23.28,Gen_Main,,0000,0000,0000,,¡Concentraos en todas las direcciones!
+Dialogue: 0,0:11:24.16,0:11:26.24,Gen_Main,,0000,0000,0000,,¿Podemos proteger un grupo tan grande?
+Dialogue: 0,0:11:26.37,0:11:29.30,Gen_Main,,0000,0000,0000,,¡Meted a los niños en la choza!\N¡Es la única esperanza!
+Dialogue: 0,0:11:29.45,0:11:30.16,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:11:41.43,0:11:42.72,Gen_Main,,0000,0000,0000,,¡Id a por agua!
+Dialogue: 0,0:11:42.90,0:11:44.00,Gen_Main,,0000,0000,0000,,¡Por aquí, rápido!
+Dialogue: 0,0:11:44.75,0:11:45.64,Gen_Main,,0000,0000,0000,,¡Rápido!
+Dialogue: 0,0:11:45.76,0:11:47.06,Gen_Main,,0000,0000,0000,,¡Se quema!
+Dialogue: 0,0:11:47.60,0:11:50.31,Gen_Main,,0000,0000,0000,,¡Los minerales que Chrome\Npasó años reuniendo
+Dialogue: 0,0:11:50.43,0:11:52.85,Gen_Main,,0000,0000,0000,,y el laboratorio\Nque tardamos meses en hacer!
+Dialogue: 0,0:11:52.98,0:11:54.86,Gen_Main,,0000,0000,0000,,¡Si se destruye…!
+Dialogue: 0,0:11:55.69,0:11:59.25,Gen_Main,,0000,0000,0000,,¡Protegeré el reino científico!
+Dialogue: 0,0:12:02.08,0:12:02.95,Gen_Main,,0000,0000,0000,,¡Mirad!
+Dialogue: 0,0:12:03.30,0:12:05.87,Gen_Main,,0000,0000,0000,,¡Una niña idiota que no huyó a tiempo!
+Dialogue: 0,0:12:09.04,0:12:12.58,Gen_Main,,0000,0000,0000,,¡Tras ella! ¡Será nuestra rehén!
+Dialogue: 0,0:12:13.92,0:12:17.71,Gen_Main,,0000,0000,0000,,¿Es tan devota\Ncomo para actuar como distracción?
+Dialogue: 0,0:12:18.10,0:12:20.56,Gen_Main,,0000,0000,0000,,Aprecio su ingenuidad.
+Dialogue: 0,0:12:20.92,0:12:23.34,Gen_Main,,0000,0000,0000,,Solo necesitamos\Natrapar a una para ganar
+Dialogue: 0,0:12:23.47,0:12:27.25,Gen_Main,,0000,0000,0000,,y será más fácil que atacar\Nla base de esos soldados científicos.
+Dialogue: 0,0:12:31.18,0:12:35.40,Gen_Italics,,0000,0000,0000,,Debo esconderme\Npara alejarlos del reino científico.
+Dialogue: 0,0:12:36.06,0:12:38.44,Gen_Italics,,0000,0000,0000,,Si voy hacia la montaña,\Ncontra el viento,
+Dialogue: 0,0:12:38.73,0:12:42.28,Gen_Italics,,0000,0000,0000,,no podrán echarme con más fuego.
+Dialogue: 0,0:12:43.99,0:12:45.99,Gen_Main,,0000,0000,0000,,¡Por ahí!
+Dialogue: 0,0:12:47.37,0:12:48.45,Gen_Main,,0000,0000,0000,,¡¿Que Suika qué?!
+Dialogue: 0,0:12:48.58,0:12:50.29,Gen_Main,,0000,0000,0000,,¡Intenté detenerla!
+Dialogue: 0,0:12:50.41,0:12:52.50,Gen_Main,,0000,0000,0000,,¡Iba hacia las aguas termales!
+Dialogue: 0,0:12:53.46,0:12:57.21,Gen_Main,,0000,0000,0000,,Aquí es donde siempre vengo\Na por agua caliente.
+Dialogue: 0,0:12:57.67,0:12:59.57,Gen_Main,,0000,0000,0000,,Lo peligroso está más allá.
+Dialogue: 0,0:12:59.77,0:13:01.76,Gen_Main,,0000,0000,0000,,Los gases venenosos que se forman aquí,
+Dialogue: 0,0:13:02.26,0:13:05.59,Gen_Main,,0000,0000,0000,,ácido sulfhídrico y dióxido de azufre,\Npesan más que el aire.
+Dialogue: 0,0:13:06.68,0:13:09.35,Gen_Main,,0000,0000,0000,,Un poderoso viento de montaña.
+Dialogue: 0,0:13:10.89,0:13:13.77,Gen_Main,,0000,0000,0000,,No sé por qué, pero ese viento
+Dialogue: 0,0:13:14.60,0:13:17.15,Gen_Main,,0000,0000,0000,,me está dando mala espina.
+Dialogue: 0,0:13:19.02,0:13:20.82,Gen_Main,,0000,0000,0000,,¡Ríndete ya!
+Dialogue: 0,0:13:20.94,0:13:23.99,Gen_Main,,0000,0000,0000,,¡Partámosle una pierna\Ncuando la atrapemos!
+Dialogue: 0,0:13:35.71,0:13:37.87,Gen_Main,,0000,0000,0000,,Este viento… Muerte.
+Dialogue: 0,0:13:42.71,0:13:44.05,Gen_Main,,0000,0000,0000,,¡Suika!
+Dialogue: 0,0:13:44.34,0:13:45.63,Gen_Main,,0000,0000,0000,,¡Sube al árbol!
+Dialogue: 0,0:13:50.55,0:13:53.22,Gen_Main,,0000,0000,0000,,¿Qué ha pasado?
+Dialogue: 0,0:13:53.48,0:13:56.73,Gen_Main,,0000,0000,0000,,No te preocupes.\NEl gas venenoso se quedará abajo.
+Dialogue: 0,0:13:58.19,0:14:01.23,Gen_Main,,0000,0000,0000,,¿Gas venenoso?
+Dialogue: 0,0:14:12.45,0:14:15.41,Gen_Main,,0000,0000,0000,,La madre naturaleza\Nno es amiga ni enemiga.
+Dialogue: 0,0:14:17.25,0:14:19.37,Gen_Main,,0000,0000,0000,,Es de lo más imparcial.
+Dialogue: 0,0:14:19.63,0:14:21.13,Gen_Main,,0000,0000,0000,,¡¿Gas venenoso?!
+Dialogue: 0,0:14:21.25,0:14:23.75,Gen_Main,,0000,0000,0000,,¡¿Esto lo has provocado tú?!
+Dialogue: 0,0:14:26.67,0:14:29.09,Gen_Main,,0000,0000,0000,,Sí, claro que sí.
+Dialogue: 0,0:14:29.42,0:14:33.31,Gen_Main,,0000,0000,0000,,Os lo merecéis\Npor vuestro estúpido ataque suicida
+Dialogue: 0,0:14:33.43,0:14:36.38,Gen_Main,,0000,0000,0000,,a nuestro reino científico\Ny su armamento moderno.
+Dialogue: 0,0:14:36.89,0:14:40.24,Gen_Main,,0000,0000,0000,,Bueno, volvamos, Suika.
+Dialogue: 0,0:14:40.56,0:14:42.86,Gen_Main,,0000,0000,0000,,Si respiras despacio, estarás bien.
+Dialogue: 0,0:14:42.98,0:14:44.82,Gen_Main,,0000,0000,0000,,¡De acuerdo!
+Dialogue: 0,0:14:46.44,0:14:49.78,Gen_Main,,0000,0000,0000,,Vosotros volved a mamar\Nde la teta de mamá Tsukasa.
+Dialogue: 0,0:14:50.11,0:14:55.66,Gen_Main,,0000,0000,0000,,Si es que podéis esperar 10.000 millones\Nde segundos para que pase el gas.
+Dialogue: 0,0:15:00.82,0:15:03.88,Gen_Main,,0000,0000,0000,,¿Se pitorrea? ¡No voy a esperar\N10.000 millones de segundos!
+Dialogue: 0,0:15:04.00,0:15:09.22,Gen_Main,,0000,0000,0000,,¿Cómo ha podido hacer gas venenoso\Nen este mundo de piedra?
+Dialogue: 0,0:15:09.36,0:15:11.89,Gen_Main,,0000,0000,0000,,Cierto. Hay que ser correctos.
+Dialogue: 0,0:15:12.22,0:15:14.85,Gen_Main,,0000,0000,0000,,Debemos asegurarnos\Nde que el gas se haya ido.
+Dialogue: 0,0:15:15.60,0:15:17.20,Gen_Main,,0000,0000,0000,,Por fortuna,
+Dialogue: 0,0:15:17.60,0:15:22.23,Gen_Main,,0000,0000,0000,,por fin haréis un trabajo correcto\Na pesar de vuestros cerebros derretidos.
+Dialogue: 0,0:15:38.95,0:15:41.96,Gen_Main,,0000,0000,0000,,Vaya, se han muerto correctamente.
+Dialogue: 0,0:15:42.92,0:15:46.65,Gen_Main,,0000,0000,0000,,Así que, al menos,\Nlas máscaras eran reales.
+Dialogue: 0,0:15:47.55,0:15:49.30,Gen_Main,,0000,0000,0000,,Parece que Senku
+Dialogue: 0,0:15:49.42,0:15:53.93,Gen_Main,,0000,0000,0000,,y sus aliados tienen varios metales\Ny químicos bajo su control.
+Dialogue: 0,0:15:55.05,0:15:57.47,Gen_Main,,0000,0000,0000,,El reino científico ha crecido mucho.
+Dialogue: 0,0:15:59.02,0:16:01.27,Gen_Main,,0000,0000,0000,,¡Siempre podemos\Nreconstruir los edificios!
+Dialogue: 0,0:16:01.50,0:16:04.92,Gen_Main,,0000,0000,0000,,¡Rechazamos su ataque\Nsin perder a nadie!
+Dialogue: 0,0:16:05.20,0:16:08.07,Gen_Main,,0000,0000,0000,,¡La aldea Ishigami\Nha ganado esta batalla!
+Dialogue: 0,0:16:10.44,0:16:13.07,Gen_Main,,0000,0000,0000,,Has hecho un gran papel, Suika.
+Dialogue: 0,0:16:14.32,0:16:16.62,Gen_Main,,0000,0000,0000,,Pero ha sido muy imprudente.
+Dialogue: 0,0:16:19.62,0:16:22.16,Gen_Main,,0000,0000,0000,,Debemos superarlos en número.
+Dialogue: 0,0:16:23.29,0:16:25.63,Gen_Main,,0000,0000,0000,,Incluyéndonos a Tsukasa y a mí,
+Dialogue: 0,0:16:26.17,0:16:31.46,Gen_Main,,0000,0000,0000,,debemos atacar con la mayor fuerza\Nde combate que tenga el imperio.
+Dialogue: 0,0:16:50.48,0:16:52.15,Gen_Main,,0000,0000,0000,,¿Qué vamos a hacer ahora?
+Dialogue: 0,0:16:52.37,0:16:56.20,Gen_Main,,0000,0000,0000,,Tsukasa se va a enterar\Nal fin de que estás vivo.
+Dialogue: 0,0:16:56.53,0:16:57.49,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:16:57.68,0:17:02.58,Gen_Main,,0000,0000,0000,,Y sabrá que aún no podemos\Ncrear pólvora ni pistolas.
+Dialogue: 0,0:17:03.50,0:17:05.04,Gen_Main,,0000,0000,0000,,¿No podemos?
+Dialogue: 0,0:17:05.26,0:17:06.25,Gen_Main,,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:17:07.00,0:17:10.38,Gen_Main,,0000,0000,0000,,El fluido para revivir\Nque Tsukasa y su gente crea
+Dialogue: 0,0:17:10.51,0:17:13.92,Gen_Main,,0000,0000,0000,,es bastante fácil de producir.
+Dialogue: 0,0:17:14.30,0:17:17.51,Gen_Main,,0000,0000,0000,,Pero nosotros\Nno hemos revivido a ninguna estatua.
+Dialogue: 0,0:17:18.73,0:17:21.22,Gen_Main,,0000,0000,0000,,Es porque no tenemos ácido nítrico.
+Dialogue: 0,0:17:21.77,0:17:24.31,Gen_Main,,0000,0000,0000,,Podríamos con estiércol o conchas,
+Dialogue: 0,0:17:24.43,0:17:26.44,Gen_Main,,0000,0000,0000,,pero necesitamos muchas y mucho tiempo.
+Dialogue: 0,0:17:26.94,0:17:30.61,Gen_Main,,0000,0000,0000,,Sin ácido nítrico, tampoco hay pólvora.
+Dialogue: 0,0:17:30.78,0:17:33.78,Gen_Main,,0000,0000,0000,,Es lo bastante listo para saber eso.
+Dialogue: 0,0:17:35.78,0:17:38.91,Gen_Main,,0000,0000,0000,,Tampoco nos sobra nada\Nen nuestros suministros.
+Dialogue: 0,0:17:39.55,0:17:43.24,Gen_Main,,0000,0000,0000,,Hablas de muchas cosas científicas\Ny no lo entiendo.
+Dialogue: 0,0:17:43.37,0:17:45.75,Gen_Main,,0000,0000,0000,,¿No hay una forma más simple de decirlo?
+Dialogue: 0,0:17:46.92,0:17:51.59,Gen_Main,,0000,0000,0000,,Quiero decir que aunque haya armas,\Nno podemos usarlas.
+Dialogue: 0,0:17:51.71,0:17:54.25,Gen_Main,,0000,0000,0000,,Y conociendo a Tsukasa,
+Dialogue: 0,0:17:54.40,0:17:57.51,Gen_Main,,0000,0000,0000,,tendrá un gran ejército\Nlisto para una invasión.
+Dialogue: 0,0:17:57.88,0:18:01.51,Gen_Main,,0000,0000,0000,,Cuanto más tiempo pasa,\Nmás guerreros tiene.
+Dialogue: 0,0:18:02.06,0:18:04.14,Gen_Main,,0000,0000,0000,,Al contrario que nuestra pólvora.
+Dialogue: 0,0:18:06.60,0:18:08.73,Gen_Main,,0000,0000,0000,,Entonces, ¿qué hacemos?
+Dialogue: 0,0:18:10.02,0:18:11.74,Gen_Main,,0000,0000,0000,,Está claro.
+Dialogue: 0,0:18:12.73,0:18:14.90,Gen_Main,,0000,0000,0000,,Atacaremos primero
+Dialogue: 0,0:18:15.07,0:18:17.74,Gen_Main,,0000,0000,0000,,con una de nuestras\Ndivertidas invenciones.
+Dialogue: 0,0:18:20.20,0:18:21.66,Gen_Main,,0000,0000,0000,,Estoy de acuerdo.
+Dialogue: 0,0:18:21.78,0:18:23.68,Gen_Main,,0000,0000,0000,,Esperar nos pondría en desventaja.
+Dialogue: 0,0:18:23.83,0:18:25.79,Gen_Main,,0000,0000,0000,,La única opción es atacar.
+Dialogue: 0,0:18:27.13,0:18:30.38,Gen_Main,,0000,0000,0000,,Pero primero debemos crear\Nesa arma científica.
+Dialogue: 0,0:18:31.00,0:18:33.25,Gen_Main,,0000,0000,0000,,¿Cuál es esa arma?
+Dialogue: 0,0:18:34.96,0:18:36.76,Gen_Main,,0000,0000,0000,,¡Vais a llorar de alegría!
+Dialogue: 0,0:18:36.88,0:18:39.80,Gen_Main,,0000,0000,0000,,¡Es hora de sacar\Nla verdadera tecnología moderna!
+Dialogue: 0,0:18:41.30,0:18:44.85,Gen_Main,,0000,0000,0000,,Los avances científicos\Nque recreamos en este mundo de piedra
+Dialogue: 0,0:18:44.97,0:18:47.73,Gen_Main,,0000,0000,0000,,por fin llegarán a la modernidad.
+Dialogue: 0,0:18:48.89,0:18:52.19,Gen_Main,,0000,0000,0000,,Esto ganó muchas guerras\Nen la era moderna.
+Dialogue: 0,0:18:52.31,0:18:55.32,Gen_Main,,0000,0000,0000,,El arma más fuerte\Nen dos millones de historia.
+Dialogue: 0,0:18:55.58,0:18:57.94,Gen_Main,,0000,0000,0000,,No hablarás de armas nucleares, ¿verdad?
+Dialogue: 0,0:18:58.07,0:18:58.84,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:18:59.90,0:19:02.70,Gen_Main,,0000,0000,0000,,El arma más fuerte\Nen dos millones de historia humana.
+Dialogue: 0,0:19:02.97,0:19:05.16,Gen_Main,,0000,0000,0000,,Tecnología de comunicaciones.
+Dialogue: 0,0:19:05.54,0:19:10.25,Gen_Main,,0000,0000,0000,,Crearemos móviles\Nen este mundo de piedra.
+Dialogue: 0,0:19:11.46,0:19:12.25,Gen_Main,,0000,0000,0000,,¿Mó…
+Dialogue: 0,0:19:12.38,0:19:13.00,Gen_Main,,0000,0000,0000,,… vi…
+Dialogue: 0,0:19:13.13,0:19:13.67,Gen_Main,,0000,0000,0000,,…les?
+Dialogue: 0,0:19:16.67,0:19:21.30,Gen_Italics,,0000,0000,0000,,¿Está loco?\NCreo que ha dicho una gilipollez.
+Dialogue: 0,0:19:22.39,0:19:23.64,Gen_Main,,0000,0000,0000,,¿Un móvil?
+Dialogue: 0,0:19:24.35,0:19:26.89,Gen_Main,,0000,0000,0000,,¿Qué es eso? ¿Un pescado?
+Dialogue: 0,0:19:31.31,0:19:41.45,Cart_C_Tre,,0000,0000,0000,,{\pos(541,20)}Los escépticos
+Dialogue: 0,0:19:31.66,0:19:34.15,Gen_Main,,0000,0000,0000,,¿Puedes hablar con alguien…
+Dialogue: 0,0:19:34.27,0:19:36.48,Gen_Main,,0000,0000,0000,,… desde muy lejos?
+Dialogue: 0,0:19:36.61,0:19:38.69,Gen_Main,,0000,0000,0000,,¡Eso es brujería!
+Dialogue: 0,0:19:38.82,0:19:41.32,Gen_Main,,0000,0000,0000,,¡¿Eso es posible?!
+Dialogue: 0,0:19:41.82,0:19:45.58,Cart_C_Tre,,0000,0000,0000,,{\pos(83,24)}Los emocionados
+Dialogue: 0,0:19:41.86,0:19:44.66,Gen_Main,,0000,0000,0000,,¡Qué chungo!\N¡Quiero saber cómo funciona!
+Dialogue: 0,0:19:45.86,0:19:47.49,Gen_Main,,0000,0000,0000,,¿Eso será nuestra arma?
+Dialogue: 0,0:19:47.70,0:19:51.83,Gen_Main,,0000,0000,0000,,Claro. Las comunicaciones\Npueden cambiar una batalla.
+Dialogue: 0,0:19:52.46,0:19:57.13,Gen_Main,,0000,0000,0000,,Digamos que tenemos un agente doble\Nfiltrando información en tiempo real.
+Dialogue: 0,0:19:57.47,0:19:59.02,Gen_Main,,0000,0000,0000,,Aquí Gen Asagiri.
+Dialogue: 0,0:19:59.30,0:20:02.93,Gen_Main,,0000,0000,0000,,Senku, los malos están al descubierto\Nen el lado oeste.
+Dialogue: 0,0:20:03.17,0:20:05.57,Gen_Main,,0000,0000,0000,,Casi no hay guardias. Cambio.
+Dialogue: 0,0:20:07.06,0:20:08.60,Gen_Italics,,0000,0000,0000,,Aquí Gen Asagiri.
+Dialogue: 0,0:20:08.72,0:20:12.39,Gen_Italics,,0000,0000,0000,,Senku, los malos están al descubierto\Nen el lado oeste.
+Dialogue: 0,0:20:12.52,0:20:15.15,Gen_Italics,,0000,0000,0000,,Casi no hay guardias. Cambio.
+Dialogue: 0,0:20:15.33,0:20:17.40,Gen_Main,,0000,0000,0000,,¡Qué emocionante!
+Dialogue: 0,0:20:17.52,0:20:20.06,Gen_Main,,0000,0000,0000,,¡Vamos a caerles encima por el oeste!
+Dialogue: 0,0:20:20.58,0:20:22.78,Gen_Main,,0000,0000,0000,,Si nos coordinamos así,
+Dialogue: 0,0:20:22.90,0:20:26.28,Gen_Main,,0000,0000,0000,,acabaremos con el Imperio Tsukasa\Nsin derramar sangre.
+Dialogue: 0,0:20:26.67,0:20:28.87,Gen_Main,,0000,0000,0000,,Pero ¿quién hará de agente doble?
+Dialogue: 0,0:20:34.67,0:20:36.92,Gen_Main,,0000,0000,0000,,Ya están allí.
+Dialogue: 0,0:20:42.13,0:20:45.51,Gen_Main,,0000,0000,0000,,Taiju y Yuzuriha.
+Dialogue: 0,0:20:47.93,0:20:48.89,Gen_Main,,0000,0000,0000,,¡{\i1}Smartphones{\i0}!
+Dialogue: 0,0:20:49.01,0:20:50.31,Gen_Main,,0000,0000,0000,,¡Claro, {\i1}smartphones{\i0}!
+Dialogue: 0,0:20:50.43,0:20:52.89,Gen_Main,,0000,0000,0000,,Molaría tener algunos.
+Dialogue: 0,0:20:53.02,0:20:54.10,Gen_Main,,0000,0000,0000,,¡¿{\i1}Smartphones{\i0}?!
+Dialogue: 0,0:20:54.23,0:20:55.73,Gen_Main,,0000,0000,0000,,Sí que te gustan, ¿eh?
+Dialogue: 0,0:20:57.90,0:21:01.99,Gen_Main,,0000,0000,0000,,El idiota de Taiju quería uno
+Dialogue: 0,0:21:02.11,0:21:04.61,Gen_Main,,0000,0000,0000,,y ahora por fin lo va a tener.
+Dialogue: 0,0:21:12.50,0:21:16.83,Gen_Main,,0000,0000,0000,,Claro que olvidaremos lo de "smart".\NSerá un teléfono normal.
+Dialogue: 0,0:21:18.88,0:21:19.92,Gen_Main,,0000,0000,0000,,¡Podemos hacerlo!
+Dialogue: 0,0:21:21.00,0:21:24.64,Gen_Main,,0000,0000,0000,,¡Creamos la medicina de sulfa\Ny costó mucho trabajo!
+Dialogue: 0,0:21:25.43,0:21:26.68,Gen_Main,,0000,0000,0000,,Pero a ver.
+Dialogue: 0,0:21:26.80,0:21:28.85,Gen_Main,,0000,0000,0000,,Obviamente no lo sabéis,
+Dialogue: 0,0:21:28.97,0:21:32.14,Gen_Main,,0000,0000,0000,,pero ese mapa está lleno\Nde cosas imposibles.
+Dialogue: 0,0:21:34.56,0:21:36.48,Gen_Main,,0000,0000,0000,,No hay nada imposible.
+Dialogue: 0,0:21:37.44,0:21:40.19,Gen_Main,,0000,0000,0000,,No importa lo lejano que parezca,
+Dialogue: 0,0:21:40.32,0:21:44.03,Gen_Main,,0000,0000,0000,,si sigues las reglas,\Nllegarás al 10.000 millones por ciento.
+Dialogue: 0,0:21:45.45,0:21:47.28,Gen_Main,,0000,0000,0000,,Así funciona la ciencia.
+Dialogue: 0,0:21:57.50,0:22:00.68,Gen_Main,,0000,0000,0000,,Los informes de Gen eran falsos.
+Dialogue: 0,0:22:02.17,0:22:05.88,Gen_Main,,0000,0000,0000,,La aldea ya tiene\Nun considerable poder científico.
+Dialogue: 0,0:22:08.09,0:22:11.22,Gen_Main,,0000,0000,0000,,Senku está vivo.
+Dialogue: 0,0:23:58.58,0:24:01.04,Cart_Next,,0000,0000,0000,,{\pos(81,310)}Próximo episodio\N{\fs28}La era de la energía
+Dialogue: 0,0:24:01.04,0:24:06.13,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}
