@@ -1,0 +1,313 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,-1,0,0,100,100,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.03,0:00:17.53,Gen_Main,,0000,0000,0000,,Con engranajes y una rueda hidráulica,\Nse acabó la era de la mano de obra.
+Dialogue: 0,0:00:20.33,0:00:23.48,Gen_Main,,0000,0000,0000,,Con un aparato infinito sin combustible,
+Dialogue: 0,0:00:26.33,0:00:29.95,Gen_Main,,0000,0000,0000,,por fin usaremos\Nel poder de la naturaleza.
+Dialogue: 0,0:00:34.69,0:00:40.15,Gen_Main,,0000,0000,0000,,Dejamos la mano de obra\Ny entramos en la era de la energía.
+Dialogue: 0,0:00:41.77,0:00:44.39,Cart_A_Tre,,0000,0000,0000,,{\pos(140,170)}¡Ha obtenido\Nplanta hidroeléctrica!
+Dialogue: 0,0:00:45.56,0:00:47.45,Gen_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:00:47.65,0:00:49.27,Gen_Main,,0000,0000,0000,,Un generador hidroeléctrico.
+Dialogue: 0,0:00:49.77,0:00:50.97,Gen_Main,,0000,0000,0000,,¿Generador…
+Dialogue: 0,0:00:51.11,0:00:52.30,Gen_Main,,0000,0000,0000,,… hidroeléctrico?
+Dialogue: 0,0:00:52.40,0:00:55.28,Gen_Main,,0000,0000,0000,,Esto es ya ridículo, Senku.
+Dialogue: 0,0:00:56.78,0:01:00.61,Gen_Main,,0000,0000,0000,,Dejad los piropos para Chrome\Ny el viejo Kaseki,
+Dialogue: 0,0:01:00.74,0:01:03.18,Gen_Main,,0000,0000,0000,,que se curraron este trasto enorme.
+Dialogue: 0,0:01:04.37,0:01:06.68,Gen_Main,,0000,0000,0000,,Pero todavía hay más.
+Dialogue: 0,0:01:06.79,0:01:10.21,Gen_Main,,0000,0000,0000,,Esta preciosa electricidad\Nse desperdicia.
+Dialogue: 0,0:01:11.46,0:01:13.17,Gen_Main,,0000,0000,0000,,¿Qué quieres decir con eso?
+Dialogue: 0,0:01:13.59,0:01:15.63,Gen_Main,,0000,0000,0000,,Haremos una caja para guardarla.
+Dialogue: 0,0:01:16.80,0:01:18.68,Gen_Main,,0000,0000,0000,,¿Ese poder giratorio se guarda?
+Dialogue: 0,0:01:19.14,0:01:22.22,Gen_Main,,0000,0000,0000,,Sí, pero es algo complicadillo.
+Dialogue: 0,0:01:24.02,0:01:26.56,Gen_Main,,0000,0000,0000,,Vamos, en pie.
+Dialogue: 0,0:01:27.10,0:01:30.01,Gen_Main,,0000,0000,0000,,Hay mucho curro de artesanía\Ncomplejo por delante
+Dialogue: 0,0:01:30.15,0:01:33.57,Gen_Main,,0000,0000,0000,,antes de llegar a los teléfonos.
+Dialogue: 0,0:01:36.07,0:01:37.42,Gen_Main,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:01:38.11,0:01:41.29,Gen_Main,,0000,0000,0000,,Hora de crear nuestro club\Nde manualidades pesadas.
+Dialogue: 0,0:01:41.41,0:01:44.04,Gen_Main,,0000,0000,0000,,Va a ser la leche.
+Dialogue: 0,0:03:14.29,0:03:19.01,Cart_Title,,0000,0000,0000,,{\frz7.698\pos(320,73)}Club de manualidades pesadas
+Dialogue: 0,0:03:22.80,0:03:26.46,Gen_Main,,0000,0000,0000,,Para hacer la caja eléctrica,\Nes decir, una batería,
+Dialogue: 0,0:03:26.60,0:03:28.89,Gen_Main,,0000,0000,0000,,solo hay que poner dos chapas de plomo
+Dialogue: 0,0:03:29.02,0:03:31.99,Gen_Main,,0000,0000,0000,,en nuestra vieja amiga Fúrico.
+Dialogue: 0,0:03:34.86,0:03:36.11,Gen_Main,,0000,0000,0000,,¿Fúrico?
+Dialogue: 0,0:03:36.23,0:03:37.78,Gen_Main,,0000,0000,0000,,Ah, ácido sulfúrico.
+Dialogue: 0,0:03:37.90,0:03:41.30,Gen_Main,,0000,0000,0000,,Solo envías la electricidad aquí\Ny se guarda solita.
+Dialogue: 0,0:03:42.40,0:03:44.08,Gen_Main,,0000,0000,0000,,Es super fácil, vamos.
+Dialogue: 0,0:03:44.20,0:03:46.97,Gen_Main,,0000,0000,0000,,Anda ya. Es muy difícil.
+Dialogue: 0,0:03:47.08,0:03:49.90,Gen_Main,,0000,0000,0000,,Haremos cinco de estas\Ny las conectaremos.
+Dialogue: 0,0:03:50.87,0:03:55.92,Gen_Main,,0000,0000,0000,,¿No crees que el equipo artesano\Nva necesitando un descansito?
+Dialogue: 0,0:03:59.84,0:04:01.42,Cart_A_Tre,,0000,0000,0000,,{\pos(493,211)}¡Ha obtenido baterías!
+Dialogue: 0,0:04:02.09,0:04:04.78,Gen_Main,,0000,0000,0000,,¿De verdad se guarda en estas botellas?
+Dialogue: 0,0:04:05.13,0:04:06.93,Gen_Main,,0000,0000,0000,,¿La energía giratoria esa?
+Dialogue: 0,0:04:08.89,0:04:10.43,Gen_Main,,0000,0000,0000,,Pues sí, ahí está.
+Dialogue: 0,0:04:10.43,0:04:12.35,Cart_C_Ari,,0000,0000,0000,,{\pos(313,125)}Batería
+Dialogue: 0,0:04:15.94,0:04:20.95,Gen_Main,,0000,0000,0000,,¿Entonces ya no tengo\Nque girar esa cosa con Kinro?
+Dialogue: 0,0:04:21.99,0:04:24.40,Gen_Main,,0000,0000,0000,,No, nunca más.
+Dialogue: 0,0:04:24.53,0:04:28.24,Gen_Main,,0000,0000,0000,,Ya he dicho que es la era de la energía.
+Dialogue: 0,0:04:29.03,0:04:31.12,Gen_Main,,0000,0000,0000,,¡La energía es lo mejor!
+Dialogue: 0,0:04:31.25,0:04:36.00,Gen_Main,,0000,0000,0000,,No me extraña del vago de Ginro,\Npero hasta Kinro se emociona.
+Dialogue: 0,0:04:36.13,0:04:39.47,Gen_Main,,0000,0000,0000,,Girar eso debió ser muy duro.
+Dialogue: 0,0:04:39.59,0:04:41.37,Gen_Main,,0000,0000,0000,,No penséis que lo tendréis fácil.
+Dialogue: 0,0:04:41.51,0:04:43.95,Gen_Main,,0000,0000,0000,,Usaremos vuestra fuerza\Nen otra parte.
+Dialogue: 0,0:04:44.05,0:04:46.97,Gen_Main,,0000,0000,0000,,Los luchadores podrán entrenar.
+Dialogue: 0,0:04:47.76,0:04:49.39,Gen_Main,,0000,0000,0000,,¡Con más fuerza!
+Dialogue: 0,0:04:52.10,0:04:54.02,Gen_Main,,0000,0000,0000,,Faltan unos meses para la batalla.
+Dialogue: 0,0:04:54.14,0:04:57.50,Gen_Main,,0000,0000,0000,,¡Debemos estar en forma\Npara vencer a Tsukasa y Hyoga!
+Dialogue: 0,0:04:58.36,0:05:01.53,Gen_Main,,0000,0000,0000,,No hay tiempo para descansar.
+Dialogue: 0,0:05:01.65,0:05:03.21,Gen_Main,,0000,0000,0000,,Moriremos reventados.
+Dialogue: 0,0:05:03.32,0:05:05.36,Gen_Main,,0000,0000,0000,,El viejo Kaseki se nos va.
+Dialogue: 0,0:05:05.49,0:05:10.05,Gen_Main,,0000,0000,0000,,Hay otro uso tela de importante\Npara la rueda.
+Dialogue: 0,0:05:11.20,0:05:13.21,Gen_Main,,0000,0000,0000,,Es hora de crear engranajes.
+Dialogue: 0,0:05:13.33,0:05:16.12,Gen_Main,,0000,0000,0000,,Harán su magia\Ncon el movimiento de la rueda.
+Dialogue: 0,0:05:18.25,0:05:20.37,Gen_Main,,0000,0000,0000,,Mierda, se ha roto otra vez.
+Dialogue: 0,0:05:20.50,0:05:22.75,Gen_Main,,0000,0000,0000,,Tendré que copiar los diseños otra vez.
+Dialogue: 0,0:05:27.93,0:05:32.63,Gen_Main,,0000,0000,0000,,Los dientes en la mitad giran\Npor turnos arriba y abajo.
+Dialogue: 0,0:05:33.18,0:05:36.57,Gen_Main,,0000,0000,0000,,Eso crea\Nun movimiento giratorio completo.
+Dialogue: 0,0:05:37.23,0:05:40.30,Gen_Main,,0000,0000,0000,,Las ideas de la humanidad\Nson increíbles.
+Dialogue: 0,0:05:40.44,0:05:41.80,Gen_Main,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:05:42.23,0:05:45.24,Gen_Main,,0000,0000,0000,,El artesano que hay en mí se emociona.
+Dialogue: 0,0:05:45.36,0:05:47.13,Gen_Main,,0000,0000,0000,,Qué fastidio.
+Dialogue: 0,0:05:47.24,0:05:51.12,Gen_Main,,0000,0000,0000,,Dejadle el trabajo complicado\Na un profesional.
+Dialogue: 0,0:05:52.41,0:05:55.52,Gen_Main,,0000,0000,0000,,Están cansados,\Npero apenas han visto el diagrama
+Dialogue: 0,0:05:55.62,0:05:57.25,Gen_Main,,0000,0000,0000,,vuelven a hacerse los fuertes.
+Dialogue: 0,0:06:08.01,0:06:09.72,Gen_Main,,0000,0000,0000,,¿Esto es…?
+Dialogue: 0,0:06:10.97,0:06:13.22,Gen_Main,,0000,0000,0000,,¡La máquina sopla aire para hacer fuego!
+Dialogue: 0,0:06:13.76,0:06:15.22,Gen_Main,,0000,0000,0000,,¡Nivel uno!
+Dialogue: 0,0:06:15.48,0:06:16.65,Gen_Main,,0000,0000,0000,,¡Nivel dos!
+Dialogue: 0,0:06:17.35,0:06:19.50,Gen_Main,,0000,0000,0000,,¡Y por fin, nivel tres!
+Dialogue: 0,0:06:25.11,0:06:29.34,Gen_Main,,0000,0000,0000,,Teníamos que trabajar mucho\Na cambio de ramen.
+Dialogue: 0,0:06:29.45,0:06:32.92,Gen_Main,,0000,0000,0000,,¡La fundición infernal\Npor fin es mecánica!
+Dialogue: 0,0:06:33.03,0:06:35.05,Gen_Main,,0000,0000,0000,,¡La energía es lo mejor!
+Dialogue: 0,0:06:35.16,0:06:37.75,Gen_Main,,0000,0000,0000,,Ya he dicho\Nque aquí vais a currar todos.
+Dialogue: 0,0:06:37.87,0:06:41.54,Gen_Main,,0000,0000,0000,,Los que no combaten\Npueden preparar todo para el invierno.
+Dialogue: 0,0:06:46.34,0:06:48.67,Gen_Main,,0000,0000,0000,,Todo lo que veo es nuevo.
+Dialogue: 0,0:06:50.30,0:06:52.22,Gen_Main,,0000,0000,0000,,Esto es embotellar, ¿eh?
+Dialogue: 0,0:06:52.34,0:06:54.26,Gen_Main,,0000,0000,0000,,El ancestro del enlatado.
+Dialogue: 0,0:06:55.78,0:06:59.52,Gen_Main,,0000,0000,0000,,No me creo que podamos guardar\Ncarne para el invierno. Qué felicidad.
+Dialogue: 0,0:07:00.77,0:07:04.02,Gen_Main,,0000,0000,0000,,¿Qué hará ahora\Nel club de manualidades pesadas?
+Dialogue: 0,0:07:04.61,0:07:05.86,Gen_Main,,0000,0000,0000,,Bombillas.
+Dialogue: 0,0:07:07.69,0:07:10.71,Gen_Italics,,0000,0000,0000,,En serio, ridículo del todo.
+Dialogue: 0,0:07:10.82,0:07:13.41,Gen_Italics,,0000,0000,0000,,No sé ni por qué me sorprendo ya.
+Dialogue: 0,0:07:13.91,0:07:16.31,Gen_Main,,0000,0000,0000,,Se calienta a 2.000 grados\Nal encenderse.
+Dialogue: 0,0:07:16.41,0:07:19.51,Gen_Main,,0000,0000,0000,,Las conexiones metálicas se derretirán.
+Dialogue: 0,0:07:19.62,0:07:24.36,Gen_Main,,0000,0000,0000,,Usaremos vidrio como adhesivo.
+Dialogue: 0,0:07:24.46,0:07:28.76,Gen_Main,,0000,0000,0000,,Es tan intrincado\Nque es difícil hasta para mí.
+Dialogue: 0,0:07:30.99,0:07:33.55,Gen_Main,,0000,0000,0000,,¡Mierda! ¡Es muy difícil!
+Dialogue: 0,0:07:34.34,0:07:36.94,Gen_Main,,0000,0000,0000,,¿Qué pasa? ¿Os rendís ya?
+Dialogue: 0,0:07:37.51,0:07:38.73,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:07:38.85,0:07:40.77,Gen_Main,,0000,0000,0000,,Pero mi cuerpo hace rato que lo hizo.
+Dialogue: 0,0:07:41.08,0:07:44.15,Gen_Main,,0000,0000,0000,,Por eso contamos con un artesano.
+Dialogue: 0,0:07:44.65,0:07:45.89,Gen_Main,,0000,0000,0000,,Madre mía.
+Dialogue: 0,0:07:46.02,0:07:49.75,Gen_Main,,0000,0000,0000,,He llevado una vida sencilla\Nestos 60 años.
+Dialogue: 0,0:07:50.53,0:07:53.91,Gen_Main,,0000,0000,0000,,Senku, desde que llegaste,
+Dialogue: 0,0:07:54.50,0:08:01.04,Gen_Main,,0000,0000,0000,,todo ha sido mucho más difícil\Ny también mucho más divertido.
+Dialogue: 0,0:08:01.71,0:08:04.54,Gen_Main,,0000,0000,0000,,Excepto por unos pocos,
+Dialogue: 0,0:08:05.00,0:08:08.05,Gen_Main,,0000,0000,0000,,seguro que todos sienten lo mismo.
+Dialogue: 0,0:09:44.02,0:09:49.95,Gen_Main,,0000,0000,0000,,La última vez que hicimos una luz\Nse quemó muy pronto.
+Dialogue: 0,0:09:51.27,0:09:52.11,Gen_Main,,0000,0000,0000,,¿Qué haremos?
+Dialogue: 0,0:09:52.61,0:09:55.61,Gen_Main,,0000,0000,0000,,¿Qué haces para que algo\Nse queme más rápido?
+Dialogue: 0,0:09:56.19,0:09:59.04,Gen_Main,,0000,0000,0000,,Le das mucho aire\Ncon la máquina de soplar.
+Dialogue: 0,0:09:59.16,0:10:00.74,Gen_Main,,0000,0000,0000,,Lo que hicimos con la rueda.
+Dialogue: 0,0:10:00.87,0:10:03.51,Gen_Main,,0000,0000,0000,,¿Y para hacer que no se queme?
+Dialogue: 0,0:10:06.93,0:10:09.06,Gen_Main,,0000,0000,0000,,¿Le quitas el aire?
+Dialogue: 0,0:10:13.09,0:10:16.51,Gen_Main,,0000,0000,0000,,Usaremos una buena cantidad de mercurio
+Dialogue: 0,0:10:16.84,0:10:21.09,Gen_Main,,0000,0000,0000,,para aspirar el aire al caer\Ny haremos un vacío.
+Dialogue: 0,0:10:18.09,0:10:19.95,Cart_C_Tre,,0000,0000,0000,,{\pos(394,67)}Aire
+Dialogue: 0,0:10:34.57,0:10:40.16,Gen_Main,,0000,0000,0000,,No importa lo caliente que esté,\Nsi no hay aire, no se quemará.
+Dialogue: 0,0:10:40.99,0:10:45.07,Gen_Main,,0000,0000,0000,,Pasará mucho tiempo sin quemarse.
+Dialogue: 0,0:10:54.04,0:10:56.17,Gen_Main,,0000,0000,0000,,Senku, he traído a todos.
+Dialogue: 0,0:10:56.76,0:10:58.98,Gen_Main,,0000,0000,0000,,Sí, espera.
+Dialogue: 0,0:10:59.68,0:11:00.86,Gen_Main,,0000,0000,0000,,Falta poco.
+Dialogue: 0,0:11:03.22,0:11:05.07,Gen_Main,,0000,0000,0000,,Qué chungo, nieva.
+Dialogue: 0,0:11:05.39,0:11:06.69,Gen_Main,,0000,0000,0000,,¿Dejamos la prueba?
+Dialogue: 0,0:11:07.06,0:11:09.35,Gen_Main,,0000,0000,0000,,No, preferiría hacerlo hoy.
+Dialogue: 0,0:11:12.10,0:11:14.11,Gen_Main,,0000,0000,0000,,Todo listo.
+Dialogue: 0,0:11:15.73,0:11:17.70,Gen_Main,,0000,0000,0000,,Bueno, encendámoslo.
+Dialogue: 0,0:11:36.29,0:11:38.76,Gen_Main,,0000,0000,0000,,Son como estrellas.
+Dialogue: 0,0:11:39.59,0:11:41.26,Gen_Main,,0000,0000,0000,,Alumbrado.
+Dialogue: 0,0:11:41.48,0:11:45.26,Gen_Main,,0000,0000,0000,,Parece que he vuelto al mundo moderno.
+Dialogue: 0,0:11:45.46,0:11:47.41,Gen_Main,,0000,0000,0000,,Nos ha costado dos meses.
+Dialogue: 0,0:11:48.18,0:11:49.91,Gen_Main,,0000,0000,0000,,Ha sido mucho tiempo.
+Dialogue: 0,0:11:50.02,0:11:52.41,Gen_Main,,0000,0000,0000,,No, ha sido justo a tiempo.
+Dialogue: 0,0:11:55.31,0:11:59.06,Gen_Main,,0000,0000,0000,,Espera, ¿hoy es Navidad?
+Dialogue: 0,0:12:00.86,0:12:03.85,Gen_Main,,0000,0000,0000,,Sí, ahora que lo dices…
+Dialogue: 0,0:12:05.32,0:12:06.86,Gen_Main,,0000,0000,0000,,Qué coincidencia.
+Dialogue: 0,0:12:07.91,0:12:09.03,Gen_Main,,0000,0000,0000,,Sí, claro.
+Dialogue: 0,0:12:30.60,0:12:32.60,Gen_Main,,0000,0000,0000,,¡Qué chungo! ¡Tengo una idea!
+Dialogue: 0,0:12:32.73,0:12:38.01,Gen_Main,,0000,0000,0000,,Podemos llegar más profundo\Nen las cuevas que usando antorchas.
+Dialogue: 0,0:12:33.14,0:12:37.79,Cart_C_Tre,,0000,0000,0000,,{\pos(372,145)}Sí
+Dialogue: 0,0:12:38.15,0:12:42.40,Gen_Main,,0000,0000,0000,,Sí, con baterías y bombillas, iríamos\N10.000 millones de veces más profundo.
+Dialogue: 0,0:12:42.94,0:12:46.53,Gen_Main,,0000,0000,0000,,¡Seguro que ahí hay\Nmuchas piedras molonas!
+Dialogue: 0,0:12:46.66,0:12:48.99,Gen_Main,,0000,0000,0000,,¡Vamos, excavadores científicos!
+Dialogue: 0,0:12:49.12,0:12:51.58,Gen_Main,,0000,0000,0000,,¡Encontraremos recursos tope chungos!
+Dialogue: 0,0:12:51.70,0:12:55.10,Gen_Main,,0000,0000,0000,,¡Senku, estarás\Nmás adelantado en ciencia,
+Dialogue: 0,0:12:55.21,0:12:58.59,Gen_Main,,0000,0000,0000,,pero a la hora de explorar,\Nsoy miles de millones de veces mejor!
+Dialogue: 0,0:12:58.71,0:13:00.34,Gen_Main,,0000,0000,0000,,Seguro. Llevas años en ello.
+Dialogue: 0,0:13:00.88,0:13:02.09,Gen_Main,,0000,0000,0000,,¿Qué quieres?
+Dialogue: 0,0:13:02.21,0:13:05.17,Gen_Main,,0000,0000,0000,,El capitán Chrome lo conseguirá.
+Dialogue: 0,0:13:05.30,0:13:09.14,Gen_Main,,0000,0000,0000,,Debe haber muchas cosas\Nen ese mapa que nos faltan.
+Dialogue: 0,0:13:09.60,0:13:12.60,Gen_Main,,0000,0000,0000,,¿Algo que falta?
+Dialogue: 0,0:13:12.97,0:13:13.81,Gen_Main,,0000,0000,0000,,Nada.
+Dialogue: 0,0:13:13.93,0:13:15.51,Gen_Main,,0000,0000,0000,,¡¿Cómo que nada?!
+Dialogue: 0,0:13:15.64,0:13:17.52,Gen_Main,,0000,0000,0000,,Tenemos todo lo necesario.
+Dialogue: 0,0:13:18.06,0:13:21.53,Gen_Main,,0000,0000,0000,,Gracias al trabajo\Nde las misiones anteriores.
+Dialogue: 0,0:13:21.88,0:13:24.98,Gen_Main,,0000,0000,0000,,Entonces, ¿qué razón hay para explorar?
+Dialogue: 0,0:13:25.11,0:13:26.47,Gen_Main,,0000,0000,0000,,¿No nos faltaba gente?
+Dialogue: 0,0:13:26.57,0:13:31.54,Gen_Main,,0000,0000,0000,,Seguro que solo quiere\Nprobar su nuevo equipo.
+Dialogue: 0,0:13:34.20,0:13:37.16,Gen_Main,,0000,0000,0000,,Estaría bien tener más cobre.
+Dialogue: 0,0:13:37.29,0:13:41.30,Gen_Main,,0000,0000,0000,,Quién sabe cuánto gastaremos\Nen la próxima artesanía mortal.
+Dialogue: 0,0:13:41.42,0:13:43.00,Gen_Main,,0000,0000,0000,,¡Eso es!
+Dialogue: 0,0:13:43.21,0:13:44.86,Gen_Main,,0000,0000,0000,,¡Dejádmelo a mí!
+Dialogue: 0,0:13:44.97,0:13:46.33,Gen_Main,,0000,0000,0000,,Vuelve pronto.
+Dialogue: 0,0:13:46.47,0:13:48.80,Gen_Main,,0000,0000,0000,,Al menos antes de Año Nuevo.
+Dialogue: 0,0:13:50.51,0:13:53.65,Gen_Main,,0000,0000,0000,,¿Y qué es esa próxima artesanía mortal?
+Dialogue: 0,0:13:53.77,0:13:58.02,Gen_Main,,0000,0000,0000,,Me gustaría terminarla antes de que\Nvuelva para darle una sorpresa.
+Dialogue: 0,0:13:58.44,0:14:00.78,Gen_Main,,0000,0000,0000,,El próximo nivel de la bombilla.
+Dialogue: 0,0:14:01.73,0:14:05.99,Gen_Main,,0000,0000,0000,,La bombilla ya fue mortal.\NQué emocionante.
+Dialogue: 0,0:14:06.57,0:14:08.74,Gen_Main,,0000,0000,0000,,Haremos huevos de ordenador.
+Dialogue: 0,0:14:09.45,0:14:11.31,Gen_Main,,0000,0000,0000,,Los engranajes de los electrones.
+Dialogue: 0,0:14:11.45,0:14:12.99,Gen_Main,,0000,0000,0000,,Tubos de vacío.
+Dialogue: 0,0:14:17.45,0:14:18.96,Gen_Main,,0000,0000,0000,,Tubos de vacío, ¿eh?
+Dialogue: 0,0:14:20.25,0:14:23.50,Gen_Main,,0000,0000,0000,,Llegamos al punto\Nen el que ya no sé qué hacemos.
+Dialogue: 0,0:14:23.63,0:14:24.89,Gen_Main,,0000,0000,0000,,Bueno, lo sé.
+Dialogue: 0,0:14:25.01,0:14:30.51,Gen_Main,,0000,0000,0000,,Conozco el nombre,\Npero no sé qué hacéis exactamente.
+Dialogue: 0,0:14:30.64,0:14:33.38,Gen_Main,,0000,0000,0000,,Movemos electrones usando calor
+Dialogue: 0,0:14:33.51,0:14:37.07,Gen_Main,,0000,0000,0000,,desviando la corriente en la misma\Ndirección y subiendo su poder.
+Dialogue: 0,0:14:37.18,0:14:40.52,Gen_Main,,0000,0000,0000,,Piensa que son los engranajes\Ndel mundo eléctrico.
+Dialogue: 0,0:14:41.15,0:14:43.65,Gen_Main,,0000,0000,0000,,Es el corazón del móvil.
+Dialogue: 0,0:14:44.86,0:14:49.49,Gen_Main,,0000,0000,0000,,Es difícil, pero fue casi igual\Nque hacer una bombilla.
+Dialogue: 0,0:14:49.61,0:14:50.60,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:14:50.74,0:14:54.04,Gen_Main,,0000,0000,0000,,Pero como dice su nombre, está vacío,
+Dialogue: 0,0:14:54.41,0:14:57.25,Gen_Main,,0000,0000,0000,,así que debes sacar el aire.
+Dialogue: 0,0:14:58.58,0:15:02.31,Gen_Main,,0000,0000,0000,,Ponemos fósforo en el filamento,\Ndonde se calienta.
+Dialogue: 0,0:15:02.88,0:15:05.92,Gen_Main,,0000,0000,0000,,Arderá con calor, sacas el aire y…
+Dialogue: 0,0:15:08.72,0:15:10.79,Gen_Main,,0000,0000,0000,,Aún no he hecho nada.
+Dialogue: 0,0:15:10.93,0:15:12.93,Gen_Main,,0000,0000,0000,,Se ha roto en la base.
+Dialogue: 0,0:15:14.89,0:15:17.06,Gen_Main,,0000,0000,0000,,El alambre se expande.
+Dialogue: 0,0:15:18.77,0:15:21.07,Gen_Main,,0000,0000,0000,,La línea de metal en el vidrio
+Dialogue: 0,0:15:21.19,0:15:24.54,Gen_Main,,0000,0000,0000,,se expande un poco\Npor el calor del fósforo.
+Dialogue: 0,0:15:24.65,0:15:27.43,Gen_Main,,0000,0000,0000,,Ese cambio de una micra\Nrompió el cristal.
+Dialogue: 0,0:15:27.57,0:15:30.56,Gen_Main,,0000,0000,0000,,¡¿Tratamos con algo tan complicado?!
+Dialogue: 0,0:15:30.70,0:15:33.24,Gen_Main,,0000,0000,0000,,Entonces, ¿qué vamos a hacer?
+Dialogue: 0,0:15:35.24,0:15:38.98,Gen_Main,,0000,0000,0000,,Nada nos sale bien a la primera, ¿eh?
+Dialogue: 0,0:15:41.04,0:15:43.00,Gen_Main,,0000,0000,0000,,Se trata de prueba y error.
+Dialogue: 0,0:15:43.54,0:15:47.13,Gen_Main,,0000,0000,0000,,¿Cuándo ha sido diferente?
+Dialogue: 0,0:15:47.63,0:15:49.86,Gen_Main,,0000,0000,0000,,He vuelto.
+Dialogue: 0,0:15:51.26,0:15:53.13,Gen_Main,,0000,0000,0000,,¡Traigo cobre! ¡Y pienso cobrármelo!
+Dialogue: 0,0:15:55.05,0:15:57.01,Gen_Main,,0000,0000,0000,,No era una broma.
+Dialogue: 0,0:15:57.85,0:16:00.29,Gen_Main,,0000,0000,0000,,Justo necesitábamos cobre.
+Dialogue: 0,0:16:06.94,0:16:09.28,Gen_Main,,0000,0000,0000,,¿Un tubo de cobre?
+Dialogue: 0,0:16:09.63,0:16:15.45,Gen_Main,,0000,0000,0000,,El tubo se expandirá hacia adentro\Nsin romper el cristal.
+Dialogue: 0,0:16:15.57,0:16:20.12,Gen_Main,,0000,0000,0000,,Por fin. Ha sido\Ncomplicado hacer ese tubo.
+Dialogue: 0,0:16:26.46,0:16:30.41,Gen_Main,,0000,0000,0000,,El filamento de bambú\Nse quemó de inmediato.
+Dialogue: 0,0:16:43.64,0:16:44.97,Gen_Main,,0000,0000,0000,,Joder.
+Dialogue: 0,0:16:45.10,0:16:49.07,Gen_Main,,0000,0000,0000,,Los filamentos de bambú son\Ndemasiado débiles para los bulbos.
+Dialogue: 0,0:16:50.32,0:16:55.16,Gen_Main,,0000,0000,0000,,No entiendo mucho de ciencia,\Npero dices que el bambú es débil, ¿no?
+Dialogue: 0,0:16:55.61,0:16:56.82,Gen_Main,,0000,0000,0000,,¿Qué necesitamos?
+Dialogue: 0,0:16:57.07,0:16:59.72,Gen_Main,,0000,0000,0000,,Si hace falta algo más fuerte,\Nlo traeré.
+Dialogue: 0,0:16:59.83,0:17:00.77,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:17:05.04,0:17:09.34,Gen_Main,,0000,0000,0000,,No hay nada mejor en esta era.
+Dialogue: 0,0:17:16.55,0:17:20.29,Gen_Main,,0000,0000,0000,,Hay muchos minerales en las cuevas.
+Dialogue: 0,0:17:20.43,0:17:24.93,Gen_Main,,0000,0000,0000,,Debe haber algo ahí\Ntan fuerte como para soportar el calor.
+Dialogue: 0,0:17:25.39,0:17:27.81,Gen_Main,,0000,0000,0000,,Esto parece una gema.
+Dialogue: 0,0:17:27.94,0:17:29.97,Gen_Main,,0000,0000,0000,,Es una chinche metálica muerta.
+Dialogue: 0,0:17:30.77,0:17:34.73,Gen_Main,,0000,0000,0000,,¿Y esta piedra? Es muy ligera y negra.
+Dialogue: 0,0:17:34.86,0:17:35.81,Gen_Main,,0000,0000,0000,,Caca de mapache.
+Dialogue: 0,0:17:35.95,0:17:36.65,Gen_Main,,0000,0000,0000,,¡Mierda!
+Dialogue: 0,0:17:41.95,0:17:43.49,Gen_Italics,,0000,0000,0000,,Se acabó.
+Dialogue: 0,0:17:43.83,0:17:45.54,Gen_Italics,,0000,0000,0000,,Tras llegar tan lejos…
+Dialogue: 0,0:17:53.96,0:17:57.10,Gen_Italics,,0000,0000,0000,,No soy una doctora de piedras\Ncomo Senku,
+Dialogue: 0,0:17:57.47,0:18:01.26,Gen_Italics,,0000,0000,0000,,pero he visto muchas piedras\Nal jugar en el bosque y las montañas.
+Dialogue: 0,0:18:02.89,0:18:06.02,Gen_Italics,,0000,0000,0000,,Encontraré una piedra rara que sirva.
+Dialogue: 0,0:18:06.14,0:18:07.85,Gen_Italics,,0000,0000,0000,,Quiero ser de utilidad.
+Dialogue: 0,0:18:24.66,0:18:27.14,Gen_Italics,,0000,0000,0000,,Si no podemos hacer móviles,\Nmala suerte.
+Dialogue: 0,0:18:27.25,0:18:29.57,Gen_Italics,,0000,0000,0000,,No vale la pena deprimirse.
+Dialogue: 0,0:18:30.21,0:18:33.15,Gen_Italics,,0000,0000,0000,,Piensa en otra cosa.
+Dialogue: 0,0:18:33.67,0:18:36.30,Gen_Main,,0000,0000,0000,,¡Senku, tira para arriba!
+Dialogue: 0,0:18:38.01,0:18:39.97,Gen_Main,,0000,0000,0000,,Es Año Nuevo.
+Dialogue: 0,0:18:40.09,0:18:42.55,Gen_Main,,0000,0000,0000,,Deberíamos ver el amanecer juntos.
+Dialogue: 0,0:18:44.64,0:18:47.24,Gen_Main,,0000,0000,0000,,Es importante cambiar de aires.
+Dialogue: 0,0:18:47.35,0:18:49.06,Gen_Main,,0000,0000,0000,,Ese es mi trabajo, ¿no?
+Dialogue: 0,0:18:49.56,0:18:52.50,Gen_Main,,0000,0000,0000,,Los mentalistas sois un coñazo.
+Dialogue: 0,0:18:53.15,0:18:55.11,Gen_Main,,0000,0000,0000,,Yo también voy.
+Dialogue: 0,0:18:57.36,0:19:00.57,Gen_Main,,0000,0000,0000,,¿Estuviste buscando rocas toda la noche?
+Dialogue: 0,0:19:00.82,0:19:03.98,Gen_Main,,0000,0000,0000,,Tú también quieres ayudar, ¿verdad?
+Dialogue: 0,0:19:04.12,0:19:05.33,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:19:05.58,0:19:07.15,Gen_Main,,0000,0000,0000,,Año Nuevo.
+Dialogue: 0,0:19:07.29,0:19:11.01,Gen_Main,,0000,0000,0000,,Aunque nuestro reloj interno\Nestá atrofiado por la petrificación.
+Dialogue: 0,0:19:11.12,0:19:13.66,Gen_Main,,0000,0000,0000,,Ni siquiera sé cuántos años tengo.
+Dialogue: 0,0:19:14.63,0:19:16.81,Gen_Main,,0000,0000,0000,,Piensa en los días que has vivido.
+Dialogue: 0,0:19:18.97,0:19:21.13,Gen_Main,,0000,0000,0000,,¿Por qué recordar eso?
+Dialogue: 0,0:19:22.43,0:19:23.97,Gen_Main,,0000,0000,0000,,¿Qué me dices de ti?
+Dialogue: 0,0:19:24.43,0:19:26.47,Gen_Main,,0000,0000,0000,,Van 6,268 días.
+Dialogue: 0,0:19:31.31,0:19:32.69,Gen_Main,,0000,0000,0000,,Casi hemos llegado.
+Dialogue: 0,0:19:42.78,0:19:44.70,Gen_Main,,0000,0000,0000,,Está saliendo el sol.
+Dialogue: 0,0:20:04.05,0:20:05.30,Gen_Main,,0000,0000,0000,,Es azul.
+Dialogue: 0,0:20:06.60,0:20:07.97,Gen_Italics,,0000,0000,0000,,Es una gema.
+Dialogue: 0,0:20:09.89,0:20:11.14,Gen_Main,,0000,0000,0000,,Qué bonita.
+Dialogue: 0,0:20:13.31,0:20:16.42,Gen_Main,,0000,0000,0000,,¿Por qué brilla?
+Dialogue: 0,0:20:17.44,0:20:19.83,Gen_Main,,0000,0000,0000,,Se llama scheelita.
+Dialogue: 0,0:20:19.94,0:20:22.46,Gen_Main,,0000,0000,0000,,Brilla bajo una luz ultravioleta.
+Dialogue: 0,0:20:24.49,0:20:27.20,Gen_Main,,0000,0000,0000,,La reacción es mucho más visible
+Dialogue: 0,0:20:27.74,0:20:29.80,Gen_Main,,0000,0000,0000,,justo antes del amanecer.
+Dialogue: 0,0:20:29.91,0:20:31.45,Gen_Main,,0000,0000,0000,,Es decir, solo ahora.
+Dialogue: 0,0:20:32.77,0:20:36.96,Gen_Main,,0000,0000,0000,,Una piedra mágica que brilla\Njusto en este momento.
+Dialogue: 0,0:20:37.67,0:20:40.09,Gen_Main,,0000,0000,0000,,Nunca había visto algo así.
+Dialogue: 0,0:20:40.58,0:20:42.30,Gen_Main,,0000,0000,0000,,Yo tampoco.
+Dialogue: 0,0:20:42.80,0:20:45.10,Gen_Main,,0000,0000,0000,,Es una gema ultrarrara.
+Dialogue: 0,0:20:45.64,0:20:49.02,Gen_Main,,0000,0000,0000,,Es un gran trabajo, Chrome y Suika.
+Dialogue: 0,0:20:49.68,0:20:52.89,Gen_Main,,0000,0000,0000,,Esto se usa en los filamentos modernos.
+Dialogue: 0,0:20:54.14,0:20:56.47,Gen_Main,,0000,0000,0000,,Número atómico 74.
+Dialogue: 0,0:20:56.60,0:20:57.65,Gen_Main,,0000,0000,0000,,¡Tungsteno!
+Dialogue: 0,0:21:06.36,0:21:08.26,Gen_Main,,0000,0000,0000,,El calor no le afecta.
+Dialogue: 0,0:21:08.37,0:21:11.29,Gen_Main,,0000,0000,0000,,¡Es el metal más fuerte del universo!
+Dialogue: 0,0:21:14.91,0:21:18.94,Gen_Main,,0000,0000,0000,,No bastará con esta piedra,\Npero vino corriente abajo en la cueva.
+Dialogue: 0,0:21:19.04,0:21:21.23,Gen_Main,,0000,0000,0000,,Debe haber muchas más profundo.
+Dialogue: 0,0:21:21.63,0:21:24.80,Gen_Main,,0000,0000,0000,,Más de ese tesoro llamado tungsteno.
+Dialogue: 0,0:21:25.30,0:21:27.65,Gen_Main,,0000,0000,0000,,Solo tenemos otro juego de luces.
+Dialogue: 0,0:21:27.76,0:21:30.35,Gen_Main,,0000,0000,0000,,El último miembro del equipo explorador…
+Dialogue: 0,0:21:35.44,0:21:38.93,Gen_Main,,0000,0000,0000,,Yo no puedo ir.\NTengo que entrenar a los combatientes.
+Dialogue: 0,0:21:39.06,0:21:40.31,Gen_Main,,0000,0000,0000,,Entonces, ¿quién?
+Dialogue: 0,0:21:40.44,0:21:42.86,Gen_Main,,0000,0000,0000,,Si me llamáis, iré.
+Dialogue: 0,0:21:42.98,0:21:47.09,Gen_Main,,0000,0000,0000,,No quiero. Da miedo.\NQue vaya otro.
+Dialogue: 0,0:21:47.20,0:21:51.14,Gen_Main,,0000,0000,0000,,Si me necesitáis,\Ntrataré de ser de utilidad.
+Dialogue: 0,0:21:51.24,0:21:54.37,Gen_Main,,0000,0000,0000,,No me importaría, pero ¿explorar cuevas?
+Dialogue: 0,0:21:54.50,0:21:56.16,Gen_Main,,0000,0000,0000,,Me dolerá la espalda.
+Dialogue: 0,0:21:56.29,0:21:59.75,Gen_Main,,0000,0000,0000,,No creo que necesitéis\Nun mentalista ahí.
+Dialogue: 0,0:22:01.88,0:22:02.90,Gen_Main,,0000,0000,0000,,Magma.
+Dialogue: 0,0:22:04.09,0:22:08.18,Gen_Main,,0000,0000,0000,,El tungsteno es muy duro.\NNecesitaremos fuerza bruta.
+Dialogue: 0,0:22:09.55,0:22:13.72,Gen_Main,,0000,0000,0000,,Los tres amigos iremos a las cuevas.
+Dialogue: 0,0:22:14.39,0:22:16.98,Gen_Main,,0000,0000,0000,,Al divertido calabozo del tesoro.
+Dialogue: 0,0:22:18.56,0:22:19.74,Gen_Main,,0000,0000,0000,,¿Amigos?
+Dialogue: 0,0:23:58.62,0:24:00.96,Cart_Next,,0000,0000,0000,,{\pos(82,315)}Próximo episodio\N{\fs36}El tesoro
+Dialogue: 0,0:24:00.96,0:24:06.25,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}

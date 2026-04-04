@@ -1,0 +1,314 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,-1,0,0,100,100,0,0,1,2,0,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.49,0:00:12.71,Gen_Main,,0000,0000,0000,,No bastará con esta piedra,\Npero vino corriente abajo en la cueva.
+Dialogue: 0,0:00:12.82,0:00:15.15,Gen_Main,,0000,0000,0000,,Debe haber muchas más profundo.
+Dialogue: 0,0:00:15.28,0:00:18.49,Gen_Main,,0000,0000,0000,,Más de ese tesoro llamado tungsteno.
+Dialogue: 0,0:00:18.99,0:00:21.36,Gen_Main,,0000,0000,0000,,Solo tenemos otro juego de luces.
+Dialogue: 0,0:00:21.50,0:00:24.04,Gen_Main,,0000,0000,0000,,El último miembro del equipo explorador.
+Dialogue: 0,0:00:28.71,0:00:29.69,Gen_Main,,0000,0000,0000,,Magma.
+Dialogue: 0,0:00:31.05,0:00:34.91,Gen_Main,,0000,0000,0000,,El tungsteno es muy duro.\NNecesitaremos fuerza bruta.
+Dialogue: 0,0:00:36.39,0:00:40.51,Gen_Main,,0000,0000,0000,,Los tres amigos iremos a las cuevas.
+Dialogue: 0,0:00:41.18,0:00:43.73,Gen_Main,,0000,0000,0000,,Al divertido calabozo del tesoro.
+Dialogue: 0,0:00:45.98,0:00:48.65,Gen_Main,,0000,0000,0000,,¡¿Senku, Chrome y Magma?!
+Dialogue: 0,0:00:49.19,0:00:52.98,Gen_Main,,0000,0000,0000,,Nunca habría pensado\Nen un grupo tan peligroso.
+Dialogue: 0,0:00:53.11,0:00:54.89,Gen_Main,,0000,0000,0000,,¿Eso va a salir bien?
+Dialogue: 0,0:00:55.03,0:00:59.24,Gen_Main,,0000,0000,0000,,¡Podría atacarte de repente\Ndiciendo "el jefe soy yo"!
+Dialogue: 0,0:00:59.87,0:01:02.25,Gen_Main,,0000,0000,0000,,Vamos, andando.
+Dialogue: 0,0:01:02.37,0:01:03.54,Gen_Main,,0000,0000,0000,,Los tres.
+Dialogue: 0,0:01:04.25,0:01:08.68,Gen_Main,,0000,0000,0000,,Vamos a por la piedra mágica necesaria\Npara los filamentos de los bulbos.
+Dialogue: 0,0:01:09.04,0:01:12.05,Gen_Main,,0000,0000,0000,,La scheelita, que brilla azul\Ncon luz ultravioleta.
+Dialogue: 0,0:01:12.71,0:01:16.80,Gen_Main,,0000,0000,0000,,El metal más resistente al calor\Ndel mundo, el tungsteno.
+Dialogue: 0,0:01:17.26,0:01:19.80,Gen_Main,,0000,0000,0000,,Esto también vino corriente abajo.
+Dialogue: 0,0:01:20.30,0:01:22.81,Gen_Main,,0000,0000,0000,,Allí debe haber un montón de tesoros.
+Dialogue: 0,0:01:22.93,0:01:26.69,Gen_Main,,0000,0000,0000,,Te dejo que nos guíes en la cueva.
+Dialogue: 0,0:01:26.81,0:01:27.70,Gen_Main,,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:01:28.35,0:01:31.21,Gen_Italics,,0000,0000,0000,,Ir a las cuevas con cienticeros.
+Dialogue: 0,0:01:31.77,0:01:34.26,Gen_Italics,,0000,0000,0000,,No nos verá nadie.
+Dialogue: 0,0:01:53.63,0:01:57.12,Gen_Main,,0000,0000,0000,,Por fin se ha ido.
+Dialogue: 0,0:01:57.26,0:02:00.92,Gen_Main,,0000,0000,0000,,Senku ha abandonado Ishigami.
+Dialogue: 0,0:03:34.27,0:03:39.03,Cart_Title,,0000,0000,0000,,{\pos(341,268)\frz3.055}El tesoro
+Dialogue: 0,0:03:44.66,0:03:47.03,Gen_Main,,0000,0000,0000,,El agua está tibia.
+Dialogue: 0,0:03:48.80,0:03:51.16,Gen_Main,,0000,0000,0000,,Podemos esperar más tesoros.
+Dialogue: 0,0:04:01.30,0:04:02.30,Gen_Main,,0000,0000,0000,,Oye, Senku.
+Dialogue: 0,0:04:03.59,0:04:06.54,Gen_Main,,0000,0000,0000,,¿De verdad es buena idea traer a Magma?
+Dialogue: 0,0:04:07.60,0:04:11.29,Gen_Main,,0000,0000,0000,,Es un bruto que solo piensa en ser rey.
+Dialogue: 0,0:04:11.39,0:04:15.90,Gen_Main,,0000,0000,0000,,Seguro que intentará\Npillarte desprevenido cuando pueda.
+Dialogue: 0,0:04:17.73,0:04:19.90,Gen_Main,,0000,0000,0000,,Piénsalo.
+Dialogue: 0,0:04:20.03,0:04:23.61,Gen_Main,,0000,0000,0000,,Queremos el tungsteno\Npara poder hacer móviles.
+Dialogue: 0,0:04:24.24,0:04:26.82,Gen_Main,,0000,0000,0000,,Ese tesoro está\Nen las profundidades de la cueva
+Dialogue: 0,0:04:27.02,0:04:30.41,Gen_Main,,0000,0000,0000,,y, para sacarlo,\Nqueremos la fuerza de Magma.
+Dialogue: 0,0:04:31.00,0:04:34.10,Gen_Main,,0000,0000,0000,,La situación es simple\Nal 10.000 millones por ciento.
+Dialogue: 0,0:04:34.34,0:04:41.30,Gen_Main,,0000,0000,0000,,Tenemos que hacerlo\Nsin preocuparnos por los riesgos.
+Dialogue: 0,0:04:41.65,0:04:43.26,Gen_Main,,0000,0000,0000,,Aun así…
+Dialogue: 0,0:04:43.38,0:04:46.92,Gen_Main,,0000,0000,0000,,Si Magma nos atacara y dijera\Nque fue un accidente,
+Dialogue: 0,0:04:47.05,0:04:48.60,Gen_Main,,0000,0000,0000,,sería el crimen perfecto.
+Dialogue: 0,0:04:48.89,0:04:52.87,Gen_Main,,0000,0000,0000,,Además, si le lleva tu cabeza a Tsukasa\Ny desaparece la ciencia,
+Dialogue: 0,0:04:52.98,0:04:55.00,Gen_Main,,0000,0000,0000,,él no atacará.
+Dialogue: 0,0:04:55.10,0:04:58.85,Gen_Main,,0000,0000,0000,,Ningún musculitos\Npensará tanto las cosas.
+Dialogue: 0,0:05:08.33,0:05:09.16,Gen_Main,,0000,0000,0000,,¡Atrás!
+Dialogue: 0,0:05:11.23,0:05:12.62,Gen_Main,,0000,0000,0000,,¿Qué pasa, Senku?
+Dialogue: 0,0:05:14.37,0:05:15.83,Gen_Main,,0000,0000,0000,,Es mica.
+Dialogue: 0,0:05:15.96,0:05:19.21,Gen_Main,,0000,0000,0000,,Es como el {\i1}baumkuchen{\i0}.\NNo lo entenderíais.
+Dialogue: 0,0:05:19.75,0:05:22.70,Gen_Main,,0000,0000,0000,,Es una roca,\Npero se rompe con las manos.
+Dialogue: 0,0:05:24.80,0:05:26.05,Gen_Main,,0000,0000,0000,,Mirad.
+Dialogue: 0,0:05:26.18,0:05:28.78,Gen_Main,,0000,0000,0000,,Son trampas naturales.
+Dialogue: 0,0:05:28.89,0:05:32.67,Gen_Main,,0000,0000,0000,,La naturaleza es muy tramposa.
+Dialogue: 0,0:05:33.50,0:05:35.93,Gen_Main,,0000,0000,0000,,¿No sería malo caerse?
+Dialogue: 0,0:05:36.24,0:05:39.90,Gen_Main,,0000,0000,0000,,Sí. Si intentáramos subir\Ncon una cuerda o una escalera,
+Dialogue: 0,0:05:40.02,0:05:42.27,Gen_Main,,0000,0000,0000,,se rompería más y te enterraría.
+Dialogue: 0,0:06:00.63,0:06:02.30,Gen_Main,,0000,0000,0000,,¡No, suéltalo, Senku!
+Dialogue: 0,0:06:02.42,0:06:04.25,Gen_Main,,0000,0000,0000,,¡Va a caerse bajo tus pies!
+Dialogue: 0,0:06:05.30,0:06:06.92,Gen_Main,,0000,0000,0000,,¿No lo viste?
+Dialogue: 0,0:06:07.05,0:06:11.41,Gen_Main,,0000,0000,0000,,Magma intentó tirarte en el pozo.
+Dialogue: 0,0:06:18.48,0:06:20.06,Gen_Main,,0000,0000,0000,,¡Sí, así es!
+Dialogue: 0,0:06:20.19,0:06:22.77,Gen_Main,,0000,0000,0000,,¡He venido aquí para mataros!
+Dialogue: 0,0:06:23.52,0:06:26.15,Gen_Main,,0000,0000,0000,,¡Flacuchos presumidos
+Dialogue: 0,0:06:26.36,0:06:29.28,Gen_Main,,0000,0000,0000,,que ni siquiera valéis para cazar!
+Dialogue: 0,0:06:30.20,0:06:31.94,Gen_Main,,0000,0000,0000,,¡El más fuerte será el jefe!
+Dialogue: 0,0:06:32.07,0:06:35.03,Gen_Main,,0000,0000,0000,,Me pincharé a las mujeres.\NLa aldea será fuerte.
+Dialogue: 0,0:06:35.16,0:06:38.33,Gen_Main,,0000,0000,0000,,¡Así es la naturaleza! ¡Así es la vida!
+Dialogue: 0,0:06:38.91,0:06:40.47,Gen_Main,,0000,0000,0000,,¿Qué es eso de ciencia?
+Dialogue: 0,0:06:40.58,0:06:43.67,Gen_Main,,0000,0000,0000,,Senku, tal vez en tu mundo
+Dialogue: 0,0:06:43.92,0:06:46.84,Gen_Main,,0000,0000,0000,,los flacuchos lo controlaban todo.
+Dialogue: 0,0:06:46.96,0:06:49.02,Gen_Main,,0000,0000,0000,,¡Pero este es el mundo de piedra!
+Dialogue: 0,0:06:49.13,0:06:51.18,Gen_Main,,0000,0000,0000,,¡Solo eres un estorbo!
+Dialogue: 0,0:06:52.55,0:06:55.26,Gen_Main,,0000,0000,0000,,Joder… Si no hubieras
+Dialogue: 0,0:06:55.44,0:06:59.49,Gen_Main,,0000,0000,0000,,llegado a la aldea ese día,
+Dialogue: 0,0:07:00.06,0:07:01.86,Gen_Main,,0000,0000,0000,,yo tendría el poder.
+Dialogue: 0,0:07:02.44,0:07:05.44,Gen_Main,,0000,0000,0000,,Yo soy el más fuerte.
+Dialogue: 0,0:07:07.15,0:07:11.02,Gen_Main,,0000,0000,0000,,¡Soy el hombre número uno!
+Dialogue: 0,0:07:15.20,0:07:16.46,Gen_Main,,0000,0000,0000,,¡Senku!
+Dialogue: 0,0:07:16.58,0:07:18.08,Gen_Main,,0000,0000,0000,,¡Magma!
+Dialogue: 0,0:07:38.89,0:07:42.44,Gen_Main,,0000,0000,0000,,¡Quédate quieto!\N¡Me pones de los nervios!
+Dialogue: 0,0:07:42.76,0:07:44.77,Gen_Main,,0000,0000,0000,,Estoy midiendo.
+Dialogue: 0,0:07:44.90,0:07:47.77,Gen_Main,,0000,0000,0000,,¡No vamos a salir de este hoyo!
+Dialogue: 0,0:07:48.13,0:07:51.89,Gen_Main,,0000,0000,0000,,Es 10.000 millones de veces mejor\Nque esperar sentado como un idiota.
+Dialogue: 0,0:07:52.03,0:07:55.95,Gen_Main,,0000,0000,0000,,Si sigues gritando, harás\Nque la roca ceda y nos entierre.
+Dialogue: 0,0:07:56.62,0:07:59.05,Gen_Main,,0000,0000,0000,,Malditos flacuchos.
+Dialogue: 0,0:08:02.83,0:08:06.73,Gen_Main,,0000,0000,0000,,¡¿Me estás tocando los huevos?!\N¡Te mataré, flacucho!
+Dialogue: 0,0:08:06.84,0:08:10.59,Gen_Main,,0000,0000,0000,,He dicho que se romperá si gritas.
+Dialogue: 0,0:08:13.76,0:08:16.64,Gen_Main,,0000,0000,0000,,Si lo llenamos con agua de ese lago,
+Dialogue: 0,0:08:16.91,0:08:19.37,Gen_Main,,0000,0000,0000,,podréis salir flotando.
+Dialogue: 0,0:08:22.60,0:08:25.23,Gen_Main,,0000,0000,0000,,¡Pues no sé cómo con tan poca agua!
+Dialogue: 0,0:08:25.35,0:08:27.47,Gen_Main,,0000,0000,0000,,Lento pero seguro, ¿no?
+Dialogue: 0,0:08:27.61,0:08:29.28,Gen_Main,,0000,0000,0000,,Es mejor que nada.
+Dialogue: 0,0:08:29.40,0:08:32.19,Gen_Main,,0000,0000,0000,,Espera. No está mal.
+Dialogue: 0,0:08:34.66,0:08:37.81,Gen_Main,,0000,0000,0000,,No podemos resignarnos o discutir.
+Dialogue: 0,0:08:37.95,0:08:40.62,Gen_Main,,0000,0000,0000,,La ciencia determina si funciona o no.
+Dialogue: 0,0:08:41.16,0:08:45.00,Gen_Main,,0000,0000,0000,,Conectando los tubos de las máscaras,\Nharemos un metro desde la superficie.
+Dialogue: 0,0:08:45.20,0:08:48.89,Gen_Main,,0000,0000,0000,,Si el diámetro del tubo es de 2 cm,\Npor la ley de Torriccelli,
+Dialogue: 0,0:08:49.00,0:08:51.71,Gen_Main,,0000,0000,0000,,el flujo será de 0,00139 metros cúbicos\Npor segundo.
+Dialogue: 0,0:08:51.84,0:08:58.36,Gen_Main,,0000,0000,0000,,Si el agujero es de 28 metros cúbicos,\N20,131.68 segundos o 5,59 horas.
+Dialogue: 0,0:08:58.47,0:09:01.39,Gen_Main,,0000,0000,0000,,Con la temperatura\Napenas aguantaremos la hipotermia.
+Dialogue: 0,0:09:05.39,0:09:08.54,Gen_Main,,0000,0000,0000,,Chrome, te diré cómo fabricar algo.
+Dialogue: 0,0:09:08.65,0:09:09.77,Gen_Main,,0000,0000,0000,,¿Podrás hacerlo?
+Dialogue: 0,0:09:11.57,0:09:13.55,Gen_Main,,0000,0000,0000,,Claro que sí.
+Dialogue: 0,0:09:13.65,0:09:16.99,Gen_Main,,0000,0000,0000,,No subestimes al cienticero, Chrome.
+Dialogue: 0,0:09:26.67,0:09:28.14,Gen_Main,,0000,0000,0000,,¿Ves? Te lo dije.
+Dialogue: 0,0:09:28.25,0:09:30.75,Gen_Main,,0000,0000,0000,,Estaríamos perdidos si faltara uno.
+Dialogue: 0,0:09:32.05,0:09:35.93,Gen_Main,,0000,0000,0000,,¿Que los flacuchos lo dominaban todo\Nen mi mundo?
+Dialogue: 0,0:09:36.05,0:09:37.77,Gen_Main,,0000,0000,0000,,Ni de coña.
+Dialogue: 0,0:09:37.88,0:09:39.50,Gen_Main,,0000,0000,0000,,Solo dividíamos el trabajo.
+Dialogue: 0,0:09:40.01,0:09:43.27,Gen_Main,,0000,0000,0000,,En la civilización tecnológica\Nse necesitan flacuchos como nosotros
+Dialogue: 0,0:09:43.64,0:09:46.64,Gen_Main,,0000,0000,0000,,y tíos mamados como tú.
+Dialogue: 0,0:09:47.81,0:09:52.78,Gen_Main,,0000,0000,0000,,Incluso alguien sin nada a favor\Npuede ser útil a veces.
+Dialogue: 0,0:09:52.90,0:09:56.15,Gen_Main,,0000,0000,0000,,No importa quién sea el jefe\No quién esté en la cima.
+Dialogue: 0,0:09:56.28,0:09:58.14,Gen_Main,,0000,0000,0000,,Hay toda clase de gente.
+Dialogue: 0,0:09:58.28,0:10:00.16,Gen_Main,,0000,0000,0000,,Y eso da la fuerza.
+Dialogue: 0,0:10:02.28,0:10:04.65,Gen_Main,,0000,0000,0000,,No me importan esas cosas.
+Dialogue: 0,0:10:04.79,0:10:08.92,Gen_Main,,0000,0000,0000,,Tú me quitaste el trono. Eso es todo.
+Dialogue: 0,0:10:09.37,0:10:11.45,Gen_Main,,0000,0000,0000,,Sí, así es.
+Dialogue: 0,0:10:12.21,0:10:13.75,Gen_Main,,0000,0000,0000,,Pero a cambio…
+Dialogue: 0,0:10:19.43,0:10:22.78,Gen_Main,,0000,0000,0000,,Están las cosas que la humanidad\Nhizo en dos millones de años.
+Dialogue: 0,0:10:22.89,0:10:26.73,Gen_Main,,0000,0000,0000,,Nunca habías visto nada así.
+Dialogue: 0,0:10:26.85,0:10:29.98,Gen_Main,,0000,0000,0000,,Te mostraré tantas cosas\Nque te explotará la cabeza.
+Dialogue: 0,0:10:46.95,0:10:49.83,Gen_Main,,0000,0000,0000,,¿Cómo sale el agua\Nde abajo hacia arriba?
+Dialogue: 0,0:10:50.50,0:10:54.36,Gen_Main,,0000,0000,0000,,Hora de una alegre lección de ciencia\Nde primaria: el sifón.
+Dialogue: 0,0:10:54.46,0:10:56.38,Gen_Main,,0000,0000,0000,,Lo explicaré por si acaso.
+Dialogue: 0,0:10:56.51,0:10:59.26,Gen_Main,,0000,0000,0000,,Llena un tubo con agua
+Dialogue: 0,0:10:59.41,0:11:02.91,Gen_Main,,0000,0000,0000,,y ponlo en un punto inferior\Na la superficie del agua.
+Dialogue: 0,0:11:03.01,0:11:05.57,Gen_Main,,0000,0000,0000,,El agua fluirá hacia arriba\Ny no se detendrá.
+Dialogue: 0,0:11:06.01,0:11:09.40,Gen_Main,,0000,0000,0000,,Funciona en una bañera. Probadlo.
+Dialogue: 0,0:11:17.03,0:11:18.33,Gen_Italics,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:11:18.44,0:11:20.99,Gen_Italics,,0000,0000,0000,,Tardará mucho en llenarse con agua.
+Dialogue: 0,0:11:21.11,0:11:22.99,Gen_Italics,,0000,0000,0000,,Senku parece en las últimas.
+Dialogue: 0,0:11:25.45,0:11:28.50,Gen_Main,,0000,0000,0000,,Adelántate y sube, flacucho.
+Dialogue: 0,0:11:29.58,0:11:32.89,Gen_Main,,0000,0000,0000,,Soy el número uno en fuerza en Ishigami.
+Dialogue: 0,0:11:33.00,0:11:34.26,Gen_Main,,0000,0000,0000,,No me subestimes.
+Dialogue: 0,0:11:37.80,0:11:38.92,Gen_Main,,0000,0000,0000,,¡Senku!
+Dialogue: 0,0:11:39.46,0:11:42.18,Gen_Main,,0000,0000,0000,,¡No me importa si eres el jefe!
+Dialogue: 0,0:11:42.30,0:11:45.18,Gen_Main,,0000,0000,0000,,¡Al menos hasta encargarnos\Nde ese tal Tsukasa!
+Dialogue: 0,0:11:45.56,0:11:48.72,Gen_Main,,0000,0000,0000,,¡Pero si me enseñas algo patético,\Nte mataré!
+Dialogue: 0,0:11:59.11,0:12:01.70,Gen_Main,,0000,0000,0000,,Sí, me parece bien.
+Dialogue: 0,0:12:02.53,0:12:06.14,Gen_Main,,0000,0000,0000,,No hay nada patético en la ciencia.
+Dialogue: 0,0:12:16.71,0:12:21.76,Gen_Main,,0000,0000,0000,,La fuerza bruta de Magma\Nnos salvó del peor de los casos.
+Dialogue: 0,0:12:22.17,0:12:23.91,Gen_Main,,0000,0000,0000,,¿El peor de los casos?
+Dialogue: 0,0:12:24.05,0:12:28.16,Gen_Main,,0000,0000,0000,,Habríamos muerto\Nsi nos hubiéramos enfriado más.
+Dialogue: 0,0:12:28.89,0:12:31.08,Gen_Main,,0000,0000,0000,,Por eso no soporto a los flacuchos.
+Dialogue: 0,0:12:31.30,0:12:32.14,Gen_Main,,0000,0000,0000,,No.
+Dialogue: 0,0:12:33.52,0:12:37.06,Gen_Main,,0000,0000,0000,,El peor de los casos\Nsi nos hubiéramos enfriado
+Dialogue: 0,0:12:37.52,0:12:38.90,Gen_Main,,0000,0000,0000,,es que…
+Dialogue: 0,0:12:40.25,0:12:44.22,Gen_Main,,0000,0000,0000,,Magma y yo habríamos tenido\Nque abrazarnos para mantener el calor.
+Dialogue: 0,0:12:46.99,0:12:50.03,Gen_Main,,0000,0000,0000,,Pues sí, eso habría sido mucho peor.
+Dialogue: 0,0:13:23.70,0:13:25.33,Gen_Main,,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:13:26.53,0:13:29.95,Gen_Main,,0000,0000,0000,,Encontré esa roca rayada.
+Dialogue: 0,0:13:30.78,0:13:33.63,Gen_Main,,0000,0000,0000,,El calabozo donde estamos
+Dialogue: 0,0:13:34.54,0:13:36.28,Gen_Main,,0000,0000,0000,,es un depósito de skarn.
+Dialogue: 0,0:13:36.41,0:13:39.55,Gen_Main,,0000,0000,0000,,Conseguiremos\Nuna cantidad tremenda de materiales.
+Dialogue: 0,0:13:39.67,0:13:42.71,Gen_Main,,0000,0000,0000,,Es un cofre del tesoro natural.
+Dialogue: 0,0:13:42.84,0:13:44.41,Gen_Main,,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:13:44.55,0:13:47.11,Gen_Main,,0000,0000,0000,,Blanco, negro, azul, dorado…
+Dialogue: 0,0:13:47.22,0:13:50.22,Gen_Main,,0000,0000,0000,,Está bien separada en franjas.
+Dialogue: 0,0:13:50.61,0:13:53.14,Gen_Main,,0000,0000,0000,,Nunca había visto una piedra así.
+Dialogue: 0,0:13:53.27,0:13:54.81,Gen_Main,,0000,0000,0000,,Pues una piedra, ¿no?
+Dialogue: 0,0:13:55.89,0:14:00.95,Gen_Main,,0000,0000,0000,,El magma subterráneo hierve el agua\Ny entra en las rocas blancas,
+Dialogue: 0,0:14:01.06,0:14:03.69,Gen_Main,,0000,0000,0000,,la caliza que hay por todos lados.
+Dialogue: 0,0:14:04.69,0:14:09.02,Gen_Main,,0000,0000,0000,,Las cosas del agua penetran en la roca,
+Dialogue: 0,0:14:09.16,0:14:11.37,Gen_Main,,0000,0000,0000,,transformándola en otras cosas.
+Dialogue: 0,0:14:11.91,0:14:15.58,Gen_Main,,0000,0000,0000,,Ese es un depósito de skarn,\Nun tesoro natural.
+Dialogue: 0,0:14:15.82,0:14:17.15,Gen_Main,,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:14:17.29,0:14:20.71,Gen_Main,,0000,0000,0000,,Por eso las partes en las grietas\Nse transforman y crean franjas.
+Dialogue: 0,0:14:21.13,0:14:24.59,Gen_Main,,0000,0000,0000,,En otras palabras,\Ntener la fuerza de Magma
+Dialogue: 0,0:14:25.09,0:14:28.34,Gen_Main,,0000,0000,0000,,nos dará gemas superraras.
+Dialogue: 0,0:14:31.68,0:14:33.31,Gen_Main,,0000,0000,0000,,Bueno, aquí estamos.
+Dialogue: 0,0:14:33.43,0:14:36.27,Gen_Main,,0000,0000,0000,,Las gemas que buscamos\Nestán en la pared.
+Dialogue: 0,0:14:36.73,0:14:38.99,Gen_Main,,0000,0000,0000,,Las rocas son muy duras.
+Dialogue: 0,0:14:39.10,0:14:42.77,Gen_Main,,0000,0000,0000,,Los flacuchos somos inútiles\Npara excavar.
+Dialogue: 0,0:14:42.90,0:14:45.65,Gen_Main,,0000,0000,0000,,Contamos contigo, número uno en fuerza.
+Dialogue: 0,0:14:46.82,0:14:51.65,Gen_Main,,0000,0000,0000,,No quería atacaros de frente\Ny que usarais armas científicas.
+Dialogue: 0,0:14:52.45,0:14:54.53,Gen_Main,,0000,0000,0000,,Pero no os alarmáis si cojo un arma
+Dialogue: 0,0:14:54.83,0:14:58.10,Gen_Main,,0000,0000,0000,,mientras busco tesoros, ¿verdad?
+Dialogue: 0,0:14:59.04,0:15:00.04,Gen_Main,,0000,0000,0000,,¿No irás a…?
+Dialogue: 0,0:15:00.37,0:15:01.79,Gen_Main,,0000,0000,0000,,¡Así es!
+Dialogue: 0,0:15:01.92,0:15:07.71,Gen_Main,,0000,0000,0000,,¡Al fin tenéis la espalda desprotegida!
+Dialogue: 0,0:15:10.80,0:15:13.22,Gen_Main,,0000,0000,0000,,Iba a mataros.
+Dialogue: 0,0:15:14.47,0:15:15.81,Gen_Main,,0000,0000,0000,,Me lo imagino.
+Dialogue: 0,0:15:16.39,0:15:21.48,Gen_Main,,0000,0000,0000,,Por eso tenías que salvarnos\Nen el hoyo de mica.
+Dialogue: 0,0:15:22.06,0:15:24.73,Gen_Main,,0000,0000,0000,,Sé que no querías echarme al pozo.
+Dialogue: 0,0:15:25.40,0:15:27.98,Gen_Main,,0000,0000,0000,,Querías salvarme.
+Dialogue: 0,0:15:38.88,0:15:39.92,Gen_Main,,0000,0000,0000,,Magma.
+Dialogue: 0,0:15:42.21,0:15:43.21,Gen_Main,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:15:43.88,0:15:46.73,Gen_Main,,0000,0000,0000,,Te insulté.
+Dialogue: 0,0:15:47.59,0:15:48.87,Gen_Main,,0000,0000,0000,,Pégame.
+Dialogue: 0,0:15:52.76,0:15:54.58,Gen_Main,,0000,0000,0000,,Eso no me importa.
+Dialogue: 0,0:15:54.72,0:15:59.93,Gen_Main,,0000,0000,0000,,No cambia que iba a mataros.
+Dialogue: 0,0:16:02.23,0:16:04.69,Gen_Main,,0000,0000,0000,,La roca más resistente\Nal calor del universo.
+Dialogue: 0,0:16:04.81,0:16:07.09,Gen_Main,,0000,0000,0000,,¡Es nuestra!
+Dialogue: 0,0:16:07.07,0:16:08.19,Cart_A_Tre,,0000,0000,0000,,{\pos(319,232)}¡Ha obtenido tungsteno!
+Dialogue: 0,0:16:12.61,0:16:15.37,Gen_Main,,0000,0000,0000,,El tungsteno es un tesoro muy chungo.
+Dialogue: 0,0:16:16.57,0:16:19.34,Gen_Main,,0000,0000,0000,,Pero en este calabozo del tesoro\Nlos tres encontramos
+Dialogue: 0,0:16:19.45,0:16:25.08,Gen_Main,,0000,0000,0000,,un tesoro aún mayor:\Nel tesoro de la amistad.
+Dialogue: 0,0:16:27.68,0:16:30.09,Gen_Main,,0000,0000,0000,,¿Qué dices? Menuda chorrada.
+Dialogue: 0,0:16:30.21,0:16:31.78,Gen_Main,,0000,0000,0000,,Sí, qué chorrada.
+Dialogue: 0,0:16:31.88,0:16:33.47,Gen_Main,,0000,0000,0000,,¡Cerrad la boca!
+Dialogue: 0,0:16:33.59,0:16:36.61,Gen_Main,,0000,0000,0000,,¡Me he arrepentido de inmediato!
+Dialogue: 0,0:16:36.72,0:16:39.63,Gen_Main,,0000,0000,0000,,¡¿Y ahora sois coleguitas y todo?!
+Dialogue: 0,0:16:41.18,0:16:44.16,Gen_Main,,0000,0000,0000,,¡Qué chungo, hay muchos tesoros!
+Dialogue: 0,0:16:44.27,0:16:48.44,Gen_Main,,0000,0000,0000,,¡Mira, manganeso!\N¡Se usa para baterías de manganeso!
+Dialogue: 0,0:16:48.57,0:16:51.08,Gen_Main,,0000,0000,0000,,¡Pirita de cobre! ¡Esfalerita!
+Dialogue: 0,0:16:51.19,0:16:52.94,Gen_Main,,0000,0000,0000,,¡Son todo piedras!
+Dialogue: 0,0:16:53.07,0:16:54.24,Gen_Main,,0000,0000,0000,,¡¿Acabáis o qué?!
+Dialogue: 0,0:16:54.36,0:16:55.97,Gen_Main,,0000,0000,0000,,¡Que se pondrá el sol!
+Dialogue: 0,0:16:59.37,0:17:02.50,Gen_Main,,0000,0000,0000,,Trae a Senku\Nla noche dentro de tres días.
+Dialogue: 0,0:17:03.46,0:17:05.00,Gen_Main,,0000,0000,0000,,Si lo haces…
+Dialogue: 0,0:17:06.79,0:17:08.57,Gen_Main,,0000,0000,0000,,¡Nos vamos!
+Dialogue: 0,0:17:08.71,0:17:11.14,Gen_Main,,0000,0000,0000,,Un poquito más.
+Dialogue: 0,0:17:11.25,0:17:14.42,Gen_Main,,0000,0000,0000,,Sí, es una montaña de tesoros.
+Dialogue: 0,0:17:15.01,0:17:18.30,Gen_Main,,0000,0000,0000,,¡Los flacuchos no podéis cargar tanto!
+Dialogue: 0,0:17:18.89,0:17:20.11,Gen_Main,,0000,0000,0000,,¡Vamos, rapidito!
+Dialogue: 0,0:17:20.76,0:17:23.70,Gen_Main,,0000,0000,0000,,¿A qué viene tanta prisa?
+Dialogue: 0,0:17:36.45,0:17:39.03,Gen_Main,,0000,0000,0000,,¿Adónde llevas a Senku? ¡Oye!
+Dialogue: 0,0:17:42.89,0:17:44.88,Gen_Main,,0000,0000,0000,,Hola, Senku.
+Dialogue: 0,0:17:45.00,0:17:46.00,Gen_Main,,0000,0000,0000,,Bienvenido.
+Dialogue: 0,0:17:46.50,0:17:48.75,Gen_Main,,0000,0000,0000,,¿Eh? ¿Y esto?
+Dialogue: 0,0:17:49.71,0:17:52.25,Gen_Main,,0000,0000,0000,,No te molestes en buscar ayuda, Senku.
+Dialogue: 0,0:17:52.80,0:17:55.26,Gen_Main,,0000,0000,0000,,Todos estamos con Gen.
+Dialogue: 0,0:17:57.13,0:18:00.51,Gen_Main,,0000,0000,0000,,¿Por fin se os ha ocurrido?
+Dialogue: 0,0:18:01.26,0:18:04.53,Gen_Main,,0000,0000,0000,,Solo tenéis que darle la ciencia\Ny mi cabeza a Tsukasa
+Dialogue: 0,0:18:04.64,0:18:08.66,Gen_Main,,0000,0000,0000,,y la aldea estará a salvo.
+Dialogue: 0,0:18:15.78,0:18:18.82,Gen_Main,,0000,0000,0000,,No sé en qué estás pensando.
+Dialogue: 0,0:18:42.30,0:18:45.13,Gen_Main,,0000,0000,0000,,Un telescopio astronómico.
+Dialogue: 0,0:18:47.02,0:18:49.63,Gen_Main,,0000,0000,0000,,No, un observatorio.
+Dialogue: 0,0:18:51.73,0:18:53.01,Gen_Main,,0000,0000,0000,,Iré al espacio.
+Dialogue: 0,0:19:15.64,0:19:17.63,Gen_Main,,0000,0000,0000,,El 4 de enero. El día de la piedra.
+Dialogue: 0,0:19:17.92,0:19:21.13,Gen_Main,,0000,0000,0000,,Escuché que es tu cumpleaños, Senku.
+Dialogue: 0,0:19:21.44,0:19:24.80,Gen_Main,,0000,0000,0000,,Te hicimos un regalo\Nde cumpleaños entre todos.
+Dialogue: 0,0:19:31.60,0:19:34.94,Gen_Main,,0000,0000,0000,,Por fin se ha ido.
+Dialogue: 0,0:19:36.07,0:19:39.57,Gen_Main,,0000,0000,0000,,¡Chicos, escuchadme!
+Dialogue: 0,0:19:39.69,0:19:42.07,Gen_Main,,0000,0000,0000,,Tengo una buena idea.
+Dialogue: 0,0:19:43.45,0:19:49.11,Gen_Main,,0000,0000,0000,,Bueno, recordaba que se podían\Nponer dos lentes en un tubo.
+Dialogue: 0,0:19:49.25,0:19:51.49,Gen_Main,,0000,0000,0000,,Lo hemos hecho como hemos podido.
+Dialogue: 0,0:19:51.62,0:19:53.00,Gen_Main,,0000,0000,0000,,Perdonad.
+Dialogue: 0,0:19:53.67,0:19:56.25,Gen_Main,,0000,0000,0000,,Todos quieren ayudar.
+Dialogue: 0,0:20:01.88,0:20:07.55,Gen_Main,,0000,0000,0000,,Más vale que Senku me dé algo mejor\Npara mi cumpleaños.
+Dialogue: 0,0:20:07.85,0:20:10.61,Gen_Main,,0000,0000,0000,,Esto es mucho trabajo.
+Dialogue: 0,0:20:10.73,0:20:11.77,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:12.44,0:20:15.85,Gen_Main,,0000,0000,0000,,Toda la aldea trabajó en esto.
+Dialogue: 0,0:20:15.98,0:20:19.28,Gen_Main,,0000,0000,0000,,Pero tú tendrás que afinarlo.
+Dialogue: 0,0:20:19.82,0:20:21.28,Gen_Main,,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:23.03,0:20:27.53,Gen_Main,,0000,0000,0000,,¿Qué? ¿Estás conmovido por primera vez?
+Dialogue: 0,0:20:27.66,0:20:31.42,Gen_Main,,0000,0000,0000,,Puedes llorar.\NVamos, vamos, sabes que quieres.
+Dialogue: 0,0:20:31.54,0:20:34.12,Gen_Main,,0000,0000,0000,,Das asco, Ginro.
+Dialogue: 0,0:20:35.88,0:20:37.66,Gen_Main,,0000,0000,0000,,¡Nada mal!
+Dialogue: 0,0:20:37.79,0:20:39.70,Gen_Main,,0000,0000,0000,,Esto es muy práctico.
+Dialogue: 0,0:20:39.84,0:20:42.89,Gen_Main,,0000,0000,0000,,Podemos vigilar a Tsukasa con esto.
+Dialogue: 0,0:20:43.01,0:20:45.26,Gen_Main,,0000,0000,0000,,Sí, es cierto.
+Dialogue: 0,0:20:45.39,0:20:47.89,Gen_Main,,0000,0000,0000,,Tu opinión es tan racional como siempre.
+Dialogue: 0,0:20:51.02,0:20:55.52,Gen_Main,,0000,0000,0000,,Un hombre no menciona\Nsu cumpleaños así sin más.
+Dialogue: 0,0:20:56.85,0:20:58.98,Gen_Main,,0000,0000,0000,,¿Cómo supiste que era hoy?
+Dialogue: 0,0:20:59.55,0:21:03.33,Gen_Main,,0000,0000,0000,,Aunque nuestro reloj interno\Nestá atrofiado por la petrificación.
+Dialogue: 0,0:21:03.44,0:21:05.97,Gen_Main,,0000,0000,0000,,Ni siquiera sé cuántos años tengo.
+Dialogue: 0,0:21:06.85,0:21:09.34,Gen_Main,,0000,0000,0000,,Piensa en los días que has vivido.
+Dialogue: 0,0:21:09.45,0:21:10.95,Gen_Main,,0000,0000,0000,,¿Qué hay de ti?
+Dialogue: 0,0:21:11.41,0:21:13.75,Gen_Main,,0000,0000,0000,,Van 6.268 días.
+Dialogue: 0,0:21:14.21,0:21:17.21,Gen_Main,,0000,0000,0000,,Así que usaste una pregunta inductiva.
+Dialogue: 0,0:21:17.33,0:21:21.21,Gen_Main,,0000,0000,0000,,Pero no podrías haberlo sabido\Nsin saber cuándo reviví.
+Dialogue: 0,0:21:22.38,0:21:23.63,Gen_Main,,0000,0000,0000,,¿No lo recuerdas?
+Dialogue: 0,0:21:24.09,0:21:27.54,Gen_Main,,0000,0000,0000,,Escribiste el día\Nque terminó tu petrificación.
+Dialogue: 0,0:21:29.64,0:21:35.02,Cart_C_Tre,,0000,0000,0000,,5.738 d.C.\N1 de abril
+Dialogue: 0,0:21:30.01,0:21:32.39,Gen_Main,,0000,0000,0000,,Junto a la cueva milagrosa
+Dialogue: 0,0:21:32.52,0:21:35.02,Gen_Main,,0000,0000,0000,,Tan pronto despertaste.
+Dialogue: 0,0:21:37.15,0:21:40.69,Gen_Italics,,0000,0000,0000,,¿Escribió esto cuando salió de la roca?
+Dialogue: 0,0:21:41.27,0:21:42.90,Gen_Italics,,0000,0000,0000,,¿Cómo supo qué día era?
+Dialogue: 0,0:21:43.71,0:21:45.54,Gen_Italics,,0000,0000,0000,,¿Todo el tiempo estuvo…?
+Dialogue: 0,0:21:47.24,0:21:50.75,Gen_Italics,,0000,0000,0000,,Ese tío es increíble.
+Dialogue: 0,0:21:52.16,0:21:54.98,Gen_Main,,0000,0000,0000,,Ahora que lo pienso,\Ndesde el principio…
+Dialogue: 0,0:21:55.46,0:21:56.91,Gen_Main,,0000,0000,0000,,Desde antes de conocerte,
+Dialogue: 0,0:21:58.08,0:22:04.03,Gen_Main,,0000,0000,0000,,me pareciste interesante,\Nmás allá del beneficio.
+Dialogue: 0,0:22:04.88,0:22:08.01,Gen_Main,,0000,0000,0000,,Seguro que a los aldeanos\Nles pasa igual.
+Dialogue: 0,0:22:08.93,0:22:12.15,Gen_Main,,0000,0000,0000,,Aunque tú dirías que es una chorrada.
+Dialogue: 0,0:22:16.18,0:22:18.61,Gen_Main,,0000,0000,0000,,Sí, es una chorrada.
+Dialogue: 0,0:22:18.73,0:22:20.18,Gen_Main,,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:23:58.66,0:24:00.96,Cart_Next,,0000,0000,0000,,{\pos(87,304)}Próximo episodio\N{\fs28}Ola de ciencia
+Dialogue: 0,0:24:00.96,0:24:06.25,Gen_Nota,,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}

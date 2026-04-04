@@ -1,0 +1,324 @@
+﻿[Script Info]
+Title: Español (España)
+Original Script: crunchyroll_es  [http://www.crunchyroll.com/user/crunchyroll_es]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_Title,Trebuchet MS,26,&H0015141F,&H000000FF,&H00C7DBE3,&H00060503,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_Next,Arial,20,&H00B3B3B3,&H000000FF,&H00262626,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,1,0080,0030,0080,1
+Style: Cart_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00505050,0,0,0,0,100,100,0,0,1,2,0,8,0030,0030,0020,1
+Style: Cart_C_Ari,Arial,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.77,0:00:10.19,Gen_Main,Chrome,0000,0000,0000,,¡Tenemos plástico!
+Dialogue: 0,0:00:10.86,0:00:12.61,Gen_Main,Suika,0000,0000,0000,,¡Tenemos alambre!
+Dialogue: 0,0:00:12.78,0:00:14.99,Gen_Main,Kaseki,0000,0000,0000,,¡Tenemos tubos de vacío!
+Dialogue: 0,0:00:15.57,0:00:17.12,Gen_Main,Kohaku,0000,0000,0000,,¡Tenemos micrófonos!
+Dialogue: 0,0:00:18.08,0:00:24.04,Gen_Main,Senku,0000,0000,0000,,Este mega proyecto científico\Nllegará a su fin.
+Dialogue: 0,0:01:54.32,0:01:59.05,Cart_Title,Text,0000,0000,0000,,{\frz17.49\pos(288,54)}Oído a distancias infinitas
+Dialogue: 0,0:02:11.65,0:02:17.82,Gen_Main,Senku,0000,0000,0000,,Hemos llegado muy lejos creando\Nuna civilización científica desde la nada
+Dialogue: 0,0:02:17.82,0:02:19.82,Cart_C_Tre,Text,0000,0000,0000,,{\pos(468,181)}Ramen
+Dialogue: 0,0:02:18.53,0:02:20.94,Gen_Main,Senku,0000,0000,0000,,en este mundo de piedra.
+Dialogue: 0,0:02:22.07,0:02:24.87,Gen_Main,Senku,0000,0000,0000,,El arma más poderosa\Nde la guerra moderna,
+Dialogue: 0,0:02:25.04,0:02:27.37,Gen_Main,Senku,0000,0000,0000,,trasladando la voz a distancias enormes.
+Dialogue: 0,0:02:33.50,0:02:36.17,Gen_Main,Senku,0000,0000,0000,,Es el nacimiento del móvil.
+Dialogue: 0,0:02:39.55,0:02:41.39,Gen_Main,Chrome,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:02:44.60,0:02:49.64,Gen_Main,Ruri,0000,0000,0000,,Nuestra voz viajará\Npor el cielo hacia muy lejos.
+Dialogue: 0,0:02:49.81,0:02:51.27,Gen_Main,Suika,0000,0000,0000,,Qué misterioso.
+Dialogue: 0,0:02:51.44,0:02:52.61,Gen_Main,Kohaku,0000,0000,0000,,Sí.
+Dialogue: 0,0:02:52.77,0:02:55.58,Gen_Main,Kohaku,0000,0000,0000,,Es genial que podamos\Nenviar lejos nuestra voz,
+Dialogue: 0,0:02:55.73,0:02:57.65,Gen_Main,Kohaku,0000,0000,0000,,pero ¿cómo la escucharemos?
+Dialogue: 0,0:03:01.61,0:03:05.24,Gen_Main,Senku,0000,0000,0000,,Ups, hay que hacer otro.
+Dialogue: 0,0:03:06.79,0:03:09.44,Gen_Main,Gen,0000,0000,0000,,Te lo callaste a propósito, ¿verdad?
+Dialogue: 0,0:03:09.62,0:03:13.81,Gen_Main,Gen,0000,0000,0000,,Sabías que la gente se rendiría\Nsi decías que hacían falta dos.
+Dialogue: 0,0:03:13.75,0:03:16.13,Cart_A_Tre,Text,0000,0000,0000,,¡Necesita obtener más de un móvil!
+Dialogue: 0,0:03:14.80,0:03:15.25,Gen_Main,Senku,0000,0000,0000,,Jeje.
+Dialogue: 0,0:03:22.72,0:03:26.56,Gen_Main,Senku,0000,0000,0000,,Necesitamos otro\Npara que funcione como móvil.
+Dialogue: 0,0:03:27.14,0:03:30.90,Gen_Main,Senku,0000,0000,0000,,Pero con un cable largo,\Nservirá como teléfono.
+Dialogue: 0,0:03:43.32,0:03:47.14,Gen_Main,Chrome,0000,0000,0000,,Ruri podrá escucharme\Nsi hablo por aquí, ¿verdad?
+Dialogue: 0,0:03:55.58,0:03:56.48,Gen_Main,Ginro,0000,0000,0000,,Chrome,
+Dialogue: 0,0:03:56.67,0:04:01.83,Gen_Main,Ginro,0000,0000,0000,,¿ya has elegido las históricas primeras\Npalabras para nuestro teléfono?
+Dialogue: 0,0:04:03.25,0:04:05.60,Gen_Main,Ginro,0000,0000,0000,,Ruri te escucha en el otro lado.
+Dialogue: 0,0:04:05.76,0:04:09.59,Gen_Main,Ginro,0000,0000,0000,,Vamos, es tu oportunidad\Nde decir lo que sientes.
+Dialogue: 0,0:04:09.77,0:04:11.56,Gen_Main,Ginro,0000,0000,0000,,Este es tu momento.
+Dialogue: 0,0:04:17.82,0:04:20.62,Gen_Italics,Chrome,0000,0000,0000,,Lo que siento…
+Dialogue: 0,0:04:24.86,0:04:26.20,Gen_Main,Ginro,0000,0000,0000,,¡Dale al interruptor!
+Dialogue: 0,0:04:26.51,0:04:27.87,Gen_Main,Suika,0000,0000,0000,,¡Encendido!
+Dialogue: 0,0:04:32.66,0:04:33.75,Gen_Main,Chrome,0000,0000,0000,,Ruri…
+Dialogue: 0,0:04:39.84,0:04:44.46,Gen_Main,Chrome,0000,0000,0000,,¿Lo ves, Ruri?\N¡La ciencia es muy chunga!
+Dialogue: 0,0:04:48.39,0:04:50.85,Gen_Main,Chrome,0000,0000,0000,,¿Y a vosotros qué os pasa ahora?
+Dialogue: 0,0:04:51.97,0:04:52.98,Gen_Main,A,0000,0000,0000,,¡Lo he escuchado!
+Dialogue: 0,0:04:53.11,0:04:54.60,Gen_Main,Turquoise,0000,0000,0000,,¿Cómo funciona esto?
+Dialogue: 0,0:04:54.77,0:04:58.48,Gen_Main,Jasper,0000,0000,0000,,Qué sorpresa. No hay duda\Nde que era la voz de Chrome.
+Dialogue: 0,0:04:58.65,0:05:00.49,Gen_Main,Magma,0000,0000,0000,,No lo comprendo.
+Dialogue: 0,0:05:00.65,0:05:03.21,Gen_Main,Magma,0000,0000,0000,,¿Cómo sale voz de algo tan pequeño?
+Dialogue: 0,0:05:03.36,0:05:05.11,Gen_Main,Ruri,0000,0000,0000,,Es como Altavoz.
+Dialogue: 0,0:05:05.61,0:05:08.15,Gen_Main,Senku,0000,0000,0000,,¿Como un altavoz? Es eso mismo.
+Dialogue: 0,0:05:08.32,0:05:12.00,Gen_Main,Senku,0000,0000,0000,,Los micrófonos y altavoces\Nconvierten electricidad en sonido.
+Dialogue: 0,0:05:12.16,0:05:13.58,Gen_Main,Senku,0000,0000,0000,,Son lo mism…
+Dialogue: 0,0:05:14.71,0:05:15.35,Gen_Main,Senku,0000,0000,0000,,Ruri.
+Dialogue: 0,0:05:16.46,0:05:18.22,Gen_Main,Senku,0000,0000,0000,,¿Qué acabas de decir?
+Dialogue: 0,0:05:18.87,0:05:20.21,Gen_Main,Senku,0000,0000,0000,,¿Como Altavoz?
+Dialogue: 0,0:05:20.38,0:05:22.21,Gen_Main,A,0000,0000,0000,,¿Es Altavoz?
+Dialogue: 0,0:05:22.38,0:05:24.02,Gen_Main,D,0000,0000,0000,,Entonces, ¿es una abeja?
+Dialogue: 0,0:05:24.17,0:05:25.88,Gen_Main,C,0000,0000,0000,,¡Es una abeja, una abeja!
+Dialogue: 0,0:05:26.05,0:05:28.64,Gen_Main,Gen,0000,0000,0000,,¿Eh? ¿Los altavoces son abejas?
+Dialogue: 0,0:05:29.18,0:05:33.50,Gen_Main,Ruri,0000,0000,0000,,Es que, bueno, ¿no es un tipo de abeja?
+Dialogue: 0,0:05:33.68,0:05:35.41,Gen_Main,Suika,0000,0000,0000,,¿De qué hablas?
+Dialogue: 0,0:05:36.64,0:05:38.65,Gen_Main,Ruri,0000,0000,0000,,Sale en las Cien Historias.
+Dialogue: 0,0:05:39.27,0:05:40.61,Gen_Main,Gen,0000,0000,0000,,¿Por eso lo sabes?
+Dialogue: 0,0:05:41.11,0:05:42.23,Gen_Main,Ruri,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:42.40,0:05:45.51,Gen_Main,Ruri,0000,0000,0000,,La número 14 de las Cien Historias.
+Dialogue: 0,0:05:46.24,0:05:49.99,Gen_Main,Ruri,0000,0000,0000,,Hay una abeja parlanchina\Nllamada Altavoz.
+Dialogue: 0,0:05:51.03,0:05:53.40,Gen_Main,Ruri,0000,0000,0000,,Cuando pincha su aguijón en las lápidas,
+Dialogue: 0,0:05:53.58,0:05:56.86,Gen_Main,Ruri,0000,0000,0000,,hace sonar las voces de los muertos.
+Dialogue: 0,0:06:01.67,0:06:03.36,Gen_Main,Senku,0000,0000,0000,,Altavoz…
+Dialogue: 0,0:06:03.50,0:06:04.74,Gen_Main,Senku,0000,0000,0000,,Agujas en lápidas.
+Dialogue: 0,0:06:04.92,0:06:06.26,Gen_Main,Senku,0000,0000,0000,,Voces de los muertos.
+Dialogue: 0,0:06:07.09,0:06:10.05,Gen_Main,Senku,0000,0000,0000,,La historia no transfiere\Nningún conocimiento.
+Dialogue: 0,0:06:10.22,0:06:12.54,Gen_Main,Senku,0000,0000,0000,,No entiendo de qué sirve.
+Dialogue: 0,0:06:12.72,0:06:15.07,Gen_Main,Gen,0000,0000,0000,,Es sospechoso.
+Dialogue: 0,0:06:15.22,0:06:20.40,Gen_Main,Gen,0000,0000,0000,,Usa la palabra altavoz como queriendo\Ncomunicar algo a los humanos modernos.
+Dialogue: 0,0:06:21.52,0:06:24.71,Gen_Main,Gen,0000,0000,0000,,Y es la número 14.
+Dialogue: 0,0:06:25.32,0:06:26.35,Gen_Main,Gen,0000,0000,0000,,Uno y cuatro.
+Dialogue: 0,0:06:27.44,0:06:28.15,Gen_Main,Gen,0000,0000,0000,,Piedra.
+Dialogue: 0,0:06:29.78,0:06:31.91,Gen_Main,Gen,0000,0000,0000,,Es tu cumpleaños.
+Dialogue: 0,0:06:33.16,0:06:38.79,Gen_Main,Ruri,0000,0000,0000,,Dicen que estas son las tumbas\Ndel señor Byakuya y los fundadores.
+Dialogue: 0,0:06:39.31,0:06:41.38,Gen_Main,Senku,0000,0000,0000,,La lápida del viejo…
+Dialogue: 0,0:06:41.90,0:06:42.67,Gen_Main,Senku,0000,0000,0000,,¡Las tumbas!
+Dialogue: 0,0:06:53.43,0:06:54.99,Gen_Main,Kinro,0000,0000,0000,,¿Qué haces, Senku?
+Dialogue: 0,0:06:55.14,0:06:56.25,Gen_Main,Kinro,0000,0000,0000,,¡Eso es sacrilegio!
+Dialogue: 0,0:06:56.88,0:06:57.77,Gen_Main,Chrome,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:06:58.08,0:06:59.98,Gen_Main,Chrome,0000,0000,0000,,¿Esa tumba tiene algo?
+Dialogue: 0,0:07:01.65,0:07:04.14,Gen_Main,Senku,0000,0000,0000,,Debí darme cuenta antes.
+Dialogue: 0,0:07:04.31,0:07:06.88,Gen_Main,Senku,0000,0000,0000,,Menudo coñazo de tío.
+Dialogue: 0,0:07:07.03,0:07:09.61,Gen_Main,Senku,0000,0000,0000,,¿Solo dejaron atrás las lápidas?
+Dialogue: 0,0:07:09.78,0:07:13.62,Gen_Main,Senku,0000,0000,0000,,Eso son chorradas\Nal 10.000 millones por ciento.
+Dialogue: 0,0:07:14.66,0:07:16.70,Gen_Main,Senku,0000,0000,0000,,Esto no es una lápida.
+Dialogue: 0,0:07:17.16,0:07:20.87,Gen_Main,Senku,0000,0000,0000,,Es una cápsula del tiempo\Nconservada en cemento.
+Dialogue: 0,0:07:22.46,0:07:24.21,Gen_Main,Kohaku,0000,0000,0000,,¿Una cápsula del tiempo?
+Dialogue: 0,0:07:24.96,0:07:27.22,Gen_Main,Chrome,0000,0000,0000,,¿Hay algo en su interior?
+Dialogue: 0,0:07:27.38,0:07:29.55,Gen_Main,Senku,0000,0000,0000,,Sí. Hay que romperla para sacarlo.
+Dialogue: 0,0:07:29.72,0:07:32.21,Gen_Main,Magma,0000,0000,0000,,¡¿Que hay que romperla?!
+Dialogue: 0,0:07:32.38,0:07:33.43,Gen_Main,Senku,0000,0000,0000,,¡Quieto parao'!
+Dialogue: 0,0:07:34.64,0:07:37.51,Gen_Main,Senku,0000,0000,0000,,Si tengo razón, dentro habrá vidrio.
+Dialogue: 0,0:07:38.14,0:07:43.40,Gen_Main,Senku,0000,0000,0000,,Necesitaremos alguien tan fuerte\Ncomo rápido para romperla.
+Dialogue: 0,0:07:46.65,0:07:48.59,Gen_Main,C,0000,0000,0000,,¡Qué velocidad!
+Dialogue: 0,0:07:51.86,0:07:53.69,Gen_Main,Suika,0000,0000,0000,,Hay algo dentro.
+Dialogue: 0,0:07:53.86,0:07:55.43,Gen_Main,Suika,0000,0000,0000,,Algo plateado.
+Dialogue: 0,0:08:00.79,0:08:04.16,Gen_Main,Senku,0000,0000,0000,,Es plateado porque\Nlo envolvieron en papel de aluminio.
+Dialogue: 0,0:08:04.33,0:08:06.08,Gen_Main,Senku,0000,0000,0000,,Lo lavas con ácido clorhídrico y…
+Dialogue: 0,0:08:10.81,0:08:12.29,Gen_Main,Chrome,0000,0000,0000,,¡Sí que es vidrio!
+Dialogue: 0,0:08:12.49,0:08:13.52,Gen_Main,Suika,0000,0000,0000,,¿Un plato?
+Dialogue: 0,0:08:13.68,0:08:16.97,Gen_Main,Gen,0000,0000,0000,,Parece que lo hicieron con una botella.
+Dialogue: 0,0:08:17.14,0:08:18.43,Gen_Main,Senku,0000,0000,0000,,Un plato.
+Dialogue: 0,0:08:18.60,0:08:19.85,Gen_Main,Senku,0000,0000,0000,,Altavoz.
+Dialogue: 0,0:08:20.02,0:08:21.63,Gen_Main,Senku,0000,0000,0000,,Hablar con agujas.
+Dialogue: 0,0:08:23.48,0:08:25.52,Gen_Main,Senku,0000,0000,0000,,¿No te recuerda a algo?
+Dialogue: 0,0:08:28.94,0:08:30.15,Gen_Main,Gen,0000,0000,0000,,¡Es un disco!
+Dialogue: 0,0:08:30.78,0:08:34.53,Gen_Main,Senku,0000,0000,0000,,Las voces del viejo\Ny la tripulación están ahí.
+Dialogue: 0,0:08:36.16,0:08:38.78,Gen_Main,Senku,0000,0000,0000,,Se molestaron en dejarnos una grabación.
+Dialogue: 0,0:08:38.95,0:08:40.95,Gen_Main,Senku,0000,0000,0000,,Escuchémosla.
+Dialogue: 0,0:08:42.37,0:08:45.95,Gen_Main,Senku,0000,0000,0000,,Te mataré como no sea algo interesante,
+Dialogue: 0,0:08:47.08,0:08:48.51,Gen_Main,Senku,0000,0000,0000,,viejo.
+Dialogue: 0,0:08:49.50,0:08:51.73,Gen_Main,Ruri,0000,0000,0000,,Chrome tiene razón.
+Dialogue: 0,0:08:52.27,0:08:53.86,Gen_Main,Ruri,0000,0000,0000,,La ciencia es increíble.
+Dialogue: 0,0:08:54.97,0:09:01.43,Gen_Main,Ruri,0000,0000,0000,,Permite que el padre de Senku\Nle hable desde el cielo.
+Dialogue: 0,0:09:02.93,0:09:08.65,Gen_Main,Ruri,0000,0000,0000,,Ahora, miles de años después,\Nviajando en el tiempo con la ciencia.
+Dialogue: 0,0:09:17.57,0:09:18.67,Gen_Main,Chrome,0000,0000,0000,,Senku…
+Dialogue: 0,0:09:18.82,0:09:22.62,Gen_Main,Chrome,0000,0000,0000,,¿Ese disco puede atrapar el sonido?
+Dialogue: 0,0:09:22.79,0:09:26.13,Gen_Main,Suika,0000,0000,0000,,Pero ¿cómo puede agarrarlo?
+Dialogue: 0,0:09:26.29,0:09:28.10,Gen_Main,Kohaku,0000,0000,0000,,No lo entiendo.
+Dialogue: 0,0:09:28.25,0:09:29.17,Gen_Main,Kohaku,0000,0000,0000,,¿Cómo?
+Dialogue: 0,0:09:29.44,0:09:32.63,Gen_Main,Senku,0000,0000,0000,,El funcionamiento de un disco\Nes bastante simple.
+Dialogue: 0,0:09:33.34,0:09:35.55,Gen_Main,Gen,0000,0000,0000,,¡Qué chunguito!
+Dialogue: 0,0:09:36.55,0:09:40.25,Gen_Main,Senku,0000,0000,0000,,Sacudes una aguja\Ncon sonido para tallar un disco.
+Dialogue: 0,0:09:40.85,0:09:44.06,Gen_Main,Senku,0000,0000,0000,,Luego pasas la aguja\Npor los surcos para sacudirla
+Dialogue: 0,0:09:44.22,0:09:46.58,Gen_Main,Senku,0000,0000,0000,,y hace el mismo sonido que lo talló.
+Dialogue: 0,0:09:47.19,0:09:49.44,Gen_Italics,Gen,0000,0000,0000,,¡Qué chunguito!
+Dialogue: 0,0:09:49.90,0:09:53.53,Gen_Main,Kaseki,0000,0000,0000,,¿Tallar el vidrio permite\Nguardar sonido?
+Dialogue: 0,0:09:54.40,0:09:55.97,Gen_Main,Kaseki,0000,0000,0000,,Menuda sorpresa.
+Dialogue: 0,0:09:56.11,0:09:57.95,Gen_Main,Chrome,0000,0000,0000,,El padre de Senku es muy chungo.
+Dialogue: 0,0:09:58.11,0:10:00.09,Gen_Main,Senku,0000,0000,0000,,No, no lo creo.
+Dialogue: 0,0:10:00.24,0:10:02.05,Gen_Main,Senku,0000,0000,0000,,Byakuya no pudo hacer esto.
+Dialogue: 0,0:10:02.20,0:10:04.51,Gen_Main,Senku,0000,0000,0000,,Debió ser el resto de la gente.
+Dialogue: 0,0:10:05.94,0:10:09.44,Gen_Main,Senku,0000,0000,0000,,Los astronautas son la élite científica.
+Dialogue: 0,0:10:09.58,0:10:12.59,Gen_Main,Senku,0000,0000,0000,,Todos menos Byakuya,\Nque entró de pura potra.
+Dialogue: 0,0:10:13.46,0:10:16.89,Gen_Main,Senku,0000,0000,0000,,Aunque puede que fuera idea suya.
+Dialogue: 0,0:10:17.44,0:10:20.17,Gen_Main,Senku,0000,0000,0000,,Es el único que pensaría\Nen una tontería así.
+Dialogue: 0,0:10:34.90,0:10:38.74,Gen_Main,Byakuya,0000,0000,0000,,Seguro que podemos hacer\Nun disco con un culo de botella.
+Dialogue: 0,0:10:38.90,0:10:41.13,Gen_Main,Connie,0000,0000,0000,,Es una buena idea.
+Dialogue: 0,0:10:41.28,0:10:43.83,Gen_Main,Connie,0000,0000,0000,,El vidrio aguanta mejor que el plástico.
+Dialogue: 0,0:10:43.99,0:10:46.75,Gen_Main,Connie,0000,0000,0000,,Bien preservado\Npodría aguantar miles de años.
+Dialogue: 0,0:10:47.99,0:10:49.79,Gen_Main,Lilian,0000,0000,0000,,¿Lo has dicho sabiendo eso?
+Dialogue: 0,0:10:49.96,0:10:51.10,Gen_Main,Byakuya,0000,0000,0000,,Para nada.
+Dialogue: 0,0:10:51.25,0:10:53.86,Gen_Main,Byakuya,0000,0000,0000,,He pensado que colaría\Nporque es redondo.
+Dialogue: 0,0:10:54.00,0:10:57.09,Gen_Main,Shamil,0000,0000,0000,,Podrías haber dicho\Nque sí y ya está, anciano.
+Dialogue: 0,0:10:57.26,0:11:01.97,Gen_Main,Byakuya,0000,0000,0000,,En fin, echadme un cable.
+Dialogue: 0,0:11:04.81,0:11:06.54,Gen_Main,Byakuya,0000,0000,0000,,Y se larga el tío.
+Dialogue: 0,0:11:06.68,0:11:07.54,Gen_Main,Byakuya,0000,0000,0000,,Vamos.
+Dialogue: 0,0:11:07.68,0:11:10.47,Gen_Main,Byakuya,0000,0000,0000,,Sé más amable con un viejo.
+Dialogue: 0,0:11:10.64,0:11:13.06,Gen_Main,Byakuya,0000,0000,0000,,¡Shamil!
+Dialogue: 0,0:11:13.23,0:11:16.91,Gen_Main,Shamil,0000,0000,0000,,No tenemos piezas para ello, anciano.
+Dialogue: 0,0:11:17.07,0:11:19.90,Gen_Main,Shamil,0000,0000,0000,,Debe haber algo útil en la Soyuz.
+Dialogue: 0,0:11:28.29,0:11:30.12,Gen_Main,Byakuya,0000,0000,0000,,¡Mirad!
+Dialogue: 0,0:11:30.29,0:11:32.21,Gen_Main,Byakuya,0000,0000,0000,,¡He encontrado algo!
+Dialogue: 0,0:11:34.92,0:11:37.79,Gen_Main,Byakuya,0000,0000,0000,,¡Mi compañera, la maquinilla eléctrica!
+Dialogue: 0,0:11:39.26,0:11:44.14,Gen_Main,Byakuya,0000,0000,0000,,Lo siento, maquiniulla.\NTu motor no se desperdiciará.
+Dialogue: 0,0:11:46.72,0:11:51.60,Gen_Main,Senku,0000,0000,0000,,Podemos crear un tocadiscos\Nfácilmente con lo que ya hicimos.
+Dialogue: 0,0:11:52.00,0:11:54.48,Gen_Main,Senku,0000,0000,0000,,El engranaje del algodón de azúcar.
+Dialogue: 0,0:11:55.11,0:11:56.74,Gen_Main,Suika,0000,0000,0000,,He ido a por él.
+Dialogue: 0,0:11:57.69,0:12:00.53,Gen_Main,Kohaku,0000,0000,0000,,Destruir el escudo\Nde mi padre valió la pena.
+Dialogue: 0,0:12:00.69,0:12:02.07,Gen_Main,Kohaku,0000,0000,0000,,Es muy útil.
+Dialogue: 0,0:12:02.70,0:12:08.41,Gen_Main,Kokuyo,0000,0000,0000,,Soy feliz mientras te sea de utilidad.
+Dialogue: 0,0:12:09.37,0:12:14.05,Gen_Main,Gen,0000,0000,0000,,Así es como la gente se vuelve\Nengranajes de la sociedad al envejecer.
+Dialogue: 0,0:12:14.21,0:12:15.10,Gen_Main,Gen,0000,0000,0000,,Literalmente.
+Dialogue: 0,0:12:15.25,0:12:18.42,Gen_Main,Senku,0000,0000,0000,,Deja el rollo de viejo listillo, anda.
+Dialogue: 0,0:12:20.17,0:12:21.42,Gen_Main,Ruri,0000,0000,0000,,He vuelto.
+Dialogue: 0,0:12:22.13,0:12:24.75,Gen_Main,Ruri,0000,0000,0000,,Uso esto para bordar.
+Dialogue: 0,0:12:25.76,0:12:27.60,Gen_Main,Senku,0000,0000,0000,,Es perfecto.
+Dialogue: 0,0:12:28.68,0:12:30.09,Gen_Main,Senku,0000,0000,0000,,Una aguja de hueso.
+Dialogue: 0,0:12:30.27,0:12:33.35,Gen_Main,Senku,0000,0000,0000,,Reproducir un disco es muy fácil.
+Dialogue: 0,0:12:33.94,0:12:36.63,Gen_Main,Senku,0000,0000,0000,,Pero grabarlo es otro rollo.
+Dialogue: 0,0:12:36.77,0:12:39.39,Gen_Main,Senku,0000,0000,0000,,Tallas vidrio,\Nasí que necesitas algo muy duro.
+Dialogue: 0,0:12:40.44,0:12:42.49,Gen_Main,Chrome,0000,0000,0000,,Como corindio o diamante, ¿no?
+Dialogue: 0,0:12:45.11,0:12:46.20,Gen_Main,Dalia,0000,0000,0000,,Usad esto.
+Dialogue: 0,0:12:48.87,0:12:50.43,Gen_Main,Byakuya,0000,0000,0000,,Pero…
+Dialogue: 0,0:12:51.45,0:12:53.09,Gen_Main,Yakov,0000,0000,0000,,Es diamante.
+Dialogue: 0,0:12:53.25,0:12:55.18,Gen_Main,Lilian,0000,0000,0000,,¿No es tu anillo de bodas?
+Dialogue: 0,0:12:55.33,0:12:56.96,Gen_Main,Lilian,0000,0000,0000,,Eso es muy importante.
+Dialogue: 0,0:12:59.32,0:13:01.17,Gen_Main,Dalia,0000,0000,0000,,No lo uso todo el tiempo.
+Dialogue: 0,0:13:01.34,0:13:02.90,Gen_Main,Dalia,0000,0000,0000,,Puede estorbar.
+Dialogue: 0,0:13:03.05,0:13:06.33,Gen_Main,Dalia,0000,0000,0000,,Seguro que apreciará\Nser una aguja para grabar.
+Dialogue: 0,0:13:07.14,0:13:08.55,Gen_Main,Lilian,0000,0000,0000,,Pero a cambio,
+Dialogue: 0,0:13:08.72,0:13:12.47,Gen_Main,Lilian,0000,0000,0000,,dejadnos participar\Nen la construcción y en la grabación.
+Dialogue: 0,0:13:14.56,0:13:15.73,Gen_Main,Byakuya,0000,0000,0000,,Gracias.
+Dialogue: 0,0:13:27.66,0:13:28.91,Gen_Main,Chrome,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:13:29.07,0:13:31.49,Gen_Main,Chrome,0000,0000,0000,,¡No le ha costado nada!
+Dialogue: 0,0:13:32.12,0:13:35.50,Cart_A_Tre,Text,0000,0000,0000,,{\pos(320,238)}¡Ha obtenido tocadiscos!
+Dialogue: 0,0:13:37.11,0:13:38.01,Gen_Main,A,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:13:38.21,0:13:40.84,Gen_Main,C,0000,0000,0000,,Parece que vamos a escuchar\Na los fundadores.
+Dialogue: 0,0:13:41.63,0:13:43.28,Gen_Main,D,0000,0000,0000,,¿A los fundadores?
+Dialogue: 0,0:13:43.42,0:13:46.59,Gen_Main,D,0000,0000,0000,,¿La voz de gente de hace miles de años?
+Dialogue: 0,0:13:46.76,0:13:48.05,Gen_Main,Senku,0000,0000,0000,,Bien.
+Dialogue: 0,0:13:48.22,0:13:49.47,Gen_Main,Senku,0000,0000,0000,,Gíralo, Ginro.
+Dialogue: 0,0:13:49.64,0:13:50.68,Gen_Main,Ginro,0000,0000,0000,,Sí.
+Dialogue: 0,0:13:50.85,0:13:54.22,Gen_Main,Ginro,0000,0000,0000,,Se me da bien girar\Nla máquina de algodón.
+Dialogue: 0,0:14:06.72,0:14:08.53,Gen_Italics,Byakuya,0000,0000,0000,,No sé quién estará escuchando,
+Dialogue: 0,0:14:09.41,0:14:13.03,Gen_Italics,Byakuya,0000,0000,0000,,cientos o miles de años desde ahora…
+Dialogue: 0,0:14:14.24,0:14:18.08,Gen_Italics,Byakuya,0000,0000,0000,,Soy Byakuya Ishigami, el astronauta,.
+Dialogue: 0,0:14:20.50,0:14:23.21,Gen_Main,Senku,0000,0000,0000,,Callad, no escucho.
+Dialogue: 0,0:14:23.38,0:14:26.40,Gen_Main,Kokuyo,0000,0000,0000,,Es la voz del fundador\Nde la aldea Ishigami…
+Dialogue: 0,0:14:26.55,0:14:28.67,Gen_Main,Kohaku,0000,0000,0000,,La voz del padre…
+Dialogue: 0,0:14:28.84,0:14:29.47,Gen_Main,Kohaku,0000,0000,0000,,de Senku.
+Dialogue: 0,0:14:31.18,0:14:33.22,Gen_Italics,Byakuya,0000,0000,0000,,¡Anda ya!
+Dialogue: 0,0:14:33.72,0:14:36.68,Gen_Italics,Byakuya,0000,0000,0000,,Dejemos las formalidades.
+Dialogue: 0,0:14:38.85,0:14:43.90,Gen_Main,Byakuya,0000,0000,0000,,Has revivido de la petrificación\Ny estás escuchando esta grabación.
+Dialogue: 0,0:14:44.77,0:14:47.37,Gen_Italics,Byakuya,0000,0000,0000,,Senku, eres tú, ¿verdad?
+Dialogue: 0,0:14:47.53,0:14:49.15,Gen_Italics,Byakuya,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:14:50.11,0:14:55.42,Gen_Main,Byakuya,0000,0000,0000,,Cientos, miles o una impensable\Ncantidad de años después.
+Dialogue: 0,0:14:56.08,0:14:58.66,Gen_Main,Byakuya,0000,0000,0000,,Te hago mi última llamada.
+Dialogue: 0,0:14:59.33,0:15:02.71,Gen_Main,Byakuya,0000,0000,0000,,Aunque no pueda escucharte.
+Dialogue: 0,0:15:03.79,0:15:05.97,Gen_Main,Byakuya,0000,0000,0000,,Senku, no lo olvides.
+Dialogue: 0,0:15:06.92,0:15:10.29,Gen_Main,Byakuya,0000,0000,0000,,Yo siempre, siempre…
+Dialogue: 0,0:15:12.43,0:15:17.23,Gen_Italics,Byakuya,0000,0000,0000,,No, no necesitas una charla\Nde padre e hijo con tanto drama.
+Dialogue: 0,0:15:17.39,0:15:18.99,Gen_Italics,Byakuya,0000,0000,0000,,Vamos al grano.
+Dialogue: 0,0:15:20.23,0:15:21.48,Gen_Main,Senku,0000,0000,0000,,Mucho mejor.
+Dialogue: 0,0:15:21.75,0:15:24.06,Gen_Main,Kohaku,0000,0000,0000,,Es muy frío con su padre.
+Dialogue: 0,0:15:24.23,0:15:27.98,Gen_Italics,Kokuyo,0000,0000,0000,,Kohaku, mira quién fue a hablar.
+Dialogue: 0,0:15:30.70,0:15:33.88,Gen_Main,Byakuya,0000,0000,0000,,Senku, si aún tienes problemas
+Dialogue: 0,0:15:34.03,0:15:37.97,Gen_Main,Byakuya,0000,0000,0000,,ganándote los corazones de los aldeanos,
+Dialogue: 0,0:15:38.75,0:15:40.82,Gen_Main,Byakuya,0000,0000,0000,,deja que escuchen esto.
+Dialogue: 0,0:15:46.54,0:15:50.58,Gen_Main,Byakuya,0000,0000,0000,,Para quienes han perdido\Nla luz de la música.
+Dialogue: 0,0:16:22.06,0:16:24.71,Gen_Main,Lilian,0000,0000,0000,,¿Por qué de repente\Nquieres grabar un disco?
+Dialogue: 0,0:16:24.87,0:16:26.96,Gen_Main,Byakuya,0000,0000,0000,,Lo he estado pensando…
+Dialogue: 0,0:16:27.31,0:16:31.35,Gen_Main,Byakuya,0000,0000,0000,,¿Cómo evitar que desaparezcan\Ntodo el conocimiento y cosas divertidas
+Dialogue: 0,0:16:31.39,0:16:33.59,Gen_Main,Byakuya,0000,0000,0000,,que ha ideado la humanidad?
+Dialogue: 0,0:16:34.38,0:16:35.34,Gen_Main,Byakuya,0000,0000,0000,,Además…
+Dialogue: 0,0:16:36.26,0:16:41.14,Gen_Main,Byakuya,0000,0000,0000,,Quería dejar algo\Nque fuera emocionante para Senku.
+Dialogue: 0,0:17:57.70,0:17:58.64,Gen_Main,Ruri,0000,0000,0000,,Una canción…
+Dialogue: 0,0:17:59.14,0:18:01.62,Gen_Main,Suika,0000,0000,0000,,Pero es muy bonita.
+Dialogue: 0,0:18:01.76,0:18:03.39,Gen_Main,Kaseki,0000,0000,0000,,Es la voz de un ángel.
+Dialogue: 0,0:18:05.06,0:18:06.46,Gen_Main,Ginro,0000,0000,0000,,¡Genial!
+Dialogue: 0,0:18:06.60,0:18:08.32,Gen_Main,Ginro,0000,0000,0000,,¡La canción es muy…!
+Dialogue: 0,0:18:08.48,0:18:09.29,Gen_Main,Ginro,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:18:09.44,0:18:10.73,Gen_Main,Ginro,0000,0000,0000,,¡Es increíble!
+Dialogue: 0,0:18:09.44,0:18:10.73,Gen_Italics,Kinro,0000,0000,0000,,Habla…
+Dialogue: 0,0:18:11.04,0:18:16.54,Gen_Main,Gen,0000,0000,0000,,Lilian era de las mejores cantantes\Nde nuestra era.
+Dialogue: 0,0:18:16.69,0:18:19.32,Gen_Main,Gen,0000,0000,0000,,Y es la primera que escucháis.
+Dialogue: 0,0:18:19.86,0:18:20.94,Gen_Main,Chrome,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:18:21.12,0:18:23.02,Gen_Main,Chrome,0000,0000,0000,,Dos millones de años de historia.
+Dialogue: 0,0:18:23.62,0:18:24.91,Gen_Main,Chrome,0000,0000,0000,,Qué chungo.
+Dialogue: 0,0:18:25.08,0:18:29.04,Gen_Main,Chrome,0000,0000,0000,,Senku, ¿había más música\Ncomo esa en el pasado?
+Dialogue: 0,0:18:30.58,0:18:31.64,Gen_Main,Senku,0000,0000,0000,,Sí.
+Dialogue: 0,0:18:31.79,0:18:33.34,Gen_Main,Senku,0000,0000,0000,,No solo música.
+Dialogue: 0,0:18:33.96,0:18:37.80,Gen_Main,Senku,0000,0000,0000,,Juegos, televisión, manga, películas…
+Dialogue: 0,0:18:39.13,0:18:44.31,Gen_Main,Senku,0000,0000,0000,,Todo el entretenimiento\Nque la ciencia hizo posible.
+Dialogue: 0,0:18:44.97,0:18:48.57,Gen_Main,Senku,0000,0000,0000,,Había montones de cosas divertidas\Npor todo el mundo.
+Dialogue: 0,0:18:49.09,0:18:54.95,Gen_Main,Senku,0000,0000,0000,,Todo eso desapareció, pero sigue ahí…
+Dialogue: 0,0:18:57.09,0:18:58.54,Gen_Main,Senku,0000,0000,0000,,en el corazón de la gente.
+Dialogue: 0,0:19:03.37,0:19:06.02,Gen_Main,Senku,0000,0000,0000,,Dejaré que lo veáis todo
+Dialogue: 0,0:19:06.62,0:19:12.04,Gen_Main,Senku,0000,0000,0000,,cuando acabemos con el Imperio de\NTsukasa y revivamos todas las estatuas.
+Dialogue: 0,0:19:15.30,0:19:17.54,Gen_Main,Suika,0000,0000,0000,,¡Quiero verlo todo!
+Dialogue: 0,0:19:17.71,0:19:19.80,Gen_Main,Kohaku,0000,0000,0000,,¡Es muy emocionante!
+Dialogue: 0,0:19:20.12,0:19:22.02,Gen_Main,Kinro,0000,0000,0000,,¡Todas las estatuas del mundo!
+Dialogue: 0,0:19:22.18,0:19:24.30,Gen_Main,Ginro,0000,0000,0000,,¡Vamos a revivirlas!
+Dialogue: 0,0:19:24.47,0:19:29.27,Gen_Main,Magma,0000,0000,0000,,El primer paso es acabar\Ncon ese imperio, ¿verdad?
+Dialogue: 0,0:19:29.85,0:19:31.32,Gen_Main,Chrome,0000,0000,0000,,¡Qué chungo!
+Dialogue: 0,0:19:31.48,0:19:33.40,Gen_Main,Chrome,0000,0000,0000,,¡Todos están emocionados!
+Dialogue: 0,0:19:33.94,0:19:36.38,Gen_Main,Gen,0000,0000,0000,,Tu padre sabe lo que se hace.
+Dialogue: 0,0:19:37.19,0:19:39.15,Gen_Main,Gen,0000,0000,0000,,Ha motivado a toda la aldea
+Dialogue: 0,0:19:39.32,0:19:43.86,Gen_Main,Gen,0000,0000,0000,,para revivir a la gente\Nque está petrificada.
+Dialogue: 0,0:19:44.03,0:19:46.91,Gen_Main,Gen,0000,0000,0000,,Y todo con la canción de Lilian.
+Dialogue: 0,0:19:47.08,0:19:54.42,Gen_Main,Gen,0000,0000,0000,,¿No te quita la culpa que sientes\Npor meter a la gente en una guerra?
+Dialogue: 0,0:19:57.46,0:20:00.82,Gen_Main,Senku,0000,0000,0000,,Nunca he sentido culpa alguna por eso.
+Dialogue: 0,0:20:06.85,0:20:07.47,Gen_Main,Kohaku,0000,0000,0000,,Senku.
+Dialogue: 0,0:20:10.18,0:20:13.69,Gen_Main,Kohaku,0000,0000,0000,,Has hecho realidad\Nlo que dijiste aquel día.
+Dialogue: 0,0:20:17.98,0:20:21.55,Gen_Main,Kohaku,0000,0000,0000,,Cuando nos conocimos.
+Dialogue: 0,0:20:25.66,0:20:29.67,Gen_Main,Kohaku,0000,0000,0000,,Toda la aldea se ha vuelto\Nun reino científico.
+Dialogue: 0,0:20:33.92,0:20:35.50,Gen_Main,Kohaku,0000,0000,0000,,Por fin va a empezar.
+Dialogue: 0,0:20:35.92,0:20:39.13,Gen_Main,Kohaku,0000,0000,0000,,La batalla entre el reino científico\Ny el Imperio de Tsukasa.
+Dialogue: 0,0:20:39.30,0:20:40.21,Gen_Main,Chrome,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:20:40.71,0:20:44.17,Gen_Main,Chrome,0000,0000,0000,,¡Tenemos que hacer\Nel segundo móvil y traerlo!
+Dialogue: 0,0:20:44.34,0:20:49.10,Gen_Main,Gen,0000,0000,0000,,O sea, que por fin es vuestro turno.
+Dialogue: 0,0:20:49.60,0:20:50.58,Gen_Main,Senku,0000,0000,0000,,Sí.
+Dialogue: 0,0:20:50.72,0:20:52.35,Gen_Main,Senku,0000,0000,0000,,Por fin nos conectaremos.
+Dialogue: 0,0:20:53.77,0:20:59.11,Gen_Main,Senku,0000,0000,0000,,Todo el reino científico,\Ncon todo su poder.
+Dialogue: 0,0:21:01.36,0:21:04.61,Gen_Main,Yuzuriha,0000,0000,0000,,Ya hace casi un año, ¿no?
+Dialogue: 0,0:21:05.24,0:21:06.36,Gen_Main,Taiju,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:07.78,0:21:09.13,Gen_Main,Taiju,0000,0000,0000,,¡Te esperamos, Sen…!
+Dialogue: 0,0:21:09.28,0:21:11.93,Gen_Main,Yuzuriha,0000,0000,0000,,¡No grites tanto, Taiju!
+Dialogue: 0,0:21:12.08,0:21:13.10,Gen_Main,Taiju,0000,0000,0000,,¡Cagada!
+Dialogue: 0,0:21:13.25,0:21:14.37,Gen_Main,Taiju,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:21:16.67,0:21:17.57,Gen_Main,Taiju,0000,0000,0000,,Senku…
+Dialogue: 0,0:21:31.97,0:21:34.73,Gen_Main,Hyoga,0000,0000,0000,,Se acerca la primavera.
+Dialogue: 0,0:21:34.89,0:21:35.95,Gen_Main,Tsukasa,0000,0000,0000,,Sí.
+Dialogue: 0,0:21:36.95,0:21:39.36,Gen_Main,Tsukasa,0000,0000,0000,,La última batalla con Senku está cerca.
+Dialogue: 0,0:21:41.27,0:21:42.57,Gen_Main,Tsukasa,0000,0000,0000,,Bien…
+Dialogue: 0,0:21:42.73,0:21:48.34,Gen_Main,Tsukasa,0000,0000,0000,,Acabemos con la llama de la ciencia\Ny creemos un nuevo mundo sin mancha.
+Dialogue: 0,0:21:59.49,0:22:02.50,Gen_Main,Senku,0000,0000,0000,,La última batalla contra Tsukasa,\Nen nuestra tierra…
+Dialogue: 0,0:22:05.13,0:22:08.01,Gen_Main,Senku,0000,0000,0000,,Es el principio de la Guerra de Piedra.
+Dialogue: 0,0:22:16.98,0:22:19.89,Gen_Main,Senku,0000,0000,0000,,Qué emocionante.
+Dialogue: 0,0:22:25.94,0:22:31.12,Cart_A_Ari,Text,0000,0000,0000,,{\fad(1000,1)}Segunda temporada confirmada
+Dialogue: 0,0:24:01.16,0:24:06.17,Cart_Nota,Text,0000,0000,0000,,{\i0}Esta es una obra de ficción, pero las plantas,\Nanimales y métodos de producción descritos\Nse basan en la realidad{\i1}
