@@ -1,0 +1,322 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00F8F9F5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0030,0030,0010,0
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:01.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(650,0)\fs16\blur0.3\c&H571B05&\3c&HB4E2DF&\pos(195,10)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:00:10.82,0:00:16.84,Gen_Main,Anciana,0000,0000,0000,,El río que atraviesa Santanka nace\Nde un manantial en el bosque.
+Dialogue: 0,0:00:16.91,0:00:20.75,Gen_Main,Anciana,0000,0000,0000,,La achicoria es una flor blanca\Nque florece en ese manantial.
+Dialogue: 0,0:00:20.83,0:00:23.63,Gen_Main,Anciana,0000,0000,0000,,La achicoria solo se puede tratar\Ncon sus semillas.
+Dialogue: 0,0:00:32.01,0:00:33.25,Gen_Main,Kenichi,0000,0000,0000,,Este es el manantial.
+Dialogue: 0,0:00:34.14,0:00:35.14,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:00:36.47,0:00:38.14,Gen_Main,Nyanyas,0000,0000,0000,,Oye, viene algo.
+Dialogue: 0,0:00:38.89,0:00:39.89,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:00:45.48,0:00:46.65,Gen_Main,Nyanyas,0000,0000,0000,,El gato montés.
+Dialogue: 0,0:00:46.73,0:00:48.78,Gen_Main,Kenichi,0000,0000,0000,,Vaya, si eres tú, Vel.
+Dialogue: 0,0:00:48.86,0:00:49.86,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:00:51.07,0:00:53.26,Gen_Main,Kenichi,0000,0000,0000,,¿Nos seguiste hasta aquí?
+Dialogue: 0,0:00:55.74,0:00:58.41,Gen_Italics,Kenichi,0000,0000,0000,,Hui a otras tierras\Npara escapar de los nobles.
+Dialogue: 0,0:00:58.50,0:01:01.97,Gen_Italics,Kenichi,0000,0000,0000,,Justo cuando creía que iba a disfrutar\Nde mi vida tranquila,
+Dialogue: 0,0:01:02.04,0:01:04.42,Gen_Italics,Kenichi,0000,0000,0000,,conocí a un hombre llamado Crouton.
+Dialogue: 0,0:01:04.50,0:01:08.55,Gen_Italics,Kenichi,0000,0000,0000,,Mary, su hija,\Nse hizo amiga de Anemone,
+Dialogue: 0,0:01:08.63,0:01:11.37,Gen_Italics,Kenichi,0000,0000,0000,,pero un buen día\NMary contrajo una enfermedad local.
+Dialogue: 0,0:01:11.88,0:01:13.61,Gen_Main,Anemone,0000,0000,0000,,¡Salven a Mary!
+Dialogue: 0,0:01:18.47,0:01:25.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord0\blur4\t(20,400,\blur0.3)\c&H5F1705&\pos(320,260)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:02:44.02,0:02:47.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\an7\fs22\blur0.4\3c&H312E30&\c&HFDFEFD&\pos(333,291)}Episodio 7\h\h¡Avancemos juntos!
+Dialogue: 0,0:02:47.02,0:02:48.02,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:02:48.06,0:02:50.77,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\bord1\3c&H202428&\pos(320,290)}Balsa inflable: 41 800 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:06.12,0:03:07.29,Gen_Main,Kenichi,0000,0000,0000,,La encontré.
+Dialogue: 0,0:03:16.84,0:03:20.09,Gen_Main,Crouton,0000,0000,0000,,Ya podemos salvar a mi hija.\NTe lo agradezco mucho.
+Dialogue: 0,0:03:22.77,0:03:23.77,Gen_Main,Kenichi,0000,0000,0000,,¿Vel?
+Dialogue: 0,0:03:23.85,0:03:25.94,Gen_Main,Nyanyas,0000,0000,0000,,Se acerca algo más.
+Dialogue: 0,0:03:26.89,0:03:29.44,Gen_Main,Nyanyas,0000,0000,0000,,¡Bestias! ¡Y son muchas!
+Dialogue: 0,0:03:36.78,0:03:38.63,Gen_Italics,Kenichi,0000,0000,0000,,¿Lobos negros?
+Dialogue: 0,0:03:38.70,0:03:41.20,Gen_Italics,Kenichi,0000,0000,0000,,Deben buscar venganza por algo.
+Dialogue: 0,0:03:41.28,0:03:42.45,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:03:44.75,0:03:47.29,Gen_Main,Kenichi,0000,0000,0000,,Nyanyas, Crouton, usen esto.
+Dialogue: 0,0:03:47.67,0:03:50.90,Gen_Main,Kenichi,0000,0000,0000,,Los mantendré ocupados.\NCrouton, vuelvan con Mary.
+Dialogue: 0,0:03:51.00,0:03:52.15,Gen_Main,Crouton,0000,0000,0000,,Es muy arriesgado.
+Dialogue: 0,0:03:52.25,0:03:53.82,Gen_Main,Nyanyas,0000,0000,0000,,No puedes pedirnos eso.
+Dialogue: 0,0:03:53.92,0:03:55.29,Gen_Main,Kenichi,0000,0000,0000,,Traer. Traer.
+Dialogue: 0,0:03:55.71,0:03:56.72,Gen_Main,Kenichi,0000,0000,0000,,Vamos, váyanse.
+Dialogue: 0,0:03:56.80,0:04:00.22,Gen_Main,Kenichi,0000,0000,0000,,Si no llegan pronto,\Nperderemos la oportunidad de salvarla.
+Dialogue: 0,0:04:00.72,0:04:02.28,Gen_Main,Kenichi,0000,0000,0000,,¡Oye! ¡Por aquí!
+Dialogue: 0,0:04:03.68,0:04:04.85,Gen_Main,Kenichi,0000,0000,0000,,¡Por aquí!
+Dialogue: 0,0:04:04.93,0:04:06.05,Gen_Main,Nyanyas,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:04:09.85,0:04:10.85,Gen_Main,Kenichi,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:04:18.57,0:04:21.04,Gen_Main,Kenichi,0000,0000,0000,,¿Van tras Crouton?
+Dialogue: 0,0:04:23.20,0:04:24.96,Gen_Main,Hombre,0000,0000,0000,,Prepárate, Crouton.
+Dialogue: 0,0:04:25.04,0:04:27.16,Gen_Main,Hombre,0000,0000,0000,,Te la vamos a devolver.
+Dialogue: 0,0:04:38.36,0:04:39.47,Gen_Main,Hombre,0000,0000,0000,,Mierda.
+Dialogue: 0,0:04:45.72,0:04:47.42,Gen_Main,Hombre perro,0000,0000,0000,,¡Suéltame!
+Dialogue: 0,0:04:50.23,0:04:51.90,Gen_Main,Kenichi,0000,0000,0000,,Ese hombre perro…
+Dialogue: 0,0:04:56.36,0:04:59.12,Gen_Main,Kenichi,0000,0000,0000,,Ya lo entiendo.\NEstaba controlando a los lobos.
+Dialogue: 0,0:04:59.86,0:05:02.03,Gen_Main,Kenichi,0000,0000,0000,,¡Nyanyas, saca a Crouton de aquí!
+Dialogue: 0,0:05:02.11,0:05:03.35,Gen_Main,Nyanyas,0000,0000,0000,,Entendido.
+Dialogue: 0,0:05:05.37,0:05:07.04,Gen_Main,Hombre,0000,0000,0000,,¡No dejaremos que se vayan!
+Dialogue: 0,0:05:14.63,0:05:19.15,Gen_Italics,Kenichi,0000,0000,0000,,Un hombre gato a toda velocidad\Nserá más rápido que esos lobos.
+Dialogue: 0,0:05:19.67,0:05:20.67,Gen_Main,Hombre,0000,0000,0000,,¡Persíganlos!
+Dialogue: 0,0:05:24.01,0:05:25.29,Gen_Main,Hombre,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:06:16.19,0:06:17.82,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:06:24.99,0:06:26.04,Gen_Main,Kenichi,0000,0000,0000,,¡Vel!
+Dialogue: 0,0:06:28.33,0:06:29.97,Gen_Main,Kenichi,0000,0000,0000,,No esperaba menos de ti.
+Dialogue: 0,0:06:30.95,0:06:34.12,Gen_Main,Kenichi,0000,0000,0000,,¿Qué les parece\Nsi les lanzo diez petardos más?
+Dialogue: 0,0:06:34.86,0:06:35.87,Gen_Main,Kenichi,0000,0000,0000,,Mierda.
+Dialogue: 0,0:06:50.39,0:06:54.75,Gen_Main,Kenichi,0000,0000,0000,,Escucha mi llamamiento,\Nmi leal bestia de hierro.
+Dialogue: 0,0:06:54.85,0:06:56.71,Gen_Main,Kenichi,0000,0000,0000,,Traer retroexcavadora.
+Dialogue: 0,0:06:58.23,0:07:02.75,Gen_Main,Kenichi,0000,0000,0000,,Quienes se enfrenten a sus garras\Nde hierro del abismo morirán.
+Dialogue: 0,0:07:02.82,0:07:05.49,Gen_Main,Kenichi,0000,0000,0000,,Ataque final:\N¡Ataque de pala de retroexcavadora!
+Dialogue: 0,0:07:08.57,0:07:09.57,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:07:10.83,0:07:11.84,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:07:12.83,0:07:14.29,Gen_Main,Kenichi,0000,0000,0000,,Vaya…
+Dialogue: 0,0:07:32.93,0:07:34.36,Gen_Main,Kenichi,0000,0000,0000,,¿Cómo está Mary?
+Dialogue: 0,0:07:36.89,0:07:38.70,Gen_Main,Anciana,0000,0000,0000,,Ya pasó lo peor.
+Dialogue: 0,0:07:40.86,0:07:42.62,Gen_Main,Crouton,0000,0000,0000,,Gracias, Kenichi.
+Dialogue: 0,0:07:42.69,0:07:44.94,Gen_Main,Crouton,0000,0000,0000,,Te debo la vida de mi hija.
+Dialogue: 0,0:07:45.03,0:07:48.32,Gen_Main,Cineria,0000,0000,0000,,De verdad, muchísimas gracias.
+Dialogue: 0,0:07:48.41,0:07:53.16,Gen_Italics,Kenichi,0000,0000,0000,,Qué incómodo. Yo no soy de los que van\Npor ahí salvando a los demás.
+Dialogue: 0,0:07:55.20,0:07:56.97,Gen_Main,Kenichi,0000,0000,0000,,¿Podemos hablar, Crouton?
+Dialogue: 0,0:07:59.12,0:08:01.84,Gen_Main,Crouton,0000,0000,0000,,¿Una promesa? ¿Con ese hombre perro?
+Dialogue: 0,0:08:03.34,0:08:06.80,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\bord1\3c&H202428&\pos(320,254)}Vendaje autoadhesivo (10 uds.): 1890 yenes {\fs12}(IVA incluido)\N{\fs20}Pomada para perros y gatos (50 g): 3702 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:08:03.42,0:08:05.26,Gen_Main_Up,Hombre perro,0000,0000,0000,,¿Por qué me salvaste?
+Dialogue: 0,0:08:05.34,0:08:06.80,Gen_Main_Up,Kenichi,0000,0000,0000,,Te diré mis condiciones.
+Dialogue: 0,0:08:06.88,0:08:11.46,Gen_Main,Kenichi,0000,0000,0000,,Prométeme que nunca volverás\Na lastimar a Crouton o a su familia.
+Dialogue: 0,0:08:12.30,0:08:14.55,Gen_Main,Hombre perro,0000,0000,0000,,De acuerdo, te lo prometo.
+Dialogue: 0,0:08:14.64,0:08:20.35,Gen_Main,Hombre perro,0000,0000,0000,,Pero no respondo por los demás.\NHay muchos que odian a Crouton.
+Dialogue: 0,0:08:20.44,0:08:24.62,Gen_Main,Hombre perro,0000,0000,0000,,Aunque la historia cambiaría\Nsi Crouton se marchara.
+Dialogue: 0,0:08:26.49,0:08:31.37,Gen_Main,Kenichi,0000,0000,0000,,¿Qué opinan? Si se mudan,\Nse acabaría el peligro para su familia.
+Dialogue: 0,0:08:31.57,0:08:34.28,Gen_Main,Crouton,0000,0000,0000,,Pero no tengo adonde ir.\NTampoco puedo ir a Dahlia.
+Dialogue: 0,0:08:34.36,0:08:35.36,Gen_Main,Kenichi,0000,0000,0000,,¿Por qué no?
+Dialogue: 0,0:08:35.45,0:08:38.47,Gen_Main,Crouton,0000,0000,0000,,Zutera está conectado\Ncon Bacopa, en Dahlia.
+Dialogue: 0,0:08:38.54,0:08:42.13,Gen_Main,Kenichi,0000,0000,0000,,Entiendo…\NEl sindicato de las especias.
+Dialogue: 0,0:08:42.21,0:08:44.19,Gen_Main,Kenichi,0000,0000,0000,,Un momento. Tengo algo para ti.
+Dialogue: 0,0:08:45.09,0:08:50.18,Gen_Main,Kenichi,0000,0000,0000,,Norspaul creó un territorio\Ncerca de Dahlia y busca habitantes.
+Dialogue: 0,0:08:50.26,0:08:54.15,Gen_Main,Kenichi,0000,0000,0000,,Conozco al barón.\NTe daré una carta de presentación.
+Dialogue: 0,0:08:54.22,0:08:58.14,Gen_Main,Kenichi,0000,0000,0000,,Le diré que trabajas duro\Ny que trabajabas para el gobierno.
+Dialogue: 0,0:08:58.52,0:09:02.88,Gen_Main,Crouton,0000,0000,0000,,Sería maravilloso, pero deja\Nque antes lo consulte con mi familia.
+Dialogue: 0,0:09:03.52,0:09:08.45,Gen_Italics,Kenichi,0000,0000,0000,,Supongo que hace falta decisión\Npara irte de lo que consideras tu hogar…
+Dialogue: 0,0:09:11.24,0:09:13.41,Gen_Main,Myaley,0000,0000,0000,,¡Miau!
+Dialogue: 0,0:09:13.49,0:09:17.54,Gen_Main,Myaley,0000,0000,0000,,¿Por qué no me invitaste\Na unirme a la diversión, miau?
+Dialogue: 0,0:09:17.62,0:09:19.86,Gen_Main,Kenichi,0000,0000,0000,,No tuve tiempo.
+Dialogue: 0,0:09:19.96,0:09:22.42,Gen_Main,Kenichi,0000,0000,0000,,Además, no podía dejar sola a Anemone.
+Dialogue: 0,0:09:22.50,0:09:24.34,Gen_Main,Myaley,0000,0000,0000,,Pero…
+Dialogue: 0,0:09:24.42,0:09:26.04,Gen_Main,Myaley,0000,0000,0000,,Tienes razón, miau.
+Dialogue: 0,0:09:26.13,0:09:30.67,Gen_Main,Anemone,0000,0000,0000,,Gracias por salvar a Mary, Kenichi.
+Dialogue: 0,0:09:30.76,0:09:34.85,Gen_Main,Kenichi,0000,0000,0000,,Debía hacerlo. A fin de cuentas,\Nson buenas amigas.
+Dialogue: 0,0:09:35.35,0:09:36.35,Gen_Main,Anemone,0000,0000,0000,,Sí.
+Dialogue: 0,0:09:37.56,0:09:39.26,Gen_Italics,Kenichi,0000,0000,0000,,Unos días más tarde…
+Dialogue: 0,0:09:39.98,0:09:41.66,Gen_Main,Kenichi,0000,0000,0000,,Saluda al barón de mi parte.
+Dialogue: 0,0:09:43.44,0:09:48.04,Gen_Italics,Kenichi,0000,0000,0000,,Crouton y Nyanyas se fueron\Nal territorio del barón Norspaul.
+Dialogue: 0,0:09:48.78,0:09:52.46,Gen_Main,Kenichi,0000,0000,0000,,¿Ya hiciste el libro ilustrado\Nde Cenicienta?
+Dialogue: 0,0:09:52.53,0:09:54.45,Gen_Main,Anemone,0000,0000,0000,,No, todavía no.
+Dialogue: 0,0:09:54.53,0:09:57.45,Gen_Main,Anemone,0000,0000,0000,,Lo haremos juntas cuando te mejores.
+Dialogue: 0,0:09:58.29,0:10:00.79,Gen_Main,Mary,0000,0000,0000,,Gracias, Anemone.
+Dialogue: 0,0:10:01.41,0:10:04.33,Gen_Main,Cineria,0000,0000,0000,,Vas a tener que curarte rápido, ¿no?
+Dialogue: 0,0:10:04.42,0:10:05.43,Gen_Main,Mary,0000,0000,0000,,Sí.
+Dialogue: 0,0:10:06.08,0:10:08.59,Gen_Italics,Kenichi,0000,0000,0000,,Como Mary aún\Nno se había recuperado del todo,
+Dialogue: 0,0:10:08.67,0:10:13.50,Gen_Italics,Kenichi,0000,0000,0000,,el plan era que ellos se fueran primero\Ny luego se iría su familia.
+Dialogue: 0,0:10:17.18,0:10:18.82,Gen_Main,Myaley,0000,0000,0000,,Este olor…
+Dialogue: 0,0:10:20.68,0:10:22.10,Gen_Main,Kenichi,0000,0000,0000,,Eres el…
+Dialogue: 0,0:10:22.18,0:10:24.85,Gen_Main,Hombre perro,0000,0000,0000,,¿Crouton se marchó?
+Dialogue: 0,0:10:24.94,0:10:27.70,Gen_Main,Kenichi,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:10:27.77,0:10:32.15,Gen_Main,Hombre perro,0000,0000,0000,,Ya te dije que hay mucha gente\Nque odia a Crouton.
+Dialogue: 0,0:10:32.74,0:10:33.86,Gen_Main,Hombre perro,0000,0000,0000,,Pero…
+Dialogue: 0,0:10:33.95,0:10:35.86,Gen_Main,Hombre perro,0000,0000,0000,,Ya no tendrás que preocuparte.
+Dialogue: 0,0:10:35.95,0:10:38.10,Gen_Main,Myaley,0000,0000,0000,,¿De qué habla, miau?
+Dialogue: 0,0:10:38.20,0:10:40.96,Gen_Main,Kenichi,0000,0000,0000,,Al parecer, mantuvo nuestra promesa.
+Dialogue: 0,0:10:41.04,0:10:44.62,Gen_Main,Myaley,0000,0000,0000,,No te creas nada de lo que dice, miau.
+Dialogue: 0,0:10:44.71,0:10:48.31,Gen_Main,Hombre perro,0000,0000,0000,,Tú no sabes nada de la lealtad\Nde los hombres perro.
+Dialogue: 0,0:10:55.59,0:10:57.51,Gen_Main,Kenichi,0000,0000,0000,,¿Te marchas?
+Dialogue: 0,0:10:57.59,0:11:01.26,Gen_Main,Hombre perro,0000,0000,0000,,Ya no puedo quedarme en Astrantia.
+Dialogue: 0,0:11:01.35,0:11:03.33,Gen_Main,Hombre perro,0000,0000,0000,,Atravesaré el mar o lo que sea.
+Dialogue: 0,0:11:08.77,0:11:11.02,Gen_Main,Blonde,0000,0000,0000,,¿Qué demonios es esto?
+Dialogue: 0,0:11:11.11,0:11:12.81,Gen_Main,Blonde,0000,0000,0000,,¡Es un oso colmilludo!
+Dialogue: 0,0:11:13.61,0:11:17.41,Gen_Italics,Kenichi,0000,0000,0000,,¿"Oso colmilludo"?\NEs demasiado obvio.
+Dialogue: 0,0:11:17.86,0:11:21.06,Gen_Main,Blonde,0000,0000,0000,,¿Cómo lograste doblegar\Na semejante bestia?
+Dialogue: 0,0:11:21.16,0:11:22.79,Gen_Main,Kenichi,0000,0000,0000,,Tuve suerte.
+Dialogue: 0,0:11:22.87,0:11:27.22,Gen_Main,Kenichi,0000,0000,0000,,¿Puedes sacarle la carne y la piedra\Nmágica? Me gustaría vender el resto.
+Dialogue: 0,0:11:27.29,0:11:30.17,Gen_Main,Blonde,0000,0000,0000,,Entendido. Bueno, a trabajar.
+Dialogue: 0,0:11:30.25,0:11:33.26,Gen_Main,Blonde,0000,0000,0000,,No quiero tardar\Ny que se eche a perder nada.
+Dialogue: 0,0:11:33.34,0:11:34.42,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:11:34.51,0:11:39.05,Gen_Main,Blonde,0000,0000,0000,,Pero es enorme.\NNo creo que acabe antes de la noche.
+Dialogue: 0,0:11:41.14,0:11:43.99,Gen_Italics,Kenichi,0000,0000,0000,,Todavía es de mañana.
+Dialogue: 0,0:11:44.64,0:11:46.37,Gen_Main,Kenichi,0000,0000,0000,,Iré a casa un rato.
+Dialogue: 0,0:11:49.40,0:11:51.31,Gen_Main,Recepcionista,0000,0000,0000,,¿Vienes a Astrantia de negocios?
+Dialogue: 0,0:11:51.40,0:11:54.87,Gen_Main,Primula,0000,0000,0000,,No. Estoy buscando a una persona.
+Dialogue: 0,0:11:59.41,0:12:02.08,Gen_Main,Kenichi,0000,0000,0000,,¿Por qué me dieron escalofríos?
+Dialogue: 0,0:12:03.95,0:12:06.20,Gen_Italics,Kenichi,0000,0000,0000,,¿Me habré resfriado?
+Dialogue: 0,0:12:19.05,0:12:21.39,Gen_Italics,Kenichi,0000,0000,0000,,Añadí una base a alcohol
+Dialogue: 0,0:12:21.46,0:12:25.47,Gen_Italics,Kenichi,0000,0000,0000,,y puse aceite de ensalada esterificado\Nen el compartimento superior.
+Dialogue: 0,0:12:25.56,0:12:29.85,Gen_Italics,Kenichi,0000,0000,0000,,Luego coloqué el biodiésel que hice\Nen el recipiente delantero.
+Dialogue: 0,0:12:29.94,0:12:35.11,Gen_Italics,Kenichi,0000,0000,0000,,Por lógica,\Ndebería salir biodiésel de aquí.
+Dialogue: 0,0:12:35.19,0:12:37.11,Gen_Main,Anemone,0000,0000,0000,,¿Funcionó?
+Dialogue: 0,0:12:38.15,0:12:39.15,Gen_Main,Kenichi,0000,0000,0000,,Creo que sí.
+Dialogue: 0,0:12:41.36,0:12:44.12,Gen_Main,Myaley,0000,0000,0000,,-Sabes mucho, ¿no?\N-Sí.
+Dialogue: 0,0:12:46.95,0:12:47.95,Gen_Main,Kenichi,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:12:50.71,0:12:57.38,Gen_Italics,Kenichi,0000,0000,0000,,Por 300 yenes logré hacer biodiésel\Nque costaba 3000 yenes el litro.
+Dialogue: 0,0:12:57.92,0:13:00.37,Gen_Italics,Kenichi,0000,0000,0000,,Creo que hice una buena compra.
+Dialogue: 0,0:13:01.22,0:13:04.59,Gen_Main,Kenichi,0000,0000,0000,,Si se me hace tarde,\Npasaré la noche en la ciudad.
+Dialogue: 0,0:13:04.68,0:13:06.45,Gen_Main,Ambas,0000,0000,0000,,¡Adiós!
+Dialogue: 0,0:13:12.52,0:13:14.37,Gen_Main,Kenichi,0000,0000,0000,,¿Está en casa, señora?
+Dialogue: 0,0:13:14.44,0:13:16.02,Gen_Main,Anciana,0000,0000,0000,,¿Señora?
+Dialogue: 0,0:13:16.11,0:13:18.53,Gen_Main,Kenichi,0000,0000,0000,,Disculpe, quise decir "señorita".
+Dialogue: 0,0:13:18.90,0:13:20.91,Gen_Main,Anciana,0000,0000,0000,,Ya terminamos con el registro.
+Dialogue: 0,0:13:21.36,0:13:22.60,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:13:23.41,0:13:25.54,Gen_Main,Kenichi,0000,0000,0000,,¿Contiene una piedra?
+Dialogue: 0,0:13:25.62,0:13:27.41,Gen_Main,Anciana,0000,0000,0000,,Es una piedra mágica.
+Dialogue: 0,0:13:27.49,0:13:32.79,Gen_Main,Anciana,0000,0000,0000,,El encantamiento de ese libro\Nestá vinculado a esa piedra mágica.
+Dialogue: 0,0:13:33.17,0:13:36.07,Gen_Main,Anciana,0000,0000,0000,,Tienes que aprender la magia.
+Dialogue: 0,0:13:36.17,0:13:39.01,Gen_Main,Anciana,0000,0000,0000,,Sin ella, no se activará el hechizo.
+Dialogue: 0,0:13:40.92,0:13:43.90,Gen_Italics,Kenichi,0000,0000,0000,,Espero que sea\Nuna herramienta mágica útil.
+Dialogue: 0,0:13:44.76,0:13:46.93,Gen_Main,Blonde,0000,0000,0000,,Oh, ya regresaste.
+Dialogue: 0,0:13:47.01,0:13:49.64,Gen_Main,Blonde,0000,0000,0000,,Aquí tienes la carne del oso\Ny la piedra mágica.
+Dialogue: 0,0:13:49.72,0:13:50.90,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:13:50.98,0:13:52.05,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:13:52.14,0:13:55.43,Gen_Main,Blonde,0000,0000,0000,,Puedes recoger el pago\Nde los materiales en el mostrador.
+Dialogue: 0,0:13:56.02,0:13:59.18,Gen_Main,Recepcionista,0000,0000,0000,,Aquí tienes cuatro monedas\Nde oro y dos de plata.
+Dialogue: 0,0:14:00.57,0:14:01.57,Gen_Main,Recepcionista,0000,0000,0000,,¿Hola?
+Dialogue: 0,0:14:03.41,0:14:05.57,Gen_Main,Kenichi,0000,0000,0000,,Ah, gracias.
+Dialogue: 0,0:14:22.76,0:14:26.63,Gen_Italics,Kenichi,0000,0000,0000,,Otra vez los escalofríos.\N¿Será por la hostilidad?
+Dialogue: 0,0:14:26.72,0:14:28.80,Gen_Italics,Kenichi,0000,0000,0000,,Tengo un mal presentimiento.
+Dialogue: 0,0:14:28.89,0:14:33.35,Gen_Italics,Kenichi,0000,0000,0000,,Les preparé la cena y el desayuno,
+Dialogue: 0,0:14:33.73,0:14:36.89,Gen_Italics,Kenichi,0000,0000,0000,,pero me olvidaré de pasar\Nla noche fuera de casa. Me voy.
+Dialogue: 0,0:14:43.99,0:14:47.83,Gen_Main,Primula,0000,0000,0000,,Te encontré.
+Dialogue: 0,0:14:49.45,0:14:54.00,Gen_Main,Kenichi,0000,0000,0000,,¿Primula? ¿Qué haces aquí?
+Dialogue: 0,0:14:57.08,0:14:58.88,Gen_Main,Primula,0000,0000,0000,,¡Eres muy cruel!
+Dialogue: 0,0:14:58.96,0:15:01.00,Gen_Main,Primula,0000,0000,0000,,¡Te fuiste de repente!
+Dialogue: 0,0:15:01.09,0:15:07.01,Gen_Main,Kenichi,0000,0000,0000,,Es que les habría dado problemas\Nsi me hubieran atrapado los nobles.
+Dialogue: 0,0:15:07.09,0:15:13.95,Gen_Main,Primula,0000,0000,0000,,Si es un problema o no es cosa\Nde nuestra empresa, no tuya.
+Dialogue: 0,0:15:17.52,0:15:19.44,Gen_Main,Kenichi,0000,0000,0000,,No deberíamos quedarnos aquí.
+Dialogue: 0,0:15:19.52,0:15:22.78,Gen_Main,Kenichi,0000,0000,0000,,Vayamos a algún lugar tranquilo\Npara hablar.
+Dialogue: 0,0:15:23.03,0:15:24.03,Gen_Main,Primula,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:15:24.11,0:15:26.38,Gen_Main,Primula,0000,0000,0000,,Ven al hotel\Nen el que me estoy alojando.
+Dialogue: 0,0:15:31.37,0:15:32.67,Gen_Main,Primula,0000,0000,0000,,Así que…
+Dialogue: 0,0:15:32.79,0:15:38.79,Gen_Main,Primula,0000,0000,0000,,la draisina que nos mostraste\Nnos dio nuestro apellido.
+Dialogue: 0,0:15:38.88,0:15:44.91,Gen_Italics,Kenichi,0000,0000,0000,,Primula no deja de hablar de lo mucho\Nque he ayudado a su empresa.
+Dialogue: 0,0:15:40.29,0:15:45.48,Gen_Main_Up,Primula,0000,0000,0000,,Tus broches maravillosos nos trajeron\Nmuchos tratos con los nobles.
+Dialogue: 0,0:15:45.55,0:15:47.97,Gen_Italics,Kenichi,0000,0000,0000,,No creo que haya sido para tanto.
+Dialogue: 0,0:15:45.55,0:15:51.55,Gen_Main_Up,Primula,0000,0000,0000,,Cuando Shaga atacó la caravana,\Nla empresa estuvo a punto de quebrar.
+Dialogue: 0,0:15:48.05,0:15:51.11,Gen_Italics,Kenichi,0000,0000,0000,,En todo caso,\Nson ellos quienes me ayudaron.
+Dialogue: 0,0:15:53.14,0:15:55.06,Gen_Main,Primula,0000,0000,0000,,Y eso no es todo.
+Dialogue: 0,0:15:55.14,0:15:58.19,Gen_Main,Primula,0000,0000,0000,,Incluso me salvaste la vida.
+Dialogue: 0,0:16:00.15,0:16:02.60,Gen_Main,Kenichi,0000,0000,0000,,Bueno, cálmate, Primula.
+Dialogue: 0,0:16:02.69,0:16:03.95,Gen_Main,Kenichi,0000,0000,0000,,Por cierto.
+Dialogue: 0,0:16:04.03,0:16:08.20,Gen_Main,Kenichi,0000,0000,0000,,¿Así que vas a adquirir más estatus\Ncansándote con el barón Norspaul?
+Dialogue: 0,0:16:08.28,0:16:11.40,Gen_Main,Primula,0000,0000,0000,,Sí, me hicieron esa proposición,
+Dialogue: 0,0:16:11.49,0:16:13.83,Gen_Main,Primula,0000,0000,0000,,pero la rechacé.
+Dialogue: 0,0:16:13.91,0:16:17.46,Gen_Main,Kenichi,0000,0000,0000,,Vaya… Creía que sería una buena unión.
+Dialogue: 0,0:16:17.54,0:16:19.44,Gen_Main,Primula,0000,0000,0000,,Quizás…
+Dialogue: 0,0:16:20.83,0:16:23.26,Gen_Main,Primula,0000,0000,0000,,Pero dejemos de hablar de mí.
+Dialogue: 0,0:16:23.34,0:16:27.59,Gen_Main,Primula,0000,0000,0000,,Anama y el dueño de la tienda\Nde herramientas están enojados contigo.
+Dialogue: 0,0:16:29.80,0:16:34.18,Gen_Main,Kenichi,0000,0000,0000,,Bueno, me siento mal\Npor haberme ido sin despedirme,
+Dialogue: 0,0:16:34.26,0:16:36.60,Gen_Main,Kenichi,0000,0000,0000,,pero es que no quería traer más líos…
+Dialogue: 0,0:16:36.68,0:16:38.72,Gen_Main,Primula,0000,0000,0000,,Pero te estoy diciendo que no…
+Dialogue: 0,0:16:38.81,0:16:41.31,Gen_Main,Kenichi,0000,0000,0000,,Bueno, está bien. Lo siento.
+Dialogue: 0,0:16:41.40,0:16:44.61,Gen_Main,Kenichi,0000,0000,0000,,Ya lo entendí. Deberías volver\Ny contárselo a los demás.
+Dialogue: 0,0:16:44.69,0:16:47.49,Gen_Main,Primula,0000,0000,0000,,No. Si vuelvo, será contigo.
+Dialogue: 0,0:16:47.57,0:16:51.49,Gen_Main,Kenichi,0000,0000,0000,,Pero… yo no tengo pensado volver.
+Dialogue: 0,0:16:51.57,0:16:53.60,Gen_Main,Primula,0000,0000,0000,,En ese caso, yo tampoco volveré.
+Dialogue: 0,0:16:57.37,0:17:00.64,Gen_Main,Kenichi,0000,0000,0000,,Me asombra que supieras\Nque estaba en Astrantia.
+Dialogue: 0,0:17:01.25,0:17:05.04,Gen_Main,Primula,0000,0000,0000,,Pregunté en el gremio\Nsi te habías registrado en otra ciudad.
+Dialogue: 0,0:17:05.13,0:17:10.16,Gen_Main,Primula,0000,0000,0000,,El otro día vi tu nombre\Nen la lista de información actualizada,
+Dialogue: 0,0:17:10.26,0:17:12.51,Gen_Main,Primula,0000,0000,0000,,así que salí corriendo en carruaje.
+Dialogue: 0,0:17:16.43,0:17:21.52,Gen_Main,Primula,0000,0000,0000,,Me gustaría que… esta noche\Nme convirtieras en una mujer de verdad.
+Dialogue: 0,0:17:21.60,0:17:24.77,Gen_Main,Kenichi,0000,0000,0000,,Oye, espera, Primula…
+Dialogue: 0,0:17:24.86,0:17:26.52,Gen_Main,Primula,0000,0000,0000,,¡No seas tan formal!
+Dialogue: 0,0:17:33.36,0:17:36.33,Gen_Main,Kenichi,0000,0000,0000,,Está bien. Vayamos a tu habitación.
+Dialogue: 0,0:17:44.38,0:17:45.86,Gen_Main,Kenichi,0000,0000,0000,,Qué gran habitación.
+Dialogue: 0,0:17:46.54,0:17:47.55,Gen_Main,Primula,0000,0000,0000,,Sí…
+Dialogue: 0,0:17:51.13,0:17:53.26,Gen_Main,Kenichi,0000,0000,0000,,Espera. ¿Así, de repente?
+Dialogue: 0,0:17:53.34,0:17:56.99,Gen_Main,Primula,0000,0000,0000,,Volverás a escapar\Nsi no lo hacemos ya, ¿verdad?
+Dialogue: 0,0:17:57.06,0:17:58.94,Gen_Main,Kenichi,0000,0000,0000,,No, no lo haré.
+Dialogue: 0,0:17:59.64,0:18:00.81,Gen_Main,Kenichi,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:18:02.10,0:18:06.89,Gen_Main,Primula,0000,0000,0000,,Sinceramente,\Nme habría gustado darme un baño antes.
+Dialogue: 0,0:18:07.90,0:18:09.00,Gen_Main,Kenichi,0000,0000,0000,,Primula…
+Dialogue: 0,0:18:09.90,0:18:13.31,Gen_Main,Kenichi,0000,0000,0000,,Primula, así estás preciosa.
+Dialogue: 0,0:18:13.91,0:18:15.85,Gen_Main,Primula,0000,0000,0000,,Pero…
+Dialogue: 0,0:18:15.95,0:18:16.97,Gen_Main,Kenichi,0000,0000,0000,,Tranquila.
+Dialogue: 0,0:18:18.24,0:18:22.03,Gen_Main,Kenichi,0000,0000,0000,,En realidad…\Nme alegra que hayas venido.
+Dialogue: 0,0:18:31.97,0:18:33.22,Gen_Main,Myaley,0000,0000,0000,,¡Ya regresó, miau!
+Dialogue: 0,0:18:36.05,0:18:37.61,Gen_Main,Ambas,0000,0000,0000,,¡Hola!
+Dialogue: 0,0:18:37.68,0:18:38.72,Gen_Main,Kenichi,0000,0000,0000,,Hola.
+Dialogue: 0,0:18:39.72,0:18:41.35,Gen_Main,Myaley,0000,0000,0000,,¿Con quién viniste, miau?
+Dialogue: 0,0:18:41.43,0:18:42.83,Gen_Main,Anemone,0000,0000,0000,,¡Kenichi!
+Dialogue: 0,0:18:43.81,0:18:45.83,Gen_Main,Myaley,0000,0000,0000,,¿Es la hija de Mallow, miau?
+Dialogue: 0,0:18:46.48,0:18:47.48,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:18:47.56,0:18:49.03,Gen_Main,Primula,0000,0000,0000,,-¡Kenichi!\N-¿Sí?
+Dialogue: 0,0:18:49.11,0:18:52.99,Gen_Main,Primula,0000,0000,0000,,¿A mí me dejaste en Dahlia,\Npero te la trajiste a ella?
+Dialogue: 0,0:18:53.07,0:18:55.75,Gen_Main,Kenichi,0000,0000,0000,,No, cálmate.
+Dialogue: 0,0:18:55.82,0:18:57.16,Gen_Main,Anemone,0000,0000,0000,,¿Son muy amigos?
+Dialogue: 0,0:18:57.24,0:19:01.24,Gen_Main,Kenichi,0000,0000,0000,,Myaley dio con mi paradero\Nusando su olfato.
+Dialogue: 0,0:19:02.58,0:19:04.46,Gen_Main,Myaley,0000,0000,0000,,Yo nunca dejo escapar a mi presa.
+Dialogue: 0,0:19:04.54,0:19:05.87,Gen_Main,Primula,0000,0000,0000,,¿Y Anemone qué?
+Dialogue: 0,0:19:06.67,0:19:10.52,Gen_Main,Kenichi,0000,0000,0000,,Es una niña.\NNo podía abandonarla, ¿no?
+Dialogue: 0,0:19:10.59,0:19:12.33,Gen_Main,Primula,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:19:12.42,0:19:14.51,Gen_Main,Primula,0000,0000,0000,,Por hoy te lo dejaré pasar.
+Dialogue: 0,0:19:14.59,0:19:16.51,Gen_Italics,Kenichi,0000,0000,0000,,¿Solo por hoy?
+Dialogue: 0,0:19:16.59,0:19:19.76,Gen_Main,Anemone,0000,0000,0000,,¿Se va a quedar con nosotros?\NVamos a estar apretadas.
+Dialogue: 0,0:19:22.60,0:19:23.93,Gen_Main,Kenichi,0000,0000,0000,,Oye…
+Dialogue: 0,0:19:24.02,0:19:26.90,Gen_Main,Kenichi,0000,0000,0000,,Llévense bien,\Nque vamos a vivir juntos.
+Dialogue: 0,0:19:26.98,0:19:29.23,Gen_Main,Anemone,0000,0000,0000,,Pero no traigas a nadie más.
+Dialogue: 0,0:19:30.27,0:19:31.28,Gen_Main,Kenichi,0000,0000,0000,,Tranquila.
+Dialogue: 0,0:19:31.36,0:19:35.60,Gen_Main,Primula,0000,0000,0000,,¿Por qué tardaste en responder?\N¿Tienes a otra en alguna otra parte?
+Dialogue: 0,0:19:36.78,0:19:37.93,Gen_Main,Kenichi,0000,0000,0000,,Ah, Vel.
+Dialogue: 0,0:19:38.03,0:19:40.66,Gen_Main,Kenichi,0000,0000,0000,,Ahora somos más en la familia.\NTrátala bien.
+Dialogue: 0,0:19:44.75,0:19:47.45,Gen_Main,Primula,0000,0000,0000,,¿Soy peor que un gato montés?
+Dialogue: 0,0:19:47.54,0:19:50.54,Gen_Main,Kenichi,0000,0000,0000,,Cálmate, ella también me siguió.
+Dialogue: 0,0:19:50.96,0:19:54.25,Gen_Italics,Kenichi,0000,0000,0000,,Saltó al camión,\Nasí que no es mentira, ¿no?
+Dialogue: 0,0:19:56.55,0:20:01.14,Gen_Italics,Kenichi,0000,0000,0000,,Ahora que la familia es más grande,\Nya tenemos problemas.
+Dialogue: 0,0:20:01.64,0:20:03.51,Gen_Main,Anemone,0000,0000,0000,,¡Yo me bañaré con Kenichi!
+Dialogue: 0,0:20:03.60,0:20:04.85,Gen_Main,Myaley,0000,0000,0000,,¡Y yo, miau!
+Dialogue: 0,0:20:04.93,0:20:06.15,Gen_Main,Primula,0000,0000,0000,,Yo también.
+Dialogue: 0,0:20:08.39,0:20:11.92,Gen_Italics,Kenichi,0000,0000,0000,,Al final acabé comprando otro barril.
+Dialogue: 0,0:20:12.65,0:20:15.80,Gen_Main,Kenichi,0000,0000,0000,,Esto es el paraíso.
+Dialogue: 0,0:20:15.90,0:20:18.12,Gen_Main,Anemone,0000,0000,0000,,Voy a meterme en ese.
+Dialogue: 0,0:20:18.74,0:20:20.29,Gen_Main,Myaley,0000,0000,0000,,Yo también, miau.
+Dialogue: 0,0:20:20.37,0:20:22.90,Gen_Main,Kenichi,0000,0000,0000,,Oigan, no hagan eso.\NPara algo les compré el otro.
+Dialogue: 0,0:20:22.99,0:20:24.78,Gen_Main,Anemone,0000,0000,0000,,¡Yo quiero estar en el tuyo!
+Dialogue: 0,0:20:25.37,0:20:27.83,Gen_Italics,Kenichi,0000,0000,0000,,Insistió tanto que no pude negarme,
+Dialogue: 0,0:20:27.91,0:20:30.25,Gen_Italics,Kenichi,0000,0000,0000,,pero dejé que solo Anemone\Nse bañara conmigo.
+Dialogue: 0,0:20:30.79,0:20:33.34,Gen_Main,Kenichi,0000,0000,0000,,Pronto tendrás que bañarte tú sola.
+Dialogue: 0,0:20:34.21,0:20:35.21,Gen_Main,Anemone,0000,0000,0000,,No.
+Dialogue: 0,0:20:36.71,0:20:38.74,Gen_Main,Anemone,0000,0000,0000,,¿Tú también quieres unirte, Primula?
+Dialogue: 0,0:20:39.30,0:20:41.97,Gen_Main,Primula,0000,0000,0000,,Me da vergüenza.
+Dialogue: 0,0:20:42.05,0:20:44.22,Gen_Main,Kenichi,0000,0000,0000,,Entonces, ¿te bañarás sola después?
+Dialogue: 0,0:21:11.79,0:21:15.09,Gen_Main,Kenichi,0000,0000,0000,,Llama abrasadora nacida\Ndel poder de mi interior,
+Dialogue: 0,0:21:15.50,0:21:17.64,Gen_Main,Kenichi,0000,0000,0000,,haz cenizas al enemigo\Nque tengo ante mí.
+Dialogue: 0,0:21:17.71,0:21:20.61,Gen_Main,Kenichi,0000,0000,0000,,¡Fireball!
+Dialogue: 0,0:21:24.30,0:21:29.02,Gen_Italics,Kenichi,0000,0000,0000,,Ya dijo la anciana que es inútil leerlo\Nsi no se tiene poder mágico.
+Dialogue: 0,0:21:30.14,0:21:32.35,Gen_Main,Kenichi,0000,0000,0000,,Pero me salió muy caro.
+Dialogue: 0,0:21:33.48,0:21:36.86,Gen_Main,Kenichi,0000,0000,0000,,Primula,\N¿los grimorios se venden rápido?
+Dialogue: 0,0:21:36.94,0:21:41.49,Gen_Main,Primula,0000,0000,0000,,Sí. Hay personas que los coleccionan\Naunque no sepan usar magia.
+Dialogue: 0,0:21:42.03,0:21:45.73,Gen_Italics,Kenichi,0000,0000,0000,,Ya veo, hay coleccionistas.
+Dialogue: 0,0:21:45.83,0:21:49.25,Gen_Main,Anemone,0000,0000,0000,,Llama abrasadora nacida\Ndel poder de mi interior,
+Dialogue: 0,0:21:49.33,0:21:51.81,Gen_Main,Anemone,0000,0000,0000,,haz cenizas al enemigo\Nque tengo ante mí.
+Dialogue: 0,0:21:52.33,0:21:55.13,Gen_Main,Kenichi,0000,0000,0000,,Un momento, Anemone…
+Dialogue: 0,0:21:55.59,0:21:57.44,Gen_Main,Anemone,0000,0000,0000,,¡Fireball!
+Dialogue: 0,0:22:00.09,0:22:03.25,Gen_Main,Primula,0000,0000,0000,,-¿Eh?\N-¿Miau?
+Dialogue: 0,0:23:31.26,0:23:35.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\blur1}Traducción: José María Pérez y Gekokujou\NEdición: José María Pérez\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:35.02,0:23:40.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\q2\fs24\bord1\blur0.3\pos(304,130)}Episodio 8\h\h\h\h\h\h\h\h\h\hUna maga tímida

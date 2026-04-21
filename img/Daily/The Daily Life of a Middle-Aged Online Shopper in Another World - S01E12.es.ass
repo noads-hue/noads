@@ -1,0 +1,445 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,10,30,10,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00F8F9F5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,30,30,10,0
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:15.58,0:00:17.00,Gen_Main,Nyamena,0,0,0,,Oh…
+Comment: 0,0:05:10.87,0:05:12.04,Gen_Main,Lilith,0,0,0,,¡Ja, ja, ja!
+Comment: 0,0:05:35.36,0:05:36.19,Gen_Italics,Kenichi,0,0,0,,¿Eh?
+Comment: 0,0:06:14.56,0:06:15.54,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Comment: 0,0:06:53.48,0:06:54.14,Gen_Main,Caballeros,0,0,0,,¡Ah!
+Comment: 0,0:09:39.27,0:09:40.36,Gen_Main,Lilith,0,0,0,,Ah…
+Comment: 0,0:09:45.65,0:09:46.32,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Comment: 0,0:10:06.29,0:10:07.72,Gen_Italics,Kenichi,0,0,0,,Guau…
+Comment: 0,0:11:03.35,0:11:04.29,Gen_Main,Anemone,0,0,0,,¿Eh?
+Comment: 0,0:11:16.86,0:11:18.00,Gen_Main,Lilith,0,0,0,,¡Oh!
+Comment: 0,0:15:43.71,0:15:44.63,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Comment: 0,0:16:06.11,0:16:06.78,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Comment: 0,0:16:41.35,0:16:42.06,Gen_Main,Kenichi,0,0,0,,¡Ah!
+Comment: 0,0:17:21.31,0:17:22.35,Gen_Main,Grupo,0,0,0,,Oh…
+Comment: 0,0:17:50.47,0:17:51.22,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:00:00.48,0:00:01.98,Cart_A_Tre,CARTEL,0,0,0,,{\fad(250,0)\fs16\bord1\blur1\c&H5D3A0A&\3c&HF9EADE&\pos(221,221)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:00:07.99,0:00:10.49,Gen_Main,Gente,0,0,0,,-¿Qué es eso?\N-¡Llevan mujeres bestia!
+Dialogue: 0,0:00:13.58,0:00:15.48,Gen_Main,Primula,0,0,0,,Ya veo la capital.
+Comment: 0,0:00:15.58,0:00:17.00,Gen_Main,Nyamena,0,0,0,,Oh…
+Dialogue: 0,0:00:23.13,0:00:25.46,Gen_Main,Myaley,0,0,0,,-Tienen gólems.\N-¿Gólems?
+Dialogue: 0,0:00:25.55,0:00:28.02,Gen_Main,Nyamena,0,0,0,,Deberías poder manejarlos, Ane.
+Dialogue: 0,0:00:28.09,0:00:29.27,Gen_Main,Anemone,0,0,0,,¡Quiero intentarlo!
+Dialogue: 0,0:00:29.34,0:00:30.50,Gen_Main,Primula,0,0,0,,No puedes.
+Dialogue: 0,0:00:30.59,0:00:34.59,Gen_Main,Primula,0,0,0,,Operar seres mágicos\Nsin tener autorización es ilegal.
+Dialogue: 0,0:00:35.43,0:00:38.27,Gen_Italics,Kenichi,0,0,0,,Y así llegamos a la capital.
+Dialogue: 0,0:00:41.10,0:00:44.21,Gen_Italics,Kenichi,0,0,0,,Dentro de ella, la distribución\Nde las calles es muy confusa.
+Dialogue: 0,0:00:45.65,0:00:49.40,Gen_Italics,Kenichi,0,0,0,,Al parecer, la geografía de la capital\Nera secreta, así que no hay mapas.
+Dialogue: 0,0:00:54.12,0:00:55.83,Gen_Italics,Primula,0,0,0,,Soy Primula.
+Dialogue: 0,0:00:55.91,0:00:59.33,Gen_Italics,Primula,0,0,0,,Anemone por fin tuvo\Nsu primer periodo, mi padre llegó,
+Dialogue: 0,0:00:59.41,0:01:02.96,Gen_Italics,Primula,0,0,0,,expulsamos a Thogalum\Ny Crouton y su familia se mudaron.
+Dialogue: 0,0:01:03.04,0:01:05.21,Gen_Italics,Primula,0,0,0,,Después de unos días ajetreados,
+Dialogue: 0,0:01:05.29,0:01:09.47,Gen_Italics,Primula,0,0,0,,Su Majestad nos llamó\Npara que acudiéramos a la capital.
+Dialogue: 0,0:01:09.55,0:01:12.01,Gen_Italics,Primula,0,0,0,,¡Una, dos y tres!
+Dialogue: 0,0:01:16.47,0:01:23.60,Cart_A_Tre,CARTEL,0,0,0,,{\fs18\bord0\blur4\t(20,400,\blur0.3)\c&H5F1705&\pos(320,260)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:02:42.02,0:02:45.14,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs22\blur0.4\3c&H312E30&\c&HFDFEFD&\pos(240,291)}Episodio 12\h\hLa princesa insensata y traviesa
+Dialogue: 0,0:02:45.23,0:02:48.23,Gen_Italics,Kenichi,0,0,0,,Tras mostrar la carta del rey\Na los guardias,
+Dialogue: 0,0:02:48.73,0:02:50.71,Gen_Italics,Kenichi,0,0,0,,nos hicieron esperar una hora.
+Dialogue: 0,0:02:57.62,0:03:00.91,Gen_Main,Lilith,0,0,0,,¿Ellos son quienes tienen\Nla carta de mi padre?
+Dialogue: 0,0:03:01.83,0:03:04.41,Gen_Italics,Kenichi,0,0,0,,Si dice que Su Majestad es su padre…
+Dialogue: 0,0:03:04.50,0:03:07.54,Gen_Main,Kenichi,0,0,0,,Sí. Soy Kenichi,\Nun humilde comerciante.
+Dialogue: 0,0:03:07.63,0:03:10.09,Gen_Main,Lilith,0,0,0,,Aquí dice que eres mago.
+Dialogue: 0,0:03:10.17,0:03:13.72,Gen_Main,Kenichi,0,0,0,,Bueno, es que me considero\Nmás bien comerciante.
+Dialogue: 0,0:03:13.80,0:03:17.39,Gen_Main,Oficial,0,0,0,,Solo pasaron dos semanas\Ndesde que enviamos la carta.
+Dialogue: 0,0:03:17.47,0:03:21.93,Gen_Main,Oficial,0,0,0,,¿Qué método usaron para llegar\Ndesde Astrantia en tan poco tiempo?
+Dialogue: 0,0:03:22.01,0:03:25.18,Gen_Main,Kenichi,0,0,0,,Vine por carretera\Ncon la bestia que invoqué.
+Dialogue: 0,0:03:25.27,0:03:27.81,Gen_Main,Lilith,0,0,0,,¿Cómo? ¿Una bestia que invocaste?
+Dialogue: 0,0:03:27.90,0:03:29.03,Gen_Main,Kenichi,0,0,0,,Traer.
+Dialogue: 0,0:03:30.44,0:03:31.44,Gen_Main,Lilith,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:03:31.52,0:03:33.32,Gen_Main,Ambos,0,0,0,,¡Cuidado, princesa!
+Dialogue: 0,0:03:35.40,0:03:37.81,Gen_Main,Lilith,0,0,0,,¡Qué vehículo tan asombroso!
+Dialogue: 0,0:03:37.91,0:03:41.89,Gen_Main,Lilith,0,0,0,,No me extraña que con él recorras\N60 leguas en tan poco tiempo.
+Dialogue: 0,0:03:41.99,0:03:43.26,Gen_Main,Kenichi,0,0,0,,Alteza,
+Dialogue: 0,0:03:43.33,0:03:47.05,Gen_Main,Kenichi,0,0,0,,no debería subirse a un vehículo\Ndesconocido tan a la ligera.
+Dialogue: 0,0:03:47.12,0:03:49.46,Gen_Main,Kenichi,0,0,0,,¿Qué haría si decido fugarme con usted?
+Dialogue: 0,0:03:49.54,0:03:52.00,Gen_Main,Lilith,0,0,0,,Vaya, eso suena divertido.
+Dialogue: 0,0:03:52.09,0:03:53.21,Gen_Main,Lilith,0,0,0,,¡Puedes hacerlo!
+Dialogue: 0,0:03:53.30,0:04:00.01,Gen_Italics,Kenichi,0,0,0,,A esta princesa le encanta dar problemas\Nen su vida tranquila.
+Dialogue: 0,0:04:00.80,0:04:03.02,Gen_Main,Kenichi,0,0,0,,Lo dije en broma.
+Dialogue: 0,0:04:03.10,0:04:04.93,Gen_Main,Kenichi,0,0,0,,Disculpe mi grosería.
+Dialogue: 0,0:04:05.02,0:04:06.66,Gen_Main,Lilith,0,0,0,,Ah, qué decepción.
+Dialogue: 0,0:04:07.98,0:04:08.98,Gen_Main,Ambos,0,0,0,,¡Princesa!
+Dialogue: 0,0:04:09.06,0:04:11.25,Gen_Main,Ambos,0,0,0,,-¿En qué pensaba?\N-¡Esa bestia es peligrosa!
+Dialogue: 0,0:04:11.31,0:04:12.89,Gen_Main,Ambos,0,0,0,,¿Qué haría si le pasara algo?
+Dialogue: 0,0:04:14.98,0:04:18.54,Gen_Main,Lilith,0,0,0,,Sean honestos,\Nno se preocupan por mí,
+Dialogue: 0,0:04:18.61,0:04:21.00,Gen_Main,Lilith,0,0,0,,sino por sus propias cabezas.
+Dialogue: 0,0:04:21.07,0:04:23.67,Gen_Main,Lilith,0,0,0,,Si están disconformes,\Npueden renunciar.
+Dialogue: 0,0:04:24.45,0:04:25.47,Gen_Main,Kenichi,0,0,0,,Guardar.
+Dialogue: 0,0:04:26.25,0:04:27.80,Gen_Main,Lilith,0,0,0,,Te llamabas Kenichi, ¿verdad?
+Dialogue: 0,0:04:27.87,0:04:29.54,Gen_Main,Kenichi,0,0,0,,Así es, Majestad.
+Dialogue: 0,0:04:29.62,0:04:32.06,Gen_Main,Lilith,0,0,0,,Puedes llamarme Lilith.
+Dialogue: 0,0:04:32.13,0:04:35.50,Gen_Main,Kenichi,0,0,0,,En ese caso, la llamaré lady Lilith.
+Dialogue: 0,0:04:42.59,0:04:44.49,Gen_Main,Lilith,0,0,0,,Sí, me agradas.
+Dialogue: 0,0:04:44.56,0:04:46.30,Gen_Main,Lilith,0,0,0,,Te daré una recompensa.
+Dialogue: 0,0:04:46.39,0:04:48.02,Gen_Main,Lilith,0,0,0,,Dime lo que quieras.
+Dialogue: 0,0:04:48.10,0:04:50.72,Gen_Main,Kenichi,0,0,0,,¿Una recompensa?
+Dialogue: 0,0:04:52.10,0:04:56.18,Gen_Main,Kenichi,0,0,0,,En ese caso, ¿puede dejarme acampar\Nen la parte de atrás del castillo?
+Dialogue: 0,0:04:56.28,0:04:58.03,Gen_Main,Kenichi,0,0,0,,Me bastará con una esquinita.
+Dialogue: 0,0:04:58.11,0:04:59.28,Gen_Main,Lilith,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:04:59.36,0:05:03.07,Gen_Main,Kenichi,0,0,0,,No tenemos donde quedarnos\Nantes de la audiencia con el rey.
+Dialogue: 0,0:05:03.16,0:05:07.18,Gen_Main,Kenichi,0,0,0,,Como ve, en mi familia\Ntengo mujeres bestia,
+Dialogue: 0,0:05:07.24,0:05:09.79,Gen_Main,Kenichi,0,0,0,,así que no podemos quedarnos\Nen muchos lugares.
+Comment: 0,0:05:10.87,0:05:12.04,Gen_Main,Lilith,0,0,0,,¡Ja, ja, ja!
+Dialogue: 0,0:05:12.12,0:05:15.16,Gen_Main,Lilith,0,0,0,,¡Nunca me habían pedido\Nuna recompensa así!
+Dialogue: 0,0:05:15.25,0:05:16.46,Gen_Main,Kenichi,0,0,0,,¿No podemos?
+Dialogue: 0,0:05:16.55,0:05:21.68,Gen_Main,Kenichi,0,0,0,,Valoro mucho quedarme con mi familia.
+Dialogue: 0,0:05:21.76,0:05:23.73,Gen_Main,Lilith,0,0,0,,De acuerdo. Los autorizo.
+Dialogue: 0,0:05:23.80,0:05:27.20,Gen_Main,Lilith,0,0,0,,Si te tengo cerca,\Nme ahorraré tener que buscarte
+Dialogue: 0,0:05:27.26,0:05:30.43,Gen_Main,Lilith,0,0,0,,cuando tengamos que hacer\Ncualquier cosa para la audiencia.
+Dialogue: 0,0:05:31.02,0:05:35.28,Gen_Main,Lilith,0,0,0,,A fin de cuentas, quizás falten meses\Npara la audiencia con mi padre.
+Comment: 0,0:05:35.36,0:05:36.19,Gen_Italics,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:05:46.70,0:05:49.94,Gen_Main,Kenichi,0,0,0,,¡Yo te invoco! ¡Yo te invoco!
+Dialogue: 0,0:05:51.33,0:05:52.95,Gen_Main,Kenichi/Anemone,0,0,0,,-¡Traer casa!\N-¡Traer!
+Dialogue: 0,0:05:55.04,0:05:56.39,Gen_Main,Lilith,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:05:56.46,0:05:58.71,Gen_Main,Kenichi,0,0,0,,Es nuestra casa.
+Dialogue: 0,0:05:58.80,0:06:00.04,Gen_Main,Doncellas,0,0,0,,¡Princesa!
+Dialogue: 0,0:06:00.13,0:06:02.02,Gen_Italics,Kenichi,0,0,0,,¡Hace lo que le da la gana!
+Dialogue: 0,0:06:02.88,0:06:06.10,Gen_Main,Lilith,0,0,0,,¿Qué es esto?\NSolo hay camas y mesas.
+Dialogue: 0,0:06:06.18,0:06:07.85,Gen_Main,Doncellas,0,0,0,,¡Princesa!
+Dialogue: 0,0:06:07.93,0:06:11.35,Gen_Main,Kenichi,0,0,0,,El resto de nuestras pertenencias\Nestá en mi caja de objetos.
+Dialogue: 0,0:06:07.93,0:06:09.16,Gen_Main_Up,Doncella,0,0,0,,¡Princesa!
+Dialogue: 0,0:06:09.22,0:06:10.61,Gen_Main_Up,Doncella,0,0,0,,¡Princesa!
+Dialogue: 0,0:06:11.77,0:06:13.02,Gen_Main,Lilith,0,0,0,,Ya lo decidí.
+Dialogue: 0,0:06:13.10,0:06:14.48,Gen_Main,Lilith,0,0,0,,Me quedaré aquí.
+Comment: 0,0:06:14.56,0:06:15.54,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:06:15.60,0:06:16.67,Gen_Main,Guardia,0,0,0,,¡Princesa!
+Dialogue: 0,0:06:16.77,0:06:20.62,Gen_Main,Guardia,0,0,0,,¡No permitiremos que duerma\Ncon un desconocido!
+Dialogue: 0,0:06:20.69,0:06:22.53,Gen_Main,Guardia,0,0,0,,¡Se está pasando con sus bromas!
+Dialogue: 0,0:06:24.61,0:06:26.51,Gen_Main,Kenichi,0,0,0,,¿Está segura?
+Dialogue: 0,0:06:26.57,0:06:28.99,Gen_Main,Kenichi,0,0,0,,No tengo nada que ofrecerle.
+Dialogue: 0,0:06:29.08,0:06:32.40,Gen_Main,Lilith,0,0,0,,Entiendo que estoy pidiendo\Nalgo descabellado,
+Dialogue: 0,0:06:32.50,0:06:34.00,Gen_Main,Lilith,0,0,0,,así que no te preocupes.
+Dialogue: 0,0:06:34.42,0:06:38.76,Gen_Italics,Kenichi,0,0,0,,Aunque sea un poco egoísta,\Nal menos le queda algo de lógica.
+Dialogue: 0,0:06:41.00,0:06:43.22,Gen_Main,Kenichi,0,0,0,,Ya saqué la casa de Nyamena…
+Dialogue: 0,0:06:43.76,0:06:45.30,Gen_Main,Kenichi,0,0,0,,¡Traer retroexcavadora!
+Dialogue: 0,0:06:48.35,0:06:49.87,Gen_Main,Kenichi,0,0,0,,Ahora, el baño.
+Dialogue: 0,0:06:50.72,0:06:53.39,Gen_Main,Lilith,0,0,0,,¡Es la bestia de hierro\Nde la que tanto se habla!
+Comment: 0,0:06:53.48,0:06:54.14,Gen_Main,Caballeros,0,0,0,,¡Ah!
+Dialogue: 0,0:06:54.23,0:06:56.27,Gen_Main_Up,Grupo,0,0,0,,-¡Princesa!\N-¿Qué hace?
+Dialogue: 0,0:06:54.23,0:06:56.79,Gen_Main,Kenichi,0,0,0,,Lady Lilith, se está pasando.
+Dialogue: 0,0:06:56.35,0:06:57.35,Gen_Main_Up,Grupo,0,0,0,,¡Bájala de ahí!
+Dialogue: 0,0:06:56.85,0:06:58.77,Gen_Main,Lilith,0,0,0,,No se preocupen por mí.
+Dialogue: 0,0:06:57.44,0:06:58.77,Gen_Main_Up,Grupo,0,0,0,,¡Qué atrevido!
+Dialogue: 0,0:07:07.11,0:07:08.16,Gen_Main,Guardia,0,0,0,,¡Oye, tú!
+Dialogue: 0,0:07:08.91,0:07:11.91,Gen_Main,Guardia,0,0,0,,¿Cómo osas tocar el cuerpo\Nde la princesa con esa ligereza?
+Dialogue: 0,0:07:11.99,0:07:13.79,Gen_Main,Guardia,0,0,0,,¡Eres un insolente!
+Dialogue: 0,0:07:13.79,0:07:14.79,Gen_Main_Up,Kenichi,0,0,0,,¡Traer!
+Dialogue: 0,0:07:13.87,0:07:18.04,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,295)}Escudo antidisturbios de policarbonato: 13 500 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:15.54,0:07:18.04,Gen_Italics_top,Kenichi,0,0,0,,Maldición, quiere matarme en serio.
+Dialogue: 0,0:07:18.13,0:07:19.14,Gen_Main,Kenichi,0,0,0,,Traer.
+Dialogue: 0,0:07:24.59,0:07:25.67,Gen_Main,Kenichi,0,0,0,,¡Espera, Anemone!
+Dialogue: 0,0:07:25.76,0:07:27.68,Gen_Main,Anemone,0,0,0,,¡Fireball!
+Dialogue: 0,0:07:29.51,0:07:30.75,Gen_Main,Guardia,0,0,0,,¡Protection!
+Dialogue: 0,0:07:33.52,0:07:34.86,Gen_Main,Kenichi,0,0,0,,¡Oye, Anemone!
+Dialogue: 0,0:07:34.93,0:07:35.93,Gen_Main,Kenichi,0,0,0,,Ya terminó todo.
+Dialogue: 0,0:07:36.89,0:07:39.68,Gen_Main,Lilith,0,0,0,,¡Bajen las armas!
+Dialogue: 0,0:07:44.40,0:07:45.50,Gen_Main,Kenichi,0,0,0,,Lady Lilith.
+Dialogue: 0,0:07:45.57,0:07:48.56,Gen_Main,Lilith,0,0,0,,¿Eres maga siendo tan joven?
+Dialogue: 0,0:07:48.66,0:07:50.01,Gen_Main,Lilith,0,0,0,,Dime cómo te llamas.
+Dialogue: 0,0:07:50.07,0:07:51.07,Gen_Main,Anemone,0,0,0,,Anemone.
+Dialogue: 0,0:07:51.16,0:07:52.67,Gen_Main,Lilith,0,0,0,,Yo me llamo Lilith.
+Dialogue: 0,0:07:52.74,0:07:54.33,Gen_Main,Lilith,0,0,0,,Puedes llamarme por mi nombre.
+Dialogue: 0,0:07:56.04,0:07:59.08,Gen_Main,Lilith,0,0,0,,¿Qué otros hechizos sabes, Anemone?
+Dialogue: 0,0:07:59.17,0:08:00.76,Gen_Main,Anemone,0,0,0,,Explosión.
+Dialogue: 0,0:08:00.83,0:08:03.24,Gen_Main,Lilith,0,0,0,,¿Cómo? ¿Explosión?
+Dialogue: 0,0:08:03.34,0:08:06.54,Gen_Main,Kenichi,0,0,0,,Es la gran maga de la familia.
+Dialogue: 0,0:08:06.63,0:08:07.68,Gen_Main,Lilith,0,0,0,,¿Lo oyeron?
+Dialogue: 0,0:08:07.76,0:08:09.59,Gen_Main,Lilith,0,0,0,,Si hubiera usado Explosión,
+Dialogue: 0,0:08:10.05,0:08:13.02,Gen_Main,Lilith,0,0,0,,habría tenido que lamentar dos bajas.
+Dialogue: 0,0:08:15.60,0:08:16.81,Gen_Main,Kenichi,0,0,0,,Lady Lilith,
+Dialogue: 0,0:08:16.89,0:08:21.06,Gen_Main,Kenichi,0,0,0,,ya es hora de empezar\Na preparar la cena.
+Dialogue: 0,0:08:21.15,0:08:22.25,Gen_Main,Lilith,0,0,0,,¿Qué?
+Dialogue: 0,0:08:22.31,0:08:24.66,Gen_Main,Lilith,0,0,0,,¿Y no me piensas invitar?
+Dialogue: 0,0:08:27.15,0:08:28.64,Gen_Main,Lilith,0,0,0,,Qué bien huele.
+Dialogue: 0,0:08:28.74,0:08:30.61,Gen_Main,Lilith,0,0,0,,¿Es sopa con especias?
+Dialogue: 0,0:08:30.70,0:08:32.30,Gen_Main,Kenichi,0,0,0,,Así es.
+Dialogue: 0,0:08:32.37,0:08:34.09,Gen_Main,Lilith,0,0,0,,¿Qué son esas bolitas blancas?
+Dialogue: 0,0:08:34.83,0:08:38.31,Gen_Main,Kenichi,0,0,0,,Es un tipo de grano hervido.
+Dialogue: 0,0:08:38.41,0:08:41.18,Gen_Main,Kenichi,0,0,0,,Había pensado en prepararle pan…
+Dialogue: 0,0:08:41.25,0:08:44.20,Gen_Main,Lilith,0,0,0,,Quiero probar esa comida blanca.
+Dialogue: 0,0:08:44.29,0:08:45.52,Gen_Main,Kenichi,0,0,0,,Como desee.
+Dialogue: 0,0:08:54.51,0:08:56.40,Gen_Main,Lilith,0,0,0,,Está rica.
+Dialogue: 0,0:08:56.47,0:08:57.74,Gen_Italics,Kenichi,0,0,0,,Menos mal.
+Dialogue: 0,0:08:57.81,0:09:00.14,Gen_Italics,Kenichi,0,0,0,,A la nobleza\Ntambién le encanta el curry.
+Dialogue: 0,0:09:00.73,0:09:03.65,Gen_Main,Lilith,0,0,0,,¿Los plebeyos siempre comen\Nesta comida?
+Dialogue: 0,0:09:03.73,0:09:07.54,Gen_Main,Kenichi,0,0,0,,No. Este plato es de mi ciudad natal.
+Dialogue: 0,0:09:07.61,0:09:13.66,Gen_Main,Kenichi,0,0,0,,En este país, los sindicatos inflan\Nel precio de las especias.
+Dialogue: 0,0:09:13.82,0:09:16.14,Gen_Main,Kenichi,0,0,0,,A los plebeyos\Nles cuesta mucho probarlas.
+Dialogue: 0,0:09:16.24,0:09:18.46,Gen_Main,Lilith,0,0,0,,Así que ellos lo hacen.
+Dialogue: 0,0:09:18.54,0:09:22.84,Gen_Main,Lilith,0,0,0,,¿Me dirías la combinación\Nde especias que utilizaste?
+Dialogue: 0,0:09:22.92,0:09:27.01,Gen_Main,Kenichi,0,0,0,,No lo preparé yo,\Nasí que ni yo mismo lo sé.
+Dialogue: 0,0:09:29.21,0:09:33.50,Gen_Main_Up,Kenichi,0,0,0,,¿Cree que el chef del palacio\Npodría intentar copiarlo?
+Dialogue: 0,0:09:32.22,0:09:35.01,Cart_A_Tre,CARTEL,0,0,0,,{\fad(400,400)\bord1\3c&H202428&\pos(320,295)}Lata de curry especial (400 g): 1976 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:09:33.59,0:09:37.06,Gen_Main_Up,Lilith,0,0,0,,Vaya. Eso sí que suena interesante.
+Dialogue: 0,0:09:37.14,0:09:39.18,Gen_Main,Lilith/Kenichi,0,0,0,,-¡Más!\N-¿Eh?
+Comment: 0,0:09:39.27,0:09:40.36,Gen_Main,Lilith,0,0,0,,Ah…
+Dialogue: 0,0:09:40.43,0:09:41.94,Gen_Main,Lilith,0,0,0,,Estoy satisfecha.
+Dialogue: 0,0:09:42.02,0:09:44.37,Gen_Main,Lilith,0,0,0,,Me gustaron el plato y la cuchara.
+Dialogue: 0,0:09:44.44,0:09:45.56,Gen_Main,Lilith,0,0,0,,Te los compro.
+Comment: 0,0:09:45.65,0:09:46.32,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:09:46.82,0:09:51.68,Gen_Main,Kenichi,0,0,0,,El plato debería valer veinte monedas\Nde oro y la cuchara diez, pero…
+Dialogue: 0,0:09:51.78,0:09:53.10,Gen_Main,Primula,0,0,0,,Pediremos 20 por el plato.
+Dialogue: 0,0:09:53.20,0:09:55.70,Gen_Main,Primula,0,0,0,,Seguramente comprará la cuchara\Npor otras 20.
+Dialogue: 0,0:09:56.24,0:09:57.71,Gen_Main,Kenichi,0,0,0,,En ese caso,
+Dialogue: 0,0:09:57.78,0:10:02.22,Gen_Main,Kenichi,0,0,0,,podría venderle los dos artículos\Npor veinte monedas de oro cada uno.
+Dialogue: 0,0:10:02.29,0:10:04.18,Gen_Main,Lilith,0,0,0,,Me parece razonable.
+Dialogue: 0,0:10:04.25,0:10:06.21,Gen_Main,Lilith,0,0,0,,¡Te compro diez de cada una!
+Comment: 0,0:10:06.29,0:10:07.72,Gen_Italics,Kenichi,0,0,0,,Guau…
+Dialogue: 0,0:10:07.72,0:10:09.46,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,250)}Plato Royal Ohpenhagen (10 uds.): 360 000 yenes {\fs12}(IVA incluido)\N{\fs20}Cuchara Royal Ohpenhagen (10 uds.): 180 000 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:10:09.55,0:10:11.63,Gen_Main,Lilith/Mailen,0,0,0,,-Mailen.\N-Dígame.
+Dialogue: 0,0:10:11.72,0:10:14.33,Gen_Main,Lilith,0,0,0,,Llévale estas especias a Sambac.
+Dialogue: 0,0:10:14.43,0:10:16.22,Gen_Main,Mailen,0,0,0,,A la orden, princesa.
+Dialogue: 0,0:10:26.19,0:10:29.23,Gen_Main,Lilith,0,0,0,,Parece que no mentías\Nen lo de que eres comerciante.
+Dialogue: 0,0:10:29.78,0:10:34.69,Gen_Main,Lilith,0,0,0,,Seguro que tienes de todo\Nen tu caja de objetos.
+Dialogue: 0,0:10:34.78,0:10:37.01,Gen_Main,Lilith,0,0,0,,Tendrás incluso artículos prohibidos.
+Dialogue: 0,0:10:37.07,0:10:40.62,Gen_Main,Kenichi,0,0,0,,Es secreto profesional.\NNo puedo contarle nada.
+Dialogue: 0,0:10:40.70,0:10:43.31,Gen_Main,Anemone,0,0,0,,¡Están demasiado juntitos!
+Dialogue: 0,0:10:44.96,0:10:47.75,Gen_Main,Lilith,0,0,0,,¿Anemone no era tu hija?
+Dialogue: 0,0:10:47.83,0:10:50.63,Gen_Main,Kenichi,0,0,0,,Es mi hija, pero no nos une\Nla misma sangre.
+Dialogue: 0,0:10:50.71,0:10:51.74,Gen_Main,Lilith,0,0,0,,Entiendo.
+Dialogue: 0,0:10:51.84,0:10:54.34,Gen_Main,Lilith,0,0,0,,Quieres a Kenichi, ¿verdad, Anemone?
+Dialogue: 0,0:10:54.42,0:10:58.03,Gen_Main,Anemone,0,0,0,,¡Dentro de cinco años\Ndaré a luz a un hijo de Kenichi!
+Dialogue: 0,0:10:59.47,0:11:03.28,Gen_Main,Kenichi,0,0,0,,Anemone, si tienes un hijo,\Nno podrás ir de aventuras.
+Comment: 0,0:11:03.35,0:11:04.29,Gen_Main,Anemone,0,0,0,,¿Eh?
+Dialogue: 0,0:11:05.10,0:11:07.50,Gen_Main,Lilith,0,0,0,,Quieres tener un hijo\Ndel hombre al que amas…
+Dialogue: 0,0:11:08.11,0:11:13.10,Gen_Main,Lilith,0,0,0,,Yo nunca viviré eso, ya que soy un peón\Nde los matrimonios por política.
+Comment: 0,0:11:16.86,0:11:18.00,Gen_Main,Lilith,0,0,0,,¡Oh!
+Dialogue: 0,0:11:18.07,0:11:19.63,Gen_Main,Lilith,0,0,0,,¡Una bañera!
+Dialogue: 0,0:11:20.49,0:11:23.79,Gen_Main,Doncella,0,0,0,,¡Princesa, no salpique\Nel agua de la bañera!
+Dialogue: 0,0:11:23.87,0:11:27.92,Gen_Italics,Kenichi,0,0,0,,Nos meteríamos en líos si nos bañamos\Ncon una menor de la familia real.
+Dialogue: 0,0:11:27.92,0:11:29.67,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,295)}Albornoz para niños: 1780 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:11:28.33,0:11:32.92,Gen_Italics_top,Kenichi,0,0,0,,Compartir cama también daría problemas,\Nasí que se encargaron Primula y Anemone.
+Dialogue: 0,0:11:29.67,0:11:32.92,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,295)}Camisón infantil: 2780 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:11:33.00,0:11:34.74,Gen_Italics,Kenichi,0,0,0,,Los demás dormimos afuera.
+Dialogue: 0,0:11:36.80,0:11:37.87,Gen_Italics,Kenichi,0,0,0,,¿Guardias?
+Dialogue: 0,0:11:38.68,0:11:42.68,Gen_Italics,Kenichi,0,0,0,,Lidiar con la princesa hizo\Nque el día se pasara volando,
+Dialogue: 0,0:11:42.76,0:11:44.86,Gen_Italics,Kenichi,0,0,0,,pero intuyo que mañana será igual.
+Dialogue: 0,0:11:50.56,0:11:51.61,Gen_Main,Kenichi,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:11:52.61,0:11:54.73,Gen_Main,Myaley,0,0,0,,Ahí hay algo, miau.
+Dialogue: 0,0:11:54.82,0:11:56.51,Gen_Main,Nyamena,0,0,0,,Percibo algo extraño.
+Dialogue: 0,0:12:19.47,0:12:22.63,Gen_Main,Amaranthus,0,0,0,,¿Ese es Kenichi, el mago?
+Dialogue: 0,0:12:31.56,0:12:32.90,Gen_Main,Lilith,0,0,0,,¿Hay alguien ahí?
+Dialogue: 0,0:12:32.98,0:12:33.98,Gen_Main,Doncellas,0,0,0,,Sí.
+Dialogue: 0,0:12:37.07,0:12:38.22,Gen_Main,Lilith,0,0,0,,Gracias por esperar.
+Dialogue: 0,0:12:38.74,0:12:43.28,Gen_Italics,Kenichi,0,0,0,,Desde aquel día, pasamos a cumplir\Nlos caprichos a la princesa.
+Dialogue: 0,0:12:43.37,0:12:48.08,Gen_Italics,Kenichi,0,0,0,,Una vez nos pidió exterminar\Nlas ratas del sótano del castillo.
+Dialogue: 0,0:12:48.62,0:12:51.88,Gen_Italics_top,Kenichi,0,0,0,,Usé un montón de veneno\Nque compré en Shangri-La
+Dialogue: 0,0:12:50.04,0:12:53.50,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,400)\bord1\3c&H202428&\pos(320,205)}Veneno para ratas (100 cajas): 16 900 yenes {\fs12}(IVA incluido)\N{\fs20}Pinzas para recoger basura (4 uds.): 2156 yenes {\fs12}(IVA incluido)\N{\fs20}Bolsas de basura (100 uds.): 1698 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:12:51.96,0:12:55.75,Gen_Italics_top,Kenichi,0,0,0,,para que más de mil ratas\Nno volvieran a respirar.
+Dialogue: 0,0:12:56.76,0:13:00.09,Gen_Italics,Kenichi,0,0,0,,En otra ocasión,\Nsubastó una araña de las cavernas
+Dialogue: 0,0:12:56.76,0:12:59.01,Gen_Main_Up,Comerciantes,0,0,0,,-¡Sesenta!\N-¡Yo ofrezco setenta!
+Dialogue: 0,0:12:59.09,0:13:01.10,Gen_Main_Up,Primula,0,0,0,,¡Este caballero ofreció más!
+Dialogue: 0,0:13:00.18,0:13:05.06,Gen_Italics,Kenichi,0,0,0,,de mi caja de objetos\Na los proveedores de la familia real.
+Dialogue: 0,0:13:01.18,0:13:03.15,Gen_Main_Up,Primula,0,0,0,,¿Alguien da más?
+Dialogue: 0,0:13:05.14,0:13:06.81,Gen_Italics,Kenichi,0,0,0,,En otra ocasión,
+Dialogue: 0,0:13:06.89,0:13:12.49,Gen_Italics,Kenichi,0,0,0,,preguntó cómo escaparíamos del castillo\Nsi la secuestráramos,
+Dialogue: 0,0:13:13.65,0:13:16.00,Gen_Italics,Kenichi,0,0,0,,así que se lo mostré con unos andamios,
+Dialogue: 0,0:13:16.08,0:13:18.86,Gen_Italics,Kenichi,0,0,0,,ocasionando que los guardias\Nme dieran una reprimenda.
+Dialogue: 0,0:13:19.53,0:13:20.87,Gen_Italics,Kenichi,0,0,0,,Además…
+Dialogue: 0,0:13:22.41,0:13:25.83,Gen_Main,Lilith,0,0,0,,Kenichi, hoy te voy a invitar.
+Dialogue: 0,0:13:25.91,0:13:31.58,Gen_Italics,Kenichi,0,0,0,,Nos invitó a una copia del chef real\Nde lo que debería haber sido curry.
+Dialogue: 0,0:13:31.67,0:13:35.45,Gen_Main,Nyamena,0,0,0,,Huelo bastantes especias\Nde gran calidad.
+Dialogue: 0,0:13:35.54,0:13:38.09,Gen_Main,Myaley,0,0,0,,Huele genial, miau.
+Dialogue: 0,0:13:38.17,0:13:39.73,Gen_Main,Kenichi,0,0,0,,Es maravilloso.
+Dialogue: 0,0:13:39.80,0:13:42.39,Gen_Main,Anemone,0,0,0,,El de Kenichi está rico,\Npero este también.
+Dialogue: 0,0:13:42.47,0:13:44.36,Gen_Main,Primula,0,0,0,,Sí, está muy bueno.
+Dialogue: 0,0:13:44.43,0:13:49.22,Gen_Main,Primula,0,0,0,,Seguro que las especias\Nles salieron muy caras.
+Dialogue: 0,0:13:49.31,0:13:50.95,Gen_Main,Lilith,0,0,0,,Por cierto, Kenichi,
+Dialogue: 0,0:13:51.02,0:13:57.23,Gen_Main,Lilith,0,0,0,,¿tienes en la caja de objetos\Ncomida que el chef no pueda replicar?
+Dialogue: 0,0:13:57.98,0:14:00.36,Gen_Italics,Kenichi,0,0,0,,Sí, también nos pidió eso.
+Dialogue: 0,0:14:00.36,0:14:02.36,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,295)}Bombones de chocolate de lujo (48 uds.): 15 800 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:01.74,0:14:03.16,Gen_Main_Up,Lilith,0,0,0,,¿Son golosinas?
+Dialogue: 0,0:14:05.07,0:14:07.23,Gen_Main,Lilith,0,0,0,,¡Qué dulces!
+Dialogue: 0,0:14:07.33,0:14:10.12,Gen_Main,Lilith,0,0,0,,La intensidad y el dulzor\Nse deshacen en la boca.
+Dialogue: 0,0:14:12.46,0:14:14.13,Gen_Main,Lilith,0,0,0,,¿Qué opinas, Sambac?
+Dialogue: 0,0:14:14.21,0:14:16.23,Gen_Main,Sambac,0,0,0,,Con el debido respeto, he de reconocer
+Dialogue: 0,0:14:16.29,0:14:21.14,Gen_Main,Sambac,0,0,0,,que con mis habilidades me costaría\Nmuchísimo replicarlos.
+Dialogue: 0,0:14:21.21,0:14:24.58,Gen_Main,Lilith,0,0,0,,Vaya… Ni siquiera tú podrías hacerlo.
+Dialogue: 0,0:14:26.09,0:14:28.26,Gen_Italics,Kenichi,0,0,0,,Qué cruel es.
+Dialogue: 0,0:14:30.22,0:14:31.43,Gen_Main,Lilith,0,0,0,,Terminé mis tareas.
+Dialogue: 0,0:14:31.52,0:14:32.94,Gen_Main,Mailen,0,0,0,,¿A dónde va, princesa?
+Dialogue: 0,0:14:33.02,0:14:35.60,Gen_Main,Lilith,0,0,0,,A ver a Kenichi, por supuesto.
+Dialogue: 0,0:14:39.44,0:14:40.69,Gen_Main,Kenichi,0,0,0,,¿Que si tengo más?
+Dialogue: 0,0:14:40.78,0:14:43.49,Gen_Main,Lilith,0,0,0,,Mi madre está interesada\Nen los dulces.
+Dialogue: 0,0:14:43.57,0:14:44.82,Gen_Main,Kenichi,0,0,0,,¿La reina?
+Dialogue: 0,0:14:44.91,0:14:45.91,Gen_Main,Kenichi,0,0,0,,Traer.
+Dialogue: 0,0:14:47.16,0:14:48.82,Gen_Main,Lilith,0,0,0,,¡Me salvaste la vida!
+Dialogue: 0,0:14:49.37,0:14:53.36,Gen_Main,Lilith,0,0,0,,Ay, es que… mi madre\Nes muy quisquillosa.
+Dialogue: 0,0:14:53.46,0:14:55.33,Gen_Main,Lilith,0,0,0,,Es una pesadilla cuando se enoja.
+Dialogue: 0,0:14:55.42,0:14:58.04,Gen_Main,Kenichi,0,0,0,,En resumen, ¿ha estado de mal humor
+Dialogue: 0,0:14:58.13,0:15:01.44,Gen_Main,Kenichi,0,0,0,,porque se comió los dulces\Nantes que ella?
+Dialogue: 0,0:15:01.50,0:15:03.47,Gen_Main,Lilith,0,0,0,,Sí, algo así.
+Dialogue: 0,0:15:03.55,0:15:07.87,Gen_Main,Lilith,0,0,0,,En realidad no soy su hija,\Nasí que debo ser más respetuosa.
+Dialogue: 0,0:15:08.68,0:15:11.28,Gen_Main,Kenichi,0,0,0,,Siento no haberme dado cuenta.
+Dialogue: 0,0:15:11.35,0:15:14.80,Gen_Main,Lilith,0,0,0,,No te preocupes.\NNo nos llevamos mal.
+Dialogue: 0,0:15:14.89,0:15:18.61,Gen_Main,Lilith,0,0,0,,Pero prepárate para cuando llegue\Nel momento de tu audiencia.
+Dialogue: 0,0:15:18.69,0:15:21.96,Gen_Italics,Kenichi,0,0,0,,Era la hija de una concubina\Nque había fallecido.
+Dialogue: 0,0:15:22.03,0:15:26.36,Gen_Italics,Kenichi,0,0,0,,El rey la adoraba porque\Nen aquel momento era su única hija.
+Dialogue: 0,0:15:26.78,0:15:30.11,Gen_Italics,Kenichi,0,0,0,,Entonces, ¿la reina la veía como rival\Npor el cariño del rey?
+Dialogue: 0,0:15:30.95,0:15:32.62,Gen_Main,Kenichi,0,0,0,,¿Eh? ¿Otra vez?
+Dialogue: 0,0:15:32.70,0:15:34.27,Gen_Main,Myaley,0,0,0,,Percibo algo, miau.
+Dialogue: 0,0:15:34.37,0:15:36.08,Gen_Main,Nyamena,0,0,0,,Hay algo, sin duda.
+Dialogue: 0,0:15:37.00,0:15:38.38,Gen_Main,Doncella,0,0,0,,Otra vez aparecieron.
+Dialogue: 0,0:15:38.46,0:15:40.00,Gen_Main,Doncella,0,0,0,,Seguro que son ellos.
+Dialogue: 0,0:15:40.09,0:15:43.63,Gen_Main,Lilith,0,0,0,,Al parecer,\Nhay algo acechando el castillo.
+Comment: 0,0:15:43.71,0:15:44.63,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:15:45.09,0:15:48.77,Gen_Main,Lilith,0,0,0,,La familia real ha sobrevivido\Ngracias al sacrificio de mucha gente.
+Dialogue: 0,0:15:48.84,0:15:51.74,Gen_Main,Lilith,0,0,0,,Seguro que mucha gente\Nmurió guardando rencor.
+Dialogue: 0,0:15:51.81,0:15:54.89,Gen_Main,Lilith,0,0,0,,No me extrañaría que hubiera\Nfantasmas en el castillo.
+Dialogue: 0,0:15:54.98,0:15:56.92,Gen_Main,Doncella,0,0,0,,Princesa, ¿por qué no se lo pide?
+Dialogue: 0,0:15:57.02,0:15:58.23,Gen_Main,Doncella,0,0,0,,Seguro que existen.
+Dialogue: 0,0:15:58.31,0:16:00.34,Gen_Main,Doncella,0,0,0,,Siento como si siempre me observaran.
+Dialogue: 0,0:16:00.44,0:16:02.31,Gen_Main,Lilith,0,0,0,,Si tanto insisten…
+Dialogue: 0,0:16:02.86,0:16:06.03,Gen_Main,Lilith,0,0,0,,Kenichi, ¿puedo pedirte\Nque elimines a los fantasmas?
+Comment: 0,0:16:06.11,0:16:06.78,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:16:06.86,0:16:10.03,Gen_Main,Lilith,0,0,0,,Como ves, mis sirvientas\Nno dejan de hablar de ellos.
+Dialogue: 0,0:16:10.12,0:16:12.29,Gen_Main,Kenichi,0,0,0,,Está bien.
+Dialogue: 0,0:16:12.37,0:16:15.02,Gen_Main,Kenichi,0,0,0,,En ese caso,\Ntengo una petición que hacerle.
+Dialogue: 0,0:16:15.12,0:16:18.97,Gen_Main,Kenichi,0,0,0,,Las mujeres bestia de mi familia\Ny el gato montés son los únicos
+Dialogue: 0,0:16:19.04,0:16:20.54,Gen_Main,Kenichi,0,0,0,,que perciben fantasmas.
+Dialogue: 0,0:16:20.63,0:16:23.26,Gen_Main,Kenichi,0,0,0,,¿Podría autorizar\Nsu ingreso al castillo?
+Dialogue: 0,0:16:23.34,0:16:24.43,Gen_Main,Lilith,0,0,0,,Lo autorizo.
+Dialogue: 0,0:16:25.67,0:16:28.88,Gen_Italics,Kenichi,0,0,0,,Aun así, ¿cómo se lucha\Ncontra los fantasmas?
+Dialogue: 0,0:16:29.76,0:16:32.18,Gen_Main,Lilith,0,0,0,,¿Qué es eso, Kenichi?
+Dialogue: 0,0:16:32.18,0:16:35.60,Cart_A_Tre,CARTEL,0,0,0,,{\fad(400,400)\bord1\3c&H202428&\pos(320,295)}Pulverizador químico (10 l): 7480 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:16:32.26,0:16:33.73,Gen_Main_Up,Kenichi,0,0,0,,Es un pulverizador.
+Dialogue: 0,0:16:33.81,0:16:35.60,Gen_Main_Up,Kenichi,0,0,0,,Contiene agua bendita.
+Dialogue: 0,0:16:35.68,0:16:37.31,Gen_Main,Lilith,0,0,0,,¿Agua bendita?
+Dialogue: 0,0:16:37.39,0:16:41.29,Gen_Italics,Kenichi,0,0,0,,Así es. En Shangri-La\Ntambién se vende agua bendita.
+Comment: 0,0:16:41.35,0:16:42.06,Gen_Main,Kenichi,0,0,0,,¡Ah!
+Dialogue: 0,0:16:42.06,0:16:43.23,Cart_A_Tre,CARTEL,0,0,0,,{\frz16\c&HE8F79A&\3c&HD37F47&\move(85,80,584,-21,900,1150)}Agua {\c&HBC7FF0&\3c&H5D21C4&}bendita
+Dialogue: 1,0:16:42.15,0:16:43.65,Gen_Main,Kenichi,0,0,0,,Agua equivocada.
+Dialogue: 0,0:16:43.19,0:16:44.07,Cart_C_Tre,CARTEL,0,0,0,,{\fad(200,0)\bord0\frz15\pos(292,90)}[Agua bendita]\NYa bendecida
+Dialogue: 0,0:16:43.19,0:16:44.07,Cart_C_Tre,CARTEL,0,0,0,,{\fad(200,0)\bord0\frz16\pos(361,274)}Un sacerdote ha bendecido esta agua.
+Dialogue: 0,0:16:44.07,0:16:45.69,Cart_C_Tre,CARTEL,0,0,0,,{\bord0\frz11\pos(252,126)}Ya bendecida
+Dialogue: 0,0:16:44.07,0:16:45.69,Cart_C_Tre,CARTEL,0,0,0,,{\bord0\frz12\pos(399,286)}Un sacerdote ha bendecido esta agua.
+Dialogue: 1,0:16:44.69,0:16:45.69,Gen_Main,Kenichi,0,0,0,,¿En serio?
+Dialogue: 0,0:16:45.69,0:16:53.16,Cart_A_Tre,CARTEL,0,0,0,,{\q2\fad(0,400)\bord1\3c&H202428&\pos(320,212)\fs18}Sake sagrado (5 l): 93 750 yenes {\fs12}(IVA incluido)\h\h\h\h\h\h\h\h\h\h\h{\fs18}Sales purificantes: 1099 yenes {\fs12}(IVA incluido)\N{\fs18}Agua bendita para uso doméstico (1 l): 130 800 yenes {\fs12}(IVA incluido)\N{\fs18}Agua de tierras sagradas (1 l): 105 600 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:16:46.15,0:16:50.38,Gen_Italics_top,Kenichi,0,0,0,,Mezclé agua bendita y sake sagrado\Ncon sales purificantes
+Dialogue: 0,0:16:50.45,0:16:53.83,Gen_Italics_top,Kenichi,0,0,0,,y creé una mezcla potente\Nde líquidos occidentales y orientales.
+Dialogue: 0,0:16:54.74,0:16:57.83,Gen_Italics,Kenichi,0,0,0,,Así comenzamos con la caza de fantasmas.
+Dialogue: 0,0:16:58.62,0:17:00.21,Gen_Main,Kenichi,0,0,0,,¿Está en esa esquina?
+Dialogue: 0,0:17:00.29,0:17:02.23,Gen_Main,Myaley,0,0,0,,Eso percibo.
+Dialogue: 0,0:17:02.33,0:17:04.71,Gen_Main,Nyamena,0,0,0,,Sí, siento que nos está mirando.
+Dialogue: 0,0:17:04.71,0:17:07.21,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,295)}Edición revisada de "Guía de los espíritus malignos": 1375 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:17:04.71,0:17:07.21,Cart_C_Tre,CARTEL,0,0,0,,{\bord0\frz18\fs18\pos(369,59)}Shingon
+Dialogue: 0,0:17:04.71,0:17:07.21,Cart_A_Tre,CARTEL,0,0,0,,{\frz20\pos(87,144)\c&H000000&\3c&HE8E0DC&}Namo tarih bhara\Nsakyame sakyame\Ntrasaddham\Nkaemvi svaha
+Dialogue: 0,0:17:05.09,0:17:06.76,Gen_Main_Up,Kenichi,0,0,0,,Empezaremos por el mantra.
+Dialogue: 0,0:17:07.30,0:17:09.22,Gen_Main,Kenichi,0,0,0,,¡Lárguense, espíritus malignos!
+Dialogue: 0,0:17:09.30,0:17:15.34,Gen_Main,Kenichi,0,0,0,,{\i1}¡Namo tarih bhara sakyame sakyame\Ntrasaddham kaemvi svaha!
+Dialogue: 0,0:17:19.31,0:17:21.23,Gen_Main,Myaley,0,0,0,,Ya no está, miau.
+Comment: 0,0:17:21.31,0:17:22.35,Gen_Main,Grupo,0,0,0,,Oh…
+Dialogue: 0,0:17:22.44,0:17:24.80,Gen_Main,Nyamena/Kenichi,0,0,0,,-Desapareció.\N{\i1}-¿De verdad?
+Dialogue: 0,0:17:24.90,0:17:26.11,Gen_Main,Anemone,0,0,0,,¡Impresionante!
+Dialogue: 0,0:17:26.19,0:17:29.37,Gen_Italics,Kenichi,0,0,0,,No, no tuvo nada de impresionante.
+Dialogue: 0,0:17:29.44,0:17:31.41,Gen_Main,Lilith,0,0,0,,Siguiente parada, Kenichi.
+Dialogue: 0,0:17:31.49,0:17:32.99,Gen_Main,Doncellas,0,0,0,,¡Princesa!
+Dialogue: 0,0:17:33.91,0:17:34.91,Gen_Main,Kenichi,0,0,0,,¿Dónde estamos?
+Dialogue: 0,0:17:34.99,0:17:36.74,Gen_Main,Lilith,0,0,0,,En los aposentos de las sirvientas.
+Dialogue: 0,0:17:37.37,0:17:39.61,Gen_Main,Kenichi,0,0,0,,¿Soy yo o aquí huele bien?
+Dialogue: 0,0:17:44.17,0:17:45.50,Gen_Main,Kenichi,0,0,0,,Bueno, manos a la obra.
+Dialogue: 0,0:17:46.75,0:17:47.75,Gen_Main,Kenichi,0,0,0,,¿Ahí?
+Dialogue: 0,0:17:47.84,0:17:49.37,Gen_Main,Kenichi,0,0,0,,¡Lárguense, espíritus malignos!
+Comment: 0,0:17:50.47,0:17:51.22,Gen_Main,Kenichi,0,0,0,,¿Eh?
+Dialogue: 0,0:17:51.30,0:17:52.76,Gen_Main,Kenichi,0,0,0,,¿Se trasladó ahí?
+Dialogue: 0,0:17:52.84,0:17:54.58,Gen_Main,Kenichi,0,0,0,,¡Lárguense, espíritus malignos!
+Dialogue: 0,0:17:55.47,0:17:59.21,Gen_Main,Nyamena,0,0,0,,Ay, qué bien huele.
+Dialogue: 0,0:17:59.31,0:18:01.30,Gen_Main,Kenichi,0,0,0,,Te dejaré beber cuando acabemos.
+Dialogue: 0,0:18:01.39,0:18:03.90,Gen_Main,Kenichi,0,0,0,,Por cierto, ¿cómo van?\N¿Sienten algo?
+Dialogue: 0,0:18:03.98,0:18:06.15,Gen_Main,Myaley,0,0,0,,Ya desapareció, miau.
+Dialogue: 0,0:18:06.23,0:18:08.73,Gen_Main,Doncella,0,0,0,,Siento cómo mi presión desaparece.
+Dialogue: 0,0:18:08.82,0:18:10.65,Gen_Main,Doncella,0,0,0,,Ya no siento como si me observaran.
+Dialogue: 0,0:18:10.74,0:18:13.89,Gen_Italics,Kenichi,0,0,0,,¿Habrá tenido efecto placebo?
+Dialogue: 0,0:18:14.45,0:18:16.73,Gen_Main,Lilith,0,0,0,,¡Vamos, Kenichi! ¡Vamos al siguiente!
+Dialogue: 0,0:18:16.83,0:18:18.16,Gen_Main,Kenichi,0,0,0,,¡Un momento!
+Dialogue: 0,0:18:23.12,0:18:25.26,Gen_Main,Lilith,0,0,0,,El último lugar es\Nel cuarto de mi madre.
+Dialogue: 0,0:18:26.04,0:18:27.29,Gen_Main,Kenichi,0,0,0,,¿El de la reina?
+Dialogue: 0,0:18:27.38,0:18:30.55,Gen_Main,Kenichi,0,0,0,,¿Seguro que podemos entrar aquí?
+Dialogue: 0,0:18:30.63,0:18:32.83,Gen_Main,Lilith,0,0,0,,Yo los acompaño,\Nasí que no hay problema.
+Dialogue: 0,0:18:32.92,0:18:36.05,Gen_Main,Lilith,0,0,0,,Últimamente,\Nmi madre no descansa bien.
+Dialogue: 0,0:18:36.14,0:18:39.04,Gen_Main,Lilith,0,0,0,,Parece que tiene pesadillas.
+Dialogue: 0,0:18:43.56,0:18:44.56,Gen_Main,Kenichi,0,0,0,,¿El jarrón?
+Dialogue: 0,0:18:46.10,0:18:47.26,Gen_Italics,Kenichi,0,0,0,,Con permiso.
+Dialogue: 0,0:18:54.40,0:18:56.58,Gen_Italics,Kenichi,0,0,0,,Vel no le quita el ojo de encima.
+Dialogue: 0,0:18:56.66,0:18:58.88,Gen_Italics,Kenichi,0,0,0,,¿El agua bendita no le hizo efecto?
+Dialogue: 0,0:18:59.41,0:19:02.50,Gen_Main,Kenichi,0,0,0,,Lady Lilith, parece\Nque este jarrón es el problema.
+Dialogue: 0,0:19:02.58,0:19:07.83,Gen_Main,Kenichi,0,0,0,,¿Podría decirle a la reina que lo cambie\Nde lugar o que se deshaga de él?
+Dialogue: 0,0:19:07.92,0:19:09.34,Gen_Main,Lilith,0,0,0,,De acuerdo.
+Dialogue: 0,0:19:10.00,0:19:12.43,Gen_Italics,Kenichi,0,0,0,,Dijo que nos daría otra recompensa…
+Dialogue: 0,0:19:12.51,0:19:15.84,Gen_Main,Lilith,0,0,0,,Tenemos unos cuantos libros de magia.
+Dialogue: 0,0:19:15.93,0:19:19.72,Gen_Italics,Kenichi,0,0,0,,Nos dio permiso para ver\Nsus libros de magia.
+Dialogue: 0,0:19:19.80,0:19:22.00,Gen_Main,Lilith,0,0,0,,Escuchen. Limítense a leerlos.
+Dialogue: 0,0:19:22.10,0:19:23.75,Gen_Main,Lilith,0,0,0,,Les prohíbo sacarlos de aquí.
+Dialogue: 0,0:19:23.85,0:19:25.10,Gen_Main,Kenichi,0,0,0,,Entendido.
+Dialogue: 0,0:19:26.98,0:19:29.81,Gen_Main,Kenichi,0,0,0,,"Fundamentos de creación\Nde gólems y sus usos".
+Dialogue: 0,0:19:29.90,0:19:30.98,Gen_Main,Kenichi,0,0,0,,A ver…
+Dialogue: 0,0:19:31.07,0:19:35.11,Gen_Main,Kenichi,0,0,0,,Para crear un gólem\Nse necesita un núcleo…
+Dialogue: 0,0:19:35.20,0:19:38.99,Gen_Main,Anemone,0,0,0,,"Historia y usos prácticos\Nde magia de invocación".
+Dialogue: 0,0:19:39.07,0:19:42.34,Gen_Main,Kenichi,0,0,0,,"Encantamientos: Volumen de\Nfundamentos, Volumen de aplicaciones
+Dialogue: 0,0:19:42.41,0:19:45.00,Gen_Main,Kenichi,0,0,0,,y Volumen de usos prácticos".
+Dialogue: 0,0:19:45.08,0:19:47.12,Gen_Main,Anemone,0,0,0,,"Defectos de la magia prohibida".
+Dialogue: 0,0:19:47.54,0:19:49.13,Gen_Main,Anemone,0,0,0,,¿Qué haremos con ellos?
+Dialogue: 0,0:19:49.21,0:19:50.67,Gen_Main,Kenichi,0,0,0,,Los copiaremos.
+Dialogue: 0,0:19:51.00,0:19:52.50,Cart_A_Tre,CARTEL,0,0,0,,{\bord1\3c&H202428&\pos(320,209)}Escáner de documentos: 19 800 yenes {\fs12}(IVA incluido)\N{\fs20}Laptop Fujithree: 134 300 yenes {\fs12}(IVA incluido)\N{\fs20}Batería portátil de alta capacidad: 28 980 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:19:54.55,0:19:56.01,Gen_Main,Anemone,0,0,0,,¡Vaya!
+Dialogue: 0,0:19:56.09,0:19:59.02,Gen_Main,Anemone,0,0,0,,Pero esto está mal, ¿verdad?
+Dialogue: 0,0:19:59.09,0:20:04.89,Gen_Main,Kenichi,0,0,0,,Anemone, piensa en todos los líos\Nen los que nos metió la princesa.
+Dialogue: 0,0:20:06.31,0:20:07.65,Gen_Main,Anemone,0,0,0,,Cierto. Hagámoslo.
+Dialogue: 0,0:20:09.15,0:20:11.73,Gen_Main,Kenichi,0,0,0,,35 libros en cuatro horas y media.
+Dialogue: 0,0:20:11.81,0:20:14.65,Gen_Main,Kenichi/Anemone,0,0,0,,-En fin, deberíamos volver ya.\N-De acuerdo.
+Dialogue: 0,0:20:16.11,0:20:17.79,Gen_Main,Anemone,0,0,0,,La princesa no vino a vernos.
+Dialogue: 0,0:20:17.86,0:20:18.86,Gen_Main,Kenichi,0,0,0,,Cierto.
+Dialogue: 0,0:20:20.16,0:20:22.14,Gen_Main,Kenichi,0,0,0,,¿Estuviste ahí todo este tiempo?
+Dialogue: 0,0:20:22.24,0:20:23.41,Gen_Main,Doncella,0,0,0,,Era mi deber.
+Dialogue: 0,0:20:23.49,0:20:25.71,Gen_Main,Kenichi,0,0,0,,Quedé impresionado…
+Dialogue: 0,0:20:26.83,0:20:30.04,Gen_Main,Doncella,0,0,0,,Hay tantos libros valiosos\Nque no se les podría poner precio.
+Dialogue: 0,0:20:30.12,0:20:32.77,Gen_Main,Doncella,0,0,0,,Algunos están mal colocados,
+Dialogue: 0,0:20:32.84,0:20:34.67,Gen_Main,Doncella,0,0,0,,pero ya lo solucionaré luego.
+Dialogue: 0,0:20:34.75,0:20:38.17,Gen_Italics,Kenichi,0,0,0,,No le puedo decir\Nque les hicimos copias.
+Dialogue: 0,0:20:47.77,0:20:48.91,Gen_Main,Doncella,0,0,0,,Por aquí.
+Dialogue: 0,0:20:51.15,0:20:52.69,Gen_Main,Lilith,0,0,0,,Al fin viniste, Kenichi.
+Dialogue: 0,0:20:52.77,0:20:54.07,Gen_Main,Kenichi,0,0,0,,¿Me llamaba?
+Dialogue: 0,0:20:55.53,0:20:59.57,Gen_Main,Lilith,0,0,0,,Tu tipo son las mujeres\Ncomo Mailen, ¿verdad?
+Dialogue: 0,0:20:59.65,0:21:01.83,Gen_Main,Kenichi,0,0,0,,Así es, veo que está bien informada.
+Dialogue: 0,0:21:01.91,0:21:05.08,Gen_Main,Kenichi,0,0,0,,Admito que es mi tipo.\N¿Por qué lo pregunta?
+Dialogue: 0,0:21:05.16,0:21:06.21,Gen_Main,Lilith,0,0,0,,Es tu recompensa.
+Dialogue: 0,0:21:06.29,0:21:09.08,Gen_Main,Lilith,0,0,0,,Puedes hacer lo que quieras con ella.
+Dialogue: 0,0:21:09.16,0:21:11.60,Gen_Main,Kenichi,0,0,0,,Ya tengo esposa.
+Dialogue: 0,0:21:11.67,0:21:14.08,Gen_Main,Lilith,0,0,0,,¿Y qué? Le eres muy sincero.
+Dialogue: 0,0:21:14.17,0:21:18.84,Gen_Main,Lilith,0,0,0,,Sé que algunos nobles usan\Nartículos mágicos con sus parejas.
+Dialogue: 0,0:21:18.92,0:21:24.61,Gen_Main,Lilith,0,0,0,,¿Me estás diciendo que no tienes\Nnada así en tu caja de objetos?
+Dialogue: 0,0:21:24.68,0:21:26.02,Gen_Main,Kenichi,0,0,0,,¿A ti te parece bien esto?
+Dialogue: 0,0:21:26.68,0:21:27.97,Gen_Main,Mailen,0,0,0,,Esto…
+Dialogue: 0,0:21:33.02,0:21:35.98,Gen_Main,Mailen,0,0,0,,Sé amable conmigo, por favor.
+Dialogue: 0,0:21:41.20,0:21:42.56,Gen_Main,Mailen,0,0,0,,¡Princesa!
+Dialogue: 0,0:21:42.66,0:21:43.99,Gen_Main,Mailen,0,0,0,,¡No mire!
+Dialogue: 0,0:21:45.49,0:21:49.00,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,400)\bord1\3c&H202428&\pos(320,295)}Conjunto de sirvienta sexy: 1498 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:21:52.21,0:21:53.39,Gen_Italics,Kenichi,0,0,0,,Y entonces…
+Dialogue: 0,0:22:00.59,0:22:02.61,Gen_Italics,Kenichi,0,0,0,,al fin llegó el día de la audiencia.
+Dialogue: 0,0:23:31.26,0:23:35.02,Cart_A_Tre,CARTEL,0,0,0,,{\fs15\bord1\blur1}Traducción: José María Pérez y Gekokujou\NEdición: José María Pérez\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:35.02,0:23:40.06,Cart_A_Tre,CARTEL,0,0,0,,{\an7\q2\fs24\bord1\blur0.3\pos(140,130)}Episodio 13\h\h\h\h\h\h\h\h\h\h\h\h\hA Sa-Kura…

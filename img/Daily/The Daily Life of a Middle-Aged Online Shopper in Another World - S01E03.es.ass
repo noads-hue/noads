@@ -1,0 +1,412 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00F8F9F5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0030,0030,0010,0
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.99,0:00:09.99,Gen_Main,Mallow,0000,0000,0000,,Veamos.
+Dialogue: 0,0:00:15.45,0:00:17.68,Gen_Main,Mallow,0000,0000,0000,,¿Esto es azúcar?
+Dialogue: 0,0:00:18.65,0:00:21.62,Gen_Italics,Kenichi,0000,0000,0000,,Qué poca respuesta…
+Dialogue: 0,0:00:21.71,0:00:24.63,Gen_Main,Mallow,0000,0000,0000,,El azúcar y la sal son bienes valiosos,
+Dialogue: 0,0:00:24.71,0:00:28.51,Gen_Main,Mallow,0000,0000,0000,,pero el Estado tiene el monopolio,\Nasí que no podemos comprártelos.
+Dialogue: 0,0:00:28.59,0:00:30.26,Gen_Italics,Kenichi,0000,0000,0000,,¿No pueden comprármelos?
+Dialogue: 0,0:00:30.26,0:00:34.22,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Urna funeraria: 11 000 yenes {\fs12}(IVA incluido)\N{\fs20}Azúcar (1 kg): 352 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:00:30.84,0:00:35.01,Gen_Italics_top,Kenichi,0000,0000,0000,,Creía que les vendrían genial\Ny me darían muchos beneficios.
+Dialogue: 0,0:00:35.10,0:00:38.79,Gen_Main,Mallow,0000,0000,0000,,Por cierto, el camafeo es un éxito\Nentre la nobleza.
+Dialogue: 0,0:00:38.89,0:00:41.52,Gen_Main,Kenichi,0000,0000,0000,,Bien. Les enseñaré más.
+Dialogue: 0,0:00:45.78,0:00:47.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.5\blur0.3\fs30\c&H0E2B23&\3c&HCCDCDF&\pos(310,52)}Tasación
+Dialogue: 0,0:00:45.78,0:00:47.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\fs16\c&H0E2B23&\3c&HCCDCDF&\pos(310,128)}Monedas de oro
+Dialogue: 0,0:00:45.78,0:00:47.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.5\blur0.3\fs16\c&H0E2B23&\3c&HCCDCDF&\pos(206,166)}Detalles
+Dialogue: 0,0:00:45.78,0:00:47.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\c&H0E2B23&\3c&HE0EAEC&\pos(264,245)}Monedas de oro x 15
+Dialogue: 0,0:00:45.78,0:00:47.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\c&H0E2B23&\3c&HCCDCDF&\pos(485,310)}yenes
+Dialogue: 0,0:00:47.36,0:00:52.57,Gen_Italics,Primula,0000,0000,0000,,Los comerciantes vuelven a pasar hoy\Npor la alta puerta principal de Dahlia.
+Dialogue: 0,0:00:52.66,0:00:57.12,Gen_Italics,Primula,0000,0000,0000,,La costumbre es que esos comerciantes\Nmantengan la vista al frente.
+Dialogue: 0,0:00:57.20,0:01:00.75,Gen_Italics,Primula,0000,0000,0000,,Sin embargo, uno de esos comerciantes\Nvende productos increíbles.
+Dialogue: 0,0:01:00.83,0:01:04.19,Gen_Italics,Primula,0000,0000,0000,,Kenichi, ¿de dónde saliste?
+Dialogue: 0,0:01:09.47,0:01:16.60,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord0\blur4\t(20,400,\blur0.3)\c&H5F1705&\pos(320,260)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:02:35.01,0:02:38.51,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,0)\an7\fs22\blur0.4\3c&H312E30&\c&HFDFEFD&\pos(302,272)}Episodio 3\h\h\h\h\h\hUna casa pequeña\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hen un bosque grande
+Dialogue: 0,0:02:35.84,0:02:40.07,Gen_Italics_top,Kenichi,0000,0000,0000,,Mis tratos con Mallow\Nme dieron 15 monedas de oro.
+Dialogue: 0,0:02:38.51,0:02:40.56,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\bord1.2\blur0.3\fs16\c&H434540&\3c&HCAC5BE&\pos(312,95)}Cargo completado
+Dialogue: 0,0:02:38.51,0:02:40.56,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\bord1.2\blur0.3\fs16\c&H2C2D2C&\3c&HCAC5BE&\pos(433,200)}yenes
+Dialogue: 0,0:02:40.51,0:02:42.78,Gen_Italics,Kenichi,0000,0000,0000,,Ahora puedo comprar\Nla cabaña de madera.
+Dialogue: 0,0:02:42.47,0:02:43.77,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\an7\bord1.2\blur0.3\fs24\c&H424540&\3c&HD7D8CA&\pos(169,84)}Shangri-La
+Dialogue: 0,0:02:42.47,0:02:43.77,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\an1\bord0\blur0.3\fs8\pos(319,157)\c&H474A47&}Cabaña de madera\N(Kit prefabricado)
+Dialogue: 0,0:02:42.47,0:02:43.77,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\an1\bord0\blur0.3\fs8\c&H474A47&\pos(360,181)}yenes
+Dialogue: 0,0:02:43.85,0:02:48.52,Gen_Main,Kenichi,0000,0000,0000,,Una cabaña tan impresionante\Npor solo 1 700 000 yenes es una ganga.
+Dialogue: 0,0:02:51.94,0:02:53.99,Gen_Main_Up,Kenichi,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:02:52.28,0:02:55.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Cabaña de madera: 1 700 000 yenes{\fs12}(IVA incluido)
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord0\fs22\fax0.04\blur0.3\an1\c&H040605&\move(285,60,252,60,0,2700)\frz15\frx6}Cabaña de madera
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\fs17\bord0\fax0.04\blur0.3\an1\c&H040605&\frz15\frx6\move(440,45,407,45,0,2700)}(Kit prefabricado)
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord0\fs22\fax0.04\blur0.3\an1\c&H040605&\frz15\frx6\move(469,101,436,101,0,2700)}yenes
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\fs18\bord0\fax0.04\blur0.3\an1\c&H040605&\frx6\move(329,168,296,168,0,2700)\frz16}Kit prefabricado de cabaña de madera
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord0\fs13\fax0.04\blur0.3\an1\c&H040605&\frx6\move(468,177,435,177,0,2700)\frz16}Manual incluido\N(Es necesario descargarlo)
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\fs15\bord0\fax0.04\blur0.3\an1\c&H040605&\frz16\frx6\move(505,226,472,226,0,2700)}Constrúyala usted mismo
+Dialogue: 0,0:02:55.03,0:02:58.24,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord0\fax0.04\blur0.3\an1\c&H040605&\frz16\frx6\move(421,281,388,281,0,2700)}Herramientas
+Dialogue: 0,0:02:55.36,0:02:57.26,Gen_Main,Kenichi,0000,0000,0000,,¿"Constrúyala usted mismo"?
+Dialogue: 0,0:02:58.07,0:02:59.22,Gen_Main,Kenichi,0000,0000,0000,,¡Que la construya yo!
+Dialogue: 0,0:02:58.32,0:02:59.53,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(230,230)\bord0\blur0.3\an1\c&H040605&\pos(426,72)}Manual incluido\N(Es necesario descargarlo)
+Dialogue: 0,0:02:58.32,0:02:59.53,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(230,230)\bord0\fs40\blur0.3\an1\c&H040605&\pos(204,310)}Constrúyala usted mismo\NHerramientas
+Dialogue: 0,0:02:59.28,0:03:01.04,Gen_Main,Kenichi,0000,0000,0000,,¿Que la construya yo?
+Dialogue: 0,0:03:01.62,0:03:04.96,Gen_Italics,Kenichi,0000,0000,0000,,Así es. La cabaña venía\Nen un kit prefabricado.
+Dialogue: 0,0:03:05.04,0:03:07.20,Gen_Italics,Kenichi,0000,0000,0000,,Eso explica que fuera tan barata.
+Dialogue: 0,0:03:07.63,0:03:09.99,Gen_Italics,Kenichi,0000,0000,0000,,Aun así, ¿qué hago con esto?
+Dialogue: 0,0:03:14.05,0:03:18.40,Gen_Italics,Kenichi,0000,0000,0000,,Ya veo. Está diseñada para que\Nla construya juntando los tablones.
+Dialogue: 0,0:03:18.47,0:03:21.39,Gen_Italics,Kenichi,0000,0000,0000,,¿Y no tiene soportes grandes\Nni vigas para el techo?
+Dialogue: 0,0:03:25.14,0:03:27.56,Gen_Italics,Kenichi,0000,0000,0000,,Bueno, ya la compré.
+Dialogue: 0,0:03:28.40,0:03:31.40,Gen_Italics,Kenichi,0000,0000,0000,,Me puse manos a la obra\Na construir la cabaña.
+Dialogue: 0,0:03:37.61,0:03:41.52,Gen_Italics,Kenichi,0000,0000,0000,,Además, algunos hombres bestia\Nque habían salido de caza
+Dialogue: 0,0:03:41.62,0:03:45.87,Gen_Italics,Kenichi,0000,0000,0000,,dijeron que me ayudarían como\Nagradecimiento por haberlos ayudado.
+Dialogue: 0,0:03:45.96,0:03:47.92,Gen_Italics,Kenichi,0000,0000,0000,,La amabilidad da sus frutos.
+Dialogue: 0,0:03:48.67,0:03:52.22,Gen_Italics,Kenichi,0000,0000,0000,,Pasaron varias semanas y seguí\Ncon mi puesto abierto en el mercado.
+Dialogue: 0,0:03:53.30,0:03:55.30,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(258,250)}Parrilla: 2528 yenes {\fs12}(IVA incluido)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\N{\fs20}Paquete de carne de barbacoa (10 kg): 80 600 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:53.38,0:03:55.30,Gen_Main_Up,Hombres bestia,0000,0000,0000,,¡Salud!
+Dialogue: 0,0:03:56.55,0:04:00.76,Gen_Italics_top,Kenichi,0000,0000,0000,,Al final, en poco menos de un mes…
+Dialogue: 0,0:03:59.55,0:04:01.30,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Tienda de campaña individual: 25 980 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:01.68,0:04:03.31,Gen_Italics,Kenichi,0000,0000,0000,,logramos…
+Dialogue: 0,0:04:04.27,0:04:06.93,Gen_Main_Up,Hombres bestia,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:04:05.18,0:04:06.93,Gen_Italics,Kenichi,0000,0000,0000,,construir la cabaña.
+Dialogue: 0,0:04:07.89,0:04:09.82,Gen_Italics,Kenichi,0000,0000,0000,,Se lo debo a los hombres bestia.
+Dialogue: 0,0:04:16.53,0:04:18.82,Gen_Main,Kenichi,0000,0000,0000,,Vaya, qué blandita.
+Dialogue: 0,0:04:18.82,0:04:20.82,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Somier de láminas de madera: 15 172 yenes {\fs12}(IVA incluido)\N{\fs18}Colchón: 7999 yenes {\fs12}(IVA incluido)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\fs18}Juego de sábanas: 5999 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:20.91,0:04:23.37,Gen_Main,Kenichi,0000,0000,0000,,¿Qué voy a hacer con la electricidad?
+Dialogue: 0,0:04:23.45,0:04:26.20,Gen_Main,Kenichi,0000,0000,0000,,Además, tengo que pintar\Nlas paredes y el tejado.
+Dialogue: 0,0:04:26.29,0:04:28.95,Gen_Italics,Kenichi,0000,0000,0000,,Todavía me quedaba\Nun montón de cosas por hacer.
+Dialogue: 0,0:04:29.04,0:04:33.21,Gen_Italics,Kenichi,0000,0000,0000,,Tardé otro mes más o menos\Nen hacerlo todo.
+Dialogue: 0,0:04:33.21,0:04:35.71,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Tratamiento para la madera (2,5 l): 2598 yenes {\fs12}(IVA incluido)\N{\fs20}Semillas de caléndula: 3098 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:33.29,0:04:35.71,Gen_Italics_top,Kenichi,0000,0000,0000,,Traté la madera e hice una valla.
+Dialogue: 0,0:04:35.71,0:04:37.72,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Aseo portátil (de estilo occidental): 239 780 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:35.80,0:04:38.72,Gen_Italics_top,Kenichi,0000,0000,0000,,Construí el aseo para reciclar\Nlos residuos como abono.
+Dialogue: 0,0:04:38.72,0:04:40.72,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Fregadero: 32 980 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:38.80,0:04:40.99,Gen_Italics_top,Kenichi,0000,0000,0000,,Le puse un fregadero y una cocina.
+Dialogue: 0,0:04:40.72,0:04:44.47,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Conjunto de paneles solares: 219 800 yenes {\fs12}(IVA incluido)\N{\fs20}Baterías multifunción (3): 135 000 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:41.09,0:04:44.47,Gen_Italics_top,Kenichi,0000,0000,0000,,Puse 20 paneles solares\Npara la electricidad.
+Dialogue: 0,0:04:44.97,0:04:46.14,Gen_Italics,Kenichi,0000,0000,0000,,Y después…
+Dialogue: 0,0:04:46.85,0:04:50.10,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Encendedor: 549 yenes {\fs12}(IVA incluido)\N{\fs20}Set de bidón de baño: 25 500 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:46.93,0:04:50.10,Gen_Main_Up,Kenichi,0000,0000,0000,,Esto es el paraíso.
+Dialogue: 0,0:04:50.64,0:04:52.47,Gen_Main,Kenichi,0000,0000,0000,,Qué buen baño.
+Dialogue: 0,0:04:52.56,0:04:55.13,Gen_Italics,Kenichi,0000,0000,0000,,Por cierto, para llenar la bañera,
+Dialogue: 0,0:04:55.23,0:04:58.01,Gen_Italics_top,Kenichi,0000,0000,0000,,usé los bidones de gasolina\Npara llevar el agua del río.
+Dialogue: 0,0:04:55.40,0:04:57.36,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\bord1\3c&H202428&\pos(320,295)}Botes de gasolina azules (20 l x 10): 10 970 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:58.49,0:05:02.65,Gen_Italics,Kenichi,0000,0000,0000,,Mi primer baño en este mundo.\NY en medio del bosque.
+Dialogue: 0,0:05:02.74,0:05:04.84,Gen_Italics,Kenichi,0000,0000,0000,,Esto sí que es una vida tranquila.
+Dialogue: 0,0:05:04.91,0:05:07.93,Gen_Italics,Kenichi,0000,0000,0000,,No es fácil imitar esto.
+Dialogue: 0,0:05:09.00,0:05:11.51,Gen_Italics,Kenichi,0000,0000,0000,,Al fin había comenzado\Nmi vida tranquila
+Dialogue: 0,0:05:11.62,0:05:14.64,Gen_Italics,Kenichi,0000,0000,0000,,en otro mundo\Ncomo dueño de mis propias tierras.
+Dialogue: 0,0:05:15.96,0:05:17.76,Gen_Main,Azalea,0000,0000,0000,,¿En el bosque?
+Dialogue: 0,0:05:17.84,0:05:20.51,Gen_Main,Azalea,0000,0000,0000,,¿Te construiste un lugar para vivir?
+Dialogue: 0,0:05:20.59,0:05:25.51,Gen_Main,Kenichi,0000,0000,0000,,Sí. Gracias por haber cuidado de mí\Naunque fuera por poco tiempo.
+Dialogue: 0,0:05:26.60,0:05:29.57,Gen_Main,Azalea,0000,0000,0000,,Yo soy quien debería darte las gracias.
+Dialogue: 0,0:05:37.73,0:05:38.73,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:05:47.53,0:05:49.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Cámara réflex digital de lente única: 422 470 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:06:00.76,0:06:01.79,Gen_Main,Kenichi,0000,0000,0000,,¿Qué sucedió?
+Dialogue: 0,0:06:06.64,0:06:08.48,Gen_Main,Hombre perro 1,0000,0000,0000,,¿En qué tipo de vehículo va?
+Dialogue: 0,0:06:08.56,0:06:12.25,Gen_Main,Hombre perro 2,0000,0000,0000,,¿No es el que vive\Ndesde hace poco en el bosque?
+Dialogue: 0,0:06:12.35,0:06:14.81,Gen_Italics,Kenichi,0000,0000,0000,,-¿Son hombres bestia?\N{\i0}-¡Qué fastidio!
+Dialogue: 0,0:06:15.30,0:06:16.30,Gen_Main,Kenichi,0000,0000,0000,,¡Cuidado!
+Dialogue: 0,0:06:17.56,0:06:19.75,Gen_Main,Hombre perro 2,0000,0000,0000,,Ya que estamos, deberíamos matarlo.
+Dialogue: 0,0:06:19.82,0:06:21.57,Gen_Main,Hombre perro 1,0000,0000,0000,,Buena idea.
+Dialogue: 0,0:06:21.57,0:06:23.07,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\blur0.3\fs18\fax-0.1\an7\3c&HB3B9B6&\c&H1A1A0F&\frz320\pos(360,-5)}Solución salina
+Dialogue: 0,0:06:21.57,0:06:23.07,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\blur0.3\fs18\fax-0.1\an7\3c&HB3B9B6&\c&H1A1A0F&\frz320\pos(327,26)}Encendedor de petardos
+Dialogue: 0,0:06:21.57,0:06:23.07,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\blur0.3\fs18\fax-0.1\an7\3c&HB3B9B6&\c&H1A1A0F&\frz320\pos(292,58)}Resortera
+Dialogue: 0,0:06:21.57,0:06:23.53,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\bord1.1\blur0.3\fax-0.1\3c&HCFC8C2&\c&H140C03&\frz320\pos(459,34)}Caja de objetos
+Dialogue: 0,0:06:21.65,0:06:23.54,Gen_Italics,Kenichi,0000,0000,0000,,Ya veo…
+Dialogue: 0,0:06:23.61,0:06:26.32,Gen_Italics,Kenichi,0000,0000,0000,,¡Conque esas tenemos en este mundo!
+Dialogue: 0,0:06:28.70,0:06:29.83,Gen_Main,Hombres perros,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:06:35.79,0:06:36.87,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:06:48.47,0:06:50.38,Gen_Main,Kenichi,0000,0000,0000,,¿Qué pretenderían?
+Dialogue: 0,0:06:54.64,0:06:55.98,Gen_Main,Kenichi,0000,0000,0000,,¡¿Un leopardo?!
+Dialogue: 0,0:06:56.60,0:07:00.06,Gen_Main,Kenichi,0000,0000,0000,,No, visto de cerca… ¿Es un gato?
+Dialogue: 0,0:07:00.15,0:07:01.98,Gen_Main,Kenichi,0000,0000,0000,,Parce que sigue vivo.
+Dialogue: 0,0:07:06.70,0:07:08.48,Gen_Main,Kenichi,0000,0000,0000,,Seguro que lo lastimaron ellos.
+Dialogue: 0,0:07:09.03,0:07:10.99,Gen_Main,Kenichi,0000,0000,0000,,Me encantaría ayudarlo, pero…
+Dialogue: 0,0:07:10.99,0:07:15.12,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Cojín para el suelo: 550 yenes {\fs12}(IVA incluido)\N{\fs20}Protector de cuello para andar en bici: 3 832 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:11.58,0:07:15.12,Gen_Main_Up,Kenichi,0000,0000,0000,,Esto me protegerá contra sus mordiscos.
+Dialogue: 0,0:07:19.84,0:07:21.17,Gen_Italics,Kenichi,0000,0000,0000,,¿No se está resistiendo?
+Dialogue: 0,0:07:21.67,0:07:23.63,Gen_Italics,Kenichi,0000,0000,0000,,¿Se habrá quedado sin fuerza?
+Dialogue: 0,0:07:24.13,0:07:24.88,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2l\fs9\blur0.3\pos(250,137)\frz20\c&H4C4B47&\frx12\fry8}Suero fisiológico
+Dialogue: 0,0:07:24.88,0:07:32.68,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\bord1\3c&H202428&\pos(320,250)}Suero fisiológico (225 ml): 306 yenes {\fs12}(IVA incluido)\N{\fs20}Alcohol antibiótico (100 ml): 692 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:24.97,0:07:28.21,Gen_Italics_top,Kenichi,0000,0000,0000,,De momento le limpiaré la herida\Ncon suero fisiológico.
+Dialogue: 0,0:07:28.30,0:07:29.35,Gen_Main_Up,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:07:29.43,0:07:32.68,Gen_Italics_top,Kenichi,0000,0000,0000,,Ahora se la desinfectaré\Ncon gasas con alcohol.
+Dialogue: 0,0:07:32.76,0:07:35.77,Gen_Italics,Kenichi,0000,0000,0000,,Y ahora… ¿Antibióticos?\N¿Esto servirá?
+Dialogue: 0,0:07:35.77,0:07:38.52,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Pomada antibiótica (12 g): 425 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:38.52,0:07:41.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Analgésicos antiinflamatorios: 1261 yenes {\fs12}(IVA incluido)\N{\fs20}Aplicador de medicamentos para mascotas: 599 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:38.60,0:07:40.70,Gen_Italics_top,Kenichi,0000,0000,0000,,También le daré analgésicos.
+Dialogue: 0,0:07:41.40,0:07:44.15,Gen_Italics,Kenichi,0000,0000,0000,,¿Con esto bastará? ¿Saldrá de esta?
+Dialogue: 0,0:07:44.90,0:07:48.38,Gen_Italics,Kenichi,0000,0000,0000,,No tengo ni idea,\Npero no puedo abandonarlo aquí.
+Dialogue: 0,0:07:48.45,0:07:49.45,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:07:50.16,0:07:53.91,Gen_Italics,Kenichi,0000,0000,0000,,Como suponía, no puedo guardar\Nun ser vivo en la caja de objetos.
+Dialogue: 0,0:07:53.91,0:07:56.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Carrito: 9000 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:55.54,0:07:58.42,Gen_Italics_top,Kenichi,0000,0000,0000,,Al final me lo traje a casa,
+Dialogue: 0,0:07:58.42,0:08:03.42,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Manta para mascotas: 2099 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:59.50,0:08:01.43,Gen_Italics_top,Kenichi,0000,0000,0000,,pero no se mueve.
+Dialogue: 0,0:08:01.50,0:08:03.42,Gen_Italics_top,Kenichi,0000,0000,0000,,¿Será este su fin?
+Dialogue: 0,0:08:03.88,0:08:06.40,Gen_Italics,Kenichi,0000,0000,0000,,No he visto ningún veterinario\Nen este mundo.
+Dialogue: 0,0:08:07.13,0:08:10.55,Gen_Italics,Kenichi,0000,0000,0000,,¿Existirá algo parecido\Na la magia de curación?
+Dialogue: 0,0:08:10.64,0:08:12.72,Gen_Main,Anciano,0000,0000,0000,,¿Quieres curarlo?
+Dialogue: 0,0:08:12.89,0:08:14.06,Gen_Main,Anciano,0000,0000,0000,,¿A un animal?
+Dialogue: 0,0:08:14.22,0:08:15.97,Gen_Main,Anciano,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:08:16.14,0:08:18.94,Gen_Main,Anciano,0000,0000,0000,,Es un gato montés.\NBuen trabajo encontrando uno.
+Dialogue: 0,0:08:19.10,0:08:21.40,Gen_Main,Anciano,0000,0000,0000,,Su piel vale mucho dinero.
+Dialogue: 0,0:08:22.52,0:08:24.95,Gen_Main,Anama,0000,0000,0000,,No puedo creer\Nque hayas rescatado a un animal.
+Dialogue: 0,0:08:25.03,0:08:27.57,Gen_Main,Myaley,0000,0000,0000,,-¡Kenichi!\N-Mira que eres extravagante…
+Dialogue: 0,0:08:29.78,0:08:33.03,Gen_Main,Myaley,0000,0000,0000,,Mi pueblo cree que los gatos monteses\Nson emisarios de los dioses.
+Dialogue: 0,0:08:33.58,0:08:35.69,Gen_Main,Myaley,0000,0000,0000,,Quiero verlo, miau.
+Dialogue: 0,0:08:37.87,0:08:39.83,Gen_Main,Myaley,0000,0000,0000,,Deben haber sido los hombres perro.
+Dialogue: 0,0:08:39.92,0:08:41.42,Gen_Main_Up,Myaley,0000,0000,0000,,No se lo perdonaré.
+Dialogue: 0,0:08:40.42,0:08:41.42,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,205}Arenero: 2549 yenes {\fs12}(IVA incluido)\N{\fs20}Tazón para mascotas: 1536 yenes {\fs12}(IVA incluido)\N{\fs20}Comida para gatos: 1082 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:08:41.50,0:08:43.79,Gen_Main,Kenichi,0000,0000,0000,,Parece que comió un poco.
+Dialogue: 0,0:08:45.46,0:08:46.79,Gen_Main,Kenichi,0000,0000,0000,,No te lamas.
+Dialogue: 0,0:08:47.67,0:08:50.68,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Collar isabelino: 1690 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:08:47.76,0:08:50.68,Gen_Main_Up,Kenichi,0000,0000,0000,,Espero que entiendas\Nque esto es por tu bien.
+Dialogue: 0,0:08:50.76,0:08:52.53,Gen_Main,Myaley,0000,0000,0000,,¿Eres médico, miau?
+Dialogue: 0,0:08:52.59,0:08:55.28,Gen_Main,Kenichi,0000,0000,0000,,No, pero sé algo de primeros auxilios.
+Dialogue: 0,0:08:55.35,0:08:57.83,Gen_Main,Myaley,0000,0000,0000,,Me alegra que seas\Ntan buena gente, miau.
+Dialogue: 0,0:08:57.93,0:08:59.74,Gen_Main,Myaley,0000,0000,0000,,Yo te lo agradeceré en su lugar.
+Dialogue: 0,0:09:11.20,0:09:12.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,205}Pinchos (50): 155 yenes {\fs12}(IVA incluido)\N{\fs20}Parrilla cuadrada de carbón para barbacoa: 1182 yenes {\fs12}(IVA incluido)\N{\fs20}Carbón para barbacoa: 1480 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:09:12.45,0:09:13.70,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Pimentero de tamaño económico (200 g): 299 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:09:17.29,0:09:20.33,Gen_Main,Myaley,0000,0000,0000,,-¡Qué rico, miau!\N-Me alegro.
+Dialogue: 0,0:09:20.75,0:09:22.82,Gen_Main,Myaley,0000,0000,0000,,Voy a quedarme aquí esta noche, miau.
+Dialogue: 0,0:09:22.92,0:09:24.23,Gen_Main,Kenichi,0000,0000,0000,,¿Y qué hay de tu trabajo?
+Dialogue: 0,0:09:24.29,0:09:26.46,Gen_Main,Myaley,0000,0000,0000,,Me preocupa más el gato, miau.
+Dialogue: 0,0:09:27.81,0:09:28.81,Gen_Main,Myaley,0000,0000,0000,,Miau.
+Dialogue: 0,0:09:29.63,0:09:32.72,Gen_Main,Kenichi,0000,0000,0000,,Pero solo tengo una cama.
+Dialogue: 0,0:09:33.18,0:09:35.07,Gen_Main,Myaley,0000,0000,0000,,Podemos dormir juntitos, miau.
+Dialogue: 0,0:09:41.69,0:09:43.04,Gen_Italics,Kenichi,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:09:45.77,0:09:47.39,Gen_Italics,Kenichi,0000,0000,0000,,Varios días después…
+Dialogue: 0,0:09:47.94,0:09:50.32,Gen_Italics,Kenichi,0000,0000,0000,,El gato montés\Nse estaba recuperando bien,
+Dialogue: 0,0:09:50.32,0:09:53.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Cortadora eléctrica: 11 880 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:09:50.74,0:09:52.99,Gen_Italics_top,Kenichi,0000,0000,0000,,así que empecé a cultivar.
+Dialogue: 0,0:09:53.32,0:09:54.95,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an7\bord1.6\blur0.3\fsp2\fs24\fax0.4\alpha&H70&\c&H060704&\3c&HC6C0C1&\pos(112,120)\frz2}Shangri-La
+Dialogue: 0,0:09:54.95,0:09:57.70,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Semillas de tomate: 19 500 yenes {\fs12}(IVA incluido)\N{\fs20}Fertilizante orgánico: 5480 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:09:58.24,0:10:00.08,Gen_Italics,Kenichi,0000,0000,0000,,¿Cómo voy a regar?
+Dialogue: 0,0:10:00.83,0:10:04.63,Gen_Italics,Kenichi,0000,0000,0000,,Ir al río a buscar agua cada vez\Nva a ser muy pesado.
+Dialogue: 0,0:10:05.33,0:10:07.37,Gen_Italics,Kenichi,0000,0000,0000,,¿Y si hago un pozo?
+Dialogue: 0,0:10:28.36,0:10:29.36,Gen_Main,Kenichi,0000,0000,0000,,¿Gato?
+Dialogue: 0,0:10:31.44,0:10:33.32,Gen_Main,Kenichi,0000,0000,0000,,¿Ya te sientes mejor?
+Dialogue: 0,0:10:41.79,0:10:44.01,Gen_Main,Kenichi,0000,0000,0000,,Sí, ya deberías estar recuperado.
+Dialogue: 0,0:10:45.04,0:10:46.73,Gen_Main,Kenichi,0000,0000,0000,,Vive una buena vida.
+Dialogue: 0,0:10:49.80,0:10:53.53,Gen_Italics,Kenichi,0000,0000,0000,,Me tomé un par de días libres\Nde mi puesto…
+Dialogue: 0,0:10:54.88,0:10:57.64,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Perforadora de tierra: 35 533 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:10:54.97,0:10:56.70,Gen_Italics_top,Kenichi,0000,0000,0000,,y me dediqué a terminar el pozo.
+Dialogue: 0,0:10:57.64,0:11:01.64,Cart_A_Tre,CARTEL,0000,0000,0000,,{\q2\bord1\3c&H202428&\pos(320,258)}Bomba eléctrica para pozos: 27 800 yenes {\fs12}(IVA incluido)\N{\fs14}Tubería de PVC (10 m): 5280 yenes {\fs12}(IVA incluido)\h\h\h\h\h\h{\fs14}Acoplamientos y empalmes: 12 320 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:10:57.72,0:11:00.17,Gen_Italics_top,Kenichi,0000,0000,0000,,Después de una semana más o menos…
+Dialogue: 0,0:11:00.26,0:11:01.64,Gen_Main_Up,Kenichi,0000,0000,0000,,Lo logré.
+Dialogue: 0,0:11:01.72,0:11:03.73,Gen_Main,Kenichi,0000,0000,0000,,Esto no se me da nada mal.
+Dialogue: 0,0:11:04.48,0:11:05.79,Gen_Main,Primula,0000,0000,0000,,¿Kenichi?
+Dialogue: 0,0:11:07.35,0:11:10.12,Gen_Main,Kenichi,0000,0000,0000,,¿Primula? ¿Qué haces aquí?
+Dialogue: 0,0:11:12.44,0:11:16.12,Gen_Main,Primula,0000,0000,0000,,Me preocupa que lleves\Ncon la tienda cerrada ya un tiempo.
+Dialogue: 0,0:11:16.20,0:11:18.07,Gen_Main,Primula,0000,0000,0000,,La mujer bestia me dijo que…
+Dialogue: 0,0:11:18.16,0:11:19.53,Gen_Italics,Kenichi,0000,0000,0000,,¿Myaley?
+Dialogue: 0,0:11:19.62,0:11:23.02,Gen_Main,Primula,0000,0000,0000,,Kenichi, ¿todo esto es…?
+Dialogue: 0,0:11:23.12,0:11:25.91,Gen_Main,Primula,0000,0000,0000,,¿Qué es eso de metal de allí?
+Dialogue: 0,0:11:26.00,0:11:27.93,Gen_Main,Kenichi,0000,0000,0000,,Pues…
+Dialogue: 0,0:11:28.00,0:11:29.07,Gen_Main,Kenichi,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:11:29.17,0:11:32.04,Gen_Main,Kenichi,0000,0000,0000,,Es mi sirviente leal.
+Dialogue: 0,0:11:32.13,0:11:33.67,Gen_Main,Kenichi,0000,0000,0000,,Mi familiar.
+Dialogue: 0,0:11:33.76,0:11:37.43,Gen_Main,Primula,0000,0000,0000,,¿Familiar?\N¿Tú también puedes usar magia?
+Dialogue: 0,0:11:37.51,0:11:40.93,Gen_Main,Kenichi,0000,0000,0000,,Sí… claro.\NPero mantenlo en secreto.
+Dialogue: 0,0:11:41.01,0:11:42.51,Gen_Main,Primula,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:11:43.89,0:11:46.64,Gen_Italics,Kenichi,0000,0000,0000,,Siento que me podría chantajear\Ncon esa información,
+Dialogue: 0,0:11:46.73,0:11:48.77,Gen_Italics,Kenichi,0000,0000,0000,,pero Primula no debería darme problemas.
+Dialogue: 0,0:11:48.85,0:11:50.44,Gen_Main,Kenichi,0000,0000,0000,,Ah, espera un momento.
+Dialogue: 0,0:11:50.52,0:11:52.94,Gen_Main,Kenichi,0000,0000,0000,,¿Las puertas de la ciudad\Nno han cerrado ya?
+Dialogue: 0,0:11:53.02,0:11:54.95,Gen_Main,Primula,0000,0000,0000,,Sí, seguramente.
+Dialogue: 0,0:11:55.03,0:11:57.79,Gen_Main,Kenichi,0000,0000,0000,,¿Habías planeado quedarte aquí?
+Dialogue: 0,0:11:57.86,0:12:01.37,Gen_Main,Primula,0000,0000,0000,,Vaya, no pretenderás que me quede\Na la intemperie, ¿verdad?
+Dialogue: 0,0:12:01.45,0:12:03.76,Gen_Main,Kenichi,0000,0000,0000,,Pero solo tengo una cama.
+Dialogue: 0,0:12:03.83,0:12:05.53,Gen_Main,Primula,0000,0000,0000,,Por mí no hay problema.
+Dialogue: 0,0:12:05.62,0:12:09.83,Gen_Main,Primula,0000,0000,0000,,Estoy acostumbrada a dormir apretada\Ncon hombres cuando salgo a comerciar.
+Dialogue: 0,0:12:12.92,0:12:14.59,Gen_Main,Primula,0000,0000,0000,,¿Qué es eso?
+Dialogue: 0,0:12:14.67,0:12:16.59,Gen_Main,Kenichi,0000,0000,0000,,Una bañera.
+Dialogue: 0,0:12:16.67,0:12:18.51,Gen_Main,Primula,0000,0000,0000,,¿Una bañera?
+Dialogue: 0,0:12:34.61,0:12:36.25,Gen_Main,Primula,0000,0000,0000,,Disculpa…
+Dialogue: 0,0:12:36.32,0:12:39.53,Gen_Main,Primula,0000,0000,0000,,Kenichi, ¿sigues ahí?
+Dialogue: 0,0:12:39.61,0:12:41.37,Gen_Main,Kenichi,0000,0000,0000,,Sí, estoy aquí.
+Dialogue: 0,0:12:41.45,0:12:45.55,Gen_Main,Primula,0000,0000,0000,,Disculpa… ¿Podrías asomarte por aquí?
+Dialogue: 0,0:12:45.62,0:12:46.75,Gen_Main,Kenichi,0000,0000,0000,,Pero…
+Dialogue: 0,0:12:46.83,0:12:49.22,Gen_Main,Primula,0000,0000,0000,,Estoy dentro del agua.
+Dialogue: 0,0:12:52.17,0:12:54.06,Gen_Main,Kenichi,0000,0000,0000,,¿Cómo está la temperatura?
+Dialogue: 0,0:12:54.13,0:12:56.14,Gen_Main,Primula,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:12:56.21,0:12:59.17,Gen_Main,Primula,0000,0000,0000,,No puedo creer\Nque bañarse sea tan fácil.
+Dialogue: 0,0:13:01.55,0:13:04.28,Gen_Main,Kenichi,0000,0000,0000,,Si te da vergüenza, puedo retirarme.
+Dialogue: 0,0:13:04.35,0:13:07.19,Gen_Main,Primula,0000,0000,0000,,¡No, prefiero que te quedes!
+Dialogue: 0,0:13:07.27,0:13:10.69,Gen_Main,Kenichi,0000,0000,0000,,Si tanto miedo te da,\Npodrías bañarte en otro momento.
+Dialogue: 0,0:13:10.77,0:13:13.32,Gen_Main,Primula,0000,0000,0000,,El lema\Nde la Compañía Comercial Mallow es:
+Dialogue: 0,0:13:13.40,0:13:16.30,Gen_Main,Primula,0000,0000,0000,,"No dejes pasar las oportunidades".
+Dialogue: 0,0:13:16.40,0:13:17.45,Gen_Main,Kenichi,0000,0000,0000,,Ya…
+Dialogue: 0,0:13:17.53,0:13:22.95,Gen_Main,Primula,0000,0000,0000,,Si dejas pasar la oportunidad,\Npuede que no te vuelva a venir.
+Dialogue: 0,0:13:23.95,0:13:28.58,Gen_Main,Kenichi,0000,0000,0000,,Dices eso, pero ¿qué pasaría\Nsi yo fuera mala persona?
+Dialogue: 0,0:13:28.66,0:13:32.41,Gen_Main,Primula,0000,0000,0000,,Me cuesta creer eso de alguien\Nque ayuda a los hombres bestia
+Dialogue: 0,0:13:32.50,0:13:34.55,Gen_Main,Primula,0000,0000,0000,,y rescata a un gato montés.
+Dialogue: 0,0:13:34.63,0:13:36.21,Gen_Italics,Kenichi,0000,0000,0000,,Maldita Myaley…
+Dialogue: 0,0:13:38.26,0:13:41.28,Gen_Main_Up,Primula,0000,0000,0000,,Vaya, qué suave.
+Dialogue: 0,0:13:38.59,0:13:43.09,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Albornoz de baño: 4480 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:41.38,0:13:43.09,Gen_Main_Up,Primula,0000,0000,0000,,¿Podrías vendérnoslo?
+Dialogue: 0,0:13:43.18,0:13:45.06,Gen_Main,Kenichi,0000,0000,0000,,Por desgracia, no está en venta.
+Dialogue: 0,0:13:45.14,0:13:46.95,Gen_Main,Primula,0000,0000,0000,,Qué desperdicio.
+Dialogue: 0,0:13:47.01,0:13:50.14,Gen_Main,Primula,0000,0000,0000,,Los clientes estarían encantados\Nde ponérselo.
+Dialogue: 0,0:13:50.23,0:13:52.35,Gen_Main,Kenichi,0000,0000,0000,,Podría traer una cantidad limitada.
+Dialogue: 0,0:13:52.44,0:13:54.05,Gen_Main,Primula,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:13:55.65,0:13:58.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\bord1\3c&H202428&\pos(320,295)}Camisón de señora: 7759 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:56.57,0:13:58.61,Gen_Main_Up,Primula,0000,0000,0000,,Este camisón es precioso.
+Dialogue: 0,0:13:59.11,0:14:00.70,Gen_Main,Primula,0000,0000,0000,,Con lo que tienes aquí,
+Dialogue: 0,0:14:00.78,0:14:05.49,Gen_Main,Primula,0000,0000,0000,,podrías ser el mejor mercader de Dahlia…\N¡No, de todo el reino de Kadan!
+Dialogue: 0,0:14:05.57,0:14:09.12,Gen_Main,Kenichi,0000,0000,0000,,Sí, pero no me interesa.
+Dialogue: 0,0:14:09.20,0:14:13.37,Gen_Main,Kenichi,0000,0000,0000,,Llamar la atención de los nobles\Nsuena a que me traerá problemas.
+Dialogue: 0,0:14:13.46,0:14:14.78,Gen_Main,Primula,0000,0000,0000,,Cierto.
+Dialogue: 0,0:14:14.88,0:14:18.82,Gen_Main,Primula,0000,0000,0000,,Se molestarían si supieran lo que haces.
+Dialogue: 0,0:14:18.92,0:14:25.51,Gen_Main,Kenichi,0000,0000,0000,,Solo quiero ganar lo justo\Npara vivir tranquilo y comer bien.
+Dialogue: 0,0:14:25.59,0:14:30.27,Gen_Main,Primula,0000,0000,0000,,Entiendo. En ese caso,\Nmi empresa y yo nos encargaremos
+Dialogue: 0,0:14:30.35,0:14:34.35,Gen_Main,Primula,0000,0000,0000,,y seguiremos vendiendo\Ntus artículos extranjeros
+Dialogue: 0,0:14:34.44,0:14:36.90,Gen_Main,Primula,0000,0000,0000,,sin mencionarle tu nombre a nadie.
+Dialogue: 0,0:14:38.90,0:14:40.34,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:14:44.36,0:14:46.46,Gen_Main,Primula,0000,0000,0000,,¿Puedo quedármelo?
+Dialogue: 0,0:14:46.53,0:14:48.03,Gen_Main,Kenichi,0000,0000,0000,,Por supuesto. Todo tuyo.
+Dialogue: 0,0:14:51.70,0:14:53.79,Gen_Main,Primula,0000,0000,0000,,Disculpa… ¿Kenichi?
+Dialogue: 0,0:14:54.21,0:14:56.86,Gen_Main,Primula,0000,0000,0000,,¿Estás dormido?
+Dialogue: 0,0:15:20.57,0:15:21.61,Gen_Main,Secuaz,0000,0000,0000,,Jefe.
+Dialogue: 0,0:15:22.73,0:15:23.76,Gen_Main,Secuaz,0000,0000,0000,,¡A un lado!
+Dialogue: 0,0:15:34.54,0:15:36.06,Gen_Main,Shaga,0000,0000,0000,,¿Un encargo?
+Dialogue: 0,0:15:44.63,0:15:48.47,Gen_Italics,Kenichi,0000,0000,0000,,La chica con la que comercio\Npasó la noche en mi casa.
+Dialogue: 0,0:15:48.55,0:15:51.69,Gen_Italics,Kenichi,0000,0000,0000,,Seguramente tendré que explicarme…
+Dialogue: 0,0:15:52.72,0:15:55.48,Gen_Main,Mallow,0000,0000,0000,,Gracias por cuidar de mi hija.
+Dialogue: 0,0:15:55.56,0:15:56.74,Gen_Italics,Kenichi,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:15:56.81,0:15:59.73,Gen_Italics,Kenichi,0000,0000,0000,,Creía que se quejaría\Ny se molestaría conmigo,
+Dialogue: 0,0:16:00.27,0:16:04.39,Gen_Italics,Kenichi,0000,0000,0000,,pero ¿no le preocupaba\Npor la diferencia de edad?
+Dialogue: 0,0:16:04.48,0:16:06.78,Gen_Italics,Kenichi,0000,0000,0000,,¿O es que quizás confía en mí?
+Dialogue: 0,0:16:09.20,0:16:11.44,Gen_Main,Mallow,0000,0000,0000,,No sé a quién ha salido.
+Dialogue: 0,0:16:11.53,0:16:14.33,Gen_Main,Primula,0000,0000,0000,,A ti, por supuesto.
+Dialogue: 0,0:16:18.46,0:16:20.55,Gen_Main,Mallow,0000,0000,0000,,Esta tela es bastante inusual.
+Dialogue: 0,0:16:20.63,0:16:24.63,Gen_Main,Mallow,0000,0000,0000,,¿Sirve para ponértela\Ny secarte después de bañarte?
+Dialogue: 0,0:16:24.71,0:16:28.63,Gen_Main,Kenichi,0000,0000,0000,,Es muy absorbente\Ny reacciona muy bien con la piel.
+Dialogue: 0,0:16:29.63,0:16:31.89,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Lencería sexy: 3480 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:16:29.72,0:16:31.89,Gen_Main_Up,Kenichi,0000,0000,0000,,También tengo esto.
+Dialogue: 0,0:16:32.39,0:16:33.61,Gen_Main,Primula,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:16:33.68,0:16:39.39,Gen_Main,Kenichi,0000,0000,0000,,Si te lo pones para el hombre que amas,\Ncaerá rendido a tus pies.
+Dialogue: 0,0:16:39.48,0:16:41.91,Gen_Main,Mallow,0000,0000,0000,,Qué sinvergüenza.
+Dialogue: 0,0:16:42.69,0:16:43.87,Gen_Main,Kenichi,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:16:43.94,0:16:46.00,Gen_Main,Kenichi,0000,0000,0000,,Creo que me pasé con la broma.
+Dialogue: 0,0:16:48.90,0:16:53.16,Gen_Main,Margaret,0000,0000,0000,,Siento interrumpir la negociación.\NTraigo los libros de contabilidad.
+Dialogue: 0,0:16:53.70,0:16:57.14,Gen_Main,Kenichi,0000,0000,0000,,Tienen muchos. Se nota\Nque son una empresa grande.
+Dialogue: 0,0:16:57.20,0:17:02.24,Gen_Main,Mallow,0000,0000,0000,,Cambiamos la contabilidad,\Nasí que estoy reescribiendo los libros.
+Dialogue: 0,0:17:03.33,0:17:07.92,Gen_Main,Mallow,0000,0000,0000,,El imperio vecino inventó\Nun sistema llamado "partida doble".
+Dialogue: 0,0:17:09.05,0:17:11.08,Gen_Main,Kenichi,0000,0000,0000,,¿Partida doble?
+Dialogue: 0,0:17:09.22,0:17:11.84,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord0\blur0.3\fs80\q2\fscx90\fscy110\move(750,75,-585,86)\c&H0A0300&\iclip(m 264.57 84 l 293.14 73.14 274.86 69.71 317.14 66.29 300.57 52.57 321.14 59.43 331.43 68.57 331.43 60 324 46.86 338.29 60 342.86 71.43 368 77.14 352 86.86)}Partida doble
+Dialogue: 0,0:17:11.18,0:17:12.76,Gen_Italics,Kenichi,0000,0000,0000,,Según Mallow,
+Dialogue: 0,0:17:12.84,0:17:17.73,Gen_Italics,Kenichi,0000,0000,0000,,el imperio se ha expandido rápidamente\Ngracias al invento de un hombre.
+Dialogue: 0,0:17:16.43,0:17:18.62,Gen_Main_Up,Primula,0000,0000,0000,,También tenía una bañera.
+Dialogue: 0,0:17:18.68,0:17:19.93,Gen_Main,Mallow,0000,0000,0000,,¿Una bañera?
+Dialogue: 0,0:17:20.02,0:17:25.14,Gen_Main,Primula,0000,0000,0000,,Era distinta y más sencilla que\Nlas de la nobleza, pero me gustó mucho.
+Dialogue: 0,0:17:25.23,0:17:27.44,Gen_Main,Mallow,0000,0000,0000,,¿Podría verla yo también?
+Dialogue: 0,0:17:27.53,0:17:30.54,Gen_Main,Kenichi,0000,0000,0000,,Será un placer,\Npero antes deberíamos salir.
+Dialogue: 0,0:17:30.61,0:17:34.91,Gen_Main,Mallow,0000,0000,0000,,También tengo que ver el producto nuevo,\Nasí que ven con nosotros.
+Dialogue: 0,0:17:34.99,0:17:36.45,Gen_Main,Kenichi,0000,0000,0000,,¿Producto nuevo?
+Dialogue: 0,0:17:37.79,0:17:38.87,Gen_Main,Kenichi,0000,0000,0000,,¿Es…?
+Dialogue: 0,0:17:38.95,0:17:40.28,Gen_Main,Kenichi,0000,0000,0000,,¿Una bomba manual?
+Dialogue: 0,0:17:40.37,0:17:41.95,Gen_Main,Mallow,0000,0000,0000,,¿Las conoces?
+Dialogue: 0,0:17:42.04,0:17:43.71,Gen_Main,Kenichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:17:43.79,0:17:47.06,Gen_Main,Mallow,0000,0000,0000,,Asombroso, Kenichi.\NVeo que las noticias vuelan.
+Dialogue: 0,0:17:47.13,0:17:50.58,Gen_Main,Mallow,0000,0000,0000,,El imperio también\Nha expandido este producto.
+Dialogue: 0,0:17:50.67,0:17:54.46,Gen_Italics,Kenichi,0000,0000,0000,,Eso y el sistema de partida doble…\NEs demasiada coincidencia.
+Dialogue: 0,0:17:54.97,0:17:58.46,Gen_Italics,Kenichi,0000,0000,0000,,¿Habrá en este mundo\Notra persona proveniente del mío?
+Dialogue: 0,0:17:59.14,0:18:00.42,Gen_Main,Primula,0000,0000,0000,,¡Papá!
+Dialogue: 0,0:18:01.06,0:18:02.49,Gen_Main,Primula,0000,0000,0000,,¡Qué fácil sale el agua!
+Dialogue: 0,0:18:02.56,0:18:04.66,Gen_Main,Mallow,0000,0000,0000,,Vaya, increíble.
+Dialogue: 0,0:18:05.27,0:18:10.49,Gen_Italics,Kenichi,0000,0000,0000,,Es entendible que no se emocionaran\Nmucho por la bañera de barril.
+Dialogue: 0,0:18:08.19,0:18:09.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\blur0.3\fs11\fscx90\c&H000606&\frz22\move(670,108,-41,108)}Reservada
+Dialogue: 0,0:18:10.57,0:18:12.58,Gen_Italics,Kenichi,0000,0000,0000,,Me sentía un poco frustrado…
+Dialogue: 0,0:18:12.65,0:18:15.51,Gen_Main,Kenichi,0000,0000,0000,,Primula, ¿qué te parece este vehículo?
+Dialogue: 0,0:18:16.24,0:18:17.77,Gen_Main,Primula,0000,0000,0000,,¿Qué es?
+Dialogue: 0,0:18:17.87,0:18:21.48,Gen_Main,Kenichi,0000,0000,0000,,Una bi… Un vehículo llamado "draisina".
+Dialogue: 0,0:18:22.62,0:18:25.07,Gen_Main,Primula,0000,0000,0000,,Papá, mira esto.
+Dialogue: 0,0:18:25.96,0:18:27.43,Gen_Main,Mallow,0000,0000,0000,,Qué apariencia tan extraña.
+Dialogue: 0,0:18:27.50,0:18:30.74,Gen_Main,Mallow,0000,0000,0000,,No sabía que eras tan bromista, Kenichi.
+Dialogue: 0,0:18:33.47,0:18:37.89,Gen_Italics,Kenichi,0000,0000,0000,,Después, Primula empezó a visitarme\Nde vez en cuando.
+Dialogue: 0,0:18:37.97,0:18:40.60,Gen_Italics,Kenichi,0000,0000,0000,,A veces incluso se quedaba\Na pasar la noche.
+Dialogue: 0,0:18:40.68,0:18:42.15,Gen_Main,Kenichi,0000,0000,0000,,¿Vas a salir a comerciar?
+Dialogue: 0,0:18:42.23,0:18:45.02,Gen_Main,Primula,0000,0000,0000,,Sí. A partir de mañana,\Nestaré fuera un mes.
+Dialogue: 0,0:18:45.10,0:18:46.77,Gen_Main,Kenichi,0000,0000,0000,,¿A partir de mañana?
+Dialogue: 0,0:18:46.86,0:18:49.77,Gen_Main,Kenichi,0000,0000,0000,,En ese caso no deberías quedarte\Nesta noche aquí, ¿no?
+Dialogue: 0,0:18:49.86,0:18:52.67,Gen_Main,Primula,0000,0000,0000,,No, al contrario.
+Dialogue: 0,0:18:52.74,0:18:53.87,Gen_Main,Kenichi,0000,0000,0000,,¿Pasa algo?
+Dialogue: 0,0:18:53.95,0:18:55.28,Gen_Main,Primula,0000,0000,0000,,No, nada.
+Dialogue: 0,0:18:55.36,0:18:56.82,Gen_Main,Primula,0000,0000,0000,,Oye…
+Dialogue: 0,0:18:57.41,0:19:01.46,Gen_Main,Primula,0000,0000,0000,,Si es posible,\Nme gustaría ver lo que nos mostraste.
+Dialogue: 0,0:19:01.54,0:19:05.38,Gen_Main,Kenichi,0000,0000,0000,,Pero ¿tu padre no te va a regañar\Nsi te lo compras?
+Dialogue: 0,0:19:05.46,0:19:08.64,Gen_Main,Primula,0000,0000,0000,,Tranquilo, ya no soy una niña.
+Dialogue: 0,0:19:08.71,0:19:12.43,Gen_Main,Kenichi,0000,0000,0000,,¿Lo quieres porque te gusta alguien\Ny quieres probar suerte con él?
+Dialogue: 0,0:19:12.51,0:19:14.68,Gen_Main,Primula,0000,0000,0000,,Está aquí ahora mismo…
+Dialogue: 0,0:19:17.26,0:19:21.70,Gen_Main,Kenichi,0000,0000,0000,,Primula, una joven como tú\Ndebería valorarse más.
+Dialogue: 0,0:19:21.76,0:19:24.68,Gen_Main,Kenichi,0000,0000,0000,,No puedes enamorarte\Nde un viejo como yo.
+Dialogue: 0,0:19:24.77,0:19:27.19,Gen_Main,Primula,0000,0000,0000,,¡Pero es que tú eres maravilloso!
+Dialogue: 0,0:19:27.56,0:19:30.48,Gen_Main,Kenichi,0000,0000,0000,,Siéntate, por favor.
+Dialogue: 0,0:19:31.48,0:19:33.37,Gen_Main,Kenichi,0000,0000,0000,,Qué papelón…
+Dialogue: 0,0:19:33.44,0:19:35.70,Gen_Main,Kenichi,0000,0000,0000,,¿Qué dirá Mallow?
+Dialogue: 0,0:19:35.78,0:19:38.06,Gen_Main,Primula,0000,0000,0000,,Mi padre no se opondría.
+Dialogue: 0,0:19:38.16,0:19:40.83,Gen_Italics,Kenichi,0000,0000,0000,,¡Pues debería!
+Dialogue: 0,0:19:41.24,0:19:45.75,Gen_Main,Kenichi,0000,0000,0000,,Perdona, pero ¿podemos dejar esto\Npara otro momento?
+Dialogue: 0,0:19:45.83,0:19:49.33,Gen_Main,Kenichi,0000,0000,0000,,Tengo muchas responsabilidades\Ncomo para decidir en caliente.
+Dialogue: 0,0:19:49.42,0:19:53.77,Gen_Main,Primula,0000,0000,0000,,Al menos, ¿podemos compartir cama?
+Dialogue: 0,0:19:56.42,0:19:58.84,Gen_Main,Kenichi,0000,0000,0000,,-Solo para dormir.\N-¡Sí!
+Dialogue: 0,0:20:00.35,0:20:03.49,Gen_Main,Kenichi,0000,0000,0000,,¿Qué le verá a un viejo como yo?
+Dialogue: 0,0:20:07.10,0:20:11.16,Gen_Italics,Kenichi,0000,0000,0000,,A la mañana siguiente,\Nvolví con Primula a la ciudad.
+Dialogue: 0,0:20:17.90,0:20:19.21,Gen_Italics,Kenichi,0000,0000,0000,,¿Lleva armadura?
+Dialogue: 0,0:20:20.99,0:20:22.41,Gen_Main,Kenichi,0000,0000,0000,,Eres el de la otra vez.
+Dialogue: 0,0:20:22.49,0:20:25.79,Gen_Main,Norspaul,0000,0000,0000,,Así es. Soy el caballero Norspaul.
+Dialogue: 0,0:20:26.20,0:20:29.41,Gen_Main,Kenichi,0000,0000,0000,,¿Qué hace por aquí un caballero?
+Dialogue: 0,0:20:29.50,0:20:34.23,Gen_Main,Norspaul,0000,0000,0000,,Investigo los rumores de que\Nun hombre sospechoso vive en el bosque,
+Dialogue: 0,0:20:34.30,0:20:35.63,Gen_Main,Norspaul,0000,0000,0000,,pero ya veo que eres tú.
+Dialogue: 0,0:20:37.26,0:20:39.68,Gen_Main,Norspaul,0000,0000,0000,,Dime, ¿qué es eso?
+Dialogue: 0,0:20:39.76,0:20:42.35,Gen_Main,Kenichi,0000,0000,0000,,Pues…
+Dialogue: 0,0:20:42.43,0:20:47.56,Gen_Main,Kenichi,0000,0000,0000,,Lo siento, pero tiene que ver\Ncon la magia, así que…
+Dialogue: 0,0:20:47.64,0:20:50.41,Gen_Main,Norspaul,0000,0000,0000,,¿Magia? ¿Eres mago?
+Dialogue: 0,0:20:50.48,0:20:53.05,Gen_Main,Kenichi,0000,0000,0000,,Me gustaría\Nque lo mantuvieras en secreto.
+Dialogue: 0,0:20:53.15,0:20:55.74,Gen_Main,Norspaul,0000,0000,0000,,Ya veo…
+Dialogue: 0,0:20:55.82,0:20:58.05,Gen_Main,Norspaul,0000,0000,0000,,En ese caso, quiero pedirte un favor.
+Dialogue: 0,0:20:58.82,0:21:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,295)}Acero para cuchillos (3 lingotes): 47 550 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:20:59.45,0:21:01.23,Gen_Main_Up,Norspaul,0000,0000,0000,,¡Esto es increíble!
+Dialogue: 0,0:21:00.41,0:21:04.37,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(400,0)\bord1\3c&H202428&\pos(320,295)}Vino de fruta: 5750 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:21:01.32,0:21:02.90,Gen_Main_Up,Norspaul,0000,0000,0000,,¡Qué acero tan precioso!
+Dialogue: 0,0:21:02.99,0:21:06.83,Gen_Italics_top,Kenichi,0000,0000,0000,,Me salió bastante caro,\Npero no me dejó alternativa.
+Dialogue: 0,0:21:06.91,0:21:12.46,Gen_Main,Kenichi,0000,0000,0000,,Por desgracia, no llevo espadas largas\Ncomo la que querías.
+Dialogue: 0,0:21:12.54,0:21:16.84,Gen_Main,Kenichi,0000,0000,0000,,Pero puedes llevarle el acero\Na tu herrero para que te fabrique una.
+Dialogue: 0,0:21:16.92,0:21:19.87,Gen_Main,Norspaul,0000,0000,0000,,Bien, haré eso.
+Dialogue: 0,0:21:19.97,0:21:21.90,Gen_Main,Norspaul,0000,0000,0000,,Aunque no sea gran cosa,
+Dialogue: 0,0:21:21.97,0:21:25.03,Gen_Main,Norspaul,0000,0000,0000,,te contaré algo interesante\Nde lo que me enteré hace poco.
+Dialogue: 0,0:21:25.10,0:21:27.60,Gen_Italics,Kenichi,0000,0000,0000,,Parece que el regalito\Nya está dando sus frutos.
+Dialogue: 0,0:21:27.68,0:21:32.64,Gen_Main,Norspaul,0000,0000,0000,,Apareció un mago desconocido\Ncon un hechizo especial en el imperio.
+Dialogue: 0,0:21:33.73,0:21:35.48,Gen_Main,Norspaul,0000,0000,0000,,¿Cómo se llamaba?
+Dialogue: 0,0:21:35.57,0:21:38.88,Gen_Main,Norspaul,0000,0000,0000,,Produce mucha cantidad\Nde esta salsa amarillenta…
+Dialogue: 0,0:21:38.94,0:21:42.11,Gen_Main,Norspaul,0000,0000,0000,,Mayo… Mayo algo.
+Dialogue: 0,0:21:42.20,0:21:43.87,Gen_Main,Kenichi,0000,0000,0000,,¿Te refieres a mayonesa?
+Dialogue: 0,0:21:43.95,0:21:45.62,Gen_Main,Norspaul,0000,0000,0000,,¡Eso es! Mayonesa.
+Dialogue: 0,0:21:46.08,0:21:48.12,Gen_Italics,Kenichi,0000,0000,0000,,¿Cómo es posible?
+Dialogue: 0,0:21:48.20,0:21:51.50,Gen_Main,Norspaul,0000,0000,0000,,Se dice que derrotó a un dragón.
+Dialogue: 0,0:21:52.12,0:21:54.36,Gen_Italics,Kenichi,0000,0000,0000,,¿Derrotó a un dragón con mayonesa?
+Dialogue: 0,0:21:55.17,0:21:59.54,Gen_Italics,Kenichi,0000,0000,0000,,¿Contabilidad de partida doble,\Nbombas manuales y ahora mayonesa?
+Dialogue: 0,0:21:59.63,0:22:03.51,Gen_Italics,Kenichi,0000,0000,0000,,¿Qué clase de persona\Nse ha reencarnado en el imperio?
+Dialogue: 0,0:23:31.26,0:23:35.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\blur1}Traducción: José María Pérez y Gekokujou\NEdición: José María Pérez\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:35.02,0:23:40.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\q2\fs24\bord1\blur0.3\pos(320,130)}Episodio 4\h\hAventureros (Kenichi y sus ocho acompañantes)

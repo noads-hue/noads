@@ -1,0 +1,550 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00000000,&H000000FF,&H32555555,&H002971C2,0,0,0,0,100,100,0,0,1,0,0,2,0040,0030,0020,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.15,0:00:01.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(300,0)\fs15\blur3\c&H571B05&\3c&HF7D2B6&\pos(328,305)}The Daily Life of a Middle-Aged Online Shopper in Another World
+Dialogue: 0,0:00:22.25,0:00:23.88,Gen_Italics,Diosa,0000,0000,0000,,Te enviaré a otro mundo.
+Dialogue: 0,0:00:23.96,0:00:25.63,Gen_Italics,Prota,0000,0000,0000,,¡Abrir estadísticas!
+Dialogue: 0,0:00:26.26,0:00:26.76,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\blur0.3\fax-0.06\pos(266,100)\frz27\c&H3E4861&\t(97,98,\c&H141C32&)\t(180,181,\c&H3E4861&)}Enviar
+Dialogue: 0,0:00:55.62,0:00:58.37,Gen_Main,Kenichi,0000,0000,0000,,¡Abrir estadísticas!
+Dialogue: 0,0:01:06.00,0:01:08.35,Gen_Main,Kenichi,0000,0000,0000,,Apareció de verdad.
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\p1\an9\blur0.8\fscx170\pos(618,20)\1a&H30&\3c&HD7B89E&\c&HA46D4F&}m 0 0 l 100 0 100 100 0 100{\p0}
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.2\blur0.3\fs16\an1\3c&HCFC8C2&\c&H140C03&\pos(452,45)}Kenichi Hamada, 38 años
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.5\fscx8\fscy6\p1\c&HCBCD98&\3c&H5C5125&\pos(477,62)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.5\fscx8\fscy6\p1\c&HCBCD98&\3c&H5C5125&\pos(477,81)}m 50 0 b 100 0 100 100 50 100 b 0 100 0 0 50 0{\p0}
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.1\blur0.3\fs14\an1\fscy105\3c&HCFC8C2&\c&H140C03&\pos(485,70)}Shangri-La
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.1\blur0.3\fs14\an1\fscy105\3c&HCFC8C2&\c&H140C03&\pos(485,91)}Caja de objetos
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\an7\bord0\blur0.3\fs16\alpha&H70&\fscx70\fscy70\p1\pos(313,-83)\c&H5D2D17&}m 393.71 253.71 l 393.71 259.43 395.43 260 397.71 285.71 414.32 285.71 414.72 259.94 417.13 260.57 417.14 254.29 410.32 253.73 410.29 249.14 401.71 249.14 401.15 253.13
+Dialogue: 0,0:01:15.05,0:01:21.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1000,0)\bord1.1\blur0.3\fs16\an1\3c&HCFC8C2&\c&H140C03&\pos(530,115)}Papelera
+Dialogue: 0,0:01:21.44,0:01:26.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\pos(320,288)\fs24\bord0}2037: Una odisea por otro mundo
+Dialogue: 0,0:01:22.31,0:01:23.59,Gen_Main_Up,Kenichi,0000,0000,0000,,Increíble.
+Dialogue: 0,0:01:24.23,0:01:26.47,Gen_Main_Up,Kenichi,0000,0000,0000,,¿Estoy en otro mundo?
+Dialogue: 0,0:01:26.98,0:01:30.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an7\fs22\bord1\blur1\pos(43,274)}Episodio 1\h\h\hUn bosque desconocido
+Dialogue: 0,0:01:29.94,0:01:30.99,Gen_Main_Up,Kenichi,0000,0000,0000,,Aun así…
+Dialogue: 0,0:01:30.99,0:01:37.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs30\an1\3c&HCFC8C2&\c&H140C03&\pos(235,124)}Kenichi Hamada
+Dialogue: 0,0:01:30.99,0:01:37.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\an1\3c&HCFC8C2&\c&H140C03&\pos(210,164)}Shangri-La
+Dialogue: 0,0:01:30.99,0:01:37.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\an1\3c&HCFC8C2&\c&H140C03&\pos(212,218)}Caja de objetos
+Dialogue: 0,0:01:30.99,0:01:37.03,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.2\blur0.3\fs22\an1\3c&HCFC8C2&\c&H140C03&\pos(365,268)}Papelera
+Dialogue: 0,0:01:31.53,0:01:32.84,Gen_Main,Kenichi,0000,0000,0000,,¿Esto es todo?
+Dialogue: 0,0:01:32.91,0:01:35.25,Gen_Main,Kenichi,0000,0000,0000,,¿Y mis puntos de salud?\N¿Y los de magia?
+Dialogue: 0,0:01:35.32,0:01:37.58,Gen_Main,Kenichi,0000,0000,0000,,¿Y las habilidades o la magia?
+Dialogue: 0,0:01:39.45,0:01:41.13,Gen_Main,Kenichi,0000,0000,0000,,¿Eh? ¿Shangri-La?
+Dialogue: 0,0:01:42.16,0:01:47.38,Gen_Main,Kenichi,0000,0000,0000,,Ah, es la web de compras\Nque siempre utilizo.
+Dialogue: 0,0:01:43.00,0:01:47.75,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs32\an1\3c&HD3D5C7&\c&H140C03&\frz2\pos(78,113)}Shangri-La
+Dialogue: 0,0:01:47.84,0:01:49.08,Gen_Main,Kenichi,0000,0000,0000,,Vaya…
+Dialogue: 0,0:01:49.51,0:01:51.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\blur0.3\fs30\an1\3c&HCFC8C2&\c&H140C03&\frz32\pos(248,158)}Kenichi Hamada
+Dialogue: 0,0:01:49.51,0:01:51.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\blur0.3\fs25\an1\3c&HCFC8C2&\c&H140C03&\frz32\pos(246,223)}Shangri-La
+Dialogue: 0,0:01:49.51,0:01:51.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\blur0.3\fs25\an1\3c&HCFC8C2&\c&H140C03&\frz32\pos(283,276)}Caja de objetos
+Dialogue: 0,0:01:49.96,0:01:52.24,Gen_Main,Kenichi,0000,0000,0000,,Entonces, "caja de objetos" es…
+Dialogue: 0,0:01:51.09,0:01:54.05,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,140)\bord1.2\blur0.3\fs25\an1\3c&HA8A29D&\c&H140C03&\frz8\pos(157,116)}Caja de objetos
+Dialogue: 0,0:01:53.97,0:01:55.01,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord1.7\blur0.3\fs30\3c&HD8D7D0&\c&H140C03&\pos(448,172)}Colocar\Naquí
+Dialogue: 0,0:01:58.76,0:02:04.15,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(250,0)\bord1.1\blur0.3\fs18\3c&HCFC8C2&\c&H140C03&\t(\fscx102\fscy102)\move(302,78,302,75)}Caja de objetos
+Dialogue: 0,0:01:58.76,0:02:04.15,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(250,0)\bord1.1\blur0.3\fs15\3c&HCFC8C2&\c&H140C03&\t(\fscx102\fscy102)\move(314,103,314,100)}Hierbas
+Dialogue: 0,0:02:01.06,0:02:05.25,Gen_Main,Kenichi,0000,0000,0000,,¿Esto es lo típico\Nde las historias en otros mundos?
+Dialogue: 0,0:02:01.35,0:02:06.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,200)\bord0.8\blur0.3\fs12\3c&HCFC8C2&\c&H140C03&\t(\fscx102\fscy102)\move(414,162,414,159)}Tierra
+Dialogue: 0,0:02:01.35,0:02:06.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord0.8\blur0.3\fs15\3c&HCFC8C2&\c&H140C03&\t(\fscx102\fscy102)\move(409,143,409,140)}Hierbas
+Dialogue: 0,0:02:03.06,0:02:04.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,150)\bord0.8\blur0.3\fs13\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\t(\fscx108\fscy108)\move(475,167,478,163)}Papelera
+Dialogue: 0,0:02:03.06,0:02:04.35,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,150)\bord0.8\blur0.3\fs13\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\t(\fscx108\fscy108)\move(479,108,482,104)}Recuperar
+Dialogue: 0,0:02:04.06,0:02:06.31,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,150)\bord0.8\blur0.3\fs13\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\t(\fscx108\fscy108)\move(480,148,487,144)}Recuperar
+Dialogue: 0,0:02:04.15,0:02:06.31,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,150)\bord0.8\blur0.3\fs13\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\t(\fscx108\fscy108)\move(511,209,519,205)}Papelera
+Dialogue: 0,0:02:04.15,0:02:06.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.1\blur0.3\fs18\3c&HCFC8C2&\c&H140C03&\fscx102\fscy102\t(\fscx110\fscy110)\move(302,75,302,67)}Caja de objetos
+Dialogue: 0,0:02:04.15,0:02:06.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.1\blur0.3\fs15\3c&HCFC8C2&\c&H140C03&\fscx102\fscy102\t(\fscx110\fscy110)\move(314,100,314,92)}Hierbas
+Dialogue: 0,0:02:05.48,0:02:06.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord0.8\blur0.3\fs12\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\t(\fscx108\fscy108)\move(414,159,415,157)}Tierra
+Dialogue: 0,0:02:07.23,0:02:10.53,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.8\blur0.3\fs13\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\pos(251,105)}Tierra
+Dialogue: 0,0:02:07.23,0:02:11.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,150)\bord0.8\blur0.3\fs15\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\pos(258,58)}Papelera
+Dialogue: 0,0:02:08.90,0:02:10.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(100,140)\bord0.8\blur0.3\3c&HCFC8C2&\fscx102\fscy102\c&H140C03&\pos(496,217)}¿Vaciar papelera?
+Dialogue: 0,0:02:11.65,0:02:15.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.9\blur0.3\fs18\3c&HCFC8C2&\c&H140C03&\fscx102\fscy102\pos(232,34)}Caja de objetos
+Dialogue: 0,0:02:11.65,0:02:15.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.7\blur0.3\fs15\3c&HCFC8C2&\c&H140C03&\fscx102\fscy102\pos(330,140)}Hierbas
+Dialogue: 0,0:02:11.65,0:02:15.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.9\blur0.3\fs12\3c&HB4AAA1&\c&H140C03&\fscx102\fscy102\pos(340,168)}Tierra
+Dialogue: 0,0:02:12.11,0:02:14.70,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.9\blur0.3\fs12\3c&HB4AAA1&\c&H140C03&\fscx102\fscy102\pos(414,149)}Recuperar
+Dialogue: 0,0:02:12.15,0:02:14.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(150,0)\bord0.9\blur0.3\fs12\3c&HB4AAA1&\c&H140C03&\fscx102\fscy102\pos(430,207)}Papelera
+Dialogue: 0,0:02:16.37,0:02:18.43,Gen_Main,Kenichi,0000,0000,0000,,Vaya, qué útil.
+Dialogue: 0,0:02:18.53,0:02:20.20,Gen_Main,Kenichi,0000,0000,0000,,Este mundo es genial.
+Dialogue: 0,0:02:21.91,0:02:24.63,Gen_Main,Kenichi,0000,0000,0000,,En fin, tengo que comer algo.
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs32\3c&HC7B7AB&\c&H000000&\move(197,94,197,-261)}Carrito
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an2\3c&HC7B7AB&\c&H000000&\move(392,107,392,-248)}Saldo\Nrestante
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(505,142,505,-213)}yenes
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\move(103,220,103,-138)}Oferta por primera compra
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs22\an2\3c&HC7B7AB&\c&H000000&\move(237,331,237,-28)}Surtido de pan rico
+Dialogue: 0,0:02:25.79,0:02:26.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(552,350,552,-4)}yenes
+Dialogue: 0,0:02:25.88,0:02:26.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an2\bord1.4\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(181,395,181,124)}Pack de 3 cajas de leche
+Dialogue: 0,0:02:25.88,0:02:26.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(552,415,552,143)}yenes
+Dialogue: 0,0:02:26.21,0:02:26.79,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(315,370,315,155)}Total
+Dialogue: 0,0:02:26.21,0:02:26.79,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(526,400,526,190)}yenes
+Dialogue: 0,0:02:26.42,0:02:26.79,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs32\an1\3c&HC7B7AB&\c&H000000&\move(441,395,441,265)}Comprar
+Dialogue: 0,0:02:26.54,0:02:26.88,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(181,124,181,2)}Pack de 3 cajas de leche
+Dialogue: 0,0:02:26.54,0:02:27.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\move(552,144,552,5)}yenes
+Dialogue: 0,0:02:26.79,0:02:27.04,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(315,155,315,92)}Total
+Dialogue: 0,0:02:26.79,0:02:27.04,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(526,190,526,127)}yenes
+Dialogue: 0,0:02:26.79,0:02:27.04,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs32\an1\3c&HC7B7AB&\c&H000000&\move(441,265,441,202)}Comprar
+Dialogue: 0,0:02:27.04,0:02:27.25,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(315,92,315,67)}Total
+Dialogue: 0,0:02:27.04,0:02:27.25,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\move(526,127,526,102)}yenes
+Dialogue: 0,0:02:27.04,0:02:27.25,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs32\an1\3c&HC7B7AB&\c&H000000&\move(441,203,441,178)}Comprar
+Dialogue: 0,0:02:27.25,0:02:30.34,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\pos(315,67)}Total
+Dialogue: 0,0:02:27.25,0:02:30.34,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.6\blur0.3\fs22\an1\3c&HC7B7AB&\c&H000000&\pos(526,102)}yenes
+Dialogue: 0,0:02:27.25,0:02:30.34,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.6\blur0.3\fs32\an1\3c&HC7B7AB&\c&H000000&\pos(441,178)}Comprar
+Dialogue: 0,0:02:27.46,0:02:28.46,Gen_Main,Kenichi,0000,0000,0000,,Bien.
+Dialogue: 0,0:02:29.63,0:02:30.21,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(380,0)\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(103,167)}Saldo insuficiente
+Dialogue: 0,0:02:29.63,0:02:30.21,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(380,0)\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(173,326)}Recargar aquí
+Dialogue: 0,0:02:30.21,0:02:30.50,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\move(103,167,103,40)}Saldo insuficiente
+Dialogue: 0,0:02:30.21,0:02:30.50,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\move(173,326,173,199)}Recargar aquí
+Dialogue: 0,0:02:30.50,0:02:31.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(103,40)}Saldo insuficiente
+Dialogue: 0,0:02:30.50,0:02:31.67,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(173,199)}Recargar aquí
+Dialogue: 0,0:02:32.17,0:02:34.67,Gen_Main,Kenichi,0000,0000,0000,,¿Me está pidiendo que le meta dinero?
+Dialogue: 0,0:02:34.76,0:02:37.21,Gen_Main,Kenichi,0000,0000,0000,,Pues sí, necesito dinero para comprar,
+Dialogue: 0,0:02:37.64,0:02:39.22,Gen_Main,Kenichi,0000,0000,0000,,pero no tengo nada.
+Dialogue: 0,0:02:43.35,0:02:44.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(180,0)\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(211,40)}Saldo insuficiente
+Dialogue: 0,0:02:43.35,0:02:44.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(180,0)\bord1.6\blur0.3\fs18\an1\3c&HC7B7AB&\c&H000000&\pos(298,121)}Hierbas
+Dialogue: 0,0:02:43.35,0:02:44.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(180,0)\bord1.1\blur0.3\fs14\an1\3c&HC7B7AB&\c&H000000&\pos(232,298)}¿Tasar y cambiar estos objetos?
+Dialogue: 0,0:02:44.32,0:02:46.27,Gen_Main,Kenichi,0000,0000,0000,,Bien. ¡Adelante!
+Dialogue: 0,0:02:46.27,0:02:47.31,Cart_A_Tre,CARTEL,0000,0000,0000,,{\blur0.3\fs40\an1\3c&HC7B7AB&\c&H000000&\pos(159,62)}Hierbas
+Dialogue: 0,0:02:46.27,0:02:47.31,Cart_A_Tre,CARTEL,0000,0000,0000,,{\blur0.3\fs40\an1\3c&HC7B7AB&\c&H000000&\pos(499,128)}yenes
+Dialogue: 0,0:02:48.65,0:02:49.82,Gen_Main,Kenichi,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:02:50.15,0:02:53.54,Gen_Main,Kenichi,0000,0000,0000,,Pero por aquí no hay nada…
+Dialogue: 0,0:02:59.95,0:03:00.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.8\blur0.3\fs30\c&H060704&\3c&HD1CDC4&\move(319,84,319,-49)}Tasación
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\c&H060803&\3c&HD1CDC4&\move(320,188,320,38)}Espada oxidada
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs18\c&H060803&\3c&HD1CDC4&\move(174,238,174,94)}Detalles
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,305,172,161)}Espada antigua
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,352,172,203)}Piedra (Rubí, 3 quilates)
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(485,472,485,322)}yenes
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(474,339,474,189)}yenes
+Dialogue: 0,0:02:59.95,0:03:00.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(486,386,486,236)}yenes
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs18\c&H060803&\3c&HD1CDC4&\move(174,94,174,51)}Detalles
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,161,172,118)}Espada antigua
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,203,172,166)}Piedra (Rubí, 3 quilates)
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(485,322,485,279)}yenes
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(474,189,474,146)}yenes
+Dialogue: 0,0:03:00.32,0:03:00.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(486,236,486,193)}yenes
+Dialogue: 0,0:03:00.32,0:03:00.57,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\c&H060803&\3c&HD1CDC4&\move(320,38,320,-46)}Espada oxidada
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs18\c&H060803&\3c&HD1CDC4&\move(174,51,174,15)}Detalles
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,118,172,82)}Espada antigua
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,166,172,130)}Piedra (Rubí, 3 quilates)
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(485,279,485,243)}yenes
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(474,146,474,110)}yenes
+Dialogue: 0,0:03:00.45,0:03:00.61,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(486,193,486,157)}yenes
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs18\c&H060803&\3c&HD1CDC4&\move(174,15,174,13)}Detalles
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,82,172,80)}Espada antigua
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\move(172,130,172,128)}Piedra (Rubí, 3 quilates)
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(485,243,485,241)}yenes
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(474,110,474,108)}yenes
+Dialogue: 0,0:03:00.61,0:03:00.65,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\move(486,157,486,155)}yenes
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs18\c&H060803&\3c&HD1CDC4&\pos(174,13)}Detalles
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\pos(172,80)}Espada antigua
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\c&H060803&\3c&HD1CDC4&\pos(172,128)}Piedra (Rubí, 3 quilates)
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\pos(485,241)}yenes
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\pos(474,108)}yenes
+Dialogue: 0,0:03:00.65,0:03:01.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an1\bord1.2\blur0.3\fs25\c&H060803&\3c&HD1CDC4&\pos(486,155)}yenes
+Dialogue: 0,0:03:01.95,0:03:02.07,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs18\fsp4\c&H0D26DC&\pos(374,45)\frz13}Leche increíble
+Dialogue: 0,0:03:01.95,0:03:03.95,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\pos(320,255)}Oferta por surtido de pan rico: 1278 yenes {\fs12}(IVA incluido)\N{\fs18}Pack de 3 cajas de leche: 1005 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:02.07,0:03:02.20,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs18\fsp4\c&H0D26DC&\frz355\pos(380,236)}Leche increíble
+Dialogue: 0,0:03:02.20,0:03:02.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs18\fsp4\c&H0D26DC&\frz8\pos(375,222)\clip(m 394.29 233.71 l 397.71 218.29 410.29 198.86 404 222.29 404 240.57 499.43 222.29 478.86 167.43 224.57 190.86 260 244.57)}Leche increíble
+Dialogue: 0,0:03:02.32,0:03:02.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs18\fsp4\c&H0D26DC&\frz4\pos(381,235)\alpha&HFF&}Le{\alpha&H00&}che inc{\alpha&HFF&}r{\alpha&H00&}eíble
+Dialogue: 0,0:03:06.71,0:03:09.21,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs24\an3\bord1\pos(605,315)}Pala: 1529 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:09.21,0:03:10.70,Gen_Italics,Kenichi,0000,0000,0000,,Me salvaste.
+Dialogue: 0,0:03:11.46,0:03:12.70,Gen_Italics,Kenichi,0000,0000,0000,,Descansa en paz.
+Dialogue: 0,0:03:17.34,0:03:21.35,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\pos(320,270)}Bici de montaña: 20 701 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:17.34,0:03:21.35,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\pos(162,308)}Botas de cuero para trabajar: 1250 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:17.34,0:03:21.35,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\pos(487,309)}Toalla deportiva: 599 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:18.84,0:03:22.59,Gen_Italics_top,Kenichi,0000,0000,0000,,Aun así, seguro que va a empeorar.
+Dialogue: 0,0:03:21.35,0:03:23.10,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs24\an3\bord1\pos(610,315)}Brújula: 623 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:23.10,0:03:25.60,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs24\an3\bord1\pos(605,317)}Monóculo: 1577 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:25.60,0:03:25.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fax-0.08\fsp3\c&H0D26DC&\frz350\pos(540,128)}Leche increíble
+Dialogue: 0,0:03:25.62,0:03:29.40,Gen_Italics,Kenichi,0000,0000,0000,,Tengo que encontrar una aldea\Ny ganar dinero.
+Dialogue: 0,0:03:25.81,0:03:25.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\blur0.3\fs10\fax-0.08\an2\fsp3\c&H0D26DC&\pos(567,149)\frz341.8}Leche increíble
+Dialogue: 0,0:03:25.94,0:03:26.06,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fax-0.08\fsp3\c&H0D26DC&\frz337\pos(581,158)}Leche increíble
+Dialogue: 0,0:03:26.06,0:03:26.48,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fax-0.08\fsp3\c&H0D26DC&\pos(591,171)\frz334}Leche increíble
+Dialogue: 0,0:03:26.48,0:03:26.60,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fax-0.08\fsp3\c&H0D26DC&\frz322\pos(585,216)}Leche increíble
+Dialogue: 0,0:03:26.60,0:03:26.73,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fax-0.08\fsp3\c&H0D26DC&\pos(568,256)\frz309}Leche increíble
+Dialogue: 0,0:03:29.36,0:03:29.48,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fsp3\c&H0D26DC&\frz268\pos(482,249)}Leche increíble
+Dialogue: 0,0:03:29.48,0:03:29.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord0\an2\blur0.3\fs10\fsp3\c&H0D26DC&\frz268\pos(559,207)}Leche increíble
+Dialogue: 0,0:03:29.48,0:03:30.48,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:03:38.99,0:03:40.74,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\pos(147,219)\3c&H202428&}Hornilla portátil: 2981 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:38.99,0:03:40.74,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(467,219)}Mesa baja de aluminio: 1800 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:38.99,0:03:40.74,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(318,254)}Agua mineral sin etiqueta (2 litros x 9 botellas): 1025 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:38.99,0:03:40.74,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(320,280)}Cazuela de aluminio: 1320 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:38.99,0:03:40.74,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(320,309)}Cartuchos de gas (pack de 3 latas): 874 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:40.82,0:03:44.33,Gen_Italics_top,Kenichi,0000,0000,0000,,Usaré el dinero para pedir cosas\Ny venderlas más caras.
+Dialogue: 0,0:03:42.24,0:03:43.49,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(318,222)}Set de dos piezas de cucharas para curry: 1307 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:42.24,0:03:43.49,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(320,253)}Platos de papel para oficina (pack de 20 platos): 598 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:42.24,0:03:43.49,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(320,281)}Curry precocinado, set de 5 comidas para preparar: 2500 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:42.24,0:03:43.49,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\3c&H202428&\pos(320,311)}Paquete de arroz nacional (180 g x 6 paquetes): 999 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:03:43.49,0:03:47.12,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs22\bord1\3c&H202428&\pos(320,299)}Pack de 50 vasos grandes de papel: 649 yenes {\fs15}(IVA incluido)
+Dialogue: 0,0:03:44.41,0:03:45.45,Gen_Main_Up,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:03:45.54,0:03:47.12,Gen_Main_Up,Kenichi,0000,0000,0000,,Buen provecho.
+Dialogue: 0,0:03:48.38,0:03:50.33,Gen_Italics,Kenichi,0000,0000,0000,,Debería poder arreglármelas…
+Dialogue: 0,0:03:51.54,0:03:53.01,Gen_Main,Kenichi,0000,0000,0000,,¡Qué rico!
+Dialogue: 0,0:03:53.09,0:03:55.51,Gen_Italics,Kenichi,0000,0000,0000,,El curry es lo mejor\Ntambién en otro mundo.
+Dialogue: 0,0:04:09.48,0:04:10.76,Gen_Main,Kenichi,0000,0000,0000,,Voy a buscar algo.
+Dialogue: 0,0:04:10.85,0:04:12.40,Gen_Main,Kenichi,0000,0000,0000,,Armas, armas, armas…
+Dialogue: 0,0:04:12.48,0:04:15.26,Gen_Main,Kenichi,0000,0000,0000,,¿Un arco? Nunca he usado uno.
+Dialogue: 0,0:04:16.36,0:04:17.40,Gen_Main,Kenichi,0000,0000,0000,,Esto me servirá.
+Dialogue: 0,0:04:17.40,0:04:18.90,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs22\bord1\3c&H202428&\pos(320,299)}Fuente de fuegos artificiales (4): 1980 yenes {\fs16}(IVA incluido)
+Dialogue: 0,0:04:18.90,0:04:19.91,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs22\bord1\3c&H202428&\pos(320,299)}Mechero de gas (Turbo): 274 yenes {\fs16}(IVA incluido)
+Dialogue: 0,0:04:26.20,0:04:27.22,Gen_Main,Kenichi,0000,0000,0000,,Nada.
+Dialogue: 0,0:04:27.29,0:04:29.18,Gen_Main,Kenichi,0000,0000,0000,,A ver… algo…
+Dialogue: 0,0:04:31.04,0:04:32.17,Gen_Main_Up,Kenichi,0000,0000,0000,,Usaré esto.
+Dialogue: 0,0:04:31.67,0:04:32.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,269)}Resortera: 8990 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:31.67,0:04:32.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,307)}Bola de acero (8 mm, pack de 360): 999 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:32.25,0:04:37.01,Gen_Main,Kenichi,0000,0000,0000,,Una resortera. Lanzará un cometa\Nque no arderá al atravesar esas bestias.
+Dialogue: 0,0:04:50.81,0:04:53.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\fs18\bord1\3c&H202428&\pos(320,264)}Luz para la cabeza (450~1200 Lumens): 12 055 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:04:50.81,0:04:53.27,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\fs18\bord1\3c&H202428&\pos(320,308)}Pack de 20 pilas alcalinas AA: 778 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:14.25,0:05:15.84,Gen_Italics,Kenichi,0000,0000,0000,,¿El final del bosque?
+Dialogue: 0,0:05:19.84,0:05:21.84,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,302)}Escalera: 8999 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:22.72,0:05:23.72,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:05:30.98,0:05:32.00,Gen_Italics,Kenichi,0000,0000,0000,,Una ciudad.
+Dialogue: 0,0:05:36.32,0:05:38.53,Gen_Italics,Kenichi,0000,0000,0000,,Ahora podré ganar dinero.
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.6\an2\blur0.3\fs28\3c&HC7B7AB&\c&H000000&\pos(210,91)}Carrito
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.6\an2\blur0.3\fs15\3c&HC7B7AB&\c&H000000&\pos(369,99)}Saldo\Nrestante
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\an2\blur0.3\fs18\3c&HC7B7AB&\c&H000000&\pos(522,126)}yenes
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\an2\blur0.3\fs22\3c&HC7B7AB&\c&H000000&\pos(180,233)}Pimienta
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\an2\blur0.3\fs18\3c&HC7B7AB&\c&H000000&\pos(487,301)}yenes
+Dialogue: 0,0:05:40.11,0:05:40.99,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,140)\bord1.4\an2\blur0.3\3c&HC7B7AB&\c&H000000&\pos(238,342)}Bolsa de cuero
+Dialogue: 0,0:05:40.99,0:05:41.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord1.4\an2\blur0.3\fs18\3c&HC7B7AB&\c&H000000&\pos(486,20)}yenes
+Dialogue: 0,0:05:40.99,0:05:41.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord1.4\an2\b1\blur0.3\fs18\3c&HC7B7AB&\c&H000000&\pos(322,97)}Total
+Dialogue: 0,0:05:40.99,0:05:41.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord1.4\an2\blur0.3\fs18\3c&HC7B7AB&\c&H000000&\pos(516,124)}yenes
+Dialogue: 0,0:05:40.99,0:05:41.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(140,0)\bord1.4\an2\blur0.3\fs28\3c&HC7B7AB&\c&H000000&\pos(432,185)}Comprar
+Dialogue: 0,0:05:55.13,0:05:56.88,Gen_Main,Fuyou,0000,0000,0000,,¡Oye, cuidado!
+Dialogue: 0,0:05:56.96,0:05:58.63,Gen_Main,Fuyou,0000,0000,0000,,¿Te encuentras bien?
+Dialogue: 0,0:05:58.71,0:06:00.27,Gen_Italics,Kenichi,0000,0000,0000,,¿Japonés?
+Dialogue: 0,0:06:01.09,0:06:02.71,Gen_Italics,Kenichi,0000,0000,0000,,Podemos comunicarnos.
+Dialogue: 0,0:06:03.22,0:06:05.27,Gen_Main,Fuyou,0000,0000,0000,,Estás empapado.
+Dialogue: 0,0:06:05.34,0:06:07.97,Gen_Main,Fuyou,0000,0000,0000,,Si vas a Dahlia, ¿quieres que te lleve?
+Dialogue: 0,0:06:08.06,0:06:09.54,Gen_Main,Kenichi,0000,0000,0000,,Bueno, es que…
+Dialogue: 0,0:06:09.64,0:06:13.27,Gen_Main,Fuyou,0000,0000,0000,,No hay problema. Está cerca.\NNo te cobraré nada.
+Dialogue: 0,0:06:13.73,0:06:15.77,Gen_Main,Fuyou,0000,0000,0000,,Me llamo Fuyou. Soy mercader.
+Dialogue: 0,0:06:16.44,0:06:19.11,Gen_Main,Kenichi,0000,0000,0000,,Gracias por la ayuda.\NMe llamo Kenichi.
+Dialogue: 0,0:06:20.94,0:06:22.71,Gen_Main,Fuyou,0000,0000,0000,,Ella es una barda itinerante
+Dialogue: 0,0:06:23.20,0:06:24.53,Gen_Main,Fuyou,0000,0000,0000,,y mi compañera.
+Dialogue: 0,0:06:25.41,0:06:29.54,Gen_Main,Fuyou,0000,0000,0000,,Por cierto, vistes raro y\Ntambién tienes un nombre raro.
+Dialogue: 0,0:06:30.16,0:06:32.16,Gen_Main,Fuyou,0000,0000,0000,,¿Para qué vas a Dahlia?
+Dialogue: 0,0:06:32.70,0:06:36.10,Gen_Main,Kenichi,0000,0000,0000,,Estoy pensando en hacer negocios allí.
+Dialogue: 0,0:06:36.17,0:06:39.60,Gen_Main,Fuyou,0000,0000,0000,,Vaya, pues te veo con las manos vacías.
+Dialogue: 0,0:06:39.67,0:06:42.35,Gen_Main,Fuyou,0000,0000,0000,,¿No me digas que tienes\Nuna caja de objetos?
+Dialogue: 0,0:06:45.68,0:06:47.61,Gen_Main,Fuyou,0000,0000,0000,,Conque esa es, ¿eh?
+Dialogue: 0,0:06:47.68,0:06:50.06,Gen_Main,Fuyou,0000,0000,0000,,Es la primera vez que veo una.
+Dialogue: 0,0:06:50.51,0:06:52.13,Gen_Main,Kenichi,0000,0000,0000,,Vaya…
+Dialogue: 0,0:06:53.64,0:06:58.88,Gen_Main,Barda,0000,0000,0000,,El chispeo de la lluvia\Ntrajo al hombre,
+Dialogue: 0,0:07:01.19,0:07:06.54,Gen_Main,Barda,0000,0000,0000,,al viento y a la lluvia\Nal despertar de su viaje.
+Dialogue: 0,0:07:10.74,0:07:13.06,Gen_Main,Barda,0000,0000,0000,,¿A dónde esperaba ir?
+Dialogue: 0,0:07:13.95,0:07:16.38,Gen_Main,Barda,0000,0000,0000,,¿Qué lo guiaba hasta allí?
+Dialogue: 0,0:07:21.80,0:07:23.58,Gen_Main,Barda,0000,0000,0000,,Comienza su historia.
+Dialogue: 0,0:07:24.38,0:07:25.39,Gen_Main,Barda,0000,0000,0000,,Ahora.
+Dialogue: 0,0:07:30.93,0:07:32.09,Gen_Main,Barda,0000,0000,0000,,Aquí.
+Dialogue: 0,0:07:43.07,0:07:45.93,Gen_Main,Fuyou,0000,0000,0000,,Siento que me hayas tenido que ayudar.
+Dialogue: 0,0:07:46.03,0:07:50.33,Gen_Main,Kenichi,0000,0000,0000,,No hay de qué. Al contrario,\Ntú me enseñaste muchas cosas.
+Dialogue: 0,0:07:50.41,0:07:51.87,Gen_Main,Kenichi,0000,0000,0000,,Quédate esto.
+Dialogue: 0,0:07:53.74,0:07:55.50,Gen_Main,Fuyou,0000,0000,0000,,¿Es pimienta?
+Dialogue: 0,0:07:56.12,0:07:58.46,Gen_Main,Fuyou,0000,0000,0000,,Oye, ¿piensas vender\Nalgo tan peligroso?
+Dialogue: 0,0:07:58.53,0:07:59.53,Gen_Main,Kenichi,0000,0000,0000,,¿Peligroso?
+Dialogue: 0,0:07:59.63,0:08:00.63,Gen_Main,Fuyou,0000,0000,0000,,Escucha.
+Dialogue: 0,0:08:00.71,0:08:04.94,Gen_Main,Fuyou,0000,0000,0000,,Bacopa, el sindicato de las especias,\Ntiene el monopolio.
+Dialogue: 0,0:08:05.01,0:08:06.46,Gen_Main,Kenichi,0000,0000,0000,,¿Sindicato de las especias?
+Dialogue: 0,0:08:07.88,0:08:10.33,Gen_Main,Fuyou,0000,0000,0000,,Si llamas su atención,\Nte meterás en líos.
+Dialogue: 0,0:08:10.76,0:08:11.94,Gen_Main,Fuyou,0000,0000,0000,,Ten cuidado.
+Dialogue: 0,0:08:12.01,0:08:13.29,Gen_Main,Kenichi,0000,0000,0000,,Entiendo…
+Dialogue: 0,0:08:14.35,0:08:17.50,Gen_Main,Fuyou,0000,0000,0000,,Aunque si es un trato privado…
+Dialogue: 0,0:08:17.60,0:08:19.23,Gen_Main,Kenichi,0000,0000,0000,,Te la puedes quedar.
+Dialogue: 0,0:08:19.90,0:08:25.02,Gen_Main,Fuyou,0000,0000,0000,,A los mercaderes nos gustan las gangas,\Npero no aceptamos nada gratis.
+Dialogue: 0,0:08:26.11,0:08:28.53,Gen_Main,Kenichi,0000,0000,0000,,¿Porque no hay más caro\Nque lo que es gratis?
+Dialogue: 0,0:08:28.61,0:08:30.36,Gen_Main,Fuyou,0000,0000,0000,,Exacto.
+Dialogue: 0,0:08:30.45,0:08:31.45,Gen_Main,Kenichi,0000,0000,0000,,Guau.
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\move(179,166,179,84)}Moneda de cobre
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\move(525,206,525,124)}yenes
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fs22\an2\3c&HF3E7CF&\c&H000000&\move(234,263,234,181)\alpha&HFF&\t(474,475,\alpha&H00&)}Monedita cuadrada de plata
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\move(522,303,522,221)\alpha&HFF&\t(474,475,\alpha&H00&)}yenes
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\move(177,364,177,282)\alpha&HFF&\t(974,975,\alpha&H00&)}Moneda de plata
+Dialogue: 0,0:08:35.08,0:08:36.29,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\an2\3c&HF3E7CF&\c&H000000&\move(522,402,522,320)\alpha&HFF&\t(974,975,\alpha&H00&)}yenes
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\move(179,84,179,64)}Moneda de cobre
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\move(522,124,522,104)}yenes
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\move(234,181,234,161)}Monedita cuadrada de plata
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\move(522,221,522,201)}yenes
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\move(177,282,177,262)}Moneda de plata
+Dialogue: 0,0:08:36.29,0:08:36.87,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\move(522,320,522,300)}yenes
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\pos(179,64)}Moneda de cobre
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\pos(522,104)}yenes
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\pos(234,161)}Monedita cuadrada de plata
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\pos(522,201)}yenes
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\fs22\3c&HF3E7CF&\c&H000000&\pos(177,262)}Moneda de plata
+Dialogue: 0,0:08:36.87,0:08:37.41,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,200)\bord1.6\an2\blur0.3\3c&HF3E7CF&\c&H000000&\pos(522,300)}yenes
+Dialogue: 0,0:08:37.96,0:08:39.25,Gen_Italics,Kenichi,0000,0000,0000,,Entonces…
+Dialogue: 0,0:08:39.25,0:08:40.92,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs30\bord1\3c&H2D2C2B&\pos(320,285)}Pimienta: 950 yenes -> 108 311 yenes
+Dialogue: 0,0:08:39.92,0:08:40.92,Gen_Main_Up,Kenichi,0000,0000,0000,,¡Qué cara!
+Dialogue: 0,0:08:51.93,0:08:53.43,Gen_Main,Azalea,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:08:53.51,0:08:56.30,Gen_Main,Azalea,0000,0000,0000,,Bienvenido\Nal mejor restaurante en Dahlia.
+Dialogue: 0,0:08:56.39,0:08:58.56,Gen_Main,Azalea,0000,0000,0000,,¿Vienes a comer o a hospedarte?
+Dialogue: 0,0:08:58.64,0:08:59.82,Gen_Main,Kenichi,0000,0000,0000,,A hospedarme.
+Dialogue: 0,0:08:59.89,0:09:02.19,Gen_Main,Azalea,0000,0000,0000,,La habitación vale una moneda de cobre.
+Dialogue: 0,0:09:02.28,0:09:05.36,Gen_Main,Azalea,0000,0000,0000,,Con media pensión vale\Nuna monedita cuadrada de plata.
+Dialogue: 0,0:09:05.82,0:09:07.41,Gen_Main,Kenichi,0000,0000,0000,,Me alojaré sin comidas.
+Dialogue: 0,0:09:07.48,0:09:09.69,Gen_Main,Azalea,0000,0000,0000,,El pago se hace por adelantado.
+Dialogue: 0,0:09:10.65,0:09:12.05,Gen_Main,Azalea,0000,0000,0000,,Escribe aquí tu nombre.
+Dialogue: 0,0:09:12.11,0:09:16.33,Gen_Italics,Kenichi,0000,0000,0000,,Por cierto, no sé cómo escribir\Nen el idioma de este país.
+Dialogue: 0,0:09:16.66,0:09:19.42,Gen_Main,Azalea,0000,0000,0000,,No suelo ver gente vestida como tú.
+Dialogue: 0,0:09:19.50,0:09:21.39,Gen_Main,Azalea,0000,0000,0000,,¿Vienes buscando algún intermediario?
+Dialogue: 0,0:09:21.46,0:09:23.97,Gen_Main,Kenichi,0000,0000,0000,,No, estoy pensando en hacer negocios.
+Dialogue: 0,0:09:24.04,0:09:29.04,Gen_Main,Azalea,0000,0000,0000,,Sin saber leer, escribir ni matemáticas,\Nno te podrás inscribir en el gremio.
+Dialogue: 0,0:09:29.63,0:09:33.09,Gen_Main,Kenichi,0000,0000,0000,,Sé todo eso,\Npero no cómo se hace en este país.
+Dialogue: 0,0:09:33.43,0:09:37.89,Gen_Main,Azalea,0000,0000,0000,,Supongamos que tengo cuatro cestas\Ncon 12 rinkas en cada una.
+Dialogue: 0,0:09:35.47,0:09:38.22,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\bord1\blur0.3\fs34\pos(93,150)}Fruta
+Dialogue: 0,0:09:35.85,0:09:38.22,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\bord1\blur0.3\fs34\pos(93,323)}Fruta
+Dialogue: 0,0:09:36.22,0:09:38.22,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\bord1\blur0.3\fs34\pos(545,150)}Fruta
+Dialogue: 0,0:09:36.60,0:09:38.22,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\bord1\blur0.3\fs34\pos(545,323)}Fruta
+Dialogue: 0,0:09:37.97,0:09:40.23,Gen_Main,Azalea,0000,0000,0000,,¿Cuántas rinkas tengo en total?
+Dialogue: 0,0:09:40.31,0:09:41.86,Gen_Main,Kenichi,0000,0000,0000,,48, ¿verdad?
+Dialogue: 0,0:09:42.39,0:09:45.17,Gen_Main,Azalea,0000,0000,0000,,¡Sí que sabes hacer cuentas!
+Dialogue: 0,0:09:45.27,0:09:48.15,Gen_Main,Azalea,0000,0000,0000,,Pero si no sabes leer ni escribir…
+Dialogue: 0,0:09:48.23,0:09:49.81,Gen_Main,Azalea,0000,0000,0000,,¿Cómo te llamas?
+Dialogue: 0,0:09:49.90,0:09:51.11,Gen_Main,Kenichi,0000,0000,0000,,Kenichi.
+Dialogue: 0,0:09:51.19,0:09:54.57,Gen_Main,Azalea,0000,0000,0000,,"Kenichi". Ya está.
+Dialogue: 0,0:09:55.70,0:09:58.83,Gen_Main,Azalea,0000,0000,0000,,Yo me llamo Azalea. Encantada.
+Dialogue: 0,0:09:58.91,0:10:04.18,Gen_Main,Kenichi,0000,0000,0000,,Dime, ¿podrías enseñarme a leer\Ny escribir en el idioma de este país?
+Dialogue: 0,0:10:05.33,0:10:08.25,Gen_Main,Kenichi,0000,0000,0000,,Te pagaré con dulces de otro país.
+Dialogue: 0,0:10:08.34,0:10:09.47,Gen_Main,Azalea,0000,0000,0000,,¿De verdad?
+Dialogue: 0,0:10:09.55,0:10:11.01,Gen_Main,Azalea,0000,0000,0000,,¿Dulces?
+Dialogue: 0,0:10:11.76,0:10:14.01,Gen_Main,Azalea,0000,0000,0000,,¡Qué dulces!
+Dialogue: 0,0:10:14.51,0:10:17.64,Gen_Main,Azalea,0000,0000,0000,,¡Qué felicidad siento en la boca!
+Dialogue: 0,0:10:17.72,0:10:20.47,Gen_Main,Azalea,0000,0000,0000,,En el reino de Kadan\Nno se encuentran dulces así.
+Dialogue: 0,0:10:20.56,0:10:23.64,Gen_Italics,Kenichi,0000,0000,0000,,Entonces, ¿estoy en el reino de Kadan?
+Dialogue: 0,0:10:23.64,0:10:25.90,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\an3\3c&H202428&\pos(497,265)}Joyero: 2998 yenes {\fs12}(IVA incluido)\N{\fs18}Paquetes de cartón (pack de 100): 5541 yenes {\fs12}(IVA incluido)\N{\fs18}Gotas de Takuma, 75 g:\h\h\h\h450 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:10:23.73,0:10:25.90,Gen_Main_Up,Azalea,0000,0000,0000,,Qué lujo estar comiendo estos dulces.
+Dialogue: 0,0:10:25.98,0:10:27.98,Gen_Main_Up,Azalea,0000,0000,0000,,Parezco una aristócrata.
+Dialogue: 0,0:10:26.69,0:10:30.44,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(100,250)\fs18\bord1\3c&H202428&\pos(320,303)}Papel japonés de doble cara: 1436 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:10:28.07,0:10:30.22,Gen_Italics_top,Kenichi,0000,0000,0000,,Como suponía, hay una aristocracia.
+Dialogue: 0,0:10:30.32,0:10:31.63,Gen_Main_Up,Kenichi,0000,0000,0000,,¿Una aristócrata?
+Dialogue: 0,0:10:32.44,0:10:35.78,Gen_Main,Azalea,0000,0000,0000,,Si descubren que tengo esto,\Nme lo quitarán.
+Dialogue: 0,0:10:35.86,0:10:37.49,Gen_Main,Azalea,0000,0000,0000,,¿Qué hago?
+Dialogue: 0,0:10:37.57,0:10:40.04,Gen_Main,Kenichi,0000,0000,0000,,¿Podemos empezar ya?
+Dialogue: 0,0:10:42.75,0:10:44.30,Gen_Italics,Kenichi,0000,0000,0000,,Es pan comido.
+Dialogue: 0,0:10:45.25,0:10:48.03,Gen_Italics,Kenichi,0000,0000,0000,,No escriben como en japonés.
+Dialogue: 0,0:10:48.13,0:10:50.05,Gen_Italics,Kenichi,0000,0000,0000,,Usan el mismo sistema decimal
+Dialogue: 0,0:10:50.13,0:10:52.85,Gen_Italics,Kenichi,0000,0000,0000,,y manejan los números\Nigual que los números arábigos.
+Dialogue: 0,0:10:52.92,0:10:55.17,Gen_Italics,Kenichi,0000,0000,0000,,Aprenderé enseguida.
+Dialogue: 0,0:10:55.26,0:10:59.55,Gen_Main,Azalea,0000,0000,0000,,Vaya, ¿ya sabes leer y escribir?
+Dialogue: 0,0:10:59.64,0:11:02.81,Gen_Main,Azalea,0000,0000,0000,,Creo que serás un buen comerciante.
+Dialogue: 0,0:11:02.89,0:11:06.56,Gen_Main,Azalea,0000,0000,0000,,Debería empezar a prepararme\Npara ser tu amante.
+Dialogue: 0,0:11:06.65,0:11:08.99,Gen_Main,Kenichi,0000,0000,0000,,No te molestes con un viejo como yo.
+Dialogue: 0,0:11:09.06,0:11:11.94,Gen_Main,Kenichi,0000,0000,0000,,Podría ser tu padre, ¿sabes?
+Dialogue: 0,0:11:14.32,0:11:16.70,Gen_Main,Azalea,0000,0000,0000,,¡Asombroso!
+Dialogue: 0,0:11:16.78,0:11:19.60,Gen_Main,Azalea,0000,0000,0000,,No puedo creer que me hayas dibujado.
+Dialogue: 0,0:11:19.70,0:11:23.04,Gen_Main,Azalea,0000,0000,0000,,-¡Ahora sí parezco una aristócrata!\N-Oye…
+Dialogue: 0,0:11:23.12,0:11:27.21,Gen_Main,Azalea,0000,0000,0000,,Me diste dulces y me dibujaste.
+Dialogue: 0,0:11:28.04,0:11:30.96,Gen_Main,Azalea,0000,0000,0000,,Me diste tantas cosas\Nque debo compensarte.
+Dialogue: 0,0:11:39.05,0:11:40.85,Gen_Main,Receptionista,0000,0000,0000,,¿Desea inscribirse en el gremio?
+Dialogue: 0,0:11:41.39,0:11:44.42,Gen_Main,Receptionista,0000,0000,0000,,Rellene todas las secciones\Nde este formulario.
+Dialogue: 0,0:11:44.52,0:11:46.10,Gen_Italics,Kenichi,0000,0000,0000,,¿Papel escrito a mano?
+Dialogue: 0,0:11:46.94,0:11:49.26,Gen_Italics,Kenichi,0000,0000,0000,,Supongo que aún\Nno han inventado la imprenta.
+Dialogue: 0,0:11:56.03,0:11:58.04,Gen_Main,Receptionista,0000,0000,0000,,Bien, todo en orden.
+Dialogue: 0,0:11:58.11,0:11:59.99,Gen_Main,Receptionista,0000,0000,0000,,La cuota es una moneda de plata.
+Dialogue: 0,0:12:01.03,0:12:05.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(230,230)\fsp2\bord0.5\shad1.5\4a&H00&\pos(184,20)\3c&H8B4083&\c&HD177C9&\4c&H8B4083&}Dinero que lleva
+Dialogue: 0,0:12:01.12,0:12:02.65,Gen_Italics,Kenichi,0000,0000,0000,,Son casi 50 000 yenes.
+Dialogue: 0,0:12:02.74,0:12:04.79,Gen_Italics,Kenichi,0000,0000,0000,,Eso duele.
+Dialogue: 0,0:12:05.66,0:12:08.05,Gen_Main,Kenichi,0000,0000,0000,,¿Puedo pagar en cuotas?
+Dialogue: 0,0:12:08.12,0:12:09.49,Gen_Main,Receptionista,0000,0000,0000,,No hay problema.
+Dialogue: 0,0:12:09.58,0:12:11.25,Gen_Main,Receptionista,0000,0000,0000,,Espere un momento.
+Dialogue: 0,0:12:13.88,0:12:15.51,Gen_Main,Receptionista,0000,0000,0000,,Aquí tiene su identificación.
+Dialogue: 0,0:12:15.59,0:12:19.73,Gen_Main,Receptionista,0000,0000,0000,,Procure colocarla en\Nalgún lugar visible mientras comercie.
+Dialogue: 0,0:12:21.22,0:12:22.47,Gen_Italics,Kenichi,0000,0000,0000,,Ahora lo entiendo.
+Dialogue: 0,0:12:24.22,0:12:25.34,Gen_Main,Kenichi,0000,0000,0000,,Bueno…
+Dialogue: 0,0:12:31.90,0:12:36.40,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}1 moneda de cobre = 1000 yenes aprox.
+Dialogue: 0,0:12:32.36,0:12:35.60,Gen_Main_Up,Kenichi,0000,0000,0000,,Dos hojas de papel marrón\Nvalen una moneda de cobre.
+Dialogue: 0,0:12:36.40,0:12:40.28,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}1 Monedita cuadrada de plata = 5000 yenes aprox.
+Dialogue: 0,0:12:36.49,0:12:40.28,Gen_Main_Up,Kenichi,0000,0000,0000,,Un plato llano vale\Nuna monedita cuadrada de plata.
+Dialogue: 0,0:12:40.49,0:12:43.20,Gen_Main,Kenichi,0000,0000,0000,,Un cuchillo de baja calidad\Nvale una moneda de plata.
+Dialogue: 0,0:12:43.20,0:12:45.54,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}1 moneda de plata = 50 000 yenes aprox.
+Dialogue: 0,0:12:43.95,0:12:45.12,Gen_Main_Up,Kenichi,0000,0000,0000,,Qué caro.
+Dialogue: 0,0:12:45.62,0:12:46.82,Gen_Main,Vendedora,0000,0000,0000,,Hola.
+Dialogue: 0,0:12:47.87,0:12:50.55,Gen_Main,Vendedora,0000,0000,0000,,¿No te parecen bonitas\Nestas frutas de tres colores?
+Dialogue: 0,0:12:50.62,0:12:54.06,Gen_Main,Vendedora,0000,0000,0000,,Diez por una moneda de cobre.\N¿Te gustaría comprar?
+Dialogue: 0,0:12:56.00,0:12:59.40,Gen_Main,Kenichi,0000,0000,0000,,Me gustaría probar varias.\N¿Puedes mezclarme diez?
+Dialogue: 0,0:12:59.47,0:13:00.55,Gen_Main,Vendedora,0000,0000,0000,,Por supuesto.
+Dialogue: 0,0:13:01.05,0:13:02.55,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}Bolsa de cáñamo: 990 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:03.26,0:13:05.06,Gen_Italics,Kenichi,0000,0000,0000,,Las compré sin problema,
+Dialogue: 0,0:13:05.64,0:13:07.86,Gen_Italics,Kenichi,0000,0000,0000,,pero ¿qué tipo de fruta son?
+Dialogue: 0,0:13:07.93,0:13:09.06,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:13:09.06,0:13:11.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fsp5\fs40\3c&HF4F4F2&\c&H323332&\pos(258,130)\frz7}Caja de objetos
+Dialogue: 0,0:13:09.06,0:13:11.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs28\3c&HF4F4F2&\c&H323332&\frz7\pos(176,202)}Rinyo
+Dialogue: 0,0:13:09.06,0:13:11.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.4\blur0.3\fs28\3c&HE9E2E0&\c&H323332&\frz7\pos(186,285)}Rinzu
+Dialogue: 0,0:13:09.14,0:13:11.81,Gen_Italics,Kenichi,0000,0000,0000,,¿Rinyos? ¿Rinzus?
+Dialogue: 0,0:13:13.65,0:13:16.32,Gen_Main,Azalea,0000,0000,0000,,¡Rinkas!
+Dialogue: 0,0:13:16.40,0:13:18.69,Gen_Main,Azalea,0000,0000,0000,,Son muy dulces y ricas. Me encantan.
+Dialogue: 0,0:13:18.78,0:13:20.26,Gen_Main,Cliente,0000,0000,0000,,¡Oye, Azalea!
+Dialogue: 0,0:13:20.36,0:13:21.48,Gen_Main,Azalea,0000,0000,0000,,¡Ya voy!
+Dialogue: 0,0:13:21.57,0:13:23.42,Gen_Main,Azalea,0000,0000,0000,,-Gracias.\N-No hay de qué.
+Dialogue: 0,0:13:23.49,0:13:26.03,Gen_Main,Azalea,0000,0000,0000,,¿Pudiste inscribirte en el gremio?
+Dialogue: 0,0:13:26.12,0:13:27.13,Gen_Main,Kenichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:13:28.41,0:13:30.28,Gen_Main,Cliente,0000,0000,0000,,¡Oye, Azalea!
+Dialogue: 0,0:13:30.37,0:13:31.59,Gen_Main,Azalea,0000,0000,0000,,¡Ya voy!
+Dialogue: 0,0:13:32.83,0:13:36.09,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(100,0)\fs18\bord1\an7\3c&H202428&\pos(16,15)}Lámpara de aceite: 1480 yenes {\fs12}(IVA incluido)\N{\fs18\3c&H202428&}1 litro de aceite de parafina: 1290 yenes {\fs12}(IVA incluido)\N{\fs18\3c&H202428&}Hilo de cuero: 528 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:32.92,0:13:35.65,Gen_Main,Kenichi,0000,0000,0000,,Al principio no pasa nada\Npor ser modesto.
+Dialogue: 0,0:13:36.50,0:13:39.35,Gen_Main,Kenichi,0000,0000,0000,,A ver, mi objetivo será…
+Dialogue: 0,0:13:52.85,0:13:54.35,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\an9\3c&H202428&\pos(398,68)}Café instantáneo (200 g): 1233 yenes {\fs12}(IVA incluido)\N{\fs20}Cereales (950 g): 950 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:54.35,0:13:55.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\an2\3c&H202428&\pos(320,262)}Postes de madera (10): 2810 yenes {\fs12}(IVA incluido)\N{\fs18\3c&H202428&\pos(16,15)}Cuerda de cáñamo (2 rollos): 3008 yenes {\fs12}(IVA incluido)\N{\fs18\3c&H202428&\pos(16,15)}Telas de cáñamo (3): 3540 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:55.94,0:13:58.07,Gen_Main_Up,Kenichi,0000,0000,0000,,Bien, ya está.
+Dialogue: 0,0:13:57.23,0:13:58.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs22\bord1\3c&H202428&\pos(320,299)}Martillo Sakikiri: 1004 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:13:58.94,0:14:00.22,Gen_Main,Azalea,0000,0000,0000,,¡Asombroso!
+Dialogue: 0,0:14:00.32,0:14:02.69,Gen_Main,Azalea,0000,0000,0000,,¿También se te da bien la carpintería?
+Dialogue: 0,0:14:02.78,0:14:04.11,Gen_Main,Kenichi,0000,0000,0000,,Más o menos.
+Dialogue: 0,0:14:04.11,0:14:05.62,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,255)}Barra de espiga: 1580 yenes {\fs12}(IVA incluido)\N{\fs18} Hilo de cáñamo: 749 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:05.62,0:14:07.37,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,250)}Platos (4): 4500 yenes {\fs12}(IVA incluido)\N {\fs20}Hacha para usar al aire libre (2): 4089 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:07.37,0:14:10.33,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,270)\bord1\3c&H202428&\pos(320,300)}Set de servilletas: 499 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:07.45,0:14:11.72,Gen_Main_Up,Azalea,0000,0000,0000,,Oye, ¿son pinzas para la ropa?\NYo también las quiero.
+Dialogue: 0,0:14:12.54,0:14:13.90,Gen_Main,Azalea,0000,0000,0000,,Increíble.
+Dialogue: 0,0:14:14.00,0:14:20.87,Gen_Main,Azalea,0000,0000,0000,,Los que yo uso son finas,\Npartidas por la mitad y con un cordel,
+Dialogue: 0,0:14:20.96,0:14:23.67,Gen_Main,Azalea,0000,0000,0000,,pero se rompen fácilmente\Ny ya no se pueden usar.
+Dialogue: 0,0:14:24.72,0:14:25.89,Gen_Main,Azalea,0000,0000,0000,,¿Las vendes?
+Dialogue: 0,0:14:27.14,0:14:30.89,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}Pinzas de madera (50): 849 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:27.47,0:14:30.45,Gen_Italics_top,Kenichi,0000,0000,0000,,¿Podría sacarles beneficio?
+Dialogue: 0,0:14:38.36,0:14:42.01,Gen_Main,Kenichi,0000,0000,0000,,¿Este espacio está libre?\NMe gustaría poner un puesto.
+Dialogue: 0,0:14:42.11,0:14:44.25,Gen_Main,Anama,0000,0000,0000,,Sí, tranquilo.
+Dialogue: 0,0:14:44.32,0:14:45.34,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:14:45.99,0:14:47.64,Gen_Main,Anama,0000,0000,0000,,-¿Y tus cosas?\N-Traer.
+Dialogue: 0,0:14:49.37,0:14:52.01,Gen_Main,Anama,0000,0000,0000,,Oye, ¿tienes una caja de objetos?
+Dialogue: 0,0:14:52.08,0:14:54.56,Gen_Main,Kenichi,0000,0000,0000,,Sí, pero es pequeñita.
+Dialogue: 0,0:14:54.62,0:14:56.38,Gen_Main,Anama,0000,0000,0000,,Qué envidia.
+Dialogue: 0,0:14:58.29,0:15:00.05,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,300)}Juego de platos (15 platos): 8763 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:15:03.67,0:15:04.86,Gen_Main,Anama,0000,0000,0000,,Oye.
+Dialogue: 0,0:15:04.93,0:15:07.20,Gen_Main,Anama,0000,0000,0000,,¿Por cuánto las vendes?
+Dialogue: 0,0:15:07.93,0:15:09.86,Gen_Main,Kenichi,0000,0000,0000,,Una moneda de cobre por cinco.
+Dialogue: 0,0:15:09.93,0:15:12.34,Gen_Main,Anama,0000,0000,0000,,Bueno, me llevo cinco.
+Dialogue: 0,0:15:12.43,0:15:13.43,Gen_Main,Kenichi,0000,0000,0000,,¿Vas a comprar?
+Dialogue: 0,0:15:13.52,0:15:17.58,Gen_Main,Anama,0000,0000,0000,,No está prohibido comprarle\Nal puesto del vecino, ¿no?
+Dialogue: 0,0:15:18.36,0:15:21.44,Gen_Main,Anama,0000,0000,0000,,Me llamo Anama.\NLlevo aquí mucho tiempo.
+Dialogue: 0,0:15:21.52,0:15:23.16,Gen_Main,Kenichi,0000,0000,0000,,Yo me llamo Kenichi.
+Dialogue: 0,0:15:23.23,0:15:25.18,Gen_Main,Kenichi,0000,0000,0000,,Vengo de una aldea muy alejada.
+Dialogue: 0,0:15:25.28,0:15:26.57,Gen_Main,Kenichi,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:15:48.68,0:15:49.76,Gen_Main,Margaret,0000,0000,0000,,Enséñame tu material.
+Dialogue: 0,0:15:50.22,0:15:51.22,Gen_Main,Kenichi,0000,0000,0000,,Enseguida.
+Dialogue: 0,0:15:52.81,0:15:53.90,Gen_Main,Kenichi,0000,0000,0000,,¡Gracias!
+Dialogue: 0,0:15:55.98,0:15:59.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,270)\fs22\bord1\3c&H202428&\pos(320,300)}Bollo de pan (5): 1032 yenes {\fs15}(IVA incluido)
+Dialogue: 0,0:15:56.06,0:15:59.13,Gen_Main_Up,Anama,0000,0000,0000,,Esas pinzas se venden muy bien.
+Dialogue: 0,0:15:59.23,0:16:02.98,Gen_Main_Up,Kenichi,0000,0000,0000,,Sí. Vendí muchas durante la mañana.
+Dialogue: 0,0:16:03.32,0:16:07.39,Gen_Main,Anama,0000,0000,0000,,Gracias a ti se acercan a mi puesto\Ny me compran también.
+Dialogue: 0,0:16:10.82,0:16:14.07,Gen_Italics,Kenichi,0000,0000,0000,,¿Unos 15 000 yenes de beneficios?
+Dialogue: 0,0:16:14.16,0:16:17.52,Gen_Italics,Kenichi,0000,0000,0000,,Creo que podría ganarme la vida\Nvendiendo pinzas de la ropa,
+Dialogue: 0,0:16:17.62,0:16:21.39,Gen_Italics,Kenichi,0000,0000,0000,,pero los imitadores empezarán\Na vender algo parecido.
+Dialogue: 0,0:16:24.42,0:16:25.42,Gen_Main,Kenichi,0000,0000,0000,,Bienvenido.
+Dialogue: 0,0:16:26.09,0:16:27.88,Gen_Italics,Kenichi,0000,0000,0000,,Una espada a la cintura.
+Dialogue: 0,0:16:28.80,0:16:30.53,Gen_Italics,Kenichi,0000,0000,0000,,Y viste bien.
+Dialogue: 0,0:16:30.59,0:16:32.71,Gen_Italics,Kenichi,0000,0000,0000,,Seguro que tiene un rango alto.
+Dialogue: 0,0:16:32.80,0:16:35.24,Gen_Main,Norspaul,0000,0000,0000,,Me gustaría ver ese cuchillo.
+Dialogue: 0,0:16:35.31,0:16:37.50,Gen_Main,Kenichi,0000,0000,0000,,Claro. Adelante.
+Dialogue: 0,0:16:37.60,0:16:39.33,Gen_Main,Kenichi,0000,0000,0000,,Es nuevo.
+Dialogue: 0,0:16:47.07,0:16:48.15,Gen_Main,Kenichi,0000,0000,0000,,¿Qué te parece?
+Dialogue: 0,0:16:48.24,0:16:49.40,Gen_Main,Norspaul,0000,0000,0000,,¿Cuánto cuesta?
+Dialogue: 0,0:16:49.90,0:16:52.16,Gen_Main,Kenichi,0000,0000,0000,,Ese cuesta dos monedas de plata.
+Dialogue: 0,0:16:52.24,0:16:54.33,Gen_Main,Norspaul,0000,0000,0000,,Es caro.
+Dialogue: 0,0:16:54.41,0:16:58.12,Gen_Main,Norspaul,0000,0000,0000,,Pero lo entiendo.\NNunca había visto una hoja tan bonita.
+Dialogue: 0,0:16:58.20,0:16:59.52,Gen_Main,Kenichi,0000,0000,0000,,¿Y bien?
+Dialogue: 0,0:17:02.38,0:17:05.46,Gen_Main,Norspaul,0000,0000,0000,,¿Tendrás uno más grande?
+Dialogue: 0,0:17:05.55,0:17:07.92,Gen_Main,Kenichi,0000,0000,0000,,¿Quieres uno más grande?
+Dialogue: 0,0:17:08.09,0:17:09.17,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1.6\blur0.3\fsp2\fs18\c&H060704&\3c&HC6C2BE&\frz347\pos(272,45)}Shangri-La
+Dialogue: 0,0:17:09.63,0:17:12.84,Gen_Italics,Kenichi,0000,0000,0000,,En Japón hay leyes\Npara controlar las armas.
+Dialogue: 0,0:17:12.93,0:17:15.13,Gen_Italics,Kenichi,0000,0000,0000,,Encontrar uno más grande no será fácil.
+Dialogue: 0,0:17:16.51,0:17:17.52,Gen_Main,Kenichi,0000,0000,0000,,Disculpa.
+Dialogue: 0,0:17:17.97,0:17:21.82,Gen_Main_Up,Kenichi,0000,0000,0000,,Si quieres algo más grande, tengo esto.
+Dialogue: 0,0:17:20.27,0:17:22.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(100,0)\fs22\bord1\3c&H202428&\pos(320,300)}Espada para cazar: 41 800 yenes {\fs15}(IVA incluido)
+Dialogue: 0,0:17:30.53,0:17:33.10,Gen_Main,Norspaul,0000,0000,0000,,¡Es preciosa!
+Dialogue: 0,0:17:33.20,0:17:34.22,Gen_Main,Norspaul,0000,0000,0000,,¿Cuánto cuesta?
+Dialogue: 0,0:17:34.32,0:17:35.92,Gen_Main,Kenichi,0000,0000,0000,,Una moneda de oro.
+Dialogue: 0,0:17:35.99,0:17:38.30,Gen_Main,Norspaul,0000,0000,0000,,¿Una moneda de oro? ¡Qué cara!
+Dialogue: 0,0:17:38.37,0:17:41.46,Gen_Main,Norspaul,0000,0000,0000,,Es cara, pero es preciosa.
+Dialogue: 0,0:17:43.42,0:17:45.36,Gen_Italics,Kenichi,0000,0000,0000,,¿Le habré pedido demasiado?
+Dialogue: 0,0:17:44.54,0:17:45.72,Gen_Main_Up,Norspaul,0000,0000,0000,,Qué cara es.
+Dialogue: 0,0:17:45.46,0:17:48.90,Gen_Italics,Kenichi,0000,0000,0000,,Aun así, tengo que sacarle lo que pueda\Na quienes tienen dinero.
+Dialogue: 0,0:17:45.79,0:17:47.38,Gen_Main_Up,Norspaul,0000,0000,0000,,Pero…
+Dialogue: 0,0:17:47.88,0:17:48.90,Gen_Main_Up,Norspaul,0000,0000,0000,,Es cara.
+Dialogue: 0,0:17:52.59,0:17:55.43,Gen_Italics,Kenichi,0000,0000,0000,,¿Es una gata? ¿O una persona?
+Dialogue: 0,0:18:02.06,0:18:04.32,Gen_Main,Nyakero,0000,0000,0000,,¿Qué haces, Myaley?
+Dialogue: 0,0:18:04.40,0:18:06.37,Gen_Main,Myaley,0000,0000,0000,,Eso duele, miau.
+Dialogue: 0,0:18:06.73,0:18:07.73,Gen_Main,Kenichi,0000,0000,0000,,¡Ah!
+Dialogue: 0,0:18:09.03,0:18:12.45,Gen_Main,Anama,0000,0000,0000,,¿Es la primera vez\Nque ves hombres bestia, Kenichi?
+Dialogue: 0,0:18:13.07,0:18:15.41,Gen_Main,Kenichi,0000,0000,0000,,¿Hombres bestia?
+Dialogue: 0,0:18:17.33,0:18:19.17,Gen_Main,Kenichi,0000,0000,0000,,Sí, perdón.
+Dialogue: 0,0:18:19.24,0:18:21.69,Gen_Main,Kenichi,0000,0000,0000,,Es que en mi aldea no había ninguno.
+Dialogue: 0,0:18:21.79,0:18:24.19,Gen_Main,Nyanji,0000,0000,0000,,Debes venir de muy lejos entonces.
+Dialogue: 0,0:18:24.29,0:18:26.75,Gen_Main,Kenichi,0000,0000,0000,,-Sí.\N-Por cierto…
+Dialogue: 0,0:18:27.75,0:18:28.88,Gen_Main,Kenichi,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:18:28.96,0:18:30.53,Gen_Main,Nyakero,0000,0000,0000,,Uy.
+Dialogue: 0,0:18:36.26,0:18:38.35,Gen_Main,Nyakero,0000,0000,0000,,Me gustaría llevarme esto.
+Dialogue: 0,0:18:38.43,0:18:41.11,Gen_Main,Kenichi,0000,0000,0000,,Por desgracia, no está a la venta.
+Dialogue: 0,0:18:41.64,0:18:44.19,Gen_Italics,Kenichi,0000,0000,0000,,Un momento. Podría comprar más.
+Dialogue: 0,0:18:45.02,0:18:47.42,Gen_Main,Kenichi,0000,0000,0000,,Cada esterilla cuesta\Ntres monedas de cobre.
+Dialogue: 0,0:18:47.52,0:18:49.27,Gen_Main,Nyakero,0000,0000,0000,,Entonces, me llevo tres.
+Dialogue: 0,0:18:49.36,0:18:51.03,Gen_Main,Kenichi,0000,0000,0000,,¿Tres?
+Dialogue: 0,0:18:51.57,0:18:55.82,Gen_Main,Kenichi,0000,0000,0000,,Te haré un descuento\Ny te cobraré ocho en lugar de nueve.
+Dialogue: 0,0:18:52.03,0:18:55.82,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,100)\fs18\bord1\3c&H2F3738&\pos(168,200)}9 monedas de cobre: 9000 yenes aprox.
+Dialogue: 0,0:18:54.36,0:18:55.82,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,100)\fs18\bord1\3c&H2F3738&\pos(168,250)}8 monedas de cobre: 8000 yenes aprox.
+Dialogue: 0,0:18:57.45,0:18:59.22,Gen_Main,Nyakero,0000,0000,0000,,No tenemos ocho monedas de cobre.
+Dialogue: 0,0:18:59.28,0:19:01.27,Gen_Main,Myaley,0000,0000,0000,,Tenemos moneditas cuadradas de plata.
+Dialogue: 0,0:19:02.04,0:19:06.22,Gen_Main,Kenichi,0000,0000,0000,,En ese caso, denme dos\Ny les daré dos de cobre como cambio.
+Dialogue: 0,0:19:12.05,0:19:14.20,Gen_Main,Norspaul,0000,0000,0000,,El vendedor dice la verdad.
+Dialogue: 0,0:19:16.26,0:19:17.93,Gen_Main,Nyakero,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:19:18.01,0:19:19.40,Gen_Main,Kenichi,0000,0000,0000,,Vuelvan cuando quieran.
+Dialogue: 0,0:19:20.64,0:19:23.60,Gen_Main,Anama,0000,0000,0000,,A los hombres bestia\Nles cuesta hacer cálculos.
+Dialogue: 0,0:19:23.68,0:19:24.77,Gen_Main,Kenichi,0000,0000,0000,,Ya veo…
+Dialogue: 0,0:19:27.15,0:19:28.86,Gen_Main,Norspaul,0000,0000,0000,,Parece que eres de fiar.
+Dialogue: 0,0:19:29.52,0:19:31.32,Gen_Main,Norspaul,0000,0000,0000,,Muy bien. Me la llevo.
+Dialogue: 0,0:19:31.98,0:19:33.72,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:19:37.16,0:19:39.07,Gen_Main,Kenichi,0000,0000,0000,,Con eso tendré para cinco noches.
+Dialogue: 0,0:19:39.16,0:19:40.70,Gen_Main,Azalea,0000,0000,0000,,¿Ganaste dinero?
+Dialogue: 0,0:19:41.08,0:19:42.46,Gen_Main,Kenichi,0000,0000,0000,,Más o menos.
+Dialogue: 0,0:19:45.29,0:19:48.76,Gen_Main,Primula,0000,0000,0000,,¿Compraste algo tan conveniente\Npor tan poco dinero?
+Dialogue: 0,0:19:50.13,0:19:52.21,Gen_Main,Margaret,0000,0000,0000,,Sí, señorita Primula.
+Dialogue: 0,0:19:52.30,0:19:54.71,Gen_Main,Margaret,0000,0000,0000,,Me gustaría usarlas en la mansión.
+Dialogue: 0,0:19:55.30,0:19:57.45,Gen_Main,Primula,0000,0000,0000,,De acuerdo, Margaret.
+Dialogue: 0,0:19:57.55,0:19:59.24,Gen_Main,Primula,0000,0000,0000,,Vuelve mañana a comprar más.
+Dialogue: 0,0:19:59.34,0:20:02.57,Gen_Main,Margaret,0000,0000,0000,,-Como desee…\N-¡No, las venderemos en la compañía!
+Dialogue: 0,0:20:03.06,0:20:09.07,Gen_Main,Primula,0000,0000,0000,,El lema de la Compañía Comercial Mallow\Nes: "No dejes pasar las oportunidades".
+Dialogue: 0,0:20:09.15,0:20:13.13,Gen_Main,Primula,0000,0000,0000,,¡Papá! ¿Dónde estás?
+Dialogue: 0,0:20:16.49,0:20:19.91,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,220)\fs22\bord1\3c&H202428&\pos(320,300)}Palangana: 5295 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:20:16.57,0:20:20.70,Gen_Main_Up,Kenichi,0000,0000,0000,,Me muero de ganas\Nde darme un baño caliente.
+Dialogue: 0,0:20:24.83,0:20:26.12,Gen_Italics,Kenichi,0000,0000,0000,,Vaya.
+Dialogue: 0,0:20:26.20,0:20:28.79,Gen_Italics,Kenichi,0000,0000,0000,,Parece que venden\Nbarriles para bañarse.
+Dialogue: 0,0:20:29.17,0:20:34.56,Gen_Italics,Kenichi,0000,0000,0000,,Si lleno uno con agua del río\Ny la caliento al fuego…
+Dialogue: 0,0:20:35.42,0:20:37.59,Gen_Italics,Kenichi,0000,0000,0000,,Podría funcionar.
+Dialogue: 0,0:20:38.17,0:20:40.21,Gen_Italics,Kenichi,0000,0000,0000,,Pero en ese caso…
+Dialogue: 0,0:20:40.29,0:20:41.29,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:20:41.39,0:20:43.39,Gen_Italics,Kenichi,0000,0000,0000,,Necesito un producto bueno para…
+Dialogue: 0,0:20:43.48,0:20:44.48,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:20:44.56,0:20:46.43,Gen_Italics,Kenichi,0000,0000,0000,,Quiero sacarle beneficio.
+Dialogue: 0,0:20:49.06,0:20:53.49,Gen_Italics,Kenichi,0000,0000,0000,,Pero… ¿cómo funcionará\Nesto de Shangri-La?
+Dialogue: 0,0:20:54.15,0:20:57.46,Gen_Italics,Kenichi,0000,0000,0000,,La luz de la pantalla\Nno ilumina mi entorno.
+Dialogue: 0,0:20:57.53,0:20:59.73,Gen_Italics,Kenichi,0000,0000,0000,,¿Eso es que no existe en realidad?
+Dialogue: 0,0:20:59.82,0:21:03.28,Gen_Italics,Kenichi,0000,0000,0000,,¿Cómo me llegan los paquetes?\N¿Cómo cuadran las cuentas?
+Dialogue: 0,0:21:03.37,0:21:07.10,Gen_Italics,Kenichi,0000,0000,0000,,¿Debería seguir usándolo?\N¿Qué se lleva como pago?
+Dialogue: 0,0:21:07.20,0:21:11.35,Gen_Italics,Kenichi,0000,0000,0000,,¿Será algún timo que me hará pagar\Ncon mi alma después de mucho uso?
+Dialogue: 0,0:21:11.42,0:21:14.96,Gen_Italics,Kenichi,0000,0000,0000,,¿O será otra cosa?\N¿Por qué estoy en otro mundo?
+Dialogue: 0,0:21:17.09,0:21:18.27,Gen_Main,Kenichi,0000,0000,0000,,Es inútil.
+Dialogue: 0,0:21:18.34,0:21:20.40,Gen_Main,Kenichi,0000,0000,0000,,No tengo forma de saberlo.
+Dialogue: 0,0:21:39.85,0:21:44.24,Gen_Italics,Anemone,0000,0000,0000,,Me encantaría llenarme\Nla barriga algún día…
+Dialogue: 0,0:21:46.49,0:21:48.91,Gen_Main,Padres,0000,0000,0000,,¡Anemone! ¡Anemone!
+Dialogue: 0,0:21:50.00,0:21:51.19,Gen_Main,Padres,0000,0000,0000,,¿Dónde estás?
+Dialogue: 0,0:21:53.14,0:21:55.71,Gen_Italics,Anemone,0000,0000,0000,,Por favor, Dios.
+Dialogue: 0,0:21:57.25,0:22:01.26,Gen_Main,Kenichi,0000,0000,0000,,De todas formas, la mayoría\Nde los japoneses trabajan demasiado.
+Dialogue: 0,0:22:09.39,0:22:16.52,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord0\blur4\t(20,435,\blur0.3)\c&H5F1705&\pos(320,260)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:23:31.56,0:23:34.93,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(800,0)\fs15\bord0\shad1\an9}Traducción: José María Pérez y Gekokujou\NEdición: José María Pérez\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:34.93,0:23:39.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs30\bord1\blur0.3\pos(320,130)}Episodio 2\h¡El curry es lo mejor!

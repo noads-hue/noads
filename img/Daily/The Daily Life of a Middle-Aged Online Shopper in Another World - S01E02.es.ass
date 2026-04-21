@@ -1,0 +1,397 @@
+﻿[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,0010,0030,0010,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00F8F9F5,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,9,0030,0030,0010,0
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.06,0:00:01.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(650,0)\fs16\blur2\c&H571B05&\3c&HFFE9D8&\pos(424,341)}The Daily Life of a Middle-Aged Online Shopper in Another World
+Dialogue: 0,0:00:15.04,0:00:17.66,Gen_Italics_top,Kenichi,0000,0000,0000,,Quizás no valgan tanto\Ncomo el diamante o el cuarzo,
+Dialogue: 0,0:00:15.04,0:00:19.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,267)}Collar (4 tipos): 11 307 yenes {\fs12}(IVA incluido)\N\N\N\N{\fs20}\h\h\h\h\h\hBroche: 2480 yenes {\fs12}(IVA incluido)\h\h\h\h\h\h\h\h\h\h\h\h{\fs20}Pendientes: 1597 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:00:17.75,0:00:22.66,Gen_Italics_top,Kenichi,0000,0000,0000,,pero el circonio y el cristal tallado\Ndeberían valer bastante en este mundo.
+Dialogue: 0,0:00:22.75,0:00:26.93,Gen_Italics,Kenichi,0000,0000,0000,,Ojalá tuviera suerte y que llamen\Nla atención de alguna mujer.
+Dialogue: 0,0:00:28.26,0:00:31.20,Gen_Main,Anama,0000,0000,0000,,Siempre tienes buenos artículos.
+Dialogue: 0,0:00:31.30,0:00:33.07,Gen_Main,Anama,0000,0000,0000,,¿Quién es tu proveedor?
+Dialogue: 0,0:00:34.14,0:00:35.47,Gen_Main,Kenichi,0000,0000,0000,,Es un secreto.
+Dialogue: 0,0:00:36.97,0:00:38.37,Gen_Main,Margaret,0000,0000,0000,,Disculpa…
+Dialogue: 0,0:00:38.43,0:00:39.81,Gen_Main,Kenichi,0000,0000,0000,,Bienvenida.
+Dialogue: 0,0:00:39.89,0:00:42.22,Gen_Italics,Kenichi,0000,0000,0000,,Esta sirvienta ya vino ayer también.
+Dialogue: 0,0:00:42.31,0:00:44.32,Gen_Main,Margaret,0000,0000,0000,,Me gustaría comprar más pinzas.
+Dialogue: 0,0:00:44.73,0:00:46.28,Gen_Main,Kenichi,0000,0000,0000,,Claro. ¿Cuántas?
+Dialogue: 0,0:00:46.36,0:00:47.69,Gen_Main,Margaret,0000,0000,0000,,Cien, por favor.
+Dialogue: 0,0:00:47.78,0:00:48.86,Gen_Main,Kenichi,0000,0000,0000,,¿Cien?
+Dialogue: 0,0:00:48.94,0:00:49.95,Gen_Main,Margaret,0000,0000,0000,,Sí.
+Dialogue: 0,0:00:50.03,0:00:53.33,Gen_Main,Kenichi,0000,0000,0000,,Cien serían 20 monedas de cobre
+Dialogue: 0,0:00:53.41,0:00:55.20,Gen_Main,Kenichi,0000,0000,0000,,o cuatro de plata.
+Dialogue: 0,0:00:55.28,0:00:57.20,Gen_Main,Margaret,0000,0000,0000,,Traje dinero suficiente.
+Dialogue: 0,0:00:57.95,0:00:58.99,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:01:06.84,0:01:08.81,Gen_Main,Kenichi,0000,0000,0000,,Puedes sacarlos si quieres.
+Dialogue: 0,0:01:08.88,0:01:10.34,Gen_Main,Margaret,0000,0000,0000,,Con permiso.
+Dialogue: 0,0:01:10.76,0:01:12.79,Gen_Main,Margaret,0000,0000,0000,,¿Es de diamante?
+Dialogue: 0,0:01:12.89,0:01:14.33,Gen_Main,Kenichi,0000,0000,0000,,Es cristal pulido.
+Dialogue: 0,0:01:14.43,0:01:15.72,Gen_Main,Margaret,0000,0000,0000,,¿Cristal?
+Dialogue: 0,0:01:15.81,0:01:18.22,Gen_Italics,Kenichi,0000,0000,0000,,En realidad es circonio.
+Dialogue: 0,0:01:18.31,0:01:20.84,Gen_Main,Kenichi,0000,0000,0000,,Vale seis moneditas cuadradas de plata.
+Dialogue: 0,0:01:20.94,0:01:22.91,Gen_Main,Margaret,0000,0000,0000,,Sigue siendo muy barato…
+Dialogue: 0,0:01:22.98,0:01:25.66,Gen_Main,Kenichi,0000,0000,0000,,Si te gusta, te lo puedo reservar.
+Dialogue: 0,0:01:25.73,0:01:27.48,Gen_Main,Margaret,0000,0000,0000,,Por favor.
+Dialogue: 0,0:01:27.57,0:01:28.70,Gen_Main,Kenichi,0000,0000,0000,,Vuelve cuando quieras.
+Dialogue: 0,0:01:30.53,0:01:31.97,Gen_Italics,Kenichi,0000,0000,0000,,Me llamo Kenichi.
+Dialogue: 0,0:01:32.07,0:01:35.03,Gen_Italics,Kenichi,0000,0000,0000,,Aparecí en otro mundo\Ncuando iba a cumplir 40 años.
+Dialogue: 0,0:01:35.12,0:01:38.85,Gen_Italics,Kenichi,0000,0000,0000,,No sé por qué, pero puedo comprar\Nartículos de Shangri-La
+Dialogue: 0,0:01:38.95,0:01:42.75,Gen_Italics,Kenichi,0000,0000,0000,,y estoy usando este poder para vivir\Nuna vida tranquila en este mundo.
+Dialogue: 0,0:01:42.83,0:01:46.67,Gen_Italics,Kenichi,0000,0000,0000,,En fin… ¿Podré sobrevivir?
+Dialogue: 0,0:01:51.47,0:01:58.60,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord0\blur4\t(20,435,\blur0.3)\c&H5F1705&\pos(320,260)}The Daily Life of a Middle-Aged Online Shopper\Nin Another World
+Dialogue: 0,0:03:16.97,0:03:21.43,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,400)\an7\fs22\bord1.6\blur0.8\pos(337,290)}Episodio 2\h\h\h¡El curry es lo mejor!
+Dialogue: 0,0:03:17.47,0:03:18.54,Gen_Main_Up,Kenichi,0000,0000,0000,,Sí.
+Dialogue: 0,0:03:18.93,0:03:19.94,Gen_Main_Up,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:03:20.85,0:03:21.99,Gen_Main_Up,Kenichi,0000,0000,0000,,Pinzas…
+Dialogue: 0,0:03:22.85,0:03:24.98,Gen_Main,Kenichi,0000,0000,0000,,Sí. Aquí tienes.
+Dialogue: 0,0:03:32.44,0:03:34.20,Gen_Italics,Kenichi,0000,0000,0000,,¿Los hombres bestia de ayer?
+Dialogue: 0,0:03:35.00,0:03:36.32,Gen_Italics,Kenichi,0000,0000,0000,,¿Habrán venido a quejarse?
+Dialogue: 0,0:03:38.86,0:03:41.35,Gen_Main,Myaley,0000,0000,0000,,¡Sabía que olías a especias, miau!
+Dialogue: 0,0:03:42.70,0:03:46.14,Gen_Main,Nyamelo,0000,0000,0000,,¡Por favor, nos gustaría\Nque nos vendieras especias!
+Dialogue: 0,0:03:46.21,0:03:47.75,Gen_Main,Kenichi,0000,0000,0000,,¿A qué se refieren?
+Dialogue: 0,0:03:47.83,0:03:48.98,Gen_Main,Nyakero,0000,0000,0000,,¡No te hagas el tonto!
+Dialogue: 0,0:03:49.08,0:03:51.15,Gen_Main,Nyakero,0000,0000,0000,,Tienes especias, ¿verdad?
+Dialogue: 0,0:03:51.25,0:03:52.63,Gen_Main,Nyanji,0000,0000,0000,,Ya lo dijo Myaley.
+Dialogue: 0,0:03:52.71,0:03:55.32,Gen_Main,Nyanji,0000,0000,0000,,¡Hueles a especias!
+Dialogue: 0,0:03:55.42,0:03:58.90,Gen_Main,Anama,0000,0000,0000,,Chicos, no le pidan\Nimposibles a este hombre.
+Dialogue: 0,0:03:58.97,0:04:01.89,Gen_Main,Anama,0000,0000,0000,,Si Bacopa llegara a fijarse en él,\Nse meterá en líos.
+Dialogue: 0,0:04:02.55,0:04:04.41,Gen_Main,Nyamelo,0000,0000,0000,,Los sindicatos de las especias…
+Dialogue: 0,0:04:04.47,0:04:07.29,Gen_Main,Anama,0000,0000,0000,,Sí. Bacopa, Zutera, etc.
+Dialogue: 0,0:04:07.39,0:04:08.62,Gen_Main,Anama,0000,0000,0000,,Lo entienden, ¿verdad?
+Dialogue: 0,0:04:08.69,0:04:12.42,Gen_Main,Hombre bestia,0000,0000,0000,,¡Por favor, haz algo!
+Dialogue: 0,0:04:12.52,0:04:13.65,Gen_Main,Kenichi,0000,0000,0000,,Un momento…
+Dialogue: 0,0:04:13.73,0:04:15.50,Gen_Main,Myaley,0000,0000,0000,,¿No puedes hacerlo?
+Dialogue: 0,0:04:16.61,0:04:18.70,Gen_Main,Gente,0000,0000,0000,,No deberían pedir algo imposible.
+Dialogue: 0,0:04:18.78,0:04:22.16,Gen_Main,Gente,0000,0000,0000,,El nuevo tiene que preocuparse\Nde su propia vida.
+Dialogue: 0,0:04:22.24,0:04:24.57,Gen_Main,Gente,0000,0000,0000,,No puede enfrentarse a Bacopa.
+Dialogue: 0,0:04:24.66,0:04:27.40,Gen_Main,Gente,0000,0000,0000,,Ni siquiera por el alimento\Nde los hombres bestia.
+Dialogue: 0,0:04:27.50,0:04:30.46,Gen_Main,Gente,0000,0000,0000,,Pero, si no puedes vencerlos,\Núnete a ellos.
+Dialogue: 0,0:04:31.38,0:04:33.21,Gen_Main,Kenichi,0000,0000,0000,,No puedo venderles especias,
+Dialogue: 0,0:04:33.29,0:04:37.10,Gen_Main,Kenichi,0000,0000,0000,,pero podría invitarlos\Na comida hecha con especias.
+Dialogue: 0,0:04:38.13,0:04:39.86,Gen_Main,Kenichi,0000,0000,0000,,Pero solo por esta vez.
+Dialogue: 0,0:04:39.93,0:04:41.70,Gen_Main,Kenichi,0000,0000,0000,,Hay un río en las afueras, ¿verdad?
+Dialogue: 0,0:04:41.80,0:04:43.18,Gen_Main,Kenichi,0000,0000,0000,,Comeremos allí.
+Dialogue: 0,0:04:43.26,0:04:45.09,Gen_Main,Hombre bestia,0000,0000,0000,,¡Genial!
+Dialogue: 0,0:04:45.18,0:04:47.61,Gen_Main,Anama,0000,0000,0000,,¿Puedo ir yo también?
+Dialogue: 0,0:04:48.36,0:04:50.79,Gen_Main,Nyakero,0000,0000,0000,,Ahora que está decidido,\Nno hay tiempo que perder.
+Dialogue: 0,0:04:50.85,0:04:52.51,Gen_Main,Kenichi,0000,0000,0000,,-¡Muy bien!\N-¡Sí!
+Dialogue: 0,0:04:53.15,0:04:54.19,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:04:54.27,0:04:56.20,Gen_Main,Myaley,0000,0000,0000,,¡En marcha, miau!
+Dialogue: 0,0:04:56.28,0:04:57.53,Gen_Main,Hombre bestia,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:05:11.08,0:05:12.96,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\fs18\an7\pos(32,214)}Set de granja: 2500 yenes {\fs12}(IVA incluido)\N{\fs18}Olla sopera: 3768 yenes {\fs12}(IVA incluido)\N{\fs18}Wok: 2800 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:11.08,0:05:12.96,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\fs18\an9\pos(608,214)}Surtido de pan rico: 1278 yenes {\fs12}(IVA incluido)\N{\fs18}Hornilla portátil: 2980 yenes {\fs12}(IVA incluido)\N{\fs18}Set de cubiertos: 6294 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:12.46,0:05:14.75,Gen_Main_Up,Kenichi,0000,0000,0000,,Bueno, hora de empezar a cocinar.
+Dialogue: 0,0:05:14.83,0:05:15.85,Gen_Main,Anama,0000,0000,0000,,Yo te ayudo.
+Dialogue: 0,0:05:15.92,0:05:18.34,Gen_Main,Kenichi,0000,0000,0000,,-¿Podrías cortar la verdura?\N-Claro.
+Dialogue: 0,0:05:19.26,0:05:20.55,Gen_Main,Anama,0000,0000,0000,,Este color…
+Dialogue: 0,0:05:21.26,0:05:23.46,Gen_Main,Anama,0000,0000,0000,,¿De verdad son verduras?
+Dialogue: 0,0:05:23.55,0:05:25.14,Gen_Main,Kenichi,0000,0000,0000,,Sí, son del extranjero.
+Dialogue: 0,0:05:25.21,0:05:26.22,Gen_Main,Kenichi,0000,0000,0000,,Están ricas.
+Dialogue: 0,0:05:32.23,0:05:33.48,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,252)}Cuchillo de cocina (set de 5): 2380 yenes {\fs12}(IVA incluido)\N{\fs20}Tabla de cortar: 1500 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:33.48,0:05:34.73,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,210)}Curry en polvo (58 g): 375 yenes {\fs12}(IVA incluido)\N{\fs18}Caldo de pollo sin sal (700 g): 486 yenes {\fs12}(IVA incluido)\N{\fs18}Salsa de ostras (115 g): 693 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:05:40.44,0:05:42.36,Gen_Main,Hombre bestia,0000,0000,0000,,-¿Qué es eso?\N-¡Qué bien huele!
+Dialogue: 0,0:05:42.78,0:05:44.43,Gen_Main,Hombre bestia,0000,0000,0000,,¡Increíble!
+Dialogue: 0,0:05:45.99,0:05:47.62,Gen_Main,Nyakero,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:05:47.70,0:05:49.75,Gen_Main,Nyamelo,0000,0000,0000,,¡Nunca había comido algo tan rico!
+Dialogue: 0,0:05:49.83,0:05:52.25,Gen_Main,Myaley,0000,0000,0000,,¡Me pica la lengua, miau!
+Dialogue: 0,0:05:52.33,0:05:54.50,Gen_Main,Nyanji,0000,0000,0000,,¡El pan y la sopa están riquísimos!
+Dialogue: 0,0:05:55.00,0:05:59.49,Gen_Main,Anama,0000,0000,0000,,Estamos comiendo con cucharas de plata.\NParecemos de la aristocracia.
+Dialogue: 0,0:05:59.59,0:06:01.45,Gen_Italics,Kenichi,0000,0000,0000,,En realidad, son de acero inoxidable.
+Dialogue: 0,0:06:01.97,0:06:05.39,Gen_Main,Nyakero,0000,0000,0000,,Qué ganas de acompañar esta comida\Ntan rica con una buena bebida.
+Dialogue: 0,0:06:03.72,0:06:08.14,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1600,0)\bord3\c&H60EEF0&\3c&H3588E4&\pos(483,15)\fs24}Alcohol
+Dialogue: 0,0:06:05.47,0:06:07.19,Gen_Main,Ambos,0000,0000,0000,,-¡Y tanto!\N-¡Yo también quiero!
+Dialogue: 0,0:06:07.76,0:06:10.02,Gen_Main,Anama,0000,0000,0000,,Tengan un poco de moderación.
+Dialogue: 0,0:06:10.10,0:06:13.22,Gen_Main_Up,Kenichi,0000,0000,0000,,No pasa nada,\Nque nos estamos divirtiendo todos.
+Dialogue: 0,0:06:11.27,0:06:15.23,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,300)\bord1\3c&H202428&\pos(320,294)}Shochu de 25 grados (4000 ml): 3802 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:06:13.31,0:06:14.63,Gen_Main_Up,Kenichi,0000,0000,0000,,Prueben esto.
+Dialogue: 0,0:06:14.73,0:06:18.27,Gen_Main_Up,Kenichi,0000,0000,0000,,A cambio, no le cuenten\Na nadie lo de esta comida.
+Dialogue: 0,0:06:18.36,0:06:19.53,Gen_Main,Kenichi,0000,0000,0000,,Pero a nadie.
+Dialogue: 0,0:06:19.61,0:06:21.53,Gen_Main,Hombre bestia,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:06:21.61,0:06:25.83,Gen_Main,Anama,0000,0000,0000,,¿No crees que eres demasiado bueno?
+Dialogue: 0,0:06:24.82,0:06:26.82,Gen_Main_Up,Nyakero,0000,0000,0000,,¡Váyanse al demonio, Bacopa!
+Dialogue: 0,0:06:26.91,0:06:27.92,Gen_Main_Up,Hombre bestia,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:06:26.95,0:06:31.16,Gen_Main,Kenichi,0000,0000,0000,,¿Qué tiene de malo\Nolvidar la realidad un ratito?
+Dialogue: 0,0:06:27.99,0:06:30.51,Gen_Main_Up,Nyamelo,0000,0000,0000,,¡Váyanse al demonio, nobles!
+Dialogue: 0,0:06:31.25,0:06:33.35,Gen_Main,Nyakero,0000,0000,0000,,-¡Váyanse al demonio, Bacopa!\N-¡Sí!
+Dialogue: 0,0:06:33.41,0:06:35.34,Gen_Main_Up,Nyamelo,0000,0000,0000,,¡Váyanse al demonio, nobles!
+Dialogue: 0,0:06:34.12,0:06:36.60,Gen_Main,Kenichi,0000,0000,0000,,Te llamas Myaley, ¿verdad?
+Dialogue: 0,0:06:36.67,0:06:37.83,Gen_Main,Myaley,0000,0000,0000,,Sí, miau.
+Dialogue: 0,0:06:37.92,0:06:39.17,Gen_Main,Kenichi,0000,0000,0000,,Yo me llamo Kenichi.
+Dialogue: 0,0:06:39.25,0:06:40.66,Gen_Main,Nyakero,0000,0000,0000,,Yo me llamo Nyakero.
+Dialogue: 0,0:06:40.75,0:06:42.23,Gen_Main,Nyamelo,0000,0000,0000,,Yo, Nyamelo.
+Dialogue: 0,0:06:42.30,0:06:43.55,Gen_Main,Nyanji,0000,0000,0000,,Y yo Nyanji.
+Dialogue: 0,0:06:43.63,0:06:45.05,Gen_Main,Kenichi,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:06:46.39,0:06:48.21,Gen_Main,Myaley,0000,0000,0000,,Encantada de conocerte, Kenichi.
+Dialogue: 0,0:06:58.69,0:06:59.82,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,294)}Jabón muy burbujeante: 137 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:06.20,0:07:07.95,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,294)}Toalla de secado rápido (set de 6): 3500 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:07.95,0:07:10.08,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,294)}Manta cálida (set de 6): 17 880 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:07:17.83,0:07:19.21,Gen_Italics,Kenichi,0000,0000,0000,,Increíble.
+Dialogue: 0,0:07:19.29,0:07:20.96,Gen_Italics,Kenichi,0000,0000,0000,,Hay estrellas por todas partes.
+Dialogue: 0,0:07:24.01,0:07:25.72,Gen_Main,Azalea,0000,0000,0000,,¿Recién vuelves?
+Dialogue: 0,0:07:25.80,0:07:28.47,Gen_Main,Azalea,0000,0000,0000,,Como pagaste por la habitación,\Nno es asunto mío.
+Dialogue: 0,0:07:28.55,0:07:31.88,Gen_Main,Kenichi,0000,0000,0000,,Estuve con los hombres bestia\Nfuera de la ciudad.
+Dialogue: 0,0:07:31.97,0:07:36.42,Gen_Main,Azalea,0000,0000,0000,,Podrías haber salido conmigo\Nen lugar de con una mujer bestia.
+Dialogue: 0,0:07:36.52,0:07:38.41,Gen_Main,Kenichi,0000,0000,0000,,No había ninguna mujer…
+Dialogue: 0,0:07:43.69,0:07:44.88,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:07:44.94,0:07:46.68,Gen_Italics,Kenichi,0000,0000,0000,,¿Me odiará?
+Dialogue: 0,0:07:46.78,0:07:50.47,Gen_Italics,Kenichi,0000,0000,0000,,Bueno, no necesito mujeres\Npara la vida que quiero.
+Dialogue: 0,0:07:51.20,0:07:53.69,Gen_Main,Primula,0000,0000,0000,,¿Es esta tienda, Margaret?
+Dialogue: 0,0:07:53.79,0:07:55.33,Gen_Main,Margaret,0000,0000,0000,,Sí, señorita.
+Dialogue: 0,0:08:16.48,0:08:19.06,Gen_Main,Kenichi,0000,0000,0000,,¿Viniste por lo que te dejé reservado?
+Dialogue: 0,0:08:19.88,0:08:20.90,Gen_Main,Margaret,0000,0000,0000,,Sí.
+Dialogue: 0,0:08:20.98,0:08:22.11,Gen_Main,Margaret,0000,0000,0000,,Aquí tienes.
+Dialogue: 0,0:08:22.19,0:08:23.90,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:08:24.90,0:08:26.53,Gen_Main,Margaret,0000,0000,0000,,Tome, señorita.
+Dialogue: 0,0:08:27.86,0:08:30.25,Gen_Main,Primula,0000,0000,0000,,¿Esto es… cristal?
+Dialogue: 0,0:08:35.62,0:08:38.46,Gen_Main,Primula,0000,0000,0000,,¿Seguro que no es diamante?
+Dialogue: 0,0:08:38.96,0:08:41.17,Gen_Main,Kenichi,0000,0000,0000,,Sí, es cristal pulido.
+Dialogue: 0,0:08:41.83,0:08:43.84,Gen_Main,Primula,0000,0000,0000,,¿Solo tienes estos productos?
+Dialogue: 0,0:08:43.92,0:08:46.61,Gen_Main,Primula,0000,0000,0000,,Me gustaría ver si tienes algo más.
+Dialogue: 0,0:08:46.71,0:08:47.92,Gen_Main,Kenichi,0000,0000,0000,,Está bien.
+Dialogue: 0,0:08:49.97,0:08:51.64,Gen_Main,Primula,0000,0000,0000,,¿Una caja de objetos?
+Dialogue: 0,0:08:51.72,0:08:53.26,Gen_Main,Kenichi,0000,0000,0000,,Así es.
+Dialogue: 0,0:08:53.35,0:08:57.27,Gen_Italics,Kenichi,0000,0000,0000,,Aunque la verdad es\Nque Shangri-La me lo envía todo.
+Dialogue: 0,0:08:59.60,0:09:02.72,Gen_Main,Primula,0000,0000,0000,,¿Puedo hablar contigo, vendedor?
+Dialogue: 0,0:09:02.81,0:09:04.27,Gen_Main,Kenichi,0000,0000,0000,,¿Qué deseas?
+Dialogue: 0,0:09:04.36,0:09:08.46,Gen_Main,Primula,0000,0000,0000,,Soy Primula, la hija\Nde la Compañía Comercial Mallow.
+Dialogue: 0,0:09:08.53,0:09:10.05,Gen_Main,Kenichi,0000,0000,0000,,Qué amable de tu parte.
+Dialogue: 0,0:09:10.57,0:09:13.03,Gen_Main,Primula,0000,0000,0000,,Siento pedirte esto tan de repente,
+Dialogue: 0,0:09:13.12,0:09:16.72,Gen_Main,Primula,0000,0000,0000,,pero ¿podrías venir a mi empresa\Na conocer a mi padre?
+Dialogue: 0,0:09:16.79,0:09:19.35,Gen_Main,Anama,0000,0000,0000,,Sabía que eras la hija de Mallow.
+Dialogue: 0,0:09:20.21,0:09:22.02,Gen_Main,Anama,0000,0000,0000,,Son unos grandes comerciantes aquí.
+Dialogue: 0,0:09:22.12,0:09:24.64,Gen_Main,Anama,0000,0000,0000,,Mallow, el jefe,\Nes un hombre de buen corazón
+Dialogue: 0,0:09:24.71,0:09:26.17,Gen_Main,Anama,0000,0000,0000,,y mucha gente lo admira.
+Dialogue: 0,0:09:26.25,0:09:28.67,Gen_Italics,Kenichi,0000,0000,0000,,¿Voy a relacionarme\Ncon una gran empresa?
+Dialogue: 0,0:09:28.76,0:09:30.31,Gen_Main,Kenichi,0000,0000,0000,,Está bien.
+Dialogue: 0,0:09:30.76,0:09:33.59,Gen_Main,Primula,0000,0000,0000,,Siento haberte pedido tanto.
+Dialogue: 0,0:09:35.80,0:09:38.79,Gen_Main,Kenichi,0000,0000,0000,,Es la primera vez que me subo\Na un carruaje tan lujoso.
+Dialogue: 0,0:09:40.31,0:09:42.83,Gen_Main,Primula,0000,0000,0000,,Los carruajes de la nobleza\Nson más lujosos aún.
+Dialogue: 0,0:09:48.03,0:09:52.25,Gen_Main,Primula,0000,0000,0000,,Le pedí a un artesano\Nque intentara imitar esas pinzas,
+Dialogue: 0,0:09:52.86,0:09:55.45,Gen_Main,Primula,0000,0000,0000,,pero no pudo reproducir\Nla parte de metal.
+Dialogue: 0,0:09:55.53,0:09:57.95,Gen_Main,Kenichi,0000,0000,0000,,A primera vista parece sencilla,
+Dialogue: 0,0:09:58.04,0:10:01.96,Gen_Main,Kenichi,0000,0000,0000,,pero al parecer requiere\Nde tecnología avanzada para hacerla.
+Dialogue: 0,0:10:02.04,0:10:05.27,Gen_Main,Primula,0000,0000,0000,,Eso es lo que dijo nuestro artesano.
+Dialogue: 0,0:10:07.17,0:10:08.46,Gen_Main,Primula,0000,0000,0000,,Llegamos.
+Dialogue: 0,0:10:10.71,0:10:12.42,Gen_Main,Kenichi,0000,0000,0000,,Qué grande…
+Dialogue: 0,0:10:12.51,0:10:16.11,Gen_Main,Primula,0000,0000,0000,,Es pequeña comparada\Ncon las de la nobleza.
+Dialogue: 0,0:10:16.18,0:10:17.51,Gen_Italics,Kenichi,0000,0000,0000,,¿La nobleza?
+Dialogue: 0,0:10:17.61,0:10:19.22,Gen_Italics,Kenichi,0000,0000,0000,,Qué sociedad tan estratificada.
+Dialogue: 0,0:10:26.73,0:10:28.93,Gen_Main,Mallow,0000,0000,0000,,Gracias por haber venido.
+Dialogue: 0,0:10:29.02,0:10:32.03,Gen_Main,Mallow,0000,0000,0000,,Soy Mallow,\Nde la Compañía Comercial Mallow.
+Dialogue: 0,0:10:32.11,0:10:33.56,Gen_Main,Kenichi,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:10:33.65,0:10:36.20,Gen_Main,Kenichi,0000,0000,0000,,Vine invitado por su hija.
+Dialogue: 0,0:10:36.28,0:10:37.88,Gen_Main,Kenichi,0000,0000,0000,,Me llamo Kenichi.
+Dialogue: 0,0:10:37.95,0:10:39.21,Gen_Main,Kenichi,0000,0000,0000,,Un placer.
+Dialogue: 0,0:10:39.28,0:10:40.74,Gen_Main,Mallow,0000,0000,0000,,Vaya, qué educado eres.
+Dialogue: 0,0:10:40.87,0:10:42.92,Gen_Main,Mallow,0000,0000,0000,,Yo también estoy encantado de conocerte.
+Dialogue: 0,0:10:43.00,0:10:44.04,Gen_Main,Mallow,0000,0000,0000,,Pasa.
+Dialogue: 0,0:10:52.46,0:10:53.58,Gen_Main,Primula,0000,0000,0000,,Papá.
+Dialogue: 0,0:10:54.76,0:10:58.06,Gen_Main,Mallow,0000,0000,0000,,¿Qué? ¿Tienes una caja de objetos?
+Dialogue: 0,0:10:58.14,0:11:00.92,Gen_Main,Kenichi,0000,0000,0000,,Sí, aunque es pequeña.
+Dialogue: 0,0:11:01.01,0:11:03.18,Gen_Main,Mallow,0000,0000,0000,,La verdad es que yo también tengo una.
+Dialogue: 0,0:11:06.14,0:11:11.44,Gen_Main,Mallow,0000,0000,0000,,La usé para hacer crecer mi empresa\Ny que llegara a donde está hoy.
+Dialogue: 0,0:11:11.53,0:11:13.67,Gen_Main,Kenichi,0000,0000,0000,,Eso es increíble.
+Dialogue: 0,0:11:13.74,0:11:17.65,Gen_Main,Kenichi,0000,0000,0000,,Yo solo he usado la mía\Ncomo almacén para mis cultivos.
+Dialogue: 0,0:11:17.74,0:11:19.74,Gen_Main,Mallow,0000,0000,0000,,Pues qué desperdicio.
+Dialogue: 0,0:11:23.20,0:11:25.46,Gen_Main,Kenichi,0000,0000,0000,,Dígame, ¿de qué quería hablar?
+Dialogue: 0,0:11:25.87,0:11:27.96,Gen_Main,Mallow,0000,0000,0000,,Iré al grano.
+Dialogue: 0,0:11:28.04,0:11:31.20,Gen_Main,Mallow,0000,0000,0000,,Me gustaría que vendieras\Nal por mayor a mi empresa.
+Dialogue: 0,0:11:31.71,0:11:32.94,Gen_Main,Kenichi,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:11:33.00,0:11:37.59,Gen_Main,Kenichi,0000,0000,0000,,Cree que puede distribuir los artículos\Ny sacarles aún más beneficio.
+Dialogue: 0,0:11:37.68,0:11:39.49,Gen_Main,Mallow,0000,0000,0000,,Exacto.
+Dialogue: 0,0:11:39.55,0:11:43.01,Gen_Main,Kenichi,0000,0000,0000,,En ese caso,\N¿por qué no me los compra baratos
+Dialogue: 0,0:11:43.10,0:11:45.23,Gen_Main,Kenichi,0000,0000,0000,,y los revende más adelante?
+Dialogue: 0,0:11:45.31,0:11:49.86,Gen_Main,Mallow,0000,0000,0000,,¿Cómo te sentirías\Nsi te enteraras de que lo hacemos?
+Dialogue: 0,0:11:50.31,0:11:53.98,Gen_Main,Kenichi,0000,0000,0000,,La verdad es que no me agradaría.
+Dialogue: 0,0:11:54.07,0:11:55.57,Gen_Main,Mallow,0000,0000,0000,,¿Lo ves?
+Dialogue: 0,0:11:55.65,0:11:59.52,Gen_Main,Mallow,0000,0000,0000,,Además, es posible que nuestros rivales\Nquisieran hablar contigo
+Dialogue: 0,0:11:59.61,0:12:03.12,Gen_Main,Mallow,0000,0000,0000,,para proponerte un trato mejor.
+Dialogue: 0,0:12:03.20,0:12:07.20,Gen_Main,Mallow,0000,0000,0000,,Si hiciéramos eso, estaríamos dando\Nuna oportunidad a nuestros competidores.
+Dialogue: 0,0:12:07.29,0:12:08.34,Gen_Main,Mallow,0000,0000,0000,,Además,
+Dialogue: 0,0:12:08.51,0:12:14.69,Gen_Main,Mallow,0000,0000,0000,,no soportaría ver que intentaran hacer\Nun trato de exclusividad contigo.
+Dialogue: 0,0:12:14.76,0:12:17.88,Gen_Main,Mallow,0000,0000,0000,,Eso es lo más insensato\Nque podría hacer un comerciante.
+Dialogue: 0,0:12:18.34,0:12:21.89,Gen_Main,Mallow,0000,0000,0000,,Uno de los secretos\Nde los beneficios de mi empresa es:
+Dialogue: 0,0:12:22.35,0:12:25.48,Gen_Main,Mallow,0000,0000,0000,,"¡No te dejes cegar\Npor los beneficios!".
+Dialogue: 0,0:12:25.56,0:12:29.66,Gen_Main,Mallow,0000,0000,0000,,Podrías estar dejando pasar\Nuna oportunidad todavía mejor.
+Dialogue: 0,0:12:32.36,0:12:34.04,Gen_Main,Mallow,0000,0000,0000,,En fin…
+Dialogue: 0,0:12:34.11,0:12:36.52,Gen_Main,Mallow,0000,0000,0000,,¿Qué te parece un 50 %\Ndel precio de venta?
+Dialogue: 0,0:12:36.61,0:12:37.93,Gen_Main_Up,Kenichi,0000,0000,0000,,Me parece bien.
+Dialogue: 0,0:12:36.90,0:12:39.86,Gen_Main,Mallow,0000,0000,0000,,-Lo sabía. Te sería difícil, ¿verdad?\N-Papá.
+Dialogue: 0,0:12:42.62,0:12:44.10,Gen_Main,Primula,0000,0000,0000,,¿No te parece genial?
+Dialogue: 0,0:12:44.66,0:12:45.91,Gen_Main,Mallow,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:12:46.50,0:12:47.58,Gen_Main,Kenichi,0000,0000,0000,,Será un placer.
+Dialogue: 0,0:12:48.09,0:12:52.14,Gen_Italics,Kenichi,0000,0000,0000,,Estoy sacando miles de yenes\Na lo que compro por dos o tres mil,
+Dialogue: 0,0:12:52.21,0:12:53.45,Gen_Italics,Kenichi,0000,0000,0000,,así que ganamos todos.
+Dialogue: 0,0:12:54.22,0:12:56.98,Gen_Italics,Kenichi,0000,0000,0000,,Firmé un contrato\Ncon la Compañía Comercial Mallow.
+Dialogue: 0,0:12:57.05,0:13:01.01,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,250)\bord1\3c&H202428&\pos(320,294)}Broches de camafeo (5 tipos): 28 686 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:12:57.05,0:13:01.61,Gen_Italics_top,Kenichi,0000,0000,0000,,Los primeros artículos que les vendí\Nme dieron más de un millón de yenes.
+Dialogue: 0,0:13:02.76,0:13:04.93,Gen_Main,Primula,0000,0000,0000,,¡Qué maravilla!
+Dialogue: 0,0:13:07.35,0:13:11.33,Gen_Main,Primula,0000,0000,0000,,Papá, ¿te parece bien que los compre?
+Dialogue: 0,0:13:11.39,0:13:14.19,Gen_Main,Mallow,0000,0000,0000,,¿Qué haría yo sin ti, hija mía?
+Dialogue: 0,0:13:14.65,0:13:17.57,Gen_Main,Primula,0000,0000,0000,,En ese caso,\Nte daré diez monedas de oro.
+Dialogue: 0,0:13:17.57,0:13:22.28,Cart_C_Tre,CARTEL,0000,0000,0000,,{\bord0\fad(0,150)\pos(254,138)}Una moneda de plata\h\h\h50 000 yenes aprox.
+Dialogue: 0,0:13:17.57,0:13:23.66,Cart_C_Tre,CARTEL,0000,0000,0000,,{\bord0\pos(273,20)\fad(0,50)}1 moneda de oro\h\h\h\h1000 yenes aprox.\N\N\N\N\N\h\h\h\hUna monedita cuadrada de plata\h\h\h\h5000 yenes aprox.\N\N\N\N\N\h\h\h\h\h\h\h\h\N\N\N\NUna moneda de oro\h\h\h200 000 yenes aprox.\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:13:17.65,0:13:20.98,Gen_Italics,Kenichi,0000,0000,0000,,Ya conozco el valor del dinero\Nen este mundo.
+Dialogue: 0,0:13:21.07,0:13:22.99,Gen_Italics,Kenichi,0000,0000,0000,,Entonces, diez monedas de oro son…
+Dialogue: 0,0:13:22.11,0:13:23.66,Cart_C_Tre,CARTEL,0000,0000,0000,,{\bord0\fad(150,50)\pos(254,123)}Unos dos millones de yenes
+Dialogue: 0,0:13:25.74,0:13:27.30,Gen_Main,Primula,0000,0000,0000,,¿Quieres más?
+Dialogue: 0,0:13:27.37,0:13:29.10,Gen_Main,Kenichi,0000,0000,0000,,No, para nada.
+Dialogue: 0,0:13:29.20,0:13:30.71,Gen_Main,Kenichi,0000,0000,0000,,Muchas gracias.
+Dialogue: 0,0:13:31.67,0:13:32.71,Gen_Italics,Kenichi,0000,0000,0000,,Gracias a eso,
+Dialogue: 0,0:13:33.38,0:13:38.21,Gen_Italics,Kenichi,0000,0000,0000,,en poco tiempo mi cuenta de Shangri-La\Nsuperó los ocho dígitos.
+Dialogue: 0,0:13:38.21,0:13:39.46,Cart_A_Tre,CARTEL,0000,0000,0000,,{\pos(66,35)\frz30\c&H0B151D&\3c&HDBCCD1&}Shangri-La
+Dialogue: 0,0:13:46.05,0:13:50.02,Gen_Italics,Kenichi,0000,0000,0000,,Ahora que tenía dinero, podía empezar\Na planear mi vida tranquila.
+Dialogue: 0,0:14:09.58,0:14:12.02,Gen_Italics,Kenichi,0000,0000,0000,,Esta zona será mi base.
+Dialogue: 0,0:14:12.75,0:14:14.25,Gen_Main,Azalea,0000,0000,0000,,¿Vas a vivir en el bosque?
+Dialogue: 0,0:14:14.33,0:14:16.25,Gen_Main,Azalea,0000,0000,0000,,-¿Lo dices en serio?\N-Sí.
+Dialogue: 0,0:14:16.33,0:14:17.75,Gen_Main,Azalea,0000,0000,0000,,Es peligroso.
+Dialogue: 0,0:14:18.84,0:14:19.99,Gen_Main,Kenichi,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:14:20.09,0:14:23.94,Gen_Main,Kenichi,0000,0000,0000,,Aun así, no está tan lejos\Nde las murallas de la ciudad.
+Dialogue: 0,0:14:24.01,0:14:25.95,Gen_Main,Kenichi,0000,0000,0000,,Estaré bien por esta zona, ¿no?
+Dialogue: 0,0:14:26.47,0:14:29.42,Gen_Main,Azalea,0000,0000,0000,,Eres muy raro, Kenichi.
+Dialogue: 0,0:14:30.89,0:14:34.85,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,300)\bord1\3c&H202428&\fs18\pos(320,255)}Guantes de trabajo impermeables: 1399 yenes {\fs12}(IVA incluido)\N{\fs18}Bordeadora de gasolina: 22 800 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:31.64,0:14:34.08,Gen_Italics_top,Kenichi,0000,0000,0000,,Ya he usado esto en mi antiguo mundo.
+Dialogue: 0,0:14:34.14,0:14:35.90,Gen_Italics_top,Kenichi,0000,0000,0000,,Estoy acostumbrado a manejarla.
+Dialogue: 0,0:14:35.90,0:14:39.86,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,300)\bord1\3c&H202428&\fs18\pos(320,255)}Gasolina mixta (1 l): 841 yenes {\fs12}(IVA incluido)\N{\fs18}Bomba de aceite: 186 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:36.94,0:14:38.49,Gen_Italics_top,Kenichi,0000,0000,0000,,El problema es el combustible.
+Dialogue: 0,0:14:39.90,0:14:42.40,Gen_Italics,Kenichi,0000,0000,0000,,Compré gasolina mixta\Nde dos tiempos,
+Dialogue: 0,0:14:42.49,0:14:44.09,Gen_Italics,Kenichi,0000,0000,0000,,pero me salió muy cara.
+Dialogue: 0,0:14:44.53,0:14:47.74,Gen_Italics,Kenichi,0000,0000,0000,,Aunque qué le vamos a hacer\Nsi no la venden en este mundo.
+Dialogue: 0,0:14:55.96,0:14:59.92,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(250,0)\bord1\3c&H202428&\pos(320,296)}Solución oral rehidratante: 134 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:14:59.92,0:15:02.80,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Gravilla de uso doméstico (48 t): 255 200 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:15:00.00,0:15:02.27,Gen_Main_Up,Kenichi,0000,0000,0000,,Ya terminé de hacer un camino.
+Dialogue: 0,0:15:02.80,0:15:05.55,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Motosierra a motor: 17 680 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:15:03.21,0:15:04.35,Gen_Main_Up,Kenichi,0000,0000,0000,,Ahora…
+Dialogue: 0,0:15:10.26,0:15:12.68,Gen_Italics,Kenichi,0000,0000,0000,,Tengo que cortar los árboles.
+Dialogue: 0,0:15:16.90,0:15:17.90,Gen_Main,Kenichi,0000,0000,0000,,A ver…
+Dialogue: 0,0:15:30.45,0:15:33.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,256)}Cuña para troncos (set de 2) 938 yenes {\fs12}(IVA incluido)\N{\fs18}Maza con mango de madera (2.9 kg) 4957 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:16:05.74,0:16:08.91,Gen_Main,Kenichi,0000,0000,0000,,Bueno, ahora tengo que limpiar esto.
+Dialogue: 0,0:16:09.74,0:16:10.74,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:16:12.03,0:16:14.24,Gen_Italics,Kenichi,0000,0000,0000,,¿No puedo guardarlos?
+Dialogue: 0,0:16:14.33,0:16:15.82,Gen_Italics,Kenichi,0000,0000,0000,,¿Serán demasiado grandes?
+Dialogue: 0,0:16:15.91,0:16:16.94,Gen_Italics,Kenichi,0000,0000,0000,,En ese caso…
+Dialogue: 0,0:16:17.44,0:16:18.44,Gen_Main,Kenichi,0000,0000,0000,,Traer.
+Dialogue: 0,0:16:22.46,0:16:23.86,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:16:23.96,0:16:25.11,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:16:25.21,0:16:26.23,Gen_Main,Kenichi,0000,0000,0000,,Guardar.
+Dialogue: 0,0:16:26.63,0:16:30.26,Cart_A_Tre,CARTEL,0000,0000,0000,,{\frz343\fax-0.2\c&H262E42&\3c&HB8C9DD&\bord1.5\pos(294,23)}Caja de objetos
+Dialogue: 0,0:16:26.63,0:16:30.26,Cart_A_Tre,CARTEL,0000,0000,0000,,{\frz341\fax-0.2\c&H262E42&\3c&HB8C9DD&\bord1.5\pos(196,97)}Madera (10 m)
+Dialogue: 0,0:16:27.22,0:16:30.26,Gen_Main,Kenichi,0000,0000,0000,,Parece que puedo meter\Ncualquier cosa menor de diez metros.
+Dialogue: 0,0:16:30.80,0:16:32.80,Gen_Main,Kenichi,0000,0000,0000,,Si el límite está en diez metros,
+Dialogue: 0,0:16:32.89,0:16:34.91,Gen_Main,Kenichi,0000,0000,0000,,podré almacenar la mayoría de cosas.
+Dialogue: 0,0:16:37.60,0:16:39.37,Gen_Main,Kenichi,0000,0000,0000,,Ya haré el resto mañana.
+Dialogue: 0,0:17:09.76,0:17:12.09,Gen_Main,Kenichi,0000,0000,0000,,¡No puedo seguir con esto!
+Dialogue: 0,0:17:13.01,0:17:15.34,Gen_Main,Kenichi,0000,0000,0000,,¡Contemplen con asombro y estupor!
+Dialogue: 0,0:17:15.43,0:17:18.68,Gen_Main,Kenichi,0000,0000,0000,,¡Lo digo por Yukichi, Higuchi\Ny el príncipe imperial!
+Dialogue: 0,0:17:18.77,0:17:21.44,Gen_Main,Kenichi,0000,0000,0000,,¡Ven aquí, mi mecha gigante!
+Dialogue: 0,0:17:21.52,0:17:23.78,Gen_Main,Kenichi,0000,0000,0000,,¡Traer retroexcavadora!
+Dialogue: 0,0:17:28.94,0:17:33.45,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Retroexcavadora (usada): 1 200 000 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:17:33.53,0:17:38.45,Gen_Main,Kenichi,0000,0000,0000,,¡Estoy tan cansado que compré\Nuna retroexcavadora de 1 200 000 yenes!
+Dialogue: 0,0:17:43.92,0:17:47.74,Gen_Main,Kenichi,0000,0000,0000,,Está un poco usada\Ny la veo un poco desgastada,
+Dialogue: 0,0:17:47.84,0:17:49.51,Gen_Main,Kenichi,0000,0000,0000,,pero ya no me cansaré.
+Dialogue: 0,0:17:50.01,0:17:52.59,Gen_Main,Kenichi,0000,0000,0000,,¡Allá vamos, retroexcavadora!
+Dialogue: 0,0:17:54.64,0:17:55.66,Gen_Main,Kenichi,0000,0000,0000,,Este sonido…
+Dialogue: 0,0:17:55.76,0:17:56.93,Gen_Main,Kenichi,0000,0000,0000,,Es diésel, ¿verdad?
+Dialogue: 0,0:17:57.01,0:17:59.89,Gen_Main,Kenichi,0000,0000,0000,,¡Cierto, la maquinaria pesada usa diésel!
+Dialogue: 0,0:17:59.97,0:18:02.45,Gen_Main,Kenichi,0000,0000,0000,,¡Funciona con diésel, diésel, diésel!
+Dialogue: 0,0:18:02.52,0:18:04.20,Gen_Main,Kenichi,0000,0000,0000,,¡No lo venden!
+Dialogue: 0,0:18:04.27,0:18:08.50,Gen_Main,Kenichi,0000,0000,0000,,¿Venderán algún aditivo\Npara convertir el queroseno en diésel…?
+Dialogue: 0,0:18:08.57,0:18:10.60,Gen_Main,Kenichi,0000,0000,0000,,¿Tampoco venden queroseno?
+Dialogue: 0,0:18:10.69,0:18:12.44,Gen_Main,Kenichi,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:18:12.53,0:18:16.45,Gen_Main,Kenichi,0000,0000,0000,,¡No te rindas tan fácilmente\Ndespués de esta gran compra!
+Dialogue: 0,0:18:16.87,0:18:24.37,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H0B151D&\3c&HD7CEC4&\pos(174,50)\frz15\bord1.6\fax0.1}Shangri-La
+Dialogue: 0,0:18:16.95,0:18:19.90,Gen_Main,Kenichi,0000,0000,0000,,Pero usan combustible\Npara cosas de acampada, ¿verdad?
+Dialogue: 0,0:18:19.99,0:18:21.94,Gen_Main,Kenichi,0000,0000,0000,,Podré usarlo en lugar del queroseno.
+Dialogue: 0,0:18:22.04,0:18:24.37,Gen_Main,Kenichi,0000,0000,0000,,¿1800 yenes el litro?
+Dialogue: 0,0:18:24.46,0:18:26.22,Gen_Main,Kenichi,0000,0000,0000,,Es muy caro.
+Dialogue: 0,0:18:26.75,0:18:27.88,Gen_Main,Kenichi,0000,0000,0000,,Es caro,
+Dialogue: 0,0:18:27.96,0:18:29.38,Gen_Main,Kenichi,0000,0000,0000,,¡pero no me queda otra!
+Dialogue: 0,0:18:29.38,0:18:31.13,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs18\bord1\3c&H202428&\pos(320,256)}Aditivos (3 botellas, 250 ml): 26 700 yenes {\fs12}(IVA incluido)\N{\fs18}Combustible (4 l): 3300 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:18:31.21,0:18:32.86,Gen_Italics,Kenichi,0000,0000,0000,,Aun así…
+Dialogue: 0,0:18:32.92,0:18:36.70,Gen_Italics,Kenichi,0000,0000,0000,,Si no se mueve tras ponerle esto,\Nestaré en problemas.
+Dialogue: 0,0:18:37.85,0:18:39.14,Gen_Italics,Kenichi,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:18:39.14,0:18:42.14,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Generador diésel: 76 580 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:18:39.22,0:18:41.38,Gen_Italics_top,Kenichi,0000,0000,0000,,Probaré con esto.
+Dialogue: 0,0:18:43.14,0:18:44.14,Gen_Main,Kenichi,0000,0000,0000,,¡No puedo leerlo!
+Dialogue: 0,0:18:44.14,0:18:46.15,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Bote para gasolina (20 l): 1097 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:18:51.73,0:18:53.18,Gen_Main,Kenichi,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:18:55.41,0:18:59.66,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(250,0)\fs18\bord1\3c&H202428&\pos(320,206)}Alargador de cable: 4155 yenes {\fs12}(IVA incluido)\N{\fs18}Enchufe con cable (2): 3998 yenes {\fs12}(IVA incluido)\N{\fs18}Reflector de 100 W con bombilla LED y casquillo E26 (2): 5598 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:18:59.28,0:19:01.73,Gen_Main_Up,Kenichi,0000,0000,0000,,¡La primera luz eléctrica\Nde este mundo!
+Dialogue: 0,0:19:02.50,0:19:04.73,Gen_Main,Kenichi,0000,0000,0000,,Parpadea por la fluctuación del voltaje,
+Dialogue: 0,0:19:04.83,0:19:06.53,Gen_Main,Kenichi,0000,0000,0000,,así que no podré enchufar mucho,
+Dialogue: 0,0:19:06.62,0:19:08.90,Gen_Main,Kenichi,0000,0000,0000,,pero podré operar la retroexcavadora.
+Dialogue: 0,0:19:13.63,0:19:16.18,Gen_Main,Kenichi,0000,0000,0000,,Qué ganas de darme un buen baño.
+Dialogue: 0,0:19:17.30,0:19:20.59,Gen_Main,Kenichi,0000,0000,0000,,Además, tengo que hacer algo\Ncon los bichos.
+Dialogue: 0,0:19:21.06,0:19:23.54,Gen_Main,Azalea,0000,0000,0000,,¿Y si compras\Nuna piedra repelente de insectos?
+Dialogue: 0,0:19:24.14,0:19:26.94,Gen_Main,Azalea,0000,0000,0000,,Tienen en la tienda de herramientas\Ncerca del mercado.
+Dialogue: 0,0:19:32.98,0:19:35.20,Gen_Main,Anciano,0000,0000,0000,,¿Buscas algo?
+Dialogue: 0,0:19:35.78,0:19:38.20,Gen_Italics,Kenichi,0000,0000,0000,,Un mago.
+Dialogue: 0,0:19:39.28,0:19:42.20,Gen_Main,Anciano,0000,0000,0000,,No te había visto antes por aquí.
+Dialogue: 0,0:19:42.29,0:19:44.41,Gen_Main,Kenichi,0000,0000,0000,,Llevo un puesto desde hace poco.
+Dialogue: 0,0:19:44.50,0:19:45.62,Gen_Main,Kenichi,0000,0000,0000,,Somos compañeros.
+Dialogue: 0,0:19:45.71,0:19:46.71,Gen_Main,Kenichi,0000,0000,0000,,Mucho gusto.
+Dialogue: 0,0:19:46.79,0:19:49.29,Gen_Main,Anciano,0000,0000,0000,,¿Eres extranjero?
+Dialogue: 0,0:19:49.38,0:19:50.99,Gen_Main,Anciano,0000,0000,0000,,Si tienes algo interesante,
+Dialogue: 0,0:19:51.09,0:19:52.78,Gen_Main,Anciano,0000,0000,0000,,te lo compraré a buen precio.
+Dialogue: 0,0:19:52.88,0:19:55.07,Gen_Main,Kenichi,0000,0000,0000,,No, no vine a vender nada.
+Dialogue: 0,0:19:55.17,0:19:56.24,Gen_Main,Kenichi,0000,0000,0000,,Vengo a comprar.
+Dialogue: 0,0:19:56.34,0:19:58.55,Gen_Main,Kenichi,0000,0000,0000,,¿Tienes piedras mágicas\Nque repelan bichos?
+Dialogue: 0,0:19:58.62,0:20:00.97,Gen_Main,Anciano,0000,0000,0000,,Sí. Serán tres monedas de plata.
+Dialogue: 0,0:20:01.04,0:20:02.05,Gen_Main,Kenichi,0000,0000,0000,,¡Qué caras!
+Dialogue: 0,0:20:04.47,0:20:08.48,Cart_A_Tre,CARTEL,0000,0000,0000,,{\bord1\3c&H202428&\pos(320,296)}Naranja importada de Navel (2): 216 yenes {\fs12}(IVA incluido)
+Dialogue: 0,0:20:04.56,0:20:06.90,Gen_Main_Up,Kenichi,0000,0000,0000,,¿No me puedes hacer un descuento?
+Dialogue: 0,0:20:06.98,0:20:08.48,Gen_Main_Up,Kenichi,0000,0000,0000,,Son frutas de mi país.
+Dialogue: 0,0:20:08.56,0:20:11.26,Gen_Main,Anciano,0000,0000,0000,,¿Fruta extranjera?
+Dialogue: 0,0:20:11.36,0:20:13.37,Gen_Main,Anciano,0000,0000,0000,,Nunca la había visto.
+Dialogue: 0,0:20:13.94,0:20:16.11,Gen_Main,Anciano,0000,0000,0000,,Bueno, te las dejo\Nen dos monedas de plata.
+Dialogue: 0,0:20:16.95,0:20:18.24,Gen_Main,Kenichi,0000,0000,0000,,Gracias.
+Dialogue: 0,0:20:18.86,0:20:21.86,Gen_Main,Anama,0000,0000,0000,,Ese anciano sabe de todo.
+Dialogue: 0,0:20:21.95,0:20:24.56,Gen_Main,Anama,0000,0000,0000,,Es como una enciclopedia\Ncon patas de Dahlia.
+Dialogue: 0,0:20:24.66,0:20:26.66,Gen_Main,Anama,0000,0000,0000,,No perderás nada por ser su amigo.
+Dialogue: 0,0:20:26.74,0:20:27.74,Gen_Main,Kenichi,0000,0000,0000,,Entiendo.
+Dialogue: 0,0:20:28.71,0:20:32.17,Gen_Main,Anama,0000,0000,0000,,Parece que ese hombre\Nha vuelto a hacer algo.
+Dialogue: 0,0:20:32.25,0:20:34.25,Gen_Main,Anama,0000,0000,0000,,Han actualizado su cartel de se busca.
+Dialogue: 0,0:20:34.67,0:20:35.84,Gen_Main,Kenichi,0000,0000,0000,,¿Shaga?
+Dialogue: 0,0:20:36.21,0:20:38.77,Gen_Main,Anama,0000,0000,0000,,Es el líder de los bandidos de la zona.
+Dialogue: 0,0:21:04.33,0:21:05.91,Gen_Main,Merchant,0000,0000,0000,,¡Bandidos!
+Dialogue: 0,0:21:15.34,0:21:16.63,Gen_Main,Kenichi,0000,0000,0000,,¡Supermovimiento!
+Dialogue: 0,0:21:16.71,0:21:20.79,Gen_Main,Kenichi,0000,0000,0000,,¡Ataque de pala de retroexcavadora!
+Dialogue: 0,0:21:21.76,0:21:25.64,Gen_Main,Kenichi,0000,0000,0000,,¡Que llueva tu justicia sobre\Nlos discípulos de esta tierra malvada!
+Dialogue: 0,0:21:29.98,0:21:31.74,Gen_Main,Kenichi,0000,0000,0000,,¡Mira cómo se mueve!
+Dialogue: 0,0:21:31.81,0:21:33.76,Gen_Main,Kenichi,0000,0000,0000,,¡Los otros mundos son increíbles!
+Dialogue: 0,0:21:33.86,0:21:36.53,Gen_Main,Kenichi,0000,0000,0000,,Qué divertido es operar esto.
+Dialogue: 0,0:21:36.61,0:21:38.89,Gen_Main,Kenichi,0000,0000,0000,,Quiero cavar más por aquí.
+Dialogue: 0,0:21:39.44,0:21:41.15,Gen_Main,Kenichi,0000,0000,0000,,Podré transformar la zona.
+Dialogue: 0,0:21:41.61,0:21:45.91,Gen_Main,Kenichi,0000,0000,0000,,Aun así, necesito allanar la tierra\Npara tener unos buenos cimientos.
+Dialogue: 0,0:21:47.12,0:21:49.86,Gen_Main,Kenichi,0000,0000,0000,,¡Por mi vida tranquila en otro mundo,
+Dialogue: 0,0:21:49.95,0:21:53.70,Gen_Main,Kenichi,0000,0000,0000,,declaro que construiré\Nuna cabaña de madera aquí!
+Dialogue: 0,0:21:55.00,0:21:57.59,Gen_Italics,Kenichi,0000,0000,0000,,Pero como gasté demasiado\Nen la retroexcavadora,
+Dialogue: 0,0:21:57.67,0:21:59.68,Gen_Italics,Kenichi,0000,0000,0000,,mi cuenta se quedó tiritando…
+Dialogue: 0,0:21:59.76,0:22:02.71,Gen_Italics,Kenichi,0000,0000,0000,,Eso significa que necesitaré más fondos…
+Dialogue: 0,0:22:02.80,0:22:04.03,Gen_Italics,Kenichi,0000,0000,0000,,En fin…
+Dialogue: 0,0:23:31.18,0:23:34.93,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs15\bord1\blur1}Traducción: José María Pérez y Gekokujou\NEdición: José María Pérez\NControl de calidad: Gekokujou
+Dialogue: 0,0:23:34.93,0:23:39.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fs30\bord1\blur0.3\pos(296,100)}Episodio 3\h\h\h\h\h\h\h\h\hUna casa pequeña\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hen un bosque grande
