@@ -1,0 +1,1458 @@
+[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 360
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Com,Comic Sans MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Com,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,5,5,0,1
+Style: Cart_A_Ari,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Ari,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.52,0:00:04.01,Gen_Italics,,0,0,0,,Esta historia es una obra de ficción.
+Dialogue: 0,0:00:05.40,0:00:09.28,Gen_Italics,,0,0,0,,Bueno, casi todo\Nen este mundo es ficción.
+Dialogue: 0,0:00:10.87,0:00:11.99,Gen_Italics,,0,0,0,,Se inventa…
+Dialogue: 0,0:00:12.49,0:00:13.58,Gen_Italics,,0,0,0,,Se exagera…
+Dialogue: 0,0:00:14.70,0:00:17.20,Gen_Italics,,0,0,0,,Y se esconde\Ntodo lo que puede ser vergonzoso.
+Dialogue: 0,0:00:18.58,0:00:23.75,Gen_Italics,,0,0,0,,El fan de las idols es alguien\Nque desea que le mientan con habilidad.
+Dialogue: 0,0:00:25.30,0:00:28.42,Gen_Italics,,0,0,0,,En este mundo, las mentiras son armas.
+Dialogue: 0,0:00:29.80,0:00:31.72,Gen_Main,,0,0,0,,¡Ai!
+Dialogue: 0,0:00:32.30,0:00:35.18,Gen_Main,,0,0,0,,¡Ojalá pudiera ver\Nsu encanto en persona!
+Dialogue: 0,0:00:38.77,0:00:41.94,Gen_Main,,0,0,0,,La estrella\Ndel grupo de idols B-Komachi…
+Dialogue: 0,0:00:42.02,0:00:43.27,Gen_Main,,0,0,0,,La figura central…
+Dialogue: 0,0:00:43.86,0:00:46.36,Gen_Main,,0,0,0,,La hermosa chica de 16 años…
+Dialogue: 0,0:00:46.53,0:00:47.58,Gen_Main,,0,0,0,,¡Ai!
+Dialogue: 0,0:00:48.57,0:00:50.40,Gen_Main,,0,0,0,,El grupo se formó hace cuatro años.
+Dialogue: 0,0:00:50.49,0:00:53.70,Gen_Main,,0,0,0,,Fueron volviéndose famosas,\Naumentó su presencia en los medios
+Dialogue: 0,0:00:53.78,0:00:56.66,Gen_Main,,0,0,0,,y el público al fin las descubrió.
+Dialogue: 0,0:00:56.74,0:01:00.54,Gen_Main,,0,0,0,,Es el momento de despegar.\NEl estrellato está cerca de…
+Dialogue: 0,0:01:01.12,0:01:04.84,Gen_Main,,0,0,0,,¿Por qué reproduce un DVD\Nen la habitación de un paciente?
+Dialogue: 0,0:01:05.29,0:01:07.38,Gen_Main,,0,0,0,,No tiene mucho sentido.
+Dialogue: 0,0:01:09.47,0:01:11.97,Gen_Main,,0,0,0,,Observar algo lindo\Nes bueno para la salud.
+Dialogue: 0,0:01:12.85,0:01:15.68,Gen_Main,,0,0,0,,No hay conciertos de idols en el campo.
+Dialogue: 0,0:01:15.97,0:01:17.60,Gen_Main,,0,0,0,,Es una práctica clínica.
+Dialogue: 0,0:01:18.14,0:01:20.10,Gen_Main,,0,0,0,,Está haciendo proselitismo.
+Dialogue: 0,0:01:20.18,0:01:23.35,Gen_Main,,0,0,0,,Por favor, no haga que esa sea\Nla postura oficial del hospital.
+Dialogue: 0,0:01:23.81,0:01:25.86,Gen_Main,,0,0,0,,Ahora que me acuerdo…
+Dialogue: 0,0:01:26.07,0:01:28.03,Gen_Main,,0,0,0,,Era tendencia en Twitter que…
+Dialogue: 2,0:01:30.36,0:01:33.57,Cart_C_Ari,CARTEL,0,0,0,,{\c&H3A0DD9&\fscy60\bord0\blur0.3\fs18\an4\frz358.1\pos(66.476,287.809)}Ai de B-Komachi se toma un descanso\Npor cuestiones de salud
+Dialogue: 0,0:01:30.61,0:01:33.57,Gen_Main,,0,0,0,,¿Ai se tomará un descanso?
+Dialogue: 0,0:01:34.82,0:01:36.78,Gen_Main,,0,0,0,,Es un verdadero fiel.
+Dialogue: 0,0:01:37.49,0:01:40.62,Gen_Main,,0,0,0,,Solo tiene 16 años.\NParece que es un pedófilo.
+Dialogue: 0,0:01:40.70,0:01:42.14,Gen_Main,,0,0,0,,Por favor, no me llames así.
+Dialogue: 0,0:01:43.25,0:01:45.96,Gen_Main,,0,0,0,,Tengo mis motivos.
+Dialogue: 0,0:01:47.29,0:01:49.92,Gen_Main,,0,0,0,,Hice la residencia\Nen este mismo hospital.
+Dialogue: 0,0:01:50.80,0:01:54.55,Gen_Main,,0,0,0,,Holgazaneaba en las habitaciones\Nde los pacientes, como ahora.
+Dialogue: 0,0:01:54.64,0:01:55.93,Gen_Main,,0,0,0,,Madure ya.
+Dialogue: 0,0:01:55.92,0:02:01.14,Cart_A_Tre,CARTEL,0,0,0,,{\fs10\bord0\blur0.4\c&H384D34&\3c&H537E51&\frz357.1\pos(140.919,222.405)}Sarina Tendouji
+Dialogue: 0,0:01:56.53,0:02:00.72,Gen_Main,,0,0,0,,Una de las pacientes que conocí\Ncambió mi destino.
+Dialogue: 0,0:02:01.81,0:02:03.64,Gen_Main,,0,0,0,,Y esta chica es Mei-Mei.
+Dialogue: 0,0:02:03.83,0:02:05.14,Gen_Main,,0,0,0,,Baila muy bien.
+Dialogue: 0,0:02:07.06,0:02:10.19,Gen_Main,,0,0,0,,Ari y Kyun cantan muy bien,
+Dialogue: 0,0:02:10.73,0:02:13.07,Gen_Main,,0,0,0,,pero mi favorita es
+Dialogue: 0,0:02:13.40,0:02:15.41,Gen_Main,,0,0,0,,Ai, sin ninguna duda.
+Dialogue: 0,0:02:16.07,0:02:20.87,Gen_Main,,0,0,0,,Tiene mi edad, pero es muy madura\Ny canta y baila genial.
+Dialogue: 0,0:02:21.45,0:02:23.12,Gen_Main,,0,0,0,,Y tiene una cara muy linda.
+Dialogue: 0,0:02:23.21,0:02:26.37,Gen_Main,,0,0,0,,Si pudiera renacer,\Nquerría esa misma cara.
+Dialogue: 0,0:02:26.96,0:02:30.96,Gen_Main,,0,0,0,,¿Qué tonterías dices de renacer?\NNo seas tonta.
+Dialogue: 0,0:02:31.78,0:02:33.67,Gen_Main,,0,0,0,,Qué poco soñador eres.
+Dialogue: 0,0:02:35.84,0:02:41.14,Gen_Main,,0,0,0,,¿No pensaste cómo sería la vida\Nsi nacieras siendo el hijo de un famoso?
+Dialogue: 0,0:02:42.14,0:02:46.69,Gen_Main,,0,0,0,,¿Cómo sería tener contactos\Ny buen aspecto desde que naces?
+Dialogue: 0,0:02:47.35,0:02:48.42,Gen_Main,,0,0,0,,No.
+Dialogue: 0,0:02:48.62,0:02:50.40,Gen_Main,,0,0,0,,Ya veo que no tienes sueños.
+Dialogue: 0,0:02:51.15,0:02:52.94,Gen_Main,,0,0,0,,Tú ya eres muy linda.
+Dialogue: 0,0:02:53.53,0:02:55.53,Gen_Main,,0,0,0,,No hace falta que renazcas.
+Dialogue: 0,0:02:58.07,0:03:01.05,Gen_Main,,0,0,0,,Cuando recibas el alta,\Nsé una idol si quieres.
+Dialogue: 0,0:03:01.33,0:03:04.04,Gen_Main,,0,0,0,,-Seré tu fan.\N-¿De verdad?
+Dialogue: 0,0:03:04.25,0:03:06.21,Gen_Main,,0,0,0,,Te quiero, cásate conmigo.
+Dialogue: 0,0:03:06.29,0:03:09.42,Gen_Main,,0,0,0,,Perdóname, pero sería mi ruina\Nsocialmente hablando.
+Dialogue: 0,0:03:09.96,0:03:11.46,Gen_Main,,0,0,0,,De acuerdo, señor ético.
+Dialogue: 0,0:03:11.80,0:03:16.05,Gen_Main,,0,0,0,,Qué pena, ¿verdad? Me lo plantearé\Nde verdad cuando cumplas los 16.
+Dialogue: 0,0:03:18.01,0:03:19.51,Gen_Main,,0,0,0,,Los 16, ¿eh?
+Dialogue: 0,0:03:20.68,0:03:23.00,Gen_Main,,0,0,0,,Eres muy malo.
+Dialogue: 0,0:03:23.31,0:03:25.00,Gen_Main,,0,0,0,,Es un plan muy práctico, ¿no?
+Dialogue: 0,0:03:32.02,0:03:36.36,Gen_Main,,0,0,0,,Un astrocitoma anaplásico.\NSolo tenía 12 años.
+Dialogue: 0,0:03:38.20,0:03:41.58,Gen_Main,,0,0,0,,Si estuviera viva hoy,\Ntendría 16 años, igual que Ai.
+Dialogue: 0,0:03:42.53,0:03:46.41,Gen_Main,,0,0,0,,Seguí a la idol favorita de Ai,\Nsuperponiéndolas a ambas en mi cabeza.
+Dialogue: 0,0:03:47.75,0:03:50.02,Gen_Main,,0,0,0,,Quiero que recorra\Nel camino hacia sus sueños.
+Dialogue: 0,0:03:50.33,0:03:52.46,Gen_Main,,0,0,0,,Solo quiero ver eso.
+Dialogue: 0,0:03:53.29,0:03:54.59,Gen_Main,,0,0,0,,Tiene sentido.
+Dialogue: 0,0:03:54.78,0:03:56.59,Gen_Main,,0,0,0,,Ya veo que es un pedófilo.
+Dialogue: 0,0:03:56.67,0:03:57.88,Gen_Main,,0,0,0,,¿Me estabas escuchando?
+Dialogue: 0,0:03:57.97,0:04:00.43,Gen_Main,,0,0,0,,Te conté una historia muy emotiva.
+Dialogue: 0,0:04:01.26,0:04:04.52,Gen_Main,,0,0,0,,Hay algo muy gráfico\Nacerca de su obsesión por ella.
+Dialogue: 0,0:04:05.14,0:04:08.98,Gen_Main,,0,0,0,,¿No está usando a Sarina como excusa\Npara dar salida a sus deseos?
+Dialogue: 0,0:04:09.06,0:04:13.44,Gen_Main,,0,0,0,,Qué tontería. Te juro por Sarina\Nque solo la apoyo de forma pura.
+Dialogue: 0,0:04:13.98,0:04:18.28,Gen_Main,,0,0,0,,Pero si esa tal Ai apareciera y le\Npidiera salir con ella, lo haría, ¿no?
+Dialogue: 0,0:04:22.29,0:04:25.87,Gen_Main,,0,0,0,,Se acabó el descanso.\NVolvamos al trabajo.
+Dialogue: 0,0:04:25.95,0:04:30.33,Gen_Main,,0,0,0,,Responda. ¿Qué me responde a eso?\NJúremelo por Sarina.
+Dialogue: 0,0:04:30.83,0:04:32.79,Cart_A_Tre,CARTEL,0,0,0,,{\c&H87899F&\3c&HFCFDF9&\t(\fs-1)\move(179,58,233,84.572,23,1942)}Medicina interna 2
+Dialogue: 0,0:04:30.83,0:04:32.79,Cart_A_Tre,CARTEL,0,0,0,,{\c&H87899F&\3c&HFCFDF9&\fs14\t(\fs-1)\move(343,134,370,147,23,1942)}Medicina interna 1
+Dialogue: 0,0:04:31.92,0:04:34.42,Gen_Italics,,0,0,0,,Estoy preocupado por Ai.
+Dialogue: 0,0:04:34.81,0:04:37.31,Gen_Italics,,0,0,0,,Espero que se recupere\Ny vuelva a los escenarios.
+Dialogue: 0,0:04:37.76,0:04:42.72,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\fscy130\fax-0.3\blur0.3\bord0\c&H3D3D6F&\frz8.266\pos(179.999,237.714)}Obstetricia y ginecología
+Dialogue: 0,0:04:39.05,0:04:41.59,Gen_Main,,0,0,0,,Hola, ya estoy aquí.
+Dialogue: 0,0:04:43.55,0:04:47.02,Gen_Main,,0,0,0,,Veamos… ¿Es tu primera visita, Hoshino?
+Dialogue: 0,0:04:47.35,0:04:48.43,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:04:48.67,0:04:51.48,Gen_Italics,,0,0,0,,A juzgar por su vientre,\Ndebe estar de unas 20 semanas.
+Dialogue: 0,0:04:52.02,0:04:54.61,Gen_Italics,,0,0,0,,Es bastante tarde\Npara un examen inicial.
+Dialogue: 0,0:04:55.69,0:04:59.03,Gen_Italics,,0,0,0,,Tiene 16 años. Debe tener sus problemas.
+Dialogue: 0,0:04:59.61,0:05:03.12,Gen_Italics,,0,0,0,,Será una de esas chicas que hacen cosas\Nsin consultarlo con nadie.
+Dialogue: 0,0:05:03.62,0:05:04.97,Gen_Main,,0,0,0,,¿Es usted su padre?
+Dialogue: 0,0:05:05.16,0:05:07.24,Gen_Main,,0,0,0,,Sobre el papel, sí…
+Dialogue: 0,0:05:08.04,0:05:14.59,Gen_Main,,0,0,0,,Creció en un orfanato,\Nasí que soy su tutor legal.
+Dialogue: 0,0:05:14.67,0:05:15.71,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:05:16.57,0:05:21.18,Gen_Italics,,0,0,0,,16 años, criada en un orfanato.\NCreo que esta historia ya la oí.
+Dialogue: 0,0:05:21.84,0:05:22.98,Gen_Italics,,0,0,0,,Es como…
+Dialogue: 0,0:05:33.13,0:05:37.98,Gen_Main,,0,0,0,,¿Cómo lo ve, doctor? ¿Puede que solo\Nse trate de estreñimiento agudo?
+Dialogue: 0,0:05:38.28,0:05:40.32,Gen_Main,,0,0,0,,En ese caso, ya estaría muerta.
+Dialogue: 0,0:05:40.49,0:05:42.02,Gen_Main,,0,0,0,,Despreocúpate por eso.
+Dialogue: 0,0:05:42.28,0:05:43.86,Gen_Main,,0,0,0,,Hoy estoy estupendamente bien.
+Dialogue: 0,0:05:46.58,0:05:51.16,Gen_Main,,0,0,0,,Tendré que hacerte una revisión.\NIré a prepararlo todo, espera aquí.
+Dialogue: 0,0:05:51.37,0:05:53.96,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\fscy130\fax-0.3\blur0.3\bord0\c&H3D3D6F&\frz8.266\pos(179.999,237.714)}Obstetricia y ginecología
+Dialogue: 0,0:05:54.33,0:05:55.83,Gen_Italics,,0,0,0,,¡Un momento!
+Dialogue: 0,0:05:55.92,0:05:57.59,Gen_Italics,,0,0,0,,¿Es ella de verdad?
+Dialogue: 0,0:05:57.92,0:05:59.38,Gen_Italics,,0,0,0,,¿O solo se parece a Ai?
+Dialogue: 0,0:05:59.46,0:06:02.93,Gen_Italics,,0,0,0,,No, un fan suyo tan veterano\Nno podría confundirse.
+Dialogue: 0,0:06:04.89,0:06:07.85,Gen_Italics,,0,0,0,,¡Ai es superlinda en persona!
+Dialogue: 0,0:06:07.93,0:06:09.22,Gen_Main,,0,0,0,,¡No!
+Dialogue: 0,0:06:09.56,0:06:12.60,Gen_Italics,,0,0,0,,¡Mi idol favorita está embarazada!
+Dialogue: 0,0:06:13.10,0:06:16.69,Gen_Italics,,0,0,0,,Es un shock tan grande\Nque siento que vomitaré.
+Dialogue: 0,0:06:16.85,0:06:18.02,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:06:18.69,0:06:20.53,Gen_Main,,0,0,0,,¿Cómo diablos pasó esto?
+Dialogue: 0,0:06:20.61,0:06:22.03,Gen_Italics,,0,0,0,,¡Eso mismo digo yo!
+Dialogue: 0,0:06:22.43,0:06:25.41,Gen_Main,,0,0,0,,Soy el presidente de tu agencia,\N¿por qué no me dijiste nada?
+Dialogue: 0,0:06:25.70,0:06:27.49,Gen_Main,,0,0,0,,¿Quién es el padre?
+Dialogue: 0,0:06:28.21,0:06:29.41,Gen_Main,,0,0,0,,Bueno…
+Dialogue: 0,0:06:34.04,0:06:35.12,Gen_Main,,0,0,0,,Es un secreto.
+Dialogue: 0,0:06:35.29,0:06:38.88,Gen_Main,,0,0,0,,¿Un secreto? Bueno, qué remedio.
+Dialogue: 0,0:06:48.35,0:06:52.06,Gen_Main,,0,0,0,,El resultado es el siguiente.\N20 semanas de embarazo, gemelos.
+Dialogue: 0,0:06:52.93,0:06:54.02,Gen_Main,,0,0,0,,¿Gemelos?
+Dialogue: 0,0:06:55.73,0:06:56.83,Gen_Main,,0,0,0,,Gemelos…
+Dialogue: 0,0:06:57.27,0:06:59.48,Gen_Main,,0,0,0,,Ai, ¿de verdad tienes pensado tenerlos?
+Dialogue: 0,0:06:59.98,0:07:03.36,Gen_Main,,0,0,0,,Si se descubre que estás embarazada\Ncon 16 años y los tienes,
+Dialogue: 0,0:07:04.24,0:07:08.49,Gen_Main,,0,0,0,,tu carrera y mi agencia\Ntienen los días contados.
+Dialogue: 0,0:07:10.83,0:07:12.62,Gen_Main,,0,0,0,,¿Qué opina usted, doctor?
+Dialogue: 0,0:07:17.15,0:07:19.96,Gen_Main,,0,0,0,,La decisión final es solo tuya.
+Dialogue: 0,0:07:20.75,0:07:22.54,Gen_Main,,0,0,0,,Piénsalo bien antes de decidirlo.
+Dialogue: 0,0:07:23.96,0:07:26.63,Gen_Main,,0,0,0,,Como médico no puedo decirte nada más.
+Dialogue: 0,0:07:29.51,0:07:30.97,Gen_Main,,0,0,0,,Como médico, claro.
+Dialogue: 0,0:07:31.05,0:07:32.35,Gen_Italics,,0,0,0,,Siguiente noticia.
+Dialogue: 0,0:07:32.43,0:07:33.72,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 1,0:07:34.22,0:07:36.94,Cart_A_Tre,CARTEL,0,0,0,,{\xshad-1.5\blur0.5\yshad1.5\fs12\c&HFFFFFF&\3c&H3162F6&\4c&H37D7FC&\frz359.3\frx0\fry350\pos(416.064,275.81)}Anuncio sorpresa\N{\3c&HE09E3D&}Ponta {\c&H424559&\3c&HFFFFFF&}y la {\c&HFFFFFF&\3c&HD577F1&}idol MUY\N{\c&H424B61&\3c&HFFFFFF&}están casados y esperan un hijo
+Dialogue: 2,0:07:34.60,0:07:36.94,Gen_Main,,0,0,0,,Me gustaba mucho MIU…
+Dialogue: 0,0:07:37.11,0:07:39.15,Gen_Main,,0,0,0,,Qué oportuno…
+Dialogue: 0,0:07:39.23,0:07:45.07,Gen_Main,,0,0,0,,Si muriera ahora, existe la posibilidad\Nde renacer como el hijo de una idol.
+Dialogue: 0,0:07:45.36,0:07:47.33,Gen_Main,,0,0,0,,Qué idea tan retorcida.
+Dialogue: 0,0:07:47.74,0:07:51.95,Gen_Main,,0,0,0,,¿Tú puedes apoyar\Na una idol casada y con hijos?
+Dialogue: 0,0:07:55.75,0:07:59.88,Gen_Italics,,0,0,0,,Aunque te enamores de un hombre,\Nyo te seguiré apoyando.
+Dialogue: 0,0:08:01.08,0:08:07.67,Gen_Italics,,0,0,0,,Pero si tienes a los niños, no creo\Nque vayas a llegar demasiado alto.
+Dialogue: 0,0:08:09.05,0:08:11.47,Gen_Italics,,0,0,0,,El punto de vista de los fans\Nes muy egoísta.
+Dialogue: 0,0:08:12.14,0:08:14.10,Gen_Italics,,0,0,0,,Tú también lo crees, ¿no, Sarina?
+Dialogue: 0,0:08:15.43,0:08:17.02,Gen_Main,,0,0,0,,Ah, doctor.
+Dialogue: 0,0:08:17.10,0:08:18.39,Gen_Main,,0,0,0,,Hoshino.
+Dialogue: 0,0:08:19.35,0:08:21.69,Gen_Main,,0,0,0,,No es bueno que salgas\Ncon el viento que hace.
+Dialogue: 0,0:08:21.77,0:08:23.69,Gen_Main,,0,0,0,,Estoy abrigada, tranquilo.
+Dialogue: 0,0:08:26.19,0:08:30.53,Gen_Main,,0,0,0,,Elegí este sitio por recomendación\Ndel presidente, es muy lindo.
+Dialogue: 0,0:08:31.49,0:08:35.02,Gen_Main,,0,0,0,,Hay muchas estrellas\Nincluso al atardecer.
+Dialogue: 0,0:08:36.20,0:08:39.08,Gen_Main,,0,0,0,,En Tokio no se puede ver algo así.
+Dialogue: 0,0:08:41.75,0:08:46.17,Gen_Main,,0,0,0,,¿Viniste al campo\Nporque en Tokio te reconocerían?
+Dialogue: 0,0:08:46.44,0:08:47.53,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:08:47.71,0:08:49.63,Gen_Main,,0,0,0,,¿Te mencioné mi profesión?
+Dialogue: 0,0:08:50.47,0:08:54.64,Gen_Main,,0,0,0,,Hace mucho, una de mis pacientes\Nera una gran fan tuya.
+Dialogue: 0,0:08:55.14,0:08:59.15,Gen_Main,,0,0,0,,Pensé que los médicos\Nserían todos viejos
+Dialogue: 0,0:08:59.28,0:09:01.23,Gen_Main,,0,0,0,,y que nadie me reconocería.
+Dialogue: 0,0:09:01.56,0:09:03.86,Gen_Main,,0,0,0,,Es imposible esconder\Nmi aura arrasadora.
+Dialogue: 0,0:09:03.94,0:09:05.02,Gen_Main,,0,0,0,,Qué problema.
+Dialogue: 0,0:09:05.11,0:09:06.82,Gen_Italics,,0,0,0,,Me gusta esa confianza.
+Dialogue: 0,0:09:07.65,0:09:10.36,Gen_Main,,0,0,0,,¿Y dejarás de ser idol?
+Dialogue: 0,0:09:10.45,0:09:12.28,Gen_Main,,0,0,0,,¿Por qué? No quiero.
+Dialogue: 0,0:09:12.78,0:09:14.38,Gen_Main,,0,0,0,,Pero entonces…
+Dialogue: 0,0:09:15.37,0:09:18.00,Gen_Main,,0,0,0,,No tengo familia.
+Dialogue: 0,0:09:18.58,0:09:20.75,Gen_Main,,0,0,0,,Siempre quise tener una.
+Dialogue: 0,0:09:22.04,0:09:24.71,Gen_Main,,0,0,0,,Tengo aquí unos gemelos.
+Dialogue: 0,0:09:26.13,0:09:29.92,Gen_Main,,0,0,0,,Sé que nuestra familia\Nserá muy alegre y divertida.
+Dialogue: 0,0:09:30.69,0:09:32.26,Gen_Main,,0,0,0,,Así que tendrás a los niños
+Dialogue: 0,0:09:32.42,0:09:34.30,Gen_Main,,0,0,0,,y seguirás siendo idol.
+Dialogue: 0,0:09:34.68,0:09:36.51,Gen_Main,,0,0,0,,Entonces…
+Dialogue: 0,0:09:36.97,0:09:39.47,Gen_Main,,0,0,0,,Sí, no lo haré público.
+Dialogue: 0,0:09:40.27,0:09:42.19,Gen_Main,,0,0,0,,Las idols son objetos de veneración.
+Dialogue: 0,0:09:42.27,0:09:44.86,Gen_Main,,0,0,0,,Brillan mediante\Nla magia de las mentiras.
+Dialogue: 0,0:09:45.86,0:09:48.69,Gen_Main,,0,0,0,,Las mentiras son el amor\Nmás exquisito que hay.
+Dialogue: 0,0:09:49.02,0:09:53.16,Gen_Main,,0,0,0,,Poder esconder a un par de niños\Ndemuestra que eres una idol de primera.
+Dialogue: 0,0:09:53.86,0:09:56.01,Gen_Main,,0,0,0,,Mentira tras mentira,
+Dialogue: 0,0:09:56.21,0:10:00.39,Gen_Main,,0,0,0,,nos vemos felices mientras cantamos\Nsin importar nuestros problemas.
+Dialogue: 0,0:10:00.51,0:10:02.12,Gen_Main,,0,0,0,,Qué trabajo tan divertido.
+Dialogue: 0,0:10:03.29,0:10:07.67,Gen_Main,,0,0,0,,Pero la felicidad es parte de algo\Nque quiero experimentar de verdad.
+Dialogue: 0,0:10:08.20,0:10:12.13,Gen_Main,,0,0,0,,Nadie se da cuenta, pero nosotras\Ntambién tenemos sentimientos.
+Dialogue: 0,0:10:13.30,0:10:17.68,Gen_Main,,0,0,0,,La felicidad como madre\Ny la felicidad como idol…
+Dialogue: 0,0:10:18.14,0:10:20.22,Gen_Main,,0,0,0,,Puede ser normal tener solo una.
+Dialogue: 0,0:10:20.96,0:10:22.27,Gen_Main,,0,0,0,,Pero yo quiero las dos.
+Dialogue: 0,0:10:22.85,0:10:25.44,Gen_Main,,0,0,0,,Ai Hoshino es muy avariciosa.
+Dialogue: 0,0:10:26.19,0:10:31.65,Gen_Italics,,0,0,0,,La idol que conocía era más atrevida,\Nastuta y fuerte de lo que imaginé.
+Dialogue: 0,0:10:32.69,0:10:35.10,Gen_Italics,,0,0,0,,Brillaba más que la primera estrella.
+Dialogue: 0,0:10:36.41,0:10:37.70,Gen_Main,,0,0,0,,Muy bien.
+Dialogue: 0,0:10:38.99,0:10:42.63,Gen_Italics,,0,0,0,,Mis opiniones como médico\Ny como fan se alinearon.
+Dialogue: 0,0:10:43.96,0:10:46.67,Gen_Main,,0,0,0,,Ai Hoshino, yo llevaré tu parto
+Dialogue: 0,0:10:47.33,0:10:50.09,Gen_Main,,0,0,0,,y me aseguraré de que tengas\Ndos niños sanos.
+Dialogue: 0,0:10:52.01,0:10:55.26,Gen_Italics,,0,0,0,,Si eso es lo que te hace feliz,\Nyo me encargaré.
+Dialogue: 0,0:10:55.68,0:10:59.97,Gen_Italics,,0,0,0,,Porque tú eres una idol sin remedio
+Dialogue: 0,0:11:00.82,0:11:04.35,Gen_Italics,,0,0,0,,y yo soy tu fan sin remedio.
+Dialogue: 0,0:11:07.56,0:11:10.14,Gen_Main,,0,0,0,,Muy bien, empecemos a trabajar.
+Dialogue: 0,0:11:10.61,0:11:13.65,Gen_Main,,0,0,0,,Para empezar, aquí deberás\Nusar un nombre falso.
+Dialogue: 0,0:11:13.74,0:11:14.86,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:11:16.01,0:11:19.62,Gen_Main,,0,0,0,,En un caso como el tuyo, seguramente\Nhabrá que hacer una cesárea.
+Dialogue: 0,0:11:20.83,0:11:23.58,Gen_Main,,0,0,0,,Si el cráneo\Nde uno de los bebés es grande,
+Dialogue: 0,0:11:23.91,0:11:27.82,Gen_Main,,0,0,0,,lo normal es que la pelvis de alguien\Nde tu complexión no se abra bastante.
+Dialogue: 0,0:11:29.44,0:11:32.42,Gen_Main,,0,0,0,,Una cicatriz en su vientre\Nserá un problema para su trabajo.
+Dialogue: 0,0:11:32.58,0:11:34.59,Gen_Main,,0,0,0,,¿No hay otras opciones?
+Dialogue: 0,0:11:35.01,0:11:39.18,Gen_Main,,0,0,0,,Parto sin dolor, sofrología… Bueno…
+Dialogue: 0,0:11:39.41,0:11:42.31,Gen_Main,,0,0,0,,Me da lo mismo. Me encuentro muy sana.
+Dialogue: 0,0:11:42.48,0:11:43.72,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:11:43.81,0:11:46.56,Gen_Main,,0,0,0,,Todo saldrá bien.\NPuedo hacer un parto natural.
+Dialogue: 0,0:11:47.06,0:11:48.94,Gen_Main,,0,0,0,,Son mis hijos, ¿no?
+Dialogue: 0,0:11:49.02,0:11:51.36,Gen_Main,,0,0,0,,Quiero que tengan\Ncaritas atractivas y pequeñas.
+Dialogue: 0,0:11:51.57,0:11:53.98,Gen_Main,,0,0,0,,Ya estás otra vez…
+Dialogue: 0,0:11:55.94,0:11:59.99,Gen_Italics,,0,0,0,,Tal vez me hiciera médico\Npara este momento.
+Dialogue: 0,0:12:01.58,0:12:04.41,Gen_Italics,,0,0,0,,Haré que nazcan sanos y salvos.
+Dialogue: 0,0:12:06.29,0:12:08.51,Gen_Italics,,0,0,0,,Juro que protegeré a tu familia.
+Dialogue: 0,0:12:09.46,0:12:13.17,Gen_Italics,,0,0,0,,Si soy sincero,\Ntengo sentimientos encontrados.
+Dialogue: 0,0:12:14.02,0:12:16.13,Gen_Italics,,0,0,0,,Pero hice lo posible por esconderlo.
+Dialogue: 0,0:12:17.97,0:12:19.13,Gen_Italics,,0,0,0,,Las mentiras son amor.
+Dialogue: 0,0:12:19.64,0:12:23.72,Gen_Italics,,0,0,0,,Ahora veo esa frase con buenos ojos.\NLas estrellas son asombrosas.
+Dialogue: 1,0:12:24.13,0:12:26.97,Cart_C_Verd,CARTEL,0,0,0,,{\fad(697,850)\blur0.2\fsp2\c&HFFFEFA&\fs30\bord0\pos(259.077,140)}40 semanas
+Dialogue: 2,0:12:26.14,0:12:29.06,Cart_C_Verd,CARTEL,0,0,0,,{\fad(939,0)\blur0.2\fsp1\c&HFFFEFA&\fs30\bord0\pos(280.22,140)}Fecha del parto
+Dialogue: 0,0:12:29.30,0:12:31.10,Gen_Main,,0,0,0,,Gracias por todo, doctor.
+Dialogue: 0,0:12:31.56,0:12:33.19,Gen_Main,,0,0,0,,Pero vuelve en cuanto te llame.
+Dialogue: 0,0:12:33.33,0:12:35.69,Gen_Main,,0,0,0,,Claro. Además, vivo cerca de aquí.
+Dialogue: 0,0:12:36.19,0:12:39.03,Gen_Main,,0,0,0,,Si no llego yo, te atenderá otro médico.
+Dialogue: 0,0:12:39.11,0:12:40.70,Gen_Main,,0,0,0,,No, tienes que ser tú.
+Dialogue: 0,0:12:40.95,0:12:43.16,Gen_Main,,0,0,0,,Era broma. Hasta luego.
+Dialogue: 0,0:12:43.33,0:12:44.33,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:12:46.91,0:12:50.45,Gen_Italics,,0,0,0,,Cuando acabe esto,\Nperderé el contacto con Ai
+Dialogue: 0,0:12:50.78,0:12:52.79,Gen_Italics,,0,0,0,,y volveremos a ser una idol y su fan.
+Dialogue: 0,0:12:53.88,0:12:56.10,Gen_Italics,,0,0,0,,Pude ver su lado oculto,
+Dialogue: 0,0:12:56.39,0:13:00.26,Gen_Italics,,0,0,0,,pero creo que me gusta\Nsu personalidad tan directa.
+Dialogue: 0,0:13:01.43,0:13:04.72,Gen_Italics,,0,0,0,,Siento que puedo apoyarla de cora…
+Dialogue: 0,0:13:04.81,0:13:07.39,Gen_Main,,0,0,0,,Oye, ¿eres el médico de Ai Hoshino?
+Dialogue: 0,0:13:10.29,0:13:12.19,Gen_Main,,0,0,0,,Estaba usando un nombre falso.
+Dialogue: 0,0:13:12.77,0:13:14.46,Gen_Main,,0,0,0,,Aunque la vieras en el hospital,
+Dialogue: 0,0:13:14.72,0:13:17.65,Gen_Main,,0,0,0,,¿por qué sabes su apellido,\Nque nunca se hizo público?
+Dialogue: 0,0:13:18.65,0:13:19.83,Gen_Main,,0,0,0,,¿La conoces de algo?
+Dialogue: 0,0:13:20.07,0:13:21.45,Gen_Main,,0,0,0,,¿Cómo te llamas?
+Dialogue: 0,0:13:22.75,0:13:23.87,Gen_Main,,0,0,0,,¡Oye!
+Dialogue: 0,0:13:28.10,0:13:29.75,Gen_Italics,,0,0,0,,¿Será un acosador?
+Dialogue: 0,0:13:29.98,0:13:32.42,Gen_Italics,,0,0,0,,Y justo con Ai a punto de dar a luz…
+Dialogue: 0,0:13:35.16,0:13:38.71,Gen_Italics,,0,0,0,,¡Diablos! Hacerme recorrer este sendero…
+Dialogue: 0,0:13:39.49,0:13:40.63,Gen_Italics,,0,0,0,,¿Adónde fue?
+Dialogue: 0,0:13:57.53,0:13:58.90,Gen_Italics,,0,0,0,,Qué susto.
+Dialogue: 0,0:13:59.13,0:14:01.19,Gen_Italics,,0,0,0,,Me quedé en blanco de repente.
+Dialogue: 0,0:14:02.65,0:14:04.36,Gen_Italics,,0,0,0,,Ah, el teléfono.
+Dialogue: 0,0:14:04.61,0:14:06.83,Gen_Italics,,0,0,0,,¿Ai se puso de parto?
+Dialogue: 0,0:14:07.04,0:14:08.46,Gen_Italics,,0,0,0,,¿Dónde está mi teléfono?
+Dialogue: 0,0:14:09.19,0:14:10.83,Gen_Italics,,0,0,0,,No lo sé, está muy oscuro.
+Dialogue: 0,0:14:11.19,0:14:13.25,Gen_Italics,,0,0,0,,No puedo ni moverme.
+Dialogue: 0,0:14:14.75,0:14:16.38,Gen_Italics,,0,0,0,,Debo ir cuanto antes.
+Dialogue: 0,0:14:17.25,0:14:21.34,Gen_Italics,,0,0,0,,Se lo prometí. Le dije que haría\Nque sus bebés nacerían sanos y salvos.
+Dialogue: 0,0:14:23.30,0:14:28.81,Gen_Italics,,0,0,0,,Tengo que levantarme\Ny asegurarme de que sus hijos…
+Dialogue: 0,0:14:35.52,0:14:41.15,Gen_Main,,0,0,0,,¿No pensaste cómo sería la vida\Nsi nacieras siendo el hijo de un famoso?
+Dialogue: 0,0:14:43.15,0:14:48.03,Gen_Main,,0,0,0,,¿Cómo sería tener contactos\Ny buen aspecto desde que naces?
+Dialogue: 0,0:14:54.75,0:14:59.09,Gen_Main,,0,0,0,,Si muero ahora, puede que renazca\Ncomo el hijo de una idol.
+Dialogue: 1,0:14:56.08,0:14:57.33,Cart_A_Tre,CARTEL,0,0,0,,{\xshad-1.5\yshad1.5\blur0.5\t(65,273,\blur0.4)\t(774,857,\blur2)\t(899,1024,\blur0.4)\t(1066,1149,\blur2)\t(1191,1191\blur0.4)\c&HFFFFFF&\3c&H3162F6&\4c&H37D7FC&\1a&HFF&}Anuncio sorpresa\N{\3c&HE09E3D&}Ponta {\c&H424559&\3c&HFFFFFF&}y la {\c&HFFFFFF&\3c&HD577F1&}idol MUY\N{\c&H424B61&\3c&HFFFFFF&}están casados y esperan un hijo
+Dialogue: 2,0:14:56.08,0:14:57.33,Cart_A_Tre,CARTEL,0,0,0,,{\blur1\t(23,65,\blur2)\t(65,273,\blur0.4)\t(774,857,\blur2)\t(899,1024,\blur0.4)\t(1066,1149,\blur2)\t(1191,1191\blur0.4)\bord0\c&HFFFFFF&\3c&H3162F6&}Anuncio sorpresa\N{\3c&HE09E3D&}Ponta {\c&H424559&\3c&HFFFFFF&}y la {\c&HFFFFFF&\3c&HD577F1&}idol MUY\N{\c&H424B61&\3c&HFFFFFF&}están casados y esperan un hijo
+Dialogue: 1,0:14:59.79,0:15:00.75,Cart_A_Tim,CARTEL,0,0,0,,{\blur1\t(67,67,\blur2)\t(109,275,\blur0.4)\t(818,818,\blur2)\t(859,901,\blur0.4)\t(943,943,\blur1)\bord0\c&H14111A&\fs10\frz334.3\pos(342.934,280.801)}¡Fan de Ai por toda la eternidad!
+Dialogue: 2,0:15:00.00,0:15:01.67,Gen_Main,,0,0,0,,Si pudiera renacer…
+Dialogue: 0,0:15:08.69,0:15:11.10,Gen_Italics,,0,0,0,,Nunca lo había pensado seriamente.
+Dialogue: 0,0:15:12.10,0:15:14.27,Gen_Italics,,0,0,0,,¿Qué necesidad habría?
+Dialogue: 0,0:15:19.41,0:15:22.78,Gen_Italics,,0,0,0,,A fin de cuentas, no creía\Nque tuviera que ver conmigo.
+Dialogue: 0,0:15:25.86,0:15:33.28,Cart_A_Tim,CARTEL,0,0,0,,{\fad(2859,2809)\an5\fs30\bord0\c&H0D0509&\pos(158.737,103.368)}OSHI {\c&H640CD8&}NO {\c&H0D0509&}KO
+Dialogue: 0,0:15:41.92,0:15:46.17,Gen_Italics,,0,0,0,,Pensé que cuando muere\Nalguien como yo, va al infierno.
+Dialogue: 0,0:15:46.97,0:15:47.97,Gen_Italics,,0,0,0,,Pero…
+Dialogue: 0,0:15:53.64,0:15:55.70,Gen_Italics,,0,0,0,,cuando desperté, estaba en el cielo.
+Dialogue: 0,0:15:56.77,0:15:58.23,Gen_Italics,,0,0,0,,Este soy yo ahora.
+Dialogue: 0,0:16:00.21,0:16:03.07,Gen_Main,,0,0,0,,Qué buen niño eres, Aquamarine.
+Dialogue: 0,0:16:03.52,0:16:06.94,Cart_A_Tim,CARTEL,0,0,0,,{\fad(234,0)\fscy200\bord1.5\fscx150\fs12\blur0.5\c&H4B1017&\3c&HFAEFB3&\shad1.5\4c&H81717C&\pos(210.401,312.401)}Nombre: Aquamarine Hoshino
+Dialogue: 0,0:16:03.90,0:16:06.90,Gen_Italics_top,,0,0,0,,Aunque me puso un nombre muy peculiar.
+Dialogue: 0,0:16:07.61,0:16:11.57,Gen_Italics,,0,0,0,,Ahora vivo como el hijo\Nde la idol Ai Hoshino.
+Dialogue: 0,0:16:12.20,0:16:13.95,Gen_Italics,,0,0,0,,Aunque no sé por qué.
+Dialogue: 0,0:16:14.62,0:16:18.46,Gen_Italics,,0,0,0,,Me tomó bastante tiempo\Naceptar la realidad de mi situación.
+Dialogue: 0,0:16:19.08,0:16:20.58,Gen_Italics,,0,0,0,,¿Renací?
+Dialogue: 0,0:16:21.04,0:16:23.59,Gen_Italics,,0,0,0,,¿O lo más correcto\Nsería decir que reencarné?
+Dialogue: 0,0:16:24.45,0:16:26.84,Gen_Italics,,0,0,0,,¿Por qué tengo recuerdos\Nde mi otra vida?
+Dialogue: 0,0:16:26.92,0:16:28.59,Gen_Italics,,0,0,0,,¿Qué sentido tiene eso?
+Dialogue: 0,0:16:29.26,0:16:31.61,Gen_Italics,,0,0,0,,No lo parece, pero sigo siendo médico.
+Dialogue: 0,0:16:31.89,0:16:34.21,Gen_Italics,,0,0,0,,Quiero descubrir el mecanismo de esto.
+Dialogue: 0,0:16:35.10,0:16:36.19,Gen_Italics,,0,0,0,,Pero…
+Dialogue: 0,0:16:37.48,0:16:40.77,Gen_Italics,,0,0,0,,por ahora quiero disfrutar al máximo\Nde esta vida como bebé.
+Dialogue: 0,0:16:41.94,0:16:46.40,Gen_Italics,,0,0,0,,Este entorno donde mi idol favorita\Nhace todo lo posible por mimarme
+Dialogue: 0,0:16:47.11,0:16:50.86,Gen_Italics,,0,0,0,,emociona el corazón del adulto\Nagotado que hay dentro de mí.
+Dialogue: 0,0:16:56.85,0:16:58.14,Gen_Main,,0,0,0,,Ya voy.
+Dialogue: 0,0:16:58.75,0:17:01.75,Gen_Italics,,0,0,0,,Ah, sí. También vive\Ncon nosotros alguien más.
+Dialogue: 0,0:17:02.75,0:17:04.79,Gen_Main,,0,0,0,,¿Qué te pasa, Ruby?
+Dialogue: 0,0:17:05.50,0:17:09.30,Gen_Italics,,0,0,0,,Ruby Hoshino.\NLa chica que nació como mi gemela.
+Dialogue: 0,0:17:10.26,0:17:13.14,Gen_Italics,,0,0,0,,Su nombre es menos dañino\Npsicológicamente que el mío.
+Dialogue: 0,0:17:13.97,0:17:16.26,Gen_Italics,,0,0,0,,Tanto que ojalá se cambiara por mí.
+Dialogue: 0,0:17:18.43,0:17:20.09,Gen_Main,,0,0,0,,¿Qué pasa, Aqua?
+Dialogue: 0,0:17:20.48,0:17:22.10,Gen_Main,,0,0,0,,Esa es Ruby.
+Dialogue: 0,0:17:22.36,0:17:23.61,Gen_Main,,0,0,0,,Qué desastre de madre.
+Dialogue: 0,0:17:24.48,0:17:28.28,Gen_Main,,0,0,0,,Siempre se me dio mal recordar\Nnombres y caras, es inevitable.
+Dialogue: 0,0:17:28.77,0:17:29.96,Gen_Main,,0,0,0,,Qué mal, ¿verdad?
+Dialogue: 0,0:17:30.07,0:17:33.45,Gen_Main,,0,0,0,,Los hombres japoneses se hacen\Nilusiones con cómo debe ser una madre.
+Dialogue: 0,0:17:33.53,0:17:36.74,Gen_Main,,0,0,0,,No hables de nacionalidades\Ncuando no tienes ni pasaporte.
+Dialogue: 0,0:17:37.24,0:17:40.54,Gen_Main,,0,0,0,,Además, dijiste que no irías\Nal extranjero, ¿verdad?
+Dialogue: 0,0:17:40.82,0:17:45.71,Gen_Main,,0,0,0,,Pero sí puedo recordar los nombres\Nde la gente con talento, Sato.
+Dialogue: 0,0:17:45.96,0:17:49.59,Gen_Main,,0,0,0,,Casi… Me llamo Saito, maldita idol.
+Dialogue: 0,0:17:50.21,0:17:52.22,Cart_A_Tim,CARTEL,0,0,0,,{\fs18\bord1\fad(234,0)\shad1.5\c&H333647&\3c&HF3F4FB&\pos(480.533,267.467)\4c&H4C6D5C&\4a&H84&}Producciones Ichigo\N\NPresidente\h\h\h{\bord2\fs40}Ichigo Saito
+Dialogue: 0,0:17:52.44,0:17:56.39,Gen_Main,,0,0,0,,Desde hoy, Ai vuelve a ser idol.
+Dialogue: 0,0:17:55.01,0:17:59.14,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fad(1000,0)\blur0.2\fsp1\fnComic Sans MS\b0\bord0\fs14\c&H8B949E&\pos(137.333,36.562)}Reunión de Producciones Ichigo\N- El regreso de Ai\N- Encargarse de los niños
+Dialogue: 0,0:17:56.81,0:17:59.14,Gen_Main,,0,0,0,,Hablaremos de tus actividades futuras.
+Dialogue: 0,0:17:59.52,0:18:02.27,Gen_Main,,0,0,0,,El primer paso será\Nun programa musical esta noche.
+Dialogue: 0,0:18:02.35,0:18:04.40,Gen_Main,,0,0,0,,Se emitirá en directo,\N¿podrás hacerlo?
+Dialogue: 0,0:18:04.48,0:18:05.61,Gen_Main,,0,0,0,,Claro.
+Dialogue: 0,0:18:05.81,0:18:09.28,Gen_Main,,0,0,0,,Mientras tú trabajes,\Nmi esposa cuidará de tus hijos.
+Dialogue: 0,0:18:11.40,0:18:13.07,Cart_C_Tim,CARTEL,0,0,0,,{\fs18\bord1\fad(232,0)\shad1.5\c&H333647&\3c&HF3F4FB&\4c&H915666&\4a&H84&\pos(434.533,263.467)}Producciones Ichigo\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\bord2\fs40}Miyako Saito
+Dialogue: 0,0:18:13.40,0:18:15.44,Gen_Main,,0,0,0,,Tu esposa es muy joven.
+Dialogue: 0,0:18:15.64,0:18:19.33,Gen_Main,,0,0,0,,Las otras chicas se sienten incómodas\Nporque priorizas a las jóvenes.
+Dialogue: 0,0:18:19.78,0:18:22.21,Gen_Main,,0,0,0,,No sabía eso. Tendré más cuidado.
+Dialogue: 0,0:18:22.61,0:18:24.75,Gen_Main,,0,0,0,,¿Será un problema\Nsi los llevo al estudio?
+Dialogue: 0,0:18:25.02,0:18:26.71,Gen_Main,,0,0,0,,Claro que sí.
+Dialogue: 0,0:18:26.95,0:18:28.21,Gen_Main,,0,0,0,,¡Escucha!
+Dialogue: 0,0:18:28.55,0:18:34.55,Gen_Main,,0,0,0,,Si se descubre que eres madre\Ncon 16 años, despídete de tu carrera.
+Dialogue: 0,0:18:34.63,0:18:38.14,Gen_Main,,0,0,0,,Me culparán a mí por ser\Ntu responsable y mi agencia cerrará.
+Dialogue: 0,0:18:38.37,0:18:42.52,Gen_Main,,0,0,0,,¡Todo el mundo se irá\Nal maldito infierno!
+Dialogue: 0,0:18:43.59,0:18:47.61,Gen_Main,,0,0,0,,Y no los lleves a comprar o a hacer\Npapeleo a oficinas del Gobierno.
+Dialogue: 0,0:18:47.81,0:18:50.12,Gen_Main,,0,0,0,,Si tienes alguna emergencia,
+Dialogue: 0,0:18:50.38,0:18:54.23,Gen_Main,,0,0,0,,lo harás con la excusa de que estás\Ncuidando de nuestros hijos.
+Dialogue: 0,0:18:56.36,0:18:58.26,Gen_Main,,0,0,0,,Qué fastidio, ¿verdad, Ruby?
+Dialogue: 0,0:18:58.53,0:18:59.83,Gen_Main,,0,0,0,,Ese es Aqua.
+Dialogue: 0,0:19:02.20,0:19:06.33,Gen_Italics,,0,0,0,,Como madre, se puede considerar\Nque Ai es un desastre.
+Dialogue: 0,0:19:06.79,0:19:09.96,Gen_Italics,,0,0,0,,Pero el presidente\Ny su esposa la ayudan.
+Dialogue: 0,0:19:10.38,0:19:12.21,Gen_Italics,,0,0,0,,Así que puede que salga bien.
+Dialogue: 0,0:19:12.87,0:19:15.05,Gen_Main,,0,0,0,,Los ensayos empiezan pronto. En marcha.
+Dialogue: 0,0:19:15.26,0:19:16.34,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:19:16.68,0:19:18.05,Gen_Main,,0,0,0,,Oh.
+Dialogue: 0,0:19:24.43,0:19:28.06,Gen_Main,,0,0,0,,Por poco. Casi te enseño\Nlos pechos, presidente.
+Dialogue: 0,0:19:28.48,0:19:30.49,Gen_Main,,0,0,0,,Tápatelos cuando estés afuera.
+Dialogue: 0,0:19:30.68,0:19:32.11,Gen_Italics,,0,0,0,,Sí que es un desastre.
+Dialogue: 0,0:19:32.19,0:19:34.13,Gen_Italics,,0,0,0,,Esta chica es una imprudente.
+Dialogue: 0,0:19:37.61,0:19:39.51,Gen_Main,,0,0,0,,¡Ya sale B-Komachi!
+Dialogue: 0,0:19:39.78,0:19:42.29,Gen_Main,,0,0,0,,¡Somos B-Komachi! ¡Muchas gracias!
+Dialogue: 0,0:19:42.37,0:19:43.95,Gen_Main,,0,0,0,,Gracias por venir.
+Dialogue: 0,0:19:46.06,0:19:49.71,Gen_Main,,0,0,0,,No tengo ninguna experiencia\Ncuidando niños.
+Dialogue: 0,0:19:51.19,0:19:53.50,Gen_Main,,0,0,0,,¿Por qué me lo dejaron a mí?
+Dialogue: 2,0:20:02.97,0:20:05.39,Cart_A_Tre,CARTEL,0,0,0,,{\fad(106,0)\an7\fs12\c&H191226&\3c&HE2E5DE&\pos(28.307,267.384)}La primera aparición de Ai, de B-Komachi, tras su descanso\N{\c&HA970CB&}Nos mostrarán su esperada canción "Sign wa B"
+Dialogue: 1,0:20:03.06,0:20:05.39,Gen_Italics_top,,0,0,0,,Aquí está Ai, que volvió hoy\Na sus actividades.
+Dialogue: 0,0:20:05.85,0:20:08.02,Gen_Italics,,0,0,0,,¿Estás bien? ¿Estás comiendo bien?
+Dialogue: 0,0:20:08.10,0:20:10.19,Gen_Italics,,0,0,0,,Sí, estoy comiendo bastante.
+Dialogue: 0,0:20:10.36,0:20:12.27,Gen_Italics,,0,0,0,,Menos mal. Lo está haciendo bien.
+Dialogue: 0,0:20:12.36,0:20:15.30,Gen_Italics,,0,0,0,,Ah, sí. Hablando de comida,\Nel otro día mi bebé…
+Dialogue: 0,0:20:15.39,0:20:16.37,Gen_Italics,,0,0,0,,¿"Mi bebé"?
+Dialogue: 0,0:20:16.51,0:20:20.91,Gen_Italics,,0,0,0,,Mi bebé felino. Tengo una mascota\Ndesde mi periodo de descanso.
+Dialogue: 0,0:20:22.07,0:20:26.16,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs12\c&H191226&\3c&HE2E5DE&\pos(28.307,267.384)}La primera aparición de Ai, de B-Komachi, tras su descanso\N{\c&HA970CB&}Nos mostrarán su esperada canción "Sign wa B"
+Dialogue: 0,0:20:22.58,0:20:24.66,Gen_Italics,,0,0,0,,Sí que es un desastre.
+Dialogue: 0,0:20:23.41,0:20:26.16,Gen_Italics_top,,0,0,0,,Siempre estoy diciendo\Ncosas sin sentido.
+Dialogue: 0,0:20:26.97,0:20:29.75,Gen_Main,,0,0,0,,Dentro de 30 segundos,\Ncambiará la cámara.
+Dialogue: 0,0:20:29.98,0:20:32.29,Gen_Main,,0,0,0,,Esperamos una buena actuación.
+Dialogue: 0,0:20:32.54,0:20:33.80,Gen_Main,,0,0,0,,-Claro.\N-Muchas gracias.
+Dialogue: 0,0:20:34.46,0:20:36.59,Gen_Main,,0,0,0,,¿Conoces a B-Komachi?
+Dialogue: 0,0:20:36.67,0:20:38.26,Gen_Main,,0,0,0,,No. Y no me interesan.
+Dialogue: 0,0:20:38.41,0:20:41.76,Gen_Main,,0,0,0,,Yo escuché su música,\Nno son ni buenas ni malas.
+Dialogue: 0,0:20:41.84,0:20:44.06,Gen_Main,,0,0,0,,Pero estas son las cosas que venden.
+Dialogue: 0,0:20:44.14,0:20:45.14,Gen_Main,,0,0,0,,Cierto.
+Dialogue: 0,0:20:45.77,0:20:47.10,Gen_Main,,0,0,0,,Idols producidas en masa.
+Dialogue: 0,0:20:47.18,0:20:50.48,Gen_Main,,0,0,0,,Nos guste o no, debemos elogiarlas.\N¿Qué haremos si no?
+Dialogue: 0,0:20:50.56,0:20:53.36,Gen_Main,,0,0,0,,La cara de la del centro\Nes lo único remarcable.
+Dialogue: 0,0:20:53.56,0:20:57.07,Gen_Main,,0,0,0,,Reconozco su nombre, pero no se\Nhabló de ellas en seis meses.
+Dialogue: 0,0:20:57.15,0:20:58.44,Gen_Main,,0,0,0,,¿Quién quiere promoverlas?
+Dialogue: 0,0:20:58.53,0:21:01.52,Gen_Main,,0,0,0,,Son underground.\NEstán con Producciones Ichigo, ni idea.
+Dialogue: 0,0:21:01.63,0:21:04.11,Gen_Main,,0,0,0,,La del pecho grande me gusta.\NHagamos que modele.
+Dialogue: 0,0:21:04.22,0:21:06.58,Gen_Main,,0,0,0,,¿La invitamos a comer?\NLe gustaría al productor.
+Dialogue: 0,0:21:06.87,0:21:10.83,Gen_Italics,,0,0,0,,Aquí, las mentiras y el interés\Nse esconden detrás de una sonrisa.
+Dialogue: 0,0:21:10.83,0:21:19.29,Cart_A_Tre,CARTEL,0,0,0,,{\blur0.4\bord0\fs14\fnComic Sans MS\c&H3F3440&\i1\pos(282.8,192)}Salen en 10 segundos
+Dialogue: 0,0:21:11.71,0:21:13.63,Gen_Italics,,0,0,0,,No causen problemas en la emisión.
+Dialogue: 0,0:21:14.04,0:21:17.12,Gen_Italics,,0,0,0,,Para conseguir\Nla mejor actuación posible,
+Dialogue: 0,0:21:17.25,0:21:19.30,Gen_Italics,,0,0,0,,hasta el personal mentirá si hace falta.
+Dialogue: 0,0:21:19.84,0:21:21.43,Gen_Italics,,0,0,0,,Igual que los peces gordos.
+Dialogue: 0,0:21:21.62,0:21:24.80,Gen_Italics,,0,0,0,,Fingen que hacen algo importante,\Npero solo miran los números.
+Dialogue: 0,0:21:26.09,0:21:28.18,Gen_Italics,,0,0,0,,¡Vamos a lograrlo!
+Dialogue: 0,0:21:29.10,0:21:32.65,Gen_Italics,,0,0,0,,Mi Ai es una mentirosa de primera.
+Dialogue: 0,0:21:50.58,0:21:52.95,Gen_Italics,,0,0,0,,El presidente está loco.
+Dialogue: 0,0:21:53.32,0:21:56.29,Gen_Italics,,0,0,0,,Si se descubre el secreto de Ai,\Nse arriesga a perderlo todo.
+Dialogue: 0,0:21:57.38,0:22:01.38,Gen_Italics,,0,0,0,,Pero lo entiendo.\NEs imposible no volverse loco con ella.
+Dialogue: 0,0:22:02.22,0:22:05.97,Gen_Italics,,0,0,0,,Bajo esa luz tan intensa,\Nla gente solo puede abrasarse.
+Dialogue: 0,0:22:06.60,0:22:09.97,Gen_Italics,,0,0,0,,Son como polillas atraídas\Nhacia una llama.
+Dialogue: 0,0:22:10.60,0:22:13.67,Gen_Italics,,0,0,0,,Aun sabiendo que perderán las alas,\Nno pueden detenerse.
+Dialogue: 0,0:22:14.27,0:22:19.03,Gen_Italics,,0,0,0,,Y yo no soy la excepción. Me alegro\Nde poder ver a Ai desde tan cerca.
+Dialogue: 0,0:22:19.86,0:22:23.86,Gen_Italics,,0,0,0,,Le estoy muy agradecido\Nal tipo que me asesinó.
+Dialogue: 0,0:22:25.24,0:22:27.06,Gen_Italics,,0,0,0,,Si haber renacido
+Dialogue: 0,0:22:27.28,0:22:30.95,Gen_Italics,,0,0,0,,se debe a un milagro causado\Npor la obsesión de la gente hacia ella,
+Dialogue: 0,0:22:31.33,0:22:32.91,Gen_Italics,,0,0,0,,no me extrañaría nada.
+Dialogue: 0,0:22:35.96,0:22:40.55,Gen_Italics,,0,0,0,,Aunque lo cierto es que quería\Nayudarla a dar a luz a niños normales.
+Dialogue: 0,0:22:40.82,0:22:42.07,Gen_Italics,,0,0,0,,Fue por fuerza mayor.
+Dialogue: 0,0:22:42.22,0:22:44.93,Gen_Italics,,0,0,0,,No puedes luchar\Ncontra un fenómeno paranormal.
+Dialogue: 0,0:22:45.18,0:22:48.05,Gen_Italics,,0,0,0,,Así que disfrutaré esto.
+Dialogue: 0,0:22:57.98,0:22:59.02,Gen_Main,,0,0,0,,Espera.
+Dialogue: 0,0:23:00.69,0:23:02.69,Gen_Main,,0,0,0,,¡N Station ya había empezado!
+Dialogue: 0,0:23:02.93,0:23:05.11,Gen_Main,,0,0,0,,¿Por qué no me despertaste?
+Dialogue: 0,0:23:08.11,0:23:11.24,Gen_Main,,0,0,0,,Cielos, mamá es muy linda.
+Dialogue: 0,0:23:11.33,0:23:13.91,Gen_Main,,0,0,0,,El público debería pagar\N100 millones de yenes.
+Dialogue: 0,0:23:14.05,0:23:16.62,Gen_Main,,0,0,0,,Su expresividad\Ncuando se voltea es increíble.
+Dialogue: 0,0:23:16.71,0:23:18.63,Gen_Main,,0,0,0,,Es tan inquietante que parece un oni.
+Dialogue: 0,0:23:18.78,0:23:19.88,Gen_Main,,0,0,0,,¡Cielos!
+Dialogue: 0,0:23:19.96,0:23:23.21,Gen_Main,,0,0,0,,Ya me cambiaron el pañal, pero creo\Nque me haré encima otra vez.
+Dialogue: 0,0:23:24.72,0:23:27.93,Gen_Main,,0,0,0,,Tiene una gran cara, un gran cuerpo\Ny canta de maravilla.
+Dialogue: 0,0:23:28.22,0:23:30.93,Gen_Main,,0,0,0,,Nuestra madre tiene muchísimo talento.
+Dialogue: 0,0:23:31.43,0:23:33.67,Gen_Main,,0,0,0,,Debo grabarlo ahora mismo.
+Dialogue: 0,0:23:34.93,0:23:38.93,Gen_Main,,0,0,0,,Los directos se ven mejor en el momento,\N¿por qué no me despertaste?
+Dialogue: 0,0:23:39.11,0:23:43.12,Gen_Main,,0,0,0,,Mi cuerpo se cansa con facilidad,\Nasí que ayudémonos mutuamente.
+Dialogue: 0,0:23:43.57,0:23:45.70,Gen_Main,,0,0,0,,Te desperté varias veces.
+Dialogue: 0,0:23:46.09,0:23:47.74,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:23:47.82,0:23:51.65,Gen_Main,,0,0,0,,{\fs30\bord3\shad2.5\fnComic Sans MS\c&H8710D9&\3c&HF8E6F6&\4c&H8710D9&\pos(563.077,353.692)}Tonta
+Dialogue: 0,0:23:47.99,0:23:51.65,Gen_Italics,,0,0,0,,Esta tonta también es alguien\Nque renació, igual que yo.
+Dialogue: 0,0:23:52.29,0:23:55.87,Gen_Italics,,0,0,0,,Me di cuenta de eso bastante pronto.
+Dialogue: 1,0:23:57.83,0:24:00.04,Cart_C_Ari,CARTEL,0,0,0,,{\an4\fax0.2\bord0\blur0.5\b0\c&HF7F9F9&\frz7.6\pos(269.815,99.2)}B-Komachi\h\h\hAi
+Dialogue: 1,0:23:57.83,0:24:00.04,Cart_C_Ari,CARTEL,0,0,0,,{\an4\fax0.2\bord0\blur0.5\c&H7F764C&\frz7.5\pos(165.048,140.5)}Emieri JD
+Dialogue: 1,0:23:57.83,0:24:00.04,Cart_C_Ari,CARTEL,0,0,0,,{\an4\fax0.2\bord0\blur0.5\c&H857B54&\frz7.5\pos(156.048,233)}Kumaru Yarou
+Dialogue: 1,0:23:57.83,0:24:00.04,Cart_C_Ari,CARTEL,0,0,0,,{\an4\fax0.2\fs16\bord0\blur0.5\b0\c&H857B54&\frz7.6\pos(181.856,190.153)}Parece que tiene una personalidad horrible {\c&HA1C6F1&}#Ai
+Dialogue: 1,0:23:57.83,0:24:00.04,Cart_C_Ari,CARTEL,0,0,0,,{\an4\fax0.2\fs16\bord0\blur0.5\b0\c&H857B54&\frz7.6\pos(215.856,280.153)}Ai = una egoísta que quiere destacar
+Dialogue: 2,0:23:58.42,0:24:00.04,Gen_Main,,0,0,0,,¡Ojalá se mueran!
+Dialogue: 0,0:24:00.25,0:24:02.92,Gen_Main,,0,0,0,,¡Son unos simios\Nque no entienden el encanto de mamá!
+Dialogue: 0,0:24:03.09,0:24:06.22,Gen_Main,,0,0,0,,Viendo la calidad de su actuación\Nse nota que está a otro nivel.
+Dialogue: 0,0:24:06.30,0:24:09.01,Gen_Main,,0,0,0,,Es inevitable\Nque los jefes la prioricen a ella.
+Dialogue: 0,0:24:09.18,0:24:11.60,Gen_Main,,0,0,0,,Seguro que solo eres una vieja fea.
+Dialogue: 0,0:24:09.13,0:24:12.38,Cart_C_Ari,CARTEL,0,0,0,,{\an5\b0\fsp1.5\c&H8A8874&\3c&HFFFFFF&\frz3\t(151,151,\frz0)\t(234,401,\frz3)\t(526,526,\frz0)\t(651,776,\frz3)\t(901,901,\frz0)\t(1027,1152,\frz3)\t(1277,1277,\frz0)\t(1402,1527,\frz3)\t(1652,1652,\frz0)\t(1777,1902,\frz3)\t(2027,2027,\frz0)\t(2153,2278,\frz3)\t(2402,2402,\frz0)\t(2528,2653,\frz3)\t(2777,2777,\frz0)\t(2903,3029,\frz3)\t(3153,3153,\frz0)\pos(320,33.143)\clip(128.571,7.429,177.714,68)\t(1,3029,\clip(128.571,7.429,484,68))}Muere Muere Muere Muere Muere
+Dialogue: 0,0:24:11.68,0:24:15.02,Gen_Main,,0,0,0,,¡Mírate al espejo\Ny vuelve a decir eso, fea!
+Dialogue: 0,0:24:15.31,0:24:16.89,Gen_Main,,0,0,0,,No puedo creerlo.
+Dialogue: 0,0:24:16.98,0:24:18.94,Gen_Main_Up,,0,0,0,,¿Crees que puedes compararte con Ai?
+Dialogue: 0,0:24:17.19,0:24:24.07,Gen_Italics,,0,0,0,,Buscó "B-Komachi Ai" y se metió\Nen una discusión con los haters.
+Dialogue: 0,0:24:19.02,0:24:23.40,Gen_Main_Up,,0,0,0,,¿Puedes superar a Ai, la gran idol\Ncon una cara y un cuerpo perfectos?
+Dialogue: 0,0:24:25.49,0:24:29.40,Gen_Main,,0,0,0,,Oye… ¿Compartes el mismo destino que yo?
+Dialogue: 0,0:24:31.82,0:24:34.45,Gen_Main,,0,0,0,,¡El bebé habló! ¡Qué asco!
+Dialogue: 0,0:24:34.54,0:24:35.54,Gen_Main,,0,0,0,,Lo mismo te digo.
+Dialogue: 0,0:24:36.46,0:24:38.09,Gen_Italics,,0,0,0,,Lo digo de verdad.
+Dialogue: 0,0:24:38.71,0:24:42.46,Gen_Italics,,0,0,0,,Deseaba haber ayudado\Na que Ai tuviera hijos normales.
+Dialogue: 0,0:24:42.75,0:24:48.04,Gen_Main_Up,,0,0,0,,Dios mío. Si lo grabas, puedes verlo\Nmiles de veces, qué valioso es.
+Dialogue: 0,0:24:48.76,0:24:50.97,Gen_Italics,,0,0,0,,No a unos gemelos raros como nosotros.
+Dialogue: 0,0:24:57.43,0:24:59.94,Gen_Main,,0,0,0,,Ai… Ai…
+Dialogue: 0,0:25:00.98,0:25:02.51,Gen_Main,,0,0,0,,Maldita mentirosa.
+Dialogue: 0,0:25:02.90,0:25:05.11,Gen_Main,,0,0,0,,¿Cómo te atreviste a tener hijos?
+Dialogue: 0,0:25:06.23,0:25:07.57,Gen_Main,,0,0,0,,¿Por qué?
+Dialogue: 0,0:25:07.82,0:25:09.15,Gen_Main,,0,0,0,,¿Por qué?
+Dialogue: 0,0:25:12.11,0:25:13.83,Gen_Main,,0,0,0,,¡Me engañaste!
+Dialogue: 0,0:25:16.08,0:25:17.04,Gen_Main,,0,0,0,,Aqua.
+Dialogue: 0,0:25:17.62,0:25:19.79,Gen_Main,,0,0,0,,¿Tienes hambre? ¿Quieres comer?
+Dialogue: 0,0:25:22.99,0:25:24.63,Gen_Main,,0,0,0,,¿No quieres?
+Dialogue: 0,0:25:25.34,0:25:27.90,Gen_Main,,0,0,0,,Cuánto te gusta beber en tu biberón.
+Dialogue: 0,0:25:30.55,0:25:32.26,Gen_Main,,0,0,0,,Bebes con mucha fuerza.
+Dialogue: 0,0:25:33.01,0:25:35.51,Gen_Italics,,0,0,0,,Siento que, como adulto,
+Dialogue: 0,0:25:35.70,0:25:38.35,Gen_Italics,,0,0,0,,que me amamantara una idol\Nsería excederse.
+Dialogue: 0,0:25:40.98,0:25:42.11,Gen_Main,,0,0,0,,¡Ya voy!
+Dialogue: 0,0:25:42.48,0:25:43.78,Gen_Main,,0,0,0,,¿Quieres comer otra vez?
+Dialogue: 0,0:25:46.32,0:25:48.40,Gen_Main,,0,0,0,,Cuánto te gusta\Nque te dé de comer, Ruby.
+Dialogue: 0,0:25:51.49,0:25:52.66,Gen_Italics,,0,0,0,,Maldita…
+Dialogue: 0,0:25:56.66,0:25:57.98,Gen_Main,,0,0,0,,Hora de trabajar.
+Dialogue: 0,0:25:58.29,0:25:59.50,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:26:01.87,0:26:03.00,Gen_Main,,0,0,0,,Hasta luego.
+Dialogue: 0,0:26:04.79,0:26:05.88,Gen_Main,,0,0,0,,Hasta luego.
+Dialogue: 0,0:26:06.42,0:26:07.55,Gen_Main,,0,0,0,,Hasta luego.
+Dialogue: 0,0:26:09.34,0:26:12.80,Gen_Main,,0,0,0,,-¿No podrías contenerte un poco?\N-¿Por qué?
+Dialogue: 0,0:26:13.34,0:26:17.31,Gen_Main,,0,0,0,,Es natural que una hija\Nchupe del pecho de su madre.
+Dialogue: 0,0:26:17.39,0:26:20.02,Gen_Main,,0,0,0,,Es un derecho que se me concedió.
+Dialogue: 0,0:26:20.60,0:26:22.55,Gen_Main,,0,0,0,,Al menos déjame preguntártelo.
+Dialogue: 0,0:26:22.76,0:26:25.52,Gen_Main,,0,0,0,,-¿En tu anterior vida fuiste una chica?\N-Sí.
+Dialogue: 0,0:26:25.98,0:26:29.07,Gen_Main,,0,0,0,,Entonces, creo que puedo permitirlo.
+Dialogue: 0,0:26:29.25,0:26:31.53,Gen_Main,,0,0,0,,Los celos de un friki dan asco.
+Dialogue: 0,0:26:31.78,0:26:36.20,Gen_Main,,0,0,0,,Éticamente, que le den el pecho\Na un hombre adulto es terrible.
+Dialogue: 0,0:26:36.42,0:26:40.58,Gen_Main,,0,0,0,,Por suerte, nací siendo una chica,\Nasí que puedo saborear su pecho.
+Dialogue: 0,0:26:40.85,0:26:44.17,Gen_Main,,0,0,0,,Desde mi punto de vista ético,\Ntambién es inviable.
+Dialogue: 0,0:26:45.00,0:26:46.67,Gen_Main,,0,0,0,,Pobre mamá.
+Dialogue: 0,0:26:47.00,0:26:51.21,Gen_Main,,0,0,0,,Es asqueroso que su propio hijo\Nsea un friki obsesionado con ella.
+Dialogue: 0,0:26:51.50,0:26:55.30,Gen_Main,,0,0,0,,Pobrecita. La protegeré toda mi vida.
+Dialogue: 0,0:26:55.38,0:26:57.09,Gen_Main,,0,0,0,,Tú sí que das asco.
+Dialogue: 0,0:27:02.02,0:27:05.65,Gen_Main,,0,0,0,,Quiero que me cambien el pañal,\Nvete de aquí.
+Dialogue: 0,0:27:06.02,0:27:07.15,Gen_Main,,0,0,0,,Sí, sí.
+Dialogue: 0,0:27:13.90,0:27:16.89,Gen_Main,,0,0,0,,¿Cómo acabó esto\Nconvirtiéndose en mi trabajo?
+Dialogue: 0,0:27:17.70,0:27:21.24,Gen_Main,,0,0,0,,¿No soy la esposa\Ndel presidente de una empresa?
+Dialogue: 0,0:27:21.62,0:27:25.37,Gen_Main,,0,0,0,,Me casé con él porque creí\Nque trabajaría con hombres apuestos.
+Dialogue: 0,0:27:25.75,0:27:29.17,Gen_Main,,0,0,0,,Pero me forzaron a trabajar\Ncuidando de los hijos de una idol.
+Dialogue: 0,0:27:29.63,0:27:32.25,Gen_Main,,0,0,0,,Y es madre soltera,\Nno hay ni rastro del padre.
+Dialogue: 0,0:27:32.34,0:27:34.09,Gen_Main,,0,0,0,,Esto es muy turbio.
+Dialogue: 0,0:27:34.26,0:27:38.18,Gen_Main,,0,0,0,,¡No me casé para ser\Nuna maldita niñera!
+Dialogue: 0,0:27:40.40,0:27:43.85,Gen_Main,,0,0,0,,Poder servir a mamá\Ndebería hacerla feliz.
+Dialogue: 0,0:27:43.93,0:27:45.50,Gen_Main,,0,0,0,,Debe estar loca, ¿verdad?
+Dialogue: 0,0:27:45.81,0:27:50.15,Gen_Main,,0,0,0,,No, creo que tiene sentido lo que dice.
+Dialogue: 0,0:27:54.01,0:27:58.70,Gen_Main,,0,0,0,,Aunque bueno,\Naquí se está ocultando un escándalo.
+Dialogue: 0,0:28:00.91,0:28:02.24,Gen_Main,,0,0,0,,Eso es.
+Dialogue: 0,0:28:02.66,0:28:06.41,Cart_A_Verd,CARTEL,0,0,0,,{\bord1\fax0.1\fs14\blur0.4\c&HF0F0F0&\3c&H000201&\move(565,273,524,273,21,3733)\frz7}¿Ai, de B-Komachi,\Ntiene unos gemelos ilegítimos?
+Dialogue: 0,0:28:02.66,0:28:06.41,Cart_A_Verd,CARTEL,0,0,0,,{\bord0\fax0.1\fs16\blur0.3\c&HF0F0F0&\3c&H000201&\frz22.82\move(234,286,193,286,21,3733)}Sospechoso libro\Nde maternidad
+Dialogue: 0,0:28:02.82,0:28:06.46,Gen_Main_Up,,0,0,0,,Si vendiera la historia a una revista,\Nnadaría en dinero.
+Dialogue: 0,0:28:06.91,0:28:10.33,Gen_Main,,0,0,0,,¡Me da igual lo que pase después,\Npienso hacerlo!
+Dialogue: 0,0:28:10.63,0:28:13.38,Gen_Main,,0,0,0,,Oh, no. ¿Qué hacemos? ¿La matamos?
+Dialogue: 0,0:28:13.66,0:28:16.44,Gen_Main,,0,0,0,,Imposible. Nos supera en tamaño.
+Dialogue: 0,0:28:16.88,0:28:20.14,Gen_Main,,0,0,0,,Era broma. ¿Tú lo pensabas de verdad?
+Dialogue: 0,0:28:20.45,0:28:23.18,Gen_Main,,0,0,0,,Pero habrá problemas\Nsi no hacemos nada.
+Dialogue: 0,0:28:23.60,0:28:24.88,Gen_Main,,0,0,0,,Aun así…
+Dialogue: 0,0:28:27.21,0:28:28.35,Gen_Main,,0,0,0,,¿Qué haremos?
+Dialogue: 0,0:28:28.56,0:28:31.00,Gen_Main,,0,0,0,,Está tomando fotos\Nal libro de maternidad.
+Dialogue: 0,0:28:31.47,0:28:34.82,Gen_Main,,0,0,0,,Creo que es una buena oportunidad.\NTengo una idea.
+Dialogue: 0,0:28:36.57,0:28:38.12,Gen_Main,,0,0,0,,Con las ganancias,
+Dialogue: 0,0:28:38.25,0:28:41.16,Gen_Main,,0,0,0,,llevaré a mi favorito a la cima\Nde la clasificación mensual.
+Dialogue: 0,0:28:41.24,0:28:42.72,Gen_Main,,0,0,0,,Patética muchacha…
+Dialogue: 0,0:28:43.49,0:28:46.79,Gen_Main,,0,0,0,,El champán ya no puede saciar\Nla sed de tu corazón.
+Dialogue: 0,0:28:46.89,0:28:47.87,Gen_Main,,0,0,0,,¿Quién está ahí?
+Dialogue: 0,0:28:51.54,0:28:54.34,Gen_Main,,0,0,0,,Soy un mensajero divino.
+Dialogue: 0,0:28:55.25,0:28:59.11,Gen_Main,,0,0,0,,Ya no se pueden ignorar más tus excesos.
+Dialogue: 0,0:29:00.05,0:29:01.96,Gen_Main,,0,0,0,,¿Un mensajero divino?
+Dialogue: 0,0:29:02.55,0:29:06.56,Gen_Main,,0,0,0,,Espera, el bebé habló…\N¡No puede ser!
+Dialogue: 0,0:29:06.77,0:29:09.64,Gen_Main,,0,0,0,,¿Crees que unos pobres bebés\Npueden hablar?
+Dialogue: 0,0:29:09.73,0:29:10.90,Gen_Main,,0,0,0,,Cree en mí.
+Dialogue: 0,0:29:11.18,0:29:14.23,Gen_Main,,0,0,0,,Pero es que al hablar\Nde cosas divinas…
+Dialogue: 0,0:29:14.32,0:29:16.64,Gen_Main,,0,0,0,,No creo en esas cosas.
+Dialogue: 0,0:29:16.94,0:29:18.61,Gen_Main,,0,0,0,,¡Ya sé!
+Dialogue: 0,0:29:18.69,0:29:23.20,Gen_Main,,0,0,0,,¡Es una cámara oculta! ¡Un programa\Nde Ai donde engañan a los mánagers!
+Dialogue: 0,0:29:23.28,0:29:24.45,Gen_Main,,0,0,0,,¡Seguro que es eso!
+Dialogue: 0,0:29:24.68,0:29:28.50,Gen_Main,,0,0,0,,Se tomaron muchas molestias.\NHabrá una cámara por aquí, ¿no?
+Dialogue: 0,0:29:28.77,0:29:31.54,Gen_Italics,,0,0,0,,Creo que fui demasiado lejos.
+Dialogue: 0,0:29:31.87,0:29:35.63,Gen_Main,,0,0,0,,Oye, Ruby. Es peligroso subirse a la me…
+Dialogue: 0,0:29:36.25,0:29:39.34,Gen_Main,,0,0,0,,Ten más respeto.\NSoy la encarnación de Amaterasu.
+Dialogue: 0,0:29:40.22,0:29:42.30,Gen_Main,,0,0,0,,Soy lo que llamarían una deidad.
+Dialogue: 0,0:29:43.59,0:29:44.82,Gen_Main,,0,0,0,,¿Una deidad?
+Dialogue: 0,0:29:45.14,0:29:47.60,Gen_Main,,0,0,0,,Manipulada por la idea\Ndel beneficio inmediato,
+Dialogue: 0,0:29:47.80,0:29:50.11,Gen_Main,,0,0,0,,estás a punto de abandonar tu destino.
+Dialogue: 0,0:29:50.25,0:29:51.56,Gen_Main,,0,0,0,,¿Mi destino?
+Dialogue: 0,0:29:52.10,0:29:55.44,Gen_Main,,0,0,0,,El dios del entretenimiento\Nescogió a Ai Hoshino.
+Dialogue: 0,0:29:55.82,0:30:00.53,Gen_Main,,0,0,0,,Además, estos niños son gemelos\Nque cargan con un destino inmenso.
+Dialogue: 0,0:30:00.82,0:30:04.71,Gen_Main,,0,0,0,,Tu destino es protegerlos.
+Dialogue: 0,0:30:05.20,0:30:07.70,Gen_Main,,0,0,0,,Lo que harás va\Ncontra la voluntad de los dioses.
+Dialogue: 0,0:30:08.35,0:30:10.75,Gen_Main,,0,0,0,,Si no paras, sufrirás el castigo divino.
+Dialogue: 0,0:30:11.00,0:30:12.16,Gen_Main,,0,0,0,,¿El castigo divino?
+Dialogue: 0,0:30:12.30,0:30:15.08,Gen_Main,,0,0,0,,¿Qué quieres decir? Sé más concreta.
+Dialogue: 0,0:30:15.17,0:30:18.21,Gen_Main,,0,0,0,,¿Concretamente? Concretamente…
+Dialogue: 0,0:30:18.50,0:30:20.76,Gen_Main,,0,0,0,,-Morirás.\N-¡Sí, morirás!
+Dialogue: 0,0:30:20.92,0:30:23.72,Gen_Main,,0,0,0,,¡No! ¡Eso es demasiado concreto!
+Dialogue: 0,0:30:24.83,0:30:27.47,Gen_Main,,0,0,0,,¿Qué puedo hacer?
+Dialogue: 0,0:30:28.51,0:30:30.02,Gen_Main,,0,0,0,,Es muy sencillo.
+Dialogue: 0,0:30:30.43,0:30:33.64,Gen_Main,,0,0,0,,Guarda nuestro secreto y el de su madre.
+Dialogue: 0,0:30:33.81,0:30:38.40,Gen_Main,,0,0,0,,Y mima a estos niños\Ny haz todo lo que te pidan.
+Dialogue: 0,0:30:38.48,0:30:39.73,Gen_Italics,,0,0,0,,Todo…
+Dialogue: 0,0:30:39.73,0:30:45.11,Cart_C_Ari,CARTEL,0,0,0,,{\bord1.5\fs12\c&H483346&\3c&HD7DFF3&\frx10\fry16\pos(292,54.857)\frz350.2}Hombre\Napuesto
+Dialogue: 0,0:30:39.98,0:30:43.99,Gen_Main,,0,0,0,,Hazlo, y un segundo matrimonio\Ncon un actor apuesto será posible.
+Dialogue: 0,0:30:44.07,0:30:45.16,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:30:45.57,0:30:47.74,Gen_Main,,0,0,0,,¡Lo haré! ¡Haré lo que me pidan!
+Dialogue: 0,0:30:47.99,0:30:49.87,Gen_Main,,0,0,0,,¡Les lameré los pies si hace falta!
+Dialogue: 0,0:30:49.95,0:30:51.70,Gen_Main,,0,0,0,,No hace falta tanto.
+Dialogue: 0,0:30:54.08,0:30:56.63,Gen_Main,,0,0,0,,Casarme con un tipo apuesto…
+Dialogue: 0,0:30:58.83,0:31:00.59,Gen_Main,,0,0,0,,¿Crees que fue lo correcto?
+Dialogue: 0,0:31:00.67,0:31:04.09,Gen_Main,,0,0,0,,El nivel de actividades de un bebé\Ntiene limitaciones.
+Dialogue: 0,0:31:04.51,0:31:06.26,Gen_Main,,0,0,0,,Y ahora podremos salir.
+Dialogue: 0,0:31:06.34,0:31:07.47,Gen_Main,,0,0,0,,¡Viva!
+Dialogue: 0,0:31:07.93,0:31:11.52,Gen_Main,,0,0,0,,Fue una actuación bastante convincente.
+Dialogue: 0,0:31:11.93,0:31:13.73,Gen_Main,,0,0,0,,¿Antes hacías teatro?
+Dialogue: 0,0:31:13.81,0:31:15.98,Gen_Main,,0,0,0,,No, fue mi primera vez.
+Dialogue: 0,0:31:16.31,0:31:19.44,Gen_Main,,0,0,0,,¿La primera? ¿Nunca hiciste\Nninguna obra en la escuela?
+Dialogue: 0,0:31:20.32,0:31:23.91,Gen_Main,,0,0,0,,Es que me criaron en un sitio inusual.
+Dialogue: 0,0:31:25.25,0:31:26.78,Gen_Main,,0,0,0,,Será que tienes talento.
+Dialogue: 0,0:31:26.95,0:31:28.67,Gen_Main,,0,0,0,,Tal vez seas actriz en el futuro.
+Dialogue: 0,0:31:30.24,0:31:31.45,Gen_Main,,0,0,0,,Mi futuro…
+Dialogue: 0,0:31:33.79,0:31:35.91,Gen_Main,,0,0,0,,Nunca lo había pensado.
+Dialogue: 0,0:31:41.96,0:31:43.76,Gen_Italics,,0,0,0,,Ahora tengo una hermana.
+Dialogue: 0,0:31:44.80,0:31:47.22,Gen_Italics,,0,0,0,,Una chica rara aficionada a las idols.
+Dialogue: 0,0:31:48.17,0:31:49.37,Gen_Italics,,0,0,0,,Aunque…
+Dialogue: 0,0:31:51.18,0:31:55.95,Gen_Main,,0,0,0,,Ai baila estupendo.\NY tiene un carisma increíble.
+Dialogue: 0,0:31:57.85,0:32:00.40,Gen_Main,,0,0,0,,Me gusta Ai más que nadie en el mundo,
+Dialogue: 0,0:32:00.81,0:32:03.86,Gen_Main,,0,0,0,,pero tú me gustas casi igual que ella.
+Dialogue: 0,0:32:04.53,0:32:07.38,Gen_Main,,0,0,0,,La pasión que tiene esta chica\Nal hablar de Ai
+Dialogue: 0,0:32:08.32,0:32:10.06,Gen_Main,,0,0,0,,es casi como la tuya.
+Dialogue: 0,0:32:10.53,0:32:11.78,Gen_Main,,0,0,0,,Sarina.
+Dialogue: 0,0:32:13.42,0:32:15.29,Gen_Main,,0,0,0,,¿Qué? ¿Me llamabas?
+Dialogue: 0,0:32:15.37,0:32:16.91,Gen_Main,,0,0,0,,Perdón, ¿te desperté?
+Dialogue: 0,0:32:17.46,0:32:19.14,Gen_Main,,0,0,0,,No te estaba llamando.
+Dialogue: 0,0:32:19.67,0:32:21.92,Gen_Main,,0,0,0,,Si vas a dormir, ve a tu cuna.
+Dialogue: 0,0:32:29.02,0:32:30.81,Gen_Italics,,0,0,0,,Sí.
+Dialogue: 0,0:32:32.72,0:32:34.59,Gen_Italics,,0,0,0,,No puede ser él…
+Dialogue: 0,0:32:36.09,0:32:38.48,Gen_Italics,,0,0,0,,Sarina era mi nombre en mi otra vida.
+Dialogue: 0,0:32:40.98,0:32:44.23,Gen_Italics,,0,0,0,,Pasaron unos meses\Ndesde que Ai volvió a ser idol.
+Dialogue: 0,0:32:44.94,0:32:48.90,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\c&H6A4EF0&\3c&HEDF4B2&\frx0\fry350\frz24.67\move(286,53,312,53,23,3943)}¡Superpopular!\NNuevo lanzamiento
+Dialogue: 0,0:32:44.94,0:32:48.90,Cart_A_Tre,CARTEL,0,0,0,,{\fax-0.15\bord1\b0\c&H7A3FC7&\3c&HFEE7FD&\frz349.5\frx2\fry342\move(414,85,440,85,23,3943)}Sign wa B
+Dialogue: 0,0:32:44.94,0:32:48.90,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\fax0.2\fs30\c&H6A4EF0&\3c&HEDF4B2&\frx0\fry350\move(233,186,259,186,23,3943)\frz347.6}B-Komachi
+Dialogue: 0,0:32:45.11,0:32:47.99,Gen_Italics,,0,0,0,,Y el constante crecimiento de B-Komachi
+Dialogue: 0,0:32:48.90,0:32:51.86,Cart_A_Verd,CARTEL,0,0,0,,{\fax0.05\bord0\fs40\c&H54545B&\frz16\move(322,142,299,142,25,2944)}Salario neto
+Dialogue: 0,0:32:49.34,0:32:51.36,Gen_Italics,,0,0,0,,no se materializó.
+Dialogue: 0,0:32:52.16,0:32:54.83,Gen_Main,,0,0,0,,Este mes solo me pagaron 200 000 yenes.
+Dialogue: 0,0:32:55.20,0:32:58.29,Gen_Main,,0,0,0,,Esta agencia paga muy mal.
+Dialogue: 0,0:32:58.79,0:33:02.00,Gen_Main,,0,0,0,,El single está en el puesto tres\Nde la lista Oricon.
+Dialogue: 0,0:33:02.12,0:33:04.06,Gen_Main,,0,0,0,,¿Recortaron mucho a los intermediarios?
+Dialogue: 0,0:33:04.21,0:33:05.75,Gen_Main,,0,0,0,,¿Por qué te quejas ahora?
+Dialogue: 0,0:33:05.84,0:33:10.72,Gen_Main,,0,0,0,,A diferencia de las empresas que hacen\Nde todo, la nuestra es pequeña.
+Dialogue: 0,0:33:11.07,0:33:13.89,Gen_Main,,0,0,0,,Viniste sabiendo que nuestras\Nganancias son escasas, ¿no?
+Dialogue: 0,0:33:14.18,0:33:16.89,Gen_Main,,0,0,0,,Por fin descubrí que el mundo\Nse mueve por el dinero.
+Dialogue: 0,0:33:17.43,0:33:19.35,Gen_Main,,0,0,0,,Qué descubrimiento tan deprimente.
+Dialogue: 0,0:33:19.60,0:33:21.85,Gen_Main,,0,0,0,,Ser idol es divertido,
+Dialogue: 0,0:33:22.02,0:33:26.09,Gen_Main,,0,0,0,,así que no me importaría\Nseguir si solo estuviera yo.
+Dialogue: 0,0:33:26.90,0:33:31.95,Gen_Main,,0,0,0,,Pero quiero que los niños estudien\Nen escuelas buenas y reciban clases.
+Dialogue: 0,0:33:32.24,0:33:34.41,Gen_Main,,0,0,0,,Debo vender más
+Dialogue: 0,0:33:34.70,0:33:38.66,Gen_Main,,0,0,0,,y ganar lo más posible\Npara darles muchas opciones.
+Dialogue: 0,0:33:39.62,0:33:43.54,Gen_Main,,0,0,0,,Ahora mismo no podré hacerlos felices.
+Dialogue: 0,0:33:47.00,0:33:51.09,Gen_Main,,0,0,0,,Ojalá recibiera algún trabajo\Npara un comercial o película.
+Dialogue: 0,0:33:51.25,0:33:52.89,Gen_Main,,0,0,0,,Si fuéramos una agencia grande…
+Dialogue: 0,0:33:53.22,0:33:56.25,Gen_Main,,0,0,0,,Empieza por no comer un helado tan caro.
+Dialogue: 0,0:33:59.54,0:34:01.57,Gen_Main,,0,0,0,,Me voy a mis lecciones.
+Dialogue: 0,0:34:02.77,0:34:04.69,Gen_Main,,0,0,0,,Sean buenos mientras no estoy.
+Dialogue: 0,0:34:08.28,0:34:12.07,Gen_Main,,0,0,0,,Oye, ¿las idols no suelen\Nganar un millón al mes?
+Dialogue: 0,0:34:12.32,0:34:13.61,Gen_Main,,0,0,0,,Ni en sueños.
+Dialogue: 0,0:34:13.70,0:34:15.03,Gen_Main,,0,0,0,,¿No?
+Dialogue: 1,0:34:15.03,0:34:19.74,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord3.5\c&HC647EF&\3c&HA5DFFE&\frz6\move(351,61,300,61,23,4694)}O{\c&H8171F4&}shi-{\c&H2789F1&}Do{\c&H27FFF9&}l
+Dialogue: 2,0:34:15.03,0:34:19.74,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1\c&HC647EF&\3c&H685BD5&\move(351,61,300,61,23,4694)\frz6}O{\c&H8171F4&}shi-{\c&H2789F1&}Do{\c&H27FFF9&}l
+Dialogue: 0,0:34:15.37,0:34:19.75,Gen_Main,,0,0,0,,Las regalías y el dinero por salir\Nen TV se reparte entre todas.
+Dialogue: 0,0:34:20.12,0:34:23.21,Gen_Main,,0,0,0,,Los conciertos son una ruina\Nsi no venden mucha mercancía.
+Dialogue: 0,0:34:23.46,0:34:25.54,Gen_Main,,0,0,0,,Y les descuentan los gastos de la ropa.
+Dialogue: 0,0:34:26.18,0:34:28.63,Gen_Main,,0,0,0,,Solo unas pocas ganan un millón al mes.
+Dialogue: 0,0:34:28.71,0:34:31.89,Gen_Main,,0,0,0,,¿Qué? ¡Si la gente que se esfuerza\Nno gana suficiente,
+Dialogue: 0,0:34:32.05,0:34:33.43,Gen_Main,,0,0,0,,este mundo está acabado!
+Dialogue: 0,0:34:33.80,0:34:35.01,Gen_Main,,0,0,0,,Ya sé.
+Dialogue: 0,0:34:35.55,0:34:40.39,Gen_Main,,0,0,0,,Los otaku podrían ofrecer sus hígados\Npor Ai, y entonces los venderíamos…
+Dialogue: 0,0:34:40.47,0:34:42.60,Gen_Main,,0,0,0,,Tu idea sí que es desastrosa.
+Dialogue: 0,0:34:42.94,0:34:46.31,Gen_Main,,0,0,0,,Olvida esa visión posholocausto\Nde la religión.
+Dialogue: 0,0:34:47.67,0:34:50.78,Gen_Italics,,0,0,0,,Canta y baila, y su cara es inigualable.
+Dialogue: 0,0:34:50.98,0:34:52.69,Gen_Italics,,0,0,0,,Da clases y entrena su voz…
+Dialogue: 0,0:34:52.96,0:34:55.32,Gen_Italics,,0,0,0,,Y trabaja duro\Nensayando las coreografías.
+Dialogue: 0,0:34:56.04,0:34:58.48,Gen_Italics,,0,0,0,,B-Komachi es de los grupos\Nque más venden, pero…
+Dialogue: 0,0:35:01.20,0:35:02.70,Gen_Main,,0,0,0,,¡Mánager!
+Dialogue: 0,0:35:03.08,0:35:05.12,Gen_Main,,0,0,0,,¿Por qué nuestra Ai\Nno recibe trabajos?
+Dialogue: 0,0:35:05.21,0:35:08.49,Gen_Main,,0,0,0,,Qué mala gestión. Trabajen más\Nen las ventas y la publicidad.
+Dialogue: 0,0:35:08.67,0:35:10.67,Gen_Main,,0,0,0,,Es muy fácil decirlo.
+Dialogue: 0,0:35:11.46,0:35:15.22,Gen_Main,,0,0,0,,Los grupos de idols\Nestán en una situación donde
+Dialogue: 0,0:35:15.30,0:35:19.39,Gen_Main,,0,0,0,,decenas de personas compiten por\Ntrabajos contra artistas en solitario.
+Dialogue: 0,0:35:20.06,0:35:23.48,Gen_Main,,0,0,0,,Y cuando por fin consiguen trabajos\Ncuando venden en conjunto,
+Dialogue: 0,0:35:23.56,0:35:27.40,Gen_Main,,0,0,0,,si una intenta actuar en solitario,\Nel problema es grande.
+Dialogue: 0,0:35:27.39,0:35:31.35,Cart_A_Tim,CARTEL,0,0,0,,{\fad(0,722)\fs12\c&H2BFFFF&\3c&H5B59E8&\pos(154.5,69.5)}Grupo de idols superpopulares {\3c&HAFFFFC&\c&H111B30&}¡Graduación!
+Dialogue: 0,0:35:27.81,0:35:31.23,Gen_Main,,0,0,0,,Pese a graduarse de sus grupos\Npara trabajar en solitario,
+Dialogue: 0,0:35:31.32,0:35:32.99,Gen_Main,,0,0,0,,hay cientos de antiguas idols
+Dialogue: 0,0:35:33.07,0:35:36.45,Gen_Main,,0,0,0,,que, al no poder conseguir trabajo,\Ntrabajan en negocios en Roppongi
+Dialogue: 0,0:35:36.55,0:35:41.37,Gen_Main,,0,0,0,,o se vuelven chicas que cobran dinero\Npor salir a tomar unas copas.
+Dialogue: 0,0:35:41.79,0:35:43.25,Gen_Main,,0,0,0,,No sé…
+Dialogue: 0,0:35:43.33,0:35:45.25,Gen_Main,,0,0,0,,Tokio da mucho miedo.
+Dialogue: 0,0:35:45.57,0:35:48.04,Gen_Main,,0,0,0,,Admito que Ai es asombrosa.
+Dialogue: 0,0:35:48.58,0:35:51.71,Gen_Main,,0,0,0,,Pero solo llega al entorno de las idols.
+Dialogue: 0,0:35:52.81,0:35:54.59,Gen_Main,,0,0,0,,En la industria del entretenimiento,
+Dialogue: 0,0:35:54.74,0:35:58.51,Gen_Main,,0,0,0,,no triunfas si no tienes algo especial\Nque te deje competir sola.
+Dialogue: 0,0:35:59.22,0:36:03.22,Gen_Main,,0,0,0,,Un trabajo rentable no es uno\Ndonde pidan a "alguien de B-Komachi",
+Dialogue: 0,0:36:03.31,0:36:06.11,Gen_Main,,0,0,0,,sino uno donde soliciten a Ai\Nexpresamente.
+Dialogue: 0,0:36:07.85,0:36:11.36,Gen_Main,,0,0,0,,No basta con ser una idol de primera.
+Dialogue: 0,0:36:20.78,0:36:22.86,Gen_Main,,0,0,0,,Ai, ¿estás deprimida?
+Dialogue: 0,0:36:23.16,0:36:26.27,Gen_Main,,0,0,0,,Acabas de recuperarte,\Nasí que no te excedas.
+Dialogue: 0,0:36:26.46,0:36:32.00,Gen_Main,,0,0,0,,No es eso. Es que no comí\Ny ahora me muero de hambre.
+Dialogue: 0,0:36:32.09,0:36:33.80,Gen_Main,,0,0,0,,¿Ahora de pronto comes más?
+Dialogue: 0,0:36:35.96,0:36:37.97,Gen_Main,,0,0,0,,-Repasemos la última parte.\N-Sí.
+Dialogue: 0,0:36:38.05,0:36:39.76,Gen_Italics,,0,0,0,,Hoy no me encuentro motivada.
+Dialogue: 0,0:36:40.89,0:36:42.01,Gen_Italics,,0,0,0,,Haré {\i0}egosurfing{\i1}.
+Dialogue: 0,0:36:44.38,0:36:47.39,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF6F6F6&\pos(126.824,43.153)\clip(m 124 42 l 245 40 245 74 491 69 488 266 125 269)}m 0 0 l 500 0 500 300 0 300
+Dialogue: 2,0:36:44.38,0:36:47.39,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs25\blur0.4\bord0\c&H53565D&\pos(133,47)}Tanujirou\N\N{\c&H6B6D7C&\b0}Para bien o para mal, la sonrisa\Nde Ai es la de una profesional.\N\N\N\NLe falta sentimiento humano.\N\NNo puedo apoyarla de verdad.
+Dialogue: 0,0:36:50.77,0:36:52.90,Gen_Italics,,0,0,0,,Golpean donde más duele.
+Dialogue: 1,0:36:56.77,0:36:58.48,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\blur0.3\bord1\an7\fscx93\fscy74\c&HC0F1FC&\3c&H7155C5&\pos(351.358,27.781)}m 0 0 l 150 0 150 60 0 60
+Dialogue: 2,0:36:56.77,0:36:58.48,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\bord0\b0\c&H6C39C7&\pos(421.334,30.133)}Felicidades por la actuación\N{\fs30\b1\c&H505169&}B-Komachi
+Dialogue: 0,0:36:58.79,0:37:01.66,Gen_Main,,0,0,0,,¡Un evento de ventas!\N¡Un miniconcierto!
+Dialogue: 0,0:37:01.91,0:37:04.99,Gen_Main,,0,0,0,,¡De los que se necesita\Nganar un sorteo para ir!
+Dialogue: 0,0:37:06.23,0:37:09.71,Gen_Main,,0,0,0,,Será la primera vez\Nque veré actuar a mamá en directo.
+Dialogue: 0,0:37:09.87,0:37:10.96,Gen_Main,,0,0,0,,Escuchen.
+Dialogue: 0,0:37:11.69,0:37:14.25,Gen_Main,,0,0,0,,Los traje porque no dejaron de insistir,
+Dialogue: 0,0:37:14.34,0:37:17.80,Gen_Main,,0,0,0,,pero me culparán a mí\Nsi se entera el presidente, ¿entendido?
+Dialogue: 0,0:37:18.17,0:37:20.88,Cart_A_Tim,CARTEL,0,0,0,,{\b0\bord1.5\fax-0.02\blur0.3\fs30\c&H22283D&\3c&HF6FDED&\pos(509.866,151.2)\frz325.5}B-Komachi
+Dialogue: 0,0:37:18.17,0:37:20.88,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H09081D&\3c&H783ADF&\frz27.67\pos(108.267,96.266)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,0:37:18.68,0:37:20.88,Gen_Main,,0,0,0,,¡No animen, no corran y no hablen!
+Dialogue: 0,0:37:21.09,0:37:23.76,Gen_Main,,0,0,0,,Pónganse los chupetes y pórtense bien.
+Dialogue: 0,0:37:25.10,0:37:26.52,Gen_Main,,0,0,0,,Es verdad, Ruby.
+Dialogue: 0,0:37:26.60,0:37:29.56,Gen_Main,,0,0,0,,No podemos hacer nada que destaque.
+Dialogue: 0,0:37:31.02,0:37:33.69,Gen_Main,,0,0,0,,Todo lo que pueda dar pistas\Nde una conexión con Ai…
+Dialogue: 0,0:37:33.77,0:37:35.27,Gen_Main,,0,0,0,,Eso ya lo sé.
+Dialogue: 0,0:37:36.19,0:37:39.65,Gen_Main,,0,0,0,,Tú también lo viste, ¿no?\NMamá está muy mal.
+Dialogue: 0,0:37:40.11,0:37:42.78,Gen_Main,,0,0,0,,Vine porque estoy preocupada por ella.
+Dialogue: 0,0:37:43.66,0:37:46.08,Gen_Main,,0,0,0,,No vine para divertirme.
+Dialogue: 0,0:37:44.28,0:37:48.69,Gen_Main_Up,,0,0,0,,Hoy nos acompañan\Ntres integrantes de B-Komachi.
+Dialogue: 0,0:38:03.29,0:38:04.80,Gen_Main,,0,0,0,,¡B-Komachi!
+Dialogue: 0,0:38:06.14,0:38:07.31,Gen_Main,,0,0,0,,¡B-Komachi!
+Dialogue: 0,0:38:07.30,0:38:10.56,Cart_C_Ari,CARTEL,0,0,0,,{\b0\bord0\blur0.7\fs20\c&H544D6D&\pos(370.133,298.4)}Para bien o para mal, la sonrisa de Ai es la de una profesional.\NLe falta sentimiento humano. No puedo apoyarla de verdad.
+Dialogue: 0,0:38:10.93,0:38:14.77,Gen_Italics,,0,0,0,,Y dicen esas cosas…\NEn fin, soy una profesional.
+Dialogue: 0,0:38:14.93,0:38:19.44,Cart_C_Ari,CARTEL,0,0,0,,{\an4\q2\b0\bord0\blur0.7\fs29\c&H7A6793&\move(120,311,-50,311,29,4492)}Le falta sentimiento humano. No puedo apoyarla de verdad.
+Dialogue: 0,0:38:16.23,0:38:18.44,Gen_Italics_top,,0,0,0,,Además, no lo entiendo.
+Dialogue: 0,0:38:19.44,0:38:22.20,Gen_Italics,,0,0,0,,Son ustedes los que quieren\Nalgo casi inhumano.
+Dialogue: 0,0:38:22.78,0:38:26.24,Gen_Italics,,0,0,0,,Me miro en el espejo y lo estudio.\NLo perfecciono al milímetro.
+Dialogue: 0,0:38:26.75,0:38:29.20,Gen_Italics,,0,0,0,,Mi forma de estrechar\Nlos ojos o la boca…
+Dialogue: 0,0:38:29.45,0:38:30.69,Gen_Italics,,0,0,0,,Todo está calculado.
+Dialogue: 0,0:38:31.12,0:38:34.25,Gen_Italics,,0,0,0,,Siempre pongo la sonrisa\Nque más complace a la gente.
+Dialogue: 0,0:38:35.25,0:38:38.46,Gen_Italics,,0,0,0,,Porque estoy hecha de mentiras.
+Dialogue: 0,0:38:43.85,0:38:45.30,Gen_Main,,0,0,0,,¿Qué hacen esos bebés?
+Dialogue: 0,0:38:45.39,0:38:46.85,Gen_Main,,0,0,0,,¡Están haciendo un baile!
+Dialogue: 0,0:38:46.93,0:38:48.93,Gen_Main,,0,0,0,,¡Cuesta creer que sean bebés!
+Dialogue: 0,0:38:49.11,0:38:53.48,Gen_Italics,,0,0,0,,¿Vinieron porque estaban preocupados?\N¡Yo veo que lo están disfrutando!
+Dialogue: 0,0:38:53.85,0:38:55.67,Gen_Italics,,0,0,0,,No lo pudimos evitar…
+Dialogue: 0,0:38:57.52,0:38:59.36,Gen_Main,,0,0,0,,¿Qué? Es asombroso.
+Dialogue: 0,0:39:02.03,0:39:05.90,Gen_Italics,,0,0,0,,¡Mis niños son una ternurita!
+Dialogue: 1,0:39:07.03,0:39:10.74,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFAFAFA&\pos(122.461,-4.847)\clip(m 95 42 l 570 138 585 71 114 -21)}m 0 0 l 500 0 500 300 0 300
+Dialogue: 2,0:39:07.03,0:39:10.74,Cart_C_Ari,CARTEL,0,0,0,,{\an4\blur0.5\bord0\c&H657384&\frz348.3\pos(136.715,19.518)}Al ver a unos bebés gemelos haciendo el baile,\Nuna idol reacciona de forma espontánea
+Dialogue: 0,0:39:07.91,0:39:10.74,Gen_Main,,0,0,0,,Tiene 210 000 retuits.
+Dialogue: 0,0:39:11.24,0:39:14.04,Gen_Main,,0,0,0,,Y el video supera\Nlos dos millones de reproducciones.
+Dialogue: 0,0:39:14.46,0:39:19.09,Gen_Main,,0,0,0,,Sé que es más fácil que el contenido\Nde bebés se vuelva viral, pero…
+Dialogue: 0,0:39:19.38,0:39:21.21,Gen_Main,,0,0,0,,Hablemos un momento.
+Dialogue: 1,0:39:23.54,0:39:28.51,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha50\an7\fscx93\fscy74\c&HF6F9E4&\3c&HD4CDC5&\pos(9.338,9.431)}m 0 0 l 260 0 260 130 0 130
+Dialogue: 2,0:39:23.54,0:39:25.50,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\bord0\blur0.4\an7\c&H80AC69&\clip(9.333,10,250.667,105.556)\move(14,59,14,-27,488,1656)}Anónimo\N{\c&H606065&}¿Cómo se llama esta chica?\N\N\N\N\N\N{\c&H80AC69&}Anónimo\N{\c&HCB915A&}Un momento, ¿Ai siempre sonreía así?\NMi impresión de ella cambió un poco\N\N\N\N\N\N{\c&H80AC69&}Anónimo\N{\c&H6557C7&}Esos bebés solo me dan\Nla idea de otaku peligrosos
+Dialogue: 2,0:39:25.50,0:39:28.51,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\bord0\blur0.4\an7\c&H80AC69&\clip(9.333,10,250.667,105.556)\move(14,-27,14,-100,29,1990)}Anónimo\N{\c&H606065&}¿Cómo se llama esta chica?\N\N\N\N\N\N{\c&H80AC69&}Anónimo\N{\c&HCB915A&}Un momento, ¿Ai siempre sonreía así?\NMi impresión de ella cambió un poco\N\N\N\N\N\N{\c&H80AC69&}Anónimo\N{\c&H6557C7&}Esos bebés solo me dan\Nla idea de otaku peligrosos
+Dialogue: 0,0:39:31.47,0:39:34.43,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF6F6F6&\clip(m 82 93 l 216 98 216 137 568 140 565 190 76 193)\pos(72.327,54.833)}m 0 0 l 530 0 530 300 0 300
+Dialogue: 2,0:39:31.47,0:39:34.43,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs28\blur0.6\bord0\c&H53565D&\pos(86.199,108.474)}Tanujirou\N\N{\c&H6B6D7C&\b0}¡Sí, esa es! ¡Esa es!
+Dialogue: 0,0:39:32.93,0:39:34.43,Gen_Main_Up,,0,0,0,,Ya veo…
+Dialogue: 0,0:39:34.77,0:39:36.90,Gen_Main_Up,,0,0,0,,Así que esto está bien.
+Dialogue: 0,0:39:37.85,0:39:40.23,Gen_Main,,0,0,0,,Me acordaré.
+Dialogue: 0,0:39:42.69,0:39:44.03,Gen_Italics,,0,0,0,,Pasó un año desde entonces.
+Dialogue: 0,0:39:44.65,0:39:49.37,Gen_Italics,,0,0,0,,Llegamos a un punto donde\Nya no es raro que caminemos o hablemos,
+Dialogue: 0,0:39:49.84,0:39:50.99,Gen_Italics,,0,0,0,,y mi hermana…
+Dialogue: 0,0:39:51.14,0:39:52.58,Gen_Main,,0,0,0,,¡Mamá!
+Dialogue: 0,0:39:54.62,0:39:56.29,Gen_Main,,0,0,0,,Acaríciame.
+Dialogue: 0,0:39:56.75,0:39:58.31,Gen_Main,,0,0,0,,Muy bien.
+Dialogue: 0,0:39:58.44,0:40:03.26,Gen_Italics,,0,0,0,,… se volvió una fan demencial que se\Naferra a su idol y la llama "mamá".
+Dialogue: 0,0:40:03.71,0:40:07.01,Gen_Main,,0,0,0,,Ah, esto es la felicidad más absoluta.
+Dialogue: 0,0:40:07.63,0:40:10.76,Gen_Main,,0,0,0,,¿Dónde aprendiste\Nuna frase tan compleja?
+Dialogue: 0,0:40:11.60,0:40:12.76,Gen_Main,,0,0,0,,¿No será que…
+Dialogue: 0,0:40:14.24,0:40:15.98,Gen_Main,,0,0,0,,Bueno, yo…
+Dialogue: 0,0:40:16.37,0:40:19.48,Gen_Italics,,0,0,0,,¿Ai sospecha de nosotros?
+Dialogue: 0,0:40:19.62,0:40:21.69,Gen_Main,,0,0,0,,… eres una especie de genio?
+Dialogue: 0,0:40:22.19,0:40:26.03,Gen_Italics,,0,0,0,,No duda de nosotros,\Nasí que pasamos los días tranquilos.
+Dialogue: 0,0:40:26.40,0:40:27.57,Gen_Main,,0,0,0,,Debe ser genético.
+Dialogue: 0,0:40:29.95,0:40:31.87,Gen_Italics,,0,0,0,,De modelo a asistente de radio…
+Dialogue: 0,0:40:32.45,0:40:34.58,Gen_Italics,,0,0,0,,Ai fue recibiendo más y más trabajos.
+Dialogue: 0,0:40:34.66,0:40:38.17,Gen_Italics,,0,0,0,,Y hoy tiene uno que es\Nla cristalización de su esfuerzo.
+Dialogue: 0,0:40:38.46,0:40:41.03,Gen_Main,,0,0,0,,Tu primera serie de televisión.\NQué divertido.
+Dialogue: 0,0:40:41.21,0:40:42.89,Gen_Main,,0,0,0,,Pero es un papel menor.
+Dialogue: 0,0:40:44.63,0:40:46.52,Gen_Main,,0,0,0,,Escuchen, chicos.
+Dialogue: 0,0:40:46.72,0:40:49.63,Gen_Main,,0,0,0,,Los traje porque no pararon de insistir,
+Dialogue: 0,0:40:49.90,0:40:54.31,Gen_Main,,0,0,0,,pero no pueden llamar "mamá"\Na Ai en el set.
+Dialogue: 0,0:40:54.44,0:40:57.73,Gen_Main,,0,0,0,,No olviden que diremos\Nque son mis hijos.
+Dialogue: 0,0:40:57.93,0:41:00.69,Gen_Main,,0,0,0,,Sí, sí. Mamá, acaríciame un poco.
+Dialogue: 0,0:41:00.77,0:41:02.23,Gen_Main,,0,0,0,,Y a mí, mamá.
+Dialogue: 0,0:41:02.41,0:41:04.36,Gen_Main,,0,0,0,,Mamá, dame mi mesada.
+Dialogue: 0,0:41:06.53,0:41:10.03,Gen_Main,,0,0,0,,Soy Ai, de Producciones Ichigo.\NMucho gusto.
+Dialogue: 0,0:41:10.15,0:41:11.99,Gen_Main,,0,0,0,,Igualmente.
+Dialogue: 0,0:41:22.90,0:41:24.92,Gen_Main,,0,0,0,,¿Ocurre algo, director?
+Dialogue: 0,0:41:25.00,0:41:26.13,Gen_Main,,0,0,0,,No, nada en particular.
+Dialogue: 0,0:41:26.21,0:41:28.38,Gen_Main,,0,0,0,,-Da miedo, ¿verdad?\N-Sí, es su cara.
+Dialogue: 0,0:41:28.80,0:41:30.68,Gen_Main,,0,0,0,,¿Quiénes son estos niños?
+Dialogue: 0,0:41:30.76,0:41:32.59,Gen_Main,,0,0,0,,Son mis hijos.
+Dialogue: 0,0:41:33.09,0:41:35.97,Gen_Main,,0,0,0,,Que la mánager traiga\Na sus hijos al set…
+Dialogue: 0,0:41:39.35,0:41:41.06,Gen_Main,,0,0,0,,¿Es una de esas cosas novedosas?
+Dialogue: 0,0:41:42.18,0:41:43.76,Gen_Main,,0,0,0,,Cómo cambian los tiempos.
+Dialogue: 0,0:41:43.94,0:41:46.69,Gen_Main,,0,0,0,,Hay gente que hasta trae a sus perros.
+Dialogue: 0,0:41:49.07,0:41:51.24,Gen_Main,,0,0,0,,Sí, no será un problema.
+Dialogue: 0,0:41:49.07,0:41:50.40,Gen_Main_Up,,0,0,0,,Tenemos nuestros dulces.
+Dialogue: 0,0:41:50.49,0:41:51.95,Gen_Main_Up,,0,0,0,,Conque me descubrieron.
+Dialogue: 0,0:41:51.32,0:41:52.70,Gen_Main,,0,0,0,,Mis niños son muy buenos.
+Dialogue: 0,0:41:52.16,0:41:53.62,Gen_Main_Up,,0,0,0,,Estoy a dieta.
+Dialogue: 0,0:41:52.91,0:41:55.20,Gen_Main,,0,0,0,,¡Son gemelos, qué lindos!
+Dialogue: 0,0:41:55.45,0:41:58.08,Gen_Italics,,0,0,0,,Si no recuerdo mal,\Nesa chica es modelo…
+Dialogue: 0,0:41:58.45,0:42:01.92,Gen_Italics,,0,0,0,,Y esa es una actriz joven\Nque dicen que es adorable.
+Dialogue: 0,0:42:02.17,0:42:03.88,Gen_Main,,0,0,0,,Baba, baba.
+Dialogue: 0,0:42:03.96,0:42:05.63,Gen_Italics,,0,0,0,,No finjas que eres linda.
+Dialogue: 0,0:42:06.50,0:42:09.09,Gen_Italics,,0,0,0,,Es inútil. No aguanto más.
+Dialogue: 0,0:42:13.34,0:42:15.01,Gen_Main,,0,0,0,,Eres el hijo de la mánager.
+Dialogue: 0,0:42:15.93,0:42:20.23,Gen_Main,,0,0,0,,No me importa que estés aquí,\Npero si lloras e interrumpes, te echaré.
+Dialogue: 0,0:42:20.31,0:42:22.48,Gen_Main,,0,0,0,,¡No, no haríamos nada de eso!
+Dialogue: 0,0:42:22.56,0:42:25.19,Gen_Main,,0,0,0,,Aunque somos bebés,\Nno queremos cometer esos errores.
+Dialogue: 0,0:42:25.37,0:42:29.23,Gen_Main,,0,0,0,,Sé bien que no alterar el proceso\Nde producción es una regla básica.
+Dialogue: 0,0:42:29.32,0:42:32.45,Gen_Main,,0,0,0,,Por favor, trabaja más a menudo\Ncon la agencia de Ai.
+Dialogue: 0,0:42:32.53,0:42:34.66,Gen_Main,,0,0,0,,Cuánto habla este bebé.
+Dialogue: 0,0:42:34.91,0:42:36.66,Gen_Main,,0,0,0,,¿Dónde aprendiste ese vocabulario?
+Dialogue: 0,0:42:36.94,0:42:38.74,Gen_Main,,0,0,0,,En YouTube y por ahí…
+Dialogue: 0,0:42:38.83,0:42:41.91,Gen_Main,,0,0,0,,¡YouTube es asombroso!\NCómo cambian los tiempos.
+Dialogue: 0,0:42:42.41,0:42:46.71,Gen_Main,,0,0,0,,Hay muchos actores infantiles precoces,\Npero tú estás a otro nivel.
+Dialogue: 0,0:42:47.29,0:42:49.05,Gen_Main,,0,0,0,,¿Sabes actuar?
+Dialogue: 0,0:42:49.38,0:42:51.80,Gen_Main,,0,0,0,,No, actuar no es algo que yo…
+Dialogue: 0,0:42:52.17,0:42:56.09,Gen_Main,,0,0,0,,Serías interesante en la pantalla.\NQuiero que aparezcas.
+Dialogue: 0,0:42:57.10,0:42:58.51,Gen_Main,,0,0,0,,Toma mi tarjeta.
+Dialogue: 0,0:42:58.97,0:43:00.97,Gen_Main,,0,0,0,,Llámame si firmas con una agencia.
+Dialogue: 0,0:43:01.17,0:43:05.19,Gen_Main,,0,0,0,,No, si quieres ofrecer trabajo,\Nofréceselo a Ai, no a mí.
+Dialogue: 0,0:43:05.41,0:43:07.23,Gen_Main,,0,0,0,,Ah, esa idol…
+Dialogue: 0,0:43:07.56,0:43:11.57,Gen_Main,,0,0,0,,Tiene una cara increíble.\NCon suerte, sobrevivirá en la industria.
+Dialogue: 0,0:43:08.27,0:43:09.36,Gen_Main_Up,,0,0,0,,Qué bien luce.
+Dialogue: 0,0:43:11.94,0:43:14.07,Gen_Main,,0,0,0,,¿Necesita suerte aparte de su cara?
+Dialogue: 0,0:43:14.31,0:43:17.03,Gen_Main,,0,0,0,,Escucha, chico.\NHay tres tipos de actores.
+Dialogue: 0,0:43:17.53,0:43:18.99,Gen_Main,,0,0,0,,Míralas.
+Dialogue: 0,0:43:19.66,0:43:21.20,Gen_Main,,0,0,0,,Una es la estrella.
+Dialogue: 0,0:43:21.54,0:43:24.41,Gen_Main,,0,0,0,,Su labor principal es atraer al público.
+Dialogue: 0,0:43:24.84,0:43:27.69,Gen_Main,,0,0,0,,Y como son estrellas,\Nsuelen ganar bastante dinero.
+Dialogue: 0,0:43:28.06,0:43:32.30,Gen_Main,,0,0,0,,A su lado está la que tiene talento.\NEs la que le da calidad al producto.
+Dialogue: 0,0:43:32.67,0:43:35.18,Gen_Main,,0,0,0,,Su misión es mantener la imagen.
+Dialogue: 0,0:43:35.84,0:43:40.22,Gen_Main,,0,0,0,,Y luego están los novatos.\NNo se espera grandes cosas de ellos.
+Dialogue: 0,0:43:40.54,0:43:43.52,Gen_Main,,0,0,0,,Aprueban si consiguen\Ntraer frescura a la pantalla.
+Dialogue: 0,0:43:44.35,0:43:47.27,Gen_Main,,0,0,0,,Y está la meta de dar experiencia\Na las próximas estrellas.
+Dialogue: 0,0:43:47.59,0:43:50.23,Gen_Main,,0,0,0,,Es una inversión\Nque hace toda la industria.
+Dialogue: 0,0:43:51.07,0:43:55.82,Gen_Main,,0,0,0,,Es decir, están invirtiendo\Nen todas esas caras nuevas.
+Dialogue: 0,0:43:56.28,0:43:58.57,Gen_Main,,0,0,0,,Si no atraen espectadores o caen bien,
+Dialogue: 0,0:43:58.84,0:44:02.20,Gen_Main,,0,0,0,,las siguientes novatas\Nles quitarán el puesto.
+Dialogue: 0,0:44:02.66,0:44:05.07,Gen_Main,,0,0,0,,Sería un gran éxito
+Dialogue: 0,0:44:05.38,0:44:08.12,Gen_Main,,0,0,0,,si una de las novatas de hoy\Ntriunfa en la industria.
+Dialogue: 0,0:44:08.33,0:44:09.54,Gen_Main,,0,0,0,,Así es este mundo.
+Dialogue: 0,0:44:10.91,0:44:13.55,Gen_Main,,0,0,0,,Los que sobreviven son expertos en algo.
+Dialogue: 0,0:44:14.97,0:44:16.55,Gen_Main,,0,0,0,,Pero a ella le irá bien.
+Dialogue: 0,0:44:16.88,0:44:18.93,Gen_Main,,0,0,0,,Ai es una idol de primera.
+Dialogue: 0,0:44:19.22,0:44:21.93,Gen_Main,,0,0,0,,No, con eso no basta.
+Dialogue: 0,0:44:22.93,0:44:25.18,Gen_Main,,0,0,0,,Director, estamos listos para la prueba.
+Dialogue: 0,0:44:25.27,0:44:27.39,Gen_Main,,0,0,0,,Bien, la veré desde aquí.
+Dialogue: 0,0:44:28.22,0:44:29.44,Gen_Main,,0,0,0,,Listos…
+Dialogue: 0,0:44:30.98,0:44:32.40,Gen_Main,,0,0,0,,¿Qué dices?
+Dialogue: 0,0:44:32.48,0:44:34.44,Gen_Main,,0,0,0,,¿Quieres que se lo pida a Toma por ti?
+Dialogue: 0,0:44:34.53,0:44:36.28,Gen_Main,,0,0,0,,¡Oye, no hagas eso!
+Dialogue: 0,0:44:38.07,0:44:39.61,Gen_Main,,0,0,0,,Pero ¿no están siempre juntos?
+Dialogue: 0,0:44:39.70,0:44:43.08,Gen_Main,,0,0,0,,Su actuación es mediocre,\Npero atrae la atención.
+Dialogue: 0,0:44:43.24,0:44:45.54,Gen_Main,,0,0,0,,¿Verdad? Antes estaba mencionando eso.
+Dialogue: 0,0:44:46.37,0:44:51.00,Gen_Main,,0,0,0,,Debo verme linda en el escenario\Ndesde cualquier ángulo,
+Dialogue: 0,0:44:51.85,0:44:53.46,Gen_Main,,0,0,0,,pero aquí solo hay una persona.
+Dialogue: 0,0:44:54.05,0:44:56.46,Gen_Main,,0,0,0,,Debo hacer que la cámara\Nme encuentre linda.
+Dialogue: 0,0:44:56.84,0:45:00.26,Gen_Main,,0,0,0,,Si uso los trucos\Nde los videos musicales, será posible.
+Dialogue: 0,0:45:00.55,0:45:01.85,Gen_Main,,0,0,0,,¡Bien hecho!
+Dialogue: 0,0:45:01.93,0:45:03.85,Gen_Main_Up,,0,0,0,,Te estaré animando.
+Dialogue: 0,0:45:02.93,0:45:06.43,Gen_Main,,0,0,0,,Hace como si fuera un video musical…\NCómo cambian los tiempos.
+Dialogue: 0,0:45:06.52,0:45:09.98,Gen_Main,,0,0,0,,¿Qué? Están muy bien hechos,\Ndeberías darles una oportunidad.
+Dialogue: 0,0:45:10.06,0:45:11.69,Gen_Main,,0,0,0,,Te prestaré los DVD.
+Dialogue: 0,0:45:11.77,0:45:13.01,Gen_Main,,0,0,0,,No grites tanto.
+Dialogue: 0,0:45:20.61,0:45:22.37,Gen_Main,,0,0,0,,Ya quiero verte actuar.
+Dialogue: 0,0:45:22.45,0:45:24.37,Gen_Main,,0,0,0,,Me grabaron bastante.
+Dialogue: 0,0:45:24.74,0:45:25.87,Gen_Italics,,0,0,0,,Aquí viene.
+Dialogue: 0,0:45:26.45,0:45:27.67,Gen_Main,,0,0,0,,Ya empieza.
+Dialogue: 0,0:45:28.46,0:45:30.87,Gen_Italics_top,,0,0,0,,-¿Estás de mal humor?\N-No.
+Dialogue: 0,0:45:31.12,0:45:33.50,Gen_Italics_top,,0,0,0,,-¿Fue por algo que hice?\N-Te dije que no.
+Dialogue: 0,0:45:32.33,0:45:33.50,Gen_Main,,0,0,0,,¡Es esta escena!
+Dialogue: 0,0:45:33.67,0:45:35.00,Gen_Italics_top,,0,0,0,,¿Qué?
+Dialogue: 0,0:45:35.13,0:45:36.46,Gen_Main,,0,0,0,,¡Ah, mamá!
+Dialogue: 0,0:45:35.88,0:45:36.59,Gen_Italics_top,,0,0,0,,Buenos días.
+Dialogue: 0,0:45:36.67,0:45:38.21,Gen_Main,,0,0,0,,¡Hagan un primer plano!
+Dialogue: 0,0:45:36.96,0:45:38.21,Gen_Italics_top,,0,0,0,,Buenos días.
+Dialogue: 0,0:45:38.42,0:45:39.76,Gen_Italics,,0,0,0,,¿Eh? ¿Pasa algo?
+Dialogue: 0,0:45:39.84,0:45:41.34,Gen_Italics,,0,0,0,,¡Espera, Toma!
+Dialogue: 0,0:45:42.26,0:45:43.34,Gen_Italics,,0,0,0,,¿Qué haces aquí?
+Dialogue: 0,0:45:43.43,0:45:45.35,Gen_Italics,,0,0,0,,Y por eso no deberíamos vernos.
+Dialogue: 0,0:45:46.56,0:45:48.77,Gen_Italics,,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:45:51.27,0:45:52.69,Gen_Main,,0,0,0,,¿Qué? ¿Y ya está?
+Dialogue: 0,0:45:53.77,0:45:55.61,Gen_Main,,0,0,0,,¿Solo una escena?
+Dialogue: 0,0:45:55.69,0:45:57.15,Gen_Main,,0,0,0,,¡Cortaron en exceso!
+Dialogue: 0,0:45:57.57,0:45:59.99,Gen_Main,,0,0,0,,¿Habré actuado mal?
+Dialogue: 0,0:46:00.07,0:46:02.11,Gen_Main,,0,0,0,,No, claro que no.
+Dialogue: 0,0:46:04.57,0:46:05.66,Gen_Main,,0,0,0,,¿Sí?
+Dialogue: 0,0:46:05.74,0:46:08.12,Gen_Italics,,0,0,0,,Director, pero ¿qué hiciste?
+Dialogue: 0,0:46:08.33,0:46:10.41,Gen_Main,,0,0,0,,Hola, bebé precoz.
+Dialogue: 0,0:46:10.75,0:46:12.80,Gen_Main,,0,0,0,,¡No dejaste que Ai saliera en pantalla!
+Dialogue: 0,0:46:13.08,0:46:14.54,Gen_Italics,,0,0,0,,Sí, sobre eso…
+Dialogue: 0,0:46:14.71,0:46:17.05,Gen_Italics,,0,0,0,,Su parte quedó genial,\Nfue una lástima.
+Dialogue: 0,0:46:17.13,0:46:18.63,Gen_Main,,0,0,0,,¿Por qué entonces?
+Dialogue: 0,0:46:19.17,0:46:20.56,Gen_Main,,0,0,0,,La agencia de la protagonista
+Dialogue: 0,0:46:20.74,0:46:23.96,Gen_Main,,0,0,0,,la promociona como una actriz\Nmuy capacitada.
+Dialogue: 0,0:46:24.72,0:46:28.41,Gen_Italics,,0,0,0,,¿Cómo quedaría si compartiera\Npantalla con otra chica más linda?
+Dialogue: 0,0:46:28.68,0:46:31.18,Gen_Italics,,0,0,0,,Su estrategia de imagen se vería mal.
+Dialogue: 0,0:46:31.56,0:46:35.02,Gen_Main,,0,0,0,,Ai simplemente se veía\Npreciosa en pantalla.
+Dialogue: 0,0:46:35.69,0:46:41.33,Gen_Main,,0,0,0,,Así que dijeron desde arriba\Nque la quitáramos todo lo posible.
+Dialogue: 0,0:46:41.61,0:46:42.65,Gen_Italics,,0,0,0,,¿Qué?
+Dialogue: 0,0:46:42.78,0:46:46.95,Gen_Main,,0,0,0,,El tiempo que sale una actriz\Nlo decide un equilibrio de poder,
+Dialogue: 0,0:46:47.03,0:46:48.99,Gen_Main,,0,0,0,,considéralo una desgracia y acéptalo.
+Dialogue: 0,0:46:49.21,0:46:50.70,Gen_Main,,0,0,0,,No puedo aceptarlo.
+Dialogue: 0,0:46:54.67,0:46:57.36,Gen_Main,,0,0,0,,Está bien soñar\Ncon la industria del entretenimiento,
+Dialogue: 0,0:46:57.58,0:47:00.33,Gen_Main,,0,0,0,,pero lo mejor\Nes no hacerse muchas ilusiones.
+Dialogue: 0,0:47:00.63,0:47:03.34,Gen_Main,,0,0,0,,Este no es un sitio para el arte,\Nsino para el negocio.
+Dialogue: 0,0:47:04.09,0:47:07.89,Gen_Main,,0,0,0,,Pero comprendo tu punto de vista\Ny me da mucha lástima.
+Dialogue: 0,0:47:08.39,0:47:10.77,Gen_Main_Up,,0,0,0,,Mamá, sé que te esforzaste mucho.
+Dialogue: 0,0:47:09.14,0:47:13.02,Gen_Italics,,0,0,0,,No sé si decir "en compensación",\Npero quiero ofrecerle otro trabajo.
+Dialogue: 0,0:47:11.06,0:47:13.02,Gen_Main_Up,,0,0,0,,Supongo que sí.
+Dialogue: 0,0:47:13.60,0:47:15.94,Gen_Italics,,0,0,0,,Para una película.\NNo tendrás quejas, ¿no?
+Dialogue: 0,0:47:16.02,0:47:17.90,Gen_Main,,0,0,0,,-¿En serio?\N{\i1}-Con la condición…{\i0}
+Dialogue: 0,0:47:19.19,0:47:21.60,Gen_Main,,0,0,0,,de que aparezcas tú también.
+Dialogue: 0,0:47:23.90,0:47:25.36,Gen_Main,,0,0,0,,Escucha, bebé precoz.
+Dialogue: 0,0:47:25.99,0:47:30.45,Gen_Main,,0,0,0,,En Japón, el reparto lo suelen elegir\Nen su mayoría los peces gordos.
+Dialogue: 0,0:47:31.83,0:47:34.91,Gen_Main,,0,0,0,,A mayor presupuesto,\Nmenor riesgo se permiten.
+Dialogue: 0,0:47:35.15,0:47:37.79,Gen_Main,,0,0,0,,Para conseguir actores\Nque atraigan al público,
+Dialogue: 0,0:47:37.88,0:47:39.79,Gen_Main,,0,0,0,,los jefes deben librar sus batallas.
+Dialogue: 0,0:47:40.25,0:47:44.59,Gen_Main,,0,0,0,,Los directores con capacidad de decisión\Nen el reparto son superestrellas
+Dialogue: 0,0:47:44.67,0:47:48.18,Gen_Main,,0,0,0,,o gente que trabaja en películas\Nde bajo presupuesto.
+Dialogue: 0,0:47:48.61,0:47:51.06,Gen_Main,,0,0,0,,¿Cuál de los dos crees que soy?
+Dialogue: 0,0:47:51.56,0:47:53.93,Gen_Main,,0,0,0,,Este… Un director de renombre…
+Dialogue: 0,0:47:54.02,0:47:55.73,Gen_Main,,0,0,0,,Te equivocaste.
+Dialogue: 0,0:47:55.81,0:47:58.70,Gen_Main,,0,0,0,,Esto será una película\Nde bajo presupuesto.
+Dialogue: 0,0:48:00.36,0:48:03.95,Gen_Main,,0,0,0,,Director, gracias\Npor encargarte hoy de Aqua.
+Dialogue: 0,0:48:04.15,0:48:07.20,Gen_Main,,0,0,0,,No importa. Y todos opinamos\Ndel mismo modo, ¿no?
+Dialogue: 0,0:48:07.28,0:48:11.95,Gen_Main,,0,0,0,,Sí. Aqua se unió\Na Producciones Ichigo este mes.
+Dialogue: 0,0:48:12.04,0:48:15.20,Gen_Main,,0,0,0,,Habrá muchos problemas si uso\Na un niño que no tiene agencia.
+Dialogue: 0,0:48:15.46,0:48:19.33,Gen_Main,,0,0,0,,En cuestión de actuación,\Ncreo que mi hermana es mejor que yo.
+Dialogue: 0,0:48:19.42,0:48:21.13,Gen_Main,,0,0,0,,No, te quiero a ti.
+Dialogue: 0,0:48:21.46,0:48:23.55,Gen_Main,,0,0,0,,Es a cambio de darle el papel a Ai.
+Dialogue: 0,0:48:23.88,0:48:26.34,Gen_Main,,0,0,0,,En la industria,\Na esto se le llama trueque.
+Dialogue: 0,0:48:26.42,0:48:27.84,Gen_Main,,0,0,0,,Es básico, no lo olvides.
+Dialogue: 0,0:48:30.01,0:48:32.56,Gen_Main,,0,0,0,,Hacer un trueque con Ai por su hijo…
+Dialogue: 0,0:48:33.01,0:48:37.23,Gen_Main,,0,0,0,,Ese director te aprecia bastante, Aqua.
+Dialogue: 0,0:48:37.56,0:48:40.10,Gen_Main,,0,0,0,,¿Qué hiciste para que pasara esto?
+Dialogue: 0,0:48:40.52,0:48:42.77,Gen_Main,,0,0,0,,Nada especial.
+Dialogue: 0,0:48:43.11,0:48:47.61,Gen_Main,,0,0,0,,Parece que a los viejos les gusta\Nque tenga una actitud informal,
+Dialogue: 0,0:48:47.83,0:48:49.99,Gen_Main,,0,0,0,,así que no actúo\Nde forma pomposa con él.
+Dialogue: 0,0:48:50.07,0:48:52.24,Gen_Main,,0,0,0,,Eres un niño temible.
+Dialogue: 0,0:48:52.62,0:48:54.95,Gen_Italics,,0,0,0,,En mi trabajo\Nme relacionaba con ancianos,
+Dialogue: 0,0:48:55.09,0:48:57.21,Gen_Italics,,0,0,0,,así que sé cómo manejarlos.
+Dialogue: 0,0:48:57.39,0:49:00.21,Gen_Italics,,0,0,0,,No pensé que esa habilidad\Nme fuera a servir ahora.
+Dialogue: 0,0:49:00.20,0:49:02.66,Cart_A_Tre,CARTEL,0,0,0,,{\fs10\fax-0.15\c&H4C6E7E&\3c&HAED3D9&\frz9\move(60,90,109.524,90,28,2448)\frx0\fry18}La ropa está aquí
+Dialogue: 0,0:49:00.46,0:49:05.42,Gen_Main,,0,0,0,,¡Mamá! ¡Quiero irme con mamá!
+Dialogue: 0,0:49:05.51,0:49:07.42,Gen_Main,,0,0,0,,¿Por qué no está aquí?
+Dialogue: 0,0:49:07.51,0:49:09.72,Gen_Main,,0,0,0,,Porque Ai no rueda\Nlos mismos días que yo.
+Dialogue: 0,0:49:10.13,0:49:12.60,Gen_Main,,0,0,0,,¡Quiero irme a casa y abrazarla!
+Dialogue: 0,0:49:12.68,0:49:14.81,Gen_Main,,0,0,0,,¡Quiero que mamá me de el pecho!
+Dialogue: 0,0:49:14.89,0:49:17.27,Gen_Italics,,0,0,0,,¿No le da vergüenza\Nactuar así a su edad?
+Dialogue: 0,0:49:17.35,0:49:19.35,Gen_Italics,,0,0,0,,Aunque no sé qué edad\Ntiene en realidad.
+Dialogue: 0,0:49:22.44,0:49:24.65,Gen_Main,,0,0,0,,Esto es un sitio de trabajo profesional.
+Dialogue: 0,0:49:25.86,0:49:28.44,Gen_Main,,0,0,0,,Si vinieron a jugar, váyanse a su casa.
+Dialogue: 0,0:49:28.86,0:49:30.27,Gen_Main,,0,0,0,,Este…
+Dialogue: 0,0:49:30.66,0:49:33.16,Gen_Main,,0,0,0,,Kana Arima. Soy actriz en esta película.
+Dialogue: 0,0:49:33.57,0:49:35.28,Gen_Main,,0,0,0,,¿Esa no es…?
+Dialogue: 0,0:49:35.87,0:49:37.37,Gen_Main,,0,0,0,,¿Cómo era?
+Dialogue: 0,0:49:37.41,0:49:40.12,Cart_A_Tim,CARTEL,0,0,0,,{\fad(731,0)\bord1\pos(320,281.231)\c&H0D1D27&\3c&HCCDDE7&}El prodigio que puede lamer bicarbonato fácilmente
+Dialogue: 0,0:49:37.41,0:49:40.87,Cart_A_Tim,CARTEL,0,0,0,,{\bord1\fs10\b0\c&H5C6577&\3c&HF0F0F0&\pos(327.059,257.231)}bicarbonato
+Dialogue: 0,0:49:40.12,0:49:40.87,Cart_A_Tim,CARTEL,0,0,0,,{\bord1\pos(320,281.231)\c&H0D1D27&\3c&HCCDDE7&\clip(m 319 199 l 107 320 532 319)}El prodigio que puede lamer bicarbonato fácilmente
+Dialogue: 0,0:49:37.83,0:49:40.38,Gen_Main_Up,,0,0,0,,El prodigio que puede lamer\Nbicarbonato fácilmente.
+Dialogue: 0,0:49:40.87,0:49:43.38,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\c&H151515&\3c&HFFFFFF&\pos(99.428,78.572)}La famosa actriz infantil\Nque llora enseguida
+Dialogue: 0,0:49:40.87,0:49:43.37,Cart_A_Tre,CARTEL,0,0,0,,{\an4\fs18\c&H151515&\3c&HFFFFFF&\pos(143.999,336.857)}El prodigio que puede llorar solo en 10 segundos
+Dialogue: 0,0:49:40.87,0:49:43.38,Gen_Main_Up,,0,0,0,,¡El prodigio que llora\Nsolo en 10 segundos!
+Dialogue: 0,0:49:43.75,0:49:46.65,Gen_Main,,0,0,0,,Todos dicen que mi forma\Nde llorar es espectacular.
+Dialogue: 0,0:49:46.84,0:49:48.09,Gen_Main,,0,0,0,,Porque lo es.
+Dialogue: 0,0:49:48.42,0:49:51.13,Gen_Main,,0,0,0,,Esta chica no me gusta.
+Dialogue: 0,0:49:51.22,0:49:54.22,Gen_Main,,0,0,0,,Parece falsa, y siento que no me agrada.
+Dialogue: 0,0:49:54.30,0:49:57.72,Gen_Main,,0,0,0,,Hay gente que es inusualmente dura\Ncon los actores infantiles.
+Dialogue: 0,0:49:57.81,0:49:59.02,Gen_Main,,0,0,0,,Como tú.
+Dialogue: 0,0:49:59.23,0:50:01.94,Gen_Main,,0,0,0,,Te conozco. Eres el que tiene contactos.
+Dialogue: 0,0:50:02.18,0:50:02.31,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\pos(127.429,242.286)\frz1.157}Ese fue el comienzo
+Dialogue: 0,0:50:02.31,0:50:02.43,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\frz1.157\pos(113.715,224)}Ese fue el comienzo
+Dialogue: 0,0:50:02.43,0:50:08.69,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\frz1.157\pos(109.144,216)}Ese fue el comienzo
+Dialogue: 0,0:50:08.69,0:50:08.81,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\frz1.157\pos(128.002,234.285)}Ese fue el comienzo
+Dialogue: 0,0:50:08.81,0:50:08.94,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\frz1.157\pos(158.288,275.428)}Ese fue el comienzo
+Dialogue: 0,0:50:08.94,0:50:09.06,Cart_A_Tre,CARTEL,0,0,0,,{\c&H48549D&\bord0\fnComic Sans MS\fs12\frz354.4\pos(173.716,312.571)}Ese fue el comienzo
+Dialogue: 0,0:50:02.44,0:50:06.61,Gen_Main,,0,0,0,,Cuando leímos el guion, ni esa idol\Nni tú eran parte de la historia.
+Dialogue: 0,0:50:06.69,0:50:08.94,Gen_Main,,0,0,0,,Hasta mamá dijo\Nque lo impuso el director.
+Dialogue: 0,0:50:09.24,0:50:11.32,Gen_Main,,0,0,0,,¡Eso no es aceptable!
+Dialogue: 0,0:50:11.65,0:50:13.36,Gen_Main,,0,0,0,,Bueno, en realidad no…
+Dialogue: 0,0:50:13.45,0:50:18.08,Gen_Main,,0,0,0,,Vi la serie del director hace poco,\Ny esa idol casi no salió en pantalla.
+Dialogue: 0,0:50:19.98,0:50:23.92,Gen_Main,,0,0,0,,Seguro que actuó tan mal\Nque tuvieron que cortar sus partes.
+Dialogue: 0,0:50:24.67,0:50:27.38,Gen_Main,,0,0,0,,Parece que solo sabe\Nembelesar a la gente.
+Dialogue: 0,0:50:27.84,0:50:30.09,Gen_Main,,0,0,0,,Asistente de dirección, lleva mi bolso.
+Dialogue: 0,0:50:30.17,0:50:32.59,Gen_Main,,0,0,0,,Espera un segundo…
+Dialogue: 0,0:50:33.01,0:50:34.36,Gen_Main,,0,0,0,,Aqua…
+Dialogue: 0,0:50:34.51,0:50:36.85,Gen_Main,,0,0,0,,Lo sé, pero solo es una niña.
+Dialogue: 0,0:50:36.93,0:50:38.57,Gen_Main,,0,0,0,,No la mates.
+Dialogue: 0,0:50:40.93,0:50:43.23,Gen_Italics,,0,0,0,,El argumento resumido de la película es
+Dialogue: 0,0:50:43.60,0:50:46.48,Gen_Italics,,0,0,0,,una mujer que tiene\Ncero confianza en su imagen
+Dialogue: 0,0:50:46.98,0:50:51.61,Gen_Italics,,0,0,0,,por alguna razón va a un hospital raro\Npara hacerse una cirugía plástica.
+Dialogue: 0,0:50:49.48,0:50:51.99,Gen_Main_Up,,0,0,0,,-¡Bien, grabemos!\N-¡Entendido!
+Dialogue: 0,0:50:52.70,0:50:57.45,Gen_Italics,,0,0,0,,Nosotros somos unos niños tétricos\Nque ve a la entrada del pueblo.
+Dialogue: 0,0:50:58.08,0:51:00.29,Gen_Main,,0,0,0,,Saludos, visitante.
+Dialogue: 0,0:51:00.70,0:51:02.19,Gen_Main,,0,0,0,,Te damos la bienvenida.
+Dialogue: 0,0:51:03.46,0:51:06.88,Gen_Main,,0,0,0,,Por favor, pasa un tiempo aquí.
+Dialogue: 0,0:51:07.38,0:51:09.50,Gen_Main_Up,,0,0,0,,¿Son del grupo de recepción?
+Dialogue: 0,0:51:07.84,0:51:11.17,Gen_Italics,,0,0,0,,Típico de un prodigio infantil.\NEs genial.
+Dialogue: 0,0:51:09.59,0:51:11.38,Gen_Main_Up,,0,0,0,,¿Te molesta que seamos niños?
+Dialogue: 0,0:51:11.96,0:51:16.18,Gen_Italics,,0,0,0,,Aunque yo haga lo mismo, será terrible\Nal ver la diferencia de nivel.
+Dialogue: 0,0:51:16.59,0:51:19.10,Gen_Italics,,0,0,0,,Hasta un aficionado como yo lo entiende.
+Dialogue: 0,0:51:20.06,0:51:21.18,Gen_Italics,,0,0,0,,¿Qué puedo hacer?
+Dialogue: 0,0:51:22.10,0:51:25.90,Gen_Italics,,0,0,0,,La respuesta normal es que debería\Nactuar como un niño tétrico.
+Dialogue: 0,0:51:26.81,0:51:29.03,Gen_Italics,,0,0,0,,Pero no es lo que quiere de mí, ¿no?
+Dialogue: 0,0:51:29.41,0:51:31.94,Gen_Italics,,0,0,0,,La imagen que quiere el director\Ncreo que es…
+Dialogue: 0,0:51:33.03,0:51:35.91,Gen_Main,,0,0,0,,Solo hay un alojamiento en el pueblo.
+Dialogue: 0,0:51:36.24,0:51:40.16,Gen_Main,,0,0,0,,Cuando te registres,\Npuedes dar un paseo por el pueblo.
+Dialogue: 0,0:51:40.83,0:51:43.62,Gen_Italics,,0,0,0,,Esta escena se añadió con prisas.
+Dialogue: 0,0:51:44.04,0:51:47.58,Gen_Italics,,0,0,0,,Luego de conocerme el director,\Nrevisó el guion conmigo en mente.
+Dialogue: 0,0:51:48.46,0:51:52.00,Gen_Italics,,0,0,0,,Si quiero intuir su intención,\Nlo mejor será ni actuar.
+Dialogue: 0,0:51:52.84,0:51:55.10,Gen_Italics,,0,0,0,,Bastará con responder a su intención.
+Dialogue: 0,0:51:55.51,0:51:59.51,Gen_Italics,,0,0,0,,Nunca lo expresó con palabras,\Npero lo que quiere decir el director…
+Dialogue: 0,0:52:00.71,0:52:04.48,Gen_Italics,,0,0,0,,Aunque no actúes, ya das bastante miedo.
+Dialogue: 0,0:52:05.10,0:52:07.19,Gen_Main,,0,0,0,,Muy bien, sígueme.
+Dialogue: 0,0:52:13.03,0:52:14.94,Gen_Main,,0,0,0,,¡Corten! ¡Es buena!
+Dialogue: 0,0:52:16.28,0:52:17.61,Gen_Main,,0,0,0,,Me gusta.
+Dialogue: 0,0:52:17.77,0:52:19.99,Gen_Main,,0,0,0,,Estaba siendo él mismo, ¿no?
+Dialogue: 0,0:52:22.16,0:52:25.78,Gen_Main,,0,0,0,,Eres asombroso. Me diste escalofríos.
+Dialogue: 0,0:52:25.98,0:52:28.08,Gen_Main,,0,0,0,,¿En serio? Me alegro.
+Dialogue: 0,0:52:28.91,0:52:30.21,Gen_Main,,0,0,0,,No tiene nada de bueno.
+Dialogue: 0,0:52:31.04,0:52:34.34,Gen_Main,,0,0,0,,¡Despejen todo! Empezaremos\Na grabar la siguiente escena.
+Dialogue: 0,0:52:34.42,0:52:35.38,Gen_Main,,0,0,0,,¡Sí!
+Dialogue: 0,0:52:35.54,0:52:37.34,Gen_Main,,0,0,0,,Director, regrabe la escena.
+Dialogue: 0,0:52:38.16,0:52:39.76,Gen_Main,,0,0,0,,Pero si no tiene ningún problema.
+Dialogue: 0,0:52:39.89,0:52:41.51,Gen_Main,,0,0,0,,¡Hay un problema enorme!
+Dialogue: 0,0:52:47.48,0:52:48.64,Gen_Main,,0,0,0,,Y es que…
+Dialogue: 0,0:52:49.48,0:52:52.13,Gen_Main,,0,0,0,,yo no fui ni la mitad de buena\Nque ese chico.
+Dialogue: 0,0:52:53.02,0:52:54.86,Gen_Main,,0,0,0,,¡No lo soporto! ¡Quiero repetirla!
+Dialogue: 0,0:52:55.23,0:52:58.91,Gen_Main,,0,0,0,,¡Se lo ruego!\N¡Prometo que esta vez lo haré mejor!
+Dialogue: 0,0:52:59.82,0:53:01.82,Gen_Main,,0,0,0,,-¡Otra vez! ¡Por favor!\N-¡Kana!
+Dialogue: 0,0:53:08.97,0:53:10.20,Gen_Main,,0,0,0,,Oye, niño precoz.
+Dialogue: 0,0:53:10.33,0:53:13.04,Gen_Main,,0,0,0,,¿Qué habilidad crees\Nque es vital para un actor?
+Dialogue: 0,0:53:14.91,0:53:16.67,Gen_Main,,0,0,0,,¿Tener el talento?
+Dialogue: 0,0:53:16.76,0:53:18.38,Gen_Main,,0,0,0,,¿El esfuerzo y el empeño?
+Dialogue: 0,0:53:18.83,0:53:20.97,Gen_Main,,0,0,0,,Eso también es importante, sí.
+Dialogue: 0,0:53:21.42,0:53:23.97,Gen_Main,,0,0,0,,La clave es la capacidad\Nde comunicación.
+Dialogue: 0,0:53:24.27,0:53:28.23,Gen_Main,,0,0,0,,Si disgustas a la gente implicada,\Npronto dejarás de recibir ofertas.
+Dialogue: 0,0:53:28.75,0:53:32.90,Gen_Main,,0,0,0,,Si te vuelves un arrogante mientras\Neres joven, no tienes futuro en esto.
+Dialogue: 0,0:53:33.63,0:53:35.73,Gen_Main,,0,0,0,,¿Intentabas reprenderla?
+Dialogue: 0,0:53:36.00,0:53:38.95,Gen_Main,,0,0,0,,No estaba pensando en hacer nada de eso.
+Dialogue: 0,0:53:39.31,0:53:41.03,Gen_Main,,0,0,0,,Pero es para ayudarla a crecer.
+Dialogue: 0,0:53:42.37,0:53:46.54,Gen_Main,,0,0,0,,Tu actuación hoy\Nfue tal y como la imaginaba.
+Dialogue: 0,0:53:48.85,0:53:53.67,Gen_Main,,0,0,0,,Esa chica fue mucho mejor que yo.\NYo solo fui el mismo de siempre.
+Dialogue: 0,0:53:53.75,0:53:56.42,Gen_Main,,0,0,0,,Pero no te dije que hicieras eso.
+Dialogue: 0,0:53:56.60,0:53:59.05,Gen_Main,,0,0,0,,Ahí se ve tu capacidad de comunicación.
+Dialogue: 0,0:53:59.88,0:54:03.68,Gen_Main,,0,0,0,,Actuar sabiendo qué quiere el director\Nes básico para todo actor.
+Dialogue: 0,0:54:04.26,0:54:08.60,Gen_Main,,0,0,0,,El actor que puede saber eso\Nsin que se le diga es muy valioso.
+Dialogue: 0,0:54:09.23,0:54:12.94,Gen_Main,,0,0,0,,A fin de cuentas, la imagen correcta\Nla tenemos los directores en la cabeza.
+Dialogue: 0,0:54:14.98,0:54:20.07,Gen_Main,,0,0,0,,En vez de ser un actor estupendo,\Nsé un actor que haga lo que se quiere.
+Dialogue: 0,0:54:23.36,0:54:26.58,Gen_Main,,0,0,0,,Yo no quiero ser actor.
+Dialogue: 0,0:54:27.49,0:54:31.37,Gen_Italics,,0,0,0,,Y así, me fui metiendo en la industria.
+Dialogue: 0,0:54:36.42,0:54:39.21,Gen_Main,,0,0,0,,Así que tiene nombre artístico.
+Dialogue: 0,0:54:39.88,0:54:40.99,Gen_Main,,0,0,0,,"Aqua".
+Dialogue: 0,0:54:41.47,0:54:42.63,Gen_Main,,0,0,0,,No lo olvidaré.
+Dialogue: 0,0:54:43.80,0:54:45.68,Gen_Main,,0,0,0,,La próxima vez no me superarás.
+Dialogue: 0,0:54:49.18,0:54:56.06,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,1311)\shad0\p1\bord1\alpha30\an7\fscx93\fscy74\c&HFCFCFC&\3c&H010108&\pos(3.938,32.372)}m 0 0 l 340 0 340 70 0 70
+Dialogue: 2,0:54:49.18,0:54:56.06,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,1311)\an7\fs14\c&H090A15&\pos(11.2,36.8)}"Ese fue el comienzo" nominada a Mejor Guion.\NTaishi Gotanda: "Quiero demostrar que es posible\Nhacer buen cine con poco presupuesto"
+Dialogue: 0,0:54:49.68,0:54:53.64,Gen_Italics,,0,0,0,,Pasaron tres años\Ndesde que renací como el hijo de Ai.
+Dialogue: 0,0:54:54.31,0:54:57.36,Gen_Italics,,0,0,0,,La película tuvo bastante buena acogida
+Dialogue: 0,0:54:57.64,0:55:00.40,Gen_Italics,,0,0,0,,y el director fue nominado\Na un premio en una ceremonia.
+Dialogue: 0,0:55:01.07,0:55:04.70,Gen_Italics,,0,0,0,,Ahora que lo pienso,\Ncreo que actué bastante bien.
+Dialogue: 0,0:55:05.38,0:55:06.37,Gen_Italics,,0,0,0,,Aunque…
+Dialogue: 0,0:55:08.41,0:55:12.00,Gen_Italics,,0,0,0,,Al final fue Ai quien llevó\Nel peso de la película.
+Dialogue: 0,0:55:13.21,0:55:17.56,Gen_Italics,,0,0,0,,No sé si ese fue el trampolín,\Npero recibió mucho más trabajo.
+Dialogue: 0,0:55:17.88,0:55:24.50,Gen_Italics,,0,0,0,,Podría resumir que la Ai actual es\N"una celebridad/idol prometedora".
+Dialogue: 0,0:55:19.04,0:55:22.04,Cart_A_Tim,CARTEL,0,0,0,,{\fs18\blur0.2\fax0.05\c&HF5F2F4&\3c&H292C3B&\pos(165.177,33.176)\frz14.94\frx356\fry4}\h\h\h\h\h\hAfianzada por sus hermosos ojos\NEl grupo de idols B-Komachi
+Dialogue: 0,0:55:22.04,0:55:24.50,Cart_A_Tre,CARTEL,0,0,0,,{\fsp1\blur0.2\b0\bord0.5\fs8\c&H3D44CA&\3c&H05335D&\frz350\pos(219.525,157.999)}¡Broma exitosa!
+Dialogue: 0,0:55:25.89,0:55:27.97,Gen_Italics,,0,0,0,,Ai pronto cumplirá 20 años.
+Dialogue: 0,0:55:28.51,0:55:33.68,Gen_Italics,,0,0,0,,Seguimos con nuestra vida diaria\Nsin que la gente supiera nada.
+Dialogue: 0,0:55:34.83,0:55:35.90,Gen_Italics,,0,0,0,,Y también…
+Dialogue: 1,0:55:35.89,0:55:40.64,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,1311)\shad0\p1\bord1\an7\fscx93\fscy74\alpha30\c&HF8F8F8&\3c&H252222&\pos(6.354,12.625)}m 0 0 l 260 0 260 145 0 145
+Dialogue: 2,0:55:35.89,0:55:40.64,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,1311)\shad0\p1\bord1\an7\fscx93\fscy74\alpha30\c&HF8F8F8&\3c&H514DCB&\1a&HFF&\pos(10.809,18.443)}m 0 0 l 250 0 250 23 0 23
+Dialogue: 3,0:55:35.89,0:55:40.64,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\c&H616677&\bord0\blur0.4\pos(10.5,19.929)}\hGoro Amemiya, desaparición médico\N\N_________________________________\N\N{\fs12\b0\c&HAC4B6C&}La Clínica Homon de Nagoya es un entorno\Ndonde los médicos jóvenes pueden desarrollarse\N\N{\c&H666975&}Tomemos por ejemplo al joven médico\NIchiro Amemiya…
+Dialogue: 0,0:55:37.02,0:55:40.11,Gen_Italics,,0,0,0,,mi cadáver sigue sin aparecer.
+Dialogue: 0,0:55:40.86,0:55:42.78,Gen_Main,,0,0,0,,Hoy también se ven hermosos.
+Dialogue: 0,0:55:42.86,0:55:43.99,Gen_Main,,0,0,0,,Superlindos.
+Dialogue: 0,0:55:44.57,0:55:47.30,Gen_Main,,0,0,0,,Bueno, tú eres más linda\Nque nosotros, mamá.
+Dialogue: 0,0:55:47.61,0:55:49.58,Gen_Main,,0,0,0,,¿Y esta rivalidad?
+Dialogue: 0,0:55:50.24,0:55:52.45,Gen_Italics,,0,0,0,,Nos inscribieron\Nen un jardín infantil.
+Dialogue: 0,0:55:52.89,0:55:56.12,Gen_Main,,0,0,0,,Ahora que caigo, ¿qué estabas\Nhaciendo antes de renacer?
+Dialogue: 0,0:55:56.21,0:55:57.92,Gen_Main,,0,0,0,,¿Qué edad tienes en realidad?
+Dialogue: 0,0:55:58.33,0:55:59.71,Gen_Main,,0,0,0,,Veamos…
+Dialogue: 0,0:56:01.17,0:56:03.17,Gen_Italics,,0,0,0,,Si yo fuera más joven que él…
+Dialogue: 0,0:56:03.42,0:56:06.01,Gen_Main,,0,0,0,,¿Qué? Debí suponer que eras una mocosa.
+Dialogue: 0,0:56:06.09,0:56:09.47,Gen_Main,,0,0,0,,Desde ahora deberás hacer caso\Na todo lo que yo diga.
+Dialogue: 0,0:56:09.89,0:56:12.97,Gen_Main,,0,0,0,,Soy una mujer adulta.
+Dialogue: 0,0:56:13.35,0:56:16.94,Gen_Main,,0,0,0,,Preguntarle la edad a una mujer…\NQué insensible eres.
+Dialogue: 0,0:56:17.69,0:56:19.61,Gen_Main,,0,0,0,,Además, ¿qué importa\Nmi vida anterior?
+Dialogue: 0,0:56:19.69,0:56:21.11,Gen_Main,,0,0,0,,Deja de curiosear.
+Dialogue: 0,0:56:22.02,0:56:24.36,Gen_Main,,0,0,0,,Supongo que tienes razón.
+Dialogue: 0,0:56:24.83,0:56:27.45,Gen_Italics,,0,0,0,,Me deprimo cuando pienso\Nen mi vida anterior.
+Dialogue: 0,0:56:28.02,0:56:31.24,Gen_Italics,,0,0,0,,Por eso me gusta tanto mi vida actual.
+Dialogue: 0,0:56:32.37,0:56:35.41,Gen_Italics,,0,0,0,,Comparado con mi vida\Nen un trabajo exigente,
+Dialogue: 0,0:56:35.63,0:56:39.46,Gen_Italics,,0,0,0,,como niño me limito a comer, dormir\Ny leer libros tranquilamente.
+Dialogue: 0,0:56:40.88,0:56:44.41,Gen_Italics,,0,0,0,,Es asombroso lo mucho\Nque juega esa niña.
+Dialogue: 0,0:56:44.63,0:56:48.30,Gen_Main,,0,0,0,,Un niño está leyendo\Nun libro de Natsuhiko Kyogoku…
+Dialogue: 0,0:56:49.34,0:56:53.14,Gen_Main,,0,0,0,,Bien, prepárense\Npara la rutina de baile.
+Dialogue: 0,0:56:53.31,0:56:57.39,Gen_Main,,0,0,0,,Dentro de poco sus familias\Nvendrán a verlos bailar,
+Dialogue: 0,0:56:57.48,0:56:59.85,Gen_Main,,0,0,0,,así que hoy ensayaremos mucho.
+Dialogue: 0,0:57:00.19,0:57:01.40,Gen_Main,,0,0,0,,¡Sí!
+Dialogue: 0,0:57:02.57,0:57:04.40,Gen_Main,,0,0,0,,¡No, no quiero hacerlo!
+Dialogue: 0,0:57:04.73,0:57:06.28,Gen_Main,,0,0,0,,¿Ruby?
+Dialogue: 0,0:57:10.23,0:57:11.95,Gen_Main,,0,0,0,,¿Por qué huiste?
+Dialogue: 0,0:57:12.70,0:57:14.49,Gen_Main,,0,0,0,,Porque no sé bailar.
+Dialogue: 0,0:57:14.58,0:57:16.29,Gen_Main,,0,0,0,,O mejor dicho, nunca lo hice.
+Dialogue: 0,0:57:19.05,0:57:21.79,Gen_Main,,0,0,0,,¿Siempre te encerrabas\Nen tu cuarto y jugabas allí?
+Dialogue: 0,0:57:21.88,0:57:23.09,Gen_Main,,0,0,0,,Estos niños…
+Dialogue: 0,0:57:46.47,0:57:48.86,Gen_Main,,0,0,0,,Era similar a una hikikomori.
+Dialogue: 0,0:57:49.05,0:57:51.91,Gen_Main,,0,0,0,,Lo intenté muchas veces,\Npero no pude hacerlo.
+Dialogue: 0,0:57:52.24,0:57:54.16,Gen_Main,,0,0,0,,No me veo capaz de hacer ejercicio.
+Dialogue: 0,0:57:56.45,0:58:00.58,Gen_Main,,0,0,0,,No sé cómo era tu vida antes,\Npero ¿de verdad te parece buena idea?
+Dialogue: 0,0:58:01.33,0:58:04.25,Gen_Main,,0,0,0,,Tienes una larga vida por delante.
+Dialogue: 0,0:58:19.60,0:58:21.77,Gen_Main,,0,0,0,,¿Eh? ¿Estás ensayando un baile?
+Dialogue: 0,0:58:23.44,0:58:25.61,Gen_Main,,0,0,0,,¿Qué tal si bailo contigo?
+Dialogue: 0,0:58:26.10,0:58:29.86,Gen_Main,,0,0,0,,Cantaré una canción vieja en el próximo\Nconcierto, así que debo ensayar.
+Dialogue: 0,0:58:40.01,0:58:42.50,Gen_Main,,0,0,0,,Mamá, no estás haciendo bien\Nla coreografía.
+Dialogue: 0,0:58:44.63,0:58:47.75,Gen_Main,,0,0,0,,En la actuación del Budokan\Ntenías la mano más alta.
+Dialogue: 0,0:58:47.84,0:58:51.38,Gen_Main,,0,0,0,,¿Viste el video de mi concierto?
+Dialogue: 0,0:58:51.88,0:58:54.03,Gen_Main,,0,0,0,,Me sorprende que te acuerdes.
+Dialogue: 0,0:58:54.30,0:58:55.39,Gen_Italics,,0,0,0,,Claro que sí.
+Dialogue: 0,0:58:56.53,0:59:00.27,Gen_Italics,,0,0,0,,Vi los videos de tus conciertos\Ncientos… no, miles de veces.
+Dialogue: 0,0:59:00.93,0:59:02.73,Gen_Italics,,0,0,0,,Recuerdo todas las coreografías.
+Dialogue: 0,0:59:03.56,0:59:04.62,Gen_Main,,0,0,0,,¿Cómo era?
+Dialogue: 0,0:59:04.94,0:59:07.77,Gen_Main,,0,0,0,,En esta parte ibas más alto y…
+Dialogue: 0,0:59:08.86,0:59:10.57,Gen_Main,,0,0,0,,-¿Estás bien?\N-Sí.
+Dialogue: 0,0:59:11.65,0:59:15.78,Gen_Main,,0,0,0,,Con esa forma de moverte parece\Nque vayas a caerte en cualquier momento.
+Dialogue: 0,0:59:19.52,0:59:20.49,Gen_Italics,,0,0,0,,Bueno…
+Dialogue: 0,0:59:21.25,0:59:23.00,Gen_Italics,,0,0,0,,es que me caía todo el tiempo.
+Dialogue: 0,0:59:23.71,0:59:26.67,Gen_Italics,,0,0,0,,Si no me preparaba, me lastimaba.
+Dialogue: 0,0:59:32.84,0:59:36.51,Gen_Main,,0,0,0,,Si te da miedo caerte,\Nte caerás más veces aún.
+Dialogue: 0,0:59:37.30,0:59:40.26,Gen_Main,,0,0,0,,Levántate con confianza, saca el pecho.
+Dialogue: 0,0:59:41.43,0:59:42.73,Gen_Main,,0,0,0,,Te irá bien.
+Dialogue: 0,0:59:43.20,0:59:44.48,Gen_Main,,0,0,0,,Confía en mamá, ¿sí?
+Dialogue: 0,0:59:46.94,0:59:50.86,Gen_Italics,,0,0,0,,Mi vida terminó luego de pasar\Nla mayoría del tiempo en un hospital.
+Dialogue: 0,0:59:52.65,0:59:56.28,Gen_Italics,,0,0,0,,Mi cuerpo estaba discapacitado\Ny apenas hacía lo que le decía.
+Dialogue: 0,0:59:56.86,1:00:00.16,Gen_Italics,,0,0,0,,Estaba postrada en la cama,\Nsoñando con mucho empeño…
+Dialogue: 0,1:00:01.04,1:00:03.29,Gen_Italics,,0,0,0,,Los movimientos geniales de mamá
+Dialogue: 0,1:00:03.45,1:00:05.62,Gen_Italics,,0,0,0,,están grabados en mi cerebro.
+Dialogue: 0,1:00:06.62,1:00:08.21,Gen_Italics,,0,0,0,,Y toda esa luz
+Dialogue: 0,1:00:08.82,1:00:10.59,Gen_Italics,,0,0,0,,se me grabó en las retinas.
+Dialogue: 0,1:00:11.53,1:00:13.06,Gen_Italics,,0,0,0,,Mi luz…
+Dialogue: 0,1:00:13.76,1:00:15.57,Gen_Italics,,0,0,0,,Ojalá pudiera moverme así.
+Dialogue: 0,1:00:16.28,1:00:18.14,Gen_Italics,,0,0,0,,Ojalá pudiera ser tan libre.
+Dialogue: 0,1:00:19.43,1:00:20.51,Gen_Italics,,0,0,0,,¡Más!
+Dialogue: 0,1:00:21.31,1:00:22.75,Gen_Italics,,0,0,0,,¡Muévete más,
+Dialogue: 0,1:00:23.89,1:00:25.52,Gen_Italics,,0,0,0,,cuerpo mío!
+Dialogue: 0,1:00:34.32,1:00:37.11,Gen_Italics,,0,0,0,,Vaya, yo también puedo bailar.
+Dialogue: 0,1:00:41.83,1:00:43.08,Gen_Italics,,0,0,0,,Así que
+Dialogue: 0,1:00:43.58,1:00:45.50,Gen_Italics,,0,0,0,,no solo es buena actuando.
+Dialogue: 0,1:00:46.41,1:00:47.83,Gen_Italics,,0,0,0,,Tiene habilidad para el baile
+Dialogue: 0,1:00:47.92,1:00:50.92,Gen_Italics,,0,0,0,,y el buen aspecto\Nque heredó de nuestra madre.
+Dialogue: 0,1:00:52.06,1:00:54.17,Gen_Main,,0,0,0,,Tuve una idea temible.
+Dialogue: 0,1:01:00.34,1:01:04.10,Gen_Italics,,0,0,0,,Decidí contactar por capricho\Ncon el tipo con el que había roto.
+Dialogue: 0,1:01:04.89,1:01:08.02,Gen_Main,,0,0,0,,Nuestros niños crecieron bastante.
+Dialogue: 0,1:01:08.19,1:01:09.56,Gen_Main,,0,0,0,,¿Quieres verlos?
+Dialogue: 0,1:01:10.56,1:01:14.53,Gen_Main,,0,0,0,,No, no estoy intentando\Nque volvamos juntos.
+Dialogue: 0,1:01:15.19,1:01:18.99,Gen_Italics,,0,0,0,,Eso lo desencadenó una conversación\Nque estaban teniendo los niños.
+Dialogue: 0,1:01:19.15,1:01:21.74,Gen_Main,,0,0,0,,Hago todo lo posible\Npor no pensar en ello,
+Dialogue: 0,1:01:22.03,1:01:24.99,Gen_Main,,0,0,0,,pero me pregunto\Nquién será nuestro padre.
+Dialogue: 0,1:01:25.85,1:01:28.13,Gen_Main,,0,0,0,,Solo con pensarlo me duele el corazón.
+Dialogue: 0,1:01:28.23,1:01:29.25,Gen_Main,,0,0,0,,Tonto.
+Dialogue: 0,1:01:29.33,1:01:31.96,Gen_Main,,0,0,0,,¿Dejas que esa tontería te deprima?
+Dialogue: 0,1:01:32.35,1:01:34.38,Gen_Main,,0,0,0,,En realidad nos tuvo siendo virgen.
+Dialogue: 0,1:01:34.46,1:01:36.71,Gen_Main,,0,0,0,,Nunca hubo ningún hombre implicado.
+Dialogue: 0,1:01:37.07,1:01:41.18,Gen_Italics,,0,0,0,,Como llegó a esa conclusión,\Npensé: "Oh, no, mala idea".
+Dialogue: 0,1:01:41.80,1:01:46.10,Gen_Main,,0,0,0,,Los niños son muy inteligentes,\Nde seguro comprenderán la situación.
+Dialogue: 0,1:01:47.23,1:01:49.69,Gen_Main,,0,0,0,,Sí, la nueva dirección es…
+Dialogue: 0,1:01:49.77,1:01:50.97,Gen_Main,,0,0,0,,¡Ah, es Ai!
+Dialogue: 0,1:01:52.32,1:01:53.90,Gen_Main,,0,0,0,,¡Tomemos una foto!
+Dialogue: 0,1:01:54.09,1:01:56.32,Gen_Main,,0,0,0,,Cuánto te gusta Ai.
+Dialogue: 2,1:01:56.40,1:01:57.99,Gen_Italics,,0,0,0,,Mi trabajo va genial.
+Dialogue: 1,1:01:57.98,1:02:02.94,Cart_C_Ari,CARTEL,0,0,0,,{\an7\xshad-1.5\yshad1.5\blur0.4\fs30\b0\bord0\c&HDCD3DB&\4c&H8C70A1&\pos(119.369,184.211)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAi\N\N\N\N\N\N\N\N{\b1\shad0\fsp1\fs14\c&H999DA4&}\N\NSiguiendo\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSeguidores
+Dialogue: 2,1:01:58.49,1:02:00.69,Gen_Italics,,0,0,0,,Ahora tengo\Nmás de un millón de seguidores.
+Dialogue: 2,1:02:00.95,1:02:03.51,Gen_Italics,,0,0,0,,El mundo entero me está viendo.
+Dialogue: 0,1:02:04.91,1:02:06.87,Gen_Main,,0,0,0,,Qué licor tan bueno.
+Dialogue: 0,1:02:07.45,1:02:10.25,Gen_Main,,0,0,0,,¡Celébralo con una copa! ¡Vamos, bebe!
+Dialogue: 0,1:02:10.54,1:02:12.58,Gen_Main,,0,0,0,,Vaya, es un Moriizo.
+Dialogue: 0,1:02:12.67,1:02:13.83,Gen_Main,,0,0,0,,No tan rápido.
+Dialogue: 0,1:02:14.25,1:02:16.75,Gen_Main,,0,0,0,,Ai no cumple los 20\Nhasta la próxima semana.
+Dialogue: 0,1:02:16.84,1:02:18.51,Gen_Main,,0,0,0,,Espera un poco más, por favor.
+Dialogue: 0,1:02:18.59,1:02:21.01,Gen_Main,,0,0,0,,Es verdad, te diste cuenta.
+Dialogue: 0,1:02:23.05,1:02:27.89,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\an7\fscx93\fscy74\alpha30\c&HD9BBC2&\3c&HDBE1F0&\pos(187.687,17.958)}m 0 0 l 285 0 285 45 0 45
+Dialogue: 0,1:02:23.05,1:02:27.89,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\bord1\blur0.4\c&HCBDAF5&\3c&H478FA5&}La serie que protagoniza Ai, de B-Komachi,\Ntiene una {\c&H79E4E8&}cuota de audiencia {\c&HCBDAF5&}del {\c&H79E4E8&}14.2 %
+Dialogue: 0,1:02:23.76,1:02:26.56,Gen_Main,,0,0,0,,La serie que protagoniza Ai\Nestá subiendo puestos.
+Dialogue: 0,1:02:26.64,1:02:29.39,Gen_Main,,0,0,0,,Y la agenda de B-Komachi está llena.
+Dialogue: 0,1:02:29.48,1:02:32.52,Gen_Main,,0,0,0,,La próxima semana actuaremos\Nen un recinto grande.
+Dialogue: 0,1:02:33.81,1:02:35.27,Gen_Main,,0,0,0,,Está de buen humor.
+Dialogue: 0,1:02:35.53,1:02:38.71,Gen_Main,,0,0,0,,El sueño del presidente\Nsiempre fue criar a una idol
+Dialogue: 0,1:02:38.82,1:02:40.53,Gen_Main,,0,0,0,,para que actúe en un sitio así.
+Dialogue: 0,1:02:40.82,1:02:43.49,Gen_Main,,0,0,0,,Bueno, todo el personal\Nsueña con lo mismo.
+Dialogue: 0,1:02:43.95,1:02:46.03,Gen_Main,,0,0,0,,¿Tan importantes son esos sitios?
+Dialogue: 0,1:02:46.20,1:02:48.70,Gen_Main,,0,0,0,,No son como los demás recintos.
+Dialogue: 0,1:02:49.07,1:02:52.66,Gen_Main,,0,0,0,,Sobre todo si no se puede reservar\Nun hueco sin una empresa especializada.
+Dialogue: 0,1:02:52.75,1:02:56.46,Cart_A_Tre,CARTEL,0,0,0,,{\b0\bord0\fs8\c&HA3ABD6&\fax0.05\pos(130.222,74)\frz355.7\frx0\fry16}\h\h\h\hTienda\N\N\N\N\N\N\N\N\N\N\N\N{\bord1\b1\c&H726366&\fs12\3c&HDBEDE2&}\h\h\hFin de la fila
+Dialogue: 0,1:02:52.83,1:02:56.78,Gen_Main,,0,0,0,,El registro del personal capaz\Nde gestionar tanta cantidad de gente…
+Dialogue: 0,1:02:56.95,1:03:00.21,Gen_Main,,0,0,0,,Y hay un proceso de filtro para ver\Nsi el artista está capacitado.
+Dialogue: 0,1:03:01.34,1:03:05.01,Gen_Main,,0,0,0,,Son recintos que necesitan\Nmucho esfuerzo y compromiso.
+Dialogue: 0,1:03:05.47,1:03:07.81,Gen_Main,,0,0,0,,No basta con tener dinero\Npara actuar allí.
+Dialogue: 0,1:03:08.06,1:03:10.98,Gen_Main,,0,0,0,,Son sitios que solo unos pocos\Nelegidos pueden alcanzar.
+Dialogue: 0,1:03:11.47,1:03:13.74,Gen_Main,,0,0,0,,Es con lo que sueña todo el mundo.
+Dialogue: 0,1:03:16.26,1:03:18.61,Gen_Italics,,0,0,0,,Todo el mundo está contento\Ncuando tengo éxito.
+Dialogue: 0,1:03:18.85,1:03:21.57,Gen_Italics,,0,0,0,,Así que yo también\Npondré cara de ser feliz.
+Dialogue: 0,1:03:21.82,1:03:24.99,Gen_Main,,0,0,0,,Es un periodo importante.\NProcura no tener ningún escándalo.
+Dialogue: 0,1:03:25.19,1:03:28.33,Gen_Main,,0,0,0,,Por favor, no intentes encontrarte\Ncon su padre, ¿de acuerdo?
+Dialogue: 0,1:03:28.53,1:03:29.66,Gen_Main,,0,0,0,,Claro.
+Dialogue: 0,1:03:29.91,1:03:31.29,Gen_Italics,,0,0,0,,Soy una mentirosa.
+Dialogue: 0,1:03:31.82,1:03:35.04,Gen_Italics,,0,0,0,,Antes de pensar,\Ndigo lo que encaja con la situación.
+Dialogue: 0,1:03:35.54,1:03:39.38,Gen_Italics,,0,0,0,,No puedo distinguir lo que siento\Nen realidad de las mentiras.
+Dialogue: 0,1:03:38.71,1:03:41.00,Gen_Main_Up,,0,0,0,,Mamá, acaríciame.
+Dialogue: 0,1:03:42.01,1:03:43.42,Gen_Main,,0,0,0,,Buena chica.
+Dialogue: 0,1:03:44.44,1:03:48.05,Gen_Italics,,0,0,0,,Nunca fui capaz de amar algo.
+Dialogue: 0,1:03:50.42,1:03:55.23,Gen_Italics,,0,0,0,,No pensé que pudiera\Nservir para ser idol.
+Dialogue: 0,1:03:56.27,1:03:59.11,Gen_Main,,0,0,0,,Dijiste que eras un reclutador,\Nno sabía qué querías…
+Dialogue: 0,1:03:59.42,1:04:01.11,Gen_Main,,0,0,0,,¿Yo, una idol?
+Dialogue: 0,1:04:01.45,1:04:02.86,Gen_Main,,0,0,0,,Qué gracioso.
+Dialogue: 0,1:04:03.28,1:04:08.32,Gen_Main,,0,0,0,,Mi agencia está formando\Nun grupo de idols de secundaria.
+Dialogue: 0,1:04:08.57,1:04:10.87,Gen_Main,,0,0,0,,Creo que podrías ser la figura central.
+Dialogue: 0,1:04:11.11,1:04:12.24,Gen_Main,,0,0,0,,No me interesa.
+Dialogue: 0,1:04:12.33,1:04:14.75,Gen_Main,,0,0,0,,Vamos, serías perfecta. Te lo garantizo.
+Dialogue: 0,1:04:16.14,1:04:18.29,Gen_Main,,0,0,0,,Creo que deberías olvidarte de ello.
+Dialogue: 0,1:04:18.38,1:04:20.17,Gen_Main,,0,0,0,,Además, me crie en un orfanato.
+Dialogue: 0,1:04:21.17,1:04:25.88,Gen_Main,,0,0,0,,Tenía a mi madre, pero la arrestaron\Npor robar cuando era pequeña.
+Dialogue: 0,1:04:26.30,1:04:28.64,Gen_Main,,0,0,0,,Así que me llevaron allí\Ndurante su ausencia.
+Dialogue: 0,1:04:29.22,1:04:33.60,Gen_Main,,0,0,0,,Pero mi madre nunca regresó\Npor mí cuando salió.
+Dialogue: 0,1:04:34.60,1:04:38.73,Gen_Italics,,0,0,0,,Pensaba que si lo asustaba un poco,\Nel reclutador se iría.
+Dialogue: 0,1:04:39.27,1:04:40.86,Gen_Main,,0,0,0,,Bueno, eso da igual.
+Dialogue: 0,1:04:40.94,1:04:43.15,Gen_Main,,0,0,0,,Un orfanato es mejor a que te golpeen.
+Dialogue: 0,1:04:44.23,1:04:47.70,Gen_Main,,0,0,0,,No recuerdo haber querido a alguien\No haberme sentido querida.
+Dialogue: 0,1:04:48.07,1:04:50.94,Gen_Main,,0,0,0,,Alguien así no puede ser una idol, ¿no?
+Dialogue: 0,1:04:51.49,1:04:54.04,Gen_Italics,,0,0,0,,Mi impresión de las idols era que eran
+Dialogue: 0,1:04:54.70,1:04:59.42,Gen_Italics,,0,0,0,,seres puros que deslumbran con sus\Nsonrisas y hacen sonreír a los demás.
+Dialogue: 0,1:05:00.38,1:05:03.84,Gen_Italics,,0,0,0,,Lo opuesto a mí, una mentirosa\Nque odia a la gente.
+Dialogue: 0,1:05:04.27,1:05:07.01,Gen_Main,,0,0,0,,Sé que no podré querer a mis fans.
+Dialogue: 0,1:05:07.34,1:05:09.05,Gen_Main,,0,0,0,,Y ellos no me querrán a mí.
+Dialogue: 0,1:05:09.18,1:05:10.55,Gen_Main,,0,0,0,,¿Y qué más da eso?
+Dialogue: 0,1:05:11.48,1:05:14.68,Gen_Main,,0,0,0,,No es un trabajo\Npara el que sirva la gente corriente.
+Dialogue: 0,1:05:14.77,1:05:16.68,Gen_Main,,0,0,0,,Tu trasfondo te da tu personalidad.
+Dialogue: 0,1:05:17.02,1:05:17.98,Gen_Main,,0,0,0,,Pero…
+Dialogue: 0,1:05:18.06,1:05:20.94,Gen_Main,,0,0,0,,Las idols siempre dicen:\N"Los amo a todos".
+Dialogue: 0,1:05:21.48,1:05:23.52,Gen_Main,,0,0,0,,-Si lo dijera, estaría…\N-Puedes mentir.
+Dialogue: 0,1:05:23.83,1:05:26.99,Gen_Main,,0,0,0,,De hecho, las mentiras lindas\Nes lo que quieren los fans.
+Dialogue: 0,1:05:27.07,1:05:28.99,Gen_Main,,0,0,0,,Mentir es un talento.
+Dialogue: 0,1:05:29.24,1:05:31.70,Gen_Main,,0,0,0,,Está bien. Sal ahí y miente a placer.
+Dialogue: 0,1:05:34.33,1:05:35.66,Gen_Main,,0,0,0,,¿Está bien?
+Dialogue: 0,1:05:36.58,1:05:38.00,Gen_Main,,0,0,0,,Aunque sea mentira,
+Dialogue: 0,1:05:38.08,1:05:40.17,Gen_Main,,0,0,0,,puedo decir: "Los amo"?
+Dialogue: 0,1:05:41.67,1:05:45.09,Gen_Main,,0,0,0,,¿No es verdad que en realidad\Nquieres amar a la gente?
+Dialogue: 0,1:05:45.55,1:05:47.65,Gen_Main,,0,0,0,,Lo que ocurre\Nes que no sabes cómo hacerlo.
+Dialogue: 0,1:05:47.97,1:05:50.55,Gen_Main,,0,0,0,,No encontraste\Nel objetivo adecuado que amar.
+Dialogue: 0,1:05:51.01,1:05:55.93,Gen_Main,,0,0,0,,Si cantas y bailas viéndote hermosa,\Nserá una expresión de amor a tus fans.
+Dialogue: 0,1:05:56.38,1:06:01.09,Gen_Main,,0,0,0,,Si te haces idol, las expresiones como\N"Te amo" aparecerán en tus letras.
+Dialogue: 0,1:06:01.31,1:06:05.32,Gen_Main,,0,0,0,,Y mientras sigas diciendo\N"Los amo a todos",
+Dialogue: 0,1:06:05.66,1:06:07.97,Gen_Main,,0,0,0,,la mentira puede volverse real.
+Dialogue: 0,1:06:09.29,1:06:12.03,Gen_Main,,0,0,0,,"La mentira puede volverse real".
+Dialogue: 0,1:06:12.61,1:06:16.16,Gen_Italics,,0,0,0,,Al oír esas palabras\Ndecidí que me haría idol.
+Dialogue: 0,1:06:17.49,1:06:19.25,Gen_Italics,,0,0,0,,Quería amar a alguien.
+Dialogue: 0,1:06:19.33,1:06:21.75,Gen_Italics,,0,0,0,,Quería un objetivo que amar.
+Dialogue: 0,1:06:22.12,1:06:25.71,Gen_Italics,,0,0,0,,Pensé que si me hacía idol,\Npodría amar a mis fans.
+Dialogue: 0,1:06:26.29,1:06:29.42,Gen_Italics,,0,0,0,,Quería decir "Los amo"\Ndesde el fondo de mi corazón,
+Dialogue: 0,1:06:29.62,1:06:32.13,Gen_Italics,,0,0,0,,así que dije esa mentira\Npor todas partes.
+Dialogue: 0,1:06:34.51,1:06:38.10,Gen_Italics,,0,0,0,,Pensé que si me hacía madre,\Npodría amar a mis hijos.
+Dialogue: 0,1:06:38.81,1:06:42.64,Gen_Italics,,0,0,0,,Pero no les he dicho eso\Nni una sola vez.
+Dialogue: 0,1:06:43.44,1:06:47.98,Gen_Italics,,0,0,0,,Si les dijera esas palabras\Ny descubriera que estoy mintiendo…
+Dialogue: 0,1:06:48.53,1:06:50.07,Gen_Italics,,0,0,0,,Esa idea me aterra.
+Dialogue: 0,1:06:51.22,1:06:53.36,Gen_Italics,,0,0,0,,Por eso hoy volveré a mentir
+Dialogue: 0,1:06:54.01,1:06:56.37,Gen_Italics,,0,0,0,,al creer que las mentiras\Nse volverán realidad.
+Dialogue: 0,1:06:57.42,1:07:01.12,Gen_Italics,,0,0,0,,Aunque al final acabe pagándolo…
+Dialogue: 0,1:07:02.24,1:07:04.45,Cart_C_Ari,CARTEL,0,0,0,,{\an7\bord0\fscy125\blur0.6\c&H272940&\frx0\pos(261.147,205.544)\frz31.65}Estoy emocionada\Npor el concierto de hoy{\c&HEFDAA0&}{\fs30}|
+Dialogue: 0,1:07:05.96,1:07:07.17,Gen_Main,,0,0,0,,¿Será el presidente?
+Dialogue: 0,1:07:08.13,1:07:09.33,Gen_Main,,0,0,0,,¡Voy!
+Dialogue: 0,1:07:13.05,1:07:15.09,Gen_Main,,0,0,0,,Felicidades por tu concierto.
+Dialogue: 0,1:07:15.74,1:07:17.68,Gen_Main,,0,0,0,,¿Cómo están los gemelos?
+Dialogue: 0,1:08:08.27,1:08:09.82,Gen_Main,,0,0,0,,-¿Te duele?\N-¡Ai!
+Dialogue: 0,1:08:09.93,1:08:11.53,Gen_Main,,0,0,0,,¡A mí me dolió mucho más!
+Dialogue: 0,1:08:11.61,1:08:12.73,Gen_Main,,0,0,0,,¡Fue insoportable!
+Dialogue: 0,1:08:12.82,1:08:15.53,Gen_Main,,0,0,0,,¡Tuviste hijos pese a que eres una idol!
+Dialogue: 0,1:08:15.78,1:08:17.45,Gen_Main,,0,0,0,,-Eres una perra traicionera.\N-¡Ai!
+Dialogue: 0,1:08:17.53,1:08:19.37,Gen_Main,,0,0,0,,¡Nos trataste como si no existiéramos!
+Dialogue: 0,1:08:19.48,1:08:22.54,Gen_Main,,0,0,0,,¡Seguro que te burlabas\Na nuestras espaldas, mentirosa!
+Dialogue: 0,1:08:22.76,1:08:25.37,Gen_Main,,0,0,0,,¡Nos atrajiste con esa basura\Nde "Los amo"!
+Dialogue: 0,1:08:25.46,1:08:27.31,Gen_Main,,0,0,0,,¡Todo era mentira!
+Dialogue: 0,1:08:27.79,1:08:30.59,Gen_Main,,0,0,0,,Fui una irresponsable desde el comienzo.
+Dialogue: 0,1:08:31.31,1:08:35.05,Gen_Main,,0,0,0,,No soy pura, soy deshonesta y sucia.
+Dialogue: 0,1:08:35.43,1:08:38.18,Gen_Main,,0,0,0,,No sé bien lo que es amar a alguien.
+Dialogue: 0,1:08:39.14,1:08:40.79,Gen_Main,,0,0,0,,Así que, en su lugar,
+Dialogue: 0,1:08:41.30,1:08:45.77,Gen_Main,,0,0,0,,contaba mentiras\Npara complacer a la gente
+Dialogue: 0,1:08:46.35,1:08:50.48,Gen_Main,,0,0,0,,con la esperanza de que esas mentiras\Nse pudieran cumplir.
+Dialogue: 0,1:08:51.11,1:08:55.11,Gen_Main,,0,0,0,,Lo intenté, me esforcé\Ny mentí con todas mis fuerzas.
+Dialogue: 0,1:08:55.87,1:08:57.99,Gen_Main,,0,0,0,,Para mí, las mentiras son amor.
+Dialogue: 0,1:08:58.95,1:09:03.08,Gen_Main,,0,0,0,,Y, a mi manera,\Ncreía que estaba expresando el amor.
+Dialogue: 0,1:09:03.74,1:09:07.08,Gen_Main,,0,0,0,,No sé si pude quererte a ti\Ny a los demás,
+Dialogue: 0,1:09:07.58,1:09:11.54,Gen_Main,,0,0,0,,pero canté todas esas canciones\Npensando que quería hacerlo.
+Dialogue: 0,1:09:12.54,1:09:16.76,Gen_Main,,0,0,0,,Esperando que algún día fuera real.
+Dialogue: 0,1:09:18.05,1:09:22.97,Gen_Main,,0,0,0,,Incluso ahora, sigo queriendo quererte.
+Dialogue: 0,1:09:23.43,1:09:24.78,Gen_Main,,0,0,0,,Mentirosa…
+Dialogue: 0,1:09:24.98,1:09:27.51,Gen_Main,,0,0,0,,Ni siquiera me recuerdas, ¿verdad?
+Dialogue: 0,1:09:27.68,1:09:30.39,Gen_Main,,0,0,0,,-Solo quieres que te deje…\N-Eres Ryosuke, ¿no?
+Dialogue: 0,1:09:30.52,1:09:32.94,Gen_Main,,0,0,0,,Venías a los eventos\Nde apretones de manos.
+Dialogue: 0,1:09:33.57,1:09:34.97,Gen_Main,,0,0,0,,¿Me equivoco?
+Dialogue: 0,1:09:35.36,1:09:38.99,Gen_Main,,0,0,0,,Perdona, nunca recuerdo bien\Nlos nombres.
+Dialogue: 0,1:09:39.39,1:09:43.16,Gen_Main,,0,0,0,,Me alegré cuando me regalaste\Naquella arena de estrella.
+Dialogue: 0,1:09:44.41,1:09:47.55,Gen_Main,,0,0,0,,Aún la tengo en mi salón.
+Dialogue: 0,1:09:47.84,1:09:49.83,Gen_Main,,0,0,0,,¿Qué? Yo…
+Dialogue: 0,1:09:50.14,1:09:52.04,Gen_Main,,0,0,0,,¡Eso no es lo que…!
+Dialogue: 0,1:09:55.50,1:09:57.13,Gen_Main,,0,0,0,,¡Vengan aquí enseguida!
+Dialogue: 0,1:09:59.07,1:10:00.14,Gen_Main,,0,0,0,,¡Ai!
+Dialogue: 0,1:10:00.25,1:10:01.59,Gen_Main,,0,0,0,,¡Ya pedí una ambulancia!
+Dialogue: 0,1:10:02.47,1:10:04.55,Gen_Main,,0,0,0,,Vaya, bajé la guardia.
+Dialogue: 0,1:10:04.98,1:10:08.14,Gen_Main,,0,0,0,,Para eso están\Nlas cadenas de seguridad, ¿no?
+Dialogue: 0,1:10:08.43,1:10:11.55,Gen_Main,,0,0,0,,Nunca nos enseñaron eso en el orfanato.
+Dialogue: 0,1:10:11.69,1:10:12.75,Gen_Main,,0,0,0,,¡No hables!
+Dialogue: 0,1:10:12.90,1:10:16.11,Gen_Italics,,0,0,0,,La hemorragia…\N¿Es su aorta abdominal? ¡Maldición!
+Dialogue: 0,1:10:21.73,1:10:24.49,Gen_Main,,0,0,0,,Lo siento. Creo que…
+Dialogue: 0,1:10:25.08,1:10:26.49,Gen_Main,,0,0,0,,este es mi fin.
+Dialogue: 0,1:10:27.70,1:10:28.91,Gen_Main,,0,0,0,,¿Estás bien?
+Dialogue: 0,1:10:29.50,1:10:31.99,Gen_Main,,0,0,0,,¿Tú estás bien, Aqua?
+Dialogue: 0,1:10:32.83,1:10:34.21,Gen_Main,,0,0,0,,No.
+Dialogue: 0,1:10:37.37,1:10:40.05,Gen_Main,,0,0,0,,Me pregunto si cancelarán\Nel concierto de hoy.
+Dialogue: 0,1:10:40.84,1:10:43.18,Gen_Main,,0,0,0,,Lo siento por todo el mundo.
+Dialogue: 0,1:10:43.64,1:10:46.72,Gen_Main,,0,0,0,,Ya habían terminado\Nla agenda para la película…
+Dialogue: 0,1:10:47.08,1:10:49.02,Gen_Main,,0,0,0,,Discúlpate con el director por mí.
+Dialogue: 0,1:10:50.17,1:10:52.48,Gen_Main,,0,0,0,,¿Qué pasa?
+Dialogue: 0,1:10:53.35,1:10:55.31,Gen_Main,,0,0,0,,¿Qué está pasando ahí?
+Dialogue: 0,1:10:55.98,1:10:58.08,Gen_Main,,0,0,0,,Aléjate, Ruby.
+Dialogue: 0,1:10:59.19,1:11:00.55,Gen_Main,,0,0,0,,¡Dímelo!
+Dialogue: 0,1:11:01.03,1:11:02.18,Gen_Main,,0,0,0,,¿Ruby?
+Dialogue: 0,1:11:03.32,1:11:07.34,Gen_Main,,0,0,0,,Tu baile en el evento de preescolar\Nfue maravilloso.
+Dialogue: 0,1:11:07.70,1:11:14.29,Gen_Main,,0,0,0,,Pensé que tal vez tú también\Nserías idol en el futuro.
+Dialogue: 0,1:11:15.33,1:11:17.67,Gen_Main,,0,0,0,,Madre e hija actuando juntas…
+Dialogue: 0,1:11:17.93,1:11:19.84,Gen_Main,,0,0,0,,Suena divertido, ¿no?
+Dialogue: 0,1:11:20.59,1:11:22.38,Gen_Main,,0,0,0,,Aqua, ¿tú serás actor?
+Dialogue: 0,1:11:23.88,1:11:27.76,Gen_Main,,0,0,0,,Me pregunto\Nen qué clase de adultos se convertirán.
+Dialogue: 0,1:11:29.01,1:11:33.10,Gen_Main,,0,0,0,,Cielos, quería verlos\Ncon su mochila de la escuela…
+Dialogue: 0,1:11:33.77,1:11:36.03,Gen_Main,,0,0,0,,Y en el día de los padres…
+Dialogue: 0,1:11:36.22,1:11:39.94,Gen_Main,,0,0,0,,Que la gente dijera: "¿No es muy joven\Npara ser la madre de Ruby?".
+Dialogue: 0,1:11:41.03,1:11:45.91,Gen_Main,,0,0,0,,Quiero estar presente\Nmientras ustedes dos crecen.
+Dialogue: 0,1:11:47.82,1:11:50.90,Gen_Main,,0,0,0,,No es que fuera\Nla mejor madre del mundo,
+Dialogue: 0,1:11:51.58,1:11:55.17,Gen_Main,,0,0,0,,pero me alegro de haberlos tenido.
+Dialogue: 0,1:11:56.04,1:11:57.29,Gen_Main,,0,0,0,,Y también…
+Dialogue: 0,1:11:57.71,1:12:00.25,Gen_Main,,0,0,0,,Debo decirles una cosa.
+Dialogue: 0,1:12:01.72,1:12:02.76,Gen_Main,,0,0,0,,Ruby…
+Dialogue: 0,1:12:03.72,1:12:04.76,Gen_Main,,0,0,0,,Aqua…
+Dialogue: 0,1:12:06.02,1:12:07.26,Gen_Main,,0,0,0,,Los amo.
+Dialogue: 0,1:12:09.17,1:12:12.06,Gen_Main,,0,0,0,,Por fin pude decirlo.
+Dialogue: 0,1:12:12.88,1:12:16.39,Gen_Main,,0,0,0,,Siento haber tardado tanto.
+Dialogue: 0,1:12:17.25,1:12:18.86,Gen_Main,,0,0,0,,Qué alivio.
+Dialogue: 0,1:12:19.61,1:12:23.78,Gen_Main,,0,0,0,,Esas palabras no fueron mentira.
+Dialogue: 0,1:12:28.74,1:12:29.81,Gen_Main,,0,0,0,,¿Ai…?
+Dialogue: 0,1:12:39.81,1:12:41.00,Gen_Main,,0,0,0,,¿Ai…?
+Dialogue: 0,1:12:55.23,1:12:58.88,Gen_Italics,,0,0,0,,Ai, del grupo de idols\NB-Komachi, fue asesinada
+Dialogue: 0,1:12:59.02,1:13:00.94,Gen_Italics,,0,0,0,,por apuñalamiento.
+Dialogue: 0,1:13:01.02,1:13:05.64,Gen_Italics,,0,0,0,,El sospechoso es un universitario\Nde Tokio que se cree que era su fan.
+Dialogue: 0,1:13:06.65,1:13:08.45,Gen_Italics,,0,0,0,,Cuando acudió la policía,
+Dialogue: 0,1:13:08.53,1:13:11.66,Gen_Italics,,0,0,0,,encontraron a una mujer\Nparecida a Ai con una puñalada
+Dialogue: 0,1:13:11.74,1:13:13.33,Gen_Italics,,0,0,0,,desmayada y sangrando.
+Dialogue: 0,1:13:13.79,1:13:16.50,Gen_Italics,,0,0,0,,Se declaró muerta en el\Nhospital al que la trasladaron.
+Dialogue: 0,1:13:17.25,1:13:21.17,Gen_Italics,,0,0,0,,El hombre sospechoso\Nes un fan entusiasta de Ai.
+Dialogue: 0,1:13:21.67,1:13:25.80,Gen_Italics,,0,0,0,,Varias horas después intentó suicidarse\Ny se declaró muerto en el hospital.
+Dialogue: 0,1:13:26.55,1:13:30.01,Gen_Italics,,0,0,0,,Según la policía,\NAi acababa de mudarse allí
+Dialogue: 0,1:13:30.34,1:13:34.22,Gen_Italics,,0,0,0,,y se contempla la posibilidad\Nde que el hombre tuviera un cómplice.
+Dialogue: 0,1:13:35.25,1:13:39.39,Gen_Italics,,0,0,0,,Se anunció que se cancelará\Nel concierto que estaba planeado
+Dialogue: 0,1:13:39.98,1:13:44.19,Gen_Italics,,0,0,0,,y delante del recinto,\Nnumerosos fans cedieron ante el dolor.
+Dialogue: 0,1:13:40.52,1:13:41.39,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frz18.03\frx0\fry22\pos(547.692,180.615)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:41.39,1:13:41.52,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz17.87\pos(544.615,179.385)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:41.52,1:13:41.64,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz18\pos(541.538,179.384)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:41.64,1:13:41.77,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz19\pos(539,179.154)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:41.77,1:13:41.89,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz20\pos(537.154,178.538)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:41.89,1:13:42.02,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz21\pos(534.077,178.538)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:42.02,1:13:45.48,Cart_A_Tim,CARTEL,0,0,0,,{\fs10\c&H060307&\3c&H412779&\frx0\fry22\frz23\pos(529.77,179.538)}Fan de Ai\Npor toda la eternidad
+Dialogue: 0,1:13:45.82,1:13:50.86,Gen_Italics,,0,0,0,,La noticia de que una idol fue asesinada\Npor un fan que luego se suicidó
+Dialogue: 0,1:13:51.46,1:13:54.16,Gen_Italics,,0,0,0,,se difundió en menos de una hora.
+Dialogue: 0,1:13:54.89,1:13:58.37,Gen_Italics,,0,0,0,,La respuesta de la gente\Nfue muy compasiva.
+Dialogue: 1,1:13:58.37,1:14:04.58,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\an7\fscx93\fscy74\alpha30\c&H1A1A1C&\3c&HE8F2EE&\pos(181.739,16.317)}m 0 0 l 300 0 300 70 0 70
+Dialogue: 2,1:13:58.37,1:14:04.58,Cart_C_Ari,CARTEL,0,0,0,,{\c&HD8DDE0&\fnVerdana\bord0}La oscuridad del hombre que\Nasesinó a Ai, de B-Komachi
+Dialogue: 0,1:13:59.16,1:14:00.92,Gen_Italics,,0,0,0,,Pero, como yo me temía,
+Dialogue: 3,1:14:01.29,1:14:05.38,Gen_Italics,,0,0,0,,algunos lo trataron como un juego\Ny trataron de llamar la atención.
+Dialogue: 1,1:14:04.58,1:14:06.54,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HE7E7E7&\pos(27.606,73.384)}m 0 0 l 584 0 584 115 0 115
+Dialogue: 1,1:14:04.58,1:14:06.54,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HD3DD74&\pos(63.914,317.076)}m 0 0 l 504 0 504 115 0 115
+Dialogue: 2,1:14:04.58,1:14:06.54,Cart_C_Ari,CARTEL,0,0,0,,{\an7\q2\bord0\blur0.4\c&H292C42&\pos(61.866,97.866)}[Último resumen] Ai, de B-Komachi: Guía completa\Nde las revelaciones
+Dialogue: 2,1:14:04.58,1:14:06.54,Cart_C_Ari,CARTEL,0,0,0,,{\fs12\blur0.4\an7\bord0\c&H3B4020&\pos(77.457,320.049)}\h\h\h\h\h\h\h\h\hActor\h\h\h\h\h\h\h\h\h\h\h\h\h\hBlogger famosa\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hB-Komachi\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hEstudiante \NSeiki Aizawa (25)\h\h\hMimika Miwa (16)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAi (20)\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\huniversitario A
+Dialogue: 1,1:14:06.54,1:14:13.01,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha30\an7\fscx93\fscy74\c&HB9B9B9&\3c&H241C1B&\pos(390.005,9.431)}m 0 0 l 260 0 260 160 0 160
+Dialogue: 2,1:14:06.54,1:14:09.38,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\bord0\blur0.4\an7\c&H201917&\clip(388.666,10,632.667,128.099)\move(394,15,394,-114,1528,2279)}Sakana Luther\N{\b0\c&H607F9B&}#Ai #AcosadorAsesino\N\N\N\N{\c&H201917&\b1}BROTHER TIN\N{\b0\c&H544F4D&}No me gustaba Ai, así que mi reacción\Nfue: "Bueno, no importa".\N{\c&H607F9B&}#Ai\N\N\N\N{\b1\c&H201917&}Puff\N{\b0\c&H544F4D&}\NEl problema es que las leyes son muy laxas. Fue víctima del nuevo Gobierno por tardar tanto siempre.\N{\c&H607F9B&}#B-KomachiAi #AcosadorAsesino\N\N\N\N{\b1\c&H201917&}An Dona\N{\b0\c&H544F4D&}Cielos, era muy linda\N{\c&H607F9B&}#B-KomachiAi #AcosadorAsesino\N\N\N\N{\b1\c&H201917&}Hyakki Yagyou\N{\b0\c&H544F4D&}Ese acosador descubrió que Ai tenía pareja\N\N\N\N{\b1\c&H201917&}Geek Geek\N{\b0\c&H544F4D&}En ese caso no me sorprende que la matara
+Dialogue: 2,1:14:09.38,1:14:13.01,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\bord0\blur0.4\an7\c&H201917&\move(394,-114,394,-244,940,1691)\clip(388.666,10,632.667,128.099)}Sakana Luther\N{\b0\c&H607F9B&}#Ai #AcosadorAsesino\N\N\N\N{\c&H201917&\b1}BROTHER TIN\N{\b0\c&H544F4D&}No me gustaba Ai, así que mi reacción\Nfue: "Bueno, no importa".\N{\c&H607F9B&}#Ai\N\N\N\N{\b1\c&H201917&}Puff\N{\b0\c&H544F4D&}\NEl problema es que las leyes son muy laxas. Fue víctima del nuevo Gobierno por tardar tanto siempre.\N{\c&H607F9B&}#B-KomachiAi #AcosadorAsesino\N\N\N\N{\b1\c&H201917&}An Dona\N{\b0\c&H544F4D&}Cielos, era muy linda\N{\c&H607F9B&}#B-KomachiAi #AcosadorAsesino\N\N\N\N{\b1\c&H201917&}Hyakki Yagyou\N{\b0\c&H544F4D&}Ese acosador descubrió\Nque Ai tenía pareja\N\N\N\N{\b1\c&H201917&}Geek Geek\N{\b0\c&H544F4D&}En ese caso no me sorprende\Nque la matara
+Dialogue: 3,1:14:06.78,1:14:09.67,Gen_Italics,,0,0,0,,Con tantas especulaciones\Ny mensajes anónimos,
+Dialogue: 3,1:14:09.76,1:14:12.55,Gen_Italics,,0,0,0,,hubo algunos\Nque se acercaron a la verdad.
+Dialogue: 2,1:14:13.72,1:14:16.22,Gen_Main,,0,0,0,,¿Por qué no te sorprende? Dímelo.
+Dialogue: 1,1:14:15.01,1:14:16.22,Cart_C_Ari,CARTEL,0,0,0,,{\fs40\bord0\c&H423E3D&\blur0.5\pos(292.8,278.667)}…no me sorprende que la matara
+Dialogue: 0,1:14:16.81,1:14:19.98,Gen_Main,,0,0,0,,¿Si una idol tiene pareja,\Nno sorprende que alguien la asesine?
+Dialogue: 0,1:14:20.17,1:14:21.94,Gen_Main,,0,0,0,,¡Qué tontería!
+Dialogue: 0,1:14:22.23,1:14:25.04,Gen_Main,,0,0,0,,¡La gente se enamora de las idols!
+Dialogue: 0,1:14:25.17,1:14:27.65,Gen_Main,,0,0,0,,¿No es egoísta\Nprohibir que ellas se enamoren?
+Dialogue: 0,1:14:27.80,1:14:31.24,Gen_Main,,0,0,0,,¡Solo desquitan su frustración\Npor no tener novia!
+Dialogue: 0,1:14:31.32,1:14:32.95,Gen_Main,,0,0,0,,¡Me dan asco! ¡Muéranse!
+Dialogue: 0,1:14:34.95,1:14:37.04,Gen_Main,,0,0,0,,¿Por qué Internet es así?
+Dialogue: 0,1:14:37.49,1:14:42.04,Gen_Main,,0,0,0,,Mamá está muerta, y hay tantas\Ncosas horribles que me quiero morir.
+Dialogue: 0,1:14:42.67,1:14:45.50,Gen_Main,,0,0,0,,Si eres famoso, ¿la gente puede\Ndecir lo que quiera de ti?
+Dialogue: 0,1:14:45.59,1:14:47.00,Gen_Main,,0,0,0,,¿Ese es el precio de la fama?
+Dialogue: 0,1:14:47.14,1:14:50.41,Gen_Main,,0,0,0,,¡Se dice mucho lo de\N"El cliente siempre tiene razón",
+Dialogue: 0,1:14:50.56,1:14:52.30,Gen_Main,,0,0,0,,pero no para usarlo de esta forma!
+Dialogue: 0,1:14:52.59,1:14:57.57,Gen_Main,,0,0,0,,No usen esas palabras para satisfacerse
+Dialogue: 0,1:14:58.06,1:15:01.39,Gen_Main,,0,0,0,,como excusa para lastimar a otros.
+Dialogue: 0,1:15:04.48,1:15:08.40,Gen_Italics,,0,0,0,,Después de tres días, el contenido\Nde la muerte de Ai seguía su curso.
+Dialogue: 0,1:15:09.07,1:15:12.86,Gen_Italics,,0,0,0,,Y después de que una nevada\Nparalizara la red de transportes,
+Dialogue: 0,1:15:12.95,1:15:15.11,Gen_Italics,,0,0,0,,no se volvió a tocar el tema.
+Dialogue: 0,1:15:15.99,1:15:19.66,Gen_Italics,,0,0,0,,Fue como si la nieve\Ncubriera la muerte de Ai.
+Dialogue: 0,1:15:21.21,1:15:25.12,Gen_Italics,,0,0,0,,Parece que el presidente y su esposa\Nse quedaron con nuestra custodia,
+Dialogue: 0,1:15:25.54,1:15:28.38,Gen_Italics,,0,0,0,,así que nunca aparecimos\Nen las noticias.
+Dialogue: 0,1:15:29.17,1:15:32.63,Gen_Italics,,0,0,0,,Considerando que el culpable ya estaba\Nmuerto y la edad que tenía yo,
+Dialogue: 0,1:15:33.13,1:15:35.93,Gen_Italics,,0,0,0,,el interrogatorio policial\Nse limitó a cosas simples,
+Dialogue: 0,1:15:36.43,1:15:39.26,Gen_Italics,,0,0,0,,pero las sesiones de terapia\Ntomaron más tiempo.
+Dialogue: 0,1:15:40.06,1:15:43.23,Gen_Main,,0,0,0,,¿Querrían ser mis hijos de verdad?
+Dialogue: 0,1:15:44.81,1:15:47.73,Gen_Main,,0,0,0,,Claro, Ai siempre será su única madre.
+Dialogue: 0,1:15:48.11,1:15:51.15,Gen_Main,,0,0,0,,Y tampoco tienen que verme como tal.
+Dialogue: 0,1:15:51.48,1:15:56.11,Gen_Main,,0,0,0,,Pero yo sí los veo como mis hijos.
+Dialogue: 0,1:15:56.47,1:15:57.57,Gen_Main,,0,0,0,,¿Qué me dicen?
+Dialogue: 0,1:16:17.73,1:16:21.76,Gen_Main,,0,0,0,,Mamá dijo que tal vez podría ser idol.
+Dialogue: 0,1:16:22.23,1:16:24.77,Gen_Main,,0,0,0,,¿Crees que tengo lo que hace falta?
+Dialogue: 0,1:16:24.99,1:16:26.85,Gen_Main,,0,0,0,,Es inútil serlo, ¿no?
+Dialogue: 0,1:16:27.35,1:16:30.65,Gen_Main,,0,0,0,,Si quieres ganar dinero,\Ncon otro trabajo te iría mejor.
+Dialogue: 0,1:16:30.98,1:16:35.07,Gen_Main,,0,0,0,,Los fans son egoístas y sufrirás\Nmuchas críticas si tienes novio.
+Dialogue: 0,1:16:35.85,1:16:37.97,Gen_Main,,0,0,0,,Sí, pero aun así…
+Dialogue: 0,1:16:39.37,1:16:41.20,Gen_Main,,0,0,0,,mamá resplandecía.
+Dialogue: 0,1:16:41.91,1:16:44.50,Gen_Italics,,0,0,0,,Ruby seguramente se reponga.
+Dialogue: 0,1:16:44.91,1:16:49.46,Gen_Italics,,0,0,0,,En todos los años que pasé con ella,\Nvi que tiene un corazón puro.
+Dialogue: 0,1:16:50.75,1:16:51.98,Gen_Italics,,0,0,0,,Pero yo…
+Dialogue: 0,1:16:53.13,1:16:54.92,Gen_Italics,,0,0,0,,ya morí una vez.
+Dialogue: 0,1:16:55.67,1:16:57.88,Gen_Italics,,0,0,0,,Si Ai no está aquí, este mundo…
+Dialogue: 0,1:17:02.06,1:17:05.35,Gen_Italics,,0,0,0,,Ese acosador y el que me mató a mí\Nfue la misma persona.
+Dialogue: 0,1:17:06.33,1:17:09.06,Gen_Italics,,0,0,0,,¿Cómo encontró a Ai en el hospital?
+Dialogue: 0,1:17:09.33,1:17:11.98,Gen_Italics,,0,0,0,,¿Por qué fue a la casa\Na la que acababa de mudarse?
+Dialogue: 1,1:17:11.98,1:17:21.69,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha50\an7\fscx93\fscy74\c&H497595&\3c&H010108&\pos(190.338,16.372)}m 0 0 l 280 0 280 65 0 65
+Dialogue: 2,1:17:11.98,1:17:21.69,Cart_C_Ari,CARTEL,0,0,0,,{\c&H8EB4C6&\3c&H030003&}La oscuridad del hombre que\Nasesinó a Ai, de B-Komachi
+Dialogue: 0,1:17:12.51,1:17:15.23,Gen_Italics,,0,0,0,,El culpable era un estudiante\Nsin nada especial.
+Dialogue: 0,1:17:15.61,1:17:18.75,Gen_Italics,,0,0,0,,No creo que pudiera hacer\Nese trabajo de investigación.
+Dialogue: 0,1:17:19.24,1:17:21.16,Gen_Italics,,0,0,0,,Alguien le estaba dando información.
+Dialogue: 0,1:17:21.99,1:17:24.91,Gen_Italics,,0,0,0,,Y tuvo que ser alguien cercano a Ai.
+Dialogue: 0,1:17:25.66,1:17:28.62,Gen_Italics,,0,0,0,,Por lo que sé, solo el presidente\Nsabía lo del hospital.
+Dialogue: 0,1:17:29.04,1:17:32.96,Gen_Italics,,0,0,0,,Pero ¿le haría eso a la imagen pública\Nde la agencia que tanto aprecia?
+Dialogue: 0,1:17:33.23,1:17:34.30,Gen_Italics,,0,0,0,,¿Alguna compañera?
+Dialogue: 0,1:17:34.57,1:17:39.93,Gen_Italics,,0,0,0,,No, las chicas no eran tan íntimas,\Ny no vi a nadie que pareciera su amiga.
+Dialogue: 0,1:17:40.51,1:17:43.47,Gen_Italics,,0,0,0,,Es evidente\Nque Ai no tenía ningún pariente,
+Dialogue: 0,1:17:43.55,1:17:45.95,Gen_Italics,,0,0,0,,y tampoco conocía sus datos de contacto.
+Dialogue: 0,1:17:46.18,1:17:47.87,Gen_Italics,,0,0,0,,Por lo que solo queda
+Dialogue: 0,1:17:49.31,1:17:51.02,Gen_Italics,,0,0,0,,nuestro padre.
+Dialogue: 0,1:17:51.77,1:17:54.61,Gen_Italics,,0,0,0,,Se lo ocultó al presidente,
+Dialogue: 0,1:17:54.74,1:17:57.32,Gen_Italics,,0,0,0,,pero sabiendo lo reducido\Nque era su círculo social,
+Dialogue: 0,1:17:57.40,1:17:59.82,Gen_Italics,,0,0,0,,puede que el tipo\Nestuviera en esta industria.
+Dialogue: 0,1:18:00.36,1:18:03.20,Gen_Italics,,0,0,0,,Dado que ella y yo\Ntenemos parentesco,
+Dialogue: 0,1:18:03.70,1:18:06.16,Gen_Italics,,0,0,0,,puedo saber su identidad\Nanalizando su ADN.
+Dialogue: 0,1:18:07.08,1:18:11.67,Gen_Italics,,0,0,0,,El tipo que le hizo eso a Ai es alguien\Nde la industria del entretenimiento.
+Dialogue: 0,1:18:13.54,1:18:15.55,Gen_Italics,,0,0,0,,No puedo morir aún.
+Dialogue: 0,1:18:16.34,1:18:21.05,Gen_Italics,,0,0,0,,¡No hasta que lo encuentre\Ny lo mate con mis propias manos!
+Dialogue: 0,1:18:25.05,1:18:25.30,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)}Zona de fumadores
+Dialogue: 0,1:18:25.30,1:18:25.43,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 583 176 l 580 186 580 191 498 190 497 175)}Zona de fumadores
+Dialogue: 0,1:18:25.43,1:18:25.55,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 553 176 l 552 188 555 197 498 190 497 175)}Zona de fumadores
+Dialogue: 0,1:18:25.55,1:18:25.68,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 537 178 l 537 189 537 200 498 190 497 175)}Zona de fumadores
+Dialogue: 0,1:18:25.68,1:18:25.80,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 522 177 l 522 184 522 190 498 190 497 175)}Zona de fumadores
+Dialogue: 0,1:18:26.30,1:18:26.43,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 579 167 l 594 175 595 190 587 192 583 178)}Zona de fumadores
+Dialogue: 0,1:18:26.43,1:18:26.55,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 567 168 l 594 175 595 190 575 192 572 178)}Zona de fumadores
+Dialogue: 0,1:18:26.55,1:18:26.68,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 541 168 l 594 175 595 190 552 192 548 178)}Zona de fumadores
+Dialogue: 0,1:18:26.68,1:18:26.80,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 525 170 l 594 175 595 190 537 191 533 180)}Zona de fumadores
+Dialogue: 0,1:18:26.80,1:18:26.93,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)\clip(m 505 170 l 594 175 595 190 523 191 516 180)}Zona de fumadores
+Dialogue: 0,1:18:26.93,1:18:29.43,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\blur0.4\fs12\c&H282029&\pos(546.462,177.538)}Zona de fumadores
+Dialogue: 0,1:18:26.43,1:18:27.43,Gen_Main,,0,0,0,,Director.
+Dialogue: 0,1:18:28.06,1:18:29.43,Gen_Main,,0,0,0,,Ah, niño precoz.
+Dialogue: 0,1:18:31.91,1:18:35.40,Gen_Main,,0,0,0,,No sé qué decir en un momento así.
+Dialogue: 0,1:18:35.48,1:18:37.07,Gen_Main,,0,0,0,,No te molestes con eso.
+Dialogue: 0,1:18:38.40,1:18:40.82,Gen_Main,,0,0,0,,Quisiera pedirte un favor.
+Dialogue: 0,1:18:41.24,1:18:42.25,Gen_Main,,0,0,0,,Dime.
+Dialogue: 0,1:18:42.62,1:18:44.32,Gen_Main,,0,0,0,,¿Podrías criarme?
+Dialogue: 0,1:18:51.83,1:18:54.29,Gen_Main,,0,0,0,,Vamos, Ruby. ¿Aún no estás lista?
+Dialogue: 0,1:18:54.64,1:18:57.59,Gen_Main,,0,0,0,,Cielos, espera un minuto, Aqua.
+Dialogue: 0,1:18:57.67,1:19:00.80,Gen_Main,,0,0,0,,El uniforme es lindo,\Npero es muy complicado.
+Dialogue: 0,1:19:01.38,1:19:03.01,Gen_Main,,0,0,0,,Pero es muy lindo.
+Dialogue: 0,1:19:03.22,1:19:05.64,Gen_Main,,0,0,0,,No nos hagas llegar tarde el primer día.
+Dialogue: 0,1:19:07.30,1:19:08.89,Gen_Main,,0,0,0,,¿La falda no es muy corta?
+Dialogue: 0,1:19:09.15,1:19:11.77,Gen_Main,,0,0,0,,Siempre hablas como un viejo.
+Dialogue: 0,1:19:12.93,1:19:14.23,Gen_Main,,0,0,0,,Ah, sí.
+Dialogue: 0,1:19:15.16,1:19:17.05,Gen_Main,,0,0,0,,Mamá, nos vamos.
+Dialogue: 0,1:19:23.82,1:19:28.95,Gen_Italics,,0,0,0,,Y así termina el prólogo y se levanta\Nel telón de una nueva historia.
+Dialogue: 0,1:19:30.29,1:19:35.94,Gen_Italics,,0,0,0,,Y comienza la obra de mi venganza.
+Dialogue: 0,1:21:06.84,1:21:09.63,Cart_A_Tre,CARTEL,0,0,0,,{\fad(230,0)\bord0\shad0\fs14\c&H5A5A5A&\pos(503.5,281.5)}Traducción: Abraham Gayuvas\NEdición: Juan José Cintas\NControl de Calidad: Nicolás Sepúlveda
+Dialogue: 0,1:21:10.26,1:21:11.72,Gen_Main,,0,0,0,,¿Está grabando?
+Dialogue: 0,1:21:12.50,1:21:15.98,Gen_Italics,,0,0,0,,Perfecto. Pensé que estaría bien\Ntener este video.
+Dialogue: 0,1:21:26.86,1:21:32.03,Gen_Italics,,0,0,0,,Espero que cuando crezcan puedan verlo\Njuntos mientras beben algo con alcohol.
+Dialogue: 0,1:21:32.58,1:21:36.36,Gen_Italics,,0,0,0,,Aunque dudo que yo siga\Nsiendo idol para entonces.
+Dialogue: 0,1:21:36.66,1:21:40.62,Gen_Italics,,0,0,0,,Aunque puede que ustedes\Nsean idols para entonces.
+Dialogue: 0,1:21:40.92,1:21:43.71,Gen_Italics,,0,0,0,,Son mis hijos, así que es muy posible.
+Dialogue: 0,1:21:47.13,1:21:51.01,Gen_Italics,,0,0,0,,En fin, espero que crezcan\Nsanos y salvos.
+Dialogue: 0,1:21:52.19,1:21:55.43,Gen_Italics,,0,0,0,,Es el único deseo que pido\Ncomo su madre que soy.

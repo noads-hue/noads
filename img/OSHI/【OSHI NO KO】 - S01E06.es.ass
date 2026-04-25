@@ -1,0 +1,475 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Com,Comic Sans MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Com,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,5,5,0,1
+Style: Cart_A_Ari,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Ari,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:33.03,0:01:36.40,Gen_Main,,0,0,0,,Quiero dejar "Amor Ahora".
+Dialogue: 0,0:01:37.20,0:01:38.36,Gen_Main,,0,0,0,,¿En plena temporada?
+Dialogue: 0,0:01:38.45,0:01:40.36,Gen_Main,,0,0,0,,¿Por qué dices eso?
+Dialogue: 0,0:01:41.37,0:01:45.79,Gen_Main,,0,0,0,,Últimamente los chicos de mi escuela\Nse burlan de mí.
+Dialogue: 0,0:01:45.87,0:01:48.46,Gen_Main,,0,0,0,,Dicen: "Vaya, te gusta ese chico".
+Dialogue: 0,0:01:49.46,0:01:53.92,Gen_Main,,0,0,0,,Nada da más miedo que mostrar\Ntus sentimientos al mundo.
+Dialogue: 0,0:01:54.55,0:01:57.42,Gen_Main,,0,0,0,,No lo entendía\Nhasta empezar con el programa.
+Dialogue: 0,0:01:57.84,0:02:02.01,Gen_Main,,0,0,0,,Que tanta gente se fije en ti\Nno es nada agradable.
+Dialogue: 0,0:02:02.10,0:02:06.11,Gen_Main,,0,0,0,,Yo hago el ridículo en mi canal,\Nasí que te entiendo.
+Dialogue: 0,0:02:06.18,0:02:08.72,Gen_Main,,0,0,0,,Todo el mundo cree que soy tonta.
+Dialogue: 0,0:02:09.23,0:02:11.73,Gen_Main,,0,0,0,,Aunque sí lo soy.
+Dialogue: 0,0:02:11.81,0:02:14.28,Gen_Main,,0,0,0,,¿Y de verdad lo dejarás?
+Dialogue: 0,0:02:14.44,0:02:16.36,Gen_Main,,0,0,0,,Podemos hablar si quieres.
+Dialogue: 0,0:02:16.44,0:02:18.85,Gen_Main,,0,0,0,,Si dejas el programa, yo también.
+Dialogue: 0,0:02:18.99,0:02:20.32,Gen_Main,,0,0,0,,Nobu…
+Dialogue: 0,0:02:20.41,0:02:22.78,Gen_Main,,0,0,0,,No digas eso, tenemos que seguir.
+Dialogue: 0,0:02:23.62,0:02:25.24,Gen_Main,,0,0,0,,Yo…
+Dialogue: 0,0:02:26.25,0:02:28.25,Cart_A_Tim,CARTEL,0,0,0,,{\fad(1022,0)\bord0\blur0.2\c&HEEEEFA&\pos(116,7.111)}Próximo episodio
+Dialogue: 0,0:02:26.25,0:02:28.25,Cart_A_Tim,CARTEL,0,0,0,,{\fad(1022,0)\an7\fs13\blur0.2\bord1.5\c&H9556B9&\3c&HE0D9E9&\pos(38.667,112.267)}¿De verdad Yuki dejará el programa?\N\N\N\N\N\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hLes espera una sorpresa a los dos…
+Dialogue: 0,0:02:28.33,0:02:30.46,Gen_Main,,0,0,0,,¿Cómo acabará?
+Dialogue: 0,0:02:30.54,0:02:33.76,Gen_Main,,0,0,0,,¿De verdad lo dejará?\NYuki parece muy sensible.
+Dialogue: 0,0:02:33.84,0:02:36.46,Gen_Main,,0,0,0,,¿Y qué pasará entonces con Nobu?
+Dialogue: 2,0:02:36.46,0:02:37.22,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs12\b0\blur0.2\bord0\c&H486D9B&\pos(154.933,78.133)}Yuki Sumi: ¿Lo dejará por el estrés de salir en un programa de citas?
+Dialogue: 2,0:02:37.21,0:02:37.92,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs12\b0\blur0.2\bord0\c&H486D9B&\pos(154.933,78.133)\clip(408.533,68.267,489.6,104)}Yuki Sumi: ¿Lo dejará por el estrés de salir en un programa de citas?
+Dialogue: 0,0:02:38.01,0:02:40.47,Gen_Main,,0,0,0,,Mira, hay un artículo sobre ello.
+Dialogue: 0,0:02:40.55,0:02:43.60,Gen_Main,,0,0,0,,¿Crees que ayudé\Na conseguir espectadores?
+Dialogue: 0,0:02:43.68,0:02:44.76,Gen_Main,,0,0,0,,Sí, es posible.
+Dialogue: 0,0:02:44.85,0:02:47.01,Gen_Main,,0,0,0,,¿De verdad dejarás el programa?
+Dialogue: 0,0:02:47.18,0:02:50.68,Gen_Main,,0,0,0,,No puedo dejarlo sin más.\NTengo un contrato.
+Dialogue: 0,0:02:51.56,0:02:53.61,Gen_Main,,0,0,0,,¿Estabas actuando?
+Dialogue: 0,0:02:53.69,0:02:58.91,Gen_Main,,0,0,0,,Claro que no, yo no soy una actriz\Ncomo tú. Ni siquiera sé actuar.
+Dialogue: 0,0:02:58.99,0:03:02.11,Gen_Main,,0,0,0,,Solo estaba jugando\Ncon mis sentimientos.
+Dialogue: 0,0:03:02.49,0:03:07.99,Gen_Main,,0,0,0,,Es cierto que me afectó que se burlaran\Nen la escuela y que pensé en dejarlo.
+Dialogue: 0,0:03:09.04,0:03:15.00,Gen_Main,,0,0,0,,Además, rodamos a primera hora\Nen la mañana y tengo mucho sueño.
+Dialogue: 0,0:03:15.63,0:03:18.60,Gen_Main,,0,0,0,,Ya veo. No mentías, solo exagerabas.
+Dialogue: 0,0:03:18.67,0:03:20.29,Gen_Main,,0,0,0,,Exagerar, ¿eh?
+Dialogue: 0,0:03:20.51,0:03:25.55,Gen_Italics,,0,0,0,,Tras pasar tiempo en el programa\Ny conocer al equipo, ya sé cómo son.
+Dialogue: 0,0:03:26.47,0:03:27.72,Gen_Italics,,0,0,0,,Las hábiles.
+Dialogue: 0,0:03:28.47,0:03:30.97,Gen_Italics,,0,0,0,,Los que son sinceros\Ny aun así son peculiares.
+Dialogue: 0,0:03:31.64,0:03:34.93,Gen_Italics,,0,0,0,,Los que no salen bien en TV\Ny aparecen poco.
+Dialogue: 0,0:03:35.94,0:03:38.95,Gen_Main,,0,0,0,,Akkun, vayamos a comer algo\Ncuando acabemos.
+Dialogue: 0,0:03:39.03,0:03:41.58,Gen_Main,,0,0,0,,No, gracias.\NAdemás, tengo comida en casa.
+Dialogue: 0,0:03:41.65,0:03:43.20,Gen_Main,,0,0,0,,Vayamos todos.
+Dialogue: 0,0:03:43.28,0:03:45.20,Gen_Main,,0,0,0,,Messan dijo que invita el yakiniku.
+Dialogue: 0,0:03:45.28,0:03:47.16,Gen_Main,,0,0,0,,¿Qué? ¡Yo no dije eso!
+Dialogue: 0,0:03:47.24,0:03:51.09,Gen_Main,,0,0,0,,Ya sé. Ahora tienes más suscriptores\Ny estás ganando más.
+Dialogue: 0,0:03:51.16,0:03:54.29,Gen_Main,,0,0,0,,-Divides las ganancias al 50-50, ¿no?\N-¿En serio?
+Dialogue: 0,0:03:54.58,0:03:57.80,Gen_Main,,0,0,0,,En mi caso es un 80-20. Qué envidia.
+Dialogue: 0,0:03:59.71,0:04:02.51,Gen_Main,,0,0,0,,¡Bien, otro plato variado\Nde la mejor calidad!
+Dialogue: 0,0:04:02.84,0:04:05.18,Gen_Main,,0,0,0,,¡Coman, muchachos!
+Dialogue: 0,0:04:05.26,0:04:06.63,Gen_Main,,0,0,0,,¡Viva!
+Dialogue: 0,0:04:07.01,0:04:09.68,Gen_Main,,0,0,0,,Aqua, este trozo de falda ya está listo.
+Dialogue: 0,0:04:09.77,0:04:12.72,Gen_Main,,0,0,0,,Puedo preparar mi carne, tranquila.
+Dialogue: 0,0:04:13.06,0:04:15.94,Gen_Main,,0,0,0,,No has comido nada en todo este tiempo.
+Dialogue: 0,0:04:16.02,0:04:18.53,Gen_Main,,0,0,0,,Es que soy vegetariana.
+Dialogue: 0,0:04:18.61,0:04:22.15,Gen_Main,,0,0,0,,Nunca suelto las pinzas\Ncuando estoy en un sitio así.
+Dialogue: 0,0:04:22.61,0:04:27.66,Gen_Main,,0,0,0,,Al principio me regañaban\Nporque quemaba la carne, pero ya mejoré.
+Dialogue: 0,0:04:30.37,0:04:31.54,Gen_Main,,0,0,0,,Así que
+Dialogue: 0,0:04:31.83,0:04:35.46,Gen_Main,,0,0,0,,la gente hoy en día\Nquiere ver algo más extremo.
+Dialogue: 0,0:04:35.54,0:04:37.22,Gen_Main,,0,0,0,,Las opciones dependen
+Dialogue: 0,0:04:37.29,0:04:40.30,Gen_Main_Up,,0,0,0,,de cuánto riesgo puedes manejar.
+Dialogue: 0,0:04:37.29,0:04:38.66,Gen_Italics,,0,0,0,,Qué seria es.
+Dialogue: 0,0:04:40.96,0:04:44.26,Gen_Main,,0,0,0,,Yakiniku… Cuánto lujo.
+Dialogue: 0,0:04:44.34,0:04:48.77,Gen_Main,,0,0,0,,Seguro que al ver a tanta chica linda\Nla carne supo mejor.
+Dialogue: 0,0:04:48.85,0:04:50.64,Gen_Main,,0,0,0,,Solo estaba socializando.
+Dialogue: 0,0:04:50.72,0:04:53.73,Gen_Main,,0,0,0,,¡Mentira, esa es una auténtica cara\Nde satisfacción!
+Dialogue: 0,0:04:54.31,0:04:57.14,Gen_Main,,0,0,0,,-No lo es.\N-¡Mírame cuando hables!
+Dialogue: 0,0:04:57.56,0:05:02.03,Gen_Italics,,0,0,0,,Con este cuerpo joven, puedo comer\Ncuanto quiera y no me pesa el estómago.
+Dialogue: 0,0:05:02.11,0:05:03.49,Gen_Italics,,0,0,0,,Es lo mejor del mundo.
+Dialogue: 0,0:05:03.57,0:05:06.83,Gen_Main,,0,0,0,,Tenemos la norma\Nde comer juntos los domingos.
+Dialogue: 0,0:05:06.91,0:05:09.37,Gen_Main,,0,0,0,,Pero desde que empezó el programa\Nhaces esto.
+Dialogue: 0,0:05:09.45,0:05:12.83,Gen_Main,,0,0,0,,La idea del programa\Nes verse después de clases, ¿no?
+Dialogue: 0,0:05:12.91,0:05:16.00,Gen_Main,,0,0,0,,Pero ¡siempre graban\Nlos fines de semana! ¡Es ficticio!
+Dialogue: 0,0:05:16.08,0:05:18.25,Gen_Main,,0,0,0,,No pasa nada por hacer algo así, ¿no?
+Dialogue: 0,0:05:18.67,0:05:21.25,Gen_Main,,0,0,0,,Creo que es genial\Nque prioricen nuestros estudios.
+Dialogue: 0,0:05:21.63,0:05:25.10,Gen_Main,,0,0,0,,Estos programas de citas están\Nmenos guionizados de lo que creía.
+Dialogue: 0,0:05:25.17,0:05:31.22,Gen_Main,,0,0,0,,Algunos están actuando, pero la mayoría\Nsolo intenta verse como es.
+Dialogue: 0,0:05:31.60,0:05:34.26,Gen_Main,,0,0,0,,Algunos hacen eso en la vida real, ¿no?
+Dialogue: 0,0:05:34.48,0:05:36.80,Gen_Main,,0,0,0,,Se ve mucho en las citas grupales.
+Dialogue: 0,0:05:37.19,0:05:39.69,Gen_Main,,0,0,0,,No lo sé porque nunca he ido a una.
+Dialogue: 0,0:05:40.19,0:05:42.78,Gen_Main,,0,0,0,,Entonces, ¿todos están enamorados?
+Dialogue: 0,0:05:40.56,0:05:44.90,Cart_C_Tim,CARTEL,0,0,0,,{\fad(530,473)\bord0\fs18\c&HB825E5&\pos(329.6,95.2)}¿Se enamoran en los programas de citas?
+Dialogue: 0,0:05:42.86,0:05:44.81,Gen_Main,,0,0,0,,Dependerá de la persona.
+Dialogue: 1,0:05:44.94,0:05:51.95,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFCFFF8&\3c&HFFF8F5&\pos(263.045,213.369)\clip(m 271 220 l 367 220 369 222 369 243 367 246 272 246 270 244)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:05:44.94,0:05:51.95,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,474)\bord0\c&H21263C&\pos(320,222.5)}Y (15)
+Dialogue: 0,0:05:45.57,0:05:47.70,Gen_Main,,0,0,0,,Sorprendentemente, yo sí.
+Dialogue: 0,0:05:47.78,0:05:51.90,Gen_Main,,0,0,0,,Pero me ven los fans, así que no quiero\Nir muy lejos en el programa.
+Dialogue: 1,0:05:51.95,0:05:56.71,Cart_A_Tim,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFCFDF8&\3c&HFFF8F5&\clip(m 263 220 l 376 220 378 222 378 243 375 246 264 246 262 244)\pos(242.378,213.369)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:05:51.95,0:05:56.71,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,474)\bord0\c&H21263C&\pos(320,222.5)}M (¿18?)
+Dialogue: 0,0:05:52.33,0:05:56.78,Gen_Main,,0,0,0,,Claro. Es como enamorarse\Nde un chico en un {\i1}host club.{\i0}
+Dialogue: 1,0:05:56.71,0:06:01.96,Cart_A_Tim,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFDFFF8&\3c&HFFF8F5&\pos(242.378,213.369)\clip(m 277 220 l 360 220 363 222 362 241 361 245 279 246 277 244)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:05:56.71,0:06:01.96,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,474)\bord0\c&H21263C&\pos(320,222.5)}K (17)
+Dialogue: 0,0:05:57.29,0:06:01.50,Gen_Main,,0,0,0,,Cuando me graba la cámara\Npongo el modo trabajo, así que no creo.
+Dialogue: 1,0:06:01.96,0:06:04.96,Cart_A_Tim,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFDFFF8&\3c&HFFF8F5&\pos(242.378,213.369)\clip(m 277 220 l 360 220 363 223 362 242 361 246 279 246 277 244)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:06:01.96,0:06:04.96,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,474)\bord0\c&H21263C&\pos(320,222.5)}A (16)
+Dialogue: 0,0:06:02.50,0:06:04.75,Gen_Main,,0,0,0,,Ni hablar. Esto es un trabajo.
+Dialogue: 1,0:06:04.96,0:06:09.72,Cart_A_Tim,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFBFEF7&\3c&HFFF8F5&\pos(242.378,213.369)\clip(m 277 220 l 360 220 363 223 362 242 361 246 279 246 277 244)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:06:04.96,0:06:09.72,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,474)\bord0\c&H21263C&\pos(320,222.5)}N (17)
+Dialogue: 0,0:06:05.51,0:06:09.50,Gen_Main,,0,0,0,,Yo voy en serio. ¿No sería genial\Nque llegáramos a casarnos?
+Dialogue: 1,0:06:09.72,0:06:15.72,Cart_A_Tim,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFDFFF8&\3c&HFFF8F5&\pos(242.378,213.369)\clip(m 271 220 l 366 220 369 223 370 242 368 246 272 246 270 244)}m 0 0 l 150 0 150 70 0 70
+Dialogue: 2,0:06:09.72,0:06:15.72,Cart_A_Tim,CARTEL,0,0,0,,{\blur0.2\fad(530,0)\bord0\c&H21263C&\pos(320,222.5)}A (17)
+Dialogue: 0,0:06:10.22,0:06:15.72,Gen_Main,,0,0,0,,No sé. Ya estoy muy ocupada\Nintentando interpretar mi papel.
+Dialogue: 0,0:06:16.23,0:06:20.14,Gen_Main,,0,0,0,,Nunca había visto estos programas,\Nasí que me falta conocimiento.
+Dialogue: 0,0:06:20.77,0:06:25.48,Gen_Main,,0,0,0,,Fui con muchos prejuicios,\Npero venden muy bien la realidad.
+Dialogue: 0,0:06:25.57,0:06:28.19,Gen_Main,,0,0,0,,Hay menos cosas falsas de lo que creía.
+Dialogue: 0,0:06:28.74,0:06:33.94,Gen_Main,,0,0,0,,Y la naturaleza de la gente se ve\Nen pantalla más de lo esperado.
+Dialogue: 0,0:06:36.33,0:06:40.67,Gen_Main,,0,0,0,,Te veo absorto. ¿No es bueno\Nque no esté tan guionizado?
+Dialogue: 0,0:06:40.75,0:06:42.95,Gen_Main,,0,0,0,,Seguramente para los espectadores sí,
+Dialogue: 0,0:06:43.34,0:06:47.08,Gen_Main,,0,0,0,,pero mentir es\Nla mejor forma de protegerse.
+Dialogue: 0,0:06:48.55,0:06:50.63,Gen_Main,,0,0,0,,No creo que haya de qué preocuparse.
+Dialogue: 0,0:07:05.65,0:07:11.32,Gen_Italics,,0,0,0,,La pareja de Yuki Sumi\Ny Nobuyuki Kumano está en el foco.
+Dialogue: 0,0:07:12.57,0:07:15.08,Gen_Italics,,0,0,0,,Kengo miraba con envidia.
+Dialogue: 0,0:07:15.45,0:07:18.24,Gen_Italics,,0,0,0,,Y comenzó un triángulo amoroso\Ncentrado en Yuki.
+Dialogue: 0,0:07:20.33,0:07:22.73,Gen_Italics,,0,0,0,,Yuki actuó como la que arma las jugadas,
+Dialogue: 0,0:07:22.83,0:07:25.38,Gen_Italics,,0,0,0,,y su aire de seductora\Nanimó el programa,
+Dialogue: 0,0:07:25.38,0:07:29.84,Cart_A_Tre,CARTEL,0,0,0,,{\fnComic Sans MS\fs25\t(\fs-1)\bord3\blur2\t(1155,1697,\bord3\blur3)\3c&HBFFFFD&\c&H0200E9&\pos(320,168)}Mi amor con una estrella comienza ahora
+Dialogue: 0,0:07:25.84,0:07:29.42,Gen_Italics,,0,0,0,,lo que le dio popularidad entre alumnos\Nde secundaria y preparatoria.
+Dialogue: 1,0:07:31.80,0:07:35.76,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\alpha30\fscy74\c&HFAFBF9&\3c&H514A3A&\pos(442.992,19.079)}m 0 0 l 190 0 190 155 0 155
+Dialogue: 2,0:07:31.80,0:07:35.76,Cart_A_Tre,CARTEL,0,0,0,,{\blur0.4\bord0\an7\fs14\c&HE4CBF6&\pos(447.143,19.143)}Tiramisu\N{\c&HA69A8B&\b0}Quiero creer que Nobu y ella\Nacabarán juntos, pero\Nseguramente acabe con Kengo.\N\N\N{\b1\c&HF79AD3&}Onemu no Ramune\N{\b0\c&HA69A8B&}¿A quién elegirá Yuki?\NYo me decanto por Kengo.
+Dialogue: 0,0:07:32.51,0:07:36.14,Gen_Main,,0,0,0,,Aqu, ¿no quieres participar\Nen la lucha por el amor de Yuki?
+Dialogue: 0,0:07:36.22,0:07:39.89,Gen_Main,,0,0,0,,Si quieres ser popular,\Nve por ella en vez de estar conmigo.
+Dialogue: 0,0:07:40.39,0:07:44.36,Gen_Main,,0,0,0,,Estoy bien así. Iré con calma\Nhasta que acabe el programa.
+Dialogue: 0,0:07:44.44,0:07:46.02,Gen_Main,,0,0,0,,Qué poca ambición.
+Dialogue: 0,0:07:46.36,0:07:49.78,Gen_Main,,0,0,0,,¿Y tú? ¿No entrarás en juego?
+Dialogue: 0,0:07:49.86,0:07:54.66,Gen_Main,,0,0,0,,Si puedo mantener mi imagen\Nde tonta, me conformo.
+Dialogue: 0,0:07:54.74,0:07:58.54,Gen_Main,,0,0,0,,Además, mi meta es atraer\Nespectadores a mi canal.
+Dialogue: 0,0:07:59.04,0:08:03.05,Gen_Main,,0,0,0,,Pero si te enamoraras de mí,\Nlas cosas cambiarían mucho.
+Dialogue: 0,0:08:03.12,0:08:04.79,Gen_Main,,0,0,0,,No te hagas esperanzas.
+Dialogue: 0,0:08:06.59,0:08:10.08,Gen_Main,,0,0,0,,Pero más que por nosotros dos,\Nme preocupo por…
+Dialogue: 0,0:08:20.18,0:08:22.61,Gen_Main,,0,0,0,,Entre ellos,\Ndentro de la Puerta de Rashomon
+Dialogue: 0,0:08:22.68,0:08:25.75,Gen_Main,,0,0,0,,está Ibaraki Doji, agarrando su brazo\Ny unas castañas hervidas.
+Dialogue: 0,0:08:25.81,0:08:27.18,Gen_Main,,0,0,0,,Ese famoso Raiko…
+Dialogue: 0,0:08:39.58,0:08:42.38,Gen_Main,,0,0,0,,-Manáger…\N-¿Quieres que te despida?
+Dialogue: 0,0:08:42.45,0:08:47.46,Gen_Main,,0,0,0,,Vi el programa de Akane\Ntras oír que era popular, pero…
+Dialogue: 0,0:08:47.54,0:08:50.13,Gen_Main,,0,0,0,,¡No salió más de 10 minutos en total!
+Dialogue: 0,0:08:50.21,0:08:53.64,Gen_Main,,0,0,0,,¡Le dieron la oportunidad\Ny no está destacando!
+Dialogue: 0,0:08:53.72,0:08:56.35,Gen_Main,,0,0,0,,Si no reaccionas como mánager,\N¿qué pretendes?
+Dialogue: 0,0:08:56.43,0:08:58.85,Gen_Main,,0,0,0,,Presidente, Akane intenta…
+Dialogue: 0,0:08:58.93,0:09:01.22,Gen_Main,,0,0,0,,¡Con intentarlo\Nno se pagan las facturas!
+Dialogue: 0,0:09:01.68,0:09:05.27,Gen_Main,,0,0,0,,¡La elegí de entre un montón de gente\Nque quería esta oportunidad!
+Dialogue: 0,0:09:05.35,0:09:07.89,Gen_Main,,0,0,0,,¡Haz que al menos deje huella!
+Dialogue: 0,0:09:12.19,0:09:13.70,Gen_Main,,0,0,0,,Lo siento, mánager.
+Dialogue: 0,0:09:15.11,0:09:16.70,Gen_Main,,0,0,0,,¿Oíste todo eso?
+Dialogue: 0,0:09:16.78,0:09:20.61,Gen_Main,,0,0,0,,Sé que haces cuanto puedes.\NNo te preocupes.
+Dialogue: 0,0:09:20.74,0:09:23.32,Gen_Main,,0,0,0,,Tranquila, yo seré tu escudo.
+Dialogue: 0,0:09:29.13,0:09:31.16,Gen_Main,,0,0,0,,Es porque soy una cobarde.
+Dialogue: 0,0:09:32.34,0:09:33.84,Cart_A_Tre,CARTEL,0,0,0,,{\b0\fs10\bord0\c&H161618&\pos(315.809,125.143)\frz1.133}La gente quiere algo más extremo
+Dialogue: 0,0:09:32.80,0:09:33.84,Gen_Main,,0,0,0,,Debo darlo todo.
+Dialogue: 0,0:09:34.80,0:09:37.75,Gen_Main,,0,0,0,,Me esforzaré y dejaré huella.
+Dialogue: 0,0:09:39.85,0:09:41.97,Gen_Main,,0,0,0,,Puaj, este refresco es asqueroso.
+Dialogue: 0,0:09:41.98,0:09:48.06,Cart_C_Ari,CARTEL,0,0,0,,{\c&HF7E49B&\bord1\3c&HE3E9D6&\frz23.45\pos(132.801,104.8)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\htuit\N\N\N\N\Ntuit
+Dialogue: 0,0:09:42.06,0:09:44.48,Gen_Main,,0,0,0,,Tuitearé sobre ello\Npara al menos compensarlo.
+Dialogue: 0,0:09:44.56,0:09:48.23,Gen_Main,,0,0,0,,Este refresco nuevo\Nque compré sabe a rayos…
+Dialogue: 0,0:09:48.31,0:09:49.35,Gen_Main,,0,0,0,,¡Oye!
+Dialogue: 0,0:09:49.86,0:09:51.11,Gen_Main,,0,0,0,,¿Qué haces?
+Dialogue: 0,0:09:51.19,0:09:52.98,Gen_Main,,0,0,0,,No, ¿qué haces tú?
+Dialogue: 0,0:09:53.28,0:09:56.19,Gen_Main,,0,0,0,,Ibas a escribir diciendo\Nque un producto sabe mal.
+Dialogue: 0,0:09:56.28,0:09:58.20,Gen_Main,,0,0,0,,¿Y si buscan sus marcas?
+Dialogue: 0,0:09:58.28,0:09:59.62,Gen_Main,,0,0,0,,No harían eso.
+Dialogue: 0,0:09:59.70,0:10:01.95,Gen_Main,,0,0,0,,Por eso no soporto a los novatos.
+Dialogue: 0,0:10:02.03,0:10:06.34,Gen_Main,,0,0,0,,Si tuiteas sobre una marca, unos cinco\Nempleados encontrarán tu mensaje.
+Dialogue: 0,0:10:06.41,0:10:10.01,Gen_Main,,0,0,0,,¡No volverías a trabajar\Npara esa empresa!
+Dialogue: 0,0:10:10.08,0:10:11.80,Gen_Main,,0,0,0,,No exageres.
+Dialogue: 0,0:10:11.88,0:10:14.12,Gen_Main,,0,0,0,,Haces {\i1}egosurfing{\i0}, ¿verdad?
+Dialogue: 0,0:10:14.42,0:10:15.59,Gen_Main,,0,0,0,,No.
+Dialogue: 0,0:10:16.88,0:10:18.75,Gen_Main,,0,0,0,,Dame tu teléfono.
+Dialogue: 0,0:10:19.34,0:10:21.01,Gen_Main,,0,0,0,,-¡Regrésamelo!\N-Veamos…
+Dialogue: 0,0:10:21.01,0:10:23.22,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\alpha30\fscy74\c&HFAFBF9&\3c&H514A3A&\pos(7.792,8.412)}m 0 0 l 150 0 150 185 0 185
+Dialogue: 2,0:10:21.01,0:10:23.22,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\b0\fs14\c&H111420&\clip(8.19,8.571,146.667,144.952)\move(13.6,12.534,13.6,-36.533,110,777)}Búsquedas recientes\N\N{\fs12}Mi amor con…\h\h\h\h\hPieyon\NMEMcho\h\h\h\hAkane Kurokawa\N\N\N\NRuby Hoshino linda\N\NRuby Hoshino Pieyon\N\NRuby\N\NRubycita\N\NRubycita linda\N\NRuby Pieyon
+Dialogue: 0,0:10:21.76,0:10:23.22,Gen_Main,,0,0,0,,Lo haces demasiado.
+Dialogue: 0,0:10:23.93,0:10:27.44,Gen_Main,,0,0,0,,Hasta añadiste lo de "linda"
+Dialogue: 0,0:10:27.52,0:10:29.94,Gen_Main,,0,0,0,,¿Tanto quieres que te digan que lo eres?
+Dialogue: 0,0:10:30.23,0:10:32.32,Gen_Main,,0,0,0,,Todo el mundo dice que no lo hace.
+Dialogue: 0,0:10:32.40,0:10:36.15,Gen_Main,,0,0,0,,Pero 9 de cada 10 idols hacen {\i1}egosurf{\i0}.
+Dialogue: 0,0:10:36.23,0:10:39.28,Gen_Main,,0,0,0,,Ve a una fiesta de cierre\Nde algún evento.
+Dialogue: 0,0:10:39.36,0:10:40.66,Gen_Main,,0,0,0,,Da igual quién sea,
+Dialogue: 0,0:10:40.74,0:10:43.65,Gen_Main,,0,0,0,,es increíble verlos a todos\Nhaciéndolo mientras beben.
+Dialogue: 0,0:10:45.29,0:10:50.34,Gen_Main,,0,0,0,,Es la Gran Era del {\i1}Egosurfing{\i0}. Aun sin\Npublicista, tienes acceso a los datos
+Dialogue: 0,0:10:50.42,0:10:54.05,Gen_Main,,0,0,0,,y puedes ver impresiones y análisis.
+Dialogue: 0,0:10:54.13,0:10:58.58,Gen_Main,,0,0,0,,El gasto de publi online se equipara\Nal offline, un mercado de dos billones.
+Dialogue: 0,0:10:58.92,0:11:02.06,Gen_Main,,0,0,0,,Se acabó la era\Nde ignorar las respuestas.
+Dialogue: 0,0:11:02.14,0:11:06.56,Gen_Main,,0,0,0,,Es una sociedad donde los que ignoran\Nel marketing online desaparecen.
+Dialogue: 0,0:11:06.93,0:11:10.69,Gen_Main,,0,0,0,,Los fans y el contenido que consumen\Nestán en vigilancia constante.
+Dialogue: 0,0:11:10.77,0:11:14.06,Gen_Main,,0,0,0,,Y en el mundo del espectáculo,\Nnosotros somos el contenido.
+Dialogue: 0,0:11:14.98,0:11:19.32,Gen_Main,,0,0,0,,No podemos olvidar\Nque si miras mucho al abismo,
+Dialogue: 2,0:11:19.40,0:11:21.43,Gen_Main,,0,0,0,,el abismo acabará por mirarte a ti.
+Dialogue: 0,0:11:16.36,0:11:19.32,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\blur0.5\an7\q2\fs25\c&H5D5F65&\move(136,20,-148,20,24,2943)}Sí. Estoy viendo "Amor Ahora". Yuki es muy linda y me gusta mucho.
+Dialogue: 0,0:11:19.32,0:11:22.28,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\blur0.7\an7\q2\fs55\c&H5D5F65&\move(25,250,-620,250,24,2943)}Akane no tiene presencia, ni me gusta ni me disgusta
+Dialogue: 0,0:11:24.00,0:11:25.16,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0185)\bord0\alpha50\blur0.7\an7\q2\fs50\c&H858180&\pos(25,242.571)}Akane no ti{\c&H6F6569&}ene {\c&H514D44&}presencia,\N{\c&H858180&}ni me gus{\c&H6F6569&}ta ni {\c&H514D44&}me disgusta
+Dialogue: 0,0:11:25.49,0:11:27.03,Gen_Main,,0,0,0,,Debo esforzarme.
+Dialogue: 0,0:11:32.62,0:11:33.67,Gen_Main,,0,0,0,,¿Qué hacen?
+Dialogue: 0,0:11:33.75,0:11:37.92,Gen_Main,,0,0,0,,Grabar un video para subir a\Nla cuenta oficial de Twitter y Tik Tok.
+Dialogue: 0,0:11:39.01,0:11:41.30,Gen_Main,,0,0,0,,Últimamente tenemos más seguidores.
+Dialogue: 0,0:11:41.38,0:11:44.06,Gen_Main,,0,0,0,,Pero conmigo implicada, no me sorprende.
+Dialogue: 0,0:11:44.30,0:11:47.02,Gen_Main,,0,0,0,,Por cierto, antes eras TikToker,\N¿no, MEM?
+Dialogue: 0,0:11:47.10,0:11:52.69,Gen_Main,,0,0,0,,Sí. Pero antes no pagaban\Npor nada, así que me hice YouTuber.
+Dialogue: 0,0:11:52.98,0:11:55.04,Gen_Main,,0,0,0,,Deberías subir algo, Aqu.
+Dialogue: 0,0:11:55.19,0:11:58.61,Gen_Main,,0,0,0,,No sé lo que usan\Nlos jóvenes ahora. No, gracias.
+Dialogue: 0,0:11:58.69,0:12:00.05,Gen_Main,,0,0,0,,Hablas como un viejo.
+Dialogue: 0,0:12:09.45,0:12:12.21,Gen_Main,,0,0,0,,Nobu, ven conmigo.
+Dialogue: 0,0:12:13.75,0:12:16.46,Gen_Main,,0,0,0,,Akane pasó a la ofensiva, ¿eh?
+Dialogue: 1,0:12:16.46,0:12:18.42,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFDFEFC&\3c&H514A3A&\pos(112.325,123.079)\clip(m 111 129 l 183 127 184 155 355 155 362 210 361 270 83 270)}m 0 0 l 300 0 300 185 0 185
+Dialogue: 2,0:12:16.46,0:12:18.42,Cart_C_Ari,CARTEL,0,0,0,,{\an7\blur0.1\bord0\fs25\c&H171B2C&\pos(131.874,128.988)}King\N\N{\b0\c&H4F556E&}Casi olvido a esta chica.\NSe llamaba Akane, ¿no?
+Dialogue: 3,0:12:16.84,0:12:20.08,Gen_Main,,0,0,0,,Casi olvido a esta chica.\NSe llamaba Akane, ¿no?
+Dialogue: 1,0:12:20.38,0:12:22.34,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFBFCFB&\3c&H514A3A&\pos(116.325,123.079)\clip(m 111 129 l 209 123 211 167 567 169 568 269 361 270 111 267)}m 0 0 l 500 0 500 185 0 185
+Dialogue: 2,0:12:20.38,0:12:22.34,Cart_C_Ari,CARTEL,0,0,0,,{\an7\blur0.1\bord0\fs25\c&H171B2C&\pos(121.474,144.188)}Fwefwe\N{\b0\c&H4F556E&}Da lo mismo que salga Akane o no.
+Dialogue: 3,0:12:20.76,0:12:23.50,Gen_Main,,0,0,0,,Da lo mismo que salga Akane o no.
+Dialogue: 1,0:12:24.30,0:12:27.68,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFDFEFC&\3c&H514A3A&\pos(112.325,123.079)\clip(m 132 117 l 293 124 290 150 456 156 467 236 374 227 137 224)}m 0 0 l 300 0 300 185 0 185
+Dialogue: 2,0:12:24.30,0:12:27.68,Cart_C_Ari,CARTEL,0,0,0,,{\an7\blur0.1\bord0\fs25\c&H171B2C&\pos(141.11,123.097)\clip()}Kakaciokkusu\N{\b0\c&H4F556E&}Lo mejor sería que Akane dejara el programa. Quiero que venga otro chico.
+Dialogue: 3,0:12:24.38,0:12:27.68,Gen_Main,,0,0,0,,Lo mejor sería que Akane dejara\Nel programa. Que venga otro chico.
+Dialogue: 0,0:12:28.47,0:12:31.18,Gen_Main,,0,0,0,,¿Qué puedes hacer para destacar?
+Dialogue: 0,0:12:31.18,0:12:35.19,Cart_A_Tre,CARTEL,0,0,0,,{\blur0.2\an7\fs14\fnComic Sans MS\b0\bord0\c&H605E56&\frz346.9\move(221.053,200.632,221.053,212.337,3407,3657)}¿Qué puedes hacer para destacar?
+Dialogue: 0,0:12:31.27,0:12:35.19,Gen_Main,,0,0,0,,Hacer de chica mala\Ny robarle a Nobu a Yuki.
+Dialogue: 0,0:12:35.27,0:12:38.64,Gen_Main,,0,0,0,,Si haces eso, te harás notar\Ny destacarás más.
+Dialogue: 0,0:12:38.98,0:12:41.36,Gen_Main,,0,0,0,,No te estoy ordenando que lo hagas.
+Dialogue: 0,0:12:41.44,0:12:45.40,Gen_Main,,0,0,0,,Pero la gente que hace eso\Nes la que llega lejos.
+Dialogue: 0,0:12:46.24,0:12:47.79,Gen_Italics,,0,0,0,,Debo esforzarme…
+Dialogue: 0,0:12:48.62,0:12:50.33,Gen_Main,,0,0,0,,Vaya, qué lindas.
+Dialogue: 0,0:12:50.70,0:12:53.77,Gen_Main,,0,0,0,,Me enseñó mi hermana, es manicurista.
+Dialogue: 0,0:12:53.87,0:12:55.33,Gen_Main,,0,0,0,,Son geniales.
+Dialogue: 0,0:12:55.42,0:12:57.21,Gen_Main,,0,0,0,,Te las haré a ti también, Akane.
+Dialogue: 0,0:12:57.29,0:13:00.04,Gen_Main,,0,0,0,,-Ven.\N-Bien.
+Dialogue: 0,0:13:08.39,0:13:10.43,Gen_Main,,0,0,0,,¿No estás más nerviosa últimamente?
+Dialogue: 0,0:13:12.60,0:13:16.07,Gen_Main,,0,0,0,,El programa se acerca a su fin.\NTe entiendo.
+Dialogue: 0,0:13:16.14,0:13:17.77,Gen_Main,,0,0,0,,No es eso.
+Dialogue: 0,0:13:18.10,0:13:22.78,Gen_Main,,0,0,0,,Es que quiero destacar\Ny dejar mi huella.
+Dialogue: 0,0:13:24.03,0:13:25.26,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:13:26.86,0:13:29.49,Gen_Main,,0,0,0,,Pero no te dejaré.
+Dialogue: 0,0:13:29.87,0:13:32.95,Gen_Main,,0,0,0,,Lucharé para ser yo la que destaque.
+Dialogue: 0,0:13:33.45,0:13:35.20,Gen_Main,,0,0,0,,No me guardes rencor, ¿sí?
+Dialogue: 1,0:13:39.13,0:13:42.88,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HEDEEEC&\3c&HFFF8F5&\pos(177.278,13.936)}m 0 0 l 325 0 325 70 0 70
+Dialogue: 2,0:13:39.13,0:13:42.88,Cart_C_Ari,CARTEL,0,0,0,,{\fs28\bord0\blur0.4\c&H181B32&\pos(349.538,20)}Yuki\h\h\hGustar\h\h\h#AmorAhora
+Dialogue: 1,0:13:39.13,0:13:42.88,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HF8FBFA&\3c&HFFF8F5&\pos(93.586,162.859)\clip(m 102 161 l 205 161 204 196 533 201 534 323 84 317 94 161)}m 0 0 l 500 0 500 200 0 200
+Dialogue: 2,0:13:39.13,0:13:42.88,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs28\bord0\blur0.4\c&H181B32&\pos(103.138,162.933)}Likopin\N\N{\b0\c&H272A3D&}Yuki es franca y parece que tiene buena personalidad. Yo soy una chica y quiero apoyarla de verdad.
+Dialogue: 1,0:13:43.59,0:13:46.55,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HEEEEEC&\3c&HFFF8F5&\pos(168.707,13.936)}m 0 0 l 325 0 325 70 0 70
+Dialogue: 2,0:13:43.59,0:13:46.55,Cart_C_Ari,CARTEL,0,0,0,,{\fs28\bord0\blur0.4\c&H181B32&\pos(349.538,20)}Akane\h\h\hGustar\h\h\h#AmorAhora
+Dialogue: 1,0:13:43.59,0:13:46.56,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HFAFBF9&\3c&HFFF8F5&\pos(82.729,162.859)\clip(m 102 161 l 205 161 204 196 572 201 570 323 72 316 77 159)}m 0 0 l 520 0 520 200 0 200
+Dialogue: 2,0:13:43.59,0:13:46.56,Cart_C_Ari,CARTEL,0,0,0,,{\fs28\bord0\blur0.4\c&H181B32&\pos(319.824,208.571)}No hay resultados para\N"Akane  Gustar  #AmorAhora"
+Dialogue: 3,0:13:44.84,0:13:48.51,Gen_Italics,,0,0,0,,¿En qué se diferencia Yuki de mí?
+Dialogue: 0,0:13:50.14,0:13:51.90,Gen_Italics,,0,0,0,,Debo destacar más que ella.
+Dialogue: 0,0:13:58.94,0:14:01.18,Gen_Main,,0,0,0,,-Y entonces…\N-¡Ken!
+Dialogue: 0,0:14:01.69,0:14:05.57,Gen_Main,,0,0,0,,Te gustaban los labradores, ¿no?\NAhí hay uno enorme.
+Dialogue: 0,0:14:05.90,0:14:07.07,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:14:16.66,0:14:18.58,Gen_Italics,,0,0,0,,Tengo que luchar.
+Dialogue: 0,0:14:19.67,0:14:22.56,Gen_Italics,,0,0,0,,No solo por mí,\Ntambién por quienes cuentan conmigo.
+Dialogue: 0,0:14:23.38,0:14:25.00,Gen_Main,,0,0,0,,-Vamos.\N-¡Espera!
+Dialogue: 0,0:14:30.22,0:14:32.14,Gen_Main,,0,0,0,,Siempre quedas bien con los chicos.
+Dialogue: 0,0:14:32.60,0:14:34.17,Gen_Main,,0,0,0,,Es muy vergonzoso hacer…
+Dialogue: 0,0:14:39.02,0:14:40.07,Gen_Main,,0,0,0,,¡Corten!
+Dialogue: 0,0:14:40.15,0:14:41.47,Gen_Main,,0,0,0,,Paramos el rodaje.
+Dialogue: 0,0:14:40.69,0:14:43.03,Gen_Main_Up,,0,0,0,,Una toalla. Basta con unos pañuelos.
+Dialogue: 0,0:14:42.02,0:14:43.03,Gen_Main,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:14:43.11,0:14:45.74,Gen_Main,,0,0,0,,¿Cómo le hizo eso\Na la cara de una modelo?
+Dialogue: 0,0:14:43.40,0:14:45.14,Gen_Main_Up,,0,0,0,,En fin, paremos por ahora.
+Dialogue: 0,0:14:45.82,0:14:47.90,Gen_Main,,0,0,0,,¿No tenía mañana una sesión?
+Dialogue: 0,0:14:46.78,0:14:47.90,Gen_Main_Up,,0,0,0,,Akane…
+Dialogue: 0,0:14:48.11,0:14:51.90,Gen_Main,,0,0,0,,Yo no pretendía…
+Dialogue: 0,0:14:52.87,0:14:54.12,Gen_Main,,0,0,0,,Akane.
+Dialogue: 0,0:14:54.20,0:14:55.91,Gen_Main,,0,0,0,,-Yo…\N-¡Akane!
+Dialogue: 0,0:14:58.96,0:15:01.49,Gen_Main,,0,0,0,,Tranquila, cálmate.
+Dialogue: 0,0:15:01.92,0:15:04.66,Gen_Main,,0,0,0,,Te entiendo. Estás agobiada.
+Dialogue: 0,0:15:05.05,0:15:07.30,Gen_Main,,0,0,0,,Sé que trabajas duro.
+Dialogue: 0,0:15:08.55,0:15:13.10,Gen_Main,,0,0,0,,Querías cumplir con las expectativas\Ny hacer algo que no es tu punto fuerte.
+Dialogue: 0,0:15:13.18,0:15:15.38,Gen_Main,,0,0,0,,Perdiste de vista\Nlo que estabas haciendo.
+Dialogue: 0,0:15:17.31,0:15:18.39,Gen_Main,,0,0,0,,Lo siento.
+Dialogue: 0,0:15:18.77,0:15:21.43,Gen_Main,,0,0,0,,Tu cara… Y tenías una sesión de fotos…
+Dialogue: 0,0:15:24.61,0:15:25.98,Gen_Main,,0,0,0,,Tranquila.
+Dialogue: 0,0:15:26.48,0:15:28.74,Gen_Main,,0,0,0,,Pueden arreglar esto con Photoshop.
+Dialogue: 0,0:15:28.82,0:15:30.73,Gen_Main,,0,0,0,,No afectará a mi trabajo.
+Dialogue: 0,0:15:36.83,0:15:38.70,Gen_Main,,0,0,0,,¿Me odias?
+Dialogue: 0,0:15:42.46,0:15:43.92,Gen_Main,,0,0,0,,No.
+Dialogue: 0,0:15:44.46,0:15:46.33,Gen_Main,,0,0,0,,Eres fuerte y dulce…
+Dialogue: 0,0:15:46.71,0:15:47.87,Gen_Main,,0,0,0,,Me gustas.
+Dialogue: 0,0:15:49.21,0:15:53.39,Gen_Main,,0,0,0,,Y tú a mí.\NEres muy trabajadora y lo das todo.
+Dialogue: 0,0:15:53.47,0:15:55.31,Gen_Main,,0,0,0,,Así que no estoy enojada.
+Dialogue: 0,0:15:55.60,0:15:56.85,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:15:56.93,0:16:00.84,Gen_Main,,0,0,0,,No están rodando,\Nno tendría sentido actuar ahora.
+Dialogue: 0,0:16:05.06,0:16:06.82,Gen_Italics,,0,0,0,,De haber estado en la escuela,
+Dialogue: 0,0:16:06.90,0:16:10.78,Gen_Italics,,0,0,0,,habría sido una de esas cosas\Ndonde una fiesta lo resuelve todo.
+Dialogue: 0,0:16:11.65,0:16:14.65,Gen_Italics_top,,0,0,0,,Pero aunque la gente\Nya haya resuelto el problema…
+Dialogue: 0,0:16:13.74,0:16:16.00,Cart_A_Tre,CARTEL,0,0,0,,{\shad2\blur3\bord0.5\fs10\c&HEFF2F3&\fnComic Sans MS\pos(546.667,9.333)\3c&H4E5050&\4c&H4E5050&\4a&H9A&}Mi amor con una estrella empieza ahora
+Dialogue: 0,0:16:13.74,0:16:16.00,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax-0.1\fs14\bord0\c&H6025C1&\pos(19.201,309.6)}Akane golpeó a Yuki,\Ny ahora…
+Dialogue: 1,0:16:17.50,0:16:25.50,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&HF9FCFC&\3c&H15192B&\pos(407.432,12.706)}m 0 0 l 235 0 235 103 0 103
+Dialogue: 2,0:16:17.50,0:16:25.50,Cart_C_Ari,CARTEL,0,0,0,,{\an7\b0\bord\blur0.2\fs14\3c&HEEEFEC&\move(413.231,12.615,413.231,-335,18,7984)\clip(407.667,13.333,625.333,89.185)}Akane Kurokawa\N\N\N\N{\bord0\fs12}Esta es la punta del iceberg. No hay duda\Nde que Akane hace cosas mucho peores\Nmientras no la filman\N\NHazeru Marron\N¿Qué? Akane Kurokawa es una molestia.\N\NYun\NDeberían arrestarla por agresión.\NPobre Yuki.\N\NItou\NEsta chica tan modesta no debería\Nintentar destacar de golpe.\N\Nkieic\NSabía que esa chica estaba equivocada.\N\NRaika@Doramaaka\NAsí que Akane… Ya hizo esto\Nen otra ocasión. No está cualificada\Npara salir en TV. Me enoja mucho.\N\NAKIRA\NNo puedo creer que una chica sin presencia\Nhaya tocado a Yuki xD\NEspero que la expulsen.\N\NYurumeruyume\NEsa loca es un fastidio.\N\N@2u9uFkVL\NInternet no se lo perdonará.\N\NGuitarrista Kuroneko\NEs tan mala que pierde los estribos\Ny lastima a otra persona
+Dialogue: 0,0:16:26.96,0:16:29.06,Gen_Italics,,0,0,0,,Internet no se lo perdonará.
+Dialogue: 1,0:16:29.96,0:16:33.47,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HF8FBF9&\3c&H15192B&\pos(98.099,114.706)\clip(m 91 213 l 96 111 351 116 350 145 639 146 638 231)}m 0 0 l 590 0 590 120 0 120
+Dialogue: 2,0:16:29.96,0:16:33.47,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\blur0.4\an7\fs14\c&H22263D&\pos(103.765,123.529)}Mi amor con una estrella empieza ahora\N\N\N{\fs20\b0}Gracias por haber visto el programa.\NYa queremos saber la opinión de todos.
+Dialogue: 1,0:16:34.43,0:16:41.89,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&HF9FCFC&\3c&H15192B&\pos(407.432,12.706)}m 0 0 l 245 0 245 150 0 150
+Dialogue: 2,0:16:34.43,0:16:41.89,Cart_C_Ari,CARTEL,0,0,0,,{\an7\b1\bord0\blur0.2\fs12\3c&HEEEFEC&\move(413.231,12.615,413.231,-520,855,7445)\clip(407.667,13.333,637.025,124.385)}Kisaragi\N{\b0}Como fan de "Amor Ahora", escúchame.\NDeberías haberte quedado en las sombras\Nsin hacer nada hasta que acabara\Nel programa.\N¿Por qué tuviste que entrometerte\Nen el último minuto?\NNo metas a otros en tus delirios egoístas.\NEres un problema para el programa.\N\N{\b1}MAGO\N{\b0}Deberías haberte quedado\Nsiendo una idol pobre.\NCuando agredes a alguien, tu vida\Nllega a su fin, ¿no?\NPor favor, no vuelvas a aparecer.\N\N{\b1}mmmm\N{\b0}La desesperación patética con la que intentó\Nvolver a la etapa final del programa se veía\Na kilómetros. Debería haberlo dejado antes\Nde hacer algo así. ¿Por qué eligieron\Na una chica así?\N\N{\b1}Yumeshi\N{\b0}¿Quién es Akane? Es como:\N"¿Tú estabas en el programa?".\N\N{\b1}Tara\N{\b0}Nunca antes en el programa alguien\Nhabía obrado tan mal. Apareces de pronto\Ny causas problemas a todos,\Ny con esa actitud, tu personalidad es horrible.\NOjalá no hubieras estado allí.\N\N{\b1}S.S\N{\b0}Nunca antes me había sentido tan disgustado\Nviendo "Amor Ahora".\NDejé el programa al momento.\N\N{\b1}Pyuuki\N{\b0}Estaba pensando que "Amor Ahora"\Nse volvió aburrido y caí en la cuenta\Ncuando intentaste meterte a la fuerza.\NDeberías desaparecer.\N\N{\b1}Akamimoza\N{\b0}Más o menos todas las mujeres son como tú.\NNo cumplen con sus deberes,\Nreivindican sus derechos y chillan\Ncuando no sale como ellas quieren.\NQué asco me da. Seguro que todas las idols\Nson iguales.\N\N{\b1}ALlia\N{\b0}Una idol de segunda no debería ser\Ntan arrogante.
+Dialogue: 0,0:16:42.60,0:16:45.26,Gen_Italics,,0,0,0,,Supuse que pasaría esto.
+Dialogue: 0,0:16:46.56,0:16:50.60,Gen_Italics,,0,0,0,,Creía que si me disculpaba,\Nla gente me perdonaría.
+Dialogue: 0,0:16:47.65,0:16:52.03,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HF7FAF9&\3c&H15192B&\pos(61.791,156.552)\clip(m 83 142 l 646 140 650 283 23 279 36 161)}m 0 0 l 700 0 700 150 0 150
+Dialogue: 2,0:16:47.65,0:16:52.07,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\blur0.4\an7\fs40\c&H22263D&\pos(90.842,159.221)}Oí el punto de vista de mucha gen
+Dialogue: 2,0:16:48.11,0:16:52.07,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\blur0.4\an7\fs40\c&H22263D&\pos(90.842,210.913)}Lo {\c&H22263D&\1a&HFF&\t(1440,1440,\1a&H00&)}si{\c&H22263D&\1a&HFF&\t(1815,1815,\1a&H00&)}en{\c&H22263D&\1a&HFF&\t(2024,2024,\1a&H00&)}to {\c&H22263D&\1a&HFF&\t(2441,2441,\1a&H00&)}mu{\c&H22263D&\1a&HFF&\t(2649,2649,\1a&H00&)}chí{\c&H22263D&\1a&HFF&\t(2691,2691,\1a&H00&)}si{\c&H22263D&\1a&HFF&\t(3025,3025,\1a&H00&)}mo{\c&H22263D&\1a&HFF&\t(3567,3567,\1a&H00&)}.
+Dialogue: 0,0:16:51.53,0:16:56.36,Gen_Italics,,0,0,0,,Debido a mi contrato, no puedo hablar\Nde lo que no se vio en la tele,
+Dialogue: 0,0:16:56.87,0:17:00.78,Gen_Italics,,0,0,0,,pero si me explicara lo mejor posible\Ny me disculpara…
+Dialogue: 0,0:16:59.74,0:17:01.21,Cart_A_Tre,CARTEL,0,0,0,,{\bord4\fs50\c&HF9F9F6&\3c&HECC346&\t(1280,1280,\3c&HEED283&)\pos(320,62.462)}Tuitear
+Dialogue: 0,0:17:01.75,0:17:03.56,Gen_Italics,,0,0,0,,Esa fue la señal.
+Dialogue: 1,0:17:03.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(22.861,29.849)}m 0 0 l 210 0 210 50 0 50
+Dialogue: 2,0:17:03.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(31.428,33.143)}pes\N{\b0}¿Por qué sigues respirando?
+Dialogue: 7,0:17:03.75,0:17:05.66,Gen_Main_Up,,0,0,0,,Ver tu cara empeora mis náuseas.
+Dialogue: 7,0:17:04.12,0:17:07.04,Gen_Main,,0,0,0,,Qué asco das, qué asco de voz.\NNo eres nadie.
+Dialogue: 1,0:17:04.21,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(323.784,78.464)}m 0 0 l 210 0 210 50 0 50
+Dialogue: 2,0:17:04.21,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(331.12,82.989)}Miri\N{\b0}Arrepiéntete de haber nacido.
+Dialogue: 1,0:17:04.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(176.707,228.002)}m 0 0 l 210 0 210 50 0 50
+Dialogue: 2,0:17:04.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(183.428,232.527)}Sanbonsen\N{\b0}¿No te da vergüenza estar viva?
+Dialogue: 1,0:17:05.08,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(72.707,127.079)}m 0 0 l 275 0 275 75 0 75
+Dialogue: 2,0:17:05.08,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(81.89,133.45)}Minori\N{\b0}Cuando sales en pantalla, pierdo el interés\Nen ver el programa. Desaparece.
+Dialogue: 1,0:17:05.33,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(381.63,151.079)}m 0 0 l 217 0 217 50 0 50
+Dialogue: 2,0:17:05.33,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(388.352,153.758)}Kuru\N{\b0}Ver tu cara empeora mis náuseas.
+Dialogue: 3,0:17:05.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(336.092,197.848)}m 0 0 l 305 0 305 90 0 90
+Dialogue: 4,0:17:05.71,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(342.198,202.989)}RINRIN\N{\b0}¿Creías que te lo perdonarían si te disculpabas?\NTe golpearía si te viera por ahí.\NPero me disculparé, así que perdóname, ¿sí?
+Dialogue: 3,0:17:05.83,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(336.092,85.848)}m 0 0 l 270 0 270 60 0 60
+Dialogue: 4,0:17:05.83,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(342.198,89.758)}Pa\N{\b0}Desaparecer sería su única opción posible.
+Dialogue: 3,0:17:05.96,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(30.861,82.771)}m 0 0 l 220 0 220 40 0 40
+Dialogue: 4,0:17:05.96,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\b0\c&H353B4E&\pos(39.429,89.758)}Deja el país, eres una vergüenza.
+Dialogue: 3,0:17:06.08,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(176.092,43.386)}m 0 0 l 243 0 243 40 0 40
+Dialogue: 4,0:17:06.08,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\b0\c&H353B4E&\pos(181.583,50.989)}Todos se alegrarían si desaparecieras.
+Dialogue: 5,0:17:06.21,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\fscx93\fscy74\c&HFDFEFD&\3c&H15192B&\pos(291.169,108.617)}m 0 0 l 240 0 240 60 0 60
+Dialogue: 6,0:17:06.21,0:17:07.04,Cart_C_Ari,CARTEL,0,0,0,,{\an7\fs14\bord0\c&H353B4E&\pos(297.891,114.989)}Owiyasu\N{\b0}Te atreves a salir en TV con esa cara
+Dialogue: 0,0:17:08.96,0:17:10.71,Gen_Italics,,0,0,0,,MEMcho me lo mencionó.
+Dialogue: 0,0:17:11.21,0:17:13.67,Gen_Main,,0,0,0,,La gente va en masa\Npor quien se disculpa.
+Dialogue: 0,0:17:14.09,0:17:17.89,Gen_Main,,0,0,0,,"Disculparse significa admitir\Nque hiciste algo malo, ¿no?
+Dialogue: 0,0:17:17.97,0:17:21.30,Gen_Main,,0,0,0,,Como hiciste algo malo,\Npuedo apedrearte, ¿verdad?".
+Dialogue: 0,0:17:21.56,0:17:23.06,Gen_Main,,0,0,0,,Algo así.
+Dialogue: 0,0:17:23.14,0:17:26.56,Gen_Main,,0,0,0,,Disculparse se ve como algo razonable\Npara un japonés,
+Dialogue: 0,0:17:26.64,0:17:29.56,Gen_Main,,0,0,0,,pero es la peor táctica\Npara luchar contra las críticas.
+Dialogue: 1,0:17:30.52,0:17:34.99,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&H9FA19A&\3c&H1A1B16&\pos(13.631,16.309)}m 0 0 l 170 0 170 115 0 115
+Dialogue: 2,0:17:30.52,0:17:34.99,Cart_C_Ari,CARTEL,0,0,0,,{\fs14\an7\bord0\c&H3D3734&}Maboudoufu\N{\b0\c&H453C3A&}Lo siento mucho por Yuki.\NDiscúlpate muriendo.\N\N{\b1\c&H3D3734&}Senrijuu\N{\b0\c&H453C3A&}Piérdete, fea.
+Dialogue: 0,0:17:31.65,0:17:34.61,Gen_Italics,,0,0,0,,Hice algo malo, así que es natural.
+Dialogue: 0,0:17:35.28,0:17:37.07,Gen_Italics,,0,0,0,,Así es como se sienten todos.
+Dialogue: 0,0:17:37.91,0:17:39.65,Gen_Italics,,0,0,0,,No puedo apartar la mirada.
+Dialogue: 0,0:17:40.95,0:17:44.66,Gen_Italics,,0,0,0,,Busqué todas las críticas\Nlo mejor que pude.
+Dialogue: 0,0:17:45.33,0:17:49.57,Gen_Italics,,0,0,0,,Cuanto más sincero es el objetivo,\Nmás sufre por ellas.
+Dialogue: 0,0:17:49.88,0:17:52.26,Gen_Italics,,0,0,0,,Es mejor ignorar las críticas.
+Dialogue: 0,0:17:52.34,0:17:56.04,Gen_Italics,,0,0,0,,Porque se toman esos comentarios\Nmuy en serio.
+Dialogue: 0,0:17:58.64,0:18:02.42,Gen_Italics,,0,0,0,,Cuando cerré los ojos,\Nsolo podía pensar en esas críticas.
+Dialogue: 0,0:18:02.93,0:18:08.89,Gen_Italics,,0,0,0,,Me forcé a dormir, diciéndome\Nque al día siguiente se habría acabado.
+Dialogue: 0,0:18:10.73,0:18:13.56,Gen_Italics,,0,0,0,,Pero eso no iba a pasar nunca.
+Dialogue: 0,0:18:14.48,0:18:18.44,Gen_Main,,0,0,0,,Akane, ¿estás bien?\NNo tienes buen aspecto.
+Dialogue: 0,0:18:19.28,0:18:20.45,Gen_Main,,0,0,0,,Estoy bien.
+Dialogue: 0,0:18:20.53,0:18:22.57,Gen_Main,,0,0,0,,¿No quieres ir mañana a clases?
+Dialogue: 0,0:18:22.66,0:18:25.07,Gen_Main,,0,0,0,,No, iré.
+Dialogue: 0,0:18:31.84,0:18:33.34,Gen_Main,,0,0,0,,¿Viste lo que hizo Akane?
+Dialogue: 0,0:18:33.42,0:18:36.01,Gen_Main,,0,0,0,,Qué locura. Supuse que haría algo así.
+Dialogue: 0,0:18:36.09,0:18:39.88,Gen_Main,,0,0,0,,Dice estar ocupada trabajando,\Ncomo si fuera importante.
+Dialogue: 0,0:18:39.97,0:18:43.01,Gen_Main,,0,0,0,,No está satisfecha si no demuestra\Nque es mejor que nosotros.
+Dialogue: 0,0:18:43.10,0:18:44.52,Gen_Main,,0,0,0,,Qué asco de chica.
+Dialogue: 0,0:18:44.60,0:18:48.94,Gen_Main,,0,0,0,,Va por ahí con su aire de:\N"No soy como ustedes".
+Dialogue: 0,0:18:49.02,0:18:51.65,Gen_Main,,0,0,0,,Seguro que todos los chicos\Nla están consolando.
+Dialogue: 0,0:18:51.73,0:18:53.05,Gen_Main,,0,0,0,,Seguro que sí.
+Dialogue: 0,0:19:06.12,0:19:09.79,Gen_Main,,0,0,0,,Akane, no tienes buen aspecto.\N¿Te pasa algo?
+Dialogue: 0,0:19:10.08,0:19:12.02,Gen_Main,,0,0,0,,¿Ocurrió algo en el trabajo?
+Dialogue: 0,0:19:12.13,0:19:13.50,Gen_Main,,0,0,0,,No.
+Dialogue: 2,0:19:14.96,0:19:20.47,Cart_C_Ari,CARTEL,0,0,0,,{\bord0\fs24\blur0.4\an7\c&H4C7F4F&\pos(60,53)}327. Anónimo\N\N{\c&H2811DC&}La escoria como ella es producto de una madre\Nque no la crio bien. Es un círculo vicioso xD\N\N\N\N\N{\fs35}\N{\fs24\c&H4C7F4F&}328. Anónimo\N\N{\b0\c&HCD7C46&}Un caso como este hace dudar en la crianza\Nde la gente. Los que crecen con un padre violento\Nse vuelven personas que no dudan en agredir a otros.
+Dialogue: 1,0:19:14.96,0:19:20.47,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\blur0.3\an7\fscx93\fscy74\c&HF9FBFA&\3c&H1A1B16&\pos(35.785,47.694)\clip(m 3 2 l 227 4 228 83 638 84 638 203 226 203 227 232 639 241 637 358 1 358)}m 0 0 l 600 0 600 515 0 515
+Dialogue: 3,0:19:15.04,0:19:19.15,Gen_Main,,0,0,0,,La escoria como ella es producto\Nde una madre que no la crio bien.
+Dialogue: 3,0:19:19.22,0:19:20.47,Gen_Main,,0,0,0,,Es un círculo vicioso.
+Dialogue: 0,0:19:21.18,0:19:23.46,Gen_Italics,,0,0,0,,Lo siento, mamá.
+Dialogue: 0,0:19:24.01,0:19:27.65,Gen_Italics,,0,0,0,,Por ahora, lo mejor será\Nque no tuitees nada.
+Dialogue: 0,0:19:27.72,0:19:31.40,Gen_Italics,,0,0,0,,Lo que digas solo será\Nechar más leña al fuego.
+Dialogue: 0,0:19:31.48,0:19:33.65,Gen_Italics,,0,0,0,,Consúltame cuando quieras decir algo.
+Dialogue: 1,0:19:33.65,0:19:43.28,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,3600)\shad0\p1\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&HF8FBFA&\3c&H1A1B16&\pos(414.298,23.642)}m 0 0 l 235 0 235 115 0 115
+Dialogue: 2,0:19:33.65,0:19:43.28,Cart_C_Ari,CARTEL,0,0,0,,{\fad(0,3600)\bord0\fs12\blur0.4\an7\c&HF66752&\clip(414.222,23.556,632.444,109.333)\move(419.556,50.778,419.556,-206.555,22,9615)}Seguro que su agencia le quitó la cuenta.\NSería terrible que se hiciera ver\Ntodavía más tonta xD\N\N\N\N\N{\c&H427C32&}485. Anónimo\N{\c&H2505DA&}La educación sobre riesgos\Nde su agencia es un desastre.\N\N\N\N\N{\c&H427C32&}486. Anónimo\N{\c&H242643&\b0}El problema es responsabilidad\Nde la agencia.\N\N\N\N\N{\b1\c&H427C32&}487. Anónimo\N{\c&HF8684F&}Busqué a esa tal Akane,\Npero no la conocía de nada.\N\N\N\N\N{\c&H427C32&}488. Anónimo\N{\b0\c&H1E1F37&}Akane le dejó una herida
+Dialogue: 0,0:19:34.56,0:19:39.48,Gen_Italics,,0,0,0,,Cuando se emitió el siguiente episodio,\Nno tuve fuerzas para ver cómo salió.
+Dialogue: 0,0:19:40.03,0:19:42.41,Gen_Italics,,0,0,0,,Pero las críticas volvieron\Na tomar impulso,
+Dialogue: 0,0:19:42.49,0:19:45.65,Gen_Italics,,0,0,0,,así que más o menos\Nme imagino qué se vio.
+Dialogue: 0,0:19:46.24,0:19:48.16,Gen_Italics,,0,0,0,,Supuse que la situación
+Dialogue: 0,0:19:49.00,0:19:53.95,Gen_Italics,,0,0,0,,no se calmaría mientras el programa\Nllamara la atención
+Dialogue: 0,0:19:54.42,0:19:58.59,Gen_Italics,,0,0,0,,y que sería un problema que me seguiría\Ndurante toda mi carrera.
+Dialogue: 0,0:20:04.47,0:20:10.69,Gen_Main,,0,0,0,,La conozco desde hace mucho y cree\Nque es distinta de quienes la rodean.
+Dialogue: 2,0:20:10.77,0:20:14.11,Gen_Main,,0,0,0,,O debería decir\Nque se considera una genio.
+Dialogue: 1,0:20:11.94,0:20:14.40,Cart_A_Tim,CARTEL,0,0,0,,{\bord1\c&HF1EDE6&\3c&HB0989E&\pos(271.333,234)\frz328.8}Compañía teatral Ajisai
+Dialogue: 0,0:20:14.40,0:20:17.32,Gen_Main,,0,0,0,,No creo que piense nunca\Nen el dolor ajeno.
+Dialogue: 0,0:20:17.40,0:20:20.74,Gen_Main,,0,0,0,,¿Esa forma de ser una buena chica\Nera una actuación?
+Dialogue: 0,0:20:20.82,0:20:25.87,Gen_Main,,0,0,0,,De seguro flirtea con los chicos\Ny no se toma en serio su trabajo.
+Dialogue: 0,0:20:25.95,0:20:28.96,Gen_Main,,0,0,0,,Se le ve en la cara\Nque se cree importante.
+Dialogue: 0,0:20:29.04,0:20:32.58,Gen_Main,,0,0,0,,Viene de buena familia, ¿no?\NSeguro que nunca pasó penurias.
+Dialogue: 0,0:20:32.66,0:20:34.80,Gen_Main,,0,0,0,,¿Le gusta a alguien?
+Dialogue: 0,0:20:34.87,0:20:37.50,Gen_Main,,0,0,0,,No importa lo que intente, será inútil.
+Dialogue: 0,0:20:37.79,0:20:39.46,Gen_Main,,0,0,0,,Dudo que tenga amigos.
+Dialogue: 0,0:20:39.80,0:20:43.88,Gen_Main,,0,0,0,,No se lleva bien con la gente,\Ny se ve claramente que está hueca.
+Dialogue: 0,0:20:44.18,0:20:46.74,Gen_Main,,0,0,0,,Es una tonta que actúa sin pensar.
+Dialogue: 0,0:20:47.05,0:20:52.06,Gen_Main,,0,0,0,,La rodean los chicos, y si algo\Nno sale como quiere, se vuelve loca.
+Dialogue: 0,0:20:52.14,0:20:56.15,Gen_Main,,0,0,0,,Seguro que nunca\Nse dejó la piel en nada.
+Dialogue: 0,0:20:56.23,0:20:59.43,Gen_Main,,0,0,0,,Conozco a gente tan egoísta como ella.
+Dialogue: 0,0:20:59.77,0:21:03.56,Gen_Main,,0,0,0,,Estás loca.\NAquí ya no hay sitio para ti.
+Dialogue: 1,0:21:19.79,0:21:23.80,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord1\blur0.3\an7\alpha30\fscx93\fscy74\c&H4F514F&\3c&HF3F5F2&\pos(484.794,54.471)}m 0 0 l 147 0 147 88 0 88
+Dialogue: 2,0:21:19.79,0:21:23.80,Cart_C_Ari,CARTEL,0,0,0,,{\blur3\an7\fs12\bord1\b0\c&HEAEAE7&\1a&HFF&\3c&HEEEEEB&\3a&HB5&\pos(490.438,59.676)}E{\3c&HEEEEEB&\3a&HCF&}sa tal Akane protagonizó\Nuna obra de Lala Lai y era\Nmuy trabajadora\N\N{\fs10}(mostrar más)
+Dialogue: 3,0:21:19.79,0:21:23.80,Cart_C_Ari,CARTEL,0,0,0,,{\blur0.3\an7\fs12\bord0\b0\c&HF0F1EC&\pos(490.438,59.676)}Esa tal Akane protagonizó\Nuna obra de Lala Lai y era\Nmuy trabajadora\N\N{\fs10}(mostrar más)
+Dialogue: 5,0:21:20.04,0:21:26.29,Gen_Main,,0,0,0,,Esa tal Akane protagonizó una obra\Nde Lala Lai y era muy trabajadora.
+Dialogue: 0,0:21:26.80,0:21:31.01,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\blur2\an7\fscx93\fscy74\c&H4F514F&\3c&HF3F5F2&\pos(0.724,40.5)}m 0 0 l 800 0 800 380 0 380
+Dialogue: 2,0:21:26.80,0:21:31.01,Cart_A_Tre,CARTEL,0,0,0,,{\blur3\an4\fs30\bord1\b0\c&HEAEAE7&\1a&HFF&\3c&HEEEEEB&\3a&HB5&\pos(94.286,180)}Pero al ver tanto alboroto,\Nempiezo a pensar que usaba eso \Ncomo gancho comercial.\N\NLa apoyaba hasta ahora,\Npero eso se acabó.
+Dialogue: 3,0:21:26.80,0:21:31.01,Cart_A_Tre,CARTEL,0,0,0,,{\blur0.4\an4\fs30\bord0\b0\c&HF0F1EC&\pos(94.286,180)}Pero al ver tanto alboroto,\Nempiezo a pensar que usaba eso \Ncomo gancho comercial.\N\NLa apoyaba hasta ahora,\Npero eso se acabó.
+Dialogue: 3,0:21:26.88,0:21:31.01,Gen_Main,,0,0,0,,Pero al ver tanto alboroto, empiezo\Na pensar que era un gancho comercial.
+Dialogue: 0,0:21:31.39,0:21:34.47,Gen_Main,,0,0,0,,La apoyaba hasta ahora,\Npero eso se acabó.
+Dialogue: 1,0:21:44.41,0:21:47.28,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFCFFFC&\3c&H000000&\move(7,35,7,-173,18,2854)}m 0 0 l 407 0 407 245 0 245
+Dialogue: 2,0:21:44.41,0:21:47.28,Cart_C_Ari,CARTEL,0,0,0,,{\an7\bord0\blur0.3\fs20\c&H242B42&\move(27,43,27,-165,18,2854)}Ringo\h\h{\c&H8E9097&}@A0lgF2W7y\N\N{\c&H242B42&\b0}Yo iba a su clase en la secundaria\Ny todo el mundo la odiaba xD\NAunque no tenía mucho trabajo,\Nsiempre decía que iba a ensayar o\Ntenía una sesión de fotos y se iba antes.\NSeguro que era una excusa para faltar\Na clases. Y se dice que es ninfómana.
+Dialogue: 5,0:21:44.40,0:21:48.36,Gen_Main,,0,0,0,,Yo iba a su clase en la secundaria\Ny todo el mundo la odiaba.
+Dialogue: 0,0:21:44.40,0:21:48.36,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFCFEFD&\3c&H000000&\move(17,341.714,17,51,28,3948)}m 0 0 l 277 0 277 95 0 95
+Dialogue: 2,0:21:44.40,0:21:48.36,Cart_C_Ari,CARTEL,0,0,0,,{\an7\bord0\blur0.3\fs20\c&H242B42&\move(27,347,27,59,28,3948)}Minori\h\h{\c&H8E9097&}@mi5ni82Vp\N\N{\c&H242B42&\b0}Miren la foto de su anuario xD
+Dialogue: 0,0:21:47.78,0:21:48.36,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF8F7F3&\3c&H000000&\move(244.333,347.714,244.333,311.27,26,568)}m 0 0 l 300 0 300 95 0 95
+Dialogue: 2,0:21:47.78,0:21:48.36,Cart_C_Ari,CARTEL,0,0,0,,{\an8\bord0\blur0.3\fs40\c&H0F131C&\move(395.667,351.001,395.667,311.001,26,568)}Akane Kurokawa
+Dialogue: 0,0:21:48.91,0:21:51.84,Gen_Main,,0,0,0,,Se dice que es una ninfómana.
+Dialogue: 1,0:21:51.83,0:21:55.79,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF7FAF9&\3c&H000000&\pos(103.969,-0.65)\clip(m 97 98 l 97 -2 208 -2 205 26 560 26 562 100)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 1,0:21:51.83,0:21:55.79,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF7F9F9&\3c&H000000&\pos(103.969,270.119)\clip(m 96 273 l 203 271 204 300 639 296 638 337 92 344)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 1,0:21:51.83,0:21:55.79,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HF8FBFA&\3c&H000000&\pos(103.969,176.077)}m 0 0 l 550 0 550 45 0 45
+Dialogue: 2,0:21:51.83,0:21:55.79,Cart_C_Ari,CARTEL,0,0,0,,{\an7\bord0\blur0.3\fs26\c&H1D1F38&\pos(106.111,-1.445)}Taroun\N{\fs24\b0}Sus días como artista se acabaron xD\NNadie contratará a alguien que golpeó\Nla valiosa cara de una modelo xD
+Dialogue: 2,0:21:51.83,0:21:55.79,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\blur0.3\fs24\b0\c&H1D1F38&\pos(106.111,176.333)}Además, Akane es bastante fea, ¿no creen?
+Dialogue: 2,0:21:51.83,0:21:55.79,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\blur0.3\fs26\c&H1D1F38&\pos(106.111,274.247)}Yassan\N{\fs24\b0}Tiene una cara bastante siniestra, ¿verdad?
+Dialogue: 3,0:21:51.91,0:21:54.61,Gen_Main,,0,0,0,,Sus días como artista se acabaron.
+Dialogue: 3,0:21:54.70,0:21:57.84,Gen_Main,,0,0,0,,Nadie la contratará por golpear\Nla valiosa cara de una modelo.
+Dialogue: 0,0:21:57.92,0:21:59.98,Gen_Main,,0,0,0,,Además, Akane es bastante fea, ¿no?
+Dialogue: 1,0:21:59.25,0:22:01.21,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\alpha30\bord1\an7\fscx93\fscy74\3c&HC8C8CD&\c&HEFF1F1&\pos(426.542,7.18)}m 0 0 l 215 0 215 220 0 220
+Dialogue: 2,0:21:59.25,0:22:01.21,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\alpha30\bord1\an7\fscx93\fscy74\3c&HC8C8CD&\c&HF7FAF9&\pos(434.042,31.18)}m 0 0 l 200 0 200 150 0 150
+Dialogue: 2,0:21:59.25,0:22:01.21,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\alpha30\bord1\an7\fscx93\fscy74\3c&HC8C8CD&\c&H3E2EC2&\pos(434.042,13.18)}m 0 0 l 60 0 60 20 0 20
+Dialogue: 2,0:21:59.25,0:22:01.21,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\alpha30\bord1\an7\fscx93\fscy74\3c&HC8C8CD&\c&H3E2EC2&\pos(496.042,145.68)}m 0 0 l 60 0 60 20 0 20
+Dialogue: 3,0:21:59.25,0:22:01.21,Cart_C_Ari,CARTEL,0,0,0,,{\an7\b0\bord0\fs14\c&HF8FBFA&\pos(437.032,13.392)}Solicitud\N\N{\c&H323548&}¿Es consciente de que la web\Nde su empresa tiene a una chica\Nllamada Akane, responsable\Nde un comportamiento\Ntan problemático?\N\NEl {\1a&HFF&\3a&HFF&\t(151,151,\1a&H00&\3a&H00&)}sen{\1a&HFF&\3a&HFF&\t(234,234,\1a&H00&\3a&H00&)}ti{\1a&HFF&\3a&HFF&\t(318,318,\1a&H00&\3a&H00&)}do {\1a&HFF&\3a&HFF&\t(401,401,\1a&H00&\3a&H00&)}co{\1a&HFF&\3a&HFF&\t(485,485,\1a&H00&\3a&H00&)}mún {\1a&HFF&\3a&HFF&\t(568,568,\1a&H00&\3a&H00&)}di{\1a&HFF&\3a&HFF&\t(735,735,\1a&H00&\3a&H00&)}ce {\1a&HFF&\3a&HFF&\t(902,902,\1a&H00&\3a&H00&)}que\N{\1a&HFF&\3a&HFF&\t(985,985,\1a&H00&\3a&H00&)}em{\1a&HFF&\3a&HFF&\t(1069,1069,\1a&H00&\3a&H00&)}ple{\1a&HFF&\3a&HFF&\t(1235,1235,\1a&H00&\3a&H00&)}ar {\1a&HFF&\3a&HFF&\t(1402,1402,\1a&H00&\3a&H00&)}a {\1a&HFF&\3a&HFF&\t(1486,1486,\1a&H00&\3a&H00&)}esa {\1a&HFF&\3a&HFF&\t(1569,1569,\1a&H00&\3a&H00&)}per{\1a&HFF&\3a&HFF&\t(1652,1652,\1a&H00&\3a&H00&)}so{\1a&HFF&\3a&HFF&\t(1819,1819,\1a&H00&\3a&H00&)}na {\1a&HFF&\3a&HFF&\t(1903,1903,\1a&H00&\3a&H00&)}es…\N\N{\c&HF8FBFA&}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\1a&H00&\3a&H00&}Enviar
+Dialogue: 0,0:22:00.17,0:22:02.67,Gen_Main,,0,0,0,,Tiene una actitud\Nbastante siniestra, ¿verdad?
+Dialogue: 1,0:22:01.22,0:22:02.68,Cart_C_Verd,CARTEL,0,0,0,,{\fs30\bord1\blur3\shad2\c&H0200E7&\3c&HFBFEFC&\pos(320.615,91.385)\frz355.5\1a&HFF&\3a&HFF&\4c&H000200&}Yuki {\c&HF10097&}la egoísta
+Dialogue: 2,0:22:01.22,0:22:02.68,Cart_C_Verd,CARTEL,0,0,0,,{\fs30\bord1.5\blur0.1\c&H0200E7&\3c&HFBFEFC&\pos(320.615,91.385)\frz355.5}Yuki {\c&HF10097&}la egoísta
+Dialogue: 1,0:22:01.21,0:22:02.68,Cart_C_Verd,CARTEL,0,0,0,,{\fs30\bord1\blur3\shad2\c&H4100A0&\3c&HFBFEFC&\frz355.5\pos(366.482,217.252)\1a&HFF&\3a&HFF&\4c&H000200&}Akane
+Dialogue: 2,0:22:01.21,0:22:02.68,Cart_C_Verd,CARTEL,0,0,0,,{\fs30\bord1.5\blur0.1\c&H4100A0&\3c&HFBFEFC&\frz355.5\pos(366.482,217.252)}Akane
+Dialogue: 1,0:22:02.67,0:22:07.63,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFBFDFC&\3c&H000000&\2c&HFCFEFC&\pos(282.707,17.197)\clip(281.6,20.4,512.8,76.8)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 1,0:22:02.67,0:22:07.63,Cart_C_Ari,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HD2F3F9&\3c&H000000&\2c&HFCFEFC&\pos(291.278,93.768)\clip(288.571,88,484,191.429)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 2,0:22:02.67,0:22:07.63,Cart_C_Ari,CARTEL,0,0,0,,{\an7\bord0\fs25\blur0.4\pos(284.889,23.111)\c&H181C29&}¡Estuve investigando\Na Akane Kurokawa!\N\N\N{\fs20\b0}\h\h\h- ¿Cirugía plástica?\N\N\h\h\h- ¿Novio?\N\N\h\h\h- ¿Críticas online?
+Dialogue: 1,0:22:02.67,0:22:07.63,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFDFFFD&\3c&H000000&\2c&HFCFEFC&\pos(95.507,205.464)\clip(96.533,207.467,588.267,275.733)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 1,0:22:02.67,0:22:07.63,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFDFFFD&\3c&H000000&\2c&HFCFEFC&\clip(278.071,300.39,514.421,341.579)\pos(183.507,282.387)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 2,0:22:02.67,0:22:07.63,Cart_A_Tre,CARTEL,0,0,0,,{\an7\bord0\fs25\blur0.4\c&H272F46&\pos(101.504,211.418)}Adiós, Akane\N{\b0}Me temo que no te veremos más en la televisión.
+Dialogue: 4,0:22:02.75,0:22:07.63,Gen_Main,,0,0,0,,Adiós, Akane. Me temo\Nque no te veremos más en la televisión.
+Dialogue: 0,0:22:08.13,0:22:10.60,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&HFBFDFB&\3c&H000000&\2c&HFCFEFC&\pos(110.174,132.387)\clip(m 139 132 l 346 131 346 172 422 170 419 246 140 246)}m 0 0 l 550 0 550 125 0 125
+Dialogue: 1,0:22:08.13,0:22:10.60,Cart_A_Tre,CARTEL,0,0,0,,{\an7\blur0.2\fs35\c&H33773A&\bord0\pos(154,130.667)}37. Anónimo\N\N{\c&H1B00DF&}Muérete.
+Dialogue: 1,0:22:14.56,0:22:17.52,Cart_A_Tre,CARTEL,0,0,0,,{\shad0\p1\bord1\alpha40\an7\fscx93\fscy74\c&HDFC7AE&\3c&H4A4536&\2c&HFCFEFC&\pos(11.199,19.104)}m 0 0 l 200 0 200 125 0 125
+Dialogue: 2,0:22:14.56,0:22:17.52,Cart_C_Ari,CARTEL,0,0,0,,{\an7\b0\fs12\c&H553C25&\pos(20,23.294)\3c&HE2CDB5&\3a&H0F&}NOBU\N\N{\3c&HF6F9F5&}¿Estás bien, Akane?\N¿Estás comiendo bien?\N\N\N{\3c&HE1CAB0&}MEM\N\N{\3c&HF6F9F5&}Nos tienes a todos preocupados
+Dialogue: 0,0:22:17.60,0:22:20.98,Gen_Italics,,0,0,0,,Ahora que caigo, no he comido nada.
+Dialogue: 0,0:22:23.95,0:22:24.94,Cart_C_Ari,CARTEL,0,0,0,,{\b0\fs30\c&H0A3B14&\3c&H93F995&\pos(487.111,53.777)}Voy a comer algo
+Dialogue: 0,0:22:24.94,0:22:26.90,Cart_A_Tre,CARTEL,0,0,0,,{\fad(112,0)\an7\b0\fs30\c&H19203D&\3c&HF8FCFA&\pos(159.111,135.377)}No vayas ahora xD\NHay un tifón
+Dialogue: 0,0:22:35.66,0:22:36.90,Gen_Italics,,0,0,0,,Estoy cansada.
+Dialogue: 0,0:22:42.00,0:22:45.33,Gen_Italics,,0,0,0,,Estoy cansada de pensar.
+Dialogue: 0,0:22:52.97,0:22:55.26,Gen_Italics,,0,0,0,,No quiero pensar en nada.
+Dialogue: 0,0:23:14.20,0:23:16.31,Gen_Main,,0,0,0,,¡No! ¡Suéltame!
+Dialogue: 0,0:23:17.20,0:23:18.40,Gen_Main,,0,0,0,,¡Cálmate!
+Dialogue: 0,0:23:20.08,0:23:21.49,Gen_Main,,0,0,0,,No soy tu enemigo.
+Dialogue: 0,0:23:22.00,0:23:23.70,Gen_Main,,0,0,0,,Por favor, cálmate.
+Dialogue: 0,0:23:24.05,0:23:29.93,Cart_A_Tre,CARTEL,0,0,0,,{\i0}{\bord1.5\fnTimes New Roman\c&H1D0E61&\pos(319.571,77.318)}E{\c&HFFFFFF&}pisodio {\c&H1F0E60&}6\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs35\c&HFFFFFF&}Egosurfing
+Dialogue: 0,0:24:57.10,0:24:59.74,Cart_A_Tre,CARTEL,0,0,0,,{\fad(900,0)\bord0\shad0\fs14\c&H949594&\pos(508.833,255.833)}Traducción: Abraham Gayuvas\NEdición: Juan José Cintas\NControl de Calidad: Nicolás Sepúlveda
