@@ -25,8 +25,8 @@ Video Position: 1717
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Copia de Gen_Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6.0,4.0,8,20,20,46,1
-Style: Gen_Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6.0,4.0,2,20,20,36,1
-Style: Gen_Main,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6.0,4.0,2,20,20,36,1
+Style: Gen_Italics,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,6.0,4.0,2,20,20,46,1
+Style: Gen_Main,Trebuchet MS,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6.0,4.0,2,20,20,46,1
 Style: Title,Arial,60,&H00FEFEFE,&H000000FF,&H00090401,&H0022161B,-1,0,0,0,100,100,0,0,1,0,0,3,146,146,270,1
 Style: Sign Board,Arial,68,&H00FFFFFF,&H000000FF,&H00929D8A,&H0022161B,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 Style: Title Mini,Arial,65,&H00010101,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2.7,0,3,15,235,15,1
