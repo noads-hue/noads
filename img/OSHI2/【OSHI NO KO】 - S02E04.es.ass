@@ -1,0 +1,324 @@
+[Script Info]
+Title: ONK_s02e015_tv_br_or_ja_en_v00-sub_spa
+ScriptType: v4.00+
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 2
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,10,30,10,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00000000,&H000000FF,&H32555555,&H002971C2,0,0,0,0,100,100,0,0,1,0,0,2,40,30,20,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:01:53.30,0:01:57.10,Gen_Main,,0,0,0,,Abiko… por favor, escúcheme…
+Dialogue: 0,0:01:57.22,0:01:58.60,Gen_Main,,0,0,0,,¡Raida!
+Dialogue: 0,0:01:59.43,0:02:02.52,Gen_Main,,0,0,0,,-¡¿Qué?! ¡¿Qué pasa?!\N-Entre la multitud que se marchaba…
+Dialogue: 0,0:02:02.69,0:02:05.58,Gen_Main,,0,0,0,,¡estaba la autora de Tokyo Blade, Abiko!
+Dialogue: 0,0:02:06.73,0:02:09.20,Gen_Main,,0,0,0,,-¡Tráela aquí!\N-¡Sí, señor!
+Dialogue: 0,0:02:09.28,0:02:11.85,Gen_Main,,0,0,0,,Hospitalidad…\N¡Tengo que demostrar hospitalidad!
+Dialogue: 0,0:02:13.32,0:02:15.04,Cart_A_Tre,,0,0,0,,TÉ VERDE UMAMESHIYA\NBENTO
+Dialogue: 0,0:02:13.86,0:02:18.41,Gen_Main,,0,0,0,,Vaya, nunca imaginé\Nque vendría a ver el espectáculo, Abiko…
+Dialogue: 0,0:02:18.53,0:02:22.23,Gen_Main,,0,0,0,,De haberlo sabido,\Nle hubiera dado una entrada.
+Dialogue: 0,0:02:22.83,0:02:25.12,Gen_Main,,0,0,0,,Dígame, ¿qué le pareció nuestra obra?
+Dialogue: 0,0:02:25.71,0:02:28.88,Gen_Main,,0,0,0,,Conque así son las obras hoy en día, ¿eh?
+Dialogue: 0,0:02:29.17,0:02:31.71,Gen_Main,,0,0,0,,No fue para nada como pensé que sería.
+Dialogue: 0,0:02:32.17,0:02:35.30,Gen_Main,,0,0,0,,Será una gran referencia\Npara cuando escriba el guion.
+Dialogue: 0,0:02:35.38,0:02:38.05,Gen_Main,,0,0,0,,Ah, cuánto me alegra oír eso.
+Dialogue: 0,0:02:36.36,0:02:38.84,Cart_A_Tre,,0,0,0,,TIEMBLA
+Dialogue: 0,0:02:38.14,0:02:44.19,Gen_Main,,0,0,0,,Y pensar que lo escribirá usted misma…\N¡No puedo esperar a leerlo!
+Dialogue: 0,0:02:44.39,0:02:48.19,Gen_Main,,0,0,0,,El reparto y el equipo estarán encantados\Nde colaborar con la mismísima autora.
+Dialogue: 0,0:02:48.94,0:02:52.65,Gen_Main,,0,0,0,,Aun así, usted es el único\Nque puede hacer algo, Raida.
+Dialogue: 0,0:02:59.91,0:03:01.13,Gen_Main,,0,0,0,,Abiko.
+Dialogue: 0,0:03:02.20,0:03:04.88,Gen_Main,,0,0,0,,Hablemos sin tapujos.
+Dialogue: 0,0:03:05.58,0:03:08.65,Gen_Main,,0,0,0,,Ahora mismo,\Nme encuentro en la cuerda floja.
+Dialogue: 0,0:03:09.13,0:03:14.01,Gen_Main,,0,0,0,,Si no me llevo bien con el editor,\Nno podré asegurarme futuros trabajos.
+Dialogue: 0,0:03:14.22,0:03:19.08,Gen_Main,,0,0,0,,Entre los derechos personales\Nde un escritor está el de la integridad,
+Dialogue: 0,0:03:15.12,0:03:23.84,Cart_A_Tre,,0,0,0,,DERECHOS PERSONALES DEL AUTOR\NDERECHOS QUE PROTEGEN AL AUTOR
+Dialogue: 0,0:03:19.18,0:03:23.85,Gen_Main,,0,0,0,,así que sin su permiso, Abiko,\Nno podemos montar una obra de Tokyo Blade.
+Dialogue: 0,0:03:24.10,0:03:28.85,Gen_Main,,0,0,0,,Por supuesto que es totalmente libre\Nde ejercer su derecho a la integridad.
+Dialogue: 0,0:03:28.94,0:03:31.73,Gen_Main,,0,0,0,,Pero le pido\Nque tenga en cuenta lo siguiente:
+Dialogue: 0,0:03:32.15,0:03:38.05,Gen_Main,,0,0,0,,Es absolutamente posible que el guion\Nque escriba se utilice tal cual.
+Dialogue: 0,0:03:38.11,0:03:41.58,Gen_Main,,0,0,0,,Bien… eso no me molesta en absoluto.
+Dialogue: 0,0:03:41.66,0:03:44.16,Gen_Main,,0,0,0,,No, por favor, piénselo detenidamente.
+Dialogue: 0,0:03:44.62,0:03:48.17,Gen_Main,,0,0,0,,Aunque su guion sea malo,
+Dialogue: 0,0:03:48.50,0:03:53.17,Gen_Main,,0,0,0,,puede que lo tomemos como esté\Npara dar tiempo a los actores de ensayar.
+Dialogue: 0,0:03:53.63,0:03:55.95,Gen_Main,,0,0,0,,Imaginemos que un novelista talentoso…
+Dialogue: 0,0:03:56.05,0:04:00.28,Gen_Main,,0,0,0,,Dibujara guiones gráficos de manga\Npor primera vez, ¿lo haría perfectamente?
+Dialogue: 0,0:04:00.34,0:04:01.89,Gen_Main,,0,0,0,,Claro que no.
+Dialogue: 0,0:04:02.01,0:04:03.97,Gen_Main,,0,0,0,,Lo mismo ocurre con los guiones de teatro.
+Dialogue: 0,0:04:04.18,0:04:08.98,Gen_Main,,0,0,0,,Por más increíbles que sean sus mangas,\N¡su primer guion no será excepcional!
+Dialogue: 0,0:04:10.60,0:04:12.23,Gen_Main,,0,0,0,,Lo diré una vez más.
+Dialogue: 0,0:04:12.31,0:04:18.43,Gen_Main,,0,0,0,,Si ejerce sus derechos de autora,\Npuede que usemos su guion tal y como esté.
+Dialogue: 0,0:04:18.90,0:04:21.99,Gen_Main,,0,0,0,,Es probable\Nque acabe siendo una obra mediocre.
+Dialogue: 0,0:04:22.28,0:04:23.80,Gen_Main,,0,0,0,,¿Me está amenazando?
+Dialogue: 0,0:04:23.87,0:04:26.13,Gen_Main,,0,0,0,,Lo mismo podría decir yo de usted, ¿no?
+Dialogue: 0,0:04:27.50,0:04:30.08,Gen_Main,,0,0,0,,¡Este tipo de negociaciones\Nno son nada nuevo para mí!
+Dialogue: 0,0:04:30.33,0:04:34.46,Gen_Main,,0,0,0,,¡Tengo que proteger los trabajos\Nde más de 100 personas en la obra!
+Dialogue: 0,0:04:34.59,0:04:38.72,Gen_Main,,0,0,0,,¡Trabajo dispuesto a ****** el ****\Na cualquiera de ser necesario!
+Dialogue: 0,0:04:39.93,0:04:42.83,Gen_Main,,0,0,0,,Qué asqueroso… ¿A qué vino eso?
+Dialogue: 0,0:04:42.93,0:04:45.60,Gen_Main,,0,0,0,,Acaba de ver el espectáculo, ¿verdad?
+Dialogue: 0,0:04:46.10,0:04:49.06,Gen_Main,,0,0,0,,El guion lo escribió GOA.
+Dialogue: 0,0:04:50.44,0:04:53.75,Gen_Main,,0,0,0,,¿Podría, por favor, confiar en su trabajo?
+Dialogue: 0,0:04:56.69,0:04:58.70,Gen_Main,,0,0,0,,Llega a un punto intermedio con ellos.
+Dialogue: 0,0:04:58.78,0:05:01.98,Gen_Main,,0,0,0,,Las franquicias mediáticas\Nson trabajos colaborativos.
+Dialogue: 0,0:05:02.07,0:05:05.80,Gen_Main,,0,0,0,,Son un conjunto de tareas\Nque no puedes realizar sola.
+Dialogue: 0,0:05:03.87,0:05:06.60,Cart_A_Tre,,0,0,0,,EPISODIO 6: ¡EL ACOSADOR POR FIN ENSEÑA LOS COLMILLOS!\NEL QUE SALVA A LA CHICA SOLITARIA ES…
+Dialogue: 0,0:05:09.79,0:05:13.83,Gen_Main,,0,0,0,,De acuerdo.\NConfiaré en el trabajo de un profesional.
+Dialogue: 0,0:05:14.71,0:05:17.63,Gen_Main,,0,0,0,,Sin embargo, tengo una condición.
+Dialogue: 0,0:05:20.42,0:05:21.88,Gen_Main,,0,0,0,,Ya veo…
+Dialogue: 0,0:05:22.01,0:05:24.23,Gen_Main,,0,0,0,,Así es como están las cosas.
+Dialogue: 0,0:05:25.72,0:05:29.02,Gen_Main,,0,0,0,,Compartiremos el texto\Nen la nube en tiempo real.
+Dialogue: 0,0:05:29.35,0:05:34.23,Gen_Main,,0,0,0,,Abiko y GOA hablarán por aquí\Nmientras lo revisan.
+Dialogue: 0,0:05:34.65,0:05:38.28,Gen_Main,,0,0,0,,Como productor, este es\Nel mejor acuerdo al que pudimos llegar.
+Dialogue: 0,0:05:38.90,0:05:41.20,Gen_Main,,0,0,0,,Bueno, manos a la obra.
+Dialogue: 0,0:05:43.07,0:05:46.63,Gen_Main,,0,0,0,,De acuerdo. Adelante.
+Dialogue: 0,0:05:46.70,0:05:48.83,Gen_Main,,0,0,0,,De acuerdo, empecemos por la página 1.
+Dialogue: 0,0:05:50.20,0:05:54.65,Gen_Main_Up,,0,0,0,,Abiko, para empezar, no le gusta que Saya\Nhaya acabado siendo tan agresiva, ¿verdad?
+Dialogue: 0,0:05:51.00,0:05:57.17,Gen_Main,,0,0,0,,De este modo, la autora y el guionista\Nse volverán amigos o se enemistarán.
+Dialogue: 0,0:05:55.04,0:06:00.08,Gen_Main_Up,,0,0,0,,Bueno, creo que hay\Notros personajes flojos además de Saya.
+Dialogue: 0,0:05:58.00,0:06:02.18,Gen_Main,,0,0,0,,Muchas sesiones así provocaron\Ndisputas que arruinaron proyectos,
+Dialogue: 0,0:06:01.13,0:06:05.89,Gen_Main_Up,,0,0,0,,Entiendo.\NEntonces, démosle forma según avancemos.
+Dialogue: 0,0:06:02.26,0:06:05.89,Gen_Main,,0,0,0,,por lo que, como mediador,\Neste es un plan totalmente desacertado.
+Dialogue: 0,0:06:06.01,0:06:09.73,Gen_Main,,0,0,0,,Pero, ¡dudo que las cosas\Npuedan empeorar!
+Dialogue: 0,0:06:07.35,0:06:13.23,Gen_Main_Up,,0,0,0,,Sobre la parte con Blade y los aldeanos,\Nquiero que interactúen como en el manga.
+Dialogue: 0,0:06:09.81,0:06:13.23,Gen_Main,,0,0,0,,No hay nada que perder,\N¡así que adelante!
+Dialogue: 0,0:06:13.35,0:06:16.83,Gen_Main_Up,,0,0,0,,¿Se refiere a incluir las líneas\Ndespués de Si te metes conmigo…?
+Dialogue: 0,0:06:14.14,0:06:18.13,Gen_Main,,0,0,0,,Dicho eso,\Nhay algo que me preocupa mucho…
+Dialogue: 0,0:06:18.23,0:06:25.07,Gen_Main_Up,,0,0,0,,De hacer eso, deberíamos reescribir a Ido.\NCreo que será bastante largo…
+Dialogue: 0,0:06:19.90,0:06:21.15,Gen_Main,,0,0,0,,Entonces…
+Dialogue: 0,0:06:21.40,0:06:25.07,Gen_Main,,0,0,0,,¿Qué va a pasar? Solo Dios sabe…
+Dialogue: 0,0:06:25.36,0:06:29.10,Gen_Main,,0,0,0,,Pueden eliminar la escena\Nen la que Blade derrota a los rufianes.
+Dialogue: 0,0:06:29.20,0:06:32.45,Gen_Main,,0,0,0,,En su lugar,\Ndurante la batalla posterior con Tsurugi,
+Dialogue: 0,0:06:32.83,0:06:36.73,Gen_Main,,0,0,0,,agregaremos líneas que harán que Tsurugi\Npueda captar la personalidad de Blade.
+Dialogue: 0,0:06:36.83,0:06:40.70,Gen_Main,,0,0,0,,¿No se desviaría demasiado\Ndel desarrollo de las cosas en el manga?
+Dialogue: 0,0:06:40.80,0:06:44.84,Gen_Main,,0,0,0,,No importa. Lo importante\Nes el corazón de los personajes.
+Dialogue: 0,0:06:44.97,0:06:48.28,Gen_Main,,0,0,0,,Mientras eso no cambie,\Npodemos hacer lo que sea.
+Dialogue: 0,0:06:48.35,0:06:49.85,Gen_Main,,0,0,0,,Ya veo…
+Dialogue: 0,0:06:49.93,0:06:53.75,Gen_Main,,0,0,0,,Empiezo a tener una idea más clara\Nde cuáles son sus límites.
+Dialogue: 0,0:06:53.85,0:06:59.86,Gen_Main,,0,0,0,,En ese caso, ¿y si después de la batalla,\NBlade apoya su espada en el hombro y habla?
+Dialogue: 0,0:06:59.98,0:07:03.82,Gen_Main,,0,0,0,,Sí, eso quedaría muy bien.\NPor fin lo va entendiendo.
+Dialogue: 0,0:07:04.24,0:07:07.15,Gen_Main,,0,0,0,,Entonces, hagamos esto aquí…
+Dialogue: 0,0:07:07.24,0:07:08.83,Gen_Main,,0,0,0,,¿Eh? ¿Por qué?
+Dialogue: 0,0:07:08.91,0:07:13.55,Gen_Main,,0,0,0,,Puede ser difícil de imaginar\Nsi no sabe cómo funciona el escenario,
+Dialogue: 0,0:07:13.62,0:07:17.93,Gen_Main,,0,0,0,,pero moverse frente a las pantallas al hablar\Ndebería dar la sensación de viajar.
+Dialogue: 0,0:07:18.00,0:07:20.78,Gen_Main,,0,0,0,,Tiene sentido…\NMe parece buena idea.
+Dialogue: 0,0:07:20.88,0:07:23.65,Gen_Main,,0,0,0,,Carezco de ese tipo\Nde conocimientos y experiencia.
+Dialogue: 0,0:07:23.71,0:07:28.33,Gen_Main,,0,0,0,,Bueno, así es como me gano la vida.\NLo parezca o no, soy muy solicitado.
+Dialogue: 0,0:07:29.68,0:07:34.23,Gen_Main,,0,0,0,,Eso me recuerda que vi una obra\Npara la que escribió el guion.
+Dialogue: 0,0:07:34.31,0:07:37.19,Gen_Main,,0,0,0,,Oh… ¿Qué le pareció?
+Dialogue: 0,0:07:37.98,0:07:39.38,Gen_Main,,0,0,0,,Pues…
+Dialogue: 0,0:07:40.15,0:07:42.48,Gen_Main,,0,0,0,,me gustó mucho.
+Dialogue: 0,0:07:44.57,0:07:46.86,Gen_Main,,0,0,0,,¡Es el tipo de cosas que suelo escribir!
+Dialogue: 0,0:07:47.36,0:07:50.45,Gen_Main,,0,0,0,,¡Saque a relucir ese sentimiento también\Nen la obra de Tokyo Blade!
+Dialogue: 0,0:07:50.53,0:07:53.87,Gen_Main,,0,0,0,,¿Está segura?\NEso alterará bastante el ambiente.
+Dialogue: 0,0:07:54.04,0:07:58.46,Gen_Main,,0,0,0,,Me parece súper fantástico.\NSigamos potenciando sus puntos fuertes.
+Dialogue: 0,0:07:58.58,0:08:01.98,Gen_Main,,0,0,0,,Bueno, entonces resumamos\Nesta parte usando efectos escénicos.
+Dialogue: 0,0:08:02.04,0:08:05.85,Gen_Main,,0,0,0,,-Eliminemos esta parte también.\N-También podemos cortar esta línea, ¿no?
+Dialogue: 0,0:08:06.88,0:08:09.58,Gen_Main,,0,0,0,,¡La actuación debería bastar\Npara representar esta parte!
+Dialogue: 0,0:08:10.30,0:08:12.18,Gen_Main,,0,0,0,,¡Ahora sí que nos entendemos!
+Dialogue: 0,0:08:12.35,0:08:15.33,Gen_Main,,0,0,0,,-¡Saquemos esto también!\N-¡Adiós a todo esto!
+Dialogue: 0,0:08:25.90,0:08:29.40,Gen_Main,,0,0,0,,Gracias a GOA,\N¡ahora sí tenemos un guion de calidad!
+Dialogue: 0,0:08:29.49,0:08:32.82,Gen_Main,,0,0,0,,¡Puedo imaginarme al reparto\Ninterpretando las escenas!
+Dialogue: 0,0:08:33.16,0:08:35.58,Gen_Main,,0,0,0,,Sí, ya lo creo…
+Dialogue: 0,0:08:35.66,0:08:40.04,Gen_Main,,0,0,0,,Abiko, y todos,\Ngracias por trabajar toda la noche.
+Dialogue: 0,0:08:40.29,0:08:42.78,Gen_Main,,0,0,0,,¡Muy bien, ya me voy!
+Dialogue: 0,0:08:42.88,0:08:44.63,Gen_Main,,0,0,0,,Con permiso.
+Dialogue: 0,0:08:47.55,0:08:49.00,Gen_Main,,0,0,0,,¿GOA…?
+Dialogue: 0,0:08:49.09,0:08:52.83,Gen_Main,,0,0,0,,Uf… Empezamos a divertirnos\Ny antes de darme cuenta…
+Dialogue: 0,0:08:53.51,0:08:56.53,Gen_Main,,0,0,0,,¡Lo sabía, es justo lo que temí!
+Dialogue: 0,0:08:56.60,0:09:01.19,Gen_Main,,0,0,0,,Sin duda, cuando los creadores se unen,\N¡tienden a producir algo muy sorprendente!
+Dialogue: 0,0:09:01.44,0:09:04.44,Gen_Main,,0,0,0,,Pero tenemos poco tiempo,\Nasí que tendremos que seguir adelante.
+Dialogue: 0,0:09:05.02,0:09:08.65,Gen_Main,,0,0,0,,Si todo sale bien,\Nserá algo completamente increíble.
+Dialogue: 0,0:09:09.11,0:09:12.85,Gen_Main,,0,0,0,,Maldición…\NSalgo de Guatemala y me meto en Guatepeor.
+Dialogue: 0,0:09:13.64,0:09:15.84,Cart_A_Tre,,0,0,0,,ESTUDIO B
+Dialogue: 0,0:09:15.87,0:09:20.83,Cart_A_Tre,,0,0,0,,GUION REVISADO
+Dialogue: 0,0:09:16.33,0:09:20.83,Gen_Main,,0,0,0,,Cielos…\NQué guion tan descabellado se les ocurrió.
+Dialogue: 0,0:09:21.04,0:09:23.73,Gen_Main,,0,0,0,,Todos los diálogos expositivos\Nfueron eliminados por completo
+Dialogue: 0,0:09:23.83,0:09:27.96,Gen_Main,,0,0,0,,y hay un montón de escenas que dependen\Nexclusivamente de nuestros movimientos.
+Dialogue: 0,0:09:29.05,0:09:33.68,Gen_Main,,0,0,0,,Todo depende de la actuación del elenco,\Nes un guion espectacular.
+Dialogue: 0,0:09:34.09,0:09:37.75,Gen_Main,,0,0,0,,Así que tendremos toda la culpa si falla.
+Dialogue: 0,0:09:37.85,0:09:40.93,Gen_Main,,0,0,0,,Es una tarea bastante difícil.
+Dialogue: 0,0:09:41.10,0:09:45.43,Gen_Main,,0,0,0,,Sí, ¡y ahora la interpretación del guion\Nde Princesa Saya encaja con la mía!
+Dialogue: 0,0:09:45.52,0:09:49.40,Gen_Main,,0,0,0,,De hecho, ¡creo que me permitirá\Ndescubrir una nueva faceta de ella!
+Dialogue: 0,0:09:50.57,0:09:53.68,Gen_Main,,0,0,0,,Definitivamente valdrá la pena\Nestudiarlo a fondo.
+Dialogue: 0,0:09:53.78,0:09:56.83,Gen_Main,,0,0,0,,Pero va a ser difícil de llevar a cabo.
+Dialogue: 0,0:09:56.91,0:09:58.91,Gen_Main,,0,0,0,,No será un problema para mí.
+Dialogue: 0,0:09:59.49,0:10:02.68,Gen_Main,,0,0,0,,Es decir, el anterior\Nme parecía un poco flojo.
+Dialogue: 0,0:10:02.75,0:10:05.10,Gen_Main,,0,0,0,,Este se adapta mejor a mis habilidades.
+Dialogue: 0,0:10:05.17,0:10:08.42,Gen_Main,,0,0,0,,¡Después de todo,\Nactuar es cuestión de hablar con tu cuerpo!
+Dialogue: 0,0:10:08.59,0:10:11.73,Gen_Main,,0,0,0,,Es evidente que fue escrito por GOA.
+Dialogue: 0,0:10:11.80,0:10:18.18,Gen_Main,,0,0,0,,Hemos actuado en varias de sus obras\Ny sabemos captar lo importante, todo bien.
+Dialogue: 0,0:10:18.31,0:10:23.14,Gen_Main,,0,0,0,,Es nuestra oportunidad de demostrar\Nquién es la verdadera estrella de Lala Lai.
+Dialogue: 0,0:10:23.69,0:10:27.48,Gen_Main,,0,0,0,,Todos los miembros de Lala Lai\Nestán muy entusiasmados con el nuevo guion.
+Dialogue: 0,0:10:27.90,0:10:29.11,Gen_Main,,0,0,0,,Pero…
+Dialogue: 0,0:10:31.69,0:10:33.73,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:10:33.82,0:10:36.35,Gen_Main,,0,0,0,,No creo que pueda lograrlo…
+Dialogue: 0,0:10:36.45,0:10:38.65,Gen_Main,,0,0,0,,Apenas nos quedan\Ndos semanas para el show.
+Dialogue: 0,0:10:38.74,0:10:40.83,Gen_Main,,0,0,0,,¿Estaré listo a tiempo?
+Dialogue: 0,0:10:40.99,0:10:45.03,Gen_Main,,0,0,0,,Apuesto a que estas cosas\Nson muy fáciles para ti, Aqua.
+Dialogue: 0,0:10:45.12,0:10:47.48,Gen_Main,,0,0,0,,No, yo no estaría tan seguro de eso…
+Dialogue: 0,0:10:51.30,0:10:53.93,Gen_Main,,0,0,0,,Muy bien, empecemos.
+Dialogue: 0,0:10:54.38,0:10:59.60,Gen_Main,,0,0,0,,¿Así que eres el nuevo líder de Shinjuku?\N¡Es hora probar de qué estás hecho!
+Dialogue: 0,0:10:59.76,0:11:02.60,Gen_Main,,0,0,0,,¡¿Qué tiene de malo despreciar\Na esos matones de Shibuya?!
+Dialogue: 0,0:11:02.68,0:11:06.19,Gen_Main,,0,0,0,,¡Esos miserables mataron\Na mis padres y hermanos!
+Dialogue: 0,0:11:06.35,0:11:09.30,Gen_Main,,0,0,0,,En definitiva, ese grupo es pura escoria.
+Dialogue: 0,0:11:09.40,0:11:14.40,Gen_Main,,0,0,0,,La posibilidad de que nos derroten es\Nuna en un millón, no, una en mil millones.
+Dialogue: 0,0:11:14.70,0:11:18.16,Gen_Main,,0,0,0,,-Hyakume, actúa con más dramatismo.\N-¡Sí, señor!
+Dialogue: 0,0:11:22.70,0:11:24.37,Gen_Main,,0,0,0,,Touki…
+Dialogue: 0,0:11:25.00,0:11:27.46,Gen_Main,,0,0,0,,-Princesa Saya…\N-¡Alto!
+Dialogue: 0,0:11:27.67,0:11:31.34,Gen_Main,,0,0,0,,Touki, esta es tu escena más importante.
+Dialogue: 0,0:11:31.71,0:11:33.55,Gen_Main,,0,0,0,,Ponle más pasión.
+Dialogue: 0,0:11:33.88,0:11:35.23,Gen_Main,,0,0,0,,Lo siento.
+Dialogue: 0,0:11:36.01,0:11:37.95,Gen_Main,,0,0,0,,Es el momento culminante.
+Dialogue: 0,0:11:38.05,0:11:42.18,Gen_Main,,0,0,0,,En medio de la batalla,\NSaya sufre una grave herida y se desmaya.
+Dialogue: 0,0:11:42.26,0:11:44.27,Gen_Main,,0,0,0,,Touki se desespera…
+Dialogue: 0,0:11:44.39,0:11:47.98,Gen_Main,,0,0,0,,Pero Saya vuelve en sí milagrosamente.
+Dialogue: 0,0:11:48.06,0:11:50.48,Gen_Main,,0,0,0,,¿Qué emociones lo invadirían al verla?
+Dialogue: 0,0:11:51.06,0:11:53.03,Gen_Main,,0,0,0,,Su ansiedad se aliviaría.
+Dialogue: 0,0:11:53.11,0:11:55.98,Gen_Main,,0,0,0,,Supongo que sentiría\Nmucha alegría y esperanza.
+Dialogue: 0,0:11:56.07,0:11:57.20,Gen_Main,,0,0,0,,Así es.
+Dialogue: 0,0:11:57.57,0:12:00.70,Gen_Main,,0,0,0,,Tu actuación se ajusta al manga original.
+Dialogue: 0,0:12:00.78,0:12:06.08,Gen_Main,,0,0,0,,Pero, en escena, no llegarás al público\Nsi no muestras las emociones aún más.
+Dialogue: 0,0:12:06.33,0:12:08.46,Gen_Main,,0,0,0,,Demuestra más emoción.
+Dialogue: 0,0:12:08.67,0:12:12.21,Gen_Main,,0,0,0,,Esta escena requiere\Nuna actuación emotiva.
+Dialogue: 0,0:12:12.54,0:12:15.38,Gen_Main_Up,,0,0,0,,-¡Enemigo mortal de mi familia!\N-¿Y las pruebas?
+Dialogue: 0,0:12:14.42,0:12:16.13,Gen_Main,,0,0,0,,Muy bien, vamos con eso.
+Dialogue: 0,0:12:15.46,0:12:19.20,Gen_Main_Up,,0,0,0,,¡Maté a tantos\Nque apenas puedo recordarlos a todos!
+Dialogue: 0,0:12:17.72,0:12:19.20,Gen_Main,,0,0,0,,¡Ah!
+Dialogue: 0,0:12:19.80,0:12:24.97,Gen_Main,,0,0,0,,Tranquilo. Es tu primera obra, es normal\Nque no puedas hallar el equilibrio acorde.
+Dialogue: 0,0:12:25.14,0:12:27.45,Gen_Main,,0,0,0,,De a poco, alinea tu actuación con la mía\Ny todo saldrá bien…
+Dialogue: 0,0:12:27.53,0:12:29.23,Gen_Main,,0,0,0,,No lo trates como un bebé.
+Dialogue: 0,0:12:29.60,0:12:32.81,Gen_Main,,0,0,0,,Aqua, nunca has hecho\Nninguna actuación emocional, ¿verdad?
+Dialogue: 0,0:12:33.57,0:12:36.78,Gen_Main,,0,0,0,,En definitiva, la personalidad propia\Nse ve a través de su actuación.
+Dialogue: 0,0:12:37.32,0:12:43.16,Gen_Main,,0,0,0,,Y tú nunca dejas ver tus emociones.\NPor eso no se ven en tu actuación.
+Dialogue: 0,0:12:43.45,0:12:48.29,Gen_Main,,0,0,0,,Hasta ahora, todo lo que hiciste fue\Ncopiar la interpretación de algún actor.
+Dialogue: 0,0:12:48.41,0:12:50.93,Gen_Main,,0,0,0,,Y esto se debe a tu propia naturaleza.
+Dialogue: 0,0:12:51.00,0:12:53.05,Gen_Main,,0,0,0,,Hablas como si lo conocieras por completo.
+Dialogue: 0,0:12:53.13,0:12:58.48,Gen_Main,,0,0,0,,¡Obvio! Al final, soy la que más lleva\Nen contacto con Aqua de todos los de aquí!
+Dialogue: 0,0:12:58.55,0:13:01.68,Gen_Main,,0,0,0,,Es decir, nos conocemos\Ndesde que éramos pequeños.
+Dialogue: 0,0:13:01.80,0:13:04.18,Gen_Main,,0,0,0,,Somos básicamente amigos de la infancia.
+Dialogue: 0,0:13:04.26,0:13:09.38,Gen_Main,,0,0,0,,¡No es comparable con tu relación\Nde novia de negocios que acaba de conocer!
+Dialogue: 0,0:13:11.02,0:13:14.13,Gen_Main,,0,0,0,,Eso dices, pero hace poco\Nque volvimos a relacionarnos.
+Dialogue: 0,0:13:16.32,0:13:21.82,Cart_A_Tre,,0,0,0,,GUION REVISADO
+Dialogue: 0,0:13:16.73,0:13:19.15,Gen_Main,,0,0,0,,Aun así, lo entiendo.
+Dialogue: 0,0:13:19.24,0:13:21.82,Gen_Main,,0,0,0,,Arima tiene toda la razón.
+Dialogue: 0,0:13:22.45,0:13:24.58,Gen_Main,,0,0,0,,No puedo actuar con emociones.
+Dialogue: 0,0:13:25.03,0:13:29.58,Gen_Main,,0,0,0,,¿Esperan que yo actúe con pasión\Ny llore de la emoción? Imposible.
+Dialogue: 0,0:13:32.54,0:13:34.43,Gen_Main,,0,0,0,,Quizás fui demasiado dura con él.
+Dialogue: 0,0:13:34.50,0:13:37.59,Gen_Main,,0,0,0,,Pero si no lo hacía yo,\Nnadie más se lo iba a decir.
+Dialogue: 0,0:13:37.71,0:13:40.43,Gen_Main,,0,0,0,,¿Cómo lloras al actuar, Arima?
+Dialogue: 0,0:13:41.97,0:13:43.05,Gen_Main,,0,0,0,,Mmm…
+Dialogue: 0,0:13:43.13,0:13:47.18,Gen_Main,,0,0,0,,Hay varios métodos, el llanto emocional\Ny el llanto físico entre ellos…
+Dialogue: 0,0:13:47.60,0:13:50.56,Gen_Main,,0,0,0,,pero en el mundo de los niños actores,\Nel más utilizado es…
+Dialogue: 0,0:13:51.35,0:13:52.81,Gen_Main,,0,0,0,,Aqua…
+Dialogue: 0,0:13:53.10,0:13:56.06,Gen_Main,,0,0,0,,si tu madre muriera, ¿qué harías?
+Dialogue: 0,0:13:59.57,0:14:01.25,Gen_Main,,0,0,0,,¡Ese!
+Dialogue: 0,0:14:01.32,0:14:05.43,Gen_Main,,0,0,0,,Lloras al convencerte a ti mismo\Nde que aprecias lo que tienes frente a ti.
+Dialogue: 0,0:14:05.53,0:14:10.83,Gen_Main,,0,0,0,,En este caso, Touki se llena de alegría\Ncuando ve que la Princesa Saya está viva.
+Dialogue: 0,0:14:11.08,0:14:15.28,Gen_Main,,0,0,0,,Así que, básicamente, al actuar,\Nrecuerda las cosas que te hicieron feliz.
+Dialogue: 0,0:14:16.17,0:14:21.08,Gen_Main,,0,0,0,,Incluso tú debes tener una o dos cosas\Nque te hayan hecho feliz, ¿verdad?
+Dialogue: 0,0:14:25.97,0:14:27.93,Gen_Main,,0,0,0,,¡Fuera de mi camino, Tsurugi!
+Dialogue: 0,0:14:28.10,0:14:30.55,Gen_Main,,0,0,0,,¿Intentas entrar\Na Shibuya con las manos vacías?
+Dialogue: 0,0:14:30.64,0:14:33.39,Gen_Main,,0,0,0,,¡Eres una samurái\Naún más temeraria que Blade!
+Dialogue: 0,0:14:33.60,0:14:37.03,Gen_Main,,0,0,0,,Para esta parte, actúa como si siempre\Nfueras a ser más astuto que tu oponente.
+Dialogue: 0,0:14:37.11,0:14:38.36,Gen_Main,,0,0,0,,¡De acuerdo!
+Dialogue: 0,0:14:40.90,0:14:43.78,Gen_Main,,0,0,0,,Momentos en los que fui feliz…
+Dialogue: 0,0:15:28.03,0:15:30.03,Gen_Main,,0,0,0,,No te atrevas a disfrutar de nada.
+Dialogue: 0,0:15:36.50,0:15:37.92,Gen_Main,,0,0,0,,Jamás olvides…
+Dialogue: 0,0:15:38.46,0:15:41.03,Gen_Main,,0,0,0,,que no pudiste salvarla.
+Dialogue: 0,0:15:42.50,0:15:45.35,Gen_Main,,0,0,0,,No tienes derecho a…
+Dialogue: 0,0:15:52.43,0:15:54.93,Gen_Main,,0,0,0,,-¡¿Aqua?!\N-¿Aqua?
+Dialogue: 0,0:15:55.73,0:15:57.69,Gen_Main,,0,0,0,,Oye, ¿qué sucede? ¿Qué te pasa?
+Dialogue: 0,0:15:58.85,0:16:02.28,Gen_Main,,0,0,0,,Estoy bien.\NMe mareé, nada más.
+Dialogue: 0,0:16:03.02,0:16:05.78,Gen_Main,,0,0,0,,Voy a descansar\Nhasta recuperar la compostura.
+Dialogue: 0,0:16:14.20,0:16:17.08,Gen_Main,,0,0,0,,-¿Anemia?\N-Probablemente solo esté con resaca.
+Dialogue: 0,0:16:17.21,0:16:21.65,Gen_Main,,0,0,0,,No estamos hablando de Kindaichi.\NÉl todavía es adolescente.
+Dialogue: 0,0:16:22.63,0:16:23.80,Gen_Main,,0,0,0,,Akane.
+Dialogue: 0,0:16:24.30,0:16:26.93,Gen_Main,,0,0,0,,Eres su novia, ¿verdad?\NVe y quédate con él.
+Dialogue: 0,0:16:27.01,0:16:28.55,Gen_Main,,0,0,0,,De acuerdo.
+Dialogue: 0,0:16:33.18,0:16:35.38,Gen_Main,,0,0,0,,Qué manera\Nde sacar provecho de la situación…
+Dialogue: 0,0:16:42.69,0:16:44.70,Gen_Main,,0,0,0,,Toma, bebe un poco de agua.
+Dialogue: 0,0:16:44.77,0:16:46.35,Gen_Main,,0,0,0,,Gracias.
+Dialogue: 0,0:16:50.66,0:16:54.85,Gen_Main,,0,0,0,,Está sudando, perdió el equilibrio…\NPodría ser un ataque de pánico.
+Dialogue: 0,0:16:55.54,0:16:59.33,Gen_Main,,0,0,0,,Estás muy pálido.\NTal vez deberías acostarte…
+Dialogue: 0,0:16:59.62,0:17:02.25,Gen_Main,,0,0,0,,¿Deberíamos llamar a tu familia\Npedirles que te vengan a buscar…?
+Dialogue: 0,0:17:02.33,0:17:03.53,Gen_Main,,0,0,0,,No.
+Dialogue: 0,0:17:04.13,0:17:06.80,Gen_Main,,0,0,0,,No quiero que mi hermana se entere.
+Dialogue: 0,0:17:07.34,0:17:10.13,Gen_Main,,0,0,0,,Está enfocada en su futuro.
+Dialogue: 0,0:17:10.68,0:17:13.14,Gen_Main,,0,0,0,,No quiero recordarle cosas\Nque no necesita recordar.
+Dialogue: 0,0:17:13.55,0:17:14.85,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:17:14.93,0:17:18.35,Gen_Main,,0,0,0,,Aun así, sería mejor\Nque alguien viniera a buscarte.
+Dialogue: 0,0:17:19.85,0:17:21.60,Gen_Main,,0,0,0,,En ese caso…
+Dialogue: 0,0:17:21.60,0:17:23.56,Cart_A_Tre,,0,0,0,,ESTUDIO GOTANDA\NGOTANDA
+Dialogue: 0,0:17:25.82,0:17:29.03,Gen_Main,,0,0,0,,Yo no soy su padre, ¿sabes?
+Dialogue: 0,0:17:30.65,0:17:31.95,Gen_Main,,0,0,0,,Dios.
+Dialogue: 0,0:17:34.99,0:17:37.63,Gen_Main,,0,0,0,,Veamos, tú eres…
+Dialogue: 0,0:17:37.70,0:17:39.80,Gen_Main,,0,0,0,,¿Su novia, o algo así?
+Dialogue: 0,0:17:42.75,0:17:46.09,Gen_Main,,0,0,0,,¿En serio? Estaba seguro de que…
+Dialogue: 0,0:17:47.42,0:17:48.88,Gen_Main,,0,0,0,,Eh…
+Dialogue: 0,0:17:49.30,0:17:52.93,Gen_Main,,0,0,0,,Veo que ha estado metido\Nen cosas de las que no me enteré.
+Dialogue: 0,0:18:00.39,0:18:03.38,Gen_Main,,0,0,0,,Perdón por irrumpir así.
+Dialogue: 0,0:18:03.48,0:18:07.95,Gen_Main,,0,0,0,,No, no pasa nada.\NSoy casi el único que conoce su situación.
+Dialogue: 0,0:18:08.44,0:18:11.11,Gen_Main,,0,0,0,,Además, tampoco es que sea la primera vez.
+Dialogue: 0,0:18:11.32,0:18:13.99,Gen_Main,,0,0,0,,¿Le había pasado algo así antes?
+Dialogue: 0,0:18:19.83,0:18:23.71,Gen_Main,,0,0,0,,Bueno, ya que eres su novia,\Nsupongo que puedo decírtelo.
+Dialogue: 0,0:18:24.42,0:18:28.28,Gen_Main,,0,0,0,,Hace mucho tiempo,\Nestuvo involucrado en un accidente terrible.
+Dialogue: 0,0:18:28.59,0:18:31.93,Gen_Main,,0,0,0,,Y cuando lo recuerda, a veces termina así.
+Dialogue: 0,0:18:32.97,0:18:34.65,Gen_Main,,0,0,0,,TEPT…
+Dialogue: 0,0:18:35.05,0:18:38.25,Gen_Main,,0,0,0,,¿Quiere decir que tiene\Nrecuerdos psicológicamente traumáticos?
+Dialogue: 0,0:18:38.35,0:18:39.39,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:18:39.97,0:18:42.98,Gen_Main,,0,0,0,,Estuvo en terapia bastante tiempo,
+Dialogue: 0,0:18:43.06,0:18:46.40,Gen_Main,,0,0,0,,pero seguro no quería afligir a su familia.
+Dialogue: 0,0:18:46.73,0:18:48.75,Gen_Main,,0,0,0,,Fingió que se había recuperado del todo.
+Dialogue: 0,0:18:50.07,0:18:53.30,Gen_Main,,0,0,0,,Bueno, supongo que es algo\Nimposible de olvidar.
+Dialogue: 0,0:18:53.95,0:18:56.60,Gen_Main,,0,0,0,,Hasta a mí me atormenta en cierta medida.
+Dialogue: 0,0:18:57.82,0:19:00.83,Gen_Main,,0,0,0,,Voy a trabajar un poco…\NVigila cómo se encuentra.
+Dialogue: 0,0:19:01.58,0:19:03.13,Gen_Main,,0,0,0,,De acuerdo.
+Dialogue: 0,0:19:20.56,0:19:26.83,Gen_Main,,0,0,0,,El penetrante olor a sangre,\Na metal oxidado, es algo inolvidable.
+Dialogue: 0,0:19:27.52,0:19:33.48,Gen_Main,,0,0,0,,La sensación de su mano enfriándose\Npoco a poco nunca se me va de la cabeza.
+Dialogue: 0,0:19:35.78,0:19:39.37,Gen_Main,,0,0,0,,Si hubieras tenido más cuidado…
+Dialogue: 0,0:19:40.07,0:19:42.60,Gen_Main,,0,0,0,,Si la hubieras protegido con tu vida…
+Dialogue: 0,0:19:46.66,0:19:48.05,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:19:50.00,0:19:51.35,Gen_Main,,0,0,0,,Ai.
+Dialogue: 0,0:19:52.75,0:19:57.18,Gen_Main,,0,0,0,,La idol de la que Aqua es fanático\Nmurió hace 14 años.
+Dialogue: 0,0:19:57.18,0:20:05.64,Cart_A_Tre,,0,0,0,,[B KOMACHI] ¡MIRA DE CERCA\NEL ENSAYO DE BAILE DE RUBY!
+Dialogue: 0,0:19:57.63,0:20:00.18,Gen_Main,,0,0,0,,Ai estaba en la misma agencia que él…
+Dialogue: 0,0:20:00.26,0:20:05.20,Gen_Main,,0,0,0,,Y su hermana, que también trabaja\Ncomo idol, revivió a B Komachi.
+Dialogue: 0,0:20:05.89,0:20:09.23,Gen_Main,,0,0,0,,Ambos sienten un gran apego por Ai.
+Dialogue: 0,0:20:09.52,0:20:11.28,Gen_Main,,0,0,0,,Trauma psicológico.
+Dialogue: 0,0:20:11.36,0:20:13.98,Gen_Main,,0,0,0,,El incidente en el que Aqua Hoshino\Nestuvo involucrado de niño.
+Dialogue: 0,0:20:14.32,0:20:15.65,Gen_Main,,0,0,0,,Terapia.
+Dialogue: 0,0:20:15.74,0:20:18.86,Gen_Main,,0,0,0,,El asesinato de Ai.\NLa posibilidad de múltiples culpables.
+Dialogue: 0,0:20:17.24,0:20:18.86,Cart_A_Tre,,0,0,0,,LA OSCURIDAD DEL HOMBRE\NQUE MATÓ A AI DE B KOMACHI
+Dialogue: 0,0:20:19.16,0:20:22.87,Gen_Main,,0,0,0,,La representante de Frutilla Producciones\Ncon la que viven se llama Miyako Saitou.
+Dialogue: 0,0:20:23.20,0:20:25.98,Gen_Main,,0,0,0,,Son niños adoptados con una tutora legal.\NSu padre biológico.
+Dialogue: 0,0:20:26.08,0:20:28.73,Gen_Main,,0,0,0,,La razón por la que usan\Nel apellido Hoshino.
+Dialogue: 0,0:20:30.21,0:20:33.05,Gen_Main,,0,0,0,,El apellido de Ai nunca se hizo público.
+Dialogue: 0,0:20:34.71,0:20:38.26,Gen_Main,,0,0,0,,Por ejemplo,\Nque Ai tuvo un hijo en secreto.
+Dialogue: 0,0:20:46.02,0:20:47.35,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:21:00.82,0:21:02.37,Gen_Main,,0,0,0,,Akane…
+Dialogue: 0,0:21:02.87,0:21:04.85,Gen_Main,,0,0,0,,¿por qué estás llorando?
+Dialogue: 0,0:21:05.70,0:21:08.95,Gen_Main,,0,0,0,,Solo… imaginé algo aterrador.
+Dialogue: 0,0:21:09.54,0:21:11.90,Gen_Main,,0,0,0,,Y cuando pensé ¿y si es verdad?
+Dialogue: 0,0:21:12.75,0:21:14.33,Gen_Main,,0,0,0,,me puse triste…
+Dialogue: 0,0:21:15.42,0:21:19.28,Gen_Main,,0,0,0,,pensando en la soledad que debe sentirse\Nal no poder decírselo a nadie.
+Dialogue: 0,0:21:26.22,0:21:30.93,Gen_Main,,0,0,0,,Pase lo que pase, estoy de tu lado, Aqua.
+Dialogue: 0,0:21:31.98,0:21:36.05,Gen_Main,,0,0,0,,Juntos sobrellevaremos\Nlos momentos dolorosos.
+Dialogue: 0,0:21:38.07,0:21:39.61,Gen_Main,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:21:42.28,0:21:45.87,Gen_Main,,0,0,0,,Ah, nada. Es solo una situación hipotética\Nque se me ocurrió.
+Dialogue: 0,0:22:04.89,0:22:09.60,Cart_A_Tre,,0,0,0,,EPISODIO 15\NACTUACIÓN EMOCIONAL

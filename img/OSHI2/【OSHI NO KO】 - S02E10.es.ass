@@ -1,0 +1,349 @@
+[Script Info]
+Title: ONK_s02e021_tv_br_or_ja_en_v00-sub_spa
+ScriptType: v4.00+
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 2
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,10,30,10,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00000000,&H000000FF,&H32555555,&H002971C2,0,0,0,0,100,100,0,0,1,0,0,2,40,30,20,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:01:34.91,0:01:39.29,Gen_Main,,0,0,0,,Himekawa, tú y yo…\Ncompartimos el mismo padre.
+Dialogue: 0,0:01:40.16,0:01:44.04,Gen_Main,,0,0,0,,Entonces, ¿me contarías…\Nsobre tu padre?
+Dialogue: 0,0:01:44.04,0:01:48.30,Cart_A_Tre,,0,0,0,,HAY UNA GRAN POSIBILIDAD DE QUE LAS\NPERSONAS SEAN MEDIO HERMANOS
+Dialogue: 0,0:01:45.79,0:01:47.65,Gen_Main,,0,0,0,,Medio hermanos…
+Dialogue: 0,0:01:48.80,0:01:52.80,Gen_Main,,0,0,0,,Bueno, es… posible, supongo.
+Dialogue: 0,0:01:59.18,0:02:01.73,Gen_Main,,0,0,0,,Pero este no es lugar para hablar de ello.
+Dialogue: 0,0:02:02.52,0:02:05.69,Gen_Main,,0,0,0,,Además, es hora de recostar al viejo.\NVayámonos a otro lugar.
+Dialogue: 0,0:02:06.23,0:02:07.73,Gen_Main,,0,0,0,,¿Adónde?
+Dialogue: 0,0:02:07.82,0:02:09.65,Gen_Main,,0,0,0,,Eh…
+Dialogue: 0,0:02:10.61,0:02:12.11,Gen_Main,,0,0,0,,¿En mi casa está bien?
+Dialogue: 0,0:02:25.29,0:02:30.05,Gen_Main,,0,0,0,,Viendo que hiciste una prueba de ADN,\N¿será que ya lo sospechabas?
+Dialogue: 0,0:02:31.84,0:02:35.01,Gen_Main,,0,0,0,,-¿Quién es tu madre, Hoshino?\N-No te lo puedo decir.
+Dialogue: 0,0:02:35.93,0:02:37.97,Gen_Main,,0,0,0,,Ya veo, debe ser una artista.
+Dialogue: 0,0:02:38.68,0:02:40.20,Gen_Main,,0,0,0,,Igual que yo, ¿eh?
+Dialogue: 0,0:02:42.35,0:02:44.44,Gen_Main,,0,0,0,,¿Has oído hablar de Airi Himekawa?
+Dialogue: 0,0:02:44.60,0:02:49.55,Gen_Main,,0,0,0,,Sí. Protagonizó un drama matinal.\NAunque es un programa bastante antiguo.
+Dialogue: 0,0:02:49.65,0:02:51.19,Gen_Main,,0,0,0,,Ah, aquí lo tienes.
+Dialogue: 0,0:02:51.61,0:02:53.69,Gen_Main,,0,0,0,,Esto ocurrió cuando tenía\Ncerca de cinco años.
+Dialogue: 0,0:02:53.69,0:02:57.41,Cart_A_Tre,,0,0,0,,¿ENCUENTRAN LOS CUERPOS DE UN MATRIMONIO\NEN UN APARENTE DOBLE SUICIDIO?
+Dialogue: 0,0:02:54.28,0:02:57.41,Gen_Main,,0,0,0,,Esta es mi madre.\NMurió en un suicidio pasional con su marido.
+Dialogue: 0,0:02:58.20,0:03:01.60,Gen_Main,,0,0,0,,Tu padre es Seijuurou Uehara.
+Dialogue: 0,0:03:01.70,0:03:03.65,Gen_Main,,0,0,0,,Era un actor\Nque luchaba por abrirse camino.
+Dialogue: 0,0:03:06.37,0:03:08.08,Gen_Main,,0,0,0,,¿Un doble suicidio?
+Dialogue: 0,0:03:09.13,0:03:11.73,Gen_Main,,0,0,0,,¿Él ya está muerto?
+Dialogue: 0,0:03:16.55,0:03:18.85,Gen_Main,,0,0,0,,¿Cuántos años tienes? ¿Diecisiete?
+Dialogue: 0,0:03:19.93,0:03:24.48,Gen_Main,,0,0,0,,Nuestro padre ya estaba casado\Nantes de que tú nacieras.
+Dialogue: 0,0:03:25.18,0:03:28.48,Gen_Main,,0,0,0,,Parece que le gustaba\Nconquistar a artistas talentosas.
+Dialogue: 0,0:03:29.15,0:03:32.18,Gen_Main,,0,0,0,,Quizás intentaba enmascarar\Nsu complejo de inferioridad
+Dialogue: 0,0:03:32.27,0:03:36.49,Gen_Main,,0,0,0,,acostándose con mujeres talentosas.
+Dialogue: 0,0:03:37.36,0:03:41.33,Gen_Main,,0,0,0,,Nadie sabe la verdadera razón\Npor la que participó en un doble suicidio.
+Dialogue: 0,0:03:41.95,0:03:44.40,Gen_Main,,0,0,0,,Pero tengo una hipótesis.
+Dialogue: 0,0:03:45.37,0:03:49.08,Gen_Main,,0,0,0,,Incluso de niño,\Nyo también odiaba a nuestro padre.
+Dialogue: 0,0:03:49.71,0:03:52.75,Gen_Main,,0,0,0,,¿Por eso tu nombre artístico\Nes el apellido de tu madre?
+Dialogue: 0,0:03:53.05,0:03:56.76,Gen_Main,,0,0,0,,Sí, mi verdadero nombre es Taiki Uehara.
+Dialogue: 0,0:03:57.30,0:04:00.88,Gen_Main,,0,0,0,,Por desgracia, parece que ser\Nmujeriego viene de familia.
+Dialogue: 0,0:04:00.97,0:04:05.13,Gen_Main,,0,0,0,,Verte seducir a Arima\Ny a Kurokawa me desespera.
+Dialogue: 0,0:04:05.22,0:04:08.35,Gen_Main,,0,0,0,,-No hago tal cosa.\N-Sí, claro que sí.
+Dialogue: 0,0:04:08.44,0:04:09.83,Gen_Main,,0,0,0,,Decídete de una vez.
+Dialogue: 0,0:04:09.90,0:04:12.95,Gen_Main,,0,0,0,,Será muy tarde cuando estés\Nen un suicidio pasional como nuestro viejo.
+Dialogue: 0,0:04:13.02,0:04:14.69,Gen_Main,,0,0,0,,Qué mal chiste.
+Dialogue: 0,0:04:15.23,0:04:18.95,Gen_Main,,0,0,0,,¿Algo más que quieras preguntar?\NEstoy dispuesto a responder a cualquier pregunta.
+Dialogue: 0,0:04:22.37,0:04:24.85,Gen_Main,,0,0,0,,No, nada más.
+Dialogue: 0,0:04:24.95,0:04:26.78,Gen_Main,,0,0,0,,Entonces, empecemos a beber otra vez.
+Dialogue: 0,0:04:27.08,0:04:29.00,Gen_Main,,0,0,0,,Qué sensación tan rara.
+Dialogue: 0,0:04:29.08,0:04:33.59,Gen_Main,,0,0,0,,Aunque solo seamos medio hermanos,\Nde pronto estoy con un pariente de sangre.
+Dialogue: 0,0:04:34.21,0:04:36.95,Gen_Main,,0,0,0,,Además, tú también eres actor.
+Dialogue: 0,0:04:37.05,0:04:38.60,Gen_Main,,0,0,0,,Qué gracioso.
+Dialogue: 0,0:04:38.67,0:04:42.55,Gen_Main,,0,0,0,,Pero no te atrevas a llamarme\Nhermano mayor. Sería un horror.
+Dialogue: 0,0:04:42.64,0:04:43.85,Gen_Main,,0,0,0,,No lo haré.
+Dialogue: 0,0:04:47.73,0:04:50.95,Gen_Main,,0,0,0,,¡Oye, Aqua! ¡Solo los delincuentes\Nse quedan en la calle toda la noche!
+Dialogue: 0,0:04:51.02,0:04:52.69,Gen_Main,,0,0,0,,¡No puedo creerlo!
+Dialogue: 0,0:04:54.52,0:04:56.35,Gen_Main,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:04:56.78,0:04:58.05,Gen_Main,,0,0,0,,Nada.
+Dialogue: 0,0:04:58.65,0:05:02.80,Gen_Main,,0,0,0,,Solo me quedé en lo de Himekawa.\NNo hice nada raro.
+Dialogue: 0,0:05:02.87,0:05:05.25,Gen_Main,,0,0,0,,Ah, el tipo que interpreta a Blade.
+Dialogue: 0,0:05:05.58,0:05:09.62,Gen_Main,,0,0,0,,Si fue para tener una noche de hombres,\Nsupongo que está bien.
+Dialogue: 0,0:05:10.75,0:05:12.88,Gen_Main,,0,0,0,,Un día de estos te lo presentaré.
+Dialogue: 0,0:05:13.08,0:05:15.38,Gen_Main,,0,0,0,,¿Eh? ¿Harías eso? Pero ¿por qué?
+Dialogue: 0,0:05:17.46,0:05:19.28,Gen_Main,,0,0,0,,Qué hermano más raro tengo…
+Dialogue: 0,0:05:20.26,0:05:23.70,Gen_Main,,0,0,0,,Nuestro padre murió hace mucho tiempo.
+Dialogue: 0,0:05:26.22,0:05:29.40,Gen_Main,,0,0,0,,El enemigo de Ai ya no está.
+Dialogue: 0,0:05:29.89,0:05:32.50,Gen_Main,,0,0,0,,Entonces, ¿qué hago ahora?
+Dialogue: 0,0:05:32.60,0:05:33.95,Gen_Main,,0,0,0,,¿Qué será de mí?
+Dialogue: 0,0:05:35.11,0:05:36.85,Gen_Main,,0,0,0,,¿Qué hay de la venganza?
+Dialogue: 0,0:05:40.20,0:05:42.08,Cart_A_Tre,,0,0,0,,ARIMA
+Dialogue: 0,0:05:44.03,0:05:47.45,Gen_Main,,0,0,0,,-Hola.\N-¿Adónde te fuiste durante la fiesta?
+Dialogue: 0,0:05:47.66,0:05:50.98,Gen_Main,,0,0,0,,¡Akane también desapareció!\N¡No me digas que…!
+Dialogue: 0,0:05:51.08,0:05:55.21,Gen_Main,,0,0,0,,No es eso. Fui a otro lugar\Ncon el director y Himekawa es todo.
+Dialogue: 0,0:05:55.33,0:05:57.21,Gen_Main,,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:05:57.54,0:06:00.60,Gen_Main,,0,0,0,,¡Cielos! ¡No hagas cosas\Ntan confusas como esa, idiota!
+Dialogue: 0,0:06:00.67,0:06:02.95,Gen_Main,,0,0,0,,¡Tontísimo! ¡Buenas noches!
+Dialogue: 0,0:06:15.85,0:06:17.75,Gen_Main,,0,0,0,,¿Llegaste bien a casa?
+Dialogue: 0,0:06:16.40,0:06:18.60,Cart_A_Tre,,0,0,0,,LOS MENORES NO PUEDEN BEBER,\N¿DE ACUERDO?
+Dialogue: 0,0:06:17.82,0:06:20.75,Gen_Main,,0,0,0,,Los menores no pueden beber, ¿de acuerdo?
+Dialogue: 0,0:06:18.64,0:06:23.80,Cart_A_Tre,,0,0,0,,NO BEBAS AUNQUE\NTE LO PIDAN LOS ADULTOS, ¿ENTENDIDO?
+Dialogue: 0,0:06:20.82,0:06:23.86,Gen_Main,,0,0,0,,No bebas aunque te lo pidan\Nlos adultos, ¿entendido?
+Dialogue: 0,0:06:25.53,0:06:27.83,Gen_Main,,0,0,0,,Estas chicas, por Dios…
+Dialogue: 0,0:06:30.54,0:06:32.18,Gen_Main,,0,0,0,,¿Listo?
+Dialogue: 0,0:06:33.25,0:06:36.03,Gen_Main,,0,0,0,,¿Ya estará todo bien?
+Dialogue: 0,0:06:37.08,0:06:39.50,Gen_Main,,0,0,0,,Ya puedo ser libre…
+Dialogue: 0,0:06:40.71,0:06:44.68,Gen_Main,,0,0,0,,¿y tener una vida feliz?
+Dialogue: 0,0:06:53.56,0:06:55.48,Gen_Main,,0,0,0,,¿Quieres desayunar, Aqua?
+Dialogue: 0,0:06:55.73,0:06:57.73,Gen_Main,,0,0,0,,Estoy haciendo huevos estrellados.
+Dialogue: 0,0:07:07.07,0:07:09.18,Gen_Main,,0,0,0,,Sí, claro.
+Dialogue: 0,0:07:10.03,0:07:11.87,Cart_A_Tre,,0,0,0,,DICIEMBRE\NCRONOGRAMA
+Dialogue: 0,0:07:11.16,0:07:15.83,Gen_Main,,0,0,0,,Estamos a punto de alcanzar\Nlos 20 000 suscriptores en YouTube.
+Dialogue: 0,0:07:16.21,0:07:19.43,Gen_Main,,0,0,0,,Ah, ya veo… ¿Eso es todo?
+Dialogue: 0,0:07:19.50,0:07:24.35,Gen_Main,,0,0,0,,Tenemos que trabajar mucho más.\NEstamos muy lejos de llegar al millón.
+Dialogue: 0,0:07:24.67,0:07:26.90,Gen_Main,,0,0,0,,¿No pueden elogiarme un poquito aunque sea?
+Dialogue: 0,0:07:26.97,0:07:28.60,Gen_Main,,0,0,0,,¡Estamos hablando de 20 000 personas!
+Dialogue: 0,0:07:28.68,0:07:32.50,Gen_Main,,0,0,0,,¡Merezco un poco de crédito por todo\Nlo que hice para que crezca el canal!
+Dialogue: 0,0:07:32.60,0:07:35.33,Gen_Main,,0,0,0,,¿Eh? Pero si solo son 20 000 personas.
+Dialogue: 0,0:07:35.43,0:07:38.52,Gen_Main,,0,0,0,,¡Cielos! ¿No entiendes lo increíble\Nque es tener 20 000 suscriptores?
+Dialogue: 0,0:07:39.10,0:07:43.98,Gen_Main,,0,0,0,,Escucha. ¡Se dice que solo en Japón\Nhay 300 000 canales!
+Dialogue: 0,0:07:44.00,0:07:49.40,Cart_A_Tre,,0,0,0,,10 MIL A 50 MIL: APROX. 20 %
+Dialogue: 0,0:07:44.90,0:07:49.50,Gen_Main,,0,0,0,,El 75 % tiene menos de mil suscriptores…\N¡y cero ingresos!
+Dialogue: 0,0:07:49.44,0:07:55.56,Cart_A_Tre,,0,0,0,,NÚMERO DE SUSCRIPTORES AL CANAL
+Dialogue: 0,0:07:49.57,0:07:52.60,Gen_Main,,0,0,0,,Es una sociedad explotadora\Naún peor que la Edad Media,
+Dialogue: 0,0:07:52.70,0:07:55.63,Gen_Main,,0,0,0,,¡en la que un pequeño porcentaje\Nmonopoliza toda la riqueza!
+Dialogue: 0,0:07:55.70,0:08:01.45,Gen_Main,,0,0,0,,Por otro lado, ¡estamos abriéndonos paso\Nhacia el 10 % de los mejores! ¿No es increíble?
+Dialogue: 0,0:07:59.40,0:08:02.56,Cart_A_Tre,,0,0,0,,DISPARIDAD DE INGRESOS
+Dialogue: 0,0:08:02.59,0:08:07.09,Gen_Main,,0,0,0,,¡No me hablen del millón de suscriptores\Ncuando no saben ni lo más básico, nenitas!
+Dialogue: 0,0:08:07.26,0:08:11.48,Gen_Main,,0,0,0,,¡Este es un obstáculo enorme\Nque solo el 0,1 % de los canales supera!
+Dialogue: 0,0:08:11.55,0:08:15.31,Gen_Main,,0,0,0,,¡Es una cima que se ha alcanzado\Nsobre innumerables cadáveres!
+Dialogue: 0,0:08:20.23,0:08:24.50,Gen_Main,,0,0,0,,Aun así, las ganancias de este mes\Nson algo más de 100 000 yenes, ¿no?
+Dialogue: 0,0:08:24.94,0:08:29.30,Gen_Main,,0,0,0,,Después de restar la parte de la agencia,\Npagarle al editor de los videos
+Dialogue: 0,0:08:29.36,0:08:33.45,Gen_Main,,0,0,0,,y dividirlo entre los miembros,\Nes básicamente una propina.
+Dialogue: 0,0:08:33.53,0:08:35.90,Gen_Main,,0,0,0,,¿No sería mejor conseguir trabajos\Na tiempo parcial?
+Dialogue: 0,0:08:35.99,0:08:38.46,Gen_Main,,0,0,0,,Bueno, esa es la situación actual.
+Dialogue: 0,0:08:38.79,0:08:41.85,Gen_Main,,0,0,0,,Probablemente será así\Nhasta que logremos el éxito.
+Dialogue: 0,0:08:41.92,0:08:45.71,Gen_Main,,0,0,0,,Por ahora, la situación financiera\Ndel canal de B Komachi no es buena.
+Dialogue: 0,0:08:45.98,0:08:48.78,Gen_Main,,0,0,0,,Tenemos que utilizar todos los recursos\Nque tenemos a nuestro alcance.
+Dialogue: 0,0:08:50.68,0:08:54.22,Gen_Main,,0,0,0,,¡Por eso hoy filmaremos un room tour!
+Dialogue: 0,0:08:54.43,0:08:56.38,Gen_Main,,0,0,0,,¡¿Un room tour?!
+Dialogue: 0,0:08:56.47,0:08:57.93,Gen_Main,,0,0,0,,Ah, oí hablar de esos.
+Dialogue: 0,0:08:58.02,0:09:00.23,Gen_Main,,0,0,0,,Mostramos nuestras\Nhabitaciones a los espectadores.
+Dialogue: 0,0:08:58.28,0:09:10.20,Cart_A_Tre,,0,0,0,,CASA CON ALQUILER DE 1,5 MILLONES DE YENES\N¡VIVIENDO SOLA POR PRIMERA VEZ!
+Dialogue: 0,0:09:00.31,0:09:01.80,Gen_Main,,0,0,0,,¡Hay muchos videos de ese tipo!
+Dialogue: 0,0:09:01.90,0:09:06.00,Gen_Main,,0,0,0,,¡Jamás podría hacerlo! ¿A quién le gusta\Nexponerse públicamente de esa manera?
+Dialogue: 0,0:09:06.07,0:09:10.24,Gen_Main,,0,0,0,,Aun si te quedas sin contenido, comenzar a vender\Ntu vida privada es el principio del fin.
+Dialogue: 0,0:09:10.36,0:09:12.73,Gen_Main,,0,0,0,,Vamos, hagámoslo.
+Dialogue: 0,0:09:13.32,0:09:15.95,Gen_Main,,0,0,0,,Si grabamos un room tour…
+Dialogue: 0,0:09:16.41,0:09:19.16,Gen_Main,,0,0,0,,los objetos personales que mostremos\Npueden reclamarse como gastos extras.
+Dialogue: 0,0:09:19.58,0:09:21.12,Gen_Main,,0,0,0,,¡Hagámoslo!
+Dialogue: 0,0:09:21.87,0:09:27.96,Gen_Main,,0,0,0,,¡Bien! Esta es una nueva Cartera de Chl**.\NCostó unos 100 000 yenes.
+Dialogue: 0,0:09:28.04,0:09:31.68,Gen_Main,,0,0,0,,Quería esto porque pensé\Nen hacer streaming de juegos,
+Dialogue: 0,0:09:31.80,0:09:34.68,Gen_Main,,0,0,0,,pero no he usado esta PC gamer\Nrefrigerada por agua para nada.
+Dialogue: 0,0:09:34.76,0:09:37.10,Gen_Main,,0,0,0,,Creo que salió unos 300 000 yenes.
+Dialogue: 0,0:09:37.18,0:09:40.18,Gen_Main,,0,0,0,,Esta es una silla Her*** ***ler *****…
+Dialogue: 0,0:09:40.43,0:09:42.83,Gen_Main,,0,0,0,,Qué cosas caras que compras.
+Dialogue: 0,0:09:42.89,0:09:45.77,Gen_Main,,0,0,0,,Lo hago con dinero de mi propio bolsillo,\Nasí que ¿cuál es el problema?
+Dialogue: 0,0:09:45.90,0:09:50.65,Gen_Main,,0,0,0,,¡Para ser un artista de primera,\Nhay que rodearse de bienes de primera!
+Dialogue: 0,0:09:50.82,0:09:53.93,Gen_Main,,0,0,0,,¡En este mundo, todo se acaba\Nsi te consideran una chica barata!
+Dialogue: 0,0:09:54.03,0:09:57.38,Gen_Main,,0,0,0,,Kana parece querer un estilo de vida\Nsorprendentemente caro…
+Dialogue: 0,0:09:57.45,0:10:01.62,Gen_Main,,0,0,0,,Tomemos un taxi. Pero que sea uno público.
+Dialogue: 0,0:09:57.56,0:10:01.56,Cart_A_Tre,,0,0,0,,TOMEMOS UN TAXI.\NPERO QUE SEA UNO PÚBLICO.
+Dialogue: 0,0:10:02.08,0:10:06.45,Gen_Main,,0,0,0,,Aun así, para una actriz en aprietos,\Nvives en un apartamento bastante bonito.
+Dialogue: 0,0:10:06.54,0:10:10.09,Gen_Main,,0,0,0,,Tengo ahorros y administro bien mi dinero.
+Dialogue: 0,0:10:10.26,0:10:11.70,Gen_Main,,0,0,0,,Todos los artistas deberían vivir
+Dialogue: 0,0:10:11.80,0:10:14.80,Gen_Main,,0,0,0,,en apartamentos con un doble sistema\Nde cierre de seguridad automático.
+Dialogue: 0,0:10:14.93,0:10:18.95,Gen_Main,,0,0,0,,En definitiva, lo que más miedo da\Nde este trabajo son los fans loquitos.
+Dialogue: 0,0:10:19.01,0:10:21.06,Gen_Main,,0,0,0,,Claro, siempre y cuando puedas pagarlo.
+Dialogue: 0,0:10:21.39,0:10:24.08,Gen_Main,,0,0,0,,En fin, tengo un buen consejo para ahorrar.
+Dialogue: 0,0:10:24.14,0:10:27.31,Gen_Main,,0,0,0,,Cuando me compre un auto,\Nhagamos un video sobre él.
+Dialogue: 0,0:10:27.40,0:10:28.68,Gen_Main,,0,0,0,,¿Ahorrar?
+Dialogue: 0,0:10:28.77,0:10:32.30,Gen_Main,,0,0,0,,Los YouTubers suelen filmar\Nsus compras caras, ¿verdad?
+Dialogue: 0,0:10:32.40,0:10:36.80,Gen_Main,,0,0,0,,La mayoría de las veces hacen esos videos\Npara pasar como gasto lo que hayan comprado.
+Dialogue: 0,0:10:36.87,0:10:38.53,Gen_Main,,0,0,0,,Qué realidad tan desagradable.
+Dialogue: 0,0:10:38.78,0:10:42.08,Gen_Main,,0,0,0,,Si tú también quieres filmar\Nun room tour, te ayudo, Ruby.
+Dialogue: 0,0:10:42.16,0:10:46.29,Gen_Main,,0,0,0,,Eh… Pero yo no compro cosas caras…
+Dialogue: 0,0:10:46.42,0:10:51.18,Gen_Main,,0,0,0,,Con esa postura, serás tú quien se arrepienta\Ncuando hagas tu declaración de impuestos.
+Dialogue: 0,0:10:51.25,0:10:55.25,Gen_Main,,0,0,0,,La adultez te ayuda a aprender\Nsobre lo duros que son los impuestos.
+Dialogue: 0,0:10:55.63,0:10:57.39,Gen_Main,,0,0,0,,Lo pensaré.
+Dialogue: 0,0:10:57.72,0:11:02.08,Gen_Main,,0,0,0,,¡Oye! ¿Después puedes filmar\Nmi cocina y otra habitación que tengo?
+Dialogue: 0,0:11:02.18,0:11:04.00,Gen_Main,,0,0,0,,Por supuesto.
+Dialogue: 0,0:11:07.36,0:11:09.76,Cart_A_Tre,,0,0,0,,LA HABITACIÓN DE RUBY
+Dialogue: 0,0:11:20.41,0:11:22.74,Gen_Main,,0,0,0,,¿Debería quitarlas?
+Dialogue: 0,0:11:23.87,0:11:28.75,Gen_Main,,0,0,0,,El hecho de que soy su hija es un secreto\Nque pienso llevarme a la tumba.
+Dialogue: 0,0:11:29.63,0:11:34.17,Gen_Main,,0,0,0,,Pero en lo más profundo de mi ser,\NAi siempre está presente.
+Dialogue: 0,0:11:35.63,0:11:38.68,Gen_Main,,0,0,0,,¿Está bien que oculte eso?
+Dialogue: 0,0:11:39.55,0:11:42.08,Gen_Main,,0,0,0,,Como idol, lo correcto sería…
+Dialogue: 0,0:11:43.60,0:11:46.73,Gen_Main,,0,0,0,,Me pregunto qué diría el doctor.
+Dialogue: 0,0:11:47.85,0:11:52.98,Gen_Main,,0,0,0,,Apuesto a que diría\NHaz lo que quieraso algo así.
+Dialogue: 0,0:11:54.19,0:11:55.75,Gen_Main,,0,0,0,,Doctor…
+Dialogue: 0,0:11:58.45,0:12:02.45,Gen_Main,,0,0,0,,Hay dos razones por las que elegí\NB Komachipara el nombre de nuestro grupo.
+Dialogue: 0,0:12:02.70,0:12:07.41,Gen_Main,,0,0,0,,Una es mi deseo de continuar el sueño\Nque mamá debería haber podido realizar.
+Dialogue: 0,0:12:07.87,0:12:09.40,Gen_Main,,0,0,0,,Y la otra es…
+Dialogue: 0,0:12:09.92,0:12:12.84,Cart_A_Tre,,0,0,0,,HOSPITAL GENERAL DE MIYAZAKI\NCONSULTAS
+Dialogue: 0,0:12:10.17,0:12:12.88,Gen_Main,,0,0,0,,¿Qué? ¿A qué se refiere?
+Dialogue: 0,0:12:13.04,0:12:18.23,Gen_Main,,0,0,0,,Hace varios años no pudimos volver\Na comunicarnos con el doctor Amamiya.
+Dialogue: 0,0:12:18.30,0:12:20.85,Gen_Main,,0,0,0,,En otras palabras, desapareció.
+Dialogue: 0,0:12:35.11,0:12:39.61,Gen_Main,,0,0,0,,No hay forma de que el doctor ignorara\Nel nombre B Komachi\N¿verdad?
+Dialogue: 0,0:12:39.82,0:12:43.65,Gen_Main,,0,0,0,,Dondequiera que esté,\Ndebe estar velando por mí.
+Dialogue: 0,0:12:45.12,0:12:47.85,Gen_Main,,0,0,0,,Tras nuestro video del room tour…
+Dialogue: 0,0:12:47.91,0:12:50.63,Gen_Main,,0,0,0,,¡Aquí está la segunda parte de mi plan\Npara impulsar el canal de YouTube!
+Dialogue: 0,0:12:50.71,0:12:52.25,Gen_Main,,0,0,0,,¡Vamos a grabar un video musical!
+Dialogue: 0,0:12:52.28,0:13:02.88,Cart_A_Tre,,0,0,0,,[COLABORACIÓN CON PIEYON]\N[¡BAILE DE ENTRENAMIENTO DE PIEYON!]
+Dialogue: 0,0:12:52.54,0:12:54.23,Gen_Main,,0,0,0,,¡Oh, un video musical!
+Dialogue: 0,0:12:54.29,0:12:57.50,Gen_Main,,0,0,0,,¡Al fin y al cabo,\Nes la forma más fácil de acumular visitas!
+Dialogue: 0,0:12:57.59,0:13:03.08,Gen_Main,,0,0,0,,¡Quiero que al menos un video de B Komachi\Ntenga varios millones de visitas!
+Dialogue: 0,0:13:02.92,0:13:07.60,Cart_A_Tre,,0,0,0,,VARIOS MILLONES DE VISITAS
+Dialogue: 0,0:13:03.18,0:13:07.65,Gen_Main,,0,0,0,,¡Así podremos utilizar ese número de visitas\Ncomo ejemplo para promocionarnos en todas partes!
+Dialogue: 0,0:13:07.72,0:13:11.23,Gen_Main,,0,0,0,,-¡Será todo un éxito!\N-Vaya, suena divertido.
+Dialogue: 0,0:13:11.39,0:13:13.58,Gen_Main,,0,0,0,,Pero, costará una fortuna, ¿verdad?
+Dialogue: 0,0:13:13.65,0:13:15.48,Gen_Main,,0,0,0,,No te preocupes.
+Dialogue: 0,0:13:15.65,0:13:19.35,Gen_Main,,0,0,0,,Una conocida mía que dirige una empresa\Nde diseño multimedial en el campo
+Dialogue: 0,0:13:19.44,0:13:23.10,Gen_Main,,0,0,0,,me dijo que nos haría un descuento especial\Nsi íbamos allí a filmarlo.
+Dialogue: 0,0:13:23.20,0:13:26.83,Gen_Main,,0,0,0,,Y podemos hacer turismo a la vuelta:\Ndos pájaros de un tiro.
+Dialogue: 0,0:13:26.91,0:13:29.83,Gen_Main,,0,0,0,,Espero que aprecien mis contactos.
+Dialogue: 0,0:13:29.91,0:13:31.87,Gen_Main,,0,0,0,,¡Genial! ¡Un viaje!
+Dialogue: 0,0:13:32.17,0:13:36.38,Gen_Main,,0,0,0,,Pero, no podré ir\Nhasta que termine mi obra, ¿sabes?
+Dialogue: 0,0:13:36.40,0:13:41.80,Cart_A_Tre,,0,0,0,,DICIEMBRE\NCRONOGRAMA
+Dialogue: 0,0:13:36.55,0:13:39.70,Gen_Main,,0,0,0,,Claro, armaré el cronograma\Nteniendo eso en cuenta.
+Dialogue: 0,0:13:39.80,0:13:41.85,Gen_Main,,0,0,0,,¿Qué tal si terminamos el rodaje en un día
+Dialogue: 0,0:13:41.93,0:13:45.83,Gen_Main,,0,0,0,,y lo convertimos en un viaje\Nque sirva de descanso después de Tokyo Blade?
+Dialogue: 0,0:13:45.93,0:13:48.25,Gen_Main,,0,0,0,,Un descanso después de Tokyo Blade…
+Dialogue: 0,0:14:00.40,0:14:02.25,Gen_Main,,0,0,0,,Qué lindo sería…
+Dialogue: 0,0:14:02.61,0:14:04.88,Gen_Main,,0,0,0,,Y, ¿dónde lo filmaremos?
+Dialogue: 0,0:14:04.95,0:14:07.53,Gen_Main,,0,0,0,,Veamos… ¡En Miyazaki!
+Dialogue: 0,0:14:07.70,0:14:11.25,Gen_Main,,0,0,0,,-Bueno, eso queda bastante lejos…\N-Es un lugar muy lindo.
+Dialogue: 0,0:14:11.50,0:14:13.50,Gen_Main,,0,0,0,,¡Y este es solo el comienzo!
+Dialogue: 0,0:14:13.67,0:14:17.50,Gen_Main,,0,0,0,,Tercera parte de mi plan de promoción:\N¡Hacemos una canción original!
+Dialogue: 0,0:14:17.88,0:14:24.32,Cart_A_Tre,,0,0,0,,NUESTRA SEÑAL ES B
+Dialogue: 0,0:14:18.17,0:14:21.43,Gen_Main,,0,0,0,,Hasta ahora hemos hecho las viejas\Ncanciones de B Komachi,
+Dialogue: 0,0:14:21.51,0:14:24.13,Gen_Main,,0,0,0,,pero tienen más de 10 años.
+Dialogue: 0,0:14:24.22,0:14:27.85,Gen_Main,,0,0,0,,¡Necesitamos una nueva canción\Ndirigida a la generación actual!
+Dialogue: 0,0:14:29.10,0:14:31.31,Gen_Main,,0,0,0,,Dicho esto…
+Dialogue: 0,0:14:31.60,0:14:34.98,Gen_Main,,0,0,0,,¡Presidenta! ¿Cuál es el estado\Nde la canción que solicitamos?
+Dialogue: 0,0:14:35.35,0:14:38.15,Gen_Main,,0,0,0,,Dijiste que la solicitaste\Nhace un tiempo, ¿no?
+Dialogue: 0,0:14:38.23,0:14:40.94,Gen_Main,,0,0,0,,Además, ¿a quién se la solicitaste?
+Dialogue: 0,0:14:41.15,0:14:45.45,Gen_Main,,0,0,0,,Bueno, no dije nada al respecto\Nporque quería sorprenderlas.
+Dialogue: 0,0:14:45.53,0:14:48.40,Gen_Main,,0,0,0,,Para la primera canción original\Ndel nuevo B Komachi,
+Dialogue: 0,0:14:48.49,0:14:52.45,Gen_Main,,0,0,0,,le hice un pedido a Hiruma, quien trabajó\Nen muchas canciones viejas de B Komachi.
+Dialogue: 0,0:14:52.62,0:14:54.55,Gen_Main,,0,0,0,,¿Qué? ¿Himura?
+Dialogue: 0,0:14:54.62,0:14:57.63,Gen_Main,,0,0,0,,-Es un cantante popular…\N-¡y un gran creador de éxitos!
+Dialogue: 0,0:14:57.75,0:15:00.25,Gen_Main,,0,0,0,,¿El tipo que escribió STAR ☆ T ☆ RAIN?
+Dialogue: 0,0:15:00.42,0:15:04.13,Gen_Main,,0,0,0,,-¡Vaya, es increíble!\N-¡Apuesto a que nos hará una gran canción!
+Dialogue: 0,0:15:04.22,0:15:06.60,Gen_Main_Up,,0,0,0,,¡No puedo esperar!
+Dialogue: 0,0:15:04.22,0:15:09.76,Gen_Main,,0,0,0,,Claro… Los artistas musicales\Nson otro grupo relacionado con Ai.
+Dialogue: 0,0:15:10.14,0:15:12.68,Gen_Main,,0,0,0,,Encontraré una manera\Nde acercarme a Himura y…
+Dialogue: 0,0:15:14.92,0:15:16.12,Cart_A_Tre,,0,0,0,,¿ENCUENTRAN LOS CUERPOS DE UN MATRIMONIO\NEN UN APARENTE DOBLE SUICIDIO?
+Dialogue: 0,0:15:17.44,0:15:18.86,Gen_Main,,0,0,0,,No…
+Dialogue: 0,0:15:19.52,0:15:21.33,Gen_Main,,0,0,0,,Ya no es necesario.
+Dialogue: 0,0:15:24.07,0:15:26.86,Gen_Main,,0,0,0,,-¿Qué ocurre?\N-Ah, nada.
+Dialogue: 0,0:15:27.57,0:15:31.80,Gen_Main,,0,0,0,,Qué bueno que consiguieron un buen compositor.\NLes deseo lo mejor.
+Dialogue: 0,0:15:33.20,0:15:35.83,Gen_Main,,0,0,0,,Hoy estás…\Nun poco distinto de lo habitual.
+Dialogue: 0,0:15:36.16,0:15:40.05,Gen_Main,,0,0,0,,-¿Tú crees?\N-¡Sí! Estás un poco más relajado.
+Dialogue: 0,0:15:40.13,0:15:42.13,Gen_Main,,0,0,0,,En mi opinión, eso es algo positivo.
+Dialogue: 0,0:15:42.21,0:15:43.60,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:15:43.67,0:15:46.59,Gen_Main,,0,0,0,,¡Quiero cantarla!\N¡Quiero cantarla ya mismo!
+Dialogue: 0,0:15:48.05,0:15:49.72,Gen_Main,,0,0,0,,La cuestión es que…
+Dialogue: 0,0:15:50.05,0:15:53.90,Gen_Main,,0,0,0,,Le di de plazo\Nhasta finales del mes pasado
+Dialogue: 0,0:15:53.97,0:15:56.35,Gen_Main,,0,0,0,,y todavía no me la entregó.
+Dialogue: 0,0:15:56.60,0:15:58.00,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:15:58.10,0:16:01.20,Gen_Main,,0,0,0,,Ah, seguramente\Nno nos está tomando en serio.
+Dialogue: 0,0:16:01.27,0:16:04.85,Gen_Main,,0,0,0,,Cuanto más tiempo lleva alguien en el negocio,\Nmenos probable es que respete los plazos.
+Dialogue: 0,0:16:04.94,0:16:08.24,Gen_Main,,0,0,0,,Solo los cumplen cuando saben\Nque si no deberán pagar un precio muy alto.
+Dialogue: 0,0:16:08.45,0:16:11.98,Gen_Main,,0,0,0,,Seguro que está ocupado,\Nno queda más remedio.
+Dialogue: 0,0:16:12.08,0:16:13.87,Gen_Main,,0,0,0,,Por favor, esperen un poco más.
+Dialogue: 0,0:16:13.99,0:16:15.70,Gen_Main,,0,0,0,,No quiero. Presionémoslo para que lo haga.
+Dialogue: 0,0:16:16.00,0:16:20.33,Gen_Main,,0,0,0,,Entiendo, pero deberías estar agradecida\Nde que Himura haya aceptado el trabajo.
+Dialogue: 0,0:16:20.75,0:16:23.20,Gen_Main,,0,0,0,,Ya le envié un correo electrónico\Nal respecto, ¿de acuerdo?
+Dialogue: 0,0:16:24.09,0:16:26.55,Gen_Main,,0,0,0,,-¡No! ¡Llámalo ahora mismo!\N-Pero…
+Dialogue: 0,0:16:26.63,0:16:30.08,Gen_Main,,0,0,0,,¡No! ¡No! ¡No! ¡No!\N¡No! ¡No! ¡No! ¡No! ¡No!
+Dialogue: 0,0:16:30.18,0:16:32.05,Gen_Main,,0,0,0,,¡NOOO!
+Dialogue: 0,0:16:32.14,0:16:36.06,Gen_Main_Up,,0,0,0,,¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No! ¡No!
+Dialogue: 0,0:16:32.47,0:16:36.06,Gen_Main,,0,0,0,,-La presidenta está bajo mucha presión.\N-Nunca puede contra Ruby.
+Dialogue: 0,0:16:36.18,0:16:38.77,Gen_Main,,0,0,0,,-No hay necesidad de apresurarse.\N-¡Sí que la hay!
+Dialogue: 0,0:16:39.35,0:16:41.98,Gen_Main,,0,0,0,,No se puede ser idol por mucho tiempo.
+Dialogue: 0,0:16:42.19,0:16:45.41,Gen_Main,,0,0,0,,Si nos lo tomamos con calma, ¡nos quedaremos\Nsin tiempo antes de que nos demos cuenta!
+Dialogue: 0,0:16:45.50,0:16:49.88,Gen_Main,,0,0,0,,Algún día Kana podría volver\Na ser actriz a tiempo completo.
+Dialogue: 0,0:16:50.82,0:16:53.32,Gen_Main,,0,0,0,,Y a su debido tiempo, MEM-cho…
+Dialogue: 0,0:16:54.03,0:16:55.53,Gen_Main,,0,0,0,,cumplirá treinta.
+Dialogue: 0,0:16:55.24,0:17:01.91,Cart_A_Tre,,0,0,0,,TREINTA AÑOS
+Dialogue: 0,0:16:56.24,0:16:58.85,Gen_Main,,0,0,0,,¡Faltan cinco años para eso!\N¡Todavía me quedan cinco años!
+Dialogue: 0,0:16:58.91,0:17:02.28,Gen_Main,,0,0,0,,Puede ser, ¡pero cinco años no es mucho!
+Dialogue: 0,0:17:02.08,0:17:03.13,Cart_A_Tre,,0,0,0,,SOLO QUEDAN CINCO AÑOS
+Dialogue: 0,0:17:03.17,0:17:06.80,Gen_Main,,0,0,0,,Ruby, sé que no lo haces a propósito,\Npero ya basta de tanto bombardeo.
+Dialogue: 0,0:17:07.09,0:17:09.51,Gen_Main,,0,0,0,,No pienses en el tiempo\Ndesde una perspectiva adulta.
+Dialogue: 0,0:17:09.76,0:17:11.97,Gen_Main,,0,0,0,,En este momento,\Nestamos yendo a toda velocidad.
+Dialogue: 0,0:17:12.34,0:17:14.55,Gen_Main,,0,0,0,,No tenemos tiempo\Npara tomárnoslo con calma.
+Dialogue: 0,0:17:23.48,0:17:25.19,Gen_Main,,0,0,0,,Está bien.
+Dialogue: 0,0:17:26.02,0:17:29.63,Gen_Main,,0,0,0,,-Lo llamaré personalmente.\N-¡Genial!
+Dialogue: 0,0:17:31.53,0:17:34.78,Gen_Main,,0,0,0,,Sí, señora, gracias por llamar.
+Dialogue: 0,0:17:35.08,0:17:36.58,Gen_Main,,0,0,0,,¿La canción…?
+Dialogue: 0,0:17:36.66,0:17:39.68,Gen_Main,,0,0,0,,Eh, estoy un poco atascado ahora mismo…
+Dialogue: 0,0:17:39.75,0:17:44.71,Gen_Main,,0,0,0,,Como sea, no puedo escribir algo a medias\Npara la primera canción del nuevo B Komachi.
+Dialogue: 0,0:17:44.72,0:17:50.16,Cart_A_Tre,,0,0,0,,COMPOSITOR\NHIMURA (45)
+Dialogue: 0,0:17:45.00,0:17:50.17,Gen_Main,,0,0,0,,Mi agenda está repleta de trabajo,\Nasí que cuando tenga un poco de tiempo…
+Dialogue: 0,0:17:51.67,0:17:54.43,Gen_Main,,0,0,0,,Bueno, supongo que me pondré con eso.
+Dialogue: 0,0:18:02.73,0:18:06.03,Gen_Main,,0,0,0,,Hice una melodía aburrida de memoria…
+Dialogue: 0,0:18:08.64,0:18:10.56,Cart_A_Tre,,0,0,0,,NUEVO B KOMACHI
+Dialogue: 0,0:18:10.60,0:18:12.52,Cart_A_Tre,,0,0,0,,NUEVO COMIENZO
+Dialogue: 0,0:18:12.56,0:18:14.48,Cart_A_Tre,,0,0,0,,DESAFÍO
+Dialogue: 0,0:18:14.52,0:18:16.92,Cart_A_Tre,,0,0,0,,SEGUNDO COMIENZO
+Dialogue: 0,0:18:19.44,0:18:19.76,Cart_A_Tre,,0,0,0,,NUEVO B KOMACHI\NNUEVO COMIENZO
+Dialogue: 0,0:18:20.08,0:18:21.70,Gen_Main,,0,0,0,,Maldición.
+Dialogue: 0,0:18:25.21,0:18:28.42,Gen_Main,,0,0,0,,-¿Dijo que no lo ha escrito?\N-Sí.
+Dialogue: 0,0:18:28.55,0:18:31.63,Gen_Main,,0,0,0,,-Debe ser el síndrome del estrellato.\N-¿El síndrome del estrellato?
+Dialogue: 0,0:18:31.92,0:18:35.03,Gen_Main,,0,0,0,,Cuando un compositor es joven,\Npuede escribir innumerables canciones
+Dialogue: 0,0:18:35.09,0:18:37.08,Gen_Main,,0,0,0,,solo por impulso y pasión.
+Dialogue: 0,0:18:36.92,0:18:40.32,Cart_A_Tre,,0,0,0,,AMISTAD, SUEÑOS, AMOR\NVIDA, DIFICULTADES, APOYO
+Dialogue: 0,0:18:37.18,0:18:42.30,Gen_Main,,0,0,0,,Pero, a lo largo de sus años de trabajo,\Nsu estrellato lo lleva a escribir cientos de canciones
+Dialogue: 0,0:18:42.39,0:18:45.58,Gen_Main,,0,0,0,,y así, se queda sin ideas para expresar\Nporque ya las dijo todas.
+Dialogue: 0,0:18:45.65,0:18:50.33,Gen_Main,,0,0,0,,Es diferente a una crisis:\Nes una disminución grave de la motivación.
+Dialogue: 0,0:18:50.40,0:18:54.32,Gen_Main,,0,0,0,,A estas alturas, hace tiempo\Nque no halla sobre qué quiere escribir.
+Dialogue: 0,0:18:55.70,0:18:59.83,Gen_Main,,0,0,0,,Tengo que ponerme a componer…\Npero no estoy motivado…
+Dialogue: 0,0:19:00.87,0:19:03.45,Gen_Main,,0,0,0,,Quizás sea el momento\Nde colgar la toalla.
+Dialogue: 0,0:19:03.54,0:19:07.79,Gen_Main,,0,0,0,,Pero no puedo hacer nada si renuncio.
+Dialogue: 0,0:19:08.28,0:19:10.56,Cart_A_Tre,,0,0,0,,UNO DE LOS MIEMBROS DEL GRUPO\NQUIERE ENVIARLE UN MENSAJE
+Dialogue: 0,0:19:10.58,0:19:12.16,Cart_A_Tre,,0,0,0,,MIYAKO SAITOU\NCOMPARTIÓ AL SEÑOR HIMURA.MP4
+Dialogue: 0,0:19:17.97,0:19:19.95,Gen_Main,,0,0,0,,¡Señor Himura!
+Dialogue: 0,0:19:20.01,0:19:22.39,Gen_Main,,0,0,0,,¡Soy Ruby del nuevo B Komachi!
+Dialogue: 0,0:19:23.10,0:19:27.23,Gen_Main,,0,0,0,,¡Llevo cantando STAR ☆ T ☆ RAIN,\Nuna canción suya, desde que era pequeña!
+Dialogue: 0,0:19:27.48,0:19:31.28,Gen_Main,,0,0,0,,¡Me sabía la coreografía entera\Nmucho antes de unirme a B Komachi!
+Dialogue: 0,0:19:31.57,0:19:35.24,Gen_Main,,0,0,0,,¡Estoy tan feliz de poder cantar\Nsu canción, señor Himura!
+Dialogue: 0,0:20:10.56,0:20:14.07,Gen_Main,,0,0,0,,Sé que debe de estar muy ocupado,\N¡pero quería decirle lo mucho que me emociona!
+Dialogue: 0,0:20:14.28,0:20:16.95,Gen_Main,,0,0,0,,Por favor, ¡cuide su salud\Ny dé lo mejor de sí mismo!
+Dialogue: 0,0:20:17.32,0:20:18.78,Gen_Main,,0,0,0,,¡Con amor, Ruby!
+Dialogue: 0,0:20:20.32,0:20:23.70,Gen_Main,,0,0,0,,Los creadores son criaturas sencillas.
+Dialogue: 0,0:20:24.49,0:20:27.38,Gen_Main,,0,0,0,,Algo así puede encender fácilmente\Nuna llama en su interior.
+Dialogue: 0,0:20:28.21,0:20:31.67,Gen_Main,,0,0,0,,Solo con ver la cara de la persona\Na la que le entregarán su trabajo…
+Dialogue: 0,0:20:31.88,0:20:34.88,Gen_Main,,0,0,0,,Solo con saber\Npara quién lo están creando…
+Dialogue: 0,0:20:37.01,0:20:38.59,Gen_Main,,0,0,0,,Muy bien…
+Dialogue: 0,0:20:38.80,0:20:41.13,Gen_Main,,0,0,0,,es momento de escribir una obra maestra.
+Dialogue: 0,0:20:49.69,0:20:53.55,Gen_Main,,0,0,0,,Concluye la obra teatral de Tokyo Blade.
+Dialogue: 0,0:20:56.03,0:20:58.36,Gen_Main,,0,0,0,,Y mi agenda está actualmente muy libre.
+Dialogue: 0,0:20:58.36,0:21:04.62,Cart_A_Tre,,0,0,0,,TOKYO BLADE\NDÍA LIBRE
+Dialogue: 0,0:20:58.95,0:21:04.62,Gen_Main,,0,0,0,,Es en estos momentos de períodos libres\Nque necesito hacer planes para el futuro,
+Dialogue: 0,0:21:05.20,0:21:08.83,Gen_Main,,0,0,0,,pero no estoy seguro de qué debo hacer.
+Dialogue: 0,0:21:12.83,0:21:15.04,Gen_Main,,0,0,0,,Te ves más muerto que vivo…
+Dialogue: 0,0:21:15.30,0:21:17.23,Gen_Main,,0,0,0,,¿Vendrás a Miyazaki con nosotras?
+Dialogue: 0,0:21:17.30,0:21:19.78,Gen_Main,,0,0,0,,Ah, ¿el lugar donde filmarán\Nel video musical?
+Dialogue: 0,0:21:19.88,0:21:21.76,Gen_Main,,0,0,0,,Sí, ahora estás libre, ¿no?
+Dialogue: 0,0:21:21.84,0:21:23.88,Gen_Main,,0,0,0,,Además, estás sin trabajo\Nahora que Tokyo Blade ha terminado.
+Dialogue: 0,0:21:23.97,0:21:26.68,Gen_Main,,0,0,0,,Bueno, no he dejado de ser actor\Ny también soy estudiante.
+Dialogue: 0,0:21:27.27,0:21:31.08,Gen_Main,,0,0,0,,La Jefa decía que también podría servir\Ncomo un gran descanso después de la obra.
+Dialogue: 0,0:21:35.57,0:21:37.25,Gen_Main,,0,0,0,,Miyazaki, ¿eh?
+Dialogue: 0,0:21:38.78,0:21:42.75,Gen_Main,,0,0,0,,Ahora que lo pienso,\Nnunca he vuelto desde entonces.
+Dialogue: 0,0:21:44.12,0:21:45.87,Gen_Main,,0,0,0,,Sí…
+Dialogue: 0,0:21:46.24,0:21:47.74,Gen_Main,,0,0,0,,Creo que iré.
+Dialogue: 0,0:22:04.84,0:22:09.60,Cart_A_Tre,,0,0,0,,EPISODIO 21\NLIBERACIÓN

@@ -1,0 +1,286 @@
+[Script Info]
+Title: ONK_s02e019_tv_br_or_ja_en_v00-sub_spa
+ScriptType: v4.00+
+PlayDepth: 0
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 2
+ScaledBorderAndShadow: Yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Ari,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_TitleSeries,Trebuchet MS,30,&H00000000,&H000000FF,&H00FFFFFF,&H00AC4F8A,-1,0,0,0,100,100,0,0,1,2,0,2,10,30,10,1
+Style: Cart_EpiTitle,Times New Roman,18,&H00000000,&H000000FF,&H32555555,&H002971C2,0,0,0,0,100,100,0,0,1,0,0,2,40,30,20,1
+Style: Cart_C_Ari,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:01:33.74,0:01:36.62,Gen_Main,,0,0,0,,¡Eres débil! ¡Débil, débil, débil!
+Dialogue: 0,0:01:36.74,0:01:38.18,Gen_Main,,0,0,0,,¡Debilucho!
+Dialogue: 0,0:01:39.95,0:01:42.80,Gen_Main,,0,0,0,,Tus movimientos sí que han mejorado, ¿eh?
+Dialogue: 0,0:01:42.87,0:01:45.29,Gen_Main,,0,0,0,,Pero sigues siendo pésimo actuando.
+Dialogue: 0,0:01:45.67,0:01:48.30,Gen_Main,,0,0,0,,Apenas puedo seguir\Nel ritmo de la actuación…
+Dialogue: 0,0:01:48.55,0:01:52.05,Gen_Main,,0,0,0,,Pero, ¡en cuanto a emoción, no perderé!
+Dialogue: 0,0:02:29.84,0:02:33.03,Gen_Main,,0,0,0,,¿No deberías haber sido más enérgica\Nen esa última escena?
+Dialogue: 0,0:02:35.05,0:02:36.60,Gen_Main,,0,0,0,,¿Qué otra opción tenía?
+Dialogue: 0,0:02:36.68,0:02:39.23,Gen_Main,,0,0,0,,Actúas como si fueras el actor principal,
+Dialogue: 0,0:02:39.31,0:02:42.56,Gen_Main,,0,0,0,,y Akane Kurokawa actúa como si quisiera\Nquedarse con el papel protagonista.
+Dialogue: 0,0:02:43.27,0:02:47.03,Gen_Main,,0,0,0,,Si cada uno hace lo que quiere,\Nla obra no tendrá sentido.
+Dialogue: 0,0:02:47.10,0:02:49.68,Gen_Main,,0,0,0,,Alguien tiene que ser el coordinador.
+Dialogue: 0,0:02:49.77,0:02:51.08,Gen_Main,,0,0,0,,Ah…
+Dialogue: 0,0:02:51.61,0:02:54.08,Gen_Main,,0,0,0,,Por cierto, ¿qué haces?
+Dialogue: 0,0:02:54.15,0:02:58.41,Gen_Main,,0,0,0,,Quería leer el guion, así que fui a ponerme\Nlos anteojos, pero la maquilladora dijo…
+Dialogue: 0,0:02:58.53,0:03:00.88,Gen_Main,,0,0,0,,¡Basta! ¡Se te va a salir el maquillaje!
+Dialogue: 0,0:03:00.95,0:03:03.43,Gen_Main,,0,0,0,,Así que ahora estoy usándolos en el aire.
+Dialogue: 0,0:03:03.50,0:03:05.41,Gen_Main,,0,0,0,,No me digas.
+Dialogue: 0,0:03:05.58,0:03:08.29,Gen_Main,,0,0,0,,-¿No usas lentes de contacto?\N-No.
+Dialogue: 0,0:03:08.42,0:03:09.78,Gen_Main,,0,0,0,,¡Cómpratelas de una vez!
+Dialogue: 0,0:03:09.88,0:03:11.87,Gen_Main,,0,0,0,,Seguro no puedes\Nver a los demás actuar, ¿no?
+Dialogue: 0,0:03:11.95,0:03:14.15,Gen_Main,,0,0,0,,No hay problema,\Npuedo ver sus movimientos en general.
+Dialogue: 0,0:03:14.22,0:03:17.03,Gen_Main,,0,0,0,,Ay, por favor, ¿y sus expresiones, qué?
+Dialogue: 0,0:03:17.09,0:03:20.55,Gen_Main,,0,0,0,,¿Es realmente necesario verlas?
+Dialogue: 0,0:03:21.10,0:03:25.08,Gen_Main,,0,0,0,,Es decir, la gente que está sentada\Nmás atrás tampoco puede, ¿o no?
+Dialogue: 0,0:03:25.18,0:03:29.23,Gen_Main,,0,0,0,,No incorporo a mi actuación cosas\Nque el público no puede ver.
+Dialogue: 0,0:03:29.31,0:03:33.03,Gen_Main,,0,0,0,,Así que es mejor que no pueda ver\Nlas expresiones de los actores en primer lugar.
+Dialogue: 0,0:03:33.53,0:03:35.88,Gen_Main,,0,0,0,,Al menos, eso es lo que yo pienso.
+Dialogue: 0,0:03:36.61,0:03:40.18,Gen_Main,,0,0,0,,Los actores pueden conversar solo\Na través del movimiento.
+Dialogue: 0,0:03:41.08,0:03:44.13,Gen_Main,,0,0,0,,Aun así, no usar lentes de contacto\Nya es demasiado.
+Dialogue: 0,0:03:44.20,0:03:48.00,Gen_Main,,0,0,0,,-Es que me dan miedo.\N-Esa es tu verdadera razón, ¿no?
+Dialogue: 0,0:03:48.87,0:03:53.08,Gen_Main,,0,0,0,,En general, los artistas de alto nivel\Nson raros de una forma u otra.
+Dialogue: 0,0:03:53.42,0:03:56.73,Gen_Main,,0,0,0,,Como sea…\N¿por qué estás revisando el guion ahora?
+Dialogue: 0,0:03:56.80,0:04:00.73,Gen_Main,,0,0,0,,Kurokawa está hecha un fuego,\Ny a este ritmo nos va a devorar.
+Dialogue: 0,0:04:07.64,0:04:11.15,Gen_Main,,0,0,0,,-Voy a improvisar un poco en esta escena.\N-¿Qué?
+Dialogue: 0,0:04:11.48,0:04:13.45,Gen_Main,,0,0,0,,Esas cosas deberían hacerse después…
+Dialogue: 0,0:04:13.52,0:04:17.33,Gen_Main,,0,0,0,,Eres capaz de responder\Na cualquier tipo de improvisación, ¿no?
+Dialogue: 0,0:04:21.45,0:04:24.13,Gen_Main,,0,0,0,,¡¿Quién te crees que soy?!
+Dialogue: 0,0:04:38.17,0:04:41.43,Gen_Main,,0,0,0,,¡Enemigo de los míos!\N¡Tú, de todas las personas…!
+Dialogue: 0,0:04:41.55,0:04:44.23,Gen_Main,,0,0,0,,¿Qué? ¡¿De quién estás hablando?!
+Dialogue: 0,0:04:44.31,0:04:49.10,Gen_Main,,0,0,0,,¡No puedo recordar\Nhasta la última alma que he matado!
+Dialogue: 0,0:04:53.36,0:04:56.86,Gen_Main,,0,0,0,,Te has precipitado.\NNo puedes evitarlo, ¿verdad?
+Dialogue: 0,0:04:56.98,0:04:58.95,Gen_Main,,0,0,0,,Lucharé junto a ti.
+Dialogue: 0,0:04:59.03,0:05:00.55,Gen_Main,,0,0,0,,Ajiro…
+Dialogue: 0,0:05:01.45,0:05:03.30,Gen_Main,,0,0,0,,¡Iaaa!
+Dialogue: 0,0:05:04.20,0:05:08.00,Gen_Main,,0,0,0,,¡¿Qué?! ¿Por qué les está costando tanto?
+Dialogue: 0,0:05:08.08,0:05:10.98,Gen_Main,,0,0,0,,¡Erradiquen a los insectos\Nde Shinjuku de una vez!
+Dialogue: 0,0:05:11.08,0:05:13.38,Gen_Main,,0,0,0,,¡Entonces ven tú también a luchar!
+Dialogue: 0,0:05:35.61,0:05:38.57,Gen_Main,,0,0,0,,¿Así que eres\Nel luchador más fuerte de Shibuya?
+Dialogue: 0,0:05:38.90,0:05:42.28,Gen_Main,,0,0,0,,-¿Tiene alguna aspiración real?\N-¿Qué?
+Dialogue: 0,0:05:42.45,0:05:44.55,Gen_Main,,0,0,0,,Te aseguro que la Princesa Saya sí.
+Dialogue: 0,0:05:44.62,0:05:46.65,Gen_Main,,0,0,0,,Aspiraciones, ¿eh?
+Dialogue: 0,0:05:46.74,0:05:48.68,Gen_Main,,0,0,0,,No puedo decir que no,
+Dialogue: 0,0:05:48.74,0:05:52.48,Gen_Main,,0,0,0,,pero explicarme con palabras\Nno es mi fuerte.
+Dialogue: 0,0:05:52.83,0:05:54.50,Gen_Main,,0,0,0,,Así que te propongo…
+Dialogue: 0,0:05:55.63,0:05:58.88,Gen_Main,,0,0,0,,Que hablemos… ¡con nuestras espadas!
+Dialogue: 0,0:06:01.59,0:06:02.88,Gen_Main,,0,0,0,,De acuerdo.
+Dialogue: 0,0:06:03.59,0:06:05.23,Gen_Main,,0,0,0,,Taiki Himekawa…
+Dialogue: 0,0:06:06.22,0:06:09.10,Gen_Main,,0,0,0,,El actor estrella de Lala Lai.
+Dialogue: 0,0:06:09.35,0:06:12.31,Gen_Main,,0,0,0,,Cada una de sus acciones\Nestá llena de emoción.
+Dialogue: 0,0:06:13.06,0:06:15.38,Gen_Main,,0,0,0,,Es como si encarnara la información.
+Dialogue: 0,0:06:16.27,0:06:18.48,Gen_Main,,0,0,0,,Esto sí es actuación emocional.
+Dialogue: 0,0:06:19.07,0:06:20.94,Gen_Main,,0,0,0,,Vamos, ¿qué pasa?
+Dialogue: 0,0:06:21.11,0:06:22.65,Gen_Main,,0,0,0,,¡A divertirnos!
+Dialogue: 0,0:06:23.20,0:06:26.78,Gen_Main,,0,0,0,,Lo siento, pero frente a un mejor actor,
+Dialogue: 0,0:06:27.07,0:06:29.62,Gen_Main,,0,0,0,,no voy a luchar en el mismo ring.
+Dialogue: 0,0:06:36.46,0:06:39.55,Gen_Main,,0,0,0,,¿Qué…? No tiene emociones.
+Dialogue: 0,0:06:39.67,0:06:41.98,Gen_Main,,0,0,0,,Un marco contrastante, ¿eh?
+Dialogue: 0,0:06:42.05,0:06:43.51,Gen_Main,,0,0,0,,¿Un qué?
+Dialogue: 0,0:06:43.80,0:06:49.47,Gen_Main,,0,0,0,,A diferencia de Himekawa,\Nque expone sus emociones, Aqua las reprime.
+Dialogue: 0,0:06:50.01,0:06:53.33,Gen_Main,,0,0,0,,No se puede comparar la calidad de ambos.
+Dialogue: 0,0:06:53.43,0:06:54.94,Gen_Main,,0,0,0,,Ah…
+Dialogue: 0,0:06:55.52,0:06:59.73,Gen_Main,,0,0,0,,Cuanto más pasional y ardiente\Nse vuelve la actuación de Himekawa,
+Dialogue: 0,0:06:59.82,0:07:03.30,Gen_Main,,0,0,0,,más resalta la actuación fría de Aqua.
+Dialogue: 0,0:07:03.40,0:07:05.90,Gen_Main,,0,0,0,,Es un contraste muy ingenioso.
+Dialogue: 0,0:07:06.16,0:07:07.87,Gen_Main,,0,0,0,,Sin embargo…
+Dialogue: 0,0:07:08.24,0:07:13.95,Gen_Main,,0,0,0,,Himekawa no es un actor\Ncon el que se pueda lidiar tan fácilmente.
+Dialogue: 0,0:07:16.75,0:07:18.71,Gen_Main,,0,0,0,,Qué aguafiestas.
+Dialogue: 0,0:07:18.83,0:07:20.96,Gen_Main,,0,0,0,,¡Divirtámonos!
+Dialogue: 0,0:07:27.68,0:07:29.55,Gen_Main,,0,0,0,,¿Qué le pasa a ese tipo?
+Dialogue: 0,0:07:29.64,0:07:33.98,Gen_Main,,0,0,0,,Además, comparada con otras espadas,\Nesa espada juramentada tiene algo…
+Dialogue: 0,0:07:34.85,0:07:38.65,Gen_Main,,0,0,0,,Falta poco para la escena\Nen la que Himekawa quería improvisar…
+Dialogue: 0,0:07:38.81,0:07:40.02,Gen_Main,,0,0,0,,¡Cuidado, Tsurugi!
+Dialogue: 0,0:07:40.65,0:07:41.98,Gen_Main,,0,0,0,,¡Ahí está!
+Dialogue: 0,0:07:42.15,0:07:43.98,Gen_Main,,0,0,0,,¿Se está saliendo del guion?
+Dialogue: 0,0:07:54.62,0:07:57.54,Gen_Main,,0,0,0,,¿Me lo estás dejando todo a mí?
+Dialogue: 0,0:07:58.00,0:08:01.34,Gen_Main,,0,0,0,,¡Aqua! Voy a seguir su juego,\Nasí que sígueme…
+Dialogue: 0,0:08:01.84,0:08:04.42,Gen_Main,,0,0,0,,Mujer, ¿es momento de andar jugando?
+Dialogue: 0,0:08:05.09,0:08:08.43,Gen_Main,,0,0,0,,Arriesgar la vida en un combate mortal\Nes deber de los hombres.
+Dialogue: 0,0:08:08.72,0:08:13.50,Gen_Main,,0,0,0,,Si no puedes estar en el campo de batalla\Nsin la protección de un hombre, vete ya.
+Dialogue: 0,0:08:13.60,0:08:14.89,Gen_Main,,0,0,0,,¿Está improvisando?
+Dialogue: 0,0:08:18.27,0:08:20.02,Gen_Main,,0,0,0,,¡Puedo luchar!
+Dialogue: 0,0:08:20.15,0:08:24.23,Gen_Main,,0,0,0,,¿Con este cuerpo tan blando?\N¿Por qué no entrenas un poco?
+Dialogue: 0,0:08:24.48,0:08:28.00,Gen_Main,,0,0,0,,¡Oye, ten cuidado! ¡¿Qué le estás haciendo\Nal cuerpo seductor de una doncella?!
+Dialogue: 0,0:08:28.07,0:08:30.20,Gen_Main,,0,0,0,,Así que sí eres mujer, después de todo.
+Dialogue: 0,0:08:30.78,0:08:34.91,Gen_Main,,0,0,0,,Un hombre es alguien que arriesga su vida\Npara proteger a las mujeres.
+Dialogue: 0,0:08:35.24,0:08:38.83,Gen_Main,,0,0,0,,Por lo tanto, no pienso perder.
+Dialogue: 0,0:08:38.91,0:08:40.62,Gen_Main,,0,0,0,,¡Volvió al guion!
+Dialogue: 0,0:08:40.92,0:08:44.59,Gen_Main,,0,0,0,,¿Aqua es tan bueno\Nsiguiéndole el juego a los demás?
+Dialogue: 0,0:08:44.80,0:08:47.70,Gen_Main,,0,0,0,,¡Basta de las mujeres esto o lo otro!\N¡No te burles de mí!
+Dialogue: 0,0:08:47.80,0:08:49.34,Gen_Main,,0,0,0,,No estoy haciendo tal cosa.
+Dialogue: 0,0:08:49.55,0:08:51.18,Gen_Main,,0,0,0,,No tenía idea.
+Dialogue: 0,0:08:51.26,0:08:54.81,Gen_Main,,0,0,0,,Después de todo,\Nhasta ahora, nunca he sido imprudente.
+Dialogue: 0,0:08:55.64,0:08:59.47,Gen_Main,,0,0,0,,Si cada uno hace lo que quiere,\Nla obra no tendrá sentido.
+Dialogue: 0,0:08:59.56,0:09:02.05,Gen_Main,,0,0,0,,Alguien tiene que ser el coordinador.
+Dialogue: 0,0:09:03.48,0:09:07.80,Gen_Main,,0,0,0,,De cualquier manera,\Nno voy a hacerte ningún daño.
+Dialogue: 0,0:09:09.95,0:09:13.50,Gen_Main,,0,0,0,,Y en cuanto al posicionamiento,\Nme llevó al centro del escenario.
+Dialogue: 0,0:09:13.57,0:09:16.62,Gen_Main,,0,0,0,,Lo preparó para que el público\Nse centre en mí.
+Dialogue: 0,0:09:17.20,0:09:18.58,Gen_Main,,0,0,0,,Es fácil actuar ahora.
+Dialogue: 0,0:09:18.95,0:09:22.29,Gen_Main,,0,0,0,,Los actores pueden conversar solo\Na través del movimiento.
+Dialogue: 0,0:09:23.08,0:09:26.25,Gen_Main,,0,0,0,,No necesitas tomar el rol de coordinadora.
+Dialogue: 0,0:09:26.46,0:09:31.05,Gen_Main,,0,0,0,,Déjame los papeles secundarios a mí.\NImprovisaré lo que me propongan.
+Dialogue: 0,0:09:31.84,0:09:34.93,Gen_Main,,0,0,0,,Actúa como anhelas hacerlo, Kana Arima.
+Dialogue: 0,0:09:57.49,0:10:03.65,Gen_Main,,0,0,0,,Eres muy bueno\Nconfundiendo a la gente, ¿verdad?
+Dialogue: 0,0:10:07.54,0:10:12.58,Gen_Main,,0,0,0,,Al parecer, hace tiempo,\Nmi madre quería ser artista.
+Dialogue: 0,0:10:14.01,0:10:17.45,Gen_Main,,0,0,0,,Por eso me confió ese sueño a mí.
+Dialogue: 0,0:10:18.60,0:10:23.02,Gen_Main,,0,0,0,,Cuando logré el estrellato,\Nella charlaba con famosos a los que admiraba,
+Dialogue: 0,0:10:23.35,0:10:25.98,Gen_Main,,0,0,0,,la invitaban a fiestas en sus casas,
+Dialogue: 0,0:10:26.61,0:10:31.69,Gen_Main,,0,0,0,,actuaba como un miembro de la industria\Ny parece que disfrutaba mucho haciéndolo.
+Dialogue: 0,0:10:32.44,0:10:34.66,Gen_Main,,0,0,0,,Para mí también fue divertido.
+Dialogue: 0,0:10:35.53,0:10:39.25,Gen_Main,,0,0,0,,Actuaba a mi antojo sin pensar mucho,
+Dialogue: 0,0:10:39.33,0:10:42.54,Gen_Main,,0,0,0,,y me alababan llamándome\Nniña actriz prodigio.
+Dialogue: 0,0:10:42.95,0:10:45.00,Gen_Main,,0,0,0,,Mi mamá no dejaba de sonreír.
+Dialogue: 0,0:10:45.83,0:10:50.00,Gen_Main,,0,0,0,,Fue el periodo más feliz de mi vida.
+Dialogue: 0,0:10:51.84,0:10:57.58,Gen_Main,,0,0,0,,Por eso mi madre era la más afectada\Npor la popularidad de Kana Arima.
+Dialogue: 0,0:10:58.64,0:11:03.68,Gen_Main,,0,0,0,,Mi madre se puso difícil cuando fue obvio\Nque el público me estaba dejando de lado,
+Dialogue: 0,0:11:04.14,0:11:06.94,Gen_Main,,0,0,0,,Sin importarle cómo la hacía lucir,\Nhizo discursos de venta
+Dialogue: 0,0:11:07.15,0:11:10.58,Gen_Main,,0,0,0,,e insistió en que apareciera más tiempo,\Nlo que causó problemas en el set.
+Dialogue: 0,0:11:12.82,0:11:18.08,Gen_Main,,0,0,0,,Y en cuanto a mí, bueno, también empezó\Na desquitarse un poco conmigo.
+Dialogue: 0,0:11:19.49,0:11:23.65,Gen_Main,,0,0,0,,Creo que mi padre se enamoró de otra mujer
+Dialogue: 0,0:11:23.75,0:11:26.93,Gen_Main,,0,0,0,,porque le asqueaba la persona\Nen la que se había convertido mi madre.
+Dialogue: 0,0:11:27.33,0:11:32.30,Cart_A_Tre,,0,0,0,,¡BAILA LA CANCIÓN DEL PIMIENTO CON KANA!
+Dialogue: 0,0:11:28.29,0:11:32.30,Gen_Main,,0,0,0,,A mi mamá\Nle gustaba la Kana Arima famosa.
+Dialogue: 0,0:11:33.59,0:11:38.00,Gen_Main,,0,0,0,,No tuve más remedio\Nque sobrevivir en la industria.
+Dialogue: 0,0:11:40.85,0:11:42.35,Gen_Main,,0,0,0,,De lo contrario…
+Dialogue: 0,0:11:43.01,0:11:45.83,Gen_Main,,0,0,0,,No durarás mucho en la industria
+Dialogue: 0,0:11:45.89,0:11:48.56,Gen_Main,,0,0,0,,si no puedes llevarte un poco mejor\Ncon quienes te rodean.
+Dialogue: 0,0:11:50.11,0:11:56.50,Gen_Main,,0,0,0,,Gracias a las palabras del director,\Nde algún modo permanecí en la industria.
+Dialogue: 0,0:11:57.07,0:12:02.28,Gen_Main,,0,0,0,,Si no me lo hubiera dicho en ese momento,\Nhace tiempo que me habría ido.
+Dialogue: 0,0:12:03.20,0:12:06.00,Gen_Main,,0,0,0,,Aprendí que no era una niña prodigio…
+Dialogue: 0,0:12:06.54,0:12:09.43,Gen_Main,,0,0,0,,y que a los adultos les preocupa más\Ncontratar niños manejables
+Dialogue: 0,0:12:09.50,0:12:11.50,Gen_Main,,0,0,0,,que su capacidad interpretativa.
+Dialogue: 0,0:12:11.50,0:12:18.47,Cart_A_Tre,,0,0,0,,AUDICIONES
+Dialogue: 0,0:12:11.75,0:12:17.23,Gen_Main,,0,0,0,,Estaba diciendo que ya decidieron\Nelegirte para el papel.
+Dialogue: 0,0:12:19.22,0:12:21.18,Gen_Main,,0,0,0,,Se equivocó, ¿verdad?
+Dialogue: 0,0:12:21.26,0:12:24.00,Gen_Main_Up,,0,0,0,,Tú jamás harías trampa así, ¿verdad?
+Dialogue: 0,0:12:21.26,0:12:24.97,Gen_Main,,0,0,0,,Me obligué a tragarme todo lo desagradable.
+Dialogue: 0,0:12:25.39,0:12:27.10,Gen_Main,,0,0,0,,Para sobrevivir en la industria,
+Dialogue: 0,0:12:27.18,0:12:30.30,Gen_Main,,0,0,0,,aprendí a igualar mi actuación\Na la de los demás.
+Dialogue: 0,0:12:31.56,0:12:35.08,Gen_Main,,0,0,0,,Parece que se divierten actuando.
+Dialogue: 0,0:12:35.15,0:12:37.50,Gen_Main,,0,0,0,,Yo también disfruto viéndolo.
+Dialogue: 0,0:12:38.32,0:12:40.38,Gen_Main,,0,0,0,,Pero yo estoy bien aquí.
+Dialogue: 0,0:12:40.45,0:12:43.40,Gen_Main,,0,0,0,,Eso es lo que hará felices a todos.
+Dialogue: 0,0:12:43.78,0:12:46.48,Gen_Main,,0,0,0,,Tanto a los adultos como a mamá…
+Dialogue: 0,0:12:48.00,0:12:51.18,Gen_Main,,0,0,0,,No pasa nada si no soy la estrella.
+Dialogue: 0,0:12:59.47,0:13:02.10,Gen_Main,,0,0,0,,Siempre haces eso…
+Dialogue: 0,0:13:02.18,0:13:05.60,Gen_Main,,0,0,0,,Aunque me ilumines, no cambiará nada.
+Dialogue: 0,0:13:05.97,0:13:09.93,Gen_Main,,0,0,0,,El rol de Tsurugi es el de una simple\Ne inocente fanática del combate.
+Dialogue: 0,0:13:10.27,0:13:13.06,Gen_Main,,0,0,0,,Una actuación tímida\Nno brillará en el escenario, ¿verdad?
+Dialogue: 0,0:13:13.48,0:13:16.33,Gen_Main,,0,0,0,,En eso tienes razón.
+Dialogue: 0,0:13:16.82,0:13:20.53,Gen_Main,,0,0,0,,Pero causaré problemas a los que me rodean\Nsi hago lo que me da la gana.
+Dialogue: 0,0:13:21.28,0:13:25.00,Gen_Main,,0,0,0,,Todos dicen que eso\Nes lo que quieren ver de ti.
+Dialogue: 0,0:13:31.79,0:13:33.80,Gen_Main,,0,0,0,,Yo te apoyo.
+Dialogue: 0,0:13:35.29,0:13:39.00,Gen_Main,,0,0,0,,También quiero verte hacer\Nlo que quieras al actuar, Arima.
+Dialogue: 0,0:13:44.89,0:13:47.30,Gen_Main,,0,0,0,,¡Ay por favor…!
+Dialogue: 0,0:13:47.39,0:13:49.89,Gen_Main,,0,0,0,,¡Aqua, tú tienes la culpa de esto!
+Dialogue: 0,0:13:51.14,0:13:54.81,Gen_Main,,0,0,0,,¡Siempre me vuelves loca!
+Dialogue: 0,0:14:00.03,0:14:03.95,Gen_Main,,0,0,0,,¡No te burles de mí!\N¡¿Quién te crees que soy?!
+Dialogue: 0,0:14:29.26,0:14:30.85,Gen_Main,,0,0,0,,Se ve divertido.
+Dialogue: 0,0:14:31.52,0:14:33.48,Gen_Main,,0,0,0,,Ah, claro.
+Dialogue: 0,0:14:34.39,0:14:39.43,Gen_Main,,0,0,0,,Comercialmente, se tendía a resaltar\Nsu actuación fácil de entender y triste,
+Dialogue: 0,0:14:39.52,0:14:43.80,Gen_Main,,0,0,0,,pero fue con este tipo de interpretaciones\Ncon las que Kana arrasó en todo el mundo.
+Dialogue: 0,0:14:44.78,0:14:49.05,Gen_Main,,0,0,0,,La actuación de una estrella, tan brillante\Ncomo el sol y tan radiante que quema los ojos.
+Dialogue: 0,0:14:50.24,0:14:55.53,Gen_Main,,0,0,0,,La he utilizado por su habilidad actoral,\Npero aparentemente su luz nunca se apagó.
+Dialogue: 0,0:14:56.50,0:14:58.53,Gen_Main,,0,0,0,,Qué sorpresa, ¿verdad?
+Dialogue: 0,0:14:59.59,0:15:04.22,Gen_Main,,0,0,0,,¡Miren! Esto es lo que querían ver, ¿no?\N¡Mi actuación!
+Dialogue: 0,0:15:08.18,0:15:11.10,Gen_Main,,0,0,0,,¡Mírenme más!
+Dialogue: 0,0:15:12.68,0:15:17.36,Cart_A_Tre,,0,0,0,,TUTUM TUTUM
+Dialogue: 0,0:15:13.48,0:15:17.35,Gen_Main,,0,0,0,,Kana… Kana… ¡Kana…!
+Dialogue: 0,0:15:17.48,0:15:19.05,Gen_Main,,0,0,0,,¡Kana Arima!
+Dialogue: 0,0:15:30.70,0:15:31.74,Gen_Main,,0,0,0,,Arima.
+Dialogue: 0,0:15:33.95,0:15:35.25,Gen_Main,,0,0,0,,Akane.
+Dialogue: 0,0:15:36.00,0:15:39.75,Gen_Main,,0,0,0,,Hacen una gran actuación\Ny parece que se divierten.
+Dialogue: 0,0:15:40.46,0:15:41.88,Gen_Main,,0,0,0,,Son deslumbrantes.
+Dialogue: 0,0:15:43.63,0:15:46.09,Gen_Main,,0,0,0,,¿Y tú?
+Dialogue: 0,0:15:46.63,0:15:48.30,Gen_Main,,0,0,0,,Yo soy diferente.
+Dialogue: 0,0:15:48.93,0:15:52.85,Gen_Main,,0,0,0,,No tengo la calidad de estrella\Nque tienen ustedes.
+Dialogue: 0,0:15:55.52,0:15:56.94,Gen_Main,,0,0,0,,Así es.
+Dialogue: 0,0:15:57.73,0:16:00.65,Gen_Main,,0,0,0,,Esa es la Kana que estaba deseando ver.
+Dialogue: 0,0:16:01.02,0:16:04.95,Gen_Main,,0,0,0,,Esa es la Kana que quería eclipsar.
+Dialogue: 0,0:16:05.86,0:16:07.11,Gen_Main,,0,0,0,,¡Iaaa!
+Dialogue: 0,0:16:09.16,0:16:11.20,Gen_Main,,0,0,0,,¡Blade! ¡Ahora!
+Dialogue: 0,0:16:11.28,0:16:12.53,Gen_Main,,0,0,0,,¡Lo tengo!
+Dialogue: 0,0:16:13.58,0:16:15.04,Gen_Main,,0,0,0,,¡Iaaa!
+Dialogue: 0,0:16:35.22,0:16:38.93,Gen_Main,,0,0,0,,Quería ganar… ¿sabes?
+Dialogue: 0,0:16:51.57,0:16:53.12,Gen_Main,,0,0,0,,Mi herida…
+Dialogue: 0,0:17:22.77,0:17:24.40,Gen_Main,,0,0,0,,Empuña tu espada.
+Dialogue: 0,0:17:25.19,0:17:28.86,Gen_Main,,0,0,0,,Tu mujer ha sido asesinada,\N¿y pretendes retirarte en silencio?
+Dialogue: 0,0:17:30.49,0:17:31.93,Gen_Main,,0,0,0,,Ya he tenido suficiente.
+Dialogue: 0,0:17:32.99,0:17:35.93,Gen_Main,,0,0,0,,Luché únicamente\Nal servicio de la Princesa Saya.
+Dialogue: 0,0:17:36.74,0:17:40.54,Gen_Main,,0,0,0,,Al no haber podido protegerla,\Nya no tengo motivos para luchar.
+Dialogue: 0,0:17:43.29,0:17:44.88,Gen_Main,,0,0,0,,¿Eso es todo?
+Dialogue: 0,0:17:45.63,0:17:47.09,Gen_Main,,0,0,0,,¿No hay nada más?
+Dialogue: 0,0:17:47.63,0:17:49.20,Gen_Main,,0,0,0,,Muy dentro de ti también…
+Dialogue: 0,0:17:52.84,0:17:54.97,Gen_Main,,0,0,0,,Actuar es divertido, ¿eh?
+Dialogue: 0,0:18:00.23,0:18:04.90,Gen_Main,,0,0,0,,Pero contigo, cuanto más divertido es,\Nmás dolorido pareces.
+Dialogue: 0,0:18:08.61,0:18:12.70,Cart_A_Tre,,0,0,0,,SU ANSIEDAD DESAPARECERÁ\NTRASTORNO DE PÁNICO
+Dialogue: 0,0:18:09.07,0:18:12.70,Gen_Main,,0,0,0,,El trastorno de pánico\Nno es una enfermedad tan inusual, ¿sabes?
+Dialogue: 0,0:18:13.28,0:18:16.16,Gen_Main,,0,0,0,,De hecho,\Ntengo varios amigos que la tienen.
+Dialogue: 0,0:18:16.53,0:18:20.87,Gen_Main,,0,0,0,,La forma de afrontarlo es saber\Ncuál es el detonante que lo provoca.
+Dialogue: 0,0:18:21.41,0:18:26.45,Gen_Main,,0,0,0,,Alguien que entra en pánico en los trenes\Npuede no verse afectado si está con otros.
+Dialogue: 0,0:18:26.92,0:18:30.43,Gen_Main,,0,0,0,,No saber cuándo y dónde\Nvas a tener un ataque de pánico
+Dialogue: 0,0:18:30.51,0:18:32.84,Gen_Main,,0,0,0,,no hace más que provocarlos aún más.
+Dialogue: 0,0:18:33.93,0:18:35.43,Gen_Main,,0,0,0,,El detonante…
+Dialogue: 0,0:18:36.93,0:18:38.55,Gen_Main,,0,0,0,,Mi detonante…
+Dialogue: 0,0:18:39.26,0:18:41.98,Gen_Main,,0,0,0,,Tu sentimiento de culpa, ¿no?
+Dialogue: 0,0:18:43.23,0:18:46.35,Gen_Main,,0,0,0,,Yo también tengo experiencia como actor.
+Dialogue: 0,0:18:46.44,0:18:49.19,Gen_Main,,0,0,0,,Después de observarte\Ndurante unos días, me di cuenta.
+Dialogue: 0,0:18:49.73,0:18:54.90,Gen_Main,,0,0,0,,Hay un momento en el que te sumerges\Nen una actuación y te diviertes actuando.
+Dialogue: 0,0:18:55.32,0:18:58.66,Gen_Main,,0,0,0,,Y siempre es durante esos momentos\Ncuando te da un ataque de pánico.
+Dialogue: 0,0:19:02.75,0:19:05.62,Gen_Main,,0,0,0,,Te da culpa disfrutar de la actuación.
+Dialogue: 0,0:19:06.25,0:19:08.00,Gen_Main,,0,0,0,,Y por extensión, por Ai…
+Dialogue: 0,0:19:08.13,0:19:10.73,Gen_Main,,0,0,0,,sientes culpa por tu madre.
+Dialogue: 0,0:19:12.30,0:19:15.76,Gen_Main,,0,0,0,,Eso es lo que te enloquece.\N¿Me equivoco?
+Dialogue: 0,0:19:16.09,0:19:17.68,Gen_Main,,0,0,0,,¿Así que lo sabías?
+Dialogue: 0,0:19:17.76,0:19:21.45,Gen_Main,,0,0,0,,Después de todo,\Nte conozco hace bastante tiempo.
+Dialogue: 0,0:19:21.51,0:19:23.39,Gen_Main,,0,0,0,,Tenía cierta idea.
+Dialogue: 0,0:19:23.98,0:19:28.06,Gen_Main,,0,0,0,,Ese extraordinario apego que tú\Ny tu hermana tenían por Ai…
+Dialogue: 0,0:19:28.73,0:19:32.03,Gen_Main,,0,0,0,,Además, la primera vez\Nque nos vimos fue en un set con Ai.
+Dialogue: 0,0:19:33.07,0:19:36.08,Gen_Main,,0,0,0,,Cuando me di cuenta, todo cobró sentido.
+Dialogue: 0,0:19:38.07,0:19:42.45,Gen_Main,,0,0,0,,También me hago una idea de por qué\Nte obsesiona tanto el mundo del espectáculo.
+Dialogue: 0,0:19:44.70,0:19:46.29,Gen_Main,,0,0,0,,Debe ser duro para ti.
+Dialogue: 0,0:19:47.04,0:19:49.75,Gen_Main,,0,0,0,,No puedes disfrutar de la actuación
+Dialogue: 0,0:19:49.88,0:19:53.00,Gen_Main,,0,0,0,,y es como si actuaras\Nsolo para vengarte, ¿no?
+Dialogue: 0,0:19:53.67,0:19:57.98,Gen_Main,,0,0,0,,Podrías alejarte de la actuación por ahora\Ny concentrarte en tu terapia, ¿no crees?
+Dialogue: 0,0:19:59.09,0:20:00.80,Gen_Main,,0,0,0,,Estoy bien así.
+Dialogue: 0,0:20:01.10,0:20:03.25,Gen_Main,,0,0,0,,No me importa lo que me pase.
+Dialogue: 0,0:20:04.60,0:20:09.27,Gen_Main,,0,0,0,,Mi único propósito de vida es vengar a Ai.
+Dialogue: 0,0:20:11.36,0:20:12.88,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:20:13.86,0:20:18.03,Gen_Main,,0,0,0,,En ese caso, solo tienes una opción.
+Dialogue: 0,0:20:18.57,0:20:21.41,Gen_Main,,0,0,0,,Una muy dolorosa y agotadora.
+Dialogue: 0,0:20:22.45,0:20:24.91,Gen_Main,,0,0,0,,Ya no debes…
+Dialogue: 0,0:20:25.87,0:20:28.00,Gen_Main,,0,0,0,,disfrutar de la actuación.
+Dialogue: 0,0:20:45.97,0:20:50.68,Gen_Main,,0,0,0,,A casi todos los buenos intérpretes\Nles encanta hacerlo,
+Dialogue: 0,0:20:50.77,0:20:54.27,Gen_Main,,0,0,0,,y su mayor don\Nes poder disfrutar de la actuación.
+Dialogue: 0,0:20:55.53,0:20:58.23,Gen_Main,,0,0,0,,Debes tomar el camino opuesto.
+Dialogue: 0,0:20:58.82,0:21:01.70,Gen_Main,,0,0,0,,Sufre al actuar.
+Dialogue: 0,0:21:02.62,0:21:04.91,Gen_Main,,0,0,0,,Para ti, actuar
+Dialogue: 0,0:21:06.79,0:21:10.08,Gen_Main,,0,0,0,,es algo doloroso y arduo.
+Dialogue: 0,0:21:12.46,0:21:15.80,Gen_Main,,0,0,0,,No vuelvas a pensar en ello\Ncomo algo agradable.
+Dialogue: 0,0:21:19.34,0:21:20.76,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:21:21.93,0:21:23.22,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:21:24.85,0:21:26.00,Gen_Main,,0,0,0,,Ai…
+Dialogue: 0,0:21:32.06,0:21:34.94,Gen_Main,,0,0,0,,¡Fuera de mi camino, Taiki Himekawa!
+Dialogue: 0,0:21:35.36,0:21:38.13,Gen_Main,,0,0,0,,¡Kana Arima! ¡Akane Kurokawa!
+Dialogue: 0,0:21:38.19,0:21:42.70,Gen_Main,,0,0,0,,¡Los derrotaré a todos\Ny me haré conocer en esta industria!
+Dialogue: 0,0:21:51.08,0:21:53.25,Gen_Main,,0,0,0,,No necesito nada más.
+Dialogue: 0,0:21:54.96,0:22:00.70,Gen_Main,,0,0,0,,Para mí, ¡actuar significa venganza!
+Dialogue: 0,0:22:04.09,0:22:09.60,Cart_A_Tre,,0,0,0,,EPISODIO 19\NDETONANTE
