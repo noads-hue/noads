@@ -1,0 +1,355 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Texto,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+Style: Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,15,0
+Style: Titulo,Trebuchet MS,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,31,1
+Style: Titulo2,Times New Roman,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,14,1
+Style: Introtexto,Arial,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,-1,0,0,100,100,0,0,1,1,0,8,10,10,10,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H001F1F1F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_Serieslogo,Times New Roman,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,0,0,5,5,5,0,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_TitleEp,Times New Roman,20,&H00AD9A71,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,110,0,0,1,1.4,0,1,30,30,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.31,Cart_A_Tim,CARTEL,0,0,0,,{\an5\fs30\t(\fs29)\bord0\c&H0D0509&\t(1,959,\c&HEFF1F1&)\move(185,117,190,119,0,3294)}OSHI {\c&H640CD8&\t(1,959,\c&H7A00CE&)}NO {\c&H0D0509&\t(1,959,\c&HEFF1F1&)}KO
+Dialogue: 0,0:01:29.98,0:01:32.74,Cart_A_Tim,CARTEL,0,0,0,,{\an7\fs16\fscy150\bord0\blur0.3\c&H130A17&\pos(337.623,178.439)}Producciones Ichigo\NSaito
+Dialogue: 0,0:01:32.74,0:01:35.24,Cart_A_Tim,CARTEL,0,0,0,,{\p1\shad0\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&HFAF9F6&\3c&H3A4562&\pos(428,3.467)}m 0 0 l 225 0 225 150 0 150
+Dialogue: 2,0:01:32.74,0:01:35.24,Cart_A_Tim,CARTEL,0,0,0,,{\bord1.5\fs12\an7\c&HF0F0F3&\3c&H66B4C4&\pos(433.201,8.933)}La actriz M se arrepiente de su infidelidad\N{\shad1\3c&H263348&\4c&H443C95&\fs16}Historias Reales del Espectáculo\N{\fs12\shad0\3c&HE6F07F&\c&H724E30&}Mentiras y verdades en los documentales\N{\c&HF0F0F3&\3c&H5590E2&}El lado oscuro de la industria idol\N{\c&H7635A2&\3c&HD09CE3&}Infidelidades, deudas y abuso psicológico\NLa verdad tras los problemas del actor H\N{\c&HF0F0F3&\3c&HA06F3A&}Lo que no sabemos de Takakatsu Yone\N{\3c&H64BB3D&}Hombres que se quedan atrás
+Dialogue: 0,0:01:39.24,0:01:42.62,Gen_Main,miyako,0,0,0,,Sobre el artículo\Nde Historias Reales del Espectáculo…
+Dialogue: 0,0:01:43.04,0:01:45.75,Gen_Main,miyako,0,0,0,,Pensemos qué hacer entre todos.
+Dialogue: 0,0:01:50.18,0:01:52.14,Gen_Main,ruby,0,0,0,,Está claramente deprimida.
+Dialogue: 0,0:01:54.72,0:01:57.12,Gen_Main,mem,0,0,0,,Es normal.
+Dialogue: 0,0:01:58.08,0:02:03.18,Gen_Main,ruby,0,0,0,,Cuesta creer que el escándalo\Nsea de la que menos hombres atrae.
+Dialogue: 0,0:02:03.43,0:02:05.31,Gen_Main,kana,0,0,0,,¡No hay ningún escándalo!
+Dialogue: 0,0:02:05.58,0:02:08.18,Gen_Main,kana,0,0,0,,¿Y qué importa\Nsi atraigo a hombres o no?
+Dialogue: 0,0:02:09.36,0:02:12.64,Gen_Main,kana,0,0,0,,El director Shima y yo no hicimos nada.
+Dialogue: 0,0:02:13.26,0:02:16.80,Gen_Main,kana,0,0,0,,Pero es verdad que hablamos\Nen un apartamento.
+Dialogue: 0,0:02:19.08,0:02:21.98,Gen_Main,kana,0,0,0,,Estuve sola con él hasta el amanecer.
+Dialogue: 0,0:02:22.52,0:02:24.92,Gen_Main,kana,0,0,0,,Los fans lo malinterpretarán.
+Dialogue: 0,0:02:33.30,0:02:34.55,Gen_Main,kana,0,0,0,,Lo siento.
+Dialogue: 0,0:02:35.82,0:02:38.40,Gen_Main,miyako,0,0,0,,No necesitas disculparte conmigo.
+Dialogue: 0,0:02:39.12,0:02:42.54,Gen_Main,miyako,0,0,0,,Si te sientes mal por ellas, me basta.
+Dialogue: 0,0:02:43.76,0:02:49.18,Gen_Main,miyako,0,0,0,,No creo que la foto de un periodista\Nte haga menos profesional.
+Dialogue: 0,0:02:51.14,0:02:55.66,Gen_Main,miyako,0,0,0,,Los de las revistas de chismes\Nhacen cualquier cosa por un artículo.
+Dialogue: 0,0:02:55.80,0:02:58.66,Gen_Main,miyako,0,0,0,,Como ofrecer tratos\Npara que bajes la guardia
+Dialogue: 0,0:02:58.82,0:03:00.68,Gen_Main,miyako,0,0,0,,sin que los cacen en el acto.
+Dialogue: 0,0:03:01.14,0:03:03.42,Gen_Main,miyako,0,0,0,,Con Ai también pasé por esto.
+Dialogue: 0,0:03:03.56,0:03:04.62,Gen_Main,kana,0,0,0,,Pero…
+Dialogue: 1,0:03:04.62,0:03:11.10,Cart_A_Tim,CARTEL,0,0,0,,{\p1\shad0\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&HFAF9F6&\3c&H3A4562&\pos(428,3.467)}m 0 0 l 225 0 225 150 0 150
+Dialogue: 2,0:03:04.62,0:03:11.10,Cart_A_Tim,CARTEL,0,0,0,,{\bord1.5\fs12\an7\c&HF0F0F3&\3c&H66B4C4&\pos(433.201,8.933)}La actriz M se arrepiente de su infidelidad\N{\shad1\3c&H263348&\4c&H443C95&\fs16}Historias Reales del Espectáculo\N{\fs12\shad0\3c&HE6F07F&\c&H724E30&}Mentiras y verdades en los documentales\N{\c&HF0F0F3&\3c&H5590E2&}El lado oscuro de la industria idol\N{\c&H7635A2&\3c&HD09CE3&}Infidelidades, deudas y abuso psicológico\NLa verdad tras los problemas del actor H\N{\c&HF0F0F3&\3c&HA06F3A&}Lo que no sabemos de Takakatsu Yone\N{\3c&H64BB3D&}Hombres que se quedan atrás
+Dialogue: 0,0:03:04.92,0:03:07.78,Gen_Main,miyako,0,0,0,,Las exclusivas de idols
+Dialogue: 0,0:03:07.94,0:03:11.08,Gen_Main,miyako,0,0,0,,no suelen darle mucho dinero\Na las editoriales.
+Dialogue: 0,0:03:12.68,0:03:16.00,Gen_Main,miyako,0,0,0,,A no ser que sea\Nun grupo superconocido.
+Dialogue: 0,0:03:16.58,0:03:20.60,Gen_Main,miyako,0,0,0,,B-Komachi aún no está a la altura\Nde aparecer en esas revistas.
+Dialogue: 0,0:03:20.90,0:03:22.51,Gen_Main,ruby,0,0,0,,¿Y por qué lo escribió?
+Dialogue: 0,0:03:22.51,0:03:25.97,Cart_A_Tim,CARTEL,0,0,0,,{\fs9\blur0.5\fax-0.2\bord1.5\shad1\3c&H263348&\4c&H443C95&\pos(268.267,172.534)\frz165.2}Historias Reales del Espectáculo
+Dialogue: 0,0:03:22.94,0:03:25.98,Gen_Main,miyako,0,0,0,,Miren la fotografía\Nque envió la editorial.
+Dialogue: 0,0:03:26.38,0:03:29.62,Gen_Main,miyako,0,0,0,,Se tomó delante del apartamento\Ndel director Shima.
+Dialogue: 0,0:03:29.84,0:03:32.84,Gen_Main,miyako,0,0,0,,Como los famosos no suelen usar hoteles,
+Dialogue: 0,0:03:32.96,0:03:34.88,Gen_Main,miyako,0,0,0,,esperó delante de la casa.
+Dialogue: 0,0:03:35.48,0:03:37.96,Gen_Main,mem,0,0,0,,¿Qué quieres decir?
+Dialogue: 0,0:03:38.18,0:03:42.98,Gen_Main,miyako,0,0,0,,Que el objetivo de este artículo\Nsiempre fue el director Shima.
+Dialogue: 0,0:03:44.68,0:03:49.10,Gen_Main,miyako,0,0,0,,Yo también oí\Nque Shima es un {\i1}playboy{\i0}.
+Dialogue: 0,0:03:49.34,0:03:51.86,Gen_Main,miyako,0,0,0,,Seguro que tuvo más de un problema.
+Dialogue: 0,0:03:52.58,0:03:57.16,Gen_Main,miyako,0,0,0,,Imagino que alguna de sus conquistas\Nfiltró la información.
+Dialogue: 0,0:03:58.62,0:04:00.84,Gen_Main,miyako,0,0,0,,Solo eres daño colateral.
+Dialogue: 0,0:04:01.68,0:04:04.22,Gen_Main,ruby,0,0,0,,Entonces esa mujer es cómplice.
+Dialogue: 0,0:04:04.38,0:04:06.62,Gen_Main,miyako,0,0,0,,Pues sí.
+Dialogue: 0,0:04:08.96,0:04:11.66,Gen_Italics,kana,0,0,0,,Conque fue Mako.
+Dialogue: 0,0:04:13.22,0:04:16.68,Gen_Main,mem,0,0,0,,Las filtraciones de conocidos\Nme ponen triste.
+Dialogue: 0,0:04:16.92,0:04:18.61,Gen_Main,miyako,0,0,0,,Es algo muy común.
+Dialogue: 0,0:04:18.92,0:04:23.49,Gen_Main,miyako,0,0,0,,De aquí en adelante no sigas\Na hombres a quienes les guarden rencor.
+Dialogue: 1,0:04:23.70,0:04:24.50,Cart_A_Tim,CARTEL,0,0,0,,{\fad(188,0)\p1\shad0\bord1\alpha30\blur0.3\an7\fscx93\fscy74\c&H2A3A48&\3c&H3D29D4&\pos(440.308,13.313)}m 0 0 l 200 0 200 35 0 35
+Dialogue: 2,0:04:23.70,0:04:24.50,Cart_A_Tim,CARTEL,0,0,0,,{\fad(188,0)\fs14\blur0.5\bord1.5\shad1\3c&H263348&\4c&H443C95&\pos(532.267,18.688)}Historias Reales del Espectáculo
+Dialogue: 0,0:04:25.70,0:04:29.70,Gen_Main,miyako,0,0,0,,Seamos educadas\Ncon el periodista del artículo.
+Dialogue: 0,0:04:30.26,0:04:35.70,Gen_Main,miyako,0,0,0,,Tienden a escribir artículos horribles\Nsobre los que los tratan mal.
+Dialogue: 0,0:04:36.96,0:04:38.21,Gen_Main,kana,0,0,0,,Lo siento.
+Dialogue: 0,0:04:39.12,0:04:42.10,Gen_Main,kana,0,0,0,,Quería un trabajo como actriz
+Dialogue: 0,0:04:42.32,0:04:44.93,Gen_Main,kana,0,0,0,,e intenté ganarme su favor.
+Dialogue: 0,0:04:45.42,0:04:47.89,Gen_Main,kana,0,0,0,,No me fijé en lo que pasaba.
+Dialogue: 0,0:04:49.04,0:04:51.85,Gen_Main,kana,0,0,0,,Lo siento mucho. Yo…
+Dialogue: 0,0:04:58.12,0:04:59.76,Gen_Main,mem,0,0,0,,No pasa nada.
+Dialogue: 0,0:05:01.62,0:05:03.40,Gen_Main,mem,0,0,0,,Lo entendemos.
+Dialogue: 0,0:05:05.46,0:05:08.72,Gen_Main,mem,0,0,0,,Nosotras también somos humanas.
+Dialogue: 0,0:05:08.92,0:05:11.96,Gen_Main,mem,0,0,0,,A veces nos deprimimos\Ny nos despistamos.
+Dialogue: 0,0:05:12.22,0:05:15.41,Gen_Main,mem,0,0,0,,Nadie puede tener una vida perfecta.
+Dialogue: 0,0:05:16.42,0:05:18.00,Gen_Main,mem,0,0,0,,No pasa nada.
+Dialogue: 0,0:05:38.62,0:05:41.04,Gen_Main,ruby,0,0,0,,¿Qué crees que le pasará a Kana?
+Dialogue: 0,0:05:41.60,0:05:45.32,Gen_Main,ruby,0,0,0,,Imagino que afectará a su carrera.
+Dialogue: 0,0:05:46.94,0:05:48.20,Gen_Main,ruby,0,0,0,,Pobrecita.
+Dialogue: 0,0:05:50.66,0:05:54.87,Gen_Main,mem,0,0,0,,Kana hace de idol por ti, Aqu.
+Dialogue: 0,0:05:55.26,0:05:58.68,Gen_Main,mem,0,0,0,,Confió en este camino\Nporque se lo propusiste tú.
+Dialogue: 0,0:05:58.98,0:06:02.02,Gen_Main,mem,0,0,0,,Se hizo idol porque era lo que querías.
+Dialogue: 0,0:06:03.64,0:06:07.48,Gen_Main,aqua,0,0,0,,Ruby, si para ti conllevara dolor
+Dialogue: 0,0:06:07.88,0:06:10.60,Gen_Main,aqua,0,0,0,,y fuera una elección muy dura…
+Dialogue: 0,0:06:12.66,0:06:14.52,Gen_Main,aqua,0,0,0,,¿Querrías salvar a Arima
+Dialogue: 0,0:06:15.48,0:06:17.72,Gen_Main,aqua,0,0,0,,si existiera una forma de hacerlo?
+Dialogue: 0,0:06:25.78,0:06:27.06,Gen_Main,ruby,0,0,0,,Pues claro.
+Dialogue: 0,0:06:27.40,0:06:28.82,Gen_Main,ruby,0,0,0,,Es mi compañera.
+Dialogue: 0,0:06:31.10,0:06:32.20,Gen_Main,aqua,0,0,0,,Ya veo.
+Dialogue: 0,0:06:54.84,0:06:55.93,Gen_Main,miyako,0,0,0,,Gracias.
+Dialogue: 0,0:07:04.76,0:07:08.28,Gen_Main,ruby,0,0,0,,¿No retirará el artículo ese\Nsi lo sobornamos?
+Dialogue: 0,0:07:08.76,0:07:10.68,Gen_Main,miyako,0,0,0,,Es demasiado tarde.
+Dialogue: 0,0:07:10.88,0:07:13.66,Gen_Main,ruby,0,0,0,,¿No habrá algún truco para lograrlo?
+Dialogue: 0,0:07:15.80,0:07:19.70,Gen_Main,miyako,0,0,0,,Hay una forma\Nde evitar que se publique, pero…
+Dialogue: 0,0:07:19.88,0:07:20.91,Gen_Main,ruby,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:07:21.38,0:07:24.54,Gen_Main,miyako,0,0,0,,Las agencias grandes\Nlo hacen de vez en cuando,
+Dialogue: 0,0:07:24.98,0:07:27.30,Gen_Main,miyako,0,0,0,,pero nosotros no podemos.
+Dialogue: 0,0:07:27.50,0:07:30.13,Gen_Main,ruby,0,0,0,,¿Cuál es? ¡Dímela!
+Dialogue: 0,0:07:33.84,0:07:35.76,Gen_Main,miyako,0,0,0,,La solución es…
+Dialogue: 0,0:07:44.44,0:07:47.69,Cart_A_Tim,CARTEL,0,0,0,,{\bord1\fs13\shad2\c&H12193F&\3c&H75757B&\4c&H0B0D14&\4a&H8D&\pos(527.6,255.6)}Historias Reales del Espectáculo\N\N\N{\c&H050505&\fs10}Escritor\h\h\h\h{\fs20}Kazuhiko Itano
+Dialogue: 0,0:07:45.52,0:07:47.69,Gen_Main,itano,0,0,0,,Hola, Hoshino.
+Dialogue: 0,0:07:48.24,0:07:50.06,Gen_Main,aqua,0,0,0,,Siento llamar tan tarde.
+Dialogue: 0,0:07:50.30,0:07:51.40,Gen_Main,itano,0,0,0,,No importa.
+Dialogue: 0,0:07:55.62,0:07:59.68,Gen_Main,itano,0,0,0,,Me interesa darle más valor\Na mis artículos
+Dialogue: 0,0:07:59.90,0:08:03.10,Gen_Main,itano,0,0,0,,y aún no está todo impreso.
+Dialogue: 0,0:08:03.78,0:08:05.52,Gen_Main,itano,0,0,0,,Según tu correo,
+Dialogue: 0,0:08:06.04,0:08:08.92,Gen_Main,itano,0,0,0,,quieres hablar sobre Arima,
+Dialogue: 0,0:08:09.10,0:08:12.66,Gen_Main,itano,0,0,0,,una compañera de la misma agencia.
+Dialogue: 0,0:08:12.86,0:08:16.12,Gen_Main,aqua,0,0,0,,Primero quiero comprobar\Nun par de cosas.
+Dialogue: 0,0:08:17.42,0:08:18.56,Gen_Main,itano,0,0,0,,Claro.
+Dialogue: 0,0:08:19.24,0:08:21.34,Gen_Main,aqua,0,0,0,,¿Podrías obviar su nombre
+Dialogue: 0,0:08:21.86,0:08:26.96,Gen_Main,aqua,0,0,0,,y escribir el artículo\Nsobre "A, miembro de un grupo de idols"?
+Dialogue: 0,0:08:28.98,0:08:30.62,Gen_Main,itano,0,0,0,,Lo veo difícil.
+Dialogue: 0,0:08:30.94,0:08:32.03,Gen_Main,aqua,0,0,0,,¿Por qué?
+Dialogue: 0,0:08:32.50,0:08:35.46,Gen_Main,itano,0,0,0,,Es el artículo principal de este número.
+Dialogue: 0,0:08:35.88,0:08:38.86,Gen_Main,itano,0,0,0,,Arima es adulta y popular.
+Dialogue: 0,0:08:39.06,0:08:41.48,Gen_Main,itano,0,0,0,,Es una figura pública.
+Dialogue: 0,0:08:41.72,0:08:44.52,Gen_Main,itano,0,0,0,,No hay razón para ocultar su nombre.
+Dialogue: 0,0:08:45.20,0:08:47.22,Gen_Main,aqua,0,0,0,,Arima aún va en preparatoria.
+Dialogue: 0,0:08:47.50,0:08:49.42,Gen_Main,itano,0,0,0,,Pero es una celebridad.
+Dialogue: 0,0:08:50.00,0:08:54.48,Gen_Main,itano,0,0,0,,Gana dinero con su rostro\Ny su popularidad.
+Dialogue: 0,0:08:54.74,0:08:59.44,Gen_Main,itano,0,0,0,,No puedo considerarla\Nuna persona corriente solo para esto.
+Dialogue: 0,0:08:59.98,0:09:01.50,Gen_Main,aqua,0,0,0,,Yo no opino lo mismo.
+Dialogue: 0,0:09:01.78,0:09:05.28,Gen_Main,aqua,0,0,0,,Fotografiarla como un acosador\Nya es problemático.
+Dialogue: 0,0:09:05.60,0:09:08.88,Gen_Main,itano,0,0,0,,Cada uno tiene sus opiniones.
+Dialogue: 0,0:09:10.70,0:09:14.46,Gen_Main,itano,0,0,0,,Tanto Arima como el director Shima\Nson figuras públicas
+Dialogue: 0,0:09:14.64,0:09:18.40,Gen_Main,itano,0,0,0,,y solo informamos\Nque entraron juntos a un apartamento.
+Dialogue: 0,0:09:18.66,0:09:21.78,Gen_Main,itano,0,0,0,,No escribí nada\Nsobre lo que pasó luego.
+Dialogue: 0,0:09:22.20,0:09:25.02,Gen_Main,itano,0,0,0,,Eso lo interpretarán los lectores.
+Dialogue: 0,0:09:25.24,0:09:28.24,Gen_Main,aqua,0,0,0,,Aunque no hubiera pasado nada,
+Dialogue: 0,0:09:28.40,0:09:31.20,Gen_Main,aqua,0,0,0,,los lectores asumirían lo peor de Arima.
+Dialogue: 0,0:09:32.42,0:09:37.01,Gen_Main,aqua,0,0,0,,¿No te duele hacerle\Npasar por eso a una colegiala?
+Dialogue: 0,0:09:39.12,0:09:42.74,Gen_Main,itano,0,0,0,,Sí. Pero así es\Nel trabajo de un periodista.
+Dialogue: 0,0:09:44.02,0:09:48.18,Gen_Main,itano,0,0,0,,Quizás te parezca una revista vulgar\Npor publicar artículos como este,
+Dialogue: 0,0:09:48.42,0:09:51.58,Gen_Main,itano,0,0,0,,pero son los lectores\Nlos que quieren saberlo.
+Dialogue: 0,0:09:51.86,0:09:54.20,Gen_Main,itano,0,0,0,,La oferta se basa en la demanda.
+Dialogue: 0,0:09:54.42,0:09:56.48,Gen_Main,itano,0,0,0,,Nosotros escuchamos a los implicados.
+Dialogue: 0,0:09:56.64,0:10:02.20,Gen_Main_Up,itano,0,0,0,,haciendo que el daño sea menor\Nque en artículos online.
+Dialogue: 0,0:10:00.02,0:10:03.90,Gen_Italics,aqua,0,0,0,,La mayoría de revistas las semanales\Ntienen entre 20 y 30 periodistas
+Dialogue: 0,0:10:02.38,0:10:07.74,Gen_Main_Up,itano,0,0,0,,Cuando uno se hace famoso\Ndebe saber tratar con la prensa.
+Dialogue: 0,0:10:04.08,0:10:07.24,Gen_Italics,aqua,0,0,0,,y no los dividen\Npor entretenimiento, política, etcétera.
+Dialogue: 0,0:10:07.75,0:10:16.76,Cart_A_Tim,CARTEL,0,0,0,,{\fax-0.1\bord1\blur1\an8\fs12\c&HB9B6BB&\frx26\fry344\frz358.3\move(23,86.286,149,86.286,23,8991)}\hEscándalo\h\h{\frz353}amoroso\N{\frz358.3}de una\h\h{\frz353}actriz
+Dialogue: 0,0:10:07.75,0:10:16.76,Cart_A_Tre,CARTEL,0,0,0,,{\fs9\c&HAEA5DC&\3c&H2617AE&\frz12.32\move(305,41.067,431,41.067,23,8991)}La actriz T rompe con el idol K entre lágrimas\N\N\N\N\N\N\N\N{\c&HC31ADB&\3c&HFDDCFF&\fs20\fnTimes New Roman}Weekly Eleven\h\h\h\h\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs10\c&HF3F5F5&\3c&H15111B&}La idol U es la amante\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\Nde un presidente de IT\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:10:07.75,0:10:16.76,Cart_A_Tim,CARTEL,0,0,0,,{\fs14\c&H1B1926&\3c&HEBECEA&\frz15.29\move(484,152.572,610,152.572,23,8991)}Mundo de crónicas\N\N\N{\fs10\c&HF2F1EF&\3c&HB768D4&}\h\h\h\h\h\hDebut gravure de la modelo W
+Dialogue: 0,0:10:08.12,0:10:12.64,Gen_Italics,aqua,0,0,0,,Escriben un cierto número de artículos,\Nsin importar el género.
+Dialogue: 0,0:10:12.98,0:10:16.36,Gen_Italics,aqua,0,0,0,,Pero algunos insisten\Nen escribir sobre famosos.
+Dialogue: 0,0:10:17.26,0:10:21.96,Gen_Italics,aqua,0,0,0,,Unos se sienten culpables,\Npero los siguen para ganarse el pan.
+Dialogue: 0,0:10:22.56,0:10:27.26,Gen_Italics,aqua,0,0,0,,Otros quieren destruir a los famosos\Ncon sus propias manos.
+Dialogue: 0,0:10:28.20,0:10:30.60,Gen_Italics,aqua,0,0,0,,Creo que este es de los primeros.
+Dialogue: 0,0:10:31.24,0:10:35.84,Gen_Italics,aqua,0,0,0,,Simplemente se aferró a la noticia\Npara poder hacer este trabajo.
+Dialogue: 0,0:10:36.78,0:10:37.90,Gen_Italics,aqua,0,0,0,,En ese caso…
+Dialogue: 0,0:10:38.46,0:10:41.72,Gen_Main,itano,0,0,0,,¿Podemos ir al grano?
+Dialogue: 0,0:10:42.14,0:10:44.52,Gen_Main,itano,0,0,0,,Tengo que entregar el artículo pronto.
+Dialogue: 0,0:10:44.70,0:10:46.66,Gen_Main,itano,0,0,0,,Si conoces a Arima…
+Dialogue: 0,0:10:46.82,0:10:49.68,Gen_Main,aqua,0,0,0,,No tengo nada que decirte sobre ella.
+Dialogue: 0,0:10:51.34,0:10:55.44,Gen_Main,itano,0,0,0,,¿Entonces solo querías quejarte?
+Dialogue: 0,0:10:55.72,0:10:57.56,Gen_Main,itano,0,0,0,,Ni que fueras un mafioso.
+Dialogue: 0,0:10:57.74,0:10:59.48,Gen_Main,aqua,0,0,0,,Quiero hablar de otra cosa.
+Dialogue: 0,0:11:00.88,0:11:05.06,Gen_Main,aqua,0,0,0,,De una historia\Nque atraerá mucho más al público.
+Dialogue: 0,0:11:06.10,0:11:09.02,Gen_Main,aqua,0,0,0,,Una que dañará el corazón\Ny la santidad de muchos
+Dialogue: 0,0:11:09.20,0:11:12.02,Gen_Main,aqua,0,0,0,,y apelará a la curiosidad morbosa.
+Dialogue: 0,0:11:13.12,0:11:15.68,Gen_Main,aqua,0,0,0,,Podrás escribir un artículo terrible.
+Dialogue: 1,0:11:23.44,0:11:27.22,Cart_A_Tim,CARTEL,0,0,0,,{\fad(1827,0)\fs15\bord1\shad2\blur5\c&H060707&\3c&HE6E4E4&\pos(319.429,272.571)}Día de la venta\Nde Historias Reales del Espectáculo
+Dialogue: 2,0:11:23.44,0:11:27.22,Cart_A_Tim,CARTEL,0,0,0,,{\fad(1827,0)\fs15\bord1\c&H060707&\3c&HE6E4E4&\pos(319.429,272.571)}Día de la venta\Nde Historias Reales del Espectáculo
+Dialogue: 0,0:11:41.52,0:11:44.75,Gen_Italics,kana,0,0,0,,Si enciendo el televisor,\Nhablarán del escándalo.
+Dialogue: 0,0:11:45.56,0:11:50.21,Gen_Italics,kana,0,0,0,,Y en Internet me lloverán los insultos.
+Dialogue: 0,0:12:03.12,0:12:04.15,Gen_Main,kana,0,0,0,,¡Ya!
+Dialogue: 0,0:12:05.70,0:12:09.23,Gen_Italics,presentador tv,0,0,0,,Pasaremos al tema más candente de hoy.
+Dialogue: 0,0:12:09.56,0:12:11.18,Gen_Italics,presentador tv,0,0,0,,Es una noticia sorprendente.
+Dialogue: 0,0:12:11.44,0:12:14.64,Gen_Italics,presentador tv,0,0,0,,Una idol que nos dejó trágicamente.
+Dialogue: 0,0:12:14.92,0:12:17.70,Gen_Italics,presentador tv,0,0,0,,Muchos de los que nos ven
+Dialogue: 0,0:12:17.88,0:12:22.36,Gen_Italics,presentador tv,0,0,0,,tendrán grabada su existencia\Nen sus corazones.
+Dialogue: 0,0:12:25.08,0:12:28.92,Gen_Italics,presentador tv,0,0,0,,Según el número de hoy\Nde Historias Reales del Espectáculo,
+Dialogue: 0,0:12:25.78,0:12:26.98,Cart_A_Tre,CARTEL,0,0,0,,{\bord9\blur2\fs9.5\c&H462133&\3c&HFBFBF9&\pos(171.556,226.667)\clip(m 93 222 l 249 222 251 225 246 238 92 238 93 236 94 232 94 227 92 224)}Confesión del hijo de Ai de B-Komachi
+Dialogue: 0,0:12:29.26,0:12:34.90,Gen_Italics,presentador tv,0,0,0,,Ai Hoshino, la idol fallecida\Nhace 14 años, tenía dos hijos.
+Dialogue: 0,0:12:35.20,0:12:41.06,Gen_Italics,presentador tv,0,0,0,,Murió asesinada por un fan\Nque se enteró de la noticia.
+Dialogue: 0,0:12:42.48,0:12:46.86,Gen_Main,miyako,0,0,0,,Hay una forma\Nde evitar que se publique, pero…
+Dialogue: 0,0:12:47.38,0:12:52.14,Gen_Italics,presentador tv,0,0,0,,Ambos hijos de Ai\Ntrabajan en el mundo del espectáculo.
+Dialogue: 0,0:12:52.32,0:12:54.34,Gen_Italics,presentador tv,0,0,0,,Superaron la tragedia y…
+Dialogue: 0,0:12:54.68,0:12:56.26,Gen_Main,miyako,0,0,0,,Un trueque de artículos.
+Dialogue: 0,0:12:56.44,0:12:58.96,Gen_Main,miyako,0,0,0,,Intercambiar un escándalo por otro.
+Dialogue: 0,0:13:10.93,0:13:13.20,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\bord5\blur2\c&H242D3D&\3c&H7FC5DB&\pos(272.471,56.235)\clip(m 197 70 l 202 64 204 59 204 56 204 53 340 52 343 57 343 71 197 71)}Dio a luz a gemelos a los 16
+Dialogue: 0,0:13:10.93,0:13:13.20,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\bord7\blur2\c&HF4F7FD&\3c&H807FD9&\pos(256,82.8)\clip(m 204 80 l 326 80 332 83 334 87 333 92 329 96 326 97 187 98 183 96 180 92 179 89 179 87 180 84 183 81 186 80)}¿Quién era Ai de B-Komachi?
+Dialogue: 0,0:13:10.93,0:13:13.20,Cart_A_Tre,CARTEL,0,0,0,,{\fs6\bord7\c&H704854&\3c&HF3F6F1&\pos(199.238,133.524)\clip(184.552,132.966,211.862,140.966)}Abogado A
+Dialogue: 1,0:13:10.93,0:13:13.20,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\fscx93\fscy74\c&HD4E9F2&\3c&H3A4562&\pos(219.048,103.467)\clip(m 224 105 l 327 105 329 106 330 107 331 109 331 140 330 142 328 143 326 143 224 143 222 142 221 141 220 109 221 107 222 106)}m 0 0 l 130 0 130 70 0 70
+Dialogue: 2,0:13:10.93,0:13:13.20,Cart_A_Tre,CARTEL,0,0,0,,{\fs9\an7\bord0\c&H704854&\3c&HFFFBFE&\pos(224.469,106.447)}Los hijos nacidos de un\Nmatrimonio no registrado\Nse consideran ilegítimos\Nlegalmente.
+Dialogue: 0,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax0.3\bord12\blur2\c&H0D0114&\fs25\3c&H6AC3DB&\frz345.3\pos(214.4,21)\clip(m 192 51 l 497 131 496 82 206 9)\1a&HFF&}Dio a luz a gemelos a los 16
+Dialogue: 2,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax0.3\bord0\blur0.5\c&H0D0114&\fs25\3c&H6AC3DB&\frz345.3\pos(214.4,21)\clip(m 192 51 l 497 131 496 82 206 9)}Dio a luz a gemelos a los 16
+Dialogue: 0,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax0.3\bord20\blur2\c&HF9FAFC&\fs28\3c&H5D79D2&\frz345.3\pos(162.667,71.2)\clip(m 181 69 l 168 66 160 67 156 71 154 78 154 85 157 94 163 104 168 107 477 192 484 191 489 187 492 182 494 175 493 168 490 161 486 155 481 149 476 145)}¿Quién era Ai de B-Komachi?
+Dialogue: 1,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\fscx93\fscy74\c&HFCFCFC&\3c&H3A4562&\pos(240.048,144.467)\frz346.9\clip(m 252 148 l 248 148 244 150 243 154 242 159 247 230 248 235 250 237 253 240 484 307 488 307 490 305 492 302 489 223 488 219 486 216 484 213 481 211)}m 0 0 l 300 0 300 200 0 200
+Dialogue: 2,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax0.3\bord0\blur0.5\c&H3B162D&\fs18\3c&H5D79D2&\frz345.3\pos(258.167,158.7)}Los hijos nacidos de un\N\hmatrimonio no registrado\N\h\hse consideran ilegítimos\N\h\h\hlegalmente.
+Dialogue: 1,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\fax0.1\p1\shad0\bord1\blur0.3\an7\c&HFCFCFC&\3c&H3A4562&\frz345\frx330\fry334\pos(168.049,192.467)}m 0 0 l 61 0 63 20 0 20
+Dialogue: 2,0:13:13.20,0:13:13.92,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fax0.3\bord0\blur0.5\c&H3B162D&\fs14\3c&H5D79D2&\frz345.3\pos(170.168,192.986)}Abogado{\3c&HFCFDFD&} A
+Dialogue: 0,0:13:14.18,0:13:16.52,Gen_Italics,hombre entrevistado,0,0,0,,Recuerdo lo mucho que me afectó.
+Dialogue: 0,0:13:16.70,0:13:18.44,Gen_Italics,hombre entrevistado,0,0,0,,Era una de mis idols favoritas.
+Dialogue: 0,0:13:18.90,0:13:21.86,Gen_Italics,comentarista,0,0,0,,Es un problema\Ndel mundo del espectáculo.
+Dialogue: 0,0:13:22.08,0:13:24.70,Gen_Italics,comentarista,0,0,0,,Las agencias no controlan a los menores.
+Dialogue: 0,0:13:25.18,0:13:28.62,Gen_Italics,famosa,0,0,0,,Yo aún escucho canciones de B-Komachi.
+Dialogue: 0,0:13:28.82,0:13:31.70,Gen_Italics,famosa,0,0,0,,"La señal es B". Lo hacía a menudo.
+Dialogue: 1,0:13:31.70,0:13:34.72,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord1\alpha30\blur0.3\an7\c&H4B718B&\3c&H3B2731&\pos(9.192,275.896)}m 0 0 l 153 0 153 70 0 70
+Dialogue: 2,0:13:31.70,0:13:34.72,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs12\b0\bord0\c&HE4F0F8&\pos(15.5,279.5)}Bikibomibamumi\NEmpiezo a saber qué peinados\Nme quedan bien\N#baile #B-Komachi #laseñalesB\N#Ai #vermás
+Dialogue: 0,0:13:31.96,0:13:33.98,Gen_Italics,colegialas,0,0,0,,¡La señal es B!
+Dialogue: 1,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\c&HFCFCFA&\3c&H3B2731&\pos(476.015,6.72)\clip(m 467 13 l 626 14 626 64 472 64 475 60 481 55 486 50 488 44 488 38 488 33 486 26 482 22 478 18 474 16)}m 0 0 l 153 0 153 70 0 70
+Dialogue: 2,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs11\bord0\fscy200\blur0.4\c&H220F17&\pos(491.167,17.445)}Un incidente de hace 14 años\NLa posición del hijo
+Dialogue: 2,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\c&HFCFCFA&\3c&HD27CEC&\pos(464.941,59.059)}Impactante
+Dialogue: 1,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\c&HFDFDFB&\3c&H3B2731&\pos(37.615,286.186)\clip(m 626 289 l 626 324 46 324 43 320 42 316 41 314 41 293 193 293 195 291 197 288)}m 0 0 l 653 0 653 70 0 70
+Dialogue: 0,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\fs12\blur5\bord10\c&HFCFCFA&\3c&HD27CEC&\pos(116.141,277.192)\clip(m 47 273 l 189 273 195 276 197 282 196 286 193 290 190 292 43 292 38 288 37 284 37 279 40 274)}Ai de B-Komachi tenía hijos
+Dialogue: 2,0:13:34.72,0:13:41.98,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs25\bord0\blur0.4\c&H220F17&\pos(113.567,296.911)}Su hijo, Aqua Hoshino, confiesa lo que sintió
+Dialogue: 4,0:13:35.26,0:13:39.50,Gen_Italics_top,reportera,0,0,0,,Un fan asesinó a Ai\Nen su casa hace 14 años
+Dialogue: 4,0:13:39.66,0:13:41.96,Gen_Italics_top,reportera,0,0,0,,y todo el país lloró su muerte.
+Dialogue: 1,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\c&H242726&\3c&H3B2731&\pos(318.681,38.72)\clip(m 449 42 l 324 42 324 79 448 79)}m 0 0 l 153 0 153 70 0 70
+Dialogue: 1,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord0\blur0.3\an7\c&HFDFDFD&\3c&H3B2731&\pos(12.967,279.292)\clip(m 16 286 l 228 288 226 312 115 309 113 324 44 324 44 308 16 307)}m 0 0 l 223 0 223 70 0 70
+Dialogue: 2,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fs12\bord0\b0\blur0.4\c&HFDFDFC&\pos(330.667,42.667)}Hablamos de una idol\Nque tuvo hijos a los 16.\N¿Ustedes qué opinan?
+Dialogue: 2,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial Narrow\b1\bord0\blur0.4\c&H120106&\pos(117.538,287.077)\clip(5.538,283.077,218.462,313.231)}[Hablando] Temas recientes
+Dialogue: 2,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial Narrow\b1\bord0\fs12\blur0.4\c&H120106&\3c&HFDFDFD&\pos(79.252,313.934)}El salón de Hiro
+Dialogue: 2,0:13:41.96,0:13:53.43,Cart_A_Tre,CARTEL,0,0,0,,{\fnArial Narrow\b1\bord2\fs12\blur0.4\c&HFDFDFC&\3c&H240010&\pos(175.823,317.363)}Suscribirse
+Dialogue: 4,0:13:42.22,0:13:44.92,Gen_Italics,hombre podcaster,0,0,0,,Ser idol es una apuesta arriesgada.
+Dialogue: 4,0:13:45.10,0:13:47.54,Gen_Italics,hombre podcaster,0,0,0,,La gente con estudios\Nno suele arriesgarse.
+Dialogue: 4,0:13:47.68,0:13:51.04,Gen_Italics,hombre podcaster,0,0,0,,Veo natural\Nque los que no tienen estudios
+Dialogue: 4,0:13:51.18,0:13:53.43,Gen_Italics,hombre podcaster,0,0,0,,opten por un trabajo\Nque no los requiere.
+Dialogue: 1,0:13:54.64,0:13:56.12,Cart_A_Tre,CARTEL,0,0,0,,{\p1\shad0\bord1\alpha30\blur0.3\an7\c&HFCFCFA&\3c&H352F30&\pos(532.62,9.61)}m 0 0 l 100 0 100 110 0 110
+Dialogue: 2,0:13:54.64,0:13:56.12,Cart_A_Tre,CARTEL,0,0,0,,{\an7\fnArial Narrow\bord1\fs12\c&H8C717D&\3c&HFCFCFA&\pos(541.714,13.714)}Tendencia en Japón\N\N{\c&H4D2136&}Ai\N\NB-Komachi\N\NChainsaw\N\NRuby Hoshino\N\NAqua Hoshino
+Dialogue: 0,0:13:56.30,0:13:59.46,Gen_Italics,presentador 2,0,0,0,,Puesto que el culpable se suicidó,
+Dialogue: 0,0:13:59.64,0:14:02.57,Gen_Italics,presentador 2,0,0,0,,no se sabía gran cosa.
+Dialogue: 0,0:14:03.38,0:14:06.24,Gen_Italics,presentador 2,0,0,0,,La noticia de que tenía hijos
+Dialogue: 0,0:14:06.42,0:14:08.80,Gen_Italics,presentador 2,0,0,0,,hace que lo veamos de otra forma.
+Dialogue: 0,0:14:09.07,0:14:10.24,Cart_A_Tre,CARTEL,0,0,0,,{\fad(141,0)\fs12\an7\3c&HFCFAFB&\bord1\c&H544147&\pos(300.571,229.714)}Ai de B-Komachi\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAqua Hoshino
+Dialogue: 0,0:14:09.54,0:14:13.98,Gen_Italics,presentador 3,0,0,0,,Aqua Hoshino, el hijo de Ai,\Ndijo esto en la revista.
+Dialogue: 1,0:14:10.12,0:14:19.54,Cart_A_Tre,CARTEL,0,0,0,,{\fad(2000,0)\p1\shad0\bord2\alpha30\blur0.3\an7\c&HFCFCFA&\3c&H925361&\pos(9.191,7.896)}m 0 0 l 165 0 165 30 0 30
+Dialogue: 2,0:14:10.12,0:14:19.54,Cart_A_Tre,CARTEL,0,0,0,,{\fad(2000,0)\an7\fs12\c&H3D2430&\3c&HFDFDFB&\pos(13.714,9.143)}Periodista:\N{\c&HAF4439&}¿{\c&H3D2430&}Por qué hizo el anuncio ahora{\c&HAF4439&}?
+Dialogue: 1,0:14:13.20,0:14:19.54,Cart_A_Tre,CARTEL,0,0,0,,{\fad(527,0)\p1\shad0\bord2\alpha30\blur0.3\an7\c&HFCFCFA&\3c&HAE739F&\pos(9.191,149.61)}m 0 0 l 165 0 165 30 0 30
+Dialogue: 2,0:14:13.20,0:14:19.54,Cart_A_Tre,CARTEL,0,0,0,,{\fad(527,0)\an7\fs12\c&H3D2430&\3c&HFDFDFB&\pos(13.714,152.571)}"Quería explicarlo yo\Nantes de que se hiciera público"
+Dialogue: 0,0:14:14.38,0:14:19.54,Gen_Italics,presentador 3,0,0,0,,"Quería explicarlo yo\Nantes de que se hiciera público".
+Dialogue: 0,0:14:20.00,0:14:23.82,Gen_Main,colegiala A,0,0,0,,¿El que asesinó a Ai\Nsabía lo de los niños?
+Dialogue: 0,0:14:24.02,0:14:26.38,Gen_Main,colegiala B,0,0,0,,¿Aqua no es\Nel de {\i1}Mi amor con una estrella{\i0}?
+Dialogue: 0,0:14:26.66,0:14:28.80,Gen_Main,mujer A,0,0,0,,Tuvo gemelos, ¿no?
+Dialogue: 0,0:14:28.96,0:14:30.72,Gen_Main,mujer B,0,0,0,,¿Y quién es el padre?
+Dialogue: 0,0:14:30.92,0:14:32.93,Gen_Main,hombre A,0,0,0,,He leído la wiki del caso y…
+Dialogue: 0,0:14:33.26,0:14:35.82,Gen_Main,estudiante,0,0,0,,Tiene sentido. Sus genes son de calidad.
+Dialogue: 0,0:14:35.98,0:14:37.93,Gen_Main,mujer C,0,0,0,,Sí, son atractivos.
+Dialogue: 0,0:14:38.14,0:14:39.90,Gen_Main,hombre B,0,0,0,,Saben cómo publicitarse.
+Dialogue: 0,0:14:40.16,0:14:45.36,Gen_Main,colegiala C,0,0,0,,¿Entonces Ruby está en B-Komachi\Npara seguir los pasos de su mamá?
+Dialogue: 0,0:14:45.84,0:14:47.46,Gen_Main,colegiala D,0,0,0,,Qué bonito.
+Dialogue: 0,0:14:48.78,0:14:51.02,Gen_Italics,hombre entrevistado 2,0,0,0,,Es una decepción.
+Dialogue: 0,0:14:51.34,0:14:53.32,Gen_Italics,hombre entrevistado 2,0,0,0,,Ai era una leyenda.
+Dialogue: 0,0:14:53.52,0:14:55.08,Gen_Italics,hombre entrevistado 2,0,0,0,,Destrozó mis sueños.
+Dialogue: 0,0:14:56.78,0:15:01.22,Gen_Italics,aqua,0,0,0,,¿Debería olvidarlo todo\Ne intentar ser feliz?
+Dialogue: 0,0:15:01.58,0:15:02.84,Gen_Italics,aqua,0,0,0,,¿O mejor…?
+Dialogue: 0,0:15:03.60,0:15:04.96,Gen_Main,akane,0,0,0,,Ya veo.
+Dialogue: 0,0:15:05.20,0:15:08.74,Gen_Main,akane,0,0,0,,Aqua decidió tomar ese camino.
+Dialogue: 0,0:15:17.20,0:15:18.82,Gen_Main,akane,0,0,0,,Entonces…
+Dialogue: 0,0:15:19.89,0:15:23.08,Gen_Main,akane,0,0,0,,yo también recorreré el mío.
+Dialogue: 0,0:15:47.16,0:15:48.50,Gen_Italics,akane,0,0,0,,Aqua,
+Dialogue: 0,0:15:49.86,0:15:52.00,Gen_Italics,akane,0,0,0,,cuando todo se solucione
+Dialogue: 0,0:15:52.22,0:15:54.32,Gen_Italics,akane,0,0,0,,iremos a comer helado.
+Dialogue: 0,0:15:55.34,0:15:57.30,Gen_Italics,akane,0,0,0,,Comeremos cosas deliciosas
+Dialogue: 0,0:15:58.14,0:15:59.76,Gen_Italics,akane,0,0,0,,y saldremos de viaje.
+Dialogue: 0,0:16:05.30,0:16:08.14,Gen_Italics,akane,0,0,0,,Juntos. Ahora…
+Dialogue: 0,0:16:15.06,0:16:16.78,Gen_Italics,akane,0,0,0,,y para siempre.
+Dialogue: 0,0:16:32.82,0:16:34.68,Gen_Main,hombre corredor,0,0,0,,Aqua…
+Dialogue: 0,0:16:34.90,0:16:37.90,Gen_Main,hombre corredor,0,0,0,,¡Lo siento! No miraba por dónde iba.
+Dialogue: 0,0:16:38.24,0:16:39.70,Gen_Main,hombre corredor,0,0,0,,¿Estás bien?
+Dialogue: 0,0:16:40.26,0:16:41.84,Gen_Main,akane,0,0,0,,Sí.
+Dialogue: 0,0:16:42.74,0:16:45.30,Gen_Main,hombre corredor,0,0,0,,Lo siento. Lo siento muchísimo.
+Dialogue: 0,0:16:45.88,0:16:47.62,Gen_Main,akane,0,0,0,,No pasa nada.
+Dialogue: 0,0:16:49.46,0:16:51.04,Gen_Main,akane,0,0,0,,Qué susto.
+Dialogue: 0,0:16:51.66,0:16:54.30,Gen_Main,akane,0,0,0,,Pensé que me habían empujado.
+Dialogue: 0,0:16:55.02,0:16:57.70,Gen_Main,akane,0,0,0,,Eres mi héroe, Aqua.
+Dialogue: 0,0:16:58.02,0:17:00.41,Gen_Main,akane,0,0,0,,Siempre me salvas cuando corro peligro.
+Dialogue: 0,0:17:04.00,0:17:07.78,Gen_Main,akane,0,0,0,,Pero con la noticia que está circulando
+Dialogue: 0,0:17:08.02,0:17:10.88,Gen_Main,akane/aqua,0,0,0,,-no deberías salir…\N-Akane.
+Dialogue: 0,0:17:13.24,0:17:16.04,Gen_Main,aqua,0,0,0,,Por favor, no hagas nada peligroso.
+Dialogue: 0,0:17:18.06,0:17:19.26,Gen_Main,akane,0,0,0,,¿Por qué lo dices?
+Dialogue: 0,0:17:28.14,0:17:32.58,Gen_Main,akane,0,0,0,,¿Cómo es que estás aquí, Aqua?
+Dialogue: 0,0:17:34.80,0:17:36.94,Gen_Main,akane,0,0,0,,Hoy no tienes trabajo, ¿o sí?
+Dialogue: 0,0:17:37.36,0:17:40.38,Gen_Main,akane,0,0,0,,¿Por qué no llevas el uniforme\Nde la escuela?
+Dialogue: 0,0:17:40.64,0:17:42.66,Gen_Main,akane,0,0,0,,¿Por qué me dices eso?
+Dialogue: 0,0:17:42.92,0:17:47.62,Gen_Main,akane,0,0,0,,Es como si supieras\Nlo que tengo pensado hacer.
+Dialogue: 0,0:17:49.66,0:17:51.90,Gen_Main,aqua,0,0,0,,Eres muy perspicaz, Akane.
+Dialogue: 0,0:18:10.20,0:18:13.68,Gen_Main,akane,0,0,0,,Esto no está bien, Aqua.
+Dialogue: 0,0:18:14.72,0:18:17.90,Gen_Main,akane,0,0,0,,Esto no se hace.
+Dialogue: 0,0:18:23.14,0:18:25.62,Gen_Main,akane,0,0,0,,¿Cuándo me lo pusiste?
+Dialogue: 0,0:18:27.46,0:18:30.33,Gen_Main,aqua,0,0,0,,Al poco de terminar\N{\i1}Mi amor con una estrella empieza ahora.{\i0}
+Dialogue: 0,0:18:31.08,0:18:33.88,Gen_Main,aqua,0,0,0,,Pensé que podías conseguir información
+Dialogue: 0,0:18:34.40,0:18:38.38,Gen_Main,aqua,0,0,0,,y quería tenerte localizada\Nsi te contactabas con el culpable.
+Dialogue: 0,0:18:42.36,0:18:45.27,Gen_Main,aqua,0,0,0,,Parece que acerté en mi previsión.
+Dialogue: 0,0:18:47.52,0:18:53.00,Gen_Main,akane,0,0,0,,Creía que en nuestra relación\Néramos iguales.
+Dialogue: 0,0:18:53.86,0:18:57.76,Gen_Main,akane,0,0,0,,Pero me equivoqué.
+Dialogue: 0,0:18:59.08,0:19:02.76,Gen_Main,akane,0,0,0,,Creía que confiabas más en mí.
+Dialogue: 0,0:19:03.92,0:19:07.00,Gen_Main,akane,0,0,0,,Sé por lo que estás pasando.
+Dialogue: 0,0:19:08.56,0:19:11.58,Gen_Main,akane,0,0,0,,Te dije que te ayudaría.
+Dialogue: 0,0:19:14.06,0:19:15.98,Gen_Main,akane,0,0,0,,¡Si me lo hubieras dicho,
+Dialogue: 0,0:19:16.14,0:19:18.54,Gen_Main,akane,0,0,0,,me habría puesto cien localizadores!
+Dialogue: 0,0:19:18.80,0:19:21.50,Gen_Main,akane,0,0,0,,¡No soy ni tu mascota ni tu posesión!
+Dialogue: 0,0:19:21.64,0:19:22.92,Gen_Main,akane,0,0,0,,¡Soy una persona!
+Dialogue: 0,0:19:23.08,0:19:25.84,Gen_Main,akane,0,0,0,,Esto demuestra\Nque no me consideras humana.
+Dialogue: 0,0:19:27.86,0:19:29.44,Gen_Main,akane,0,0,0,,Si me lo hubieras dicho,
+Dialogue: 0,0:19:30.12,0:19:32.22,Gen_Main,akane/aqua,0,0,0,,-habría…\N-Estás mintiendo.
+Dialogue: 0,0:19:35.18,0:19:36.34,Gen_Main,aqua,0,0,0,,Akane,
+Dialogue: 0,0:19:37.22,0:19:39.70,Gen_Main,aqua,0,0,0,,de haber sabido que tenías uno,
+Dialogue: 0,0:19:39.90,0:19:42.16,Gen_Main,aqua,0,0,0,,habrías hecho algo para ocultarte.
+Dialogue: 0,0:19:47.12,0:19:48.41,Gen_Main,aqua,0,0,0,,Porque ahora mismo
+Dialogue: 0,0:19:48.90,0:19:52.32,Gen_Main,aqua,0,0,0,,tenías información sobre mi padre
+Dialogue: 0,0:19:52.92,0:19:54.92,Gen_Main,aqua,0,0,0,,y pensabas hacer esto sola.
+Dialogue: 0,0:19:55.10,0:19:56.60,Gen_Main,akane,0,0,0,,No es verdad.
+Dialogue: 0,0:19:56.94,0:19:59.14,Gen_Main,akane/aqua,0,0,0,,-Yo…\N-¿Y qué es esto?
+Dialogue: 0,0:20:01.62,0:20:04.26,Gen_Main,aqua,0,0,0,,¿Qué ibas a hacer con esto?
+Dialogue: 0,0:20:06.52,0:20:09.14,Gen_Main,akane,0,0,0,,Solo quería hablar con él.
+Dialogue: 0,0:20:09.34,0:20:11.48,Gen_Main,akane,0,0,0,,Pero podía pasar algo.
+Dialogue: 0,0:20:11.66,0:20:13.19,Gen_Main,akane,0,0,0,,Es un asesino.
+Dialogue: 0,0:20:13.74,0:20:16.92,Gen_Main,akane,0,0,0,,Solo lo llevaba por si acaso.
+Dialogue: 0,0:20:17.68,0:20:20.02,Gen_Main,akane/aqua,0,0,0,,-Es para protegerme.\N-Akane.
+Dialogue: 0,0:20:20.90,0:20:22.12,Gen_Main,aqua,0,0,0,,No te involucres más.
+Dialogue: 0,0:20:23.82,0:20:25.77,Gen_Main,aqua,0,0,0,,Te quitaré el localizador.
+Dialogue: 0,0:20:26.96,0:20:29.92,Gen_Main,aqua,0,0,0,,Yo también te dejaré en paz.
+Dialogue: 0,0:20:33.80,0:20:35.34,Gen_Main,aqua,0,0,0,,Pero no hagas locuras.
+Dialogue: 0,0:20:40.30,0:20:43.30,Gen_Main,akane,0,0,0,,Decías que me estabas utilizando,
+Dialogue: 0,0:20:43.44,0:20:45.26,Gen_Main,akane,0,0,0,,pero eres muy bueno.
+Dialogue: 0,0:20:53.08,0:20:55.38,Gen_Main,akane,0,0,0,,Si me hubieras pedido que te siguiera,
+Dialogue: 0,0:20:55.54,0:20:57.78,Gen_Main,akane,0,0,0,,habría ido al mismísimo infierno.
+Dialogue: 0,0:20:58.94,0:21:02.06,Gen_Main,aqua,0,0,0,,No pienso llevarte a un lugar como ese.
+Dialogue: 0,0:21:03.08,0:21:04.78,Gen_Main,aqua,0,0,0,,Iré yo solo.
+Dialogue: 0,0:21:06.34,0:21:09.38,Gen_Main,akane,0,0,0,,Sí. Claro.
+Dialogue: 0,0:21:11.70,0:21:13.91,Gen_Main,akane,0,0,0,,Tengo algo que decirte.
+Dialogue: 0,0:21:16.56,0:21:19.82,Gen_Main,akane,0,0,0,,Tomaste el camino equivocado.
+Dialogue: 0,0:21:20.68,0:21:21.84,Gen_Main,aqua,0,0,0,,Lo sé.
+Dialogue: 0,0:21:29.36,0:21:33.16,Gen_Main,akane,0,0,0,,No vas a detenerte, ¿verdad, Aqua?
+Dialogue: 0,0:21:35.60,0:21:39.14,Gen_Main,akane,0,0,0,,No pude salvarte.
+Dialogue: 0,0:21:42.34,0:21:44.42,Gen_Main,akane,0,0,0,,Aunque fuera por egoísmo,
+Dialogue: 0,0:21:45.38,0:21:47.98,Gen_Main,akane,0,0,0,,quería salvarte.
+Dialogue: 0,0:21:52.61,0:21:53.72,Gen_Italics,aqua,0,0,0,,Esto es lo mejor.
+Dialogue: 0,0:21:54.06,0:21:58.58,Gen_Italics,aqua,0,0,0,,Así Akane no correrá peligro\Ny no se ensuciará las manos.
+Dialogue: 0,0:22:00.17,0:22:02.78,Gen_Italics,aqua,0,0,0,,Se acabaron los días felices.
+Dialogue: 0,0:22:03.34,0:22:04.98,Gen_Italics,aqua,0,0,0,,Ya no hay vuelta atrás.
+Dialogue: 0,0:22:05.68,0:22:07.80,Gen_Italics,aqua,0,0,0,,Tengo que seguir por este camino.
+Dialogue: 0,0:22:09.18,0:22:10.66,Gen_Italics,aqua,0,0,0,,Hikaru Kamiki…
+Dialogue: 0,0:22:11.46,0:22:14.34,Gen_Italics,aqua,0,0,0,,Encontraré la peor forma\Nde hacerlo sufrir.
+Dialogue: 0,0:22:15.42,0:22:19.96,Cart_A_Tim,CARTEL,0,0,0,,{\bord1.5\pos(323,77.318)\c&H8E8E8E&}E{\c&HF6F6F6&}pisodio {\c&H8F8F8F&\3c&H0A0A0A&}31\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs35}Ruptura
+Dialogue: 0,0:23:46.86,0:23:51.62,Cart_A_Tre,CARTEL,0,0,0,,{\blur2\bord1\shad1\fs14\pos(320,278.2)\3c&HA4A3A5&\4c&H4B4B4B&\3a&HD3&\4a&H8C&}Traducción: Iris de la Fuente\NEdición: Juan José Cintas

@@ -1,0 +1,429 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Com,Comic Sans MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Com,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,5,5,0,1
+Style: Cart_A_Ari,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Ari,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.09,0:00:07.72,Gen_Italics,MEM,0,0,0,,Pasaron dos meses\Ndesde la publicación de {\i0}POP IN 2.{\i1}
+Dialogue: 0,0:00:09.82,0:00:12.16,Gen_Main,MIYAKO,0,0,0,,¿Quieres a Ruby, de nuestra agencia?
+Dialogue: 0,0:00:12.70,0:00:14.21,Gen_Main,MIYAKO,0,0,0,,Sin problema, claro.
+Dialogue: 0,0:00:14.70,0:00:17.37,Gen_Main,MIYAKO,0,0,0,,Miraremos la presentación\Nen cuanto la recibamos.
+Dialogue: 0,0:00:17.74,0:00:18.79,Gen_Main,MIYAKO,0,0,0,,Entendido.
+Dialogue: 0,0:00:19.36,0:00:21.80,Gen_Main,MIYAKO,0,0,0,,Bien, adiós.
+Dialogue: 0,0:00:24.58,0:00:29.05,Cart_A_Tre,SIGNL ToB,0,0,0,,{\t(27,4449,\fscx112.42\fscy112.42)\t(27,4449,)\bord2\fs14\fnComic Sans MS\c&H4F4E65&\3c&HCDCBCE&\fax-0.2\frz6.314\move(125,165,140.51,182.24,27,4449)\frx0\fry350}Calendario\Nde julio
+Dialogue: 0,0:00:24.58,0:00:29.05,Cart_A_Tre,SIGNTR LtoR,0,0,0,,{\t(27,4449,\fscx112.42\fscy112.42)\bord2\fs14\fnComic Sans MS\c&H4F4E65&\3c&HCDCBCE&\frz14.43\fax-0.3\move(321.5,42.5,362.92,47.02,27,4449)}Calendario de salidas
+Dialogue: 0,0:00:25.63,0:00:30.28,Gen_Italics,MEM,0,0,0,,B-Komachi ahora tiene el aire\Nde un grupo cercano al estrellato.
+Dialogue: 0,0:00:29.05,0:00:31.30,Cart_A_Tre,SIGNBR,0,0,0,,{\t(20,2231,\fscx108.16\fscy108.16)\bord2\fs15\an7\fnComic Sans MS\c&H353846&\fax-0.12\move(289,132,314,144,20,2231)\3c&HE7E8EC&\frz10.59}\hEl plazo límite para los autógrafos de Tsuruya es el día 30.\NTienen que conseguir sus cupos - Ruby
+Dialogue: 0,0:00:32.93,0:00:35.09,Gen_Italics,MEM,0,0,0,,El negocio despegó\Ncon ese video musical.
+Dialogue: 0,0:00:36.35,0:00:40.75,Gen_Italics,MEM,0,0,0,,Anemone y Himura\Nhicieron maravillas con él
+Dialogue: 0,0:00:41.75,0:00:47.17,Gen_Italics,MEM,0,0,0,,y crearon un producto que estaba por\Nencima de un video de idols corriente.
+Dialogue: 0,0:00:48.03,0:00:50.15,Gen_Italics,MEM,0,0,0,,Pero el mayor factor de todos
+Dialogue: 0,0:00:51.47,0:00:52.66,Gen_Italics,MEM,0,0,0,,fue Ruby Hoshino.
+Dialogue: 0,0:00:53.82,0:00:58.58,Gen_Italics,MEM,0,0,0,,Pese a su naturaleza alegre,\Ntenía un aura de oscuridad y misterio,
+Dialogue: 0,0:00:58.77,0:01:05.25,Gen_Italics,MEM,0,0,0,,y su mirada penetrante dejó huella\Nen todos los que lo vieron.
+Dialogue: 1,0:01:06.21,0:01:10.17,Cart_C_Ari,SIGN,0,0,0,,{\blur0.3\fs25\c&H322531&\frz3\3c&HF5F3F7&\pos(90.154,67)\frx8\fry0}B-Komachi
+Dialogue: 1,0:01:06.21,0:01:10.17,Cart_C_Ari,SIGN,0,0,0,,{\bord0\blur0.3\c&H322531&\frz3\pos(257.462,87)\frx0\fry2}¡B-Komachi Channel!\N\N\N\N\N\N\N\N{\c&H948696&\b0}360 000 suscriptores
+Dialogue: 0,0:01:06.21,0:01:10.17,Cart_C_Ari,SIGN,0,0,0,,{\bord0\fs16\blur0.3\c&H3D3544&\frz3.613\pos(277,266)}visualizaciones
+Dialogue: 0,0:01:06.21,0:01:10.17,Cart_C_Ari,SIGN,0,0,0,,{\c&H857A88&\bord0\blur0.3\frz3.613\pos(502.01,249)}#Trending en música
+Dialogue: 0,0:01:06.21,0:01:10.17,Cart_C_Ari,SIGN,0,0,0,,{\bord0\blur0.3\fs20\c&H3D3544&\frz3.788\pos(329,300.5)}Vocalistas: B-Komachi\h\h\h\hRuby Hoshino, Kana Arima, MEMcho
+Dialogue: 2,0:01:06.75,0:01:10.17,Gen_Italics_top,MEM,0,0,0,,La subida llegó a superar la cifra\Nde 20 millones de reproducciones.
+Dialogue: 0,0:01:10.87,0:01:13.68,Gen_Italics,MEM,0,0,0,,Aunque nos esforzamos al máximo\Ncon la promoción,
+Dialogue: 0,0:01:13.84,0:01:18.31,Gen_Italics,MEM,0,0,0,,no era una cifra que podría haber\Nalcanzado un grupo de idols nuevas.
+Dialogue: 0,0:01:21.73,0:01:26.67,Gen_Main,MEM,0,0,0,,Puede que Ruby tenga algo especial.
+Dialogue: 0,0:01:27.82,0:01:30.02,Gen_Italics,MEM,0,0,0,,No puedo dejar pasar esta oportunidad.
+Dialogue: 0,0:01:30.39,0:01:32.17,Gen_Italics,MEM,0,0,0,,Mientras la gente sigue emocionada,
+Dialogue: 1,0:01:31.57,0:01:34.03,Cart_A_Tre,SIGN,0,0,0,,{\fad(605,854)\alpha30\an7\p1\bord1\an8\shad0\c&HCCA33E&\3c&HFFFFFF&\pos(23.142,25.462)}m 0 0 l 310 0 l 310 69 l 0 69
+Dialogue: 2,0:01:31.57,0:01:34.03,Cart_A_Tre,SIGN,0,0,0,,{\fad(605,854)\an7\fs12\3c&HCDA43E&\pos(30,30)}Siento el MD tan repentino. Soy MEM, de Producciones Ichigo.\NVi que buscas creadores con los que colaborar\N¿Cómo quieres que colabore con B-Komachi?\NIntentaremos encajar en su agenda lo máximo posible.\NEsperamos una respuesta positiva.
+Dialogue: 1,0:01:31.57,0:01:34.03,Cart_A_Tre,SIGN,0,0,0,,{\fad(605,854)\alpha30\an7\p1\bord1\an8\shad0\c&HECEBE7&\3c&H7E787C&\pos(23.142,159.462)}m 0 0 l 250 0 l 250 58 l 0 58
+Dialogue: 2,0:01:31.57,0:01:34.03,Cart_A_Tre,SIGN,0,0,0,,{\fad(605,854)\an7\fs12\3c&HEBEAE6&\c&H827D80&\pos(30,163)}Gracias por contactarnos.\N¡B-Komachi! Somos grandes fans.\NSí, por favor, queremos trabajar con ustedes.\NYa les escribiremos con nuestras fechas posibles.
+Dialogue: 3,0:01:32.24,0:01:35.53,Gen_Italics,MEM,0,0,0,,envié cientos de ofertas de colaboración\Na YouTubers importantes,
+Dialogue: 1,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fad(942,972)\alpha30\an7\p1\bord1\an8\shad0\c&HB45C6D&\3c&HFFFFFF&\pos(421.809,32.795)}m 0 0 l 175 0 l 175 35 l 0 35
+Dialogue: 2,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fad(942,972)\fs12\an9\3c&HC46D7B&\pos(590,38)}Cuánto tiempo.\N¿Tienes tiempo para una llamada?
+Dialogue: 1,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fad(942,972)\alpha30\an7\p1\bord1\an8\shad0\c&HB9CDCF&\3c&H4B565C&\pos(440.475,146.796)}m 0 0 l 155 0 l 155 35 l 0 35
+Dialogue: 2,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fs12\fad(942,972)\an9\3c&HDDEAEA&\c&H827D80&\pos(590,151)}Cuánto tiempo.\NAhora estoy en una reunión.
+Dialogue: 1,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fad(942,972)\alpha30\an7\p1\bord1\an8\shad0\c&HB9CDCF&\3c&H4B565C&\pos(449.808,242.129)}m 0 0 l 145 0 l 145 35 l 0 35
+Dialogue: 2,0:01:33.11,0:01:35.90,Cart_A_Tre,SIGN,0,0,0,,{\fad(942,972)\an9\fs12\3c&HD9E7E7&\c&H827D80&\pos(590,246)}Te llamaré.\NAvísame cuando estés libre.
+Dialogue: 1,0:01:34.94,0:01:37.74,Cart_A_Tre,SIGN,0,0,0,,{\fad(989,1)\alpha30\an7\p1\bord1\an8\shad0\c&H78AC6F&\3c&HFFFFFF&\pos(24.475,26.181)}m 0 0 l 220 0 l 220 45 l 0 45
+Dialogue: 2,0:01:34.94,0:01:37.74,Cart_A_Tre,SIGN,0,0,0,,{\fad(989,1)\an7\fs12\3c&H82B674&\pos(30,30)}(Propuesta de colaboración)\NMi-Mi-Amigo, siento que sea tan repentino.\NSoy MEM, de B-Komachi.
+Dialogue: 1,0:01:34.94,0:01:37.74,Cart_A_Tre,SIGN,0,0,0,,{\fad(989,1)\alpha30\an7\p1\bord1\an8\shad0\c&HDBDCD9&\3c&H514F4F&\pos(24.475,111.719)}m 0 0 l 205 0 l 205 67 l 0 67
+Dialogue: 2,0:01:34.94,0:01:37.74,Cart_A_Tre,SIGN,0,0,0,,{\fad(989,1)\an7\fs12\3c&HEBEAE6&\c&H827D80&\pos(30,115)}B-Komachi\NGracias por contactarnos.\NSoy Yamauchi, me encargo\Nde la planificación y la producción.\NRecibimos su propuesta de colaborar y…
+Dialogue: 3,0:01:35.62,0:01:37.74,Gen_Italics,MEM,0,0,0,,y algunas salieron adelante.
+Dialogue: 0,0:01:37.74,0:01:42.70,Cart_A_Tre,SIGN,0,0,0,,{\alpha&H66&\blur1\bord2.5\shad1\fs22\fnArial Black\an9\c&H171614&\3c&H171614&\4c&H171614&\pos(619.714,18.857)}Regalos sorpresa para B-Komachi:\NPresupuesto total: ¡1 000 000 de yenes x 3!
+Dialogue: 1,0:01:37.74,0:01:42.70,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs22\fnArial Black\an9\c&HE0456E&\3c&HFFF4FB&\pos(619.714,18.857)}Regalos sorpresa {\c&H0D0C0D&}para {\c&HE91BED&}B-Komachi:\N{\c&H8FD3F2&\3c&H171614&}Presupuesto total: ¡1 000 000 de yenes {\c&H0600E5&\3c&HFFF4FB&}x 3!
+Dialogue: 0,0:01:37.74,0:01:42.70,Cart_A_Tre,SIGN,0,0,0,,{\fsp1\alpha&H66&\blur1\bord3\shad1\fs30\fnArial Black\c&H171614&\3c&H171614&\4c&H171614&\pos(320,330)}¡Bienvenidas!
+Dialogue: 1,0:01:37.74,0:01:42.70,Cart_A_Tre,SIGN,0,0,0,,{\fsp1\bord2\fs30\fnArial Black\c&HFAAE9E&\3c&HFFFFFE&\pos(320,330)}¡Bienvenidas!
+Dialogue: 1,0:01:38.33,0:01:41.97,Gen_Italics,MEM,0,0,0,,{\pos(320,295)}Crearemos una buena red y seremos\Ninvitadas habituales en sus canales.
+Dialogue: 0,0:01:44.38,0:01:49.53,Gen_Italics,MEM,0,0,0,,También envié ofertas a TikTokers,\Ngamers y creadores de videos infantiles
+Dialogue: 0,0:01:49.63,0:01:50.97,Gen_Italics,MEM,0,0,0,,y aumenté nuestra cartera.
+Dialogue: 0,0:01:51.59,0:01:54.97,Gen_Italics,MEM,0,0,0,,Con la ayuda de los {\i0}shorts{\i1},\Nme aseguré de crear un post cada día
+Dialogue: 0,0:01:55.05,0:01:57.93,Gen_Italics,MEM,0,0,0,,y hasta hicimos algunos directos largos.
+Dialogue: 0,0:01:58.64,0:02:02.18,Gen_Italics,MEM,0,0,0,,Pero hacerse viral temporalmente\Nno ayuda a tener más suscriptores.
+Dialogue: 1,0:02:02.64,0:02:03.51,Cart_A_Tre,SIGN,0,0,0,,{\t(24,900,\fscy84.57)\t(24,900,\fscx84.57)\fs40\fnArial Black\c&H2713A2&\3c&HF5F7F6&\4c&H2713A2&\bord2.5\shad2\move(320,287,320,270.46,24,900)}B-Komachi Channel!
+Dialogue: 1,0:02:02.64,0:02:03.51,Cart_A_Tre,SIGN,0,0,0,,{\t(24,900,\fscy84.57)\t(24,900,\fscx84.57)\fs40\fnArial Black\c&HB17DEB&\3c&H4B488D&\bord1.5\move(320,287,320,270.46,24,900)}B-Komachi {\c&HADB9EF&}Channel!
+Dialogue: 1,0:02:03.02,0:02:06.26,Gen_Italics,MEM,0,0,0,,Para crear un canal que vaya\Natrayendo nuevos espectadores,
+Dialogue: 1,0:02:03.51,0:02:05.52,Cart_A_Tre,SIGN,0,0,0,,{\fscy84.57\t(30,2032,\fscy64.07)\fscx84.57\t(30,2032,\fscx64.07)\fs40\fnArial Black\c&H2713A2&\3c&HF5F7F6&\4c&H2713A2&\bord2.5\shad2\move(320,270.46,320,248.59,30,2032)}B-Komachi Channel!
+Dialogue: 1,0:02:03.51,0:02:05.52,Cart_A_Tre,SIGN,0,0,0,,{\fscy84.57\t(30,2032,\fscy64.07)\fscx84.57\t(30,2032,\fscx64.07)\fs40\fnArial Black\c&HB17DEB&\3c&H4B488D&\bord1.5\move(320,270.46,320,248.59,30,2032)}B-Komachi {\c&HADB9EF&}Channel!
+Dialogue: 1,0:02:05.52,0:02:09.06,Cart_A_Tre,SIGN,0,0,0,,{\fscy64.07\t(22,3525,\fscy40.92)\fscx64.07\t(22,3525,\fscx40.92)\fs40\fnArial Black\c&H2713A2&\3c&HF5F7F6&\4c&H2713A2&\bord2.5\shad2\move(320,248.59,320,223.86,22,3525)}B-Komachi Channel!
+Dialogue: 1,0:02:05.52,0:02:09.06,Cart_A_Tre,SIGN,0,0,0,,{\fscy64.07\t(22,3525,\fscy40.92)\fscx64.07\t(22,3525,\fscx40.92)\fs40\fnArial Black\c&HB17DEB&\3c&H4B488D&\bord1.5\move(320,248.59,320,223.86,22,3525)}B-Komachi {\c&HADB9EF&}Channel!
+Dialogue: 2,0:02:06.43,0:02:08.94,Gen_Italics,MEM,0,0,0,,necesitábamos contacto\Nconstante con más creadores
+Dialogue: 2,0:02:09.02,0:02:12.26,Gen_Italics,MEM,0,0,0,,para que nuestro canal\Nsaliera en sus sugerencias.
+Dialogue: 1,0:02:09.06,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fscx40.92\t(27,3530,\fscx26.38)\fscy40.92\t(27,3530,\fscy26.38)\fs40\fnArial Black\c&H2713A2&\3c&HF5F7F6&\4c&H2713A2&\bord2.5\shad2\move(320,223.86,320,208.28,27,3530)}B-Komachi Channel!
+Dialogue: 1,0:02:09.06,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fscx40.92\t(27,3530,\fscx26.38)\fscy40.92\t(27,3530,\fscy26.38)\fs40\fnArial Black\c&HB17DEB&\3c&H4B488D&\bord1.5\move(320,223.86,320,208.28,27,3530)}B-Komachi {\c&HADB9EF&}Channel!
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\bord2\fnArial Black\pos(320,85)\c&H7A8DF5&\3c&H0A375A&}Pi{\c&H58FFF8&}e{\c&HFAFF6D&}yo{\c&HF074F0&}n {\c&H55FFFD&}Channel!
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\blur1\an7\fs18\bord2\c&HF9F8F6&\3c&H8D60D6&\pos(22.5,160.5)}Makky's\N{\blur0\bord1\shad1\fs16\3c&H3B315A&\4c&H3B315A&}Canal de moda y cosméticos
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\fnComic Sans MS\fs20\bord2.5\c&H41AA5B&\3c&H41AA5B&\pos(320,260)}Canal {\c&HBCB575&\3c&HBCB575&}de los vegetales
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\fnComic Sans MS\fs20\bord1.5\c&H41AA5B&\3c&HFCF4F6&\pos(320,260)}Canal {\c&HBCB575&}de los vegetales
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\an9\fs18\bord1.5\shad1.5\c&H54E2EF&\3c&H021C2A&\4c&H021C2A&\pos(610,140)}Mi-Mi-Amigo\N{\c&HA09DA6&\fs16\b0\shad0\bord3}Talk Channel
+Dialogue: 1,0:02:09.98,0:02:12.61,Cart_A_Tre,SIGN,0,0,0,,{\fad(1401,1)\an9\fs16\bord1.5\shad1.5\c&H5937C6&\3c&HF0E3E9&\4c&HECBDCD&\pos(610,280)}El canal de Takamari\N{\c&H963E55&}de yoga y pilates
+Dialogue: 0,0:02:15.95,0:02:17.36,Gen_Italics,MEM,0,0,0,,Durante estos seis meses,
+Dialogue: 0,0:02:17.45,0:02:20.90,Gen_Italics,MEM,0,0,0,,empleé más tiempo, dinero y esfuerzo\Nen esto que en mi propio canal.
+Dialogue: 0,0:02:21.00,0:02:23.54,Gen_Italics,MEM,0,0,0,,Ni una bonificación enorme\Nbastaría para cubrirlo.
+Dialogue: 0,0:02:23.53,0:02:28.00,Cart_C_Ari,SIGN,0,0,0,,{\blur1\fs30\c&H494149&\bord0\frz6.132\pos(280,101)}B-Komachi {\blur0.5}Channel!\N\N\N\N\N\N\N\N{\c&HA7A4A9&\blur1\b0}360 000 {\blur0.5}suscriptores
+Dialogue: 0,0:02:24.50,0:02:28.00,Gen_Italics,MEM,0,0,0,,Nuestro canal ahora tenía\N360 000 suscriptores.
+Dialogue: 0,0:02:28.71,0:02:32.79,Gen_Italics,MEM,0,0,0,,Llegamos a un punto donde se nos podría\Nconsiderar un éxito como YouTubers.
+Dialogue: 0,0:02:33.67,0:02:36.72,Gen_Main,AD,0,0,0,,Ya terminamos con Akane Kurokawa,\Nla protagonista.
+Dialogue: 0,0:02:38.76,0:02:40.98,Gen_Main,AKANE,0,0,0,,Muchas gracias.
+Dialogue: 0,0:02:41.06,0:02:44.61,Gen_Italics,MEM,0,0,0,,La primera película con Akane\Ncomo protagonista estaba por estrenarse
+Dialogue: 0,0:02:44.69,0:02:47.48,Gen_Italics,MEM,0,0,0,,y tenía muchas series\Nde televisión que filmar.
+Dialogue: 0,0:02:47.90,0:02:52.14,Gen_Italics,MEM,0,0,0,,Estaba empezando a labrarse\Nun nombre como actriz.
+Dialogue: 0,0:02:53.19,0:02:57.36,Gen_Italics,MEM,0,0,0,,Todo estaba yendo genial\Nen las carreras de B-Komachi y Akane.
+Dialogue: 0,0:02:57.78,0:03:01.60,Gen_Italics,MEM,0,0,0,,Pero quien me sorprendió\Nde verdad fue Aqu.
+Dialogue: 0,0:02:59.86,0:03:02.82,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(59,54.5)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 1,0:02:59.86,0:03:02.82,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(59,54.5)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:02:59.86,0:03:02.82,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs13\fax0.15\fnTimes New Roman\c&H71718C&\3c&HE5ECF7&\frz359.1\pos(289.5,164.5)}Aqua Hoshino
+Dialogue: 0,0:02:59.86,0:03:02.82,Cart_A_Tre,SIGN,0,0,0,,{\blur0.2\an9\fs10\frz1.32\fax0.15\pos(491,245.5)}¡Excava hondo! Con olfato canino\h\N\N{\fs12}#120: Diseñador de lencería
+Dialogue: 0,0:03:02.82,0:03:09.71,Cart_A_Tre,SIGN,0,0,0,,{\fad(1,772)\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,74)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:03:02.82,0:03:09.71,Cart_A_Tre,SIGN,0,0,0,,{\fad(1,772)\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,74)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:03:03.25,0:03:06.59,Gen_Italics,MEM,0,0,0,,Consiguió un puesto habitual\Nen un programa que se emite en Internet
+Dialogue: 0,0:03:07.08,0:03:11.46,Gen_Italics,MEM,0,0,0,,mientras hacía papeles secundarios\Nen series y modelaba en revistas.
+Dialogue: 0,0:03:11.55,0:03:13.91,Gen_Italics,MEM,0,0,0,,Creó una gran red con mucha facilidad,
+Dialogue: 0,0:03:12.37,0:03:17.80,Cart_A_Tre,SIGN,0,0,0,,{\fad(948,1)\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,74)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:03:12.37,0:03:17.80,Cart_A_Tre,SIGN,0,0,0,,{\fad(948,1)\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,74)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:03:14.01,0:03:17.27,Gen_Italics,MEM,0,0,0,,acercándose a ser\Nun artista polifacético.
+Dialogue: 0,0:03:18.18,0:03:21.30,Gen_Main,MEM,0,0,0,,¿Se conocieron como actrices infantiles?
+Dialogue: 0,0:03:21.39,0:03:25.37,Gen_Main,RUBY,0,0,0,,Sí, cuando éramos pequeñas.\NSomos básicamente amigas de la infancia.
+Dialogue: 0,0:03:25.94,0:03:27.44,Gen_Main,KANA,0,0,0,,¡Ni hablar!
+Dialogue: 0,0:03:27.52,0:03:31.40,Gen_Main,KANA,0,0,0,,Era una mocosa muy grosera, y cuando\Nnos reencontramos años después…
+Dialogue: 0,0:03:31.48,0:03:33.10,Gen_Main,RUBY,0,0,0,,"La genio que lame bicarbonato".
+Dialogue: 0,0:03:33.19,0:03:35.61,Gen_Main,KANA,0,0,0,,¡"La genio que puede llorar\Nen 10 segundos"!
+Dialogue: 0,0:03:35.89,0:03:37.10,Gen_Main,KANA,0,0,0,,¡No digas eso!
+Dialogue: 0,0:03:37.20,0:03:41.63,Gen_Main,KANA,0,0,0,,Vi a la gente preguntarse: "¿Cómo\Nse llamará Bicarbonato en realidad?".
+Dialogue: 0,0:03:42.39,0:03:43.95,Gen_Main,KANA,0,0,0,,Rayos.
+Dialogue: 0,0:03:45.61,0:03:48.29,Gen_Main,MEM,0,0,0,,Bien, creo que con eso\Ntenemos suficiente material.
+Dialogue: 0,0:03:48.83,0:03:50.39,Gen_Main,MEM,0,0,0,,Dejémoslo por hoy.
+Dialogue: 0,0:03:50.46,0:03:51.75,Gen_Main,MIYAKO,0,0,0,,Buen trabajo.
+Dialogue: 0,0:03:52.02,0:03:55.18,Gen_Main,MIYAKO,0,0,0,,Mañana tienen agendada\Nuna grabación de un video de baile.
+Dialogue: 0,0:03:55.33,0:03:57.88,Gen_Main,MIYAKO,0,0,0,,Al día siguiente colaborarán\Ncon Pieyon en la mañana
+Dialogue: 0,0:03:57.97,0:04:00.61,Gen_Main,MIYAKO,0,0,0,,y colaborarán con unos gamers\Nen la tarde.
+Dialogue: 0,0:04:00.68,0:04:03.78,Gen_Main,MEM,0,0,0,,Y el fin de semana tenemos\Nel concierto en Hokkaido.
+Dialogue: 0,0:04:03.85,0:04:05.47,Gen_Main,MEM,0,0,0,,Qué ocupadas estamos.
+Dialogue: 0,0:04:05.85,0:04:11.03,Gen_Main,MEM,0,0,0,,¡No puedo más, Miyako!\N¡Abrázame y acaríciame la cabeza!
+Dialogue: 0,0:04:09.69,0:04:11.94,Gen_Main_Up,MIYAKO,0,0,0,,Vamos, vamos. Lo estás haciendo genial.
+Dialogue: 0,0:04:12.44,0:04:15.82,Gen_Main,MEM,0,0,0,,¿Qué quieren hacer?\N¿Vamos a comer algo?
+Dialogue: 0,0:04:15.90,0:04:18.57,Gen_Main,KANA,0,0,0,,No. Si ya terminamos, me marcho.
+Dialogue: 0,0:04:19.90,0:04:21.16,Gen_Main,RUBY,0,0,0,,Y yo.
+Dialogue: 0,0:04:21.68,0:04:23.12,Gen_Main,MEM,0,0,0,,Ah, bien.
+Dialogue: 0,0:04:23.62,0:04:27.62,Gen_Italics,MEM,0,0,0,,Kana y Ruby parecen\Nhaber cambiado un poco.
+Dialogue: 0,0:04:39.74,0:04:42.59,Gen_Main,AQUA,0,0,0,,Decidí empezar a salir con Akane\Nen serio.
+Dialogue: 0,0:04:43.50,0:04:44.65,Gen_Main,AQUA,0,0,0,,Así que…
+Dialogue: 0,0:04:47.99,0:04:49.10,Gen_Main,AKANE,0,0,0,,¿Sabes qué?
+Dialogue: 0,0:04:49.10,0:04:56.19,Cart_A_Tre,SIGN,0,0,0,,{\blur0.3\fscx90\fax0.2\fs8\frz31.78\3c&H33475A&\pos(66.3,183.3)}Aqua
+Dialogue: 0,0:04:49.25,0:04:53.44,Gen_Main,AKANE,0,0,0,,El productor de sonido me gritaba\Nmás que el director. Pasé mucho miedo.
+Dialogue: 0,0:04:53.52,0:04:56.19,Gen_Italics,AQUA,0,0,0,,Sí, hay gente así de anticuada.
+Dialogue: 0,0:04:56.53,0:04:58.84,Gen_Italics,AKANE,0,0,0,,Quisiera desahogarme\Nde muchas cosas contigo.
+Dialogue: 0,0:04:59.02,0:05:00.40,Gen_Main,AQUA,0,0,0,,¿Cuándo tienes un día libre?
+Dialogue: 0,0:05:01.41,0:05:05.87,Gen_Main,AKANE,0,0,0,,Con algo de suerte, tendré libres\Nlas noches del 23 y el 29 de este mes.
+Dialogue: 0,0:05:06.31,0:05:08.09,Gen_Main,AQUA,0,0,0,,Qué ocupada estás.
+Dialogue: 0,0:05:08.25,0:05:10.89,Gen_Main,AKANE,0,0,0,,Es lo que pasa cuando\Nse trabaja en la televisión.
+Dialogue: 0,0:05:11.33,0:05:16.58,Cart_A_Tre,SIGN,0,0,0,,{\blur0.3\fax0.9\fs14\fscx80\frz50\3c&H27303E&\pos(128.382,290.029)}Aqua
+Dialogue: 0,0:05:12.79,0:05:14.21,Gen_Main,AKANE,0,0,0,,Aqua.
+Dialogue: 0,0:05:15.04,0:05:16.59,Gen_Main,AKANE,0,0,0,,Quiero verte pronto.
+Dialogue: 0,0:05:17.92,0:05:19.96,Gen_Main,AQUA,0,0,0,,Sí. Y yo.
+Dialogue: 0,0:07:03.43,0:07:06.27,Gen_Italics,RUBY,0,0,0,,¡Este es el segundo concierto\Nen solitario de B-Komachi!
+Dialogue: 0,0:07:06.36,0:07:08.74,Gen_Italics,ALL,0,0,0,,¡Gracias por venir!
+Dialogue: 0,0:07:10.65,0:07:12.49,Gen_Main,BUCKTOOTH,0,0,0,,¡El segundo concierto de B-Komachi!
+Dialogue: 0,0:07:12.58,0:07:15.67,Gen_Main,BUCKTOOTH,0,0,0,,Solo tienen un año y vendieron\Nmás de mil boletos en una hora.
+Comment: 0,0:07:15.91,0:07:18.21,Gen_Italics_top,MEM,0,0,0,,Espectadores de Internet, ¿están ahí?
+Dialogue: 0,0:07:15.91,0:07:18.21,Gen_Main,BUCKTOOTH,0,0,0,,Qué envidia me dan los que pudieron ir.
+Dialogue: 0,0:07:18.63,0:07:21.20,Gen_Main,BUCKTOOTH,0,0,0,,Por suerte vendieron boletos\Npara la transmisión.
+Dialogue: 0,0:07:21.30,0:07:24.42,Gen_Main,BUCKTOOTH,0,0,0,,¡Viva mi MEMcho!\NTiene un gran olfato para el negocio.
+Comment: 0,0:07:22.05,0:07:23.97,Gen_Italics_top,KANA,0,0,0,,Todavía queda mucho por venir.
+Comment: 0,0:07:25.17,0:07:27.92,Gen_Italics_top,RUBY,0,0,0,,¡Ahora sigue {\i0}POP IN 2{\i1}!
+Dialogue: 0,0:07:25.17,0:07:28.32,Gen_Main,BUCKTOOTH,0,0,0,,Si cuentas a los del recinto\Ny los de Internet, será mucha gente.
+Dialogue: 0,0:07:28.39,0:07:31.26,Gen_Main,BUCKTOOTH,0,0,0,,Podrían llenar auditorios\No incluso el Tokyo Dome, ¿no?
+Dialogue: 0,0:07:31.35,0:07:32.51,Gen_Main,GLASSES,0,0,0,,No seas tonto, novato.
+Dialogue: 0,0:07:32.51,0:07:42.02,Cart_A_Tre,SIGN,0,0,0,,{\fad(1,726)\bord2\an9\fs12\q2\c&H353F52&\3c&HD0E0F2&\frz12.5\move(318,166,1036,7,25,9493)\clip(m 0 105 l 297 38 292 67 289 112 301 168 313 186 308 173 303 161 300 144 298 116 311 146 328 171 347 195 357 205 346 217 359 232 0 311)}Sala de exhibiciones 7\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSala de exhibiciones 6\h\h\h\h\h\h\h\hSala de exhibiciones 5\h\h\h\h\h\h\h\h\hSala de exhibiciones 4\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSala de exhibiciones 3\h\h\h\h\h\h\h\hSala de exhibiciones 2\h\h\h\h\h\h\h\h\hSala de exhibiciones 1
+Dialogue: 0,0:07:33.39,0:07:34.46,Gen_Main,GLASSES,0,0,0,,¿Auditorios?
+Dialogue: 0,0:07:34.67,0:07:38.66,Gen_Main,GLASSES,0,0,0,,Un solo bloque del Makuhari Messe\Ntiene una capacidad de 7000 personas.
+Dialogue: 0,0:07:38.73,0:07:42.11,Gen_Main,GLASSES,0,0,0,,A los grupos con mucha presencia\Nen televisión les cuesta llenarlos.
+Dialogue: 0,0:07:42.48,0:07:44.67,Gen_Main,GLASSES,0,0,0,,El Tokyo Dome ya es algo muy distinto.
+Dialogue: 0,0:07:44.74,0:07:48.19,Gen_Main,GLASSES,0,0,0,,Los únicos grupos de idols\Nque pueden actuar allí ahora
+Dialogue: 0,0:07:46.32,0:07:53.53,Cart_A_Tre,SIGN,0,0,0,,{\fad(1,975)\fs12\c&H4A314C&\frz2.05\fax0.1\pos(141.5,240)\3c&HE1A2BC&}Comuse
+Dialogue: 0,0:07:47.15,0:07:53.53,Cart_A_Tre,SIGN,0,0,0,,{\fad(1,975)\fs12\c&H2A475C&\fax0.03\frz8.22\pos(95.5,124)\3c&HB5F4F3&\frx20\fry0}Star{\c&H8195A0&}dumst
+Dialogue: 0,0:07:48.28,0:07:50.91,Gen_Main,GLASSES,0,0,0,,son los que tienen\Nel apoyo de las mayores agencias.
+Dialogue: 0,0:07:51.18,0:07:52.89,Gen_Main,GLASSES,0,0,0,,Así es nuestra era.
+Dialogue: 0,0:07:53.58,0:07:59.75,Gen_Main,GLASSES,0,0,0,,Ningún grupo de idols underground\Nllegó a actuar allí en 15 años.
+Dialogue: 0,0:08:00.86,0:08:02.57,Gen_Main,GLASSES,0,0,0,,Controla esas expectativas.
+Dialogue: 0,0:08:02.71,0:08:05.21,Gen_Main,FANBOSS-GLASSES,0,0,0,,-No sé…\N-¿Jefe?
+Dialogue: 0,0:08:05.67,0:08:09.56,Gen_Main,FANBOSS,0,0,0,,Sí, últimamente las grandes empresas\Ncontrolan este negocio.
+Dialogue: 0,0:08:09.91,0:08:12.17,Gen_Main,FANBOSS,0,0,0,,Pero desde 2020,
+Dialogue: 0,0:08:12.41,0:08:16.92,Gen_Main,FANBOSS,0,0,0,,cada vez más músicos que empezaron\Nen Internet actuaron en el Tokyo Dome.
+Dialogue: 0,0:08:17.39,0:08:19.94,Gen_Main,FANBOSS,0,0,0,,Este podría ser\Nun gran punto de inflexión.
+Dialogue: 0,0:08:20.65,0:08:25.89,Gen_Main,FANBOSS,0,0,0,,¿De grupo underground al Tokyo Dome?\NEse es el sueño de cualquier otaku.
+Dialogue: 0,0:08:25.98,0:08:28.94,Gen_Main,FANBOSS,0,0,0,,Y seguramente puedan cumplirlo\Nunas idols de Internet.
+Dialogue: 0,0:08:29.03,0:08:32.12,Gen_Main,BUCKTOOTH,0,0,0,,¿Dices un grupo como B-Komachi?
+Dialogue: 0,0:08:32.20,0:08:33.96,Gen_Main,FANBOSS,0,0,0,,Así es.
+Dialogue: 0,0:08:34.11,0:08:38.98,Gen_Main,FANBOSS,0,0,0,,Pero les tomará al menos cuatro años\Nconseguir una gran base de aficionados.
+Dialogue: 0,0:08:39.31,0:08:40.33,Gen_Main,GLASSES,0,0,0,,Aunque…
+Dialogue: 0,0:08:40.96,0:08:43.79,Gen_Main,GLASSES,0,0,0,,pocos grupos duran tanto tiempo.
+Dialogue: 0,0:08:44.80,0:08:49.57,Gen_Main,GLASSES,0,0,0,,Kana últimamente se ve más decaída.\NYa no brilla tanto como el sol.
+Dialogue: 0,0:08:49.76,0:08:50.76,Gen_Main,BUCKTOOTH,0,0,0,,¿En serio?
+Dialogue: 0,0:08:51.46,0:08:54.05,Gen_Main,GLASSES,0,0,0,,Suelo fijarme en esas cosas\Nen mis favoritas.
+Dialogue: 0,0:08:54.41,0:08:58.48,Gen_Main,GLASSES,0,0,0,,Vi a varias idols poner esa cara\Ny dejar el negocio poco después.
+Dialogue: 0,0:08:58.65,0:09:02.33,Gen_Main,FANBOSS,0,0,0,,Se podría decir lo mismo de Rubycita.
+Dialogue: 0,0:09:02.40,0:09:05.07,Gen_Main,FANBOSS,0,0,0,,Antes se veía\Nmucho más inocente y auténtica,
+Dialogue: 0,0:09:05.52,0:09:08.21,Gen_Main,FANBOSS,0,0,0,,pero ahora parece\Nmás cínica y calculadora.
+Dialogue: 0,0:09:08.47,0:09:11.00,Gen_Italics,BUCKTOOTH,0,0,0,,No quiero ver a un viejo\Nllamándola Rubycita.
+Dialogue: 0,0:09:11.45,0:09:13.72,Gen_Main,BUCKTOOTH,0,0,0,,¿Creen que pasó algo?
+Dialogue: 0,0:09:14.55,0:09:15.99,Gen_Main,FANBOSS,0,0,0,,Se me ocurre una cosa.
+Dialogue: 0,0:09:16.08,0:09:18.22,Gen_Main,GLASSES,0,0,0,,Solo puede ser una cosa.
+Dialogue: 0,0:09:20.37,0:09:22.29,Gen_Main,FANBOSSGLASSES,0,0,0,,¡Se unirá una nueva!
+Dialogue: 0,0:09:22.50,0:09:26.52,Gen_Main,GLASSES,0,0,0,,Cuando los grupos se vuelven raros\Nsuele deberse a un nuevo integrante.
+Dialogue: 0,0:09:26.59,0:09:27.75,Gen_Main,FANBOSS,0,0,0,,Sí, sí.
+Dialogue: 0,0:09:27.84,0:09:31.09,Gen_Main,FANBOSS,0,0,0,,A veces pasan cosas buenas\Nsi solo sigues a una sola miembro.
+Dialogue: 0,0:09:31.21,0:09:32.26,Gen_Main,BUCKTOOTH,0,0,0,,Ya veo.
+Dialogue: 0,0:09:32.54,0:09:34.28,Gen_Main,BUCKTOOTH,0,0,0,,¡Qué educativo!
+Dialogue: 0,0:09:37.99,0:09:39.59,Gen_Main,MEM,0,0,0,,¿Dónde está Aqu hoy?
+Dialogue: 0,0:09:39.82,0:09:42.51,Gen_Main,MIYAKO,0,0,0,,Está filmando para\N"¡Excava hondo! Con olfato canino".
+Dialogue: 0,0:09:42.73,0:09:45.61,Gen_Main,MIYAKO,0,0,0,,Filman tres episodios cada vez,\Nasí que acaban tarde.
+Dialogue: 0,0:09:46.43,0:09:50.69,Gen_Main,KANA,0,0,0,,Miyako, déjame en Ebisu.\NTengo algo que hacer allí.
+Dialogue: 0,0:09:51.76,0:09:53.03,Gen_Main,MIYAKO,0,0,0,,Ah, bien.
+Dialogue: 0,0:10:05.71,0:10:07.15,Gen_Main,MEM,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:10:09.19,0:10:10.36,Gen_Main,KANA,0,0,0,,MEM…
+Dialogue: 0,0:10:11.65,0:10:15.50,Gen_Main,KANA,0,0,0,,¿Me seguiste hasta aquí?\N¿No vives mucho más lejos?
+Dialogue: 0,0:10:15.89,0:10:17.88,Gen_Main,MEM,0,0,0,,Un poco, sí.
+Dialogue: 0,0:10:23.64,0:10:28.36,Gen_Main,MEM,0,0,0,,Sé que no te gustará\Nque me meta donde no me llaman…
+Dialogue: 0,0:10:29.56,0:10:31.32,Gen_Main,MEM,0,0,0,,Pero es sobre Aqu, ¿verdad?
+Dialogue: 0,0:10:31.78,0:10:35.05,Gen_Main,MEM,0,0,0,,Cualquiera puede ver\Nque estás sufriendo.
+Dialogue: 0,0:10:38.80,0:10:41.50,Gen_Main,KANA,0,0,0,,Llevo así los últimos seis meses.
+Dialogue: 0,0:10:42.11,0:10:44.77,Gen_Main,KANA,0,0,0,,Cada vez que voy\Na la oficina de la agencia,
+Dialogue: 0,0:10:44.95,0:10:47.21,Gen_Main,KANA,0,0,0,,se esconde en su habitación.
+Dialogue: 0,0:10:47.97,0:10:50.53,Gen_Main,KANA,0,0,0,,Y hoy tampoco vino al concierto.
+Dialogue: 0,0:10:51.03,0:10:53.82,Gen_Main,MEM,0,0,0,,Bueno, él también está muy ocupado.
+Dialogue: 0,0:10:53.92,0:10:56.43,Gen_Main,KANA,0,0,0,,¡No, me está evitando! ¡Lo sé!
+Dialogue: 0,0:10:56.65,0:10:58.79,Gen_Main,KANA,0,0,0,,Cree que no puede\Nhablar con otras chicas
+Dialogue: 0,0:10:58.89,0:11:01.43,Gen_Main,KANA,0,0,0,,porque está saliendo con Akane Kurokawa.
+Dialogue: 0,0:11:02.04,0:11:04.48,Gen_Main,KANA,0,0,0,,Qué muestra de fidelidad.
+Dialogue: 0,0:11:04.56,0:11:08.56,Gen_Main,KANA,0,0,0,,Es el novio más confiable\Nque podría tener cualquier chica.
+Dialogue: 0,0:11:09.98,0:11:16.06,Gen_Main,KANA,0,0,0,,Sé que Akane es talentosa,\Nhermosa y muy buena.
+Dialogue: 0,0:11:16.25,0:11:19.28,Gen_Main,KANA,0,0,0,,Me encantaría poder apoyarlos.
+Dialogue: 0,0:11:20.16,0:11:23.63,Gen_Main,KANA,0,0,0,,Y nunca haría algo\Nque pudiera molestar a Aqua.
+Dialogue: 0,0:11:24.54,0:11:26.90,Gen_Main,KANA,0,0,0,,¿Por qué me evita\Ncomo si fuera la peste?
+Dialogue: 0,0:11:27.00,0:11:30.84,Gen_Main,KANA-MEM,0,0,0,,-¡Me haces sufrir, desgraciado!\N-Kana…
+Dialogue: 0,0:11:31.63,0:11:33.46,Gen_Main,MEM,0,0,0,,Vamos, cálmate.
+Dialogue: 0,0:11:49.69,0:11:52.65,Gen_Main,AQUA,0,0,0,,Gracias por todo. Me marcho ya.
+Dialogue: 0,0:11:52.73,0:11:54.64,Gen_Main,KOTE-SAWA,0,0,0,,-Hasta luego.\N-Adiós.
+Dialogue: 0,0:11:56.93,0:11:57.95,Gen_Main,MEM,0,0,0,,Hola.
+Dialogue: 0,0:11:59.22,0:12:00.28,Gen_Main,AQUA,0,0,0,,¿MEM?
+Dialogue: 0,0:12:01.54,0:12:05.25,Gen_Main,AQUA,0,0,0,,Seguro que no nos encontramos aquí\Npor casualidad,
+Dialogue: 0,0:12:06.21,0:12:09.25,Gen_Main,AQUA,0,0,0,,pero llevo trabajando\Ndesde esta mañana y estoy cansado.
+Dialogue: 0,0:12:09.46,0:12:11.56,Gen_Main,AQUA,0,0,0,,Si quieres hablar, déjalo para otro…
+Dialogue: 0,0:12:11.63,0:12:12.84,Gen_Main,MEM,0,0,0,,¿Para otro día?
+Dialogue: 0,0:12:13.05,0:12:16.55,Gen_Main,MEM,0,0,0,,¿Y cuándo será eso?\N¿Dentro de un mes?
+Dialogue: 0,0:12:17.30,0:12:20.90,Gen_Main,MEM,0,0,0,,Los dos tenemos las agendas llenas.
+Dialogue: 0,0:12:21.11,0:12:24.26,Gen_Main,MEM,0,0,0,,No sé cuándo\Ntendremos libre el mismo día.
+Dialogue: 0,0:12:26.31,0:12:27.40,Gen_Main,AQUA,0,0,0,,De acuerdo.
+Dialogue: 0,0:12:27.77,0:12:30.23,Gen_Main,AQUA,0,0,0,,Al menos vayamos a un sitio con un sofá.
+Dialogue: 0,0:12:30.79,0:12:33.69,Gen_Main,MEM,0,0,0,,De acuerdo. En ese caso…
+Dialogue: 0,0:12:36.15,0:12:37.16,Gen_Main,AQUA,0,0,0,,Por cierto,
+Dialogue: 0,0:12:37.24,0:12:40.53,Gen_Main,AQUA,0,0,0,,un adulto no puede estar con menores\Nsin relación pasadas las 23:00.
+Dialogue: 0,0:12:40.61,0:12:41.88,Gen_Main,AQUA,0,0,0,,Lo prohíbe la ley.
+Dialogue: 0,0:12:41.95,0:12:44.87,Gen_Main,MEM,0,0,0,,¡No seas tan estricto!
+Dialogue: 0,0:12:49.08,0:12:51.05,Gen_Main,MEM,0,0,0,,Te ves muy cansado.
+Dialogue: 0,0:12:51.31,0:12:53.54,Gen_Main,AQUA,0,0,0,,Hoy filmamos cuatro episodios.
+Dialogue: 0,0:12:54.79,0:12:59.44,Gen_Main,AQUA,0,0,0,,Y también tuve ensayos y demás\Npara la siguiente obra de Lalalai.
+Dialogue: 0,0:12:59.97,0:13:02.24,Gen_Main,AQUA,0,0,0,,Y quiero seguir\Ncon mis estudios en casa.
+Dialogue: 0,0:13:02.46,0:13:05.22,Gen_Main,MEM,0,0,0,,Ah, sí. Eres bastante inteligente.
+Dialogue: 0,0:13:05.31,0:13:07.56,Gen_Main,MEM-AQUA,0,0,0,,-¿Irás a la universidad?\N-Ese es mi plan.
+Dialogue: 0,0:13:08.73,0:13:11.09,Gen_Main,AQUA,0,0,0,,Es el verano de segundo de preparatoria.
+Dialogue: 0,0:13:11.19,0:13:14.25,Gen_Main,AQUA,0,0,0,,Cualquiera que quiera estudiar\NMedicina debe prepararse ya.
+Dialogue: 0,0:13:14.31,0:13:17.07,Gen_Main,MEM,0,0,0,,¿Medicina? ¿Quieres ser médico?
+Dialogue: 0,0:13:17.83,0:13:19.16,Gen_Main,AQUA,0,0,0,,No estoy seguro.
+Dialogue: 0,0:13:20.82,0:13:24.78,Gen_Main,AQUA,0,0,0,,Pero si pienso a largo plazo,\Nquiero poder tener esa opción.
+Dialogue: 0,0:13:24.95,0:13:27.21,Gen_Main,MEM,0,0,0,,Sí, deberías hacerlo.
+Dialogue: 0,0:13:27.39,0:13:30.41,Gen_Main,MEM,0,0,0,,Ojalá yo también\Nhubiera ido a la universidad.
+Dialogue: 0,0:13:30.63,0:13:32.57,Gen_Main,MEM,0,0,0,,Estoy orgullosa de ti.
+Dialogue: 0,0:13:32.67,0:13:36.25,Gen_Main,AQUA,0,0,0,,Todavía estás a tiempo para hacerlo.
+Dialogue: 0,0:13:36.34,0:13:38.78,Gen_Main,AQUA,0,0,0,,Puedes prepararte\Npara los exámenes de ingreso.
+Dialogue: 0,0:13:39.57,0:13:41.76,Gen_Main,MEM,0,0,0,,Qué ingenuo eres.
+Dialogue: 0,0:13:41.84,0:13:45.34,Gen_Main,MEM,0,0,0,,¡Alguien tan serio no debería estar\Nen el mundo de entretenimiento!
+Dialogue: 0,0:13:45.43,0:13:47.30,Gen_Main,MEM,0,0,0,,¡Y no estoy exagerando!
+Dialogue: 0,0:13:47.39,0:13:48.64,Gen_Main,AQUA,0,0,0,,Estoy seguro de que sí.
+Dialogue: 0,0:13:49.30,0:13:54.55,Gen_Main,MEM,0,0,0,,Todo adulto de Japón sabe que ir\Na la universidad mejora sus opciones.
+Dialogue: 0,0:13:55.69,0:13:59.82,Gen_Main,MEM,0,0,0,,Pero no lo hacen\Nporque están muy ocupados.
+Dialogue: 0,0:14:00.65,0:14:04.70,Gen_Main,MEM,0,0,0,,La gente no siempre toma\Nlas decisiones más racionales.
+Dialogue: 0,0:14:05.25,0:14:07.72,Gen_Main,MEM,0,0,0,,Y eso te incluye a ti, ¿no?
+Dialogue: 0,0:14:08.43,0:14:13.46,Gen_Main,MEM,0,0,0,,Si fueras más racional,\Nhabrías gestionado mejor lo de Kana.
+Dialogue: 0,0:14:13.90,0:14:15.63,Gen_Main,AQUA,0,0,0,,Sabía que era por eso.
+Dialogue: 0,0:14:16.17,0:14:18.87,Gen_Main,AQUA,0,0,0,,Creo que es mejor que no te metas.
+Dialogue: 0,0:14:19.46,0:14:20.84,Gen_Main,MEM,0,0,0,,Lo sé.
+Dialogue: 0,0:14:21.01,0:14:24.09,Gen_Main,MEM,0,0,0,,Pero yo tampoco tomo siempre\Nlas decisiones más racionales.
+Dialogue: 0,0:14:24.89,0:14:29.31,Gen_Main,MEM,0,0,0,,Si veo a una amiga deprimida,\Nquiero ayudarla.
+Dialogue: 0,0:14:29.55,0:14:31.38,Gen_Main,MEM,0,0,0,,Así somos los humanos.
+Dialogue: 0,0:14:31.77,0:14:35.31,Gen_Main,MEM,0,0,0,,¡Las actuaciones de Kana\Nestán siendo cada vez peores!
+Dialogue: 0,0:14:35.40,0:14:36.86,Gen_Main,MEM,0,0,0,,¡Haz algo al respecto!
+Dialogue: 0,0:14:36.94,0:14:38.11,Gen_Main,AQUA,0,0,0,,¿Que haga algo?
+Dialogue: 0,0:14:38.86,0:14:41.07,Gen_Main,AQUA,0,0,0,,¿Qué más quieres que haga?
+Dialogue: 0,0:14:41.29,0:14:43.30,Gen_Main,MEM,0,0,0,,No tengo una respuesta para ti,
+Dialogue: 0,0:14:43.46,0:14:46.85,Gen_Main,MEM,0,0,0,,pero no puedes huir sin más\Nluego de acercarte a una chica.
+Dialogue: 0,0:14:46.94,0:14:47.98,Gen_Main,AQUA,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:14:48.62,0:14:53.38,Gen_Main,MEM,0,0,0,,Aún eres tan joven que de seguro\Nno sabes dónde poner el límite,
+Dialogue: 0,0:14:53.83,0:14:58.13,Gen_Main,MEM,0,0,0,,pero diría que lo que hiciste con Kana\Nfue darle esperanzas.
+Dialogue: 0,0:14:58.70,0:15:02.76,Gen_Main,MEM,0,0,0,,Deberías evitar esas cosas\Na menos que te interese…
+Dialogue: 0,0:15:07.51,0:15:12.66,Gen_Main,AQUA,0,0,0,,Y lo dices tú después de traer\Nun chico a casa como si nada.
+Dialogue: 0,0:15:15.11,0:15:16.35,Gen_Main,MEM,0,0,0,,¿Aqu?
+Dialogue: 0,0:15:17.06,0:15:20.99,Gen_Main,AQUA,0,0,0,,Tengo ciertas nociones en cuanto\Na relaciones de hombres y mujeres.
+Dialogue: 0,0:15:21.45,0:15:24.82,Gen_Main,AQUA,0,0,0,,Deja de hablarme\Ncomo si lo supieras todo.
+Dialogue: 0,0:15:25.29,0:15:28.78,Gen_Main,AQUA,0,0,0,,Cuando decides distanciarte,\Nhay que hacerlo hasta el final.
+Dialogue: 0,0:15:30.33,0:15:37.25,Gen_Main,AQUA,0,0,0,,¿De verdad creías que no sabría\Nque lastimaría a Arima si la evitaba?
+Dialogue: 0,0:15:38.51,0:15:42.59,Gen_Main,AQUA,0,0,0,,¿De verdad piensas\Nque quería hacerle esto?
+Dialogue: 0,0:15:43.42,0:15:46.67,Gen_Main,AQUA,0,0,0,,Empecé a pensar en el futuro hace poco.
+Dialogue: 0,0:15:47.54,0:15:50.55,Gen_Main,AQUA,0,0,0,,No solo en el mío,\Ntambién en el de quienes me rodean.
+Dialogue: 0,0:15:51.26,0:15:55.18,Gen_Main,AQUA,0,0,0,,No tengo dudas de que Arima\Nse volverá mucho más famosa.
+Dialogue: 0,0:15:56.72,0:15:59.15,Gen_Main,AQUA,0,0,0,,Voy a decir una obviedad.
+Dialogue: 0,0:15:59.87,0:16:03.84,Gen_Main,AQUA,0,0,0,,Cuando se descubre que una idol\Ntiene novio, sus fans enfurecen.
+Dialogue: 0,0:16:04.26,0:16:06.16,Gen_Main,AQUA,0,0,0,,¿Y si un periódico lo expone?
+Dialogue: 0,0:16:06.39,0:16:08.38,Gen_Main,AQUA,0,0,0,,¿Y si se filtra online?
+Dialogue: 0,0:16:08.78,0:16:14.85,Gen_Main,AQUA,0,0,0,,¿Y si se descubre que Kana Arima\Ntiene pareja y un fan loco la agrede?
+Dialogue: 0,0:16:16.27,0:16:18.05,Gen_Main,AQUA,0,0,0,,¿De quién sería la culpa?
+Dialogue: 0,0:16:19.25,0:16:22.92,Gen_Main,AQUA,0,0,0,,¿Y si aparece en su casa y la asesina?
+Dialogue: 0,0:16:23.54,0:16:24.99,Gen_Main,AQUA,0,0,0,,¿Te detuviste a pensarlo?
+Dialogue: 0,0:16:25.88,0:16:29.61,Gen_Main,AQUA,0,0,0,,¡No soporto la idea\Nde que eso se repita!
+Dialogue: 0,0:16:29.77,0:16:32.80,Gen_Italics,MEM,0,0,0,,Puede que sea al revés.
+Dialogue: 0,0:16:33.41,0:16:37.27,Gen_Italics,MEM,0,0,0,,Puede que estuviera equivocada.
+Dialogue: 0,0:16:37.66,0:16:41.35,Gen_Italics,MEM,0,0,0,,Siempre pensé que era Kana\Nquien estaba loca por Aqu.
+Dialogue: 0,0:16:41.97,0:16:43.64,Gen_Italics,MEM,0,0,0,,Pero puede que sea él.
+Dialogue: 0,0:16:44.55,0:16:48.43,Gen_Italics,MEM,0,0,0,,Es Aqu el que está loco por Kana.
+Dialogue: 0,0:16:56.29,0:16:57.45,Gen_Main,MEM,0,0,0,,Ya entiendo.
+Dialogue: 0,0:16:58.25,0:16:59.58,Gen_Main,MEM,0,0,0,,Lo siento.
+Dialogue: 0,0:17:03.71,0:17:07.29,Gen_Main,AQUA,0,0,0,,¿Y esto no cuenta\Ncomo darme esperanzas a mí?
+Dialogue: 0,0:17:08.63,0:17:11.36,Gen_Main,MEM,0,0,0,,La gente no siempre es racional.
+Dialogue: 0,0:17:15.72,0:17:20.69,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,75)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:17:15.72,0:17:20.69,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,75)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:17:16.19,0:17:18.57,Gen_Italics,EMCEESAWA,0,0,0,,¡Excava hondo! Con olfato canino.
+Dialogue: 0,0:17:18.73,0:17:20.69,Gen_Italics,EMCEESAWA,0,0,0,,Hasta la próxima semana.
+Dialogue: 0,0:17:21.39,0:17:25.15,Gen_Main,FRILL,0,0,0,,En este episodio\Ntu hermano también sale genial.
+Dialogue: 0,0:17:25.38,0:17:27.49,Gen_Main,RUBY-FRILL,0,0,0,,-¿Te gusta?\N-Sí.
+Dialogue: 0,0:17:28.50,0:17:30.90,Gen_Main,MINAMI,0,0,0,,Mis estilistas dicen\Nque también lo ven.
+Dialogue: 0,0:17:31.36,0:17:34.85,Gen_Main,FRILL,0,0,0,,Una vez intentaron encontrar\Nal mayor perdedor del hipódromo,
+Dialogue: 0,0:17:34.95,0:17:38.50,Gen_Main,FRILL,0,0,0,,y entrevistaron a la gente\Nque censura los videos porno…
+Dialogue: 0,0:17:38.58,0:17:42.37,Gen_Main,FRILL,0,0,0,,Me encanta cómo expanden\Nlos límites con sus temas.
+Dialogue: 0,0:17:43.27,0:17:44.62,Gen_Main,FRILL,0,0,0,,Mi favorito fue
+Dialogue: 0,0:17:44.71,0:17:48.83,Gen_Main,FRILL,0,0,0,,en el que descubrían la explotación\Nde una empresa de comediantes.
+Dialogue: 0,0:17:48.92,0:17:52.09,Gen_Main,MINAMI,0,0,0,,¿Cómo consiguieron\Nla aprobación para algo así?
+Dialogue: 0,0:17:52.09,0:18:04.06,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,75)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:17:52.09,0:18:04.06,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,75)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:17:52.09,0:18:04.06,Cart_A_Tre,SIGN,0,0,0,,{\bord2.5\fs10\bord1\fnTimes New Roman\c&H615F6F&\fax0.05\frz356.4\3c&HF4F5F8&\pos(437.5,293)}Actor\N{\fs16\bord2}Aqua Hoshino
+Dialogue: 0,0:17:52.69,0:17:55.83,Gen_Main_Up,FRILL,0,0,0,,Los comentarios de tu hermano\Nson lo mejor.
+Dialogue: 0,0:17:56.15,0:17:58.91,Gen_Main_Up,FRILL,0,0,0,,Siempre acierta con todo lo que dice.
+Dialogue: 0,0:17:59.11,0:18:01.43,Gen_Main_Up,FRILL,0,0,0,,Parece que es despiadado, y me encanta.
+Dialogue: 0,0:18:01.52,0:18:03.68,Gen_Main_Up,RUBY,0,0,0,,Siempre es así.
+Dialogue: 0,0:18:04.58,0:18:06.72,Gen_Main,FRILL,0,0,0,,Aqua es genial.
+Dialogue: 0,0:18:06.82,0:18:09.52,Gen_Main,MINAMI,0,0,0,,Parece que eres una gran fan suya.
+Dialogue: 0,0:18:09.61,0:18:13.49,Gen_Main,RUBY,0,0,0,,¡No lo hagas, ya tiene\Nuna novia maravillosa!
+Dialogue: 0,0:18:13.69,0:18:16.61,Gen_Main,FRILL,0,0,0,,No pienso intentar nada con él.
+Dialogue: 0,0:18:16.85,0:18:18.54,Gen_Main,FRILL,0,0,0,,Solo me parece carismático.
+Dialogue: 0,0:18:19.00,0:18:22.86,Gen_Main,FRILL,0,0,0,,Si nos llevásemos muy bien, no podría\Nseguir disfrutando del programa.
+Dialogue: 0,0:18:22.96,0:18:25.94,Gen_Main,FRILL,0,0,0,,Como su fan, prefiero\Nmantener las distancias.
+Dialogue: 0,0:18:27.71,0:18:30.62,Gen_Main,FRILL,0,0,0,,En fin, si todo sigue saliendo bien,
+Dialogue: 0,0:18:30.71,0:18:33.79,Gen_Main,FRILL,0,0,0,,seguramente acabaremos\Ntrabajando juntos un día.
+Dialogue: 0,0:18:34.68,0:18:36.72,Gen_Main,MINAMI,0,0,0,,Sí, eso podría pasar.
+Dialogue: 0,0:18:37.55,0:18:39.81,Gen_Main,FRILL,0,0,0,,No hablo solo sobre Aqua.
+Dialogue: 0,0:18:40.34,0:18:43.23,Gen_Main,FRILL,0,0,0,,Ruby, Minami. Cada vez se están\Nvolviendo más populares.
+Dialogue: 0,0:18:43.77,0:18:47.88,Gen_Main,FRILL,0,0,0,,Creo que trabajaremos juntas\Nmás pronto que tarde.
+Dialogue: 0,0:18:49.27,0:18:54.70,Gen_Main,MINAMI,0,0,0,,¿Yo, trabajando con Frill Shiranui?\NNo lo creo…
+Dialogue: 0,0:18:55.02,0:18:56.91,Gen_Main,FRILL,0,0,0,,Estoy esperándolo.
+Dialogue: 0,0:19:00.37,0:19:04.57,Gen_Main,MINAMI,0,0,0,,Ruby, tú seguramente puedas\Ntrabajar pronto con tu hermano.
+Dialogue: 0,0:19:04.66,0:19:07.83,Gen_Main,MINAMI,0,0,0,,Los gemelos suelen recibir\Nofertas en pareja, ¿no?
+Dialogue: 0,0:19:09.54,0:19:10.98,Gen_Main,RUBY,0,0,0,,Pues ¿saben qué?
+Dialogue: 0,0:19:11.46,0:19:32.65,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,75)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:19:11.46,0:19:32.65,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,75)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:19:11.84,0:19:15.28,Gen_Main,RUBY,0,0,0,,Hoy soy la reportera\Nde {\i1}"¡Excava hondo!"{\i0}.
+Dialogue: 0,0:19:15.38,0:19:17.18,Gen_Main,RUBY,0,0,0,,Soy Ruby Hoshino, tengo 16 años.
+Dialogue: 0,0:19:17.18,0:19:20.43,Cart_A_Tre,SIGN,0,0,0,,{\bord2.5\fs12\fnTimes New Roman\c&H615F6F&\3c&HF4F5F8&\pos(347,258.5)}Actor\N{\fs16}Aqua Hoshino
+Dialogue: 0,0:19:17.26,0:19:20.43,Gen_Main_Up,RUBY,0,0,0,,Soy la hermana gemela de Aqua Hoshino.
+Dialogue: 0,0:19:20.51,0:19:23.81,Gen_Main,RUBY,0,0,0,,¡Viva! ¿Estás viendo esto, hermanito?
+Dialogue: 0,0:19:23.89,0:19:25.89,Gen_Main,RUBY,0,0,0,,¿Cómo te sientes?
+Dialogue: 0,0:19:25.89,0:19:32.65,Cart_A_Tre,SIGN,0,0,0,,{\bord2.5\fs12\fnTimes New Roman\c&H615F6F&\fax-0.05\fscx70\3c&HF4F5F8&\frz358.1\pos(431,245)}Actor\N{\fs16}Aqua Hoshino
+Dialogue: 0,0:19:26.60,0:19:27.80,Gen_Main_Up,AQUA,0,0,0,,No es posible.
+Dialogue: 0,0:19:27.90,0:19:30.86,Gen_Main_Up,MIZUNO,0,0,0,,Vaya, el hermanito se ve derrotado.
+Dialogue: 0,0:19:30.94,0:19:32.65,Gen_Main_Up,YAGI,0,0,0,,Alguien quiere mucho a su hermana.
+Dialogue: 0,0:19:35.86,0:19:50.63,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,75)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:19:35.86,0:19:50.63,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,75)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:19:36.07,0:19:41.23,Gen_Main,RUBY,0,0,0,,Hoy hablaremos del mítico\Ny vergonzoso nombre de "Pikachu".
+Dialogue: 0,0:19:41.43,0:19:43.96,Gen_Main,RUBY,0,0,0,,Excavemos para descubrir\Nsi alguien se llama así.
+Dialogue: 0,0:19:44.13,0:19:46.29,Gen_Main,RUBY,0,0,0,,Sin más preámbulos,\Nempecemos a trabajar.
+Dialogue: 0,0:19:46.62,0:19:48.82,Gen_Italics,RUBY,0,0,0,,¡Excava hondo! Con olfato canino.
+Dialogue: 0,0:19:50.63,0:19:52.59,Cart_A_Tre,SIGN,0,0,0,,{\fs12\an7\fnArial Black\pos(10.5,46.5)\c&HFEFEFD&\3c&HFEFEFD&\bord2.5}¡Excava hondo!\h\h{\fs14}Preguntándole a una directora de jardín infantil
+Dialogue: 1,0:19:50.63,0:19:52.59,Cart_A_Tre,SIGN,0,0,0,,{\fs12\an7\fnArial Black\pos(10.5,46.5)\c&H432FCF&\3c&H151716&\bord1.5}¡Excava hondo!\h\h{\fs14\c&HFEFEFD&}Preguntándole a una directora {\c&H45F788&}de jardín infantil
+Dialogue: 0,0:19:52.59,0:19:55.05,Cart_A_Tre,SIGN,0,0,0,,{\fscx93\fs12\an7\fnArial Black\pos(10.5,46.5)\c&HFEFEFD&\3c&HFEFEFD&\bord2.5}¡Excava hondo!\h\h\h\h\h\h{\fs16}¡Encontramos a los amigos de Pikachu!
+Dialogue: 1,0:19:52.59,0:19:55.05,Cart_A_Tre,SIGN,0,0,0,,{\fscx93\fs12\an7\fnArial Black\pos(10.5,46.5)\c&H432FCF&\3c&H151716&\bord1.5}¡Excava hondo!\h\h\h\h\h\h{\fs16\c&H5CE5F3&}¡Encontramos a los amigos {\c&HF6F8F8&}de Pikachu!
+Dialogue: 0,0:19:55.09,0:19:57.51,Cart_A_Tre,SIGN,0,0,0,,{\fad(646,1)\fnArial Black\c&HECEEE3&\3c&H161616&\4c&H161616&\bord2\shad2\pos(501,312.5)}¿Y {\c&H04BDEF&}encontramos a {\c&H150DF5&}Pikachu?
+Dialogue: 0,0:19:57.51,0:19:59.97,Cart_A_Tre,SIGN,0,0,0,,{\fs12\an7\fnArial Black\pos(11.5,49.5)\c&HFEFEFD&\3c&HFEFEFD&\bord2.5}¡Excava hondo!\h\h\h\h{\fs16}¡La impactante verdad!
+Dialogue: 1,0:19:57.51,0:19:59.97,Cart_A_Tre,SIGN,0,0,0,,{\fs12\an7\fnArial Black\pos(11.5,49.5)\c&H432FCF&\3c&H151716&\bord1.5}¡Excava hondo!\h\h\h\h{\fs16\c&HF3F2F2&}¡La {\c&H50E6FA&}impactante {\c&H402CE2&}verdad!{\c&HF3F2F2&}!!!
+Dialogue: 0,0:19:59.97,0:20:02.68,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(39.5,75)}¡Excava hondo!\NCon olfato canino
+Dialogue: 1,0:19:59.97,0:20:02.68,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(39.5,75)}¡Excava hondo!\N{\c&H9F8B4C&}Con olfato canino
+Dialogue: 0,0:20:05.10,0:20:11.10,Gen_Main,EMCEESAWA,0,0,0,,Vaya, no sabía que Aqua\Ntuviera una hermana tan linda.
+Dialogue: 0,0:20:11.25,0:20:13.30,Gen_Main,MIZUNO,0,0,0,,Su belleza debe ser genética.
+Dialogue: 0,0:20:13.64,0:20:15.40,Gen_Main,AQUA,0,0,0,,Gracias.
+Dialogue: 0,0:20:18.95,0:20:21.82,Gen_Main,AQUA,0,0,0,,Qué sorpresa me diste, Kaburagi.
+Dialogue: 0,0:20:22.45,0:20:27.21,Gen_Main,KABURAGI,0,0,0,,No lo hice como una broma,\Npero diste una gran reacción.
+Dialogue: 0,0:20:27.29,0:20:28.70,Gen_Main,AQUA,0,0,0,,Eso no es lo que…
+Dialogue: 0,0:20:28.79,0:20:31.46,Gen_Main,KABURAGI,0,0,0,,Escondes muy bien tu verdadero yo.
+Dialogue: 0,0:20:31.88,0:20:37.41,Gen_Main,KABURAGI,0,0,0,,Los espectadores te verán más cercano\Nal ver cómo actúas con tu familia.
+Dialogue: 0,0:20:37.97,0:20:41.63,Gen_Main,KABURAGI,0,0,0,,Puede que no sea mala idea\Njuntar a los gemelos.
+Dialogue: 0,0:20:43.60,0:20:47.02,Gen_Main,KABURAGI,0,0,0,,Tu hermana es muy calculadora.
+Dialogue: 0,0:20:48.49,0:20:50.83,Gen_Main,AQUA,0,0,0,,¿Esto no fue idea tuya?
+Dialogue: 0,0:20:51.05,0:20:52.43,Gen_Main,KABURAGI,0,0,0,,No, en absoluto.
+Dialogue: 0,0:20:52.61,0:20:55.84,Gen_Main,KABURAGI,0,0,0,,Fue idea de Ruby.
+Dialogue: 0,0:20:57.16,0:20:59.53,Gen_Main,AQUA,0,0,0,,¿Cuándo fue eso?
+Dialogue: 0,0:20:59.86,0:21:03.73,Gen_Main,KABURAGI,0,0,0,,En el concierto de B-Komachi\Nal que me invitaron.
+Dialogue: 0,0:21:04.07,0:21:07.39,Gen_Main,KABURAGI,0,0,0,,Me dijo:\N"¿No crees que sería divertido?".
+Dialogue: 0,0:21:07.62,0:21:10.24,Gen_Main,KABURAGI,0,0,0,,Incluso ya tenía lista\Nuna presentación.
+Dialogue: 0,0:21:11.33,0:21:14.11,Gen_Main,KABURAGI,0,0,0,,Es una chica muy capacitada.
+Dialogue: 0,0:21:14.46,0:21:21.22,Gen_Main,KABURAGI,0,0,0,,No se llega lejos en este negocio\Nsolo con talento y esfuerzo.
+Dialogue: 0,0:21:21.75,0:21:24.89,Gen_Main,KABURAGI,0,0,0,,También se necesita\Nsaber moverse tras bambalinas.
+Dialogue: 0,0:21:25.13,0:21:29.56,Gen_Main,KABURAGI,0,0,0,,Siempre tendrás buenas cartas\Npara todo tipo de situación y lugar.
+Dialogue: 0,0:21:30.35,0:21:35.40,Gen_Main,KABURAGI,0,0,0,,La capacidad de reconocerlas y usarlas\Nes necesaria para todo artista.
+Dialogue: 0,0:21:35.86,0:21:40.32,Gen_Main,KABURAGI,0,0,0,,Por supuesto, solo usé a Ruby\Nporque me pareció buena idea.
+Dialogue: 0,0:21:40.40,0:21:43.75,Gen_Main,KABURAGI,0,0,0,,Si es divertido, todo se vale.\NAsí es la televisión.
+Dialogue: 0,0:21:44.45,0:21:46.03,Gen_Main,AQUA,0,0,0,,¿Ruby hizo una presentación?
+Dialogue: 0,0:21:46.83,0:21:50.96,Gen_Main,KABURAGI,0,0,0,,No me parecía capaz de hacer esto\Ncuando la conocí.
+Dialogue: 0,0:21:51.92,0:21:56.09,Gen_Main,KABURAGI,0,0,0,,¿Será que Producciones Ichigo\Nahora tiene un buen asesor?
+Dialogue: 0,0:22:08.01,0:22:09.47,Gen_Main,RUBY,0,0,0,,¿Pescaste algo,
+Dialogue: 0,0:22:10.03,0:22:12.34,Gen_Main,RUBY,0,0,0,,Ichigo Saito?
+Dialogue: 0,0:22:15.48,0:22:20.03,Cart_C_Tim,TITLE,0,0,0,,{\bord1.5\pos(316,77.318)}Episodio 25\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs35}Entusiasmado
+Dialogue: 0,0:23:47.53,0:23:50.34,Cart_A_Tre,CARTEL,0,0,0,,{\fad(813,0)\fs14}Traducción: Abraham Gayuvas\NEdición: Juan José Cintas

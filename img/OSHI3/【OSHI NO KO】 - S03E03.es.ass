@@ -1,0 +1,476 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Com,Comic Sans MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Com,Comic Sans MS,24,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_EpiTitle,Comic Sans MS,35,&H00FFFFFF,&H000000FF,&H3278070E,&H00494949,0,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Times New Roman,40,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,150,0,0,1,2,0,8,5,5,0,1
+Style: Cart_A_Ari,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Ari,Arial,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.31,Cart_A_Tim,TITLE,0,0,0,,{\an5\fs30\t(\fs29)\bord0\c&H0D0509&\t(1,1450,\c&HEFF1F1&)\move(185,117,190,119,0,3294)}OSHI {\c&H640CD8&\t(1,1450,\c&H7A00CE&)}NO {\c&H0D0509&\t(1,1450,\c&HEFF1F1&)}KO
+Dialogue: 0,0:01:30.07,0:01:32.53,Cart_A_Tre,SIGN,0,0,0,,{\fad(729,0)\fs14\fax0.3\b0\c&H4C4C64&\3c&HF0F0F0&\frx0\fry36\frz344\pos(168.572,67.999)}Entrada al vestidor femenino
+Dialogue: 0,0:01:39.99,0:01:41.00,Gen_Main,RUBY,0,0,0,,¡Minami!
+Dialogue: 0,0:01:41.71,0:01:42.75,Gen_Main,MINAMI,0,0,0,,¡Ruby!
+Dialogue: 0,0:01:43.41,0:01:45.29,Gen_Main,RUBY,0,0,0,,¡Trabajaremos juntas!
+Dialogue: 0,0:01:45.38,0:01:46.71,Gen_Main,MINAMI,0,0,0,,Es verdad.
+Dialogue: 0,0:01:47.04,0:01:48.65,Gen_Main,MINAMI,0,0,0,,Estoy impaciente.
+Dialogue: 0,0:01:48.82,0:01:49.92,Gen_Main,MIMI,0,0,0,,Este…
+Dialogue: 0,0:01:50.21,0:01:52.63,Gen_Main,MIMI,0,0,0,,Eres Ruby, ¿no?
+Dialogue: 0,0:01:53.02,0:01:55.34,Gen_Main,MIMI,0,0,0,,Soy Mimi Yoshizumi.
+Dialogue: 0,0:01:55.74,0:01:59.60,Gen_Main,MIMI,0,0,0,,Yo también vine\Npara la sesión de "Excava hondo".
+Dialogue: 0,0:01:59.85,0:02:01.54,Gen_Main,RUBY,0,0,0,,¿Sí?
+Dialogue: 0,0:02:01.64,0:02:04.56,Gen_Main,MINAMI,0,0,0,,Tu voz es muy linda.\N¿Eres actriz de voz?
+Dialogue: 0,0:02:04.65,0:02:07.31,Gen_Main,MIMI,0,0,0,,No, en lo absoluto.
+Dialogue: 0,0:02:07.64,0:02:12.13,Gen_Main,MIMI,0,0,0,,Aunque en realidad\Nes una carrera similar.
+Dialogue: 0,0:02:13.65,0:02:16.17,Gen_Main,MIMI,0,0,0,,¿Y quién es ella?
+Dialogue: 0,0:02:16.34,0:02:19.99,Gen_Main,RUBY,0,0,0,,Es una cosplayer\Ncon la que ya trabajé antes.
+Dialogue: 0,0:02:20.45,0:02:23.55,Gen_Main,RUBY,0,0,0,,La recomendé\Nporque parecía que encajaría.
+Dialogue: 0,0:02:23.62,0:02:26.08,Gen_Main,MEIYA,0,0,0,,Mucho gusto. Soy Meiya.
+Dialogue: 0,0:02:26.17,0:02:28.71,Gen_Main,MEIYA,0,0,0,,Suelo hacer cosplay\Nde personajes de manga shonen.
+Dialogue: 0,0:02:28.98,0:02:31.20,Gen_Main,MEIYA,0,0,0,,Tú eres Minami Kotobuki, ¿no?
+Dialogue: 0,0:02:31.30,0:02:33.02,Gen_Main,MEIYA,0,0,0,,Veo tus fotos todo el tiempo.
+Dialogue: 0,0:02:33.09,0:02:35.18,Gen_Main,MINAMI,0,0,0,,¿De verdad? Gracias.
+Dialogue: 0,0:02:35.26,0:02:37.27,Gen_Main,MINAMI,0,0,0,,Yo también veré tu trabajo.
+Dialogue: 0,0:02:37.34,0:02:40.31,Gen_Main,MEIYA,0,0,0,,No te molestes. Lo digo en serio.
+Dialogue: 0,0:02:40.54,0:02:44.34,Gen_Main,MEIYA,0,0,0,,Tengo muchas cosas +18\Nque no deberían ver menores.
+Dialogue: 0,0:02:47.19,0:02:50.73,Gen_Main,MEIYA,0,0,0,,¿No tuvieron problemas\Ncon el repentino cambio de disfraz?
+Dialogue: 0,0:02:51.10,0:02:55.16,Gen_Main,MEIYA,0,0,0,,A mí no me importó porque tengo\Nmuchos disfraces originales.
+Dialogue: 0,0:02:55.24,0:02:58.20,Gen_Main,MIMI,0,0,0,,No fue lo ideal, pero me las arreglé.
+Dialogue: 0,0:02:58.45,0:03:00.62,Gen_Main,MINAMI,0,0,0,,Mi agencia tenía esto por ahí.
+Dialogue: 0,0:03:00.70,0:03:02.54,Gen_Main,MEIYA,0,0,0,,¿De verdad? Me alegro.
+Dialogue: 0,0:03:03.16,0:03:07.54,Gen_Main,MEIYA,0,0,0,,No me sorprende\Nque la gente de la tele haga eso.
+Dialogue: 0,0:03:07.63,0:03:10.75,Gen_Main,MEIYA,0,0,0,,Es como si solo les importaran\Nellos mismos.
+Dialogue: 0,0:03:10.97,0:03:14.16,Gen_Main,MEIYA,0,0,0,,Lo pregunté porque sería grave\Nsi les causara problemas.
+Dialogue: 0,0:03:15.40,0:03:18.01,Gen_Main,MINAMI,0,0,0,,Parecía que a ellos\Ntambién los agarró desprevenidos.
+Dialogue: 0,0:03:18.43,0:03:21.00,Gen_Main,MINAMI,0,0,0,,El equipo tiene muchas cosas\Nque hacer, lo entiendo.
+Dialogue: 0,0:03:21.63,0:03:25.47,Gen_Main,MEIYA,0,0,0,,Claro, como trabajas\Nen el mundo del espectáculo…
+Dialogue: 0,0:03:26.31,0:03:29.21,Gen_Main,RUBY,0,0,0,,En fin… Seguro que saldrá bien.
+Dialogue: 0,0:03:29.45,0:03:33.94,Gen_Main,RUBY,0,0,0,,Son profesionales. Son gajes del oficio.
+Dialogue: 0,0:03:34.19,0:03:36.08,Gen_Main,RUBY-MINAMI,0,0,0,,-Vamos.\N-Sí.
+Dialogue: 0,0:03:57.78,0:03:58.84,Gen_Main,SHUN,0,0,0,,Meiya.
+Dialogue: 0,0:03:59.33,0:04:03.31,Gen_Main,SHUN-MEIYA,0,0,0,,-Siento mucho las molestias.\N-No importa.
+Dialogue: 0,0:04:03.69,0:04:06.52,Gen_Main,MEIYA,0,0,0,,Sé que los ayudantes de dirección\Nlo pasan mal.
+Dialogue: 0,0:04:14.67,0:04:16.61,Gen_Main,TETSU,0,0,0,,¿Trabajando duro?
+Dialogue: 0,0:04:17.12,0:04:19.46,Gen_Main,SHUN,0,0,0,,¿Vino al final?
+Dialogue: 0,0:04:19.53,0:04:20.99,Gen_Main,TETSU,0,0,0,,¿Por qué no?
+Dialogue: 0,0:04:21.62,0:04:23.45,Gen_Main,TETSU,0,0,0,,Diablos, qué calor hace.
+Dialogue: 0,0:04:23.83,0:04:28.16,Gen_Main,TETSU,0,0,0,,Esta gente está loca por llevar\Nesos disfraces con este calor.
+Dialogue: 0,0:04:31.63,0:04:35.05,Gen_Main,MIMI-SHUN,0,0,0,,-Shun, ¿ese era el director?\N-Sí.
+Dialogue: 0,0:04:35.91,0:04:38.49,Gen_Main,MIMI,0,0,0,,Hasta su cara me incomoda.
+Dialogue: 0,0:04:38.59,0:04:40.51,Gen_Main,SHUN,0,0,0,,No digas eso.
+Dialogue: 0,0:04:40.59,0:04:43.03,Gen_Main,TETSU-SHUN,0,0,0,,-¡Yoshizumi!\N-¡Voy!
+Dialogue: 0,0:04:43.47,0:04:45.18,Gen_Main,MIMI,0,0,0,,Qué ruidoso es.
+Dialogue: 0,0:04:45.66,0:04:47.14,Gen_Main,TETSU,0,0,0,,¿Quién es esa?
+Dialogue: 0,0:04:47.34,0:04:49.79,Gen_Main,SHUN-CAMERA,0,0,0,,-Es Meiya, una cosplayer.\N-¿Puedo tomar una foto?
+Dialogue: 0,0:04:49.89,0:04:50.99,Gen_Main,MEIYA,0,0,0,,Claro, adelante.
+Dialogue: 0,0:04:51.06,0:04:53.36,Gen_Main,TETSU,0,0,0,,Ah, eres tú.
+Dialogue: 0,0:04:53.65,0:04:56.61,Gen_Main,TETSU,0,0,0,,Tienes un disfraz bastante atrevido.
+Dialogue: 0,0:04:56.99,0:04:59.98,Gen_Main,TETSU,0,0,0,,Cielos, qué atractiva.
+Dialogue: 0,0:05:00.07,0:05:01.48,Gen_Main,MEIYA,0,0,0,,Sí, bueno…
+Dialogue: 0,0:05:02.91,0:05:06.29,Gen_Main,TETSU,0,0,0,,¡Qué sexi! El tamaño importa, ¿verdad?
+Dialogue: 1,0:05:11.25,0:05:14.25,Cart_A_Tim,SIGN,0,0,0,LONG,{\shad0\p1\bord0\an7\fscx93\fscy74\c&H131313&\pos(-3.624,-2.086)}m 0 0 l 700 0 700 500 0 500
+Dialogue: 2,0:05:11.25,0:05:14.25,Cart_A_Tim,SIGN,0,0,0,LONG,{\fs40\an5\bord0\c&HFCFCFC&}¿Cuánto ganas\Ncon tu contenido para adultos?
+Dialogue: 0,0:05:16.13,0:05:18.71,Gen_Main,MEIYA,0,0,0,,Preferiría no responder a eso.
+Dialogue: 1,0:05:18.71,0:05:21.93,Cart_A_Tim,SIGN,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&H131313&\pos(-3.624,-2.086)}m 0 0 l 700 0 700 500 0 500
+Dialogue: 2,0:05:18.71,0:05:21.93,Cart_A_Tim,SIGN,0,0,0,,{\fs50\an5\bord0\c&HFCFCFC&}¿Sales con tus fotógrafos?
+Dialogue: 0,0:05:22.23,0:05:25.93,Gen_Main,MEIYA,0,0,0,,Creo que algunas chicas lo hacen.
+Dialogue: 1,0:05:25.93,0:05:28.93,Cart_A_Tim,SIGN,0,0,0,,{\shad0\p1\bord0\an7\fscx93\fscy74\c&H131313&\pos(-3.624,-2.086)}m 0 0 l 700 0 700 500 0 500
+Dialogue: 2,0:05:25.93,0:05:28.93,Cart_A_Tim,SIGN,0,0,0,,{\fs40\an5\bord0\c&HFCFCFC&}¿Alguna vez tuviste relaciones\Ncon un disfraz puesto?
+Dialogue: 0,0:05:36.73,0:05:39.00,Gen_Main,MINAMI,0,0,0,,Me alegro de que fuera bien.
+Dialogue: 0,0:05:39.07,0:05:40.86,Gen_Main,RUBY,0,0,0,,Yo me divertí mucho.
+Dialogue: 0,0:05:43.74,0:05:46.11,Gen_Main,RUBY,0,0,0,,Nosotras nos vamos por aquí.
+Dialogue: 0,0:05:46.34,0:05:48.33,Gen_Main,MEIYA,0,0,0,,Bien, adiós.
+Dialogue: 0,0:05:48.58,0:05:50.18,Gen_Main,RUBY,0,0,0,,Adiós.
+Dialogue: 0,0:06:06.38,0:06:08.96,Gen_Italics,MEIYA,0,0,0,,Qué asco me da la tele.
+Dialogue: 0,0:06:09.06,0:06:12.08,Gen_Italics,MEIYA,0,0,0,,Creen que eres basura\Nsolo por mostrar algo de piel.
+Dialogue: 0,0:06:12.64,0:06:15.56,Gen_Italics,MEIYA,0,0,0,,Accedí porque hablarían\Nde los cosplayers de {\i0}Tokyo Blade{\i1},
+Dialogue: 0,0:06:15.76,0:06:18.82,Gen_Italics,MEIYA,0,0,0,,pero el día de antes\Npidieron un disfraz original.
+Dialogue: 1,0:06:18.11,0:06:31.07,Cart_A_Tre,SIGN,0,0,0,,{\an7\p1\bord1\alpha30\an8\shad0\c&H202020&\3c&HF1F3F5&\pos(447.053,14.319)}m 0 0 l 180 0 l 180 77 l 0 77
+Dialogue: 2,0:06:18.11,0:06:31.07,Cart_C_Ari,SIGN,0,0,0,,{\an7\b0\fs16\c&HE3E5E6&\bord0\blur0.3\clip(447.333,13.667,627.333,91)\move(451,20,450,-120,1,11904)}Meiya\N\N{\fs12}Qué asco me da la tele.\NCreen que eres basura\Nsolo por mostrar algo de piel.\NAccedí porque hablarían\Nde los cosplayers de {\i1}Tokyo Blade{\i0},\Npero el día de antes\Npidieron un disfraz original.\N\NNo respetan a los cosplayers.\N\N¿No saben lo mucho\Nque nos esforzamos con esto?\N\NFue todo un shock.\N\NMe tomaré un descanso del cosplay\Npor un tiempo.
+Dialogue: 0,0:06:19.19,0:06:22.31,Gen_Italics,MEIYA,0,0,0,,No respetan a los cosplayers.
+Dialogue: 0,0:06:22.40,0:06:24.99,Gen_Italics,MEIYA,0,0,0,,¿No saben lo mucho\Nque nos esforzamos con esto?
+Dialogue: 0,0:06:25.11,0:06:26.82,Gen_Italics,MEIYA,0,0,0,,Fue todo un shock.
+Dialogue: 0,0:06:26.91,0:06:30.16,Gen_Italics,MEIYA,0,0,0,,Me tomaré un descanso del cosplay\Npor un tiempo.
+Dialogue: 1,0:06:31.20,0:06:48.22,Cart_A_Tre,SIGN,0,0,0,LONG,{\fad(200,1356)\an7\p1\bord1\alpha30\an8\shad0\c&HF5F6F8&\3c&H202020&\pos(447.053,14.319)}m 0 0 l 180 0 l 180 77 l 0 77
+Dialogue: 2,0:06:31.20,0:06:48.22,Cart_C_Ari,SIGN,0,0,0,LONG,{\fad(200,1356)\an7\b0\fs10\c&H838383&\bord0\blur0.3\clip(447.333,13.667,627.333,91)\move(451,20,450,-220,1,16999)}Qué cretinos. Pobre Meiya.\NNo pienso ver ese programa.\N\N¿Cómo puede un profesional actuar así? xD\N\N¿Por qué esos tipos son tan mandones\Ncuando deberían estar agradecidos?\N\N¿Va a dejarlo? Si acaba retirándose,\N¿los de la tele asumirán la responsabilidad?\N\NEl cambio de disfraz de última hora\Nes indignante.\N\NEsa actitud me da asco,\Nojalá fueran más profesionales.\N\N¿La tratan así por ser una cosplayer?\N¿Por qué entrevistan a alguien\Nque no respetan?\N\N¿La gente de la industria no es sensata?\N\NEstaba ayudando, ¿por qué hicieron eso?\N\N¡Pobre Meiya!\N\N¿Creen que los disfraces salen de la nada?\N\NMaldita sea la televisión.\N\NLos de la tele son escoria.\N\NLa tele está acabada.\N\N¿Hasta cuándo se creerán los reyes?\N\NQué insultante.
+Dialogue: 0,0:06:31.45,0:06:36.83,Gen_Main,TWEET A (HS GIRL),0,0,0,,¿Por qué esos tipos son tan mandones\Ncuando deberían estar agradecidos?
+Dialogue: 0,0:06:36.92,0:06:40.59,Gen_Main,TWEET B (MS BOY),0,0,0,,Les gusta menospreciar\Na los cosplayers, ¿eh?
+Dialogue: 0,0:06:40.67,0:06:42.44,Gen_Main,TWEET C (30s HOUSEWIFE),0,0,0,,¡Pobre Meiya!
+Dialogue: 0,0:06:42.51,0:06:44.20,Gen_Main,TWEET D (20s M),0,0,0,,Los de la tele son escoria.
+Dialogue: 0,0:06:44.30,0:06:45.34,Gen_Main,TWEET E (40s M),0,0,0,,La tele está acabada.
+Dialogue: 0,0:06:45.43,0:06:47.54,Gen_Main,TWEET F (20s F),0,0,0,,¿Hasta cuándo se creerán los reyes?
+Dialogue: 0,0:06:46.01,0:06:48.12,Gen_Main_Up,TWEET G (30s F),0,0,0,,Qué insultante.
+Dialogue: 0,0:06:47.64,0:06:49.18,Gen_Main,TWEET H (20s M),0,0,0,,No volveré a ver el programa.
+Dialogue: 0,0:06:48.47,0:06:50.72,Gen_Main_Up,TWEET I (40s F),0,0,0,,Se acabó la televisión.
+Dialogue: 0,0:06:49.26,0:06:51.99,Gen_Main,TWEET J (30s M),0,0,0,,Se podría haber evitado\Ncon más comunicación.
+Dialogue: 0,0:06:52.06,0:06:56.10,Gen_Main,TWEET J (30s M),0,0,0,,Pasamos la vida arreglando\Nlo que hacen esos incompetentes.
+Dialogue: 0,0:06:56.60,0:06:58.98,Cart_C_Ari,SIGN,0,0,0,LONG,{\q2\b0\fs21\bord0\blur0.4\c&HF5F6F8&\pos(316.308,76.615)}Fue todo un shock. Me tomaré un descanso del cosplay por un tiempo…\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\b1\fs24}Meiya\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:06:58.02,0:06:58.98,Gen_Main,SHUN,0,0,0,,¡Meiya!
+Dialogue: 0,0:06:59.13,0:07:03.49,Gen_Main,SHUN,0,0,0,,Nos disculpamos sinceramente\Nsi te ofendimos en la entrevista.
+Dialogue: 0,0:07:03.57,0:07:06.99,Gen_Main,SHUN,0,0,0,,¿Podrías borrar tu tuit?
+Dialogue: 0,0:07:07.07,0:07:08.38,Gen_Main,MEIYA,0,0,0,,Ni hablar.
+Dialogue: 0,0:07:08.45,0:07:11.45,Gen_Main,MEIYA,0,0,0,,¿No comprenden lo dolida que me sentí?
+Dialogue: 0,0:07:12.12,0:07:16.07,Gen_Main,MEIYA,0,0,0,,Solo porque hago contenido para adultos\Nno me avisaron de nada.
+Dialogue: 0,0:07:16.17,0:07:19.93,Gen_Italics,MEIYA,0,0,0,,Y me preguntaron cosas inapropiadas\Nsin relación con el cosplay.
+Dialogue: 0,0:07:20.26,0:07:22.72,Gen_Main,MEIYA,0,0,0,,Me enorgullezco de lo que hago.
+Dialogue: 0,0:07:22.90,0:07:25.34,Gen_Main,MEIYA,0,0,0,,Arruiné mi salud, dejé mi profesión
+Dialogue: 0,0:07:25.53,0:07:29.30,Gen_Main,MEIYA,0,0,0,,y casi tuve que pedir limosna\Nantes de enseñar algo de piel.
+Dialogue: 0,0:07:29.62,0:07:31.26,Gen_Italics,MEIYA,0,0,0,,¿Y así es como me tratan?
+Dialogue: 0,0:07:31.35,0:07:35.14,Gen_Main,SHUN,0,0,0,,Admito que se cruzaron ciertas líneas…
+Dialogue: 0,0:07:35.50,0:07:38.35,Gen_Main,MEIYA,0,0,0,,Lo más ofensivo fue lo del disfraz.
+Dialogue: 0,0:07:38.71,0:07:40.86,Gen_Main,MEIYA,0,0,0,,Como pidieron uno de {\i1}Tokyo Blade{\i0},
+Dialogue: 0,0:07:40.94,0:07:45.23,Gen_Main,MEIYA,0,0,0,,llamé a una amiga y pasamos la noche\Ntrabajando para hacerlo.
+Dialogue: 0,0:07:45.69,0:07:49.20,Gen_Italics,MEIYA,0,0,0,,Pero ¡luego cambiaron\Nen el último momento como si nada!
+Dialogue: 0,0:07:49.57,0:07:54.72,Gen_Main,MEIYA,0,0,0,,Dije aquello para que otras cosplayers\Nno sean víctimas de esto.
+Dialogue: 0,0:07:55.13,0:07:57.71,Gen_Main,MEIYA,0,0,0,,No pienso borrar mi tuit.
+Dialogue: 0,0:08:03.28,0:08:04.72,Gen_Main,MIMI,0,0,0,,Shin…
+Dialogue: 0,0:08:05.88,0:08:09.05,Gen_Main,PA A,0,0,0,,Urushibara tiene que hacer un anuncio\Nacerca del incidente.
+Dialogue: 0,0:08:09.13,0:08:13.51,Gen_Main,TETSU,0,0,0,,Los jefes decidieron\Nno emitir el episodio del cosplay.
+Dialogue: 0,0:08:13.60,0:08:17.05,Gen_Main,TETSU,0,0,0,,Se plantean publicar una disculpa\Nen la web. Nada más.
+Dialogue: 0,0:08:23.67,0:08:25.14,Gen_Main,TETSU,0,0,0,,Qué desastre.
+Dialogue: 0,0:08:25.31,0:08:29.03,Gen_Main,TETSU,0,0,0,,No les pidas más entrevistas\Na unas locas como ella.
+Dialogue: 0,0:08:29.37,0:08:32.45,Gen_Main,TETSU,0,0,0,,Filtrar la información de ese modo\Nfue muy poco profesional.
+Dialogue: 0,0:08:32.98,0:08:36.79,Gen_Main,TETSU,0,0,0,,La gente así vive de la crispación.
+Dialogue: 0,0:08:37.53,0:08:39.25,Gen_Main,SHUN,0,0,0,,Señor.
+Dialogue: 0,0:08:39.55,0:08:42.96,Gen_Main,SHUN,0,0,0,,Hacer las cosas así ya no es aceptable.
+Dialogue: 0,0:08:43.62,0:08:46.42,Gen_Main,SHUN,0,0,0,,Hoy en día,\Nla corrección política lo es todo.
+Dialogue: 0,0:08:47.13,0:08:49.88,Gen_Main,SHUN,0,0,0,,Debemos tener más respeto.
+Dialogue: 0,0:08:51.25,0:08:53.85,Gen_Main,TETSU,0,0,0,,Los tiempos están cambiando, ¿no?
+Dialogue: 0,0:08:54.26,0:08:57.04,Gen_Main,TETSU,0,0,0,,Sí, tienes razón.
+Dialogue: 0,0:08:57.81,0:08:58.81,Gen_Main,TETSU,0,0,0,,¿Eh?
+Dialogue: 0,0:08:59.10,0:09:00.93,Gen_Main,TETSU,0,0,0,,¿Y qué?
+Dialogue: 1,0:09:01.27,0:09:05.98,Cart_A_Tre,SIGN,0,0,0,,{\an7\p1\bord1\alpha30\an8\shad0\c&HF7F7F7&\3c&H1F191A&\pos(12.168,14.178)}m 0 0 l 150 0 l 150 47 l 0 47
+Dialogue: 2,0:09:01.27,0:09:05.98,Cart_A_Tre,SIGN,0,0,0,,{\bord3\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(17.785,18.509)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:09:01.27,0:09:05.98,Cart_A_Tre,SIGN,0,0,0,,{\bord2\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(17.785,18.509)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:09:01.35,0:09:05.98,Gen_Main,TETSU,0,0,0,,¿Cuál es la idea del programa?\N¿Por qué crees que se emite en Internet?
+Dialogue: 0,0:09:06.07,0:09:09.73,Gen_Main,TETSU,0,0,0,,¿Por qué crees que dejaron a cargo\Na un director desacreditado como yo?
+Dialogue: 0,0:09:09.90,0:09:12.91,Gen_Main,TETSU,0,0,0,,¡Porque a medida que la sociedad\Nhace más cosas inaceptables,
+Dialogue: 0,0:09:13.01,0:09:15.96,Gen_Main,TETSU,0,0,0,,forzamos los límites\Ny hacemos contenido no apto para TV!
+Dialogue: 0,0:09:16.03,0:09:18.46,Gen_Main,TETSU,0,0,0,,¡La inmoralidad\Ny el entretenimiento son lo mismo!
+Dialogue: 0,0:09:18.54,0:09:21.50,Gen_Main,TETSU,0,0,0,,¡El verdadero arte\Nse crea rompiendo tabúes!
+Dialogue: 0,0:09:24.01,0:09:27.58,Gen_Main,TETSU,0,0,0,,Me parece bien que la gente\Nhaga cosas seguras y divertidas.
+Dialogue: 0,0:09:28.01,0:09:31.51,Gen_Main,TETSU,0,0,0,,Pero aquí no tenemos a genios así.
+Dialogue: 0,0:09:31.88,0:09:36.62,Gen_Main,TETSU,0,0,0,,Hago lo que hago sabiendo\Nque me llamarán acosador sexual.
+Dialogue: 0,0:09:36.72,0:09:42.02,Gen_Main,TETSU,0,0,0,,Tengo bocas que alimentar.\NEstoy entre la espada y la pared.
+Dialogue: 0,0:09:43.23,0:09:46.39,Gen_Main,TETSU,0,0,0,,Me siento culpable\Npor lo de los disfraces.
+Dialogue: 0,0:09:46.48,0:09:49.53,Gen_Main,TETSU,0,0,0,,Estuve sin dormir editando y demás.
+Dialogue: 0,0:09:50.40,0:09:52.28,Gen_Main,TETSU,0,0,0,,Asumiré la responsabilidad.
+Dialogue: 0,0:09:52.59,0:09:53.59,Gen_Main,TETSU,0,0,0,,Lo siento.
+Dialogue: 0,0:09:57.20,0:09:59.09,Gen_Main,STAFF D,0,0,0,,Ese tipo está perdido.
+Dialogue: 0,0:09:59.16,0:10:02.04,Gen_Main,STAFF C,0,0,0,,Los dinosaurios de la tele\Nya no tienen cabida.
+Dialogue: 0,0:10:02.66,0:10:05.13,Cart_C_Ari,SIGN,0,0,0,,{\bord0\blur0.3\fs26\c&H262B47&\pos(156.923,178.154)}¿Qué es la televisión?
+Dialogue: 0,0:10:06.08,0:10:09.35,Gen_Main,SHUN,0,0,0,,¿Cuántos años más pasaré\Nsiendo ayudante de dirección?
+Dialogue: 0,0:10:09.92,0:10:11.47,Gen_Main,SHUN,0,0,0,,Me mandonean los directores
+Dialogue: 0,0:10:11.55,0:10:15.23,Gen_Main,SHUN,0,0,0,,y me atan los intereses de los sponsors\Ny la ética laboral.
+Dialogue: 0,0:10:15.30,0:10:18.75,Gen_Main,SHUN,0,0,0,,Trabajo como un esclavo\Ny apenas tengo tiempo libre.
+Dialogue: 0,0:10:18.85,0:10:22.92,Gen_Main,SHUN,0,0,0,,Y aunque llegue a director,\Ntendré otra clase de problemas.
+Dialogue: 0,0:10:23.02,0:10:24.27,Gen_Main,SHUN,0,0,0,,Nunca seré libre.
+Dialogue: 0,0:10:24.96,0:10:28.27,Gen_Main,MIMI,0,0,0,,No es verdad. Las cosas mejoran\Na medida que vas escalando.
+Dialogue: 0,0:10:28.36,0:10:31.88,Gen_Main,SHUN,0,0,0,,Sabes que en la ficción la gente\Nse cae por un precipicio y muere, ¿no?
+Dialogue: 0,0:10:31.94,0:10:33.53,Gen_Main,SHUN,0,0,0,,¿Por qué crees que es?
+Dialogue: 0,0:10:33.79,0:10:37.49,Gen_Main,SHUN,0,0,0,,Porque si los matas con fármacos,\Nlas farmacéuticas se enojan.
+Dialogue: 0,0:10:37.66,0:10:40.27,Gen_Main,SHUN,0,0,0,,Si los apuñalas, los fabricantes\Nde útiles de cocina.
+Dialogue: 0,0:10:40.37,0:10:42.79,Gen_Main,SHUN,0,0,0,,Si los atropellas,\Nlos fabricantes de autos.
+Dialogue: 0,0:10:42.87,0:10:45.22,Gen_Main,SHUN,0,0,0,,Hay que acomodarse a todo.
+Dialogue: 0,0:10:45.79,0:10:49.46,Gen_Main,SHUN,0,0,0,,Las muertes por una caída son seguras.\NLa naturaleza no se enoja.
+Dialogue: 0,0:10:49.88,0:10:54.79,Gen_Main,SHUN,0,0,0,,El orden de los nombres del reparto,\Nla colocación de los refrescos…
+Dialogue: 0,0:10:54.88,0:10:57.72,Gen_Main,SHUN,0,0,0,,Hay multas por incumplimiento\Npor lo que sea.
+Dialogue: 0,0:10:57.80,0:10:59.89,Gen_Main,SHUN,0,0,0,,La industria está llena\Nde esas tonterías.
+Dialogue: 0,0:11:00.31,0:11:02.35,Gen_Main,SHUN,0,0,0,,Aquí no hay libertad.
+Dialogue: 0,0:11:06.91,0:11:09.40,Gen_Italics,SHUN,0,0,0,,Sí, Urushibara es un cretino\Nque abusa de su poder.
+Dialogue: 0,0:11:09.48,0:11:13.82,Gen_Italics,SHUN,0,0,0,,Es una escoria imposible de complacer\Ny un comunicador horrible.
+Dialogue: 0,0:11:14.36,0:11:18.49,Gen_Italics,SHUN,0,0,0,,Pero el contenido que crea\Nes interesante de verdad.
+Dialogue: 1,0:11:15.28,0:11:16.74,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:11:15.28,0:11:16.74,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 1,0:11:20.91,0:11:24.41,Cart_A_Tre,SIGN,0,0,0,LONG,{\an7\p1\bord1\alpha30\an8\shad0\c&HF7F7F7&\3c&H1F191A&\pos(15.668,14.319)}m 0 0 l 210 0 l 210 77 l 0 77
+Dialogue: 2,0:11:20.91,0:11:24.41,Cart_C_Ari,SIGN,0,0,0,LONG,{\fs14\an7}Controversia por el acoso sexual\Ndel director hacia una cosplayer\N\N{\b0\fs12\c&H6D5E74&}Las protestas por el director\Nde "Excava hondo" no parecen detenerse.
+Dialogue: 0,0:11:21.41,0:11:24.00,Gen_Italics,SHUN,0,0,0,,Rayos, está por todas partes.
+Dialogue: 0,0:11:26.58,0:11:28.62,Gen_Italics,SHUN,0,0,0,,¿Qué será de mí?
+Dialogue: 0,0:11:28.71,0:11:30.34,Gen_Italics,SHUN,0,0,0,,Tal vez me despidan.
+Dialogue: 0,0:11:31.20,0:11:32.80,Gen_Main,RUBY,0,0,0,,¿Necesitas ayuda?
+Dialogue: 1,0:11:34.76,0:11:37.22,Cart_A_Tre,SIGN,0,0,0,LONG,{\an7\p1\bord1\alpha30\an8\shad0\c&HB7988D&\3c&H1F191A&\pos(15.668,14.319)}m 0 0 l 152 0 l 152 70 l 0 70
+Dialogue: 2,0:11:34.76,0:11:37.22,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(50.428,27.643)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:11:34.76,0:11:37.22,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(50.428,27.643)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:11:34.76,0:11:37.22,Cart_A_Tre,SIGN,0,0,0,,{\b0\bord0\fs12\c&H3D2225&\pos(92,57.715)}Propuesta de episodio especial
+Dialogue: 0,0:11:35.17,0:11:37.22,Gen_Main,RUBY,0,0,0,,Te traigo una propuesta interesante.
+Dialogue: 1,0:11:38.47,0:11:41.93,Cart_A_Tre,SIGN,0,0,0,LONG,{\an7\p1\bord1\alpha30\an8\shad0\c&HEAEBEB&\3c&H1F191A&\pos(15.668,14.319)}m 0 0 l 152 0 l 152 70 l 0 70
+Dialogue: 2,0:11:38.47,0:11:41.93,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(50.428,27.643)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:11:38.47,0:11:41.93,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(50.428,27.643)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:11:38.47,0:11:41.93,Cart_A_Tre,SIGN,0,0,0,,{\b0\bord0\fs12\c&H3D2225&\pos(92,57.715)}Propuesta de episodio especial
+Dialogue: 0,0:11:38.55,0:11:40.59,Gen_Main,RUBY,0,0,0,,¿Quieres darle una ojeada?
+Dialogue: 1,0:11:44.93,0:11:50.39,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:11:44.93,0:11:50.39,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:11:45.22,0:11:46.91,Gen_Main,RUBY,0,0,0,,"¡Excava hondo! Con olfato canino"
+Dialogue: 0,0:11:46.98,0:11:50.97,Gen_Main,RUBY,0,0,0,,siempre se adentró en temas\Nque no se pueden emitir en televisión
+Dialogue: 1,0:11:51.06,0:11:53.82,Gen_Main,RUBY,0,0,0,,y siempre llegó al límite\Nen los temas que trata.
+Dialogue: 1,0:11:52.85,0:11:58.28,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:11:52.85,0:11:58.28,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:11:52.85,0:11:54.31,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz359.4\pos(328.143,235)}Presentador\N{\fs30}Sawa
+Dialogue: 1,0:11:53.90,0:11:57.60,Gen_Main,RUBY,0,0,0,,Pero hoy traeremos\Nun especial que va más allá.
+Dialogue: 0,0:11:58.36,0:12:03.45,Cart_A_Tre,SIGN,0,0,0,,{\fs8\fad(232,0)\fax0.4\bord0\b0\c&H737487&\frz240.1\pos(490.823,170.589)}Propuesta de episodio especial
+Dialogue: 0,0:11:59.07,0:12:00.34,Gen_Main,KOTE (SAME AS DIRECTOR IN S3E1),0,0,0,,Ya veo.
+Dialogue: 0,0:12:00.49,0:12:03.45,Gen_Main,KOTE (SAME AS DIRECTOR IN S3E1),0,0,0,,Esto es muy típico del programa.
+Dialogue: 0,0:12:03.91,0:12:05.45,Gen_Main,KOTE,0,0,0,,¿Se te ocurrió a ti?
+Dialogue: 0,0:12:05.68,0:12:09.95,Gen_Main,SHUN,0,0,0,,No, fue una propuesta\Nde la reportera, Hoshino.
+Dialogue: 0,0:12:10.30,0:12:13.67,Gen_Main,SHUN,0,0,0,,El director Urushibara y yo lo pulimos.
+Dialogue: 0,0:12:14.18,0:12:18.68,Gen_Main,KOTE,0,0,0,,También fue la que propuso\Nsu propio ingreso al programa, ¿no?
+Dialogue: 0,0:12:19.35,0:12:23.30,Gen_Main,KOTE,0,0,0,,Tiene que ser la informante del estudio.\N¿Nos darán luz verde?
+Dialogue: 0,0:12:23.79,0:12:26.35,Gen_Main,SHUN,0,0,0,,Sí. Hoshino está trabajando en ello.
+Dialogue: 0,0:12:26.43,0:12:29.81,Gen_Main,KOTE,0,0,0,,Bien. Esa chica es muy astuta.\NEs muy riesgoso, pero…
+Dialogue: 0,0:12:30.09,0:12:32.19,Gen_Main,KABURAGI,0,0,0,,Me gusta. Hagámoslo.
+Dialogue: 0,0:12:32.80,0:12:36.94,Gen_Main,KABURAGI,0,0,0,,Nuestro programa es como es\Npor forzar así los límites.
+Dialogue: 0,0:12:37.86,0:12:39.75,Gen_Main,KABURAGI,0,0,0,,Creo que irá bien.
+Dialogue: 1,0:12:42.90,0:13:43.55,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:12:42.90,0:13:43.55,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 3,0:12:43.20,0:12:46.25,Gen_Main,RUBY,0,0,0,,¿Conocen todos este tuit?
+Dialogue: 1,0:12:44.15,0:12:55.92,Cart_A_Tre,SIGN,0,0,0,,{\fad(530,980)\an7\p1\bord1\alpha30\an8\shad0\c&H202020&\3c&HF1F3F5&\pos(12.386,101.786)}m 0 0 l 222 0 l 222 197 l 0 197
+Dialogue: 2,0:12:44.15,0:12:55.92,Cart_C_Ari,SIGN,0,0,0,,{\fad(530,980)\an7\b0\fs16\c&HE3E5E6&\bord0\blur0.3\pos(19.533,107.467)}Meiya\N\N{\fs12}Qué asco me da la tele.\NCreen que eres basura solo por mostrar\Nalgo de piel.\N\NAccedí porque hablarían de los cosplayers\Nde {\i1}Tokyo Blade{\i0}, pero el día de antes\Npidieron un disfraz original.\N\NNo respetan a los cosplayers.\N\N¿No saben lo mucho que nos esforzamos\Ncon esto? Fue todo un shock.\N\NMe tomaré un descanso del cosplay\Npor un tiempo.
+Dialogue: 3,0:12:46.87,0:12:51.55,Gen_Main,RUBY,0,0,0,,Una entrevista hecha en este programa\Ncausó una controversia importante
+Dialogue: 3,0:12:51.63,0:12:54.56,Gen_Main,RUBY,0,0,0,,y recibimos centenares de quejas.
+Dialogue: 3,0:12:55.19,0:12:58.63,Gen_Main,RUBY,0,0,0,,¡El tema de este episodio\Nserá el propio programa!
+Dialogue: 0,0:12:58.97,0:13:01.09,Gen_Main,RUBY,0,0,0,,Oigamos la historia de los responsables.
+Dialogue: 0,0:13:01.38,0:13:05.55,Gen_Main,RUBY,0,0,0,,También invitamos a Meiya,\Nla cosplayer que dio la voz de alarma.
+Dialogue: 0,0:13:05.78,0:13:10.25,Gen_Main,RUBY,0,0,0,,Y excavaremos hondo\Nen la razón de lo ocurrido.
+Dialogue: 0,0:13:10.46,0:13:11.54,Gen_Main,RUBY,0,0,0,,¡Guau!
+Dialogue: 0,0:13:14.27,0:13:15.89,Gen_Main,AQUA,0,0,0,,Lo que quiero saber primero…
+Dialogue: 0,0:13:16.35,0:13:18.90,Gen_Main,AQUA,0,0,0,,¿Por qué estás tan emocionada por esto?
+Dialogue: 0,0:13:18.99,0:13:21.02,Gen_Main,RUBY,0,0,0,,Porque nada de esto es mi culpa.
+Dialogue: 0,0:13:21.11,0:13:23.67,Gen_Main,RUBY,0,0,0,,En todo caso, me vi arrastrada\Na la controversia.
+Dialogue: 0,0:13:23.74,0:13:28.03,Gen_Main,RUBY,0,0,0,,Se podría decir que fui víctima\Nde la gestión del programa.
+Dialogue: 0,0:13:28.03,0:13:34.54,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs18\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\pos(342.01,207.267)\frz1.769}Presentador\N{\fs28}Sawa
+Dialogue: 0,0:13:28.37,0:13:30.80,Gen_Main,SAWA,0,0,0,,Para empezar, Meiya…
+Dialogue: 0,0:13:30.87,0:13:34.54,Gen_Main,SAWA,0,0,0,,El equipo quiere disculparse contigo\Npor las molestias ocasionadas.
+Dialogue: 0,0:13:35.01,0:13:40.05,Gen_Main,SAWA,0,0,0,,Sé que estás en una posición complicada.\NGracias por haber venido.
+Dialogue: 0,0:13:40.24,0:13:42.29,Gen_Main,MEIYA,0,0,0,,No, yo solo…
+Dialogue: 0,0:13:44.68,0:13:46.26,Gen_Main,RUBY,0,0,0,,Tienes toda la razón, Meiya.
+Dialogue: 0,0:13:46.97,0:13:48.72,Gen_Main,RUBY,0,0,0,,El programa no hace bien las cosas.
+Dialogue: 0,0:13:49.09,0:13:53.60,Gen_Main,RUBY,0,0,0,,A mí también me incomodaron alguna vez,\Nme gustó ver lo que dijiste.
+Dialogue: 0,0:13:53.86,0:13:56.18,Gen_Main,MEIYA,0,0,0,,Me alegra oír eso.
+Dialogue: 0,0:13:56.27,0:13:59.56,Gen_Main,RUBY,0,0,0,,Pero ¿esto es lo que quieres de verdad?
+Dialogue: 0,0:14:00.29,0:14:03.94,Gen_Main,RUBY,0,0,0,,¿Te basta con meter en un aprieto\Na la gente de la TV que te molestó?
+Dialogue: 0,0:14:04.53,0:14:08.89,Gen_Main,RUBY,0,0,0,,Esta controversia podría hacer\Nque la TV hable menos con cosplayers,
+Dialogue: 0,0:14:08.99,0:14:12.49,Gen_Main,RUBY,0,0,0,,lo que podría afectar a la gente\Nque quiere volverse famosa.
+Dialogue: 0,0:14:12.69,0:14:13.96,Gen_Main,MEIYA,0,0,0,,Yo no…
+Dialogue: 0,0:14:14.04,0:14:19.33,Gen_Main,RUBY,0,0,0,,Si no dejas claro lo que está bien\Ny lo que no, no cambiará nada.
+Dialogue: 0,0:14:19.95,0:14:26.17,Gen_Main,RUBY,0,0,0,,Si quieres señalar un problema,\Nno lo hagas en las redes.
+Dialogue: 0,0:14:26.80,0:14:32.64,Gen_Main,RUBY,0,0,0,,Si quieres hablar para ayudar\Na la comunidad del cosplay,
+Dialogue: 0,0:14:33.38,0:14:35.29,Gen_Main,RUBY,0,0,0,,yo te apoyaré.
+Dialogue: 0,0:14:35.62,0:14:38.10,Gen_Main,RUBY,0,0,0,,Me aseguraré de que salga bien.
+Dialogue: 0,0:14:38.37,0:14:40.35,Gen_Main,RUBY,0,0,0,,¿Qué tal si lo hacemos juntas?
+Dialogue: 1,0:14:41.56,0:14:51.24,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:14:41.56,0:14:51.24,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:14:41.56,0:14:47.28,Cart_A_Tre,SIGN,0,0,0,,{\bord2\b0\fs14\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz1.503\pos(305.515,224.637)}Invitada\N{\fs18}Meiya
+Dialogue: 0,0:14:41.86,0:14:45.00,Gen_Main,MEIYA,0,0,0,,No buscaba una disculpa.
+Dialogue: 0,0:14:45.07,0:14:47.28,Gen_Main,MEIYA,0,0,0,,Solo quiero que esto no se repita
+Dialogue: 0,0:14:47.69,0:14:51.24,Gen_Main,MEIYA,0,0,0,,al ayudarlos a identificar la causa\Ny a rectificar.
+Dialogue: 0,0:14:54.51,0:15:00.67,Gen_Main,RUBY,0,0,0,,Bien… Repasemos el incidente\Ncon la gente implicada.
+Dialogue: 1,0:14:54.95,0:15:06.42,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:14:54.95,0:15:06.42,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 1,0:15:06.55,0:15:10.63,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:15:06.55,0:15:10.63,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 1,0:15:10.76,0:15:15.68,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:15:10.76,0:15:15.68,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:15:15.35,0:15:19.23,Cart_A_Tim,SIGN,0,0,0,,{\an5\fscy0\t(1,398,\fscy100)\fad(398,0)\c&H223CE1&\fs18\3c&H84E3F1&\pos(259.2,225.866)}El problema de los derechos del cosplay
+Dialogue: 0,0:15:16.27,0:15:19.23,Gen_Main,RUBY,0,0,0,,Primero veamos el problema\Nde los derechos del cosplay.
+Dialogue: 0,0:15:19.23,0:15:24.73,Cart_A_Tre,SIGN,0,0,0,,{\bord0\fax0.1\blur0.2\fs26\fnComic Sans MS\c&H16111A&\frz350.9\pos(324.307,256.923)}Respeta a la cultura del cosplay
+Dialogue: 0,0:15:19.50,0:15:24.73,Gen_Main_Up,RUBY,0,0,0,,Les dijeron a las cosplayers que debían\Nir vestidas con ropa de {\i1}Tokyo Blade{\i0}.
+Dialogue: 1,0:15:24.73,0:15:47.13,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:15:24.73,0:15:47.13,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:15:24.73,0:15:28.19,Cart_A_Tre,SIGN,0,0,0,,{\bord2\b0\fs14\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz1.503\pos(114.13,281.253)}Invitada\N{\fs22}Meiya
+Dialogue: 0,0:15:24.73,0:15:28.19,Cart_A_Tre,SIGN,0,0,0,,{\bord2\b0\fs14\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz1.503\pos(594.745,283.715)}Moños\N{\fs22}Oosako
+Dialogue: 0,0:15:25.15,0:15:28.19,Gen_Main_Up,RUBY,0,0,0,,Pero cambiaron de planes,\Nlo que fue una molestia.
+Dialogue: 0,0:15:28.82,0:15:32.45,Gen_Main,RUBY,0,0,0,,Esto es lo que tiene que decir\Nal respecto el director.
+Dialogue: 0,0:15:33.29,0:15:36.24,Gen_Italics,TETSU,0,0,0,,Le pedí al departamento\Nde licencias de anime
+Dialogue: 0,0:15:36.33,0:15:40.91,Gen_Italics,TETSU,0,0,0,,que llamaran al comité de producción\Nde {\i0}Tokyo Blade{\i1} para pedir permiso.
+Dialogue: 0,0:15:41.34,0:15:44.97,Gen_Italics,TETSU,0,0,0,,Di por hecho que nos lo darían,\Npero cuando fui a confirmarlo,
+Dialogue: 0,0:15:45.05,0:15:47.13,Gen_Italics,TETSU,0,0,0,,me dijeron que no fue posible.
+Dialogue: 0,0:15:47.50,0:15:52.04,Gen_Italics,TETSU,0,0,0,,La falta de personal me dejó\Nsin tiempo ni capacidad de respuesta
+Dialogue: 0,0:15:52.26,0:15:55.47,Gen_Italics,TETSU,0,0,0,,y no pude reaccionar como debía,\Ncausando este problema.
+Dialogue: 1,0:15:55.47,0:17:04.21,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:15:55.47,0:17:04.21,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:15:55.92,0:16:00.15,Gen_Main,RUBY,0,0,0,,También le pedimos su versión\Nal equipo de licencias de anime.
+Dialogue: 0,0:16:02.07,0:16:06.44,Gen_Italics,LICENSINGSTAFF,0,0,0,,Con casi todos los animes, los comités\Nde producción controlan los permisos.
+Dialogue: 0,0:16:07.24,0:16:10.20,Gen_Italics,LICENSINGSTAFF,0,0,0,,Pero {\i0}Tokyo Blade{\i1} es\Nparticularmente complicado
+Dialogue: 0,0:16:10.28,0:16:13.91,Gen_Italics,LICENSINGSTAFF,0,0,0,,porque se necesita el permiso\Nde la autora para todo.
+Dialogue: 0,0:16:14.33,0:16:18.15,Gen_Italics,LICENSINGSTAFF,0,0,0,,Así que le dije al director\Nque no podíamos completar el proceso
+Dialogue: 0,0:16:18.31,0:16:20.55,Gen_Italics,LICENSINGSTAFF,0,0,0,,antes de la sesión de fotos,
+Dialogue: 0,0:16:20.75,0:16:23.87,Gen_Italics,LICENSINGSTAFF,0,0,0,,pero parece que no vio su correo.
+Dialogue: 0,0:16:24.09,0:16:26.34,Gen_Main,RUBY,0,0,0,,Así que hubo varios factores aquí.
+Dialogue: 0,0:16:26.55,0:16:29.16,Gen_Main,RUBY,0,0,0,,No es que quiera desviarme del tema,
+Dialogue: 0,0:16:29.26,0:16:32.76,Gen_Main,RUBY,0,0,0,,pero ¿por qué {\i1}Tokyo Blade{\i0}\Nes tan estricto con los permisos?
+Dialogue: 0,0:16:32.85,0:16:34.55,Gen_Main,RUBY,0,0,0,,¿No les llama la atención?
+Dialogue: 0,0:16:34.72,0:16:36.78,Gen_Main,RUBY,0,0,0,,¡Así que excavamos hondo en el tema!
+Dialogue: 0,0:16:38.64,0:16:41.19,Gen_Main,KANA,0,0,0,,¡Soy Kana Arima, la reportera de hoy!
+Dialogue: 0,0:16:41.19,0:16:44.65,Cart_A_Tre,SIGN,0,0,0,,{\bord2\b0\fs12\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz359.2\pos(475.976,218.484)}Actor\N{\fs18}Aqua Hoshino
+Dialogue: 0,0:16:41.27,0:16:44.65,Gen_Main,KANA,0,0,0,,Estoy en un grupo llamado\NB-Komachi con Ruby.
+Dialogue: 0,0:16:44.87,0:16:47.87,Gen_Main,KANA,0,0,0,,Vine a hacer una entrevista\Nen lugar de Ruby.
+Dialogue: 0,0:16:47.94,0:16:50.11,Gen_Main,KANA,0,0,0,,¿Saben dónde estoy?
+Dialogue: 0,0:16:50.20,0:16:54.57,Gen_Main,KANA,0,0,0,,Así es. Visitando la oficina\Nde la editora.
+Dialogue: 0,0:16:56.98,0:17:01.10,Gen_Main,KANA,0,0,0,,Tengo conmigo a la creadora\Nde {\i1}Tokyo Blade{\i0}, Abiko Samejima,
+Dialogue: 0,0:17:01.17,0:17:03.98,Gen_Main,KANA,0,0,0,,para hablar de la controversia\Nsobre el cosplay.
+Dialogue: 0,0:17:04.38,0:17:06.57,Gen_Main,KANA,0,0,0,,Cuánto tiempo.
+Dialogue: 0,0:17:06.67,0:17:10.87,Gen_Main,KANA,0,0,0,,Muchas gracias por hacer un hueco\Nen su apretada agenda.
+Dialogue: 0,0:17:11.17,0:17:15.97,Gen_Main,ABIKO,0,0,0,,De nada. Siempre tendré tiempo para ti.
+Dialogue: 0,0:17:16.06,0:17:17.74,Gen_Main,ABIKO,0,0,0,,Me alegro de verte.
+Dialogue: 0,0:17:19.18,0:17:21.10,Gen_Main,KANA,0,0,0,,Vayamos al grano.
+Dialogue: 1,0:17:21.10,0:17:26.48,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:17:21.10,0:17:26.48,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:17:21.60,0:17:26.48,Gen_Main,KANA,0,0,0,,¿Es cierto que debes dar tu aprobación\Npara cualquier cosa de {\i1}Tokyo Blade{\i0}?
+Dialogue: 0,0:17:28.74,0:17:33.99,Gen_Main,ABIKO,0,0,0,,Hay veces en las que se tiene en cuenta\Nla opinión del creador.
+Dialogue: 1,0:17:33.99,0:17:44.67,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:17:33.99,0:17:44.67,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:17:34.49,0:17:36.35,Gen_Main,ABIKO,0,0,0,,Por norma general,
+Dialogue: 0,0:17:36.45,0:17:40.21,Gen_Main,ABIKO,0,0,0,,mi editorial rechaza a la gente que\Nquiere vender productos sin licencia.
+Dialogue: 0,0:17:40.45,0:17:44.67,Gen_Main,ABIKO,0,0,0,,Pero hay franquicias donde se aprueban\Npor deseo expreso del autor.
+Dialogue: 0,0:17:45.03,0:17:48.63,Gen_Main,ABIKO,0,0,0,,Si no se comprueba, la gente intenta\Nvender auténticas barbaridades.
+Dialogue: 0,0:17:48.71,0:17:52.29,Gen_Main,ABIKO,0,0,0,,Como figuras medio desnudas\Ncon pechos enormes,
+Dialogue: 0,0:17:52.47,0:17:55.30,Gen_Main,ABIKO,0,0,0,,fundas de almohada lascivas\Ny cosas similares.
+Dialogue: 1,0:17:55.51,0:17:58.97,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:17:55.51,0:17:58.97,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:17:55.60,0:17:57.58,Gen_Main,KANA,0,0,0,,Ya veo.
+Dialogue: 0,0:17:57.68,0:17:59.59,Gen_Main,ABIKO,0,0,0,,Y por alguna razón,
+Dialogue: 0,0:17:59.68,0:18:01.90,Gen_Main,ABIKO,0,0,0,,siempre mandan a mujeres\Npara preguntar eso.
+Dialogue: 0,0:17:59.97,0:18:04.44,Cart_A_Tre,SIGN,0,0,0,LONG,{\fad(1110,0)\c&HF9ECF5&\fnComic Sans MS\3c&H7C3572&\clip(m 377 3 l 372 17 369 28 368 41 368 54 368 64 373 83 380 96 384 102 377 112 245 120 250 113 253 107 253 103 253 101 256 96 257 89 257 82 254 74 251 66 248 59 244 51 240 45 234 38 227 31 225 6)\move(414,20,216,20,25,4446)}Me encanta esto. Mira lo sexi que es.\NLas figuras venden mejor si son atrevidas.
+Dialogue: 0,0:18:02.03,0:18:04.44,Gen_Main,ABIKO,0,0,0,,Casi consiguen convencerme así\Nun par de veces.
+Dialogue: 0,0:18:04.62,0:18:09.44,Gen_Main,KANA,0,0,0,,Es lo que hacen las marcas para que las\Nidols lleven trajes de baño minúsculos.
+Dialogue: 0,0:18:05.06,0:18:09.44,Cart_A_Tre,SIGN,0,0,0,LONG,{\fad(1110,0)\c&HF8F4F0&\fnComic Sans MS\3c&H074122&\move(216,20,414,20,25,4361)\clip(m 235 2 l 240 15 244 31 248 48 251 62 252 89 253 110 429 103 437 79 446 66 456 55 469 44 487 36 505 34 519 34 525 38 530 44 533 45 538 47 546 58 554 74 638 76 638 0)}Me encanta esto. Mira lo sexi que es.\NLas figuras venden mejor si son atrevidas.
+Dialogue: 1,0:18:09.44,0:18:16.16,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:18:09.44,0:18:16.16,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:18:09.53,0:18:13.04,Gen_Main,ABIKO,0,0,0,,Pero para el cosplay\Nno se necesita mi permiso.
+Dialogue: 0,0:18:13.11,0:18:16.16,Gen_Main,ABIKO,0,0,0,,Rechazaría las sesiones\Nde fotos lascivas, pero nada más.
+Dialogue: 0,0:18:16.66,0:18:17.95,Gen_Main,ABIKO,0,0,0,,Los editores suelen pedir
+Dialogue: 0,0:18:18.11,0:18:22.65,Gen_Main,ABIKO,0,0,0,,diseños que tendrán cientos de cosplays\Ndurante el Comiket.
+Dialogue: 0,0:18:22.75,0:18:24.62,Gen_Main,ABIKO,0,0,0,,¿Quién se negaría a eso?
+Dialogue: 0,0:18:24.62,0:18:49.11,Cart_A_Tre,SIGN,0,0,0,,{\fs14\c&H222329&\3c&HFCFEFE&\pos(458.353,10.588)}Comité de producción
+Dialogue: 0,0:18:24.62,0:18:42.80,Cart_A_Tre,SIGNS,0,0,0,,{\fs14\c&H222329&\3c&HF2FD9E&\pos(450.353,81.445)}Derechos
+Dialogue: 0,0:18:24.62,0:18:42.72,Cart_A_Tre,SIGNS,0,0,0,,{\fs14\c&H222329&\3c&H8DEFF1&\pos(453.21,117.445)}Dere{\3c&HA8FF92&}chos
+Dialogue: 0,0:18:42.72,0:18:42.80,Cart_A_Tre,SIGNS,0,0,0,,{\fs14\c&H222329&\3c&H8DEFF1&\pos(453.21,117.445)\clip(m 449 133 l 454 129 460 126 457 124 456 121 457 117 422 115 411 129 413 135)}Dere{\3c&HA8FF92&}chos
+Dialogue: 0,0:18:24.62,0:18:42.72,Cart_A_Tre,SIGNS,0,0,0,,{\fs14\c&H222329&\3c&H9B92F3&\pos(468.068,206.017)}Derechos
+Dialogue: 0,0:18:25.00,0:18:26.82,Gen_Main,ABIKO,0,0,0,,A la hora de las aprobaciones,
+Dialogue: 0,0:18:26.92,0:18:30.00,Gen_Main,ABIKO,0,0,0,,los creadores no nos negamos\Nsi sentimos el amor.
+Dialogue: 0,0:18:30.09,0:18:32.03,Gen_Main,ABIKO,0,0,0,,Las empresas del comité
+Dialogue: 0,0:18:31.63,0:18:32.59,Cart_A_Tre,SIGN,0,0,0,,{\fad(0,897)\fs14\c&H222329&\3c&HF2FD9E&\pos(354.924,18.016)}Derechos
+Dialogue: 0,0:18:32.15,0:18:35.55,Gen_Main,ABIKO,0,0,0,,invierten para tener los derechos\Ndel merchandising, música y demás.
+Dialogue: 0,0:18:35.64,0:18:37.65,Gen_Main,ABIKO,0,0,0,,No podemos enojarlos.
+Dialogue: 0,0:18:38.10,0:18:42.52,Gen_Main,ABIKO,0,0,0,,Solo intentamos eliminar\Nlos productos que no respetan la obra.
+Dialogue: 0,0:18:42.60,0:18:45.23,Gen_Main,ABIKO,0,0,0,,Aunque mi editora\Nquisiera denunciar a una persona,
+Dialogue: 0,0:18:45.31,0:18:49.11,Gen_Main,ABIKO,0,0,0,,yo intento detenerlos\Nsi el producto se hizo con amor.
+Dialogue: 1,0:18:49.11,0:19:36.57,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:18:49.11,0:19:36.57,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:18:49.44,0:18:55.27,Gen_Main,ABIKO,0,0,0,,¡Pero otros dibujan {\i1}doujins{\i0}\Nde violaciones y se enriquecen!
+Dialogue: 0,0:18:55.36,0:18:59.08,Gen_Main,ABIKO,0,0,0,,¡Lean las normas de las editoriales\Ny tengan sentido común!
+Dialogue: 0,0:18:59.16,0:19:02.83,Gen_Main,ABIKO-KANA,0,0,0,,-¡Yo no recibo nada por eso!\N-Eso es todo desde aquí.
+Dialogue: 0,0:19:03.87,0:19:06.97,Gen_Main,RUBY,0,0,0,,Las aprobaciones son muy complejas.
+Dialogue: 0,0:19:07.04,0:19:09.83,Gen_Main,AQUA,0,0,0,,Me alegra ver que Abiko está bien.
+Dialogue: 0,0:19:10.01,0:19:12.30,Gen_Main,RUBY,0,0,0,,Hablemos ahora de las preguntas.
+Dialogue: 0,0:19:12.30,0:19:16.05,Cart_A_Tre,SIGN,0,0,0,,{\bord2\b0\fs14\fax\fnTimes New Roman\c&H4B445B&\3c&HF6F8FA&\frz1.503\pos(376.459,229.429)}Presentador\N{\fs22}Sawa
+Dialogue: 0,0:19:12.60,0:19:16.05,Gen_Main,SAWA,0,0,0,,Meiya, ¿qué te preguntaron?
+Dialogue: 0,0:19:16.05,0:19:23.02,Cart_A_Tre,SIGN,0,0,0,,{\bord1.5\b0\fs12\fax\fnTimes New Roman\c&H9591A4&\3c&HF6F8FA&\frz1.503\pos(125.603,203.715)}Actor\N{\fs16}Aqua Hoshino
+Dialogue: 0,0:19:16.05,0:19:23.02,Cart_A_Tre,SIGN,0,0,0,,{\bord1.5\b0\fs12\fax\fnTimes New Roman\c&H9591A4&\3c&HF6F8FA&\frz1.503\pos(321.032,203.715)}Invitada\N{\fs16}Meiya
+Dialogue: 0,0:19:16.05,0:19:23.02,Cart_A_Tre,SIGN,0,0,0,,{\bord1.5\b0\fs12\fax\fnTimes New Roman\c&H9591A4&\3c&HF6F8FA&\frz1.503\pos(512.46,203.715)}Moños\N{\fs16}Oosako
+Dialogue: 0,0:19:17.05,0:19:19.52,Gen_Main,MEIYA,0,0,0,,Si soy exhibicionista,
+Dialogue: 0,0:19:19.60,0:19:23.02,Gen_Main,MEIYA,0,0,0,,si alguna vez tuve relaciones\Ncon un disfraz puesto y cosas así.
+Dialogue: 0,0:19:23.64,0:19:28.61,Gen_Main,MEIYA,0,0,0,,Puedo tolerar esas preguntas en privado,\Ncuando no hay nadie más.
+Dialogue: 0,0:19:29.19,0:19:31.99,Gen_Main,MEIYA,0,0,0,,Yo también soy adulta.\NNo me opongo a ello.
+Dialogue: 0,0:19:32.18,0:19:36.57,Gen_Main,MEIYA,0,0,0,,Pero solo cuando hay\Nconfianza mutua y respeto.
+Dialogue: 0,0:19:37.15,0:19:39.95,Gen_Main,MEIYA,0,0,0,,Si hubiera sentido respeto\Npor la cultura del cosplay,
+Dialogue: 0,0:19:40.03,0:19:42.88,Gen_Main,MEIYA,0,0,0,,si me lo hubieran avisado de antemano,
+Dialogue: 1,0:19:42.04,0:20:23.16,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:19:42.04,0:20:23.16,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:19:42.95,0:19:47.84,Gen_Main,MEIYA,0,0,0,,yo habría respondido mejor\Ny hoy no estaríamos aquí.
+Dialogue: 0,0:19:48.33,0:19:52.46,Gen_Main,MEIYA,0,0,0,,Preguntar cosas tan irrespetuosas\Ny vulgares es acoso sexual.
+Dialogue: 0,0:19:52.72,0:19:56.35,Gen_Main,MEIYA,0,0,0,,Y eso, además del cambio\Nde disfraz de última hora,
+Dialogue: 0,0:19:56.62,0:19:58.51,Gen_Main,MEIYA,0,0,0,,solo noté desdén hacia los cosplayers.
+Dialogue: 0,0:19:58.97,0:20:01.77,Gen_Main,MEIYA,0,0,0,,No vi ni un ápice de respeto.
+Dialogue: 0,0:20:02.10,0:20:06.59,Gen_Main,MEIYA,0,0,0,,Pero ahora ya veo que ustedes\Ntambién tenían sus problemas.
+Dialogue: 0,0:20:06.86,0:20:09.48,Gen_Main,MEIYA,0,0,0,,Ya no estoy tan enojada.
+Dialogue: 0,0:20:09.93,0:20:13.02,Gen_Main,MEIYA,0,0,0,,Mientras procuren\Nque eso no se volverá a repetir,
+Dialogue: 0,0:20:13.11,0:20:15.91,Gen_Main,MEIYA,0,0,0,,no me importaría borrar mi tuit.
+Dialogue: 0,0:20:16.05,0:20:17.45,Gen_Main,RUBY,0,0,0,,Meiya…
+Dialogue: 0,0:20:17.99,0:20:22.86,Gen_Main,RUBY,0,0,0,,Oí que Urushibara, el director\Ny causante de todo, lo siente de verdad.
+Dialogue: 0,0:20:23.16,0:20:24.12,Gen_Main,RUBY,0,0,0,,Pero…
+Dialogue: 0,0:20:24.47,0:20:28.02,Gen_Main,RUBY,0,0,0,,Si le pones fin a esto\Ntomando el camino correcto,
+Dialogue: 0,0:20:28.12,0:20:29.96,Gen_Main,RUBY,0,0,0,,¿no te dejará mal sabor de boca?
+Dialogue: 1,0:20:30.96,0:22:11.18,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:20:30.96,0:22:11.18,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:20:31.19,0:20:33.92,Gen_Main,RUBY,0,0,0,,¿De verdad estás satisfecha con esto?
+Dialogue: 0,0:20:34.14,0:20:35.78,Gen_Main,MEIYA,0,0,0,,No por completo, pero…
+Dialogue: 0,0:20:35.88,0:20:37.05,Gen_Main,RUBY,0,0,0,,¡Lo sabía!
+Dialogue: 0,0:20:37.31,0:20:40.76,Gen_Main,RUBY,0,0,0,,Así que me tomaré la libertad\Nde hacer una sugerencia.
+Dialogue: 0,0:20:40.84,0:20:42.11,Gen_Main,MEIYA,0,0,0,,¿Qué sugerencia?
+Dialogue: 0,0:20:42.18,0:20:46.22,Gen_Main,RUBY,0,0,0,,Si queremos enmendar nuestra\Nfalta de respeto al arte del cosplay,
+Dialogue: 0,0:20:46.31,0:20:49.50,Gen_Main,RUBY,0,0,0,,a los cosplayers y al esfuerzo\Nque tienen que hacer…
+Dialogue: 0,0:20:49.60,0:20:51.86,Gen_Main,RUBY,0,0,0,,¡Creo que este es el mejor modo!
+Dialogue: 0,0:20:54.02,0:20:56.43,Gen_Main,RUBY,0,0,0,,Señor Urushibara, es hora de enmendarlo.
+Dialogue: 0,0:20:56.83,0:20:57.97,Gen_Main,RUBY,0,0,0,,¡Adelante!
+Dialogue: 0,0:21:22.18,0:21:26.14,Gen_Main,TETSU,0,0,0,,Meiya, y también a toda la gente\Nde la comunidad de cosplay,
+Dialogue: 0,0:21:26.54,0:21:29.67,Gen_Main,TETSU,0,0,0,,siento de corazón todo lo que hice.
+Dialogue: 0,0:21:30.72,0:21:35.80,Gen_Main,TETSU,0,0,0,,Prioricé demasiado el programa\Ny no respeté su cultura.
+Dialogue: 0,0:21:35.90,0:21:39.32,Gen_Main,TETSU,0,0,0,,Es un hecho innegable y no hay excusas.
+Dialogue: 0,0:21:39.59,0:21:42.46,Gen_Main,TETSU,0,0,0,,Desde ahora, prometo\Nque pediremos segundas opiniones
+Dialogue: 0,0:21:42.53,0:21:47.54,Gen_Main,TETSU,0,0,0,,y tendremos prácticas que respeten\Na la gente y los temas tratados.
+Dialogue: 0,0:21:47.79,0:21:50.66,Gen_Main,TETSU,0,0,0,,Por favor,\Nacepta mis humildes disculpas.
+Dialogue: 0,0:21:52.45,0:21:53.62,Gen_Main,SAWA,0,0,0,,Este…
+Dialogue: 0,0:21:54.00,0:21:56.04,Gen_Main,SAWA,0,0,0,,¿Esto es una clase de broma?
+Dialogue: 0,0:21:56.42,0:21:58.29,Gen_Main,AQUA,0,0,0,,Oye, hermana idiota.
+Dialogue: 0,0:21:58.44,0:22:01.51,Gen_Main,AQUA,0,0,0,,¿Creías que hacer que un viejo\Nse disculpara así sería bueno?
+Dialogue: 0,0:22:01.95,0:22:05.26,Gen_Main,AQUA,0,0,0,,No hay sinceridad en una disculpa\Nhecha con un disfraz ridículo.
+Dialogue: 0,0:22:05.49,0:22:07.72,Gen_Main,RUBY,0,0,0,,¿Conoces eso de "ojo por ojo"?
+Dialogue: 0,0:22:08.26,0:22:11.18,Gen_Main,RUBY,0,0,0,,Pagar por un delito del cosplay\Nes más divertido así.
+Dialogue: 0,0:22:11.27,0:22:14.02,Gen_Main,AQUA,0,0,0,,Sí, el problema\Nes que es demasiado divertido.
+Dialogue: 0,0:22:14.10,0:22:16.34,Gen_Main,AQUA,0,0,0,,No te burles de algo tan serio.
+Dialogue: 0,0:22:16.44,0:22:18.52,Gen_Main,RUBY,0,0,0,,No era lo que pretendía.
+Dialogue: 1,0:22:18.52,0:22:33.33,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:22:18.52,0:22:33.33,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:22:19.94,0:22:21.85,Gen_Main,MEIYA,0,0,0,,¿Lo hiciste tú?
+Dialogue: 0,0:22:22.78,0:22:23.95,Gen_Main,TETSU,0,0,0,,Sí.
+Dialogue: 0,0:22:24.17,0:22:26.91,Gen_Main,MEIYA,0,0,0,,¿Por qué te vestiste\Nde la princesa Saya?
+Dialogue: 0,0:22:27.87,0:22:31.62,Gen_Main,TETSU,0,0,0,,Leí el manga\Ny era mi personaje favorito.
+Dialogue: 0,0:22:35.29,0:22:38.29,Gen_Main,MEIYA,0,0,0,,¿Ni siquiera sabes coser unos botones?
+Dialogue: 1,0:22:38.29,0:22:42.01,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:22:38.29,0:22:42.01,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:22:38.49,0:22:42.01,Gen_Main,MEIYA,0,0,0,,Usaste mal la máquina de coser\Ny lo rehiciste tantas veces
+Dialogue: 0,0:22:42.21,0:22:43.66,Gen_Main,MEIYA,0,0,0,,que dañaste la tela.
+Dialogue: 1,0:22:44.34,0:23:18.96,Cart_A_Tre,SIGN,0,0,0,,{\bord3\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H233B4B&\3c&H233B4B&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 2,0:22:44.34,0:23:18.96,Cart_A_Tre,SIGN,0,0,0,,{\bord2\fs12\frz1.32\fax0.15\fnArial Black\an7\c&H2727D4&\3c&HAED2E5&\pos(78.428,72.214)}¡Excava hondo!\N{\c&HBAA75C&}Con olfato canino
+Dialogue: 0,0:22:45.47,0:22:48.80,Gen_Main,MEIYA,0,0,0,,Yo cometía esos mismos errores\Ncuando empecé.
+Dialogue: 0,0:22:49.76,0:22:51.34,Gen_Main,MEIYA,0,0,0,,Fue duro, ¿verdad?
+Dialogue: 0,0:22:51.68,0:22:56.15,Gen_Main,TETSU,0,0,0,,Sí. No sabía que esto fuera tan duro.
+Dialogue: 0,0:22:56.65,0:23:00.86,Gen_Main,TETSU,0,0,0,,Esta semana me fui a casa\Ny trabajé en ello hasta muy tarde.
+Dialogue: 0,0:23:01.24,0:23:05.82,Gen_Main,MEIYA,0,0,0,,¿Y si el programa te dijera de pronto\Nque no podrías usarlo?
+Dialogue: 0,0:23:05.91,0:23:07.00,Gen_Main,MEIYA,0,0,0,,¿Cómo te sentirías?
+Dialogue: 0,0:23:07.68,0:23:09.53,Gen_Main,TETSU,0,0,0,,Me enojaría mucho.
+Dialogue: 0,0:23:11.13,0:23:12.75,Gen_Main,MEIYA,0,0,0,,Si lo entendiste,
+Dialogue: 0,0:23:13.41,0:23:15.07,Gen_Main,MEIYA,0,0,0,,no necesito nada más.
+Dialogue: 0,0:23:19.58,0:23:22.60,Gen_Main,RUBY,0,0,0,,Menos mal que al final\Nse resolvió todo.
+Dialogue: 0,0:23:23.51,0:23:26.63,Gen_Main,RUBY,0,0,0,,Arreglamos las cosas con Meiya\Ny ella borró el tuit.
+Dialogue: 0,0:23:26.72,0:23:28.59,Gen_Main,RUBY,0,0,0,,Salió un buen programa.
+Dialogue: 0,0:23:29.12,0:23:33.06,Gen_Main,RUBY,0,0,0,,Oí que el episodio del Comiket\Nse emitirá con ciertos cambios.
+Dialogue: 0,0:23:33.24,0:23:36.72,Gen_Main,RUBY,0,0,0,,Me alegro de que no fuera en vano.
+Dialogue: 0,0:23:38.89,0:23:39.90,Gen_Main,AQUA,0,0,0,,Ruby.
+Dialogue: 0,0:23:41.15,0:23:44.40,Gen_Main,AQUA,0,0,0,,¿Hasta qué punto estuviste implicada?
+Dialogue: 0,0:23:44.90,0:23:45.90,Gen_Main,AQUA,0,0,0,,No…
+Dialogue: 0,0:23:46.63,0:23:48.69,Gen_Main,AQUA,0,0,0,,¿Cuánto de todo eso lo preparaste tú?
+Dialogue: 0,0:23:53.99,0:23:55.36,Gen_Main,RUBY,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:23:56.66,0:23:59.96,Cart_C_Tim,EPTITLE,0,0,0,,{\bord1.5\pos(323,77.318)}Episodio 27\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N{\fs35}Lo apropiado
+Dialogue: 0,0:25:26.88,0:25:30.07,Cart_A_Tre,,0,0,0,,{\fad(0,0)\fs14\pos(320,35)}Traducción: Abraham Gayuvas\NEdición: Juan José Cintas
