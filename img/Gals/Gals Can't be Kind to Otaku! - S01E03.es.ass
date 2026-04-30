@@ -1,0 +1,428 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_Nota,Trebuchet MS,20,&H00000000,&H000000FF,&H00262626,&H00505050,0,0,0,0,100,100,0,0,1,0,0,5,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Verdana,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,0,0,5,5,5,0,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_TitleEp,Verdana,22,&H00484848,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,110,0,0,1,1,0,2,30,30,20,1
+Style: Cart_Basic,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H003F2213,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,0,0,94,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.06,0:00:05.61,Gen_Main,Seo,0,0,0,,¡¿Me invitaron por separado?!
+Dialogue: 0,0:00:04.73,0:00:06.36,Cart_A_Tre,CARTEL,0,0,0,,{\c&HAEADAB&\3c&HFCFAFB&\an7\move(79.33,30,-142.67,29.33,28,1989)}¿Hacemos algo en los días libres?\N¡Vayamos a ver una peli!
+Dialogue: 0,0:00:04.73,0:00:06.36,Cart_A_Tre,CARTEL,0,0,0,,{\c&HAEADAB&\3c&HFCFAFB&\an7\move(533.33,28.67,306,28.67,28,1989)}¿Haces algo estos días libres?\NLlévame al Animate
+Dialogue: 0,0:00:06.44,0:00:09.61,Gen_Main,Seo,0,0,0,,Ah, a lo mejor es una broma.
+Dialogue: 0,0:00:09.70,0:00:14.87,Gen_Main,Seo,0,0,0,,¡No, es imposible! No las conozco mucho,\Npero sé que no harían algo así.
+Dialogue: 0,0:00:14.95,0:00:19.12,Gen_Main,Seo,0,0,0,,¡¿Por qué no tengo dos cuerpos?!
+Dialogue: 0,0:00:21.21,0:00:22.63,Gen_Main,Ijichi,0,0,0,,Ya entiendo.
+Dialogue: 0,0:00:22.71,0:00:25.46,Gen_Main,Ijichi,0,0,0,,Así que saldrás con las dos juntas.
+Dialogue: 0,0:00:25.96,0:00:28.88,Gen_Main,Ijichi,0,0,0,,Qué codicioso eres, Otaku.
+Dialogue: 0,0:00:28.97,0:00:31.13,Gen_Italics,Seo,0,0,0,,Qué hermosas son.
+Dialogue: 0,0:00:32.85,0:00:36.27,Gen_Italics,Seo,0,0,0,,¡No puedo creer\Nque vaya a estar con las dos!
+Dialogue: 0,0:00:37.06,0:00:41.02,Gen_Main,Ijichi,0,0,0,,Amane, ¿no es la primera vez\Nque ibas a salir sola con un chico?
+Dialogue: 0,0:00:41.10,0:00:42.90,Gen_Main,Amane,0,0,0,,¡No tergiverses todo!
+Dialogue: 0,0:00:42.98,0:00:45.90,Gen_Main,Amane,0,0,0,,¿O querías tenerlo todo para ti sola?
+Dialogue: 0,0:00:45.98,0:00:48.53,Gen_Main,Ijichi,0,0,0,,Vaya una a saber.
+Dialogue: 0,0:00:48.61,0:00:52.74,Gen_Main,Amane,0,0,0,,Para lo que había planeado\Nda igual quién se sume.
+Dialogue: 0,0:00:52.99,0:00:55.45,Gen_Main,Amane,0,0,0,,Si te parece bien, vamos los tres.
+Dialogue: 0,0:00:55.62,0:00:57.37,Gen_Main,Ijichi,0,0,0,,¡Ya sé!
+Dialogue: 0,0:00:57.45,0:00:59.04,Gen_Main,Ijichi,0,0,0,,¡Tengamos citas por turnos!
+Dialogue: 0,0:00:59.96,0:01:03.79,Gen_Main,Ijichi,0,0,0,,Así que me iré una hora\Na dar una vuelta yo solita.
+Dialogue: 0,0:01:03.88,0:01:06.80,Gen_Main,Ijichi,0,0,0,,Cuando acabes con Amane,\Ntendremos una cita de una hora.
+Dialogue: 0,0:01:06.88,0:01:08.80,Gen_Main,Seo,0,0,0,,¿Por qué harías eso?
+Dialogue: 0,0:01:08.88,0:01:11.55,Gen_Main,Ijichi,0,0,0,,No se vayan muy lejos, ¿sí?
+Dialogue: 0,0:01:11.63,0:01:13.97,Gen_Main,Ijichi,0,0,0,,Y no vayan a ir a algún hotelucho.
+Dialogue: 0,0:01:14.05,0:01:15.97,Gen_Main,Amane/Seo,0,0,0,,¡Claro que no!
+Dialogue: 0,0:02:43.06,0:02:44.64,Cart_A_Tre,CARTEL,0,0,0,,{\c&H32E9C2&\3c&HF9F9F9&\fad(0,0)\fs40\blur2\pos(333.33,41.33)}Gals {\c&HB39F9D&}Can't {\c&HB489F4&}Be Kind {\c&HB39F9D&}to {\c&HE9BF8B&}Otaku{\c&HB39F9D&}!?
+Dialogue: 0,0:02:46.19,0:02:50.02,Cart_A_Tre,CARTEL,0,0,0,,{\fad(476,0)\an3\c&H32E9C2&\fs18\3c&HFFFFFF&\pos(598,301.34)}03:00    {\c&HB39F9D&}¿{\c&HB992EF&}Quieres{\c&HEAC391&} pasar a mi casa{\c&HB39F9D&}?
+Dialogue: 0,0:02:47.23,0:02:50.02,Gen_Main_Up,Amane,0,0,0,,Perdón, Ijichi es así.
+Dialogue: 0,0:02:50.11,0:02:52.69,Gen_Main,Seo,0,0,0,,No importa, pero ¿qué vamos a hacer?
+Dialogue: 0,0:02:52.78,0:02:55.78,Gen_Main,Amane,0,0,0,,Estamos cerca,\Nasí que vayamos al Animate.
+Dialogue: 0,0:02:55.86,0:02:58.70,Gen_Main,Amane,0,0,0,,Quiero conseguir el fanbook oficial.
+Dialogue: 0,0:02:58.78,0:03:02.24,Gen_Main,Seo,0,0,0,,¡Cierto! Salía justo hoy.
+Dialogue: 0,0:03:02.41,0:03:05.46,Gen_Italics,Seo,0,0,0,,Su aura es muy poderosa.
+Dialogue: 0,0:03:05.54,0:03:09.12,Gen_Italics,Seo,0,0,0,,Recibe aún más miradas\Nque en la escuela.
+Dialogue: 0,0:03:09.21,0:03:10.71,Gen_Main,TipoGal 1,0,0,0,,¡Belleza!
+Dialogue: 0,0:03:10.79,0:03:13.59,Gen_Main,TipoGal 1,0,0,0,,¡Tú sí que eres mi tipo!
+Dialogue: 0,0:03:13.67,0:03:15.59,Gen_Main,TipoGal 1,0,0,0,,¿Quieres venir a comer algo?
+Dialogue: 0,0:03:15.76,0:03:17.80,Gen_Italics,Seo,0,0,0,,¡Ay, no! ¡Es de los populares!
+Dialogue: 0,0:03:18.09,0:03:21.09,Gen_Main,TipoGal 1,0,0,0,,¿Y este quién es? ¿Tu hermanito?
+Dialogue: 0,0:03:21.18,0:03:23.72,Gen_Main,Seo,0,0,0,,Este, bueno, yo…
+Dialogue: 0,0:03:23.81,0:03:24.98,Gen_Main,Amane,0,0,0,,Oigan.
+Dialogue: 0,0:03:25.14,0:03:27.98,Gen_Main,Amane,0,0,0,,No me interesan para nada.
+Dialogue: 0,0:03:39.37,0:03:41.03,Gen_Main,Seo,0,0,0,,¡Amane!
+Dialogue: 0,0:03:41.28,0:03:44.37,Gen_Main,Amane,0,0,0,,Perdóname, ¿te asusté?
+Dialogue: 0,0:03:44.45,0:03:46.37,Gen_Main,Seo,0,0,0,,¿Qué? No, para nada.
+Dialogue: 0,0:03:46.46,0:03:50.63,Gen_Main,Amane,0,0,0,,Sé que puedo dar miedo\Nporque mi mirada es intensa.
+Dialogue: 0,0:03:50.71,0:03:53.84,Gen_Main,Amane,0,0,0,,Digo algo normal y creen estoy enojada.
+Dialogue: 0,0:03:54.38,0:03:57.30,Gen_Main,Amane,0,0,0,,Aunque me viene bien en momentos así.
+Dialogue: 0,0:03:58.47,0:04:01.26,Gen_Main,Seo,0,0,0,,Yo creo que estuviste impresionante.
+Dialogue: 0,0:04:02.60,0:04:07.27,Gen_Main,Seo,0,0,0,,Eres tan genial aun siendo otaku.\NNo dejas de sorprenderme.
+Dialogue: 0,0:04:07.77,0:04:09.52,Gen_Main,Amane,0,0,0,,Otaku…
+Dialogue: 0,0:04:09.98,0:04:12.15,Gen_Main,Amane,0,0,0,,¡Oye! ¿A quién le dices otaku?
+Dialogue: 0,0:04:12.61,0:04:15.03,Gen_Main,Amane,0,0,0,,Se lo quiero comprar a mi hermana.
+Dialogue: 0,0:04:15.11,0:04:16.27,Gen_Main,Seo,0,0,0,,Sí, claro.
+Dialogue: 0,0:04:17.49,0:04:22.62,Gen_Main,Amane/Seo,0,0,0,,-¡Compré tres de primera edición!\N-{\i1}¡Pero si actúas como una otaku!{\i0}
+Dialogue: 0,0:04:23.62,0:04:25.57,Gen_Main,Amane,0,0,0,,¿Por qué pones esa cara?
+Dialogue: 0,0:04:25.66,0:04:28.70,Gen_Main,Seo,0,0,0,,Es que me alegra\Nque nos guste lo mismo.
+Dialogue: 0,0:04:28.83,0:04:30.87,Gen_Main,Amane,0,0,0,,¡Pero ya te dije que no soy otaku!
+Dialogue: 0,0:04:31.75,0:04:35.00,Gen_Italics,Librero,0,0,0,,¿Una gal atractiva\Ncon un otaku introvertido?
+Dialogue: 0,0:04:35.59,0:04:37.09,Gen_Italics,Librero,0,0,0,,Yo los apoyo, chicos.
+Dialogue: 0,0:04:38.22,0:04:41.14,Gen_Main,Amane,0,0,0,,Menos mal, me quedo tranquila.
+Dialogue: 0,0:04:41.22,0:04:43.64,Gen_Main,Amane,0,0,0,,Mi hermanita se moría por tenerlo.
+Dialogue: 0,0:04:43.72,0:04:47.77,Gen_Main,Seo,0,0,0,,Hablando de eso, ¿cómo es tu hermanita?
+Dialogue: 0,0:04:50.48,0:04:54.02,Gen_Main,Amane/Seo,0,0,0,,-¿No vas a decir nada?\N-¿Eh? No…
+Dialogue: 0,0:04:54.11,0:04:57.28,Gen_Main,Amane,0,0,0,,En realidad… Soy hija única.
+Dialogue: 0,0:04:59.40,0:05:00.78,Gen_Main,Seo,0,0,0,,¡Lo siento mucho!
+Dialogue: 0,0:05:00.86,0:05:02.78,Gen_Main,Amane,0,0,0,,¡Espera! ¡Aún no acabo!
+Dialogue: 0,0:05:02.87,0:05:06.53,Gen_Main,Amane,0,0,0,,Es solo mi vecina,\Npero es como mi hermanita.
+Dialogue: 0,0:05:06.62,0:05:11.04,Gen_Main,Amane,0,0,0,,Siempre viene a jugar conmigo\Ny me trata como si fuera su hermana.
+Dialogue: 0,0:05:11.12,0:05:14.12,Gen_Main,Seo,0,0,0,,Menos mal. Pensé que\Nhabía pasado algún accidente
+Dialogue: 0,0:05:14.21,0:05:17.05,Gen_Main,Seo,0,0,0,,o que tenías una hermana imaginaria.
+Dialogue: 0,0:05:17.17,0:05:19.55,Gen_Main,Amane,0,0,0,,¿Cómo que una hermana imaginaria?
+Dialogue: 0,0:05:19.76,0:05:22.84,Gen_Main,Amane,0,0,0,,Es una molestia explicarlo a cada rato.
+Dialogue: 0,0:05:22.93,0:05:25.05,Gen_Main,Amane,0,0,0,,La llamo "hermanita" y listo.
+Dialogue: 0,0:05:25.14,0:05:28.10,Gen_Main,Seo,0,0,0,,Pero ya que existe,\Nme encantaría conocerla.
+Dialogue: 0,0:05:28.89,0:05:31.56,Gen_Main,Seo,0,0,0,,Es parte del público objetivo\Nde Brillimon.
+Dialogue: 0,0:05:31.64,0:05:35.52,Gen_Main,Seo,0,0,0,,Nunca hablé con algún niño\Nal que le guste la serie.
+Dialogue: 0,0:05:36.27,0:05:38.32,Gen_Main,Amane,0,0,0,,¿Acaso quieres venir a mi casa?
+Dialogue: 0,0:05:38.40,0:05:40.52,Gen_Main,Seo,0,0,0,,¡No quería decir eso!
+Dialogue: 0,0:05:40.61,0:05:45.32,Gen_Main,Seo,0,0,0,,Lo siento. Me emociono mucho\Ncon todo si Brillimon tiene que ver.
+Dialogue: 0,0:05:45.41,0:05:50.33,Gen_Main,Seo,0,0,0,,Me dejé llevar y no pensé\Nque podría interpretarse así.
+Dialogue: 0,0:05:50.41,0:05:51.89,Gen_Main,Ijichi,0,0,0,,¡Holis!
+Dialogue: 0,0:05:52.21,0:05:54.50,Gen_Main,Ijichi,0,0,0,,¡Ya volví!
+Dialogue: 0,0:05:55.54,0:05:58.05,Gen_Main,Ijichi,0,0,0,,Ahora es mi turno.
+Dialogue: 0,0:05:58.13,0:06:02.05,Gen_Main,Seo,0,0,0,,Ijichi, ¿por qué vinimos al parque?
+Dialogue: 0,0:06:02.13,0:06:04.80,Gen_Main,Ijichi,0,0,0,,No podemos ver una peli en una hora,
+Dialogue: 0,0:06:05.01,0:06:07.81,Gen_Main,Ijichi,0,0,0,,así que voy a mostrarte algo divertido.
+Dialogue: 0,0:06:10.72,0:06:12.93,Gen_Main,Seo,0,0,0,,¡Así parezco un monstruo hocicudo!
+Dialogue: 0,0:06:13.02,0:06:16.69,Gen_Main,Ijichi,0,0,0,,Pensaba que podría tomarte\Nalgunas fotos vergonzosas.
+Dialogue: 0,0:06:16.77,0:06:19.69,Gen_Main,Ijichi,0,0,0,,Para devolverte lo del otro día.
+Dialogue: 0,0:06:19.78,0:06:21.69,Gen_Main,Seo,0,0,0,,Así se puede malinterpretar.
+Dialogue: 0,0:06:31.29,0:06:33.58,Gen_Main,Seo,0,0,0,,Déjame tomarte algunas, Ijichi.
+Dialogue: 0,0:06:33.66,0:06:37.58,Gen_Main,Ijichi,0,0,0,,¡Ni hablar! Hoy te fotografiaremos a ti.
+Dialogue: 0,0:06:38.71,0:06:40.34,Gen_Main,Ijichi,0,0,0,,Ah, pero…
+Dialogue: 0,0:06:42.67,0:06:44.17,Gen_Main,Seo,0,0,0,,¿Qué vamos a hacer?
+Dialogue: 0,0:06:44.26,0:06:47.09,Gen_Main,Ijichi,0,0,0,,Espera un segundo.
+Dialogue: 0,0:06:47.18,0:06:48.85,Gen_Main,Seo,0,0,0,,Eso es…
+Dialogue: 0,0:06:49.26,0:06:50.76,Gen_Main,Seo,0,0,0,,¡¿Un baile?!
+Dialogue: 0,0:06:51.35,0:06:53.60,Gen_Main,Seo,0,0,0,,Pero yo no sé bailar.
+Dialogue: 0,0:06:53.68,0:06:55.69,Gen_Main,Ijichi,0,0,0,,Solo mira y cópiame.
+Dialogue: 0,0:06:55.81,0:06:58.73,Gen_Main,Ijichi/Seo,0,0,0,,-Listo. En tres segundos.\N-¡¿Qué?! ¡Alto!
+Dialogue: 0,0:07:15.79,0:07:18.25,Gen_Main,Ijichi,0,0,0,,¡Pero qué movimientos!\NY esa cara es…
+Dialogue: 0,0:07:18.33,0:07:22.00,Gen_Main,Seo,0,0,0,,Ah, una mancha más en mi historial…
+Dialogue: 0,0:07:22.09,0:07:24.01,Gen_Main,Seo,0,0,0,,No lo subas, por favor.
+Dialogue: 0,0:07:24.63,0:07:27.76,Gen_Main,Seo,0,0,0,,Por cierto, ¿qué clase de baile era ese?
+Dialogue: 0,0:07:29.26,0:07:32.76,Cart_A_Tre,CARTEL,0,0,0,,{\c&H97948F&\bord0\pos(310.66,90.67)\fay0.03\fax-0.01\frz348.3}Privado
+Dialogue: 0,0:07:29.26,0:07:32.76,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fay0.03\fax-0.01\c&HEEC16D&\4c&HC28859&\shad2\frx356\fry6\frz345.5\pos(246.66,213.33)}#BaileDeParejas
+Dialogue: 7,0:07:29.51,0:07:31.55,Gen_Main,Ijichi,0,0,0,,Vaya una a saber.
+Dialogue: 0,0:07:33.31,0:07:35.52,Gen_Main,Ijichi,0,0,0,,Amane dice que llegará pronto.
+Dialogue: 0,0:07:35.60,0:07:38.15,Gen_Main,Seo,0,0,0,,Bien. Entonces, hasta que llegue…
+Dialogue: 0,0:07:38.23,0:07:41.44,Gen_Main,Seo,0,0,0,,¡Son los protectores de cables\Nde Brillimon!
+Dialogue: 0,0:07:41.02,0:07:47.28,Cart_A_Tre,CARTEL,0,0,0,,{\c&HBA5DEF&\3c&H6B2D88&\fs12\4c&HFFFFFF&\shad1\pos(396,17.34)}Protectores de cable\N{\c&HC879DE&\3c&HAA431F&\4c&H86F5FD&1\bord0.5\fs18}BRILLI{\c&HEEC567&}MON
+Dialogue: 0,0:07:41.02,0:07:47.28,Cart_A_Tre,CARTEL,0,0,0,,{\c&H2E12DA&\3c&HFFFFFF&\fs10\pos(400.01,46.66)}5 variantes, 200 yenes
+Dialogue: 0,0:07:41.52,0:07:44.77,Gen_Main,Seo,0,0,0,,¡Son de muy buena calidad\Npara solo costar 200 yenes!
+Dialogue: 0,0:07:44.86,0:07:47.28,Gen_Main,Ijichi,0,0,0,,Sí que te encanta Brillimon, ¿eh?
+Dialogue: 0,0:07:47.40,0:07:49.28,Gen_Main,Ijichi,0,0,0,,¿Qué más te gusta?
+Dialogue: 0,0:07:49.36,0:07:52.53,Gen_Main,Seo,0,0,0,,El año pasado salió el tonto\Ny adorable "Devalu-Idol del Amor".
+Dialogue: 0,0:07:52.62,0:07:54.62,Gen_Main,Seo,0,0,0,,Como sospechas por el título del anime…
+Dialogue: 0,0:07:54.75,0:07:57.54,Gen_Main,Ijichi,0,0,0,,Eso también está bien,
+Dialogue: 0,0:07:57.71,0:08:00.04,Gen_Main,Ijichi,0,0,0,,pero ¿qué hay de, no sé, chicas?
+Dialogue: 0,0:08:01.67,0:08:05.92,Gen_Main,Seo,0,0,0,,No puedo imaginarme enamorado,\Nno estoy hecho para eso.
+Dialogue: 0,0:08:06.01,0:08:10.55,Gen_Main,Ijichi,0,0,0,,La verdad, a mí tampoco\Nme interesaban mucho esas cosas.
+Dialogue: 0,0:08:10.80,0:08:15.77,Gen_Main,Ijichi,0,0,0,,Siempre preferí pasar mi tiempo\Ncon mi familia o mis amigos.
+Dialogue: 0,0:08:16.23,0:08:20.56,Gen_Main,Ijichi,0,0,0,,Pero creo que tú despertaste\Nun poquito mi curiosidad.
+Dialogue: 0,0:08:20.73,0:08:22.89,Gen_Main,Seo,0,0,0,,Creo que no te escuché.
+Dialogue: 0,0:08:22.98,0:08:24.94,Gen_Main,Ijichi,0,0,0,,Ahí está Amane.
+Dialogue: 0,0:08:25.03,0:08:26.19,Gen_Main,Ijichi,0,0,0,,¡Oye!
+Dialogue: 0,0:08:26.28,0:08:28.11,Gen_Main,Ijichi,0,0,0,,¡Por aquí!
+Dialogue: 0,0:08:30.82,0:08:31.99,Gen_Main,Seo,0,0,0,,Otagal.
+Dialogue: 0,0:08:32.78,0:08:36.33,Gen_Main,Ijichi,0,0,0,,El nuevo Brillimon de la semana pasada…
+Dialogue: 0,0:08:36.41,0:08:38.58,Gen_Main,Seo/Amane,0,0,0,,¡Es Solterón Jack!
+Dialogue: 0,0:08:38.58,0:08:48.72,Cart_A_Tre,CARTEL,0,0,0,,{\c&H2E94F1&\3c&HFFFFFF&\4c&H0D0279&\bord2.5\shad0\fs30\pos(511.33,256.67)}Solterón Jack
+Dialogue: 1,0:08:38.58,0:08:48.72,Cart_A_Tre,CARTEL,0,0,0,,{\c&H2E94F1&\3c&H0D0279&\4c&H0D0279&\bord1\shad1\fs30\pos(511.33,256.67)}Solterón Jack
+Dialogue: 0,0:08:38.66,0:08:40.00,Gen_Main_Up,SolterónJack,0,0,0,,¡Rayi-Rayi Rayo!
+Dialogue: 7,0:08:39.62,0:08:42.54,Gen_Main,Seo,0,0,0,,Es el séptimo Brillimon\Nde tipo mecánico.
+Dialogue: 7,0:08:42.63,0:08:46.30,Gen_Main,Amane,0,0,0,,¡Y su seiyu es Daichi Taian,\Nfamoso por doblar películas!
+Dialogue: 7,0:08:46.38,0:08:48.72,Gen_Main,Ijichi,0,0,0,,Sí que saben de lo que hablan.
+Dialogue: 0,0:08:48.80,0:08:51.01,Gen_Main,Seo,0,0,0,,Mi memoria es bastante buena.
+Dialogue: 0,0:08:51.09,0:08:52.93,Gen_Main,Amane,0,0,0,,Siempre investigo si me interesa.
+Dialogue: 0,0:08:53.01,0:08:56.68,Gen_Main,Ijichi,0,0,0,,¡Seguro les irá bien en los parciales\Nde la semana que viene!
+Dialogue: 0,0:08:57.77,0:08:59.68,Gen_Main,Seo,0,0,0,,Los exámenes son una mierda…
+Dialogue: 0,0:08:59.77,0:09:01.81,Gen_Main,Ijichi,0,0,0,,¡Pero si se les veía muy confiados!
+Dialogue: 0,0:09:01.98,0:09:05.40,Gen_Main,Seo,0,0,0,,¿Cómo te fue en los exámenes\Nde nivelación de abril?
+Dialogue: 0,0:09:05.73,0:09:06.82,Gen_Main,Amane,0,0,0,,¿Y a ti?
+Dialogue: 0,0:09:07.19,0:09:10.57,Gen_Main,Seo,0,0,0,,Sumando las cinco materias,\Npoco más de 300 puntos.
+Dialogue: 0,0:09:12.66,0:09:14.45,Gen_Main,Amane,0,0,0,,¡¿Tú cuánto, Ijichi?!
+Dialogue: 0,0:09:14.53,0:09:18.20,Gen_Main,Ijichi/Seo,0,0,0,,-Yo creo que saqué 423 puntos.\N-¡¿Cua…?
+Dialogue: 0,0:09:20.41,0:09:22.96,Gen_Main,Seo,0,0,0,,Nunca sé qué esperar con ustedes.
+Dialogue: 0,0:09:23.08,0:09:25.92,Gen_Main,Amane,0,0,0,,Lo dices por mí en un mal sentido, ¿no?
+Dialogue: 0,0:09:27.09,0:09:29.46,Gen_Italics,Seo,0,0,0,,Parece que hay gals de todo tipo.
+Dialogue: 0,0:09:29.97,0:09:32.22,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HE5C498&\fnImpact\pos(318,282)}5 días antes de los parciales
+Dialogue: 0,0:09:30.84,0:09:33.55,Gen_Italics_top,Seo,0,0,0,,Ijichi no pudo ignorar vernos sufrir,
+Dialogue: 0,0:09:33.64,0:09:35.84,Gen_Italics,Seo,0,0,0,,así que nos ayudó a estudiar.
+Dialogue: 0,0:09:41.52,0:09:44.48,Gen_Italics,Seo,0,0,0,,¡Concéntrate! ¡Debes concentrarte!
+Dialogue: 0,0:09:44.56,0:09:46.73,Gen_Main,Seo,0,0,0,,Creo que no entiendo este.
+Dialogue: 0,0:09:47.07,0:09:50.49,Gen_Main,Ijichi/Seo,0,0,0,,-¿No es pretérito pluscuamperfecto?\N-Ah, tiene sentido.
+Dialogue: 0,0:09:51.24,0:09:55.24,Gen_Main,Seo,0,0,0,,¿Cómo eres tan buena estudiante, Ijichi?
+Dialogue: 0,0:09:55.32,0:10:00.00,Gen_Main,Ijichi,0,0,0,,Solo tienes que prestar atención\Ny luego repasar un poquito.
+Dialogue: 0,0:10:00.70,0:10:03.12,Gen_Italics,Seo,0,0,0,,¡La obviedad me lastima!
+Dialogue: 0,0:10:04.12,0:10:07.13,Gen_Main,Ijichi,0,0,0,,Perdonen, ya tengo que irme a casa.
+Dialogue: 0,0:10:07.21,0:10:10.13,Gen_Main,Ijichi,0,0,0,,No está mi madre,\Nasí que me toca cocinar.
+Dialogue: 0,0:10:10.21,0:10:14.13,Gen_Main,Amane,0,0,0,,Ah, mis padres tampoco estarán en casa.
+Dialogue: 0,0:10:14.22,0:10:17.30,Gen_Main,Ijichi,0,0,0,,Más les vale\Nque sigan estudiando sin mí.
+Dialogue: 0,0:10:17.39,0:10:21.10,Gen_Main,Ijichi,0,0,0,,No se distraigan y empiecen a hablar\Nde cosas de Brillimon, ¿sí?
+Dialogue: 0,0:10:21.18,0:10:23.35,Gen_Main,Amane,0,0,0,,Por favor, no haríamos eso.
+Dialogue: 0,0:10:23.44,0:10:27.11,Gen_Main,Seo,0,0,0,,Claro que no.\NEstos parciales son muy importantes.
+Dialogue: 0,0:10:27.19,0:10:29.90,Gen_Main,Seo,0,0,0,,¿Ves? ¡La cola se curva para arriba!
+Dialogue: 0,0:10:29.98,0:10:31.61,Gen_Main,Amane,0,0,0,,¡Tienes razón!
+Dialogue: 0,0:10:31.69,0:10:33.48,Gen_Main,Seo,0,0,0,,Y fíjate el largo del cuello.
+Dialogue: 0,0:10:33.57,0:10:35.49,Gen_Main,Amane,0,0,0,,¡Maldita sea, es cierto!
+Dialogue: 0,0:10:35.66,0:10:39.12,Gen_Main,Amane/Seo,0,0,0,,-¡Hagamos uno más! Solo uno.\N-No esperaba menos.
+Dialogue: 0,0:10:39.20,0:10:42.33,Gen_Main,Amane/Seo,0,0,0,,-¡No voy a perder esta vez!\N-¡Y yo tampoco!
+Dialogue: 0,0:10:44.75,0:10:47.13,Gen_Main,Amane,0,0,0,,Vaya, qué bien la pasé.
+Dialogue: 0,0:10:47.38,0:10:50.21,Gen_Main,Amane,0,0,0,,Esa guerra de dibujos fue muy intensa.
+Dialogue: 0,0:10:50.30,0:10:51.84,Gen_Main,Seo,0,0,0,,Me divertí muchísimo.
+Dialogue: 0,0:10:51.92,0:10:56.05,Gen_Main,Amane,0,0,0,,Solo me falta mejorar un poco\Npara poder darte vuelta la partida.
+Dialogue: 0,0:10:56.13,0:10:57.80,Gen_Main,Seo,0,0,0,,Eres una mala perdedora.
+Dialogue: 0,0:10:59.72,0:11:01.76,Gen_Main,Seo,0,0,0,,¡Lo siento mucho!
+Dialogue: 0,0:11:01.85,0:11:05.77,Gen_Main,Amane,0,0,0,,¡Tranquilo! ¡No significa nada! Nada…
+Dialogue: 0,0:11:14.95,0:11:17.99,Gen_Main,Amane,0,0,0,,Ya llegamos, aquí vivo yo.
+Dialogue: 0,0:11:18.07,0:11:21.37,Gen_Main,Seo,0,0,0,,¿En serio? ¡Me alegro!\N¡Nos vemos mañana en la escuela!
+Dialogue: 0,0:11:21.83,0:11:22.87,Gen_Main,Amane,0,0,0,,Espera.
+Dialogue: 0,0:11:23.04,0:11:25.83,Gen_Main,Amane,0,0,0,,¿Quieres pasar a mi casa?
+Dialogue: 0,0:11:27.37,0:11:29.13,Gen_Main,Seo,0,0,0,,Con permiso…
+Dialogue: 0,0:11:29.21,0:11:32.25,Gen_Main,Amane,0,0,0,,-Mi habitación está arriba.\N-¡Bien!
+Dialogue: 0,0:11:34.72,0:11:36.76,Gen_Main,Seo,0,0,0,,¿Qué dijiste?
+Dialogue: 0,0:11:36.84,0:11:38.64,Gen_Main,Amane,0,0,0,,Te dije si querías…
+Dialogue: 0,0:11:38.76,0:11:42.51,Gen_Main,Amane,0,0,0,,¡No! ¡Pasar a terminar\Nla guerra de dibujos!
+Dialogue: 0,0:11:44.64,0:11:45.85,Gen_Italics,Seo,0,0,0,,Y además…
+Dialogue: 0,0:11:46.31,0:11:49.15,Gen_Main,Amane,0,0,0,,Mis padres tampoco estarán en casa.
+Dialogue: 0,0:11:53.73,0:11:56.40,Gen_Italics,Seo,0,0,0,,¡El cuarto de una chica!
+Dialogue: 0,0:11:56.49,0:11:58.41,Gen_Main,Amane,0,0,0,,Deja de mirar tanto.
+Dialogue: 0,0:11:58.49,0:12:02.41,Gen_Main,Seo,0,0,0,,¡Lo siento! Es que nunca había estado\Nen el cuarto de una chica.
+Dialogue: 0,0:12:02.49,0:12:07.16,Gen_Main,Amane,0,0,0,,Y yo nunca había dejado\Nque un chico entrara aquí.
+Dialogue: 0,0:12:09.00,0:12:12.92,Gen_Main,Seo,0,0,0,,¡Cierto! ¡Tengo muchas ganas\Nde ver tu colección de Brillimon!
+Dialogue: 0,0:12:13.00,0:12:15.17,Gen_Main,Amane,0,0,0,,Claro, sí…
+Dialogue: 0,0:12:15.51,0:12:16.59,Gen_Main,Amane,0,0,0,,¡Tarán!
+Dialogue: 0,0:12:16.88,0:12:18.68,Gen_Main,Seo,0,0,0,,¡Es el acrílico de Lunita!
+Dialogue: 0,0:12:18.76,0:12:22.43,Gen_Main,Seo,0,0,0,,¡Si es superraro! ¡Solo se conseguía\Nganando un sorteo de una revista!
+Dialogue: 0,0:12:22.51,0:12:25.18,Gen_Main,Amane,0,0,0,,Trabajé con mi hermanita\Npara conseguir uno.
+Dialogue: 0,0:12:25.27,0:12:27.68,Gen_Main,Seo,0,0,0,,¿La chica que mencionaste?
+Dialogue: 0,0:12:27.77,0:12:28.93,Gen_Main,Amane,0,0,0,,Exactamente.
+Dialogue: 0,0:12:29.02,0:12:32.27,Gen_Main,Amane,0,0,0,,Siempre me ruega\Npara hablar conmigo de Brillimon.
+Dialogue: 0,0:12:32.36,0:12:33.57,Gen_Main,Sayu,0,0,0,,Mentirosa.
+Dialogue: 0,0:12:33.82,0:12:37.94,Gen_Main,Sayu,0,0,0,,Soy yo la que tiene que aguantar\Ntu amor por Brillimon, Kei.
+Dialogue: 0,0:12:38.03,0:12:41.20,Gen_Main,Sayu,0,0,0,,No te dejes engañar, noviecito.
+Dialogue: 0,0:12:41.28,0:12:45.33,Gen_Main,Amane,0,0,0,,¡Sayu! ¿Qué fue…? ¿Cuándo…?\N¡¿Le dijiste "noviecito"?!
+Dialogue: 0,0:12:46.41,0:12:48.75,Gen_Main,Amane,0,0,0,,Perdón, te la presento.
+Dialogue: 0,0:12:48.83,0:12:52.33,Gen_Main,Amane,0,0,0,,Ella es mi hermanita honoraria.\NMi vecina, Sayu Amamiya.
+Dialogue: 0,0:12:52.63,0:12:55.21,Gen_Main,Sayu,0,0,0,,Escuela Primaria del Este. Clase 3-4.
+Dialogue: 0,0:12:55.30,0:12:58.09,Gen_Main,Sayu,0,0,0,,Nuestras familias son muy cercanas.
+Dialogue: 0,0:12:58.17,0:13:02.59,Gen_Main,Sayu,0,0,0,,Como sus padres tienen que trabajar,\Nhoy vine a preparar la cena.
+Dialogue: 0,0:13:02.68,0:13:06.35,Gen_Main,Sayu,0,0,0,,Si no vengo a ayudarla,\Nquerrá sobrevivir solo con agua.
+Dialogue: 0,0:13:02.68,0:13:05.22,Gen_Main_Up,Amane,0,0,0,,Qué flojera cocinar…
+Dialogue: 0,0:13:06.77,0:13:10.73,Gen_Main,Seo,0,0,0,,Disculpa. ¿A ti también\Nte encanta Brillimon, Sayu?
+Dialogue: 0,0:13:13.31,0:13:16.27,Gen_Main,Sayu,0,0,0,,No. Dejó de interesarme en primer grado.
+Dialogue: 0,0:13:16.36,0:13:17.98,Gen_Italics,Seo,0,0,0,,¡Eso es muy pronto!
+Dialogue: 0,0:13:18.32,0:13:22.24,Gen_Main,Sayu,0,0,0,,Sin embargo, es cierto que fui yo\Nla que la metió en Brillimon.
+Dialogue: 0,0:13:22.24,0:13:24.74,Cart_A_Tre,CARTEL,0,0,0,,{\c&H331471&\3c&HD7CDE5&\fs12\pos(160,247.34)}2.º de Secundaria
+Dialogue: 0,0:13:22.24,0:13:24.74,Cart_A_Tre,CARTEL,0,0,0,,{\c&H6F8F53&\3c&HD8F2C7&\fs12\pos(464.66,260)}1.º de Primaria
+Dialogue: 0,0:13:22.32,0:13:24.74,Gen_Main_Up,Amane,0,0,0,,¿Qué es esto? ¿"Brillimon"?
+Dialogue: 0,0:13:24.74,0:13:30.00,Cart_A_Tre,CARTEL,0,0,0,,{\c&H6F8F53&\3c&HD8F2C7&\fs18\pos(62.66,290.67)}2.º de Primaria
+Dialogue: 0,0:13:24.74,0:13:30.00,Cart_A_Tre,CARTEL,0,0,0,,{\c&H331471&\3c&HD7CDE5&\fs18\pos(482,257.33)}3.º de Secundaria
+Dialogue: 7,0:13:24.83,0:13:30.00,Gen_Main,Sayu,0,0,0,,Aunque yo ya había perdido el interés,\Nella siguió obsesionada con Brillimon.
+Dialogue: 0,0:13:24.83,0:13:30.00,Gen_Main_Up,Amane,0,0,0,,¡Tú puedes, amo Vamp! ¡Eres el mejor!
+Dialogue: 0,0:13:30.08,0:13:33.25,Gen_Main,Sayu,0,0,0,,Y todavía sigue igual,\Naunque ya va a la preparatoria.
+Dialogue: 0,0:13:33.33,0:13:34.63,Gen_Main,Sayu,0,0,0,,No sé qué pensar.
+Dialogue: 0,0:13:34.71,0:13:35.88,Gen_Italics,Seo,0,0,0,,¡Una bala perdida!
+Dialogue: 0,0:13:37.00,0:13:40.63,Gen_Main,Seo,0,0,0,,¿Qué es lo que te gusta ahora?
+Dialogue: 0,0:13:40.72,0:13:42.88,Gen_Main,Sayu/Seo,0,0,0,,-¡El shogi!\N-{\i1}¡Qué intensa!{\i0}
+Dialogue: 0,0:13:42.97,0:13:45.22,Gen_Main,Sayu,0,0,0,,¿Y bien? Cuéntame de tu noviecito.
+Dialogue: 0,0:13:45.30,0:13:47.39,Gen_Main,Amane,0,0,0,,¡Él no es mi novio!
+Dialogue: 0,0:13:47.47,0:13:49.27,Gen_Main,Seo,0,0,0,,Mucho gusto.
+Dialogue: 0,0:13:49.35,0:13:52.02,Gen_Main,Seo,0,0,0,,Soy Takuya Seo, su compañero.
+Dialogue: 0,0:13:52.10,0:13:55.23,Gen_Main,Seo,0,0,0,,Amane siempre me llama "Otaku".
+Dialogue: 0,0:13:55.69,0:13:58.61,Gen_Main,Sayu,0,0,0,,Ya veo, eres su candidato a novio.
+Dialogue: 0,0:13:58.69,0:13:59.73,Gen_Main,Amane,0,0,0,,¡No lo es!
+Dialogue: 0,0:13:59.86,0:14:02.53,Gen_Main,Sayu,0,0,0,,¿Entonces odias a Otaku?
+Dialogue: 0,0:14:02.61,0:14:08.49,Gen_Main,Amane,0,0,0,,Yo no diría que lo odio,\Npero no por eso tiene que gustarme.
+Dialogue: 0,0:14:08.58,0:14:10.83,Gen_Main,Amane,0,0,0,,¡Solo tengo ojos para mi Vamp!
+Dialogue: 0,0:14:10.91,0:14:13.50,Gen_Main,Amane,0,0,0,,No me interesa ningún hombre 3D.
+Dialogue: 0,0:14:13.58,0:14:14.75,Gen_Italics,Seo,0,0,0,,Qué rápido cambió.
+Dialogue: 0,0:14:15.38,0:14:18.59,Gen_Main,Sayu,0,0,0,,Piénsalo con calma, Otaku.
+Dialogue: 0,0:14:19.09,0:14:22.59,Gen_Main,Sayu,0,0,0,,Ella nunca invitaría a un chico\Nsi no estuviera interesada.
+Dialogue: 0,0:14:22.67,0:14:24.63,Gen_Main,Amane,0,0,0,,¡Basta, ya hablaste demasiado!
+Dialogue: 0,0:14:24.72,0:14:27.68,Gen_Main,Amane,0,0,0,,¿Vas a preparar la cena?\NIré a ayudarte, muévete ya.
+Dialogue: 0,0:14:27.76,0:14:29.47,Gen_Main,Sayu,0,0,0,,No puedes venir conmigo, Kei.
+Dialogue: 0,0:14:29.56,0:14:32.14,Gen_Main,Sayu,0,0,0,,Tienes que atender a tu invitado.
+Dialogue: 0,0:14:34.69,0:14:36.73,Gen_Main,Amane,0,0,0,,Lamento todo el escándalo.
+Dialogue: 0,0:14:36.81,0:14:39.02,Gen_Main,Amane,0,0,0,,Sigue siendo tan solo una niña.
+Dialogue: 0,0:14:39.82,0:14:41.57,Gen_Main,Amane,0,0,0,,¡Espera, Sayu!
+Dialogue: 0,0:14:41.65,0:14:44.11,Gen_Main,Amane,0,0,0,,¡No vayas a ponerle brócoli a la cena!
+Dialogue: 0,0:14:46.45,0:14:48.87,Gen_Main,Amane,0,0,0,,Bien, vamos a lo nuestro.
+Dialogue: 0,0:14:48.95,0:14:51.87,Gen_Main,Amane,0,0,0,,La última ronda\Nde nuestra guerra de dibujos.
+Dialogue: 0,0:14:52.12,0:14:54.62,Gen_Main,Amane,0,0,0,,No voy a perder jugando de local.
+Dialogue: 0,0:14:54.71,0:14:56.88,Gen_Italics,Seo,0,0,0,,¿Qué tenía que ver?
+Dialogue: 0,0:14:57.63,0:14:59.50,Gen_Main,Amane,0,0,0,,Si yo pierdo…
+Dialogue: 0,0:15:00.71,0:15:02.76,Gen_Main,Amane,0,0,0,,Haré lo que tú digas.
+Dialogue: 0,0:15:04.59,0:15:05.68,Gen_Main,Amane,0,0,0,,Pervertido.
+Dialogue: 0,0:15:06.59,0:15:08.09,Gen_Main,Seo,0,0,0,,Te escuché perfectamente.
+Dialogue: 0,0:15:08.18,0:15:11.93,Gen_Main,Seo,0,0,0,,Le dijiste a un adolescente\Nque harías lo que dijera.
+Dialogue: 0,0:15:12.02,0:15:13.27,Gen_Main,Seo,0,0,0,,En ese caso…
+Dialogue: 0,0:15:15.19,0:15:18.48,Gen_Main,Seo,0,0,0,,¡Cuando te gané, me quedaré\Ncon tu acrílico exclusivo de Lunita!
+Dialogue: 0,0:15:18.56,0:15:21.02,Gen_Main,Amane,0,0,0,,¡Así que esa es tu jugada!
+Dialogue: 0,0:15:21.02,0:15:24.77,Cart_A_Tre,CARTEL,0,0,0,,{\c&H0CACEA&\3c&H0B165F&\fncomic sans ms\fs25\fay0.12\fax-0.1\frz53.43\pos(338,95.34)}Algo sucio…
+Dialogue: 0,0:15:21.02,0:15:24.77,Cart_A_Tre,CARTEL,0,0,0,,{\c&H0CACEA&\3c&H0B165F&\fncomic sans ms\fs25\fay0.05\frz316.2\pos(569.34,106.67)}Acrílico…
+Dialogue: 7,0:15:22.86,0:15:24.78,Gen_Main,Amane,0,0,0,,Si la alternativa es perderlo…
+Dialogue: 0,0:15:24.86,0:15:27.32,Gen_Main,Amane,0,0,0,,¿Qué tan sucio sería lo que harías?
+Dialogue: 0,0:15:27.41,0:15:30.53,Gen_Main,Seo,0,0,0,,No compares el acrílico\Ncon hacer algo sucio, por favor.
+Dialogue: 0,0:15:30.62,0:15:35.54,Gen_Main,Seo,0,0,0,,A cambio, si tú me derrotas,\Nte daré mi figura de Don Tierra.
+Dialogue: 0,0:15:35.62,0:15:36.79,Gen_Main,Amane,0,0,0,,Así se habla.
+Dialogue: 0,0:15:36.87,0:15:38.17,Gen_Main,Amane,0,0,0,,¡Acepto la apuesta!
+Dialogue: 0,0:15:38.88,0:15:41.25,Gen_Main,Amane/Seo,0,0,0,,¡Vamos allá!
+Dialogue: 0,0:15:42.29,0:15:44.71,Cart_A_Tre,CARTEL,0,0,0,,{\c&H595A59&\bord0\fncomic sans ms\fs22\b0\frz18.48\move(375.33,290.67,217.33,291.34)}Seo
+Dialogue: 0,0:15:42.29,0:15:44.71,Cart_A_Tre,CARTEL,0,0,0,,{\c&H595A59&\bord0\fncomic sans ms\fs22\b0\move(510,46.67,352,47.34)\frz13.87}Amane
+Dialogue: 7,0:15:43.34,0:15:44.71,Gen_Main,Seo,0,0,0,,Bueno…
+Dialogue: 0,0:15:44.80,0:15:47.38,Gen_Main,Seo,0,0,0,,Parece que gané yo, ¿no?
+Dialogue: 0,0:15:48.47,0:15:52.22,Gen_Main,Amane,0,0,0,,¿No prefieres algo sucio?\NComo abrazarme por los hombros.
+Dialogue: 0,0:15:48.76,0:15:50.34,Cart_A_Tre,CARTEL,0,0,0,,{\c&H0CACEA&\3c&H0B165F&\4c&HFFFFFF&\bord1\shad2\fncomic sans ms\fs25\fad(104,100)\t(\fs+4\fsp3\bord2)\move(442,130.67,442,84.67,21,1439)}Algo sucio…
+Dialogue: 0,0:15:52.31,0:15:54.72,Gen_Main,Seo,0,0,0,,¡Claro que no! ¡Ya lo decidimos!
+Dialogue: 0,0:15:54.93,0:15:58.52,Gen_Main,Sayu,0,0,0,,Pensar que un abrazo por los hombros\Nes algo sucio es muy absurdo.
+Dialogue: 0,0:15:58.60,0:15:59.60,Gen_Main,Amane,0,0,0,,¡¿Sayu?!
+Dialogue: 0,0:15:59.69,0:16:04.15,Gen_Main,Sayu,0,0,0,,Y no deberían intentar cosas sucias\Ncon una niña de primaria en casa.
+Dialogue: 0,0:16:04.23,0:16:05.40,Gen_Main,Amane/Seo,0,0,0,,Tienes razón.
+Dialogue: 0,0:16:06.61,0:16:09.74,Gen_Main,Seo/Sayu,0,0,0,,-Gracias por invitarme.\N-Otaku, espera.
+Dialogue: 0,0:16:11.32,0:16:12.66,Gen_Main,Seo,0,0,0,,¿Sayu?
+Dialogue: 0,0:16:13.58,0:16:14.87,Gen_Main,Sayu,0,0,0,,Otaku…
+Dialogue: 0,0:16:16.08,0:16:19.42,Gen_Main,Sayu,0,0,0,,Por favor, cuida mucho a mi Kei.
+Dialogue: 0,0:16:19.75,0:16:24.13,Gen_Main,Sayu,0,0,0,,Intenta mostrase madura,\Npero por dentro es solo una niña.
+Dialogue: 0,0:16:24.21,0:16:27.47,Gen_Main,Sayu,0,0,0,,No tiene amigos a los que invitar.
+Dialogue: 0,0:16:27.67,0:16:31.18,Gen_Main,Sayu,0,0,0,,Pero hoy estaba divirtiéndose tanto
+Dialogue: 0,0:16:31.26,0:16:32.97,Gen_Main,Sayu,0,0,0,,que me hizo realmente feliz.
+Dialogue: 0,0:16:33.76,0:16:38.22,Gen_Main,Seo,0,0,0,,Se nota que de verdad\Naprecias mucho a Amane, Sayu.
+Dialogue: 0,0:16:39.02,0:16:41.94,Gen_Main,Seo,0,0,0,,Te agradezco por todo lo de hoy.
+Dialogue: 0,0:16:42.02,0:16:43.86,Gen_Main_Up,Amane,0,0,0,,¿De qué están hablando?
+Dialogue: 0,0:16:42.36,0:16:44.32,Gen_Main,Seo,0,0,0,,Ojalá podamos jugar de nuevo.
+Dialogue: 0,0:16:44.57,0:16:46.32,Gen_Main,Seo,0,0,0,,También me haría feliz.
+Dialogue: 0,0:16:48.78,0:16:50.70,Gen_Main,Seo,0,0,0,,Nos vemos en la escuela.
+Dialogue: 0,0:16:52.32,0:16:53.99,Gen_Main,Sayu,0,0,0,,Es una buena persona.
+Dialogue: 0,0:16:54.08,0:16:57.24,Gen_Main,Sayu,0,0,0,,Fue muy educado conmigo,\Naunque soy más joven.
+Dialogue: 0,0:16:57.37,0:17:00.41,Gen_Main,Amane,0,0,0,,Me gusta que siempre dé las gracias,
+Dialogue: 0,0:17:00.50,0:17:04.09,Gen_Main,Amane,0,0,0,,pero sigue siendo un otaku\Nque se deja llevar como un niño.
+Dialogue: 0,0:17:04.17,0:17:07.59,Gen_Main,Amane,0,0,0,,Aunque eso hace fácil hablar con él…
+Dialogue: 0,0:17:07.67,0:17:09.30,Gen_Main,Sayu,0,0,0,,Es amor. Ya lo sé.
+Dialogue: 0,0:17:09.38,0:17:11.59,Gen_Main,Amane,0,0,0,,¡Estás muy equivocada!
+Dialogue: 0,0:17:11.68,0:17:13.72,Gen_Main,Sayu,0,0,0,,¿Entonces lo odias?
+Dialogue: 0,0:17:13.80,0:17:16.85,Gen_Main,Amane,0,0,0,,¡No lo odio! Pero no por eso me gusta…
+Dialogue: 0,0:17:16.93,0:17:18.60,Gen_Main,Amane,0,0,0,,¡Ya hablamos de esto!
+Dialogue: 0,0:17:18.81,0:17:21.31,Gen_Main,Seo,0,0,0,,Un momento, siendo que olvidé algo…
+Dialogue: 0,0:17:21.44,0:17:22.85,Gen_Main,Ijichi,0,0,0,,¡Estudiar!
+Dialogue: 0,0:17:23.23,0:17:25.69,Gen_Italics,Seo,0,0,0,,Al fin empezaron los exámenes parciales.
+Dialogue: 0,0:17:27.19,0:17:29.49,Gen_Italics,Seo,0,0,0,,Al ver nuestros resultados,
+Dialogue: 0,0:17:29.74,0:17:33.11,Gen_Italics,Seo,0,0,0,,tuve un total de 291 puntos.
+Dialogue: 0,0:17:33.41,0:17:38.37,Gen_Italics,Seo,0,0,0,,Pude salvarme de reprobar\Ngracias a la ayuda de Ijichi.
+Dialogue: 0,0:17:38.45,0:17:41.12,Gen_Main,Seo,0,0,0,,Chicas, ¿a ustedes cómo les fue?
+Dialogue: 0,0:17:41.21,0:17:43.00,Gen_Main,Ijichi,0,0,0,,Solo conseguí 408 puntos.
+Dialogue: 0,0:17:43.08,0:17:45.38,Gen_Main,Ijichi,0,0,0,,Esta vez fue un poco más difícil.
+Dialogue: 0,0:17:45.46,0:17:47.71,Gen_Main,Amane,0,0,0,,Me fue mal en todo.
+Dialogue: 0,0:17:49.13,0:17:51.42,Gen_Main,Amane,0,0,0,,Sé que era imposible vencer a Ijichi,
+Dialogue: 0,0:17:51.51,0:17:54.34,Gen_Main,Amane,0,0,0,,pero al menos quería superarte, Otaku.
+Dialogue: 0,0:17:54.43,0:17:56.01,Gen_Main,Seo,0,0,0,,Yo también quería ganar…
+Dialogue: 0,0:17:56.10,0:17:58.56,Gen_Main,Amane,0,0,0,,¿Y cómo sacaste tantos puntos?
+Dialogue: 0,0:17:58.77,0:18:01.77,Gen_Main,Amane,0,0,0,,¡Holgazaneamos juntos, sucio traidor!
+Dialogue: 0,0:18:01.85,0:18:04.64,Gen_Main,Ijichi,0,0,0,,Pero miren qué unidos se volvieron.
+Dialogue: 0,0:18:04.77,0:18:07.02,Gen_Main,Ijichi,0,0,0,,¿Qué hacían cuando "holgazaneaban"?
+Dialogue: 0,0:18:07.11,0:18:09.40,Gen_Main,Amane,0,0,0,,Nada en especial.
+Dialogue: 0,0:18:09.48,0:18:11.78,Gen_Main,Amane,0,0,0,,Y tampoco creo que seamos tan unidos…
+Dialogue: 0,0:18:13.95,0:18:18.79,Gen_Main,Ijichi,0,0,0,,Otaku, ¿quieres tener\Nuna cita después de clases?
+Dialogue: 0,0:18:19.54,0:18:24.00,Gen_Main,Ijichi,0,0,0,,Podríamos ver una peli,\Nya que no pudimos la otra vez.
+Dialogue: 0,0:18:24.17,0:18:26.29,Gen_Main,Seo,0,0,0,,A mí me parece bien.
+Dialogue: 0,0:18:26.38,0:18:31.30,Gen_Italics,Seo,0,0,0,,¡¿Una de esas legendarias\Ncitas después de clases?!
+Dialogue: 0,0:18:31.46,0:18:32.71,Gen_Main,Amane,0,0,0,,¿Y yo qué?
+Dialogue: 0,0:18:32.80,0:18:34.47,Gen_Main,Ijichi,0,0,0,,¡Tú quédate estudiando!
+Dialogue: 0,0:18:35.09,0:18:38.56,Gen_Main,Ijichi,0,0,0,,Ya no está la que queríamos ver.
+Dialogue: 0,0:18:38.64,0:18:40.77,Gen_Main,Ijichi,0,0,0,,¿Quieres ver alguna, Otaku?
+Dialogue: 0,0:18:40.85,0:18:45.31,Gen_Italics,Seo,0,0,0,,A mí no me interesan.\NCreo que una  de romance sería ideal.
+Dialogue: 0,0:18:46.69,0:18:48.56,Cart_A_Tre,CARTEL,0,0,0,,{\c&HC98BB0&\3c&H4D434F&\4c&H3F28DB&\shad2\fad(600,0)\fs50}Zombis {\c&HF5F7F7&\3c&H553851&\fntimes new roman}VS {\c&HE4C758&\xshad-2\trebuchet}Tiburón
+Dialogue: 0,0:18:48.65,0:18:50.32,Gen_Italics,Seo,0,0,0,,¡Quiero ver esa!
+Dialogue: 0,0:18:50.40,0:18:53.44,Gen_Italics,Seo,0,0,0,,¡Pero no es la clase de película\Npara ver en una cita!
+Dialogue: 0,0:18:53.53,0:18:56.70,Gen_Main,Ijichi,0,0,0,,¿Quieres ver esa?\NEntonces, está decidido.
+Dialogue: 0,0:18:56.95,0:19:00.58,Gen_Main,Seo,0,0,0,,¿Estás segura? Sé que será\Nuna auténtica basura.
+Dialogue: 0,0:19:00.66,0:19:02.95,Gen_Main,Ijichi,0,0,0,,Pero quieres verla, ¿no?
+Dialogue: 0,0:19:03.04,0:19:04.29,Gen_Main,Ijichi,0,0,0,,A mí me parece bien.
+Dialogue: 0,0:19:04.37,0:19:06.96,Gen_Main,Ijichi,0,0,0,,Deberías ser honesto con tus gustos.
+Dialogue: 0,0:19:07.04,0:19:10.59,Gen_Main,Ijichi,0,0,0,,La próxima vez, veamos\Nuna que me interese a mí, ¿sí?
+Dialogue: 0,0:19:10.67,0:19:12.46,Gen_Main,Seo,0,0,0,,Ijichi…
+Dialogue: 0,0:19:12.55,0:19:16.47,Gen_Italics,Actor,0,0,0,,¡El tiburón comió demasiados zombis!\N¡Ya no le entra ni uno más!
+Dialogue: 0,0:19:16.55,0:19:18.38,Gen_Italics,Seo,0,0,0,,¡Es horrible!
+Dialogue: 0,0:19:18.47,0:19:21.22,Gen_Italics,Seo,0,0,0,,Ijichi, lo siento tanto…
+Dialogue: 0,0:19:21.31,0:19:22.97,Gen_Italics,Seo,0,0,0,,¡¿Está llorando?!
+Dialogue: 0,0:19:23.10,0:19:25.52,Gen_Italics,Seo,0,0,0,,¿Fue porque los protagonistas vivieron?
+Dialogue: 0,0:19:25.60,0:19:27.48,Gen_Italics,Seo,0,0,0,,¡Es tan buena persona!
+Dialogue: 0,0:19:27.48,0:19:29.48,Cart_A_Tre,CARTEL,0,0,0,,{\c&H200EC8&\3c&H49DEF6&\fs30\bord4\pos(166,2)}Clase de recuperación
+Dialogue: 1,0:19:27.48,0:19:29.48,Cart_A_Tre,CARTEL,0,0,0,,{\c&H200EC8&\3c&HFFFFFF&\fs30\pos(166,2)}Clase de recuperación
+Dialogue: 0,0:19:27.85,0:19:29.48,Gen_Main,Amane,0,0,0,,Otagal…
+Dialogue: 0,0:19:38.03,0:19:39.66,Gen_Italics,Arcade,0,0,0,,You win!
+Dialogue: 0,0:19:39.74,0:19:42.16,Gen_Main,Ijichi,0,0,0,,¡Viva, gané!
+Dialogue: 0,0:19:42.24,0:19:45.75,Gen_Italics,Seo,0,0,0,,¿Cómo pudo una gal\Nganarle a un otaku en los videojuegos?
+Dialogue: 0,0:19:46.16,0:19:49.08,Gen_Italics,Seo,0,0,0,,Algo… ¡Tengo que poder hacer algo!
+Dialogue: 0,0:19:49.54,0:19:54.38,Gen_Main,Ijichi,0,0,0,,Mis hermanos me obligan a jugar,\Nasí que soy bastante buena.
+Dialogue: 0,0:19:56.30,0:19:59.30,Cart_A_Tre,CARTEL,0,0,0,,{\c&HE89DF9&\3c&HFFFFFF&\bord3\fs30\frz13.11\pos(417.34,74)\frx14\fry334}ToneChoco
+Dialogue: 1,0:19:56.30,0:19:59.30,Cart_A_Tre,CARTEL,0,0,0,,{\c&HE89DF9&\3c&H36344C&\fs30\frz13.11\pos(417.34,74)\frx14\fry334}ToneChoco
+Dialogue: 0,0:19:56.38,0:19:59.30,Gen_Main,Ijichi,0,0,0,,¡Es ToneChoco! ¿Sabes?
+Dialogue: 0,0:19:59.39,0:20:01.97,Gen_Main,Ijichi,0,0,0,,Nunca pude conseguir el premio.
+Dialogue: 0,0:20:02.06,0:20:04.43,Gen_Main,Ijichi,0,0,0,,La garra es muy débil. Dudo que…
+Dialogue: 0,0:20:04.52,0:20:05.52,Gen_Main,Seo,0,0,0,,Lo tengo.
+Dialogue: 0,0:20:05.60,0:20:07.81,Gen_Main,Ijichi,0,0,0,,¡¿Cómo?! ¡Genial! ¡No puede ser!
+Dialogue: 0,0:20:08.06,0:20:10.94,Gen_Main,Ijichi/Seo,0,0,0,,-¡Quiero verlo!\N-Todo tuyo.
+Dialogue: 0,0:20:11.02,0:20:13.19,Gen_Main,Ijichi,0,0,0,,Sí que supiste manejar esa garra…
+Dialogue: 0,0:20:18.15,0:20:19.53,Gen_Main,Ijichi/Seo,0,0,0,,¡Ahora tengo dos!
+Dialogue: 0,0:20:19.57,0:20:21.95,Gen_Main,Ijichi/Seo,0,0,0,,-Gracias, Otaku.\N-No fue nada.
+Dialogue: 0,0:20:22.03,0:20:24.33,Gen_Italics,Seo,0,0,0,,Menos mal, tuve mi revancha.
+Dialogue: 0,0:20:24.41,0:20:25.45,Gen_Main,Ijichi,0,0,0,,Mira.
+Dialogue: 0,0:20:25.79,0:20:27.62,Gen_Main,Ijichi,0,0,0,,¡Usemos esta belleza!
+Dialogue: 0,0:20:27.83,0:20:29.46,Cart_A_Tre,CARTEL,0,0,0,,{\c&HFFFFFF&\3c&H9074EC&\blur2\fncomic sans ms\fs25\pos(113.33,74.67)}Kotoko
+Dialogue: 0,0:20:27.83,0:20:29.46,Cart_A_Tre,CARTEL,0,0,0,,{\c&HFFFFFF&\3c&H69F2A3&\blur2\fncomic sans ms\fs25\frz17.32\pos(519.34,160.66)}Otaku
+Dialogue: 0,0:20:27.83,0:20:29.46,Cart_A_Tre,CARTEL,0,0,0,,{\c&HFFFFFF&\3c&H4B406E&\b0\frx0\fry0\fs12\frz11.05\pos(600.67,194.66)}#Presente
+Dialogue: 0,0:20:29.54,0:20:32.34,Gen_Main,Seo,0,0,0,,Nunca había entrado\Na una cabina de fotos.
+Dialogue: 0,0:20:32.42,0:20:34.09,Gen_Main,Ijichi,0,0,0,,Aunque pareces acostumbrado.
+Dialogue: 0,0:20:34.17,0:20:36.84,Gen_Main,Ijichi,0,0,0,,Antes, te ponías rojo\Nsolo por tenerme cerca.
+Dialogue: 0,0:20:36.92,0:20:38.59,Gen_Main,Ijichi,0,0,0,,No me digas que tú y Amane…
+Dialogue: 0,0:20:38.68,0:20:39.88,Gen_Main,Seo,0,0,0,,¡Claro que no!
+Dialogue: 0,0:20:39.97,0:20:42.85,Gen_Main,Seo,0,0,0,,¡Solo me tomos fotos\Ny grabo vídeos contigo, Ijichi!
+Dialogue: 0,0:20:42.93,0:20:44.76,Gen_Main,Ijichi,0,0,0,,¿En serio?
+Dialogue: 0,0:20:46.18,0:20:49.48,Gen_Main,Seo,0,0,0,,Veo que hoy no te pintaste las uñas.
+Dialogue: 0,0:20:49.56,0:20:53.23,Gen_Main,Ijichi,0,0,0,,¡Es que no siempre\Nme levanto con tanto tiempo…!
+Dialogue: 0,0:20:53.36,0:20:56.73,Gen_Main,Ijichi/Seo,0,0,0,,-Eres muy observador.\N-A mí también me sorprendió.
+Dialogue: 0,0:20:58.11,0:21:00.99,Gen_Main,Seo,0,0,0,,Antes, no podía\Nni mirar a la gente a los ojos.
+Dialogue: 0,0:21:04.20,0:21:06.49,Gen_Main,Seo,0,0,0,,Sé que es gracias a ti, Ijichi.
+Dialogue: 0,0:21:13.04,0:21:14.67,Gen_Main,Seo,0,0,0,,Ijichi…
+Dialogue: 0,0:21:15.13,0:21:17.84,Gen_Main,Seo,0,0,0,,Te veo algo distante.
+Dialogue: 0,0:21:17.92,0:21:19.88,Gen_Main,Ijichi,0,0,0,,¡¿Eh?! Te lo estás imaginando…
+Dialogue: 0,0:21:20.30,0:21:23.76,Gen_Main,Seo,0,0,0,,Seguro que es porque me dejé llevar.
+Dialogue: 0,0:21:23.85,0:21:26.35,Gen_Main,Seo,0,0,0,,Debo haberte espantado\Ncuando te vi las uñas.
+Dialogue: 0,0:21:26.43,0:21:28.68,Gen_Main,Ijichi,0,0,0,,¡No es eso, Otaku!
+Dialogue: 0,0:21:28.77,0:21:30.48,Gen_Main,Ijichi,0,0,0,,Ya olvídalo.
+Dialogue: 0,0:21:30.56,0:21:31.73,Gen_Main,Ijichi,0,0,0,,Vamos a casa.
+Dialogue: 0,0:21:31.81,0:21:33.60,Gen_Main,Seo,0,0,0,,Está bien.
+Dialogue: 0,0:21:35.15,0:21:36.69,Gen_Italics,Ijichi,0,0,0,,La verdad…
+Dialogue: 0,0:23:06.53,0:23:09.03,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord1}Traducción: Facu Salas | Edición: Josefa González | Control de calidad: Jana Pardo
