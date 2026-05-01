@@ -1,0 +1,296 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.38,0:00:26.38,Gen_Italics,Serafina,0,0,0,,¿En dónde estoy?
+Dialogue: 0,0:00:27.72,0:00:30.75,Gen_Main,Serafina,0,0,0,,¡¿Son grilletes?!\N¿En las piernas también?
+Dialogue: 0,0:00:33.05,0:00:34.68,Gen_Main,Serafina,0,0,0,,Tengo hasta un collar…
+Dialogue: 0,0:00:37.89,0:00:40.45,Gen_Main,Serafina,0,0,0,,Ya veo. Parece…
+Dialogue: 0,0:00:41.60,0:00:43.61,Gen_Main,Serafina,0,0,0,,que me hicieron prisionera.
+Dialogue: 0,0:00:45.19,0:00:47.44,Gen_Main,Serafina,0,0,0,,Derrotada por simples bárbaros…
+Dialogue: 0,0:01:00.05,0:01:06.48,Cart_A_Tre,CARTEL,0,0,0,,{\fad(1600,350)\fnTimes New Roman\c&H3E438A&\3c&HFFFFFF&\fs24\b0\pos(177.07,29.33)}1342, año del dragón\NOriente continental\N\NTerritorio de los bárbaros{\b1}
+Dialogue: 0,0:01:33.86,0:01:35.83,Gen_Main,Comandante,0,0,0,,¡Infantería, a sus posiciones!
+Dialogue: 0,0:01:38.91,0:01:40.33,Gen_Main,Comandante,0,0,0,,¡Fuego!
+Dialogue: 0,0:01:44.71,0:01:46.38,Gen_Main,Comandante,0,0,0,,¡Sigan disparando!
+Dialogue: 0,0:01:48.63,0:01:51.63,Gen_Main,Teniente,0,0,0,,¡Capitana, los bárbaros\Nse resisten con ferocidad!
+Dialogue: 0,0:01:51.72,0:01:55.11,Gen_Main,Teniente,0,0,0,,¡Aniquilaron a los voluntarios\Ne hicieron colapsar el ala izquierda!
+Dialogue: 0,0:01:55.18,0:01:58.60,Gen_Main,Serafina,0,0,0,,¡Basta! ¡Eres un caballero\Nde la expedición oriental de Illdoren!
+Dialogue: 0,0:01:59.22,0:02:00.87,Gen_Main,Serafina,0,0,0,,Que el ala izquierda retroceda.
+Dialogue: 0,0:02:00.93,0:02:04.55,Gen_Main,Serafina,0,0,0,,¡Adelanta al centro y a la derecha\Nen formación semicircular!
+Dialogue: 0,0:02:04.81,0:02:08.81,Gen_Main_Up,Serafina,0,0,0,,¡Repeleremos la ofensiva bárbara\Ny emprenderemos la retirada!
+Dialogue: 1,0:02:05.49,0:02:09.23,Cart_A_Tre,CARTEL,0,0,0,,{\fs20\fad(1450,0)\bord0\an7\blur0\fscx196\blur2\fscy71\p1\1a&H00&\4a&H90&\shad0\c&HDFF6F7&\3c&H000000&\3a&H6F&\pos(80,260.27)\clip(m 90.29 256 l 80.76 272.38 80.38 317.33 89.52 331.81 262.1 333.33 276.19 320.38 276.19 275.43 264 260.57)}m 0 0 l 100 0 l 100 100 l 0 100
+Dialogue: 2,0:02:05.49,0:02:09.23,Cart_A_Tre,CARTEL,0,0,0,,{\fad(1450,0)\fnTimes New Roman\fs16\pos(177,295.333)\an5\c&H3E3C90&\3c&HD9F4F4&\shad0\bord0\b0}Reino de Illdoren\N{\fscx90}Ejército de expedición oriental\NCapitana de la primera compañía\N{\fscx100}Serafina de Lavillant
+Dialogue: 0,0:02:18.45,0:02:23.24,Gen_Italics,Serafina,0,0,0,,Aunque salgamos victoriosos, perdimos\Na muchos soldados de primera línea.
+Dialogue: 0,0:02:23.33,0:02:26.90,Gen_Italics,Serafina,0,0,0,,Si sufrimos más bajas, mermarán\Nlas posibilidades de regresar.
+Dialogue: 0,0:02:27.08,0:02:31.25,Gen_Italics,Serafina,0,0,0,,Marcaría el final tras 7 años\Nde la 17.ª expedición oriental…
+Dialogue: 0,0:02:31.34,0:02:34.71,Gen_Main,Serafina,0,0,0,,Debo asegurarme de regresar\Ncon cuanto compañero vivo pueda.
+Dialogue: 0,0:02:55.86,0:02:57.65,Gen_Main_Up,Veor,0,0,0,,Ese casco de cristal…
+Dialogue: 1,0:02:57.62,0:03:00.08,Cart_A_Ari,CARTEL,0,0,0,,{\fs20\fad(1450,0)\bord0\an7\blur0\fscx156\blur2\fscy71\p1\1a&H00&\4a&H90&\shad0\c&HDFF6F7&\3c&H000000&\3a&H6F&\pos(29.33,263.47)}m 0 0 l 100 0 l 100 100 l 0 100
+Dialogue: 2,0:02:57.62,0:03:00.08,Cart_A_Tre,CARTEL,0,0,0,,{\fad(1450,0)\fnTimes New Roman\fs20\pos(109.333,296)\an5\c&H3E3C90&\3c&HD9F4F4&\shad0\bord0\b0\blur0.2\fscy120\b0}"Voz estruendosa"\N{\fs28}Veor{\b1}
+Dialogue: 0,0:02:57.74,0:03:00.09,Gen_Main_Up,Veor,0,0,0,,¿Tú lideras la expedición?
+Dialogue: 0,0:03:00.16,0:03:04.01,Gen_Main,Veor,0,0,0,,Ya me harté de enfrentarme\Na estos simples soldados rasos.
+Dialogue: 0,0:03:04.29,0:03:06.83,Gen_Main,Veor,0,0,0,,¿Te atreves a enfrentarme mano a mano?
+Dialogue: 0,0:03:07.58,0:03:10.34,Gen_Italics,Serafina,0,0,0,,¿Justo ahora aparece\Nel más hábil de ellos?
+Dialogue: 0,0:03:10.92,0:03:14.61,Gen_Italics,Serafina,0,0,0,,Su espada corta armaduras como papel,\Nno podemos ignorarlo.
+Dialogue: 0,0:03:14.67,0:03:16.15,Gen_Italics,Serafina,0,0,0,,O la retirada fracasará.
+Dialogue: 0,0:03:17.43,0:03:18.99,Gen_Italics,Serafina,0,0,0,,¿Es exceso de confianza?
+Dialogue: 0,0:03:19.05,0:03:22.35,Gen_Italics,Serafina,0,0,0,,No tengo razones para negarme\Na un duelo mano a mano.
+Dialogue: 0,0:03:22.72,0:03:24.60,Gen_Main,Serafina/Teniente,0,0,0,,-¡Teniente!\N-¿Sí?
+Dialogue: 0,0:03:25.06,0:03:26.98,Gen_Main,Serafina,0,0,0,,Los números no nos servirán.
+Dialogue: 0,0:03:27.31,0:03:28.89,Gen_Main,Serafina,0,0,0,,Ahora yo me haré cargo.
+Dialogue: 0,0:03:28.98,0:03:32.36,Gen_Main,Serafina,0,0,0,,¡Dile a mi hermano\Nque di mi vida por la patria!
+Dialogue: 0,0:03:58.76,0:04:02.43,Gen_Italics,Serafina,0,0,0,,¡Princesa Wysteresia,\Nruego que me brinde su fuerza!
+Dialogue: 0,0:04:20.32,0:04:21.78,Gen_Main,Serafina,0,0,0,,Este es el final…
+Dialogue: 0,0:04:22.57,0:04:26.65,Gen_Main,Veor,0,0,0,,Bien hecho.\NNo muchos resisten tanto tiempo.
+Dialogue: 0,0:04:29.04,0:04:30.77,Gen_Main,Serafina,0,0,0,,-¡Te mataré!\N-No tan rápido.
+Dialogue: 0,0:04:33.25,0:04:35.79,Gen_Main,Veor,0,0,0,,Voy a hacerte mía.
+Dialogue: 0,0:04:36.05,0:04:40.69,Gen_Main,Veor,0,0,0,,No temas. Tu vida no corre peligro.
+Dialogue: 0,0:04:40.76,0:04:45.34,Gen_Main,Veor,0,0,0,,No mientras tenga ideas\Npara usar tu cuerpo.
+Dialogue: 0,0:04:52.02,0:04:53.69,Gen_Italics,Serafina,0,0,0,,Es cierto…
+Dialogue: 0,0:04:53.77,0:04:58.68,Gen_Italics,Serafina,0,0,0,,Me trajeron como botín de guerra…
+Dialogue: 0,0:04:59.24,0:05:03.11,Gen_Italics,Serafina,0,0,0,,¿Me harán trabajar el campo\Ncomo si fuera ganado?
+Dialogue: 0,0:05:03.20,0:05:07.86,Gen_Italics,Serafina,0,0,0,,No, seguramente me torturen\Npara poder sacarme información…
+Dialogue: 0,0:05:08.25,0:05:13.12,Gen_Italics,Serafina,0,0,0,,Deben tener algo planeado\Nsi me capturaron con vida.
+Dialogue: 0,0:05:14.67,0:05:18.34,Gen_Main,Veor,0,0,0,,No mientras tenga ideas\Npara usar tu cuerpo.
+Dialogue: 0,0:05:20.01,0:05:22.64,Gen_Main,Serafina,0,0,0,,No quería pensarlo, pero…
+Dialogue: 0,0:05:22.89,0:05:26.09,Gen_Main,Serafina,0,0,0,,¿Y si me capturaron\Nsabiendo que soy mujer…
+Dialogue: 0,0:05:30.10,0:05:32.60,Gen_Main,Serafina,0,0,0,,para divertirse conmigo?
+Dialogue: 0,0:05:35.15,0:05:38.58,Gen_Main,Serafina,0,0,0,,¡Qué enorme humillación\Npara una noble que no está casada!
+Dialogue: 0,0:05:38.65,0:05:42.20,Gen_Main,Serafina,0,0,0,,¡¿Acaso estoy\Nen una guarida de bestias?!
+Dialogue: 0,0:05:42.82,0:05:46.87,Gen_Main,Serafina,0,0,0,,¿En dónde estarán los soldados\Nque juraron luchar por mí?
+Dialogue: 0,0:05:47.58,0:05:53.19,Gen_Italics,Serafina,0,0,0,,El tiempo que logramos ganar\Nno alcanza para una retirada en orden.
+Dialogue: 0,0:05:53.42,0:05:55.30,Gen_Italics,Serafina,0,0,0,,Aunque la retaguardia lo lograra,
+Dialogue: 0,0:05:55.38,0:05:57.88,Gen_Italics,Serafina,0,0,0,,el frente habría quedado disperso.
+Dialogue: 0,0:05:59.76,0:06:03.44,Gen_Italics,Serafina,0,0,0,,Podrían ya estar muertos\No pereciendo en tierras bárbaras…
+Dialogue: 0,0:06:05.55,0:06:07.85,Gen_Italics,Serafina,0,0,0,,Pero eso no es lo peor…
+Dialogue: 0,0:06:12.27,0:06:15.98,Gen_Italics,Serafina,0,0,0,,Sin control en el oriente,\Nel territorio de los bárbaros,
+Dialogue: 0,0:06:16.44,0:06:18.44,Gen_Italics,Serafina,0,0,0,,la gente de la capital…
+Dialogue: 0,0:06:27.03,0:06:31.21,Gen_Main,Serafina,0,0,0,,Me frustra no cumplir como noble\Ny no defender el sustento del pueblo.
+Dialogue: 0,0:06:32.75,0:06:35.20,Gen_Main,Cersei,0,0,0,,Te tomaste muy literal\Nel título de noble.
+Dialogue: 0,0:06:37.38,0:06:38.35,Gen_Main,Serafina,0,0,0,,¡¿Quién es?!
+Dialogue: 0,0:06:40.92,0:06:46.01,Gen_Main,Cersei,0,0,0,,Me llamo Cersei.\NSirvo al hombre que te capturó.
+Dialogue: 0,0:06:49.26,0:06:50.68,Gen_Main,Serafina,0,0,0,,Ya lo entiendo.
+Dialogue: 0,0:06:52.14,0:06:54.85,Gen_Main,Serafina,0,0,0,,¿Viniste a sacarme información?
+Dialogue: 0,0:06:55.60,0:06:59.15,Gen_Main,Cersei,0,0,0,,¿Sacarte información?\N¿De qué estás hablando?
+Dialogue: 0,0:07:00.57,0:07:02.60,Gen_Main,Serafina,0,0,0,,¡No te hagas la tonta, bárbara!
+Dialogue: 0,0:07:02.69,0:07:07.14,Gen_Main,Serafina,0,0,0,,¡Vas a torturarme con esos artefactos\Nhasta obligarme a hablar!
+Dialogue: 0,0:07:07.61,0:07:10.61,Gen_Main,Cersei,0,0,0,,Solo me dieron una tarea.
+Dialogue: 0,0:07:12.16,0:07:17.01,Gen_Main,Cersei,0,0,0,,Asegurarme de que su trofeo\Nesté en las mejores condiciones.
+Dialogue: 0,0:07:17.08,0:07:19.05,Gen_Main,Serafina,0,0,0,,¿Trofeo…?
+Dialogue: 0,0:07:23.76,0:07:25.97,Gen_Main,Serafina,0,0,0,,¡¿Qué estás haciendo?!
+Dialogue: 0,0:07:26.05,0:07:29.33,Gen_Main,Cersei,0,0,0,,¿No es obvio? Será más fácil\Nsi no te puedes resistir.
+Dialogue: 0,0:07:32.39,0:07:34.25,Gen_Italics,Serafina,0,0,0,,Por fin comienza…
+Dialogue: 0,0:07:34.52,0:07:38.49,Gen_Italics,Serafina,0,0,0,,Con estas ataduras… ¿qué tan cruel\Nes el tormento que me espera?
+Dialogue: 0,0:07:38.73,0:07:40.61,Gen_Italics,Serafina,0,0,0,,Pero aun así, yo…
+Dialogue: 0,0:07:41.69,0:07:44.19,Gen_Italics,Serafina,0,0,0,,¡no cederé ante la tortura!
+Dialogue: 0,0:07:49.57,0:07:52.49,Gen_Main,Veor,0,0,0,,Ya debe haber despertado…
+Dialogue: 0,0:07:53.99,0:07:56.32,Gen_Main,Veor,0,0,0,,Mi lindo trofeo.{ALT: Mi hermoso botín}
+Dialogue: 0,0:08:07.67,0:08:11.64,Gen_Italics,Serafina,0,0,0,,¿Qué hace? ¿Por qué hace esto?
+Dialogue: 0,0:08:16.39,0:08:19.52,Gen_Main,Cersei,0,0,0,,Listo, ya estás mucho más limpia.
+Dialogue: 0,0:08:19.60,0:08:21.74,Gen_Main,Serafina,0,0,0,,¿Qué me estás haciendo?
+Dialogue: 0,0:08:22.06,0:08:24.05,Gen_Main,Cersei,0,0,0,,No sé qué esperas que responda.
+Dialogue: 0,0:08:24.48,0:08:28.03,Gen_Main,Cersei,0,0,0,,Te estaba limpiando\Ntoda la sangre y la mugre.
+Dialogue: 0,0:08:28.24,0:08:30.83,Gen_Main,Cersei/Serafina,0,0,0,,-Estabas hecha un asco.\N-¿Qué?
+Dialogue: 0,0:08:30.99,0:08:36.29,Gen_Main,Cersei,0,0,0,,Tengo entendido que\Nte enfrentaste a mi señor…
+Dialogue: 0,0:08:37.20,0:08:41.87,Gen_Main,Cersei,0,0,0,,Me esperaba encontrar a una mujer\Nmucho más tosca, pero tú eres…
+Dialogue: 0,0:08:44.17,0:08:48.23,Gen_Main,Cersei,0,0,0,,Incluso desde mi perspectiva\Ncomo mujer, te ves muy femenina.
+Dialogue: 0,0:08:48.30,0:08:52.72,Gen_Main,Serafina,0,0,0,,¡¿Te estás burlando de mí?! ¡Una mujer\Ncaballero no necesita feminidad!
+Dialogue: 0,0:08:52.80,0:08:53.85,Gen_Main,Cersei,0,0,0,,¿De verdad?
+Dialogue: 0,0:08:53.93,0:08:56.37,Gen_Main,Cersei,0,0,0,,Aunque me da igual tu opinión.
+Dialogue: 0,0:08:56.68,0:09:00.19,Gen_Main,Cersei,0,0,0,,Lo importante es\Nque le llamaste la atención.
+Dialogue: 0,0:09:01.44,0:09:03.21,Gen_Main,Serafina,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:09:03.52,0:09:05.95,Gen_Main,Cersei,0,0,0,,¿Serviría de algo contártelo?
+Dialogue: 0,0:09:06.28,0:09:07.29,Gen_Main,Cersei,0,0,0,,No.
+Dialogue: 0,0:09:07.69,0:09:10.27,Gen_Main,Cersei,0,0,0,,Todo seguiría igual\Naunque te lo contara.
+Dialogue: 0,0:09:10.53,0:09:13.49,Gen_Main,Cersei,0,0,0,,Nunca podrás irte de aquí.
+Dialogue: 0,0:09:15.33,0:09:18.25,Gen_Main,Serafina,0,0,0,,Entonces, ¿esa herramienta es…?
+Dialogue: 0,0:09:19.04,0:09:21.80,Gen_Main,Cersei,0,0,0,,Acabemos con esto de una vez.
+Dialogue: 0,0:09:29.09,0:09:30.76,Gen_Italics,Serafina,0,0,0,,¿Este es mi final?
+Dialogue: 0,0:09:48.69,0:09:50.28,Gen_Main,Serafina,0,0,0,,¿Qué es esta ropa?
+Dialogue: 0,0:09:50.94,0:09:53.94,Gen_Italics,Serafina,0,0,0,,¿No venía a torturarme\Ne interrogarme?
+Dialogue: 0,0:09:57.33,0:09:58.94,Gen_Italics,Serafina,0,0,0,,Este aroma…
+Dialogue: 0,0:09:59.24,0:10:01.48,Gen_Italics,Serafina,0,0,0,,¿Es un aceite aromático?
+Dialogue: 0,0:10:02.29,0:10:04.96,Gen_Italics,Serafina,0,0,0,,¡Eso no importa! La pregunta es:
+Dialogue: 0,0:10:05.04,0:10:07.99,Gen_Italics,Serafina,0,0,0,,¿para qué me están preparando?
+Dialogue: 0,0:10:09.21,0:10:13.05,Gen_Main,Cersei,0,0,0,,Bueno, creo que te ves\Nbastante presentable.
+Dialogue: 0,0:10:13.47,0:10:17.61,Gen_Italics,Serafina,0,0,0,,¿Será una costumbre bárbara\Ncon las prisioneras?
+Dialogue: 0,0:10:18.81,0:10:20.31,Gen_Italics,Serafina,0,0,0,,¿Acaso…?
+Dialogue: 0,0:10:23.39,0:10:25.76,Gen_Main,Serafina,0,0,0,,¿Qué fue eso? ¿Un trueno?
+Dialogue: 0,0:10:25.85,0:10:29.00,Gen_Main,Cersei,0,0,0,,No. Ese grito solo puede ser de alguien.
+Dialogue: 0,0:10:31.90,0:10:33.26,Gen_Main,Serafina,0,0,0,,Es él.
+Dialogue: 0,0:10:43.16,0:10:44.47,Gen_Main,Veor,0,0,0,,Vaya…
+Dialogue: 0,0:10:45.17,0:10:49.43,Gen_Main,Veor,0,0,0,,Pareces otra persona, Casco de cristal.
+Dialogue: 0,0:11:02.68,0:11:06.28,Gen_Main,Veor,0,0,0,,No pudimos presentarnos\Nen el campo de batalla…
+Dialogue: 0,0:11:06.35,0:11:10.42,Gen_Main,Veor,0,0,0,,Soy el heredero\Ndel Gran Caudillo Uldyn, el tuerto.
+Dialogue: 0,0:11:10.52,0:11:12.26,Gen_Main,Veor,0,0,0,,Veor, la voz estruendosa.
+Dialogue: 0,0:11:12.69,0:11:15.86,Gen_Italics,Serafina,0,0,0,,Ahora que lo miro de nuevo,\N¡es un tipo gigantesco!
+Dialogue: 0,0:11:16.36,0:11:20.34,Gen_Italics,Serafina,0,0,0,,Esos ojos dorados…\Nno pueden ser de un humano.
+Dialogue: 0,0:11:21.20,0:11:24.57,Gen_Main,Serafina,0,0,0,,Ya veo cuáles son tus intenciones.
+Dialogue: 0,0:11:28.17,0:11:32.44,Gen_Main,Serafina,0,0,0,,Mi abuelo me habló de la expedición\Nque ocurrió hace veinte años…
+Dialogue: 0,0:11:33.00,0:11:36.88,Gen_Main,Serafina,0,0,0,,Parecía como un cuento de hadas,\Npero ahora veo que era cierto.
+Dialogue: 0,0:11:45.31,0:11:48.15,Gen_Main,Serafina,0,0,0,,¡Esos ojos inhumanos lo dejan claro!
+Dialogue: 0,0:11:49.44,0:11:52.91,Gen_Main,Serafina,0,0,0,,Soy de los margraves Lavillant\Ndel Reino de Illdoren.
+Dialogue: 0,0:11:52.98,0:11:55.00,Gen_Main,Serafina,0,0,0,,Hija menor del anterior señor, Mattius,
+Dialogue: 0,0:11:55.07,0:11:57.24,Gen_Main,Serafina,0,0,0,,y capitana de la expedición oriental:
+Dialogue: 0,0:11:57.32,0:11:58.61,Gen_Main,Serafina,0,0,0,,¡Serafina de Lavillant!
+Dialogue: 0,0:12:00.16,0:12:02.76,Gen_Main,Serafina,0,0,0,,¡No tengo intención\Nde suplicar compasión!
+Dialogue: 0,0:12:02.95,0:12:05.50,Gen_Main,Serafina,0,0,0,,¡Si seré un sacrificio,\Nhaz conmigo lo que quieras!
+Dialogue: 0,0:12:10.88,0:12:16.15,Gen_Italics,Serafina,0,0,0,,Eso es. Da igual lo que me pase,\Nal menos puedo mantener mi dignidad.
+Dialogue: 0,0:12:16.21,0:12:17.89,Gen_Main,Veor,0,0,0,,Serafina…
+Dialogue: 0,0:12:17.97,0:12:20.82,Gen_Main,Veor,0,0,0,,Sera… Qué lindo nombre.
+Dialogue: 0,0:12:20.89,0:12:25.13,Gen_Main,Veor,0,0,0,,Por cierto, Sera,\N¿de qué sacrificio hablas?
+Dialogue: 0,0:12:27.18,0:12:31.61,Gen_Main,Veor,0,0,0,,Te traje aquí para hacerte mi esposa.
+Dialogue: 0,0:12:37.99,0:12:41.07,Gen_Main,Serafina,0,0,0,,¡¿Esposa?! ¡¿Quién?!
+Dialogue: 0,0:12:41.16,0:12:42.86,Gen_Main,Veor/Serafina,0,0,0,,-Tú.\N-¿¡De quién?!
+Dialogue: 0,0:12:42.95,0:12:44.83,Gen_Main,Veor/Serafina,0,0,0,,-Mía.\N-¡¿Por qué?!
+Dialogue: 0,0:12:46.24,0:12:48.04,Gen_Main,Serafina,0,0,0,,¡No podrás engañarme!
+Dialogue: 0,0:12:48.12,0:12:51.75,Gen_Main,Serafina,0,0,0,,¡Solo quieres que baje la guardia\Npara usarme en alguna cosa rara!
+Dialogue: 0,0:12:51.83,0:12:55.50,Gen_Main,Veor,0,0,0,,Si ese era el plan,\N¿por qué aún no lo hago?
+Dialogue: 0,0:12:56.05,0:12:58.97,Gen_Main,Serafina,0,0,0,,¿No se supone que nosotros\Nsomos enemigos?
+Dialogue: 0,0:12:59.05,0:13:00.94,Gen_Main,Veor,0,0,0,,¿Quién dice que eso está mal?
+Dialogue: 0,0:13:01.01,0:13:02.51,Gen_Main,Serafina,0,0,0,,¡Todo el mundo!
+Dialogue: 0,0:13:02.64,0:13:07.70,Gen_Main,Veor,0,0,0,,Tal vez funcione así en occidente,\Npero nosotros somos diferentes.
+Dialogue: 0,0:13:07.77,0:13:08.85,Gen_Main,Serafina,0,0,0,,¿Qué?
+Dialogue: 0,0:13:10.06,0:13:13.66,Gen_Main,Veor,0,0,0,,Por generaciones, mi familia…
+Dialogue: 0,0:13:15.19,0:13:19.73,Gen_Main,Veor,0,0,0,,¡tiene la tradición de desposarse\Ncon mujeres caballero!
+Dialogue: 0,0:13:23.20,0:13:26.22,Gen_Italics,Serafina,0,0,0,,¡¿Qué locura es esta?!
+Dialogue: 0,0:13:27.16,0:13:30.71,Gen_Main,Serafina,0,0,0,,¿Crees que me convencerás\Ncon esa lógica tan retorcida?
+Dialogue: 0,0:13:30.79,0:13:31.87,Gen_Main,Veor,0,0,0,,¿No te convencí?
+Dialogue: 0,0:13:31.96,0:13:34.22,Gen_Main,Serafina,0,0,0,,¡Claro que no!
+Dialogue: 0,0:13:34.29,0:13:39.58,Gen_Main,Veor,0,0,0,,¿No habías dicho hace un rato\Nque hiciera contigo lo que quiera?
+Dialogue: 0,0:13:41.01,0:13:43.61,Gen_Main,Veor,0,0,0,,¿O fue pura palabrería?
+Dialogue: 0,0:13:44.43,0:13:46.01,Gen_Italics,Serafina,0,0,0,,¡Me descuidé!
+Dialogue: 0,0:13:46.81,0:13:52.15,Gen_Main,Veor,0,0,0,,Dicho esto, no tomé esta decisión\Nsolo para respetar la tradición.
+Dialogue: 0,0:13:52.60,0:13:55.65,Gen_Main,Veor,0,0,0,,Cuando nos enfrentamos,\Ntu destreza me convenció.
+Dialogue: 0,0:13:57.11,0:14:01.19,Gen_Main,Veor,0,0,0,,Un choque de espadas\Nes más claro que mil palabras.
+Dialogue: 0,0:14:01.78,0:14:05.82,Gen_Main,Veor,0,0,0,,Tu técnica transmitía\Nuna gran honestidad.
+Dialogue: 0,0:14:09.16,0:14:11.29,Gen_Main,Veor,0,0,0,,Fue amor a primera vista.
+Dialogue: 0,0:14:12.71,0:14:15.78,Gen_Main,Serafina,0,0,0,,¿Amor a…?
+Dialogue: 0,0:14:18.42,0:14:23.75,Gen_Main,Veor,0,0,0,,Esa es la situación.\NTranquila, no te obligaré.
+Dialogue: 0,0:14:24.51,0:14:26.30,Gen_Main,Veor,0,0,0,,Hasta luego, Sera.
+Dialogue: 0,0:14:30.81,0:14:32.06,Gen_Main,Serafina,0,0,0,,¡Oye, espera!
+Dialogue: 0,0:14:33.69,0:14:36.35,Gen_Main,Serafina,0,0,0,,¿Qué…? ¡¿Qué…?!
+Dialogue: 0,0:14:37.94,0:14:40.83,Gen_Main,Serafina,0,0,0,,¡¿Qué está pasando?!
+Dialogue: 0,0:14:40.98,0:14:44.06,Gen_Main,Cersei,0,0,0,,Quiere casarse contigo, lenta.
+Dialogue: 3,0:14:48.61,0:14:55.12,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fs18\b0\fscx89\bord1.5\alpha&H22&\fnTimes New Roman\c&H8286B1&\3c&HFFFFFF&\1a&H00&\pos(320,302.93)}Hace siete años
+Dialogue: 1,0:14:48.62,0:14:55.12,Cart_A_Tre,CARTEL,0,0,0,,{\fs20\bord0\an7\blur0\fscx166\blur2\fscy61\p1\1a&H00&\4a&H90&\shad0\c&HDFF6F7&\3c&H000000&\3a&H6F&\pos(40.53,267.8)}m 0 0 l 100 0 l 100 100 l 0 100
+Dialogue: 2,0:14:48.62,0:14:55.12,Cart_A_Tre,CARTEL,0,0,0,,{\fnTimes New Roman\fs14\fscy120\pos(123,296.667)\an5\c&H3E3C90&\3c&HD9F4F4&\shad0\bord0\blur0.2\b0}Reino de Illdoren\NMargraviato Lavillant\NEau de Marie
+Dialogue: 0,0:14:58.42,0:15:01.13,Gen_Main,Sidius,0,0,0,,El rey ha emitido un decreto.
+Dialogue: 0,0:15:02.76,0:15:05.63,Gen_Main,Sidius,0,0,0,,Que comience\Nla 17.ª expedición oriental.
+Dialogue: 1,0:15:07.14,0:15:12.89,Cart_A_Tre,CARTEL,0,0,0,,{\fs20\bord0\an7\blur0\fscx146\blur2\fscy67\p1\1a&H00&\4a&H90&\shad0\c&HDFF6F7&\3c&H000000&\3a&H6F&\pos(452.67,262.67)}m 0 0 l 100 0 l 100 100 l 0 100
+Dialogue: 2,0:15:07.14,0:15:12.89,Cart_A_Tre,CARTEL,0,0,0,,{\fs20\fscy120\blur0.2\bord0\pos(524.5,296.667)\an5\c&H3E3C90&\3c&HD9F4F4&\shad0\fnTimes New Roman\b0}Margrave\NSidius de Lavillant{\b1}
+Dialogue: 0,0:15:07.68,0:15:09.76,Gen_Main_Up,Sidius,0,0,0,,Serafina, querida hermana…
+Dialogue: 0,0:15:10.18,0:15:12.89,Gen_Main_Up,Sidius,0,0,0,,Fuiste nombrada capitana\Nde la primera compañía.
+Dialogue: 0,0:15:16.31,0:15:19.41,Gen_Main,Sidius,0,0,0,,Llena de gloria al apellido Lavillant.
+Dialogue: 0,0:15:19.48,0:15:20.42,Gen_Main,Serafina,0,0,0,,¡Sí, señor!
+Dialogue: 0,0:15:23.07,0:15:24.14,Gen_Main,Sidius,0,0,0,,Espera.
+Dialogue: 0,0:15:26.99,0:15:30.75,Gen_Main,Sidius,0,0,0,,La condesa Ildhal te envió\Nuna invitación a su banquete.
+Dialogue: 0,0:15:31.66,0:15:33.29,Gen_Main,Serafina,0,0,0,,¿Qué pasa con eso?
+Dialogue: 0,0:15:34.75,0:15:37.79,Gen_Main,Sidius,0,0,0,,Bueno, el destinatario es\N"la princesa" Serafina.
+Dialogue: 0,0:15:41.96,0:15:44.05,Gen_Main,Serafina,0,0,0,,Asistiré con diligencia.
+Dialogue: 0,0:15:50.89,0:15:52.81,Gen_Main,Vendedor,0,0,0,,¡Atrapen al ladrón!
+Dialogue: 0,0:15:53.31,0:15:55.50,Gen_Main,Ciudadanos,0,0,0,,Es una paga interesante.
+Dialogue: 0,0:15:55.60,0:15:59.15,Gen_Main,Ciudadanos,0,0,0,,Tengo miedo. Un amigo que fue\Njamás pudo regresar.
+Dialogue: 0,0:15:59.23,0:16:01.31,Gen_Main,Ciudadanos,0,0,0,,¿Una expedición a oriente?
+Dialogue: 0,0:16:01.40,0:16:03.55,Gen_Main,Ciudadanos,0,0,0,,¡Voy a unirme como voluntario!
+Dialogue: 0,0:16:05.11,0:16:07.26,Gen_Main,Ciudadanos,0,0,0,,Miren, el carruaje de los Lavillant.
+Dialogue: 0,0:16:28.80,0:16:31.58,Gen_Main,HombreNoble,0,0,0,,Qué invitada tan particular.
+Dialogue: 0,0:16:31.68,0:16:33.27,Gen_Main,MujerNoble,0,0,0,,Sí que lo es.
+Dialogue: 0,0:16:35.85,0:16:39.01,Gen_Main,MujerNoble2,0,0,0,,La calidad de la comida\Nestá siendo realmente mala.
+Dialogue: 0,0:16:39.10,0:16:42.36,Gen_Main,HombreNoble2,0,0,0,,Cuanto más se alarga la guerra,\Nmás beneficios nos genera.
+Dialogue: 0,0:16:42.44,0:16:43.77,Gen_Main,HombreNoble3,0,0,0,,Tienes razón…
+Dialogue: 0,0:16:46.11,0:16:49.45,Gen_Main,HombreNoble4,0,0,0,,La princesa Serafina\Nllama mucho la atención.
+Dialogue: 0,0:16:50.11,0:16:53.39,Gen_Main,MujerNoble3,0,0,0,,Más que linda, diría que es elegante.
+Dialogue: 0,0:16:54.12,0:16:55.68,Gen_Main,Caballero 1,0,0,0,,Y es capitana.
+Dialogue: 0,0:16:55.74,0:16:57.48,Gen_Main,Caballero 2,0,0,0,,Qué deplorable.
+Dialogue: 0,0:16:57.58,0:16:59.42,Gen_Main,Caballero 2,0,0,0,,Imagina que lidere una mujer.
+Dialogue: 0,0:16:59.50,0:17:03.30,Gen_Main,Caballero 1,0,0,0,,Es una de las más fuertes del círculo.
+Dialogue: 0,0:17:03.38,0:17:07.16,Gen_Main,Caballero 1,0,0,0,,Es lógico que un Lavillant\Ndirija la armada, pero…
+Dialogue: 0,0:17:07.26,0:17:09.70,Gen_Main,Caballero 1,0,0,0,,¿De qué le sirve a una mujer ser fuerte?
+Dialogue: 0,0:17:18.14,0:17:19.61,Gen_Main,Serafina,0,0,0,,Ya me quiero ir.
+Dialogue: 0,0:17:20.56,0:17:22.09,Gen_Main,Conocida 1,0,0,0,,Señorita Serafina.
+Dialogue: 0,0:17:22.69,0:17:25.83,Gen_Main,Conocida 1,0,0,0,,Al fin te encontramos,\Nte estábamos buscando.
+Dialogue: 0,0:17:26.11,0:17:30.11,Gen_Main,Conocido 2,0,0,0,,No deberías estar sola.\NVen, únete a nosotras.
+Dialogue: 0,0:17:31.70,0:17:34.76,Gen_Main,Conocida 1,0,0,0,,Fue hace mucho.\NMe pregunto cuánto pasó.
+Dialogue: 0,0:17:34.82,0:17:39.18,Gen_Main,Conocido 2,0,0,0,,¿Es cierto que te nombraron\Ncapitana de la expedición?
+Dialogue: 0,0:17:39.25,0:17:40.33,Gen_Main,Serafina,0,0,0,,Sí.
+Dialogue: 0,0:17:40.41,0:17:46.75,Gen_Main,Conocida 1,0,0,0,,¡Qué terrible! ¿Oriente no está lleno\Nde criaturas peligrosas y violentas?
+Dialogue: 0,0:17:46.84,0:17:50.44,Gen_Main,Conocido 2,0,0,0,,Hay dragones escupefuego\Ny otros monstruos.
+Dialogue: 0,0:17:50.51,0:17:53.13,Gen_Main,Serafina,0,0,0,,Los dragones y los monstruos\Nson solo cuentos.
+Dialogue: 0,0:17:53.22,0:17:55.81,Gen_Main,Conocida 1,0,0,0,,Sí, pero sigue habiendo peligros.
+Dialogue: 0,0:17:56.01,0:17:59.03,Gen_Main,Conocida 1,0,0,0,,Ya que pelearás con bárbaros…
+Dialogue: 0,0:17:59.10,0:18:03.15,Gen_Main,Conocida 1,0,0,0,,¿No son más como animales\Ncon forma humana?
+Dialogue: 0,0:18:03.23,0:18:06.25,Gen_Main,Conocido 2,0,0,0,,¡Y raptan mujeres caballero\Npara sus sacrificios!
+Dialogue: 0,0:18:06.31,0:18:09.03,Gen_Main,Conocida 1,0,0,0,,Si oriente es tan espantoso,
+Dialogue: 0,0:18:09.11,0:18:11.32,Gen_Main,Conocida 1,0,0,0,,ninguna mujer debería ir nunca.
+Dialogue: 0,0:18:14.28,0:18:16.41,Gen_Main,Serafina,0,0,0,,Conquistar oriente
+Dialogue: 0,0:18:16.49,0:18:19.16,Gen_Main,Serafina,0,0,0,,es la misión del Reino Illdoren\Ndesde su fundación…
+Dialogue: 0,0:18:19.70,0:18:22.81,Gen_Main,Serafina,0,0,0,,Como miembro de la nobleza,\Nes un honor que me envíen.
+Dialogue: 0,0:18:23.08,0:18:25.63,Gen_Main,Serafina,0,0,0,,Por el bien del pueblo y su paz.
+Dialogue: 0,0:18:26.67,0:18:29.81,Gen_Main,Conocida 1,0,0,0,,Deberías dejar\Nque un hombre lo haga.
+Dialogue: 0,0:18:29.88,0:18:33.15,Gen_Main,Conocida 1,0,0,0,,No creo que nada salga bien\Nsi vas como capitana.
+Dialogue: 0,0:18:33.22,0:18:36.05,Gen_Main,Conocida 1,0,0,0,,Hasta la princesa, Wysteresia,\Ntu referente,
+Dialogue: 0,0:18:36.14,0:18:39.21,Gen_Main,Conocida 1,0,0,0,,desapareció en el campo de batalla.
+Dialogue: 0,0:18:39.31,0:18:41.56,Gen_Main,Conocida 1,0,0,0,,La mayor felicidad para una mujer
+Dialogue: 0,0:18:41.64,0:18:43.45,Gen_Main,Conocida 1,0,0,0,,es casarse y administrar el hogar.
+Dialogue: 0,0:18:50.98,0:18:52.86,Gen_Main,Serafina,0,0,0,,Ellas lo tienen muy fácil.
+Dialogue: 0,0:18:53.74,0:18:56.71,Gen_Main,Serafina,0,0,0,,Un festín y música alegre\Npara disfrutar…
+Dialogue: 0,0:19:01.70,0:19:05.70,Gen_Italics,Serafina,0,0,0,,Las personas se mueren de hambre\Npor tantas malas cosechas seguidas…
+Dialogue: 0,0:19:05.79,0:19:08.08,Gen_Main,Vendedor,0,0,0,,¡Que alguien me ayude!
+Dialogue: 0,0:19:15.22,0:19:16.59,Gen_Main,Serafina,0,0,0,,¡Ya fue suficiente!
+Dialogue: 0,0:19:18.43,0:19:21.35,Gen_Main,Serafina,0,0,0,,Si se resisten,\Nno prometo que salgan con vida.
+Dialogue: 0,0:19:22.97,0:19:24.67,Gen_Italics,Serafina,0,0,0,,Esta gente es…
+Dialogue: 0,0:19:27.65,0:19:29.35,Gen_Main,Bandido 1,0,0,0,,Esa espada… Es una noble.
+Dialogue: 0,0:19:29.44,0:19:32.22,Gen_Main,Bandido 2,0,0,0,,¡Da igual! ¡Tenemos que hacerlo!
+Dialogue: 0,0:19:41.24,0:19:45.08,Gen_Main,Serafina,0,0,0,,¿Es la primera vez\Nque se rebajan de esta manera?
+Dialogue: 0,0:19:46.21,0:19:48.12,Gen_Main,Bandido 1,0,0,0,,¡Es mejor que morirnos de hambre!
+Dialogue: 0,0:19:48.21,0:19:49.83,Gen_Main,Bandido 2,0,0,0,,¡Nunca lo entenderías!
+Dialogue: 0,0:20:00.18,0:20:02.51,Gen_Main,Serafina,0,0,0,,¿Prometen no volver a delinquir?
+Dialogue: 0,0:20:02.60,0:20:04.44,Gen_Main,Bandido 1,0,0,0,,¿Podemos quedárnoslo?
+Dialogue: 0,0:20:04.52,0:20:05.57,Gen_Main,Serafina,0,0,0,,Sí.
+Dialogue: 0,0:20:06.23,0:20:07.71,Gen_Main,Bandido 1,0,0,0,,¡Muchas gracias!
+Dialogue: 0,0:20:07.81,0:20:10.17,Gen_Main,Bandido 2,0,0,0,,¡Podré darle de comer a mi hijo!
+Dialogue: 0,0:20:11.36,0:20:13.13,Gen_Main,Bandido 1,0,0,0,,No volveremos a hacer esto.
+Dialogue: 0,0:20:14.44,0:20:16.33,Gen_Main,Bandido 1/Bandido 2,0,0,0,,-Vamos.\N-Sí.
+Dialogue: 0,0:20:18.70,0:20:21.15,Gen_Main,Bandido 3/Bandido 2,0,0,0,,-Le debemos mucho.\N-Sí.
+Dialogue: 0,0:20:22.74,0:20:24.67,Gen_Italics,Serafina,0,0,0,,Debo aguantar un poco más.
+Dialogue: 0,0:20:24.95,0:20:27.06,Gen_Italics,Serafina,0,0,0,,Voy a conquistar Oriente,
+Dialogue: 0,0:20:28.67,0:20:31.72,Gen_Italics,Serafina,0,0,0,,para que así así puedan\Nvivir una vida plena.
+Dialogue: 0,0:20:39.47,0:20:40.89,Gen_Main,Serafina,0,0,0,,Me despido.
+Dialogue: 0,0:20:41.34,0:20:45.85,Gen_Main,Serafina,0,0,0,,Lucharé con todo lo que tengo\Npor el pueblo y por el reino.
+Dialogue: 0,0:20:45.93,0:20:46.89,Gen_Main,Serafina,0,0,0,,Protégeme…
+Dialogue: 0,0:20:49.19,0:20:50.56,Gen_Main,Serafina,0,0,0,,Princesa Wysteresia.
+Dialogue: 0,0:20:50.65,0:20:52.01,Gen_Main,Sidius,0,0,0,,Serafina.
+Dialogue: 0,0:20:54.90,0:20:56.15,Gen_Main,Serafina,0,0,0,,Sidius…
+Dialogue: 0,0:20:56.69,0:20:59.90,Gen_Main,Sidius,0,0,0,,¿De nuevo fracasaste en la fiesta\Npara encontrar marido?
+Dialogue: 0,0:21:00.82,0:21:04.08,Gen_Main,Serafina,0,0,0,,¿De qué hablas? Estoy a punto de salir…
+Dialogue: 0,0:21:04.16,0:21:05.19,Gen_Main,Sidius,0,0,0,,Cállate.
+Dialogue: 0,0:21:05.49,0:21:07.76,Gen_Main,Sidius,0,0,0,,¿Una mujer queriendo ser caballero?
+Dialogue: 0,0:21:07.83,0:21:10.02,Gen_Main,Sidius,0,0,0,,¿Cuánto más seguirás con tu egoísmo?
+Dialogue: 0,0:21:10.12,0:21:11.30,Gen_Main,Serafina,0,0,0,,¿De qué hablas?
+Dialogue: 0,0:21:11.37,0:21:13.85,Gen_Main,Sidius,0,0,0,,Ya demostraste quién eres.
+Dialogue: 0,0:21:14.00,0:21:16.34,Gen_Main,Sidius,0,0,0,,Cásate mientras queden candidatos.
+Dialogue: 0,0:21:16.55,0:21:18.71,Gen_Main,Sidius,0,0,0,,Una espada nunca cambió una política.
+Dialogue: 0,0:21:18.80,0:21:21.47,Gen_Main,Sidius,0,0,0,,Sera…
+Dialogue: 0,0:21:21.55,0:21:26.42,Gen_Main,Veor,0,0,0,,Sera… Sera… ¡Sera!
+Dialogue: 0,0:21:26.51,0:21:30.18,Gen_Main,Veor,0,0,0,,¡Quiero que seas mi esposa!
+Dialogue: 0,0:21:30.27,0:21:32.18,Gen_Main,Serafina,0,0,0,,¡¿Qué es esto?!
+Dialogue: 0,0:21:32.27,0:21:37.19,Gen_Main,Veor,0,0,0,,¡Vas a ser mi esposa!
+Dialogue: 0,0:21:43.11,0:21:47.18,Gen_Main,Serafina,0,0,0,,¿Un sueño? ¿Con el bárbaro? ¿Por qué?
+Dialogue: 0,0:21:51.21,0:21:54.46,Gen_Italics,Serafina,0,0,0,,¿Y ese sonido?
+Dialogue: 0,0:22:08.97,0:22:09.97,Cart_A_Ari,CARTEL,0,0,0,,{\an8\fnTimes New Roman\b1\c&HFAFDFE&\3c&H3D6671&\4c&H372771&\shad2\fs28\pos(320,85)}T{\c&HF8FCFD&}h{\c&HF6FBFC&}e{\c&HF4FAFB&} {\c&HF2F9FA&}W{\c&HF1F8FA&}a{\c&HEFF7F9&}r{\c&HEDF6F8&}r{\c&HEBF5F7&}i{\c&HE9F4F6&}o{\c&HE7F3F5&}r{\c&HE5F2F4&} {\c&HE3F1F3&}P{\c&HE2F0F3&}r{\c&HE0EFF2&}i{\c&HDEEEF1&}n{\c&HDCEDF0&}c{\c&HDAECEF&}e{\c&HD8EBEE&}s{\c&HD6EAED&}s{\c&HD4E9EC&} {\c&HD3E7EC&}a{\c&HD1E6EB&}n{\c&HCFE5EA&}d{\c&HCDE4E9&} {\c&HCBE3E8&}t{\c&HC9E2E7&}h{\c&HC7E1E6&}e{\c&HC5E0E5&} {\c&HC4DFE5&}B{\c&HC2DEE4&}a{\c&HC0DDE3&}r{\c&HBEDCE2&}b{\c&HBCDBE1&}a{\c&HBADAE0&}r{\c&HB8D9DF&}i{\c&HB6D8DE&}c{\c&HB5D7DE&} {\c&HB3D6DD&}K{\c&HB1D5DC&}i{\c&HAFD4DB&}n{\c&HADD3DA&}g
+Dialogue: 0,0:23:37.56,0:23:39.92,Cart_A_Tre,CARTEL,0,0,0,,Traducción: Facu Salas

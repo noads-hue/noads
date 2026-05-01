@@ -1,0 +1,262 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Nota,Trebuchet MS,20,&H00000000,&H000000FF,&H00262626,&H00505050,0,0,0,0,100,100,0,0,1,0,0,5,10,10,18,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.95,0:00:13.68,Gen_Italics,Serafina,0,0,0,,Queridos padre y madre,\Nque están en el cielo…
+Dialogue: 0,0:00:15.70,0:00:17.44,Gen_Main,Guerreros,0,0,0,,Me muero por pelear…
+Dialogue: 0,0:00:21.71,0:00:25.14,Gen_Italics,Serafina,0,0,0,,Hoy podría ser el día de mi muerte.
+Dialogue: 0,0:00:27.55,0:00:31.13,Gen_Main,Guerrero 1,0,0,0,,¡Me corresponde ser el primero\Nen pelear contra Casco de cristal!
+Dialogue: 0,0:00:31.22,0:00:34.28,Gen_Main,Guerrero 2,0,0,0,,¡Ni hablar, mocoso! ¡Yo pelearé primero!
+Dialogue: 0,0:00:35.22,0:00:37.63,Gen_Main,Guerrero 3,0,0,0,,¡Estoy harto de esperar!
+Dialogue: 0,0:00:39.90,0:00:43.67,Gen_Main,Serafina,0,0,0,,¡¿Quién carajo es toda esta gente?!
+Dialogue: 0,0:01:01.96,0:01:09.55,Cart_A_Tim,CARTEL,0,0,0,,{\fad(2500,1725)\an2\fnTimes New Roman\b1\c&HFAFDFE&\3c&H3D6671&\4c&H372771&\shad2\fs26\t(0,3600,\fs28)\move(320,120,320,110,0,3600)}T{\c&HF8FCFD&}h{\c&HF6FBFC&}e{\c&HF4FAFB&} {\c&HF2F9FA&}W{\c&HF1F8FA&}a{\c&HEFF7F9&}r{\c&HEDF6F8&}r{\c&HEBF5F7&}i{\c&HE9F4F6&}o{\c&HE7F3F5&}r{\c&HE5F2F4&} {\c&HE3F1F3&}P{\c&HE2F0F3&}r{\c&HE0EFF2&}i{\c&HDEEEF1&}n{\c&HDCEDF0&}c{\c&HDAECEF&}e{\c&HD8EBEE&}s{\c&HD6EAED&}s{\c&HD4E9EC&} {\c&HD3E7EC&}a{\c&HD1E6EB&}n{\c&HCFE5EA&}d{\c&HCDE4E9&} {\c&HCBE3E8&}t{\c&HC9E2E7&}h{\c&HC7E1E6&}e{\c&HC5E0E5&} {\c&HC4DFE5&}B{\c&HC2DEE4&}a{\c&HC0DDE3&}r{\c&HBEDCE2&}b{\c&HBCDBE1&}a{\c&HBADAE0&}r{\c&HB8D9DF&}i{\c&HB6D8DE&}c{\c&HB5D7DE&} {\c&HB3D6DD&}K{\c&HB1D5DC&}i{\c&HAFD4DB&}n{\c&HADD3DA&}g
+Dialogue: 0,0:02:25.46,0:02:27.71,Gen_Main,Serafina,0,0,0,,¿Preparativos para una reunión?
+Dialogue: 0,0:02:29.08,0:02:34.14,Gen_Main,Veor,0,0,0,,Ya reuní a los ancianos de las tribus\Npara poder presentarte en condiciones.
+Dialogue: 0,0:02:34.43,0:02:38.24,Gen_Main,Veor,0,0,0,,El lugar… es ahí. ¿Lo puedes ver?
+Dialogue: 0,0:02:38.76,0:02:41.21,Gen_Main,Veor,0,0,0,,El hogar original de nuestra gente,
+Dialogue: 0,0:02:41.31,0:02:43.74,Gen_Main,Veor,0,0,0,,la gran aldea gobernada\Npor el Gran Caudillo.
+Dialogue: 0,0:02:44.39,0:02:46.42,Gen_Main,Veor,0,0,0,,Caserío Ribereño.
+Dialogue: 0,0:02:47.02,0:02:50.75,Gen_Main,Veor,0,0,0,,El asentamiento\Nmás grande de la región.
+Dialogue: 0,0:02:51.44,0:02:54.49,Gen_Main,Serafina,0,0,0,,Ya lo había visto a lo lejos, pero…\NUn momento.
+Dialogue: 0,0:02:54.80,0:02:57.89,Gen_Main,Serafina,0,0,0,,¿Por qué me cuentas\Ninformación tan delicada?
+Dialogue: 0,0:02:57.99,0:02:59.76,Gen_Main,Serafina,0,0,0,,¡¿No es un secreto militar?!
+Dialogue: 0,0:03:02.33,0:03:04.52,Gen_Main,Veor,0,0,0,,¿Por qué te preocupa tanto?
+Dialogue: 0,0:03:05.12,0:03:07.01,Gen_Main,Serafina,0,0,0,,Hablemos de supuestos…
+Dialogue: 0,0:03:08.08,0:03:11.71,Gen_Main,Serafina,0,0,0,,Si yo lograra escapar\Ny ser rescatada por mis tropas,
+Dialogue: 0,0:03:11.80,0:03:15.25,Gen_Main,Serafina,0,0,0,,que conociera sobre\Nsus asentamientos y su territorio…
+Dialogue: 0,0:03:15.50,0:03:19.72,Gen_Main,Serafina,0,0,0,,¿No podría llevarlos a su destrucción?
+Dialogue: 0,0:03:25.56,0:03:27.82,Gen_Main,Serafina,0,0,0,,¡Lo estaba preguntando en serio!
+Dialogue: 0,0:03:27.90,0:03:32.94,Gen_Main,Serafina,0,0,0,,¿O acaso crees que no tengo\Nninguna oportunidad de escapar?
+Dialogue: 0,0:03:33.40,0:03:35.44,Gen_Main,Veor,0,0,0,,No es que te subestime, pero…
+Dialogue: 0,0:03:37.99,0:03:44.05,Gen_Main,Veor,0,0,0,,¿No estabas encandilada\Npor mi cara recién afeitada?
+Dialogue: 0,0:03:49.25,0:03:51.52,Gen_Main,Serafina,0,0,0,,¡Solo estaba confundida!
+Dialogue: 0,0:03:58.72,0:04:01.63,Gen_Main,Serafina,0,0,0,,¿Sigues insistiendo con eso?\NEres muy infantil.
+Dialogue: 0,0:04:01.72,0:04:03.35,Gen_Main,Veor,0,0,0,,¿Te da vergüenza?
+Dialogue: 0,0:04:03.43,0:04:05.68,Gen_Main,Veor/Serafina,0,0,0,,-Eres tan adorable.\N-¡¿Ado…?!
+Dialogue: 0,0:04:07.23,0:04:09.94,Gen_Main,Veor,0,0,0,,Además, tus preocupaciones\Nya no tendrán sentido
+Dialogue: 0,0:04:10.02,0:04:12.04,Gen_Main,Veor,0,0,0,,si no quieres regresar a tu hogar.
+Dialogue: 0,0:04:13.61,0:04:16.72,Gen_Main,Veor,0,0,0,,Ya te dije que voy a hacerte mi esposa.
+Dialogue: 0,0:04:16.82,0:04:18.92,Gen_Main,Veor,0,0,0,,Eso incluye hacer que te enamores de mí.
+Dialogue: 0,0:04:20.74,0:04:23.44,Gen_Main,Serafina,0,0,0,,¡¿De dónde sacas tanta confianza?!
+Dialogue: 0,0:04:25.49,0:04:27.69,Gen_Main,Cersei,0,0,0,,Ya parecen casados y todo…
+Dialogue: 0,0:04:37.60,0:04:40.44,Gen_Main,Serafina,0,0,0,,¡¿Quién carajo es toda esta gente?!
+Dialogue: 0,0:04:40.51,0:04:44.80,Gen_Main,Guerrero 2,0,0,0,,¡Amo Voz Estruendosa!\N¡Déjeme enfrentar a esta mujer!
+Dialogue: 0,0:04:44.89,0:04:47.30,Gen_Main,Guerrero 1,0,0,0,,¡Mi hacha no esperará mucho más!
+Dialogue: 0,0:04:47.39,0:04:49.83,Gen_Main,Guerrero 3,0,0,0,,¡Quiero enfrentarla solo una vez!
+Dialogue: 0,0:04:50.19,0:04:52.17,Gen_Italics,Serafina,0,0,0,,Ya veo, se quieren vengar.
+Dialogue: 0,0:04:52.48,0:04:56.33,Gen_Italics,Serafina,0,0,0,,Por sus camaradas bárbaros\Na los que asesiné…
+Dialogue: 0,0:04:57.28,0:04:58.40,Gen_Main,Veor,0,0,0,,Sera.
+Dialogue: 0,0:04:58.98,0:05:02.84,Gen_Main,Veor,0,0,0,,No te pongas tan tensa,\Nyo me encargo de explicarles.
+Dialogue: 0,0:05:06.24,0:05:08.53,Gen_Main,Veor,0,0,0,,¡Mis valientes guerreros!
+Dialogue: 0,0:05:08.62,0:05:11.35,Gen_Main,Veor,0,0,0,,¡Les agradezco la bienvenida\Na Casco de cristal!
+Dialogue: 0,0:05:13.17,0:05:18.08,Gen_Main,Veor,0,0,0,,Sin embargo, hoy está aquí presente\Npara compartir mesa con los ancianos.
+Dialogue: 0,0:05:18.42,0:05:22.37,Gen_Main,Veor,0,0,0,,Y aunque comprendo cómo se sienten\Nfrente a un adversario poderoso,
+Dialogue: 0,0:05:22.47,0:05:23.97,Gen_Main,Veor,0,0,0,,pido que mantengan la calma.
+Dialogue: 0,0:05:28.66,0:05:31.85,Gen_Main,Guerrero 1,0,0,0,,Si eso es lo que quiere el amo,\Npues que así sea.
+Dialogue: 0,0:05:31.94,0:05:32.85,Gen_Italics,Serafina,0,0,0,,¿Qué…?
+Dialogue: 0,0:05:32.94,0:05:35.88,Gen_Italics,Serafina,0,0,0,,Toda esa sed de sangre… desapareció.
+Dialogue: 0,0:05:32.94,0:05:35.00,Gen_Main_Up,Guerreros,0,0,0,,¡Parece que nos precipitamos!
+Dialogue: 0,0:05:38.64,0:05:41.36,Gen_Italics,Serafina,0,0,0,,¿Dijo que soy un adversario poderoso?
+Dialogue: 0,0:05:41.99,0:05:44.20,Gen_Main,Serafina,0,0,0,,¿Qué está sucediendo? ¿Qué es esto?
+Dialogue: 0,0:05:44.49,0:05:46.75,Gen_Main,Serafina,0,0,0,,¿Por qué están todos reunidos?
+Dialogue: 0,0:05:47.83,0:05:51.79,Gen_Main,Veor,0,0,0,,Para darte la bienvenida.\NY porque quieren entrenar contigo.
+Dialogue: 0,0:05:51.87,0:05:55.05,Gen_Main,Serafina,0,0,0,,¿Ellos quieren entrenar conmigo?
+Dialogue: 0,0:05:57.34,0:06:02.77,Gen_Main,Serafina,0,0,0,,¡Oye, esto no tiene ningún sentido!\N¿No deberían estar buscando vengarse?
+Dialogue: 0,0:06:03.18,0:06:07.65,Gen_Main,Veor,0,0,0,,¿Vengarse? ¿De verdad te preocupaba eso?
+Dialogue: 0,0:06:09.64,0:06:14.42,Gen_Main,Veor,0,0,0,,Valientes guerreros… ¡¿Alguno tiene\Ncuentas pendientes con Casco de cristal?
+Dialogue: 0,0:06:16.02,0:06:18.86,Gen_Main,Veor,0,0,0,,Si no es el caso, ¡apártense del camino!
+Dialogue: 0,0:06:23.20,0:06:28.17,Gen_Main,Guerreros,0,0,0,,¡Nosotros, los guerreros,\Nno guardamos ningún rencor!
+Dialogue: 0,0:06:33.14,0:06:34.18,Gen_Main,Veor,0,0,0,,Sígueme.
+Dialogue: 0,0:06:36.04,0:06:39.77,Gen_Italics,Serafina,0,0,0,,¿Lo están obedeciendo solo por ser\Nel heredero del Gran Caudillo?
+Dialogue: 0,0:06:40.34,0:06:41.92,Gen_Italics,Serafina,0,0,0,,¡Tendré que aprovecharlo!
+Dialogue: 0,0:06:46.93,0:06:49.51,Gen_Italics,Serafina,0,0,0,,Soy la capitana del ejército\Nde expedición oriental.
+Dialogue: 0,0:06:49.85,0:06:52.95,Gen_Italics,Serafina,0,0,0,,No puedo darme el lujo de temer,\Nsea cual sea la situación.
+Dialogue: 0,0:06:58.11,0:06:59.70,Gen_Main,Guerrero 1,0,0,0,,¡Casco de cristal!
+Dialogue: 0,0:07:02.28,0:07:06.24,Gen_Main,Guerrero 1,0,0,0,,¡El otro día dio una demostración\Nde artes marciales con su duelo!
+Dialogue: 0,0:07:06.58,0:07:08.19,Gen_Main,Guerrero 1,0,0,0,,¡Realmente maravillosa!
+Dialogue: 0,0:07:09.66,0:07:11.41,Gen_Main,Guerrero 3,0,0,0,,¡Tiene razón!
+Dialogue: 0,0:07:11.49,0:07:14.33,Gen_Main,Guerrero 3,0,0,0,,¡Es muy brava para enfrentarse al amo!
+Dialogue: 0,0:07:14.41,0:07:16.22,Gen_Main,Guerrero 2,0,0,0,,Y también es una belleza.
+Dialogue: 0,0:07:16.29,0:07:18.62,Gen_Main,Guerrero 1,0,0,0,,¡Cómo quisiera que fuera mi esposa!
+Dialogue: 0,0:07:18.71,0:07:22.24,Gen_Main,Guerreros,0,0,0,,No puedo olvidar que cortó piedras\Ncomo si no fueran nada.
+Dialogue: 0,0:07:22.34,0:07:26.63,Gen_Main,Guerreros,0,0,0,,-Qué mujer tan increíble.\N-Ojalá tenga hijos sanos y fuertes.
+Dialogue: 0,0:07:27.16,0:07:31.47,Gen_Main,Serafina,0,0,0,,¡¿De qué están hablando?!\N¿Olvidaron que soy del enemigo?
+Dialogue: 0,0:07:31.56,0:07:34.36,Gen_Main,Veor,0,0,0,,Ya te lo dije, no te guardan rencor.
+Dialogue: 0,0:07:36.27,0:07:39.87,Gen_Main,Veor,0,0,0,,Apreciamos a la gente fuerte.
+Dialogue: 0,0:07:39.94,0:07:45.99,Gen_Main,Veor,0,0,0,,Esos son los valores de mi gente.\NY, en especial, de estos hombres.
+Dialogue: 0,0:08:30.53,0:08:31.63,Gen_Main,Veor,0,0,0,,Cersei.
+Dialogue: 0,0:08:32.12,0:08:33.80,Gen_Main,Cersei,0,0,0,,¿Qué necesita, amo?
+Dialogue: 0,0:08:33.87,0:08:36.53,Gen_Main,Veor,0,0,0,,En esta casa están hirviendo agua.
+Dialogue: 0,0:08:36.91,0:08:39.30,Gen_Main,Veor,0,0,0,,Quiero que disfruten su hospitalidad.
+Dialogue: 0,0:08:40.62,0:08:45.19,Gen_Main,Cersei,0,0,0,,¿Usted qué piensa hacer\Nmientras tanto, amo Veor?
+Dialogue: 0,0:08:45.25,0:08:48.41,Gen_Main,Veor,0,0,0,,Solo debo ocuparme de unas cosas.
+Dialogue: 0,0:08:48.51,0:08:51.42,Gen_Main,Veor,0,0,0,,Debo hablar primero con los ancianos.
+Dialogue: 0,0:08:51.84,0:08:52.94,Gen_Main,Veor,0,0,0,,Volveré enseguida.
+Dialogue: 0,0:08:53.51,0:08:57.27,Gen_Main,Veor,0,0,0,,¡Hola, residentes! Soy Voz Estruendosa.
+Dialogue: 0,0:08:58.06,0:08:59.52,Gen_Main,Yufa,0,0,0,,¿Es usted, amo?
+Dialogue: 0,0:09:03.40,0:09:05.32,Gen_Main,Yufa,0,0,0,,¿Cómo puedo ayudarlo?
+Dialogue: 0,0:09:06.72,0:09:11.12,Gen_Main,Veor,0,0,0,,Lamento importunar, pero\N¿podrían compartirles agua caliente?
+Dialogue: 0,0:09:11.53,0:09:14.51,Gen_Main,Veor,0,0,0,,La rubia se convertirá en mi esposa.
+Dialogue: 0,0:09:14.58,0:09:17.68,Gen_Main,Serafina/Yufa,0,0,0,,-¡Oye!\N-¡Qué noticia tan maravillosa!
+Dialogue: 0,0:09:18.00,0:09:21.12,Gen_Main,Yufa,0,0,0,,¡Santo cielo! Pero si es una belleza.
+Dialogue: 0,0:09:21.21,0:09:24.97,Gen_Main,Yufa,0,0,0,,Y tiene el mismo color de ojos\Nque la esposa del Gran Caudillo.
+Dialogue: 0,0:09:30.63,0:09:34.96,Gen_Main,Yufa,0,0,0,,Vaya, parece que satisfará\Nal amo Voz Estruendosa.
+Dialogue: 0,0:09:35.64,0:09:38.57,Gen_Main_Up,Yufa,0,0,0,,¡Vamos, no pasa nada!
+Dialogue: 0,0:09:35.81,0:09:41.09,Gen_Main,Serafina,0,0,0,,¡Oye, acabamos de conocernos!\N¡¿Qué son esas confianzas?! ¡Oye!
+Dialogue: 0,0:09:39.56,0:09:41.09,Gen_Main_Up,Veor,0,0,0,,Te la encargo.
+Dialogue: 0,0:09:47.94,0:09:50.99,Gen_Main,Yufa,0,0,0,,No pretendía ofenderte.\NEspero que puedas perdonarme.
+Dialogue: 0,0:09:52.15,0:09:55.79,Gen_Main,Serafina,0,0,0,,Está bien, el perdón\Nes una virtud de caballeros.
+Dialogue: 0,0:09:56.12,0:09:58.97,Gen_Main,Yufa,0,0,0,,El amo Voz Estruendosa\Ntiene una esposa muy buena.
+Dialogue: 0,0:09:59.33,0:10:01.19,Gen_Main,Serafina,0,0,0,,¡No me llames su esposa!
+Dialogue: 0,0:10:01.29,0:10:02.22,Gen_Main,Regina,0,0,0,,Válgame.
+Dialogue: 0,0:10:04.54,0:10:06.97,Gen_Main,Yufa,0,0,0,,Ya sé, podríamos preparar\Nun té medicinal.
+Dialogue: 0,0:10:07.59,0:10:08.59,Gen_Main,Yufa,0,0,0,,¿Puedes ir?
+Dialogue: 0,0:10:18.68,0:10:21.62,Gen_Main,Yufa,0,0,0,,¡Bien hecho, Gatar!\NRecordaste en dónde estaba.
+Dialogue: 0,0:10:22.39,0:10:24.60,Gen_Main,Serafina,0,0,0,,¿Le agregan hierbas medicinales al té?
+Dialogue: 0,0:10:24.69,0:10:28.79,Gen_Main,Yufa,0,0,0,,Así es. Es bastante común en la zona.
+Dialogue: 0,0:10:28.86,0:10:30.58,Gen_Main,Yufa,0,0,0,,Espero que te guste.
+Dialogue: 0,0:10:30.94,0:10:34.13,Gen_Main,Regina,0,0,0,,Vamos a necesitar más agua caliente.
+Dialogue: 0,0:10:36.16,0:10:37.95,Gen_Main,Yufa,0,0,0,,Hagan crecer el fuego.
+Dialogue: 0,0:10:40.58,0:10:43.99,Gen_Main,Serafina/Yufa,0,0,0,,-¿Qué están haciendo?\N-Fueron a buscar más leña.
+Dialogue: 0,0:10:44.08,0:10:47.72,Gen_Main,Serafina,0,0,0,,Tienen un paso muy firme\Na pesar de su edad.
+Dialogue: 0,0:10:48.09,0:10:50.39,Gen_Main,Serafina,0,0,0,,Tan jóvenes y con bases de guerrero…
+Dialogue: 0,0:10:58.89,0:11:01.68,Gen_Main,Yufa,0,0,0,,En realidad, solo nos están imitando.
+Dialogue: 0,0:11:01.97,0:11:05.78,Gen_Main,Yufa,0,0,0,,Últimamente, Ena también\Nes un buen ejemplo para Gatar.
+Dialogue: 0,0:11:05.85,0:11:07.46,Gen_Main,Yufa,0,0,0,,Es un gran alivio.
+Dialogue: 0,0:11:07.56,0:11:09.44,Gen_Main,Regina,0,0,0,,También lo es para mí.
+Dialogue: 0,0:11:11.07,0:11:14.92,Gen_Italics,Serafina,0,0,0,,Entonces, ¿ellas no son parientes?
+Dialogue: 0,0:11:17.03,0:11:19.15,Gen_Main,Yufa,0,0,0,,Ya debería estar listo.
+Dialogue: 0,0:11:19.24,0:11:22.01,Gen_Main,Yufa,0,0,0,,Aquí tienes,\Nbebe antes de que se enfríe.
+Dialogue: 0,0:11:27.62,0:11:28.67,Gen_Main,Serafina,0,0,0,,Qué rico.
+Dialogue: 0,0:11:31.59,0:11:37.30,Gen_Main,Cersei,0,0,0,,¿Incluso una noble como usted\Naprecia el sabor de un té rústico?
+Dialogue: 0,0:11:37.38,0:11:39.82,Gen_Italics,Serafina,0,0,0,,Tiene un aroma muy particular,
+Dialogue: 0,0:11:39.89,0:11:42.29,Gen_Italics,Serafina,0,0,0,,pero es tan refrescante\Nque lo compensa.
+Dialogue: 0,0:11:42.39,0:11:46.07,Gen_Italics,Serafina,0,0,0,,Es como si las hierbas medicinales\Npenetraran todo mi cuerpo.
+Dialogue: 0,0:11:46.14,0:11:51.35,Gen_Main,Cersei,0,0,0,,Bueno, son hierbas de alta calidad\Nde espíritus del Árbol Sagrado.
+Dialogue: 0,0:11:52.52,0:11:55.06,Gen_Main,Yufa,0,0,0,,Me alegro que les guste.
+Dialogue: 0,0:11:55.36,0:11:57.05,Gen_Main,Regina,0,0,0,,¿Quisieras beber más?
+Dialogue: 0,0:11:57.32,0:11:58.34,Gen_Main,Serafina,0,0,0,,¡Sí, por favor!
+Dialogue: 0,0:12:10.08,0:12:13.46,Gen_Main,Serafina,0,0,0,,¿Son comunes las casas compartidas\Nen territorio bárbaro?
+Dialogue: 0,0:12:14.67,0:12:17.06,Gen_Main,Serafina,0,0,0,,Es que no parecen ser familiares.
+Dialogue: 0,0:12:17.42,0:12:20.48,Gen_Main,Serafina,0,0,0,,Tampoco me puedo imaginar\Nque vivan ustedes cuatro solos.
+Dialogue: 0,0:12:21.05,0:12:23.61,Gen_Main,Serafina,0,0,0,,¿Están casadas\Ncon algún guerrero de afuera?
+Dialogue: 0,0:12:24.22,0:12:25.60,Gen_Main,Yufa,0,0,0,,La verdad…
+Dialogue: 0,0:12:27.10,0:12:31.12,Gen_Main,Yufa,0,0,0,,es que nuestros esposos\Nfallecieron hace ya un tiempo.
+Dialogue: 0,0:12:32.94,0:12:37.22,Gen_Main,Yufa,0,0,0,,El mío falleció por la guerra,\Nen occidente. Yo estaba embarazada.
+Dialogue: 0,0:12:37.32,0:12:41.38,Gen_Main,Yufa,0,0,0,,Lo hirieron de gravedad\Ny ese fue su final.
+Dialogue: 0,0:12:46.70,0:12:51.01,Gen_Italics,Serafina,0,0,0,,Fueron víctimas del ejército\Nde expedición oriental. Mi ejército.
+Dialogue: 0,0:12:52.08,0:12:54.70,Gen_Italics,Serafina,0,0,0,,Fue necesario para conseguir\Nrecursos para mi pueblo.
+Dialogue: 0,0:12:55.25,0:12:58.11,Gen_Italics,Serafina,0,0,0,,Solo fue un enfrentamiento\Nentre soldados enemigos.
+Dialogue: 0,0:12:58.55,0:13:01.81,Gen_Italics,Serafina,0,0,0,,No necesito sentir compasión\Npor estas bárbaras.
+Dialogue: 0,0:13:03.93,0:13:07.66,Gen_Italics,Serafina,0,0,0,,Sí… Ojalá pudiera\Nhacerme creer eso de verdad.
+Dialogue: 0,0:13:15.90,0:13:20.93,Gen_Main,Serafina,0,0,0,,No puedo pedir perdón por las vidas\Nque se perdieron con nuestra expedición.
+Dialogue: 0,0:13:21.99,0:13:23.12,Gen_Main,Serafina,0,0,0,,Pero acepto su odio.
+Dialogue: 0,0:13:23.95,0:13:26.88,Gen_Main,Serafina,0,0,0,,Me derrotaron y me aprisionaron.
+Dialogue: 0,0:13:27.20,0:13:29.93,Gen_Main,Serafina,0,0,0,,Tienen el derecho\Na vengar a sus esposos.
+Dialogue: 0,0:13:32.25,0:13:33.47,Gen_Main,Yufa,0,0,0,,¿Qué?
+Dialogue: 0,0:13:35.79,0:13:40.06,Gen_Main,Yufa,0,0,0,,¿Vengarnos? ¿Por qué querríamos eso?
+Dialogue: 0,0:13:41.34,0:13:45.76,Gen_Main,Serafina,0,0,0,,¿Lo preguntas en serio?\NQuien les arrebató la vida…
+Dialogue: 0,0:13:47.26,0:13:49.53,Gen_Main,Serafina,0,0,0,,¡Pude haber sido yo!
+Dialogue: 0,0:13:54.35,0:13:58.70,Gen_Main,Yufa,0,0,0,,Me entristece un poco que mi hijo\Nno vaya a recordar la cara de su padre.
+Dialogue: 0,0:14:04.61,0:14:08.35,Gen_Main,Yufa,0,0,0,,Pero tuvo la suerte\Nde acompañarlo cuando falleció.
+Dialogue: 0,0:14:12.50,0:14:15.37,Gen_Main,Yufa,0,0,0,,Y yo tuve la suerte de quedarme con él.
+Dialogue: 0,0:14:16.40,0:14:18.31,Gen_Main,Yufa,0,0,0,,La guerra no es lo único.
+Dialogue: 0,0:14:18.55,0:14:22.46,Gen_Main,Yufa,0,0,0,,Los hombres,\Nsea cazando dragones, bestias,
+Dialogue: 0,0:14:22.55,0:14:24.57,Gen_Main,Yufa,0,0,0,,o incluso monstruos…
+Dialogue: 0,0:14:25.01,0:14:27.85,Gen_Main,Yufa,0,0,0,,pueden lesionarse\Nhasta no poder volver a luchar,
+Dialogue: 0,0:14:27.93,0:14:30.32,Gen_Main,Yufa,0,0,0,,envejecen o se debilitan\Nhasta ser comidos.
+Dialogue: 0,0:14:35.02,0:14:39.08,Gen_Main,Yufa,0,0,0,,Da igual cómo,\Nacaban muriendo en combate.
+Dialogue: 0,0:14:39.36,0:14:43.67,Gen_Main,Yufa,0,0,0,,Es por eso que no sé qué hacer\Ncuando te veo tan compungida por eso.
+Dialogue: 0,0:14:44.86,0:14:48.34,Gen_Italics,Serafina,0,0,0,,Primero, los guerreros de recién.\NY ahora, estas mujeres…
+Dialogue: 0,0:14:49.20,0:14:51.73,Gen_Italics,Serafina,0,0,0,,¿Los bárbaros perciben\Nla vida y la muerte
+Dialogue: 0,0:14:51.83,0:14:55.35,Gen_Italics,Serafina,0,0,0,,de una forma tan diferente\Na como lo hacemos en Illdoren?
+Dialogue: 0,0:15:07.68,0:15:09.99,Gen_Main,Serafina/Cersei,0,0,0,,-¿Y ese sonido?\N-El silbato de dragón…
+Dialogue: 0,0:15:10.26,0:15:11.58,Gen_Main,Cersei,0,0,0,,¡Nos atacan!
+Dialogue: 0,0:15:43.44,0:15:45.13,Gen_Main,Serafina,0,0,0,,¿Qué es esa cosa?
+Dialogue: 0,0:15:45.22,0:15:47.90,Gen_Main,Cersei,0,0,0,,Es un dragón Tsukebikeshi.
+Dialogue: 0,0:15:48.22,0:15:51.44,Gen_Main,Cersei,0,0,0,,Si hay fuego en el bosque,\Nse dirige al origen del humo.
+Dialogue: 0,0:15:51.81,0:15:54.53,Gen_Main,Serafina,0,0,0,,Y ese mismo instinto lo atrajo aquí.
+Dialogue: 0,0:15:55.27,0:15:59.70,Gen_Main,Cersei,0,0,0,,Pero es raro. Los Tsukebikeshi\Nde la zona no se acercan a las aldeas.
+Dialogue: 0,0:15:59.77,0:16:02.54,Gen_Main,Cersei,0,0,0,,Aprendieron que,\Nsi lo hacen, los cazarán.
+Dialogue: 0,0:16:02.86,0:16:04.98,Gen_Main,Serafina,0,0,0,,Piensa luego. ¡Tienen que huir!
+Dialogue: 0,0:16:05.07,0:16:06.67,Gen_Main,Yufa,0,0,0,,Tiene razón.
+Dialogue: 0,0:16:11.99,0:16:14.18,Gen_Main,Cersei/Serafina,0,0,0,,-¡Rayos!\N-Le llamamos la atención.
+Dialogue: 0,0:16:17.00,0:16:18.90,Gen_Main,Cersei,0,0,0,,¡Tenemos que huir!
+Dialogue: 0,0:16:19.00,0:16:21.50,Gen_Main,Cersei,0,0,0,,¡Si le pasara algo,\Nno podría mirar a mi amo!
+Dialogue: 0,0:16:21.60,0:16:22.60,Gen_Main,Serafina,0,0,0,,Me niego.
+Dialogue: 0,0:16:23.38,0:16:25.80,Gen_Main,Cersei,0,0,0,,¡¿Cómo es tan ton…?!\N¡¿Acaso quiere morir?!
+Dialogue: 0,0:16:25.88,0:16:27.65,Gen_Main,Serafina,0,0,0,,¡Te pregunto lo mismo, idiota!
+Dialogue: 0,0:16:28.76,0:16:33.84,Gen_Main,Serafina,0,0,0,,Ustedes, bárbaros, están demasiado\Nacostumbrados a la muerte ajena.
+Dialogue: 0,0:16:33.93,0:16:35.31,Gen_Main,Serafina,0,0,0,,Me saca de quicio.
+Dialogue: 0,0:16:36.02,0:16:40.11,Gen_Main,Serafina,0,0,0,,Y otra cosa, sirvienta…\NNo, voy a usar tu nombre real.
+Dialogue: 0,0:16:40.19,0:16:44.12,Gen_Main,Serafina,0,0,0,,Cersei, ¿con quién crees\Nque estás tratando?
+Dialogue: 0,0:16:44.90,0:16:48.83,Gen_Main,Serafina,0,0,0,,Soy la capitana de los caballeros\Ndel reino de Illdoren.
+Dialogue: 0,0:16:51.07,0:16:53.69,Gen_Main,Serafina,0,0,0,,¡Serafina de Lavillant!
+Dialogue: 0,0:16:58.62,0:17:00.60,Gen_Main,Cersei,0,0,0,,¿Con las pinzas para el fuego?
+Dialogue: 0,0:17:00.78,0:17:03.54,Gen_Main,Cersei,0,0,0,,¡Qué locura! ¡No debería\Npelear con un dragón con eso!
+Dialogue: 0,0:17:03.63,0:17:05.23,Gen_Main,Serafina,0,0,0,,Cállate, me distraes.
+Dialogue: 0,0:17:13.51,0:17:17.56,Gen_Main,Serafina,0,0,0,,Además, algo me quedó claro\Ntras darle el primer golpe.
+Dialogue: 0,0:17:17.93,0:17:23.33,Gen_Main,Serafina,0,0,0,,¡Este intento de pájaro no es nada\Ncomparado con la espada del barbudo!
+Dialogue: 0,0:17:23.69,0:17:27.28,Gen_Main,Serafina,0,0,0,,Además, por mi honor como caballero,\Nsi tengo gente a mis espaldas
+Dialogue: 0,0:17:27.36,0:17:29.96,Gen_Main,Serafina,0,0,0,,a la que debo defender,\N¡nunca me retiraré!
+Dialogue: 0,0:17:41.21,0:17:44.04,Gen_Main,Serafina,0,0,0,,¡¿Qué hacen aquí?! ¡Huyan de una vez!
+Dialogue: 0,0:17:44.13,0:17:45.63,Gen_Main,Yufa,0,0,0,,¡Enseguida!
+Dialogue: 0,0:17:45.71,0:17:47.09,Gen_Main,Cersei,0,0,0,,Pero…
+Dialogue: 0,0:17:47.50,0:17:52.11,Gen_Main,Serafina,0,0,0,,Puedo encargarme de un enemigo así\Nmientras van a resguardarse.
+Dialogue: 0,0:17:55.60,0:17:57.74,Gen_Main,Serafina,0,0,0,,¡Y encima, me están estorbando!
+Dialogue: 0,0:17:59.18,0:18:01.99,Gen_Main,Cersei,0,0,0,,¡Me reiré de usted si muere!
+Dialogue: 0,0:18:03.94,0:18:05.84,Gen_Main,Serafina,0,0,0,,Préstame atención, pajarraco.
+Dialogue: 0,0:18:07.65,0:18:09.62,Gen_Main,Serafina,0,0,0,,¡Te las vas a ver conmigo!
+Dialogue: 0,0:18:31.51,0:18:32.60,Gen_Main,Guerrero 2,0,0,0,,¡Amo!
+Dialogue: 0,0:18:32.67,0:18:34.16,Gen_Main,Veor,0,0,0,,¿Cuántos vinieron a la aldea?
+Dialogue: 0,0:18:34.26,0:18:35.42,Gen_Main,Guerrero 2,0,0,0,,Fueron cuatro.
+Dialogue: 0,0:18:35.72,0:18:39.60,Gen_Main,Veor,0,0,0,,Vean si hay alguien\Nque no haya podido huir.
+Dialogue: 0,0:18:39.68,0:18:41.74,Gen_Main,Veor,0,0,0,,¡Su prioridad son los aldeanos!
+Dialogue: 0,0:18:41.87,0:18:42.91,Gen_Main,Guerreros,0,0,0,,¡Enseguida!
+Dialogue: 0,0:18:43.35,0:18:48.94,Gen_Italics,Veor,0,0,0,,Sera estaba con Cersei.\NSeguro pudo escapar sana y salva.
+Dialogue: 0,0:18:50.23,0:18:52.00,Gen_Main,Veor,0,0,0,,¡Acabemos con la plaga!
+Dialogue: 0,0:19:05.12,0:19:07.28,Gen_Main,Veor,0,0,0,,¿Dónde está el último?
+Dialogue: 0,0:19:07.63,0:19:09.18,Gen_Main,Cersei,0,0,0,,¡Amo Veor!
+Dialogue: 0,0:19:10.00,0:19:11.19,Gen_Main,Veor,0,0,0,,¿Cersei?
+Dialogue: 0,0:19:11.50,0:19:15.44,Gen_Main,Cersei,0,0,0,,Un Tsukebikeshi destruyó la casa\Nen la que estábamos.
+Dialogue: 0,0:19:16.38,0:19:19.69,Gen_Main,Cersei,0,0,0,,Sera peleó para que podamos…
+Dialogue: 0,0:19:23.22,0:19:24.62,Gen_Main,Cersei,0,0,0,,Qué rápido.
+Dialogue: 0,0:19:31.02,0:19:36.21,Gen_Italics,Serafina,0,0,0,,Creí tener más opciones al aire libre,\Npero es mucho más rápido que yo.
+Dialogue: 0,0:19:49.50,0:19:53.03,Gen_Italics,Serafina,0,0,0,,No solo eso, me tomó como su objetivo…
+Dialogue: 0,0:19:53.13,0:19:55.48,Gen_Italics,Serafina,0,0,0,,Aún me queda resistencia, pero…
+Dialogue: 0,0:20:09.10,0:20:12.63,Gen_Italics,Serafina,0,0,0,,¿Me quiere atacar\Ntras haberme desarmado?
+Dialogue: 0,0:20:12.73,0:20:14.43,Gen_Italics,Serafina,0,0,0,,Es una criatura lista.
+Dialogue: 0,0:20:18.61,0:20:21.05,Gen_Italics,Serafina,0,0,0,,Después de invadir sus tierras…
+Dialogue: 0,0:20:22.41,0:20:26.46,Gen_Italics,Serafina,0,0,0,,Mostrar piedad por los débiles\Npodría ser pura hipocresía.
+Dialogue: 0,0:20:30.38,0:20:34.22,Gen_Italics,Serafina,0,0,0,,Pero pude vivir y morir como caballero.
+Dialogue: 0,0:20:36.59,0:20:38.29,Gen_Main,Veor,0,0,0,,¡Sera!
+Dialogue: 0,0:20:38.38,0:20:39.82,Gen_Main,Veor,0,0,0,,¡Tápate los oídos!
+Dialogue: 0,0:20:58.11,0:21:00.53,Gen_Main,Veor,0,0,0,,Perdóname, Sera. Llegué tarde.
+Dialogue: 0,0:21:06.08,0:21:07.49,Gen_Main,Veor,0,0,0,,Como próximo Gran Caudillo,
+Dialogue: 0,0:21:07.58,0:21:11.17,Gen_Main,Veor,0,0,0,,no puedo agradecerte lo suficiente.
+Dialogue: 0,0:21:11.54,0:21:14.73,Gen_Main,Veor,0,0,0,,por haber protegido a Cersei\Ny a la gente de la aldea.
+Dialogue: 0,0:21:17.38,0:21:21.28,Gen_Main,Veor,0,0,0,,Sin embargo, lo que más me tranquiliza…
+Dialogue: 0,0:21:23.30,0:21:24.74,Gen_Main,Veor,0,0,0,,es que tú estés bien.
+Dialogue: 0,0:21:32.19,0:21:35.48,Gen_Main,Serafina,0,0,0,,¿Eh? ¿Qué me pasa?
+Dialogue: 0,0:21:35.57,0:21:37.95,Gen_Main,Serafina,0,0,0,,¿Por qué estoy llorando?
+Dialogue: 0,0:21:39.82,0:21:40.82,Gen_Main,Serafina,0,0,0,,¿Por qué…?
+Dialogue: 0,0:22:01.92,0:22:03.99,Gen_Main,Cersei,0,0,0,,¡Amo Veor!
+Dialogue: 0,0:23:37.65,0:23:39.97,Cart_A_Tre,CARTEL,0,0,0,,Traducción: Facu Salas
