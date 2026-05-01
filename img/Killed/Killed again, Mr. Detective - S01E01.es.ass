@@ -1,0 +1,321 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.02,Gen_Main,,0,0,0,,
+Dialogue: 0,0:00:01.64,0:00:04.40,Gen_Italics,Sakuya,0,0,0,,Los detectives somos como las olas.
+Dialogue: 0,0:00:06.15,0:00:09.51,Gen_Italics,Sakuya,0,0,0,,Los criminales construyen\Nsus castillos de arena
+Dialogue: 0,0:00:09.59,0:00:12.51,Gen_Italics,Sakuya,0,0,0,,y nosotros se los derribamos al final.
+Dialogue: 0,0:00:18.45,0:00:20.43,Gen_Italics,Sakuya,0,0,0,,Las olas no son ni buenas ni malas.
+Dialogue: 0,0:00:20.79,0:00:22.52,Gen_Italics,Sakuya,0,0,0,,Tampoco compasivas o crueles.
+Dialogue: 0,0:00:23.02,0:00:27.30,Gen_Italics,Sakuya,0,0,0,,Solo devuelven todo a su estado natural.
+Dialogue: 0,0:00:31.86,0:00:35.01,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\b0\c&HD4D4D4&\fs26\pos(320,130)}Killed Again, Mr. Detective?
+Dialogue: 0,0:02:17.57,0:02:19.84,Gen_Italics,Sakuya,0,0,0,,Si los detectives son como olas,
+Dialogue: 0,0:02:19.92,0:02:23.23,Gen_Italics,Sakuya,0,0,0,,él es un enorme tsunami\Nque se traga toda la playa.
+Dialogue: 0,0:02:23.97,0:02:28.58,Gen_Italics,Sakuya,0,0,0,,Sin importar el caso, él lo resuelve,\Nlo destroza, le pone fin.
+Dialogue: 0,0:02:29.22,0:02:31.50,Gen_Italics,Sakuya,0,0,0,,Es el mejor detective de la historia,
+Dialogue: 1,0:02:31.50,0:02:35.46,Cart_A_Tre,CARTEL,0,0,0,,{\an7\p1\alpha60\bord0\c&H000000&\fscx123\fscy123\pos(9,10)\1a&H1E&}m 0 0 l 450 0 450 80 0 80
+Dialogue: 2,0:02:31.50,0:02:35.46,Cart_A_Tre,CARTEL,0,0,0,,{\fs16\bord0\an7\pos(11,11)}Arrestan al asesino de 66 agentes de policía.\NSe halla escondite del robo de euros.\NDetective inmortal resuelve el caso de las desapariciones en el Reino de Vanrecht.\NEl romance de los siete continentes:\Nfamoso detective captura a emperatriz.\NArrestan a culto de caníbales, otro trabajo de Tatsuya Otsuki
+Dialogue: 0,0:02:32.18,0:02:33.62,Gen_Italics,Sakuya,0,0,0,,Tatsuya Otsuki.
+Dialogue: 0,0:02:36.34,0:02:39.66,Gen_Italics,Sakuya,0,0,0,,Y yo soy su hijo, Sakuya Otsuki.
+Dialogue: 1,0:02:40.18,0:02:42.41,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,200)\an7\p1\alpha60\bord0\c&HD6D6D6&\fscx92\fscy82\pos(9,10)\1a&H1E&}m 0 0 l 415 0 415 80 0 80
+Dialogue: 2,0:02:40.18,0:02:42.41,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,200)\fs16\bord0\an7\pos(11,11)\c&H272727&}Padre,\Npara cuando leas esto, ya habré abandonado este mundo.\NNo tengo muchos recuerdos de tu crianza,\Npero te lo agradezco de igual manera.
+Dialogue: 0,0:02:43.45,0:02:49.98,Cart_A_Tre,CARTEL,0,0,0,,{\fad(150,0)\pos(320,183)\bord0\c&H292929&}Testamento
+Dialogue: 0,0:02:44.98,0:02:49.98,Gen_Main,Sakuya,0,0,0,,Lógico y justo.\NY con el toque justo de emotividad.
+Dialogue: 0,0:02:50.70,0:02:52.38,Gen_Italics,Sakuya,0,0,0,,¿Por qué escribo un testamento?
+Dialogue: 0,0:02:52.95,0:02:54.26,Gen_Italics,Sakuya,0,0,0,,Es mi rutina diaria.
+Dialogue: 0,0:02:55.49,0:03:00.15,Gen_Italics,Sakuya,0,0,0,,Pero si tuviera que dar una razón,\Nhoy se me rompió un cordón del zapato.
+Dialogue: 0,0:03:00.66,0:03:04.27,Gen_Italics,Sakuya,0,0,0,,O porque se me cruzó un gato negro.
+Dialogue: 0,0:03:20.86,0:03:25.22,Gen_Main,Lily,0,0,0,,Señor Sakuya, el resto ya partió\Na reunirse con el cliente.
+Dialogue: 0,0:03:25.81,0:03:27.98,Gen_Main,Sakuya,0,0,0,,Antes de hablar de eso,
+Dialogue: 0,0:03:28.06,0:03:33.02,Gen_Main,Sakuya,0,0,0,,¿podrías decirme por qué\Nestabas oliendo mi uniforme?
+Dialogue: 0,0:03:33.55,0:03:34.62,Gen_Main,Lily,0,0,0,,Yo no…
+Dialogue: 0,0:03:34.70,0:03:35.90,Gen_Main,Sakuya,0,0,0,,¡Lo hiciste!
+Dialogue: 0,0:03:36.43,0:03:41.11,Gen_Main,Sakuya,0,0,0,,¿Será que mi aroma\Nvuelve locas a las chicas o algo así?
+Dialogue: 0,0:03:41.49,0:03:42.49,Gen_Main,Lily,0,0,0,,En absoluto.
+Dialogue: 0,0:03:44.90,0:03:46.48,Gen_Main,Sakuya,0,0,0,,Lo suponía…
+Dialogue: 0,0:03:46.56,0:03:53.08,Gen_Main,Sakuya,0,0,0,,Si lo hiciera, mi vida escolar\Nsería mucho más divertida.
+Dialogue: 0,0:03:53.16,0:03:57.27,Gen_Main,Lily,0,0,0,,¿Dice que su vida escolar es aburrida?
+Dialogue: 0,0:03:57.35,0:03:58.84,Gen_Main,Lily,0,0,0,,Me pregunto si será cierto.
+Dialogue: 0,0:04:00.47,0:04:03.92,Gen_Main,Lily,0,0,0,,Diría que hoy volvió a pasar tiempo
+Dialogue: 0,0:04:04.00,0:04:06.83,Gen_Main,Lily,0,0,0,,con una atractiva enfermera\Nde unos veintitantos años.
+Dialogue: 0,0:04:07.23,0:04:10.06,Gen_Main,Lily,0,0,0,,Tiene una vida escolar envidiable.
+Dialogue: 0,0:04:12.37,0:04:14.01,Gen_Main,Sakuya,0,0,0,,¿De qué hablas?
+Dialogue: 0,0:04:14.09,0:04:18.06,Gen_Main,Lily,0,0,0,,Su uniforme desprende\Nun olor a desinfectante,
+Dialogue: 0,0:04:18.14,0:04:21.48,Gen_Main,Lily,0,0,0,,medicamentos y un poco de perfume.
+Dialogue: 0,0:04:22.68,0:04:25.78,Gen_Main,Lily,0,0,0,,El olor a medicamentos sin duda\Nproviene de la enfermería.
+Dialogue: 0,0:04:27.05,0:04:30.97,Gen_Main,Lily,0,0,0,,Y el perfume es de la nueva\Ncolección de primavera de Vivi Alice.
+Dialogue: 0,0:04:31.87,0:04:35.25,Gen_Main,Lily,0,0,0,,Una estudiante de preparatoria\Nno podría comprar algo tan caro.
+Dialogue: 0,0:04:35.33,0:04:36.66,Gen_Main,Sakuya,0,0,0,,No es lo que crees.
+Dialogue: 0,0:04:37.08,0:04:39.42,Gen_Main,Sakuya,0,0,0,,Me rasguñé la pierna\Nen Educación Física.
+Dialogue: 0,0:04:39.50,0:04:43.51,Gen_Main,Sakuya,0,0,0,,Como llamé tanto la atención,\Ntenía que hacer algo…
+Dialogue: 0,0:04:43.98,0:04:45.84,Gen_Main,Sakuya,0,0,0,,Me entiendes, ¿no?
+Dialogue: 0,0:04:46.36,0:04:49.62,Gen_Main,Sakuya,0,0,0,,La enfermera se preocupó mucho\Ncuando vio las raspaduras
+Dialogue: 0,0:04:49.70,0:04:52.24,Gen_Main,Sakuya,0,0,0,,y me hizo un examen de cuerpo completo…
+Dialogue: 0,0:04:52.32,0:04:55.97,Gen_Main,Sakuya,0,0,0,,¡Así es, ella solo estaba\Nhaciendo su trabajo!
+Dialogue: 0,0:04:56.05,0:04:57.75,Gen_Main,Sakuya,0,0,0,,¡No hizo nada cuestionable!
+Dialogue: 0,0:04:59.88,0:05:04.49,Gen_Main,Lily,0,0,0,,Sus dos últimas frases dejan claro\Nque iba a pasar algo indecoroso.
+Dialogue: 0,0:05:05.40,0:05:08.41,Gen_Main,Sakuya,0,0,0,,No puedo ocultarte nada, ¿eh, Lilithea?
+Dialogue: 0,0:05:08.49,0:05:11.00,Gen_Main,Lily,0,0,0,,Así que admite la culpa.
+Dialogue: 0,0:05:11.32,0:05:13.59,Gen_Main,Sakuya,0,0,0,,En serio, no pasó nada.
+Dialogue: 0,0:05:14.03,0:05:17.70,Gen_Main,Lily,0,0,0,,Tengo la obligación de vigilarlo
+Dialogue: 0,0:05:17.78,0:05:20.52,Gen_Main,Lily,0,0,0,,y de asegurarme de que se comporte.
+Dialogue: 0,0:05:22.51,0:05:27.31,Gen_Main,Lily,0,0,0,,Al fin y al cabo,\Nsoy la asistente del detective Sakuya.
+Dialogue: 0,0:05:29.11,0:05:31.93,Gen_Main,Sakuya,0,0,0,,Aunque me alegra\Nque me llames detective,
+Dialogue: 0,0:05:32.35,0:05:36.29,Gen_Main,Sakuya,0,0,0,,mi papá dice que me falta mucho\Npara ser un detective de verdad.
+Dialogue: 0,0:05:40.91,0:05:41.91,Gen_Main,Lily,0,0,0,,En ese caso,
+Dialogue: 0,0:05:44.03,0:05:48.41,Gen_Main,Lily,0,0,0,,suplamos lo que le falta juntos\Npara ser un detective de verdad.
+Dialogue: 0,0:05:59.23,0:06:00.23,Gen_Main,Sakuya,0,0,0,,¿Y mi papá?
+Dialogue: 0,0:06:00.49,0:06:05.08,Gen_Main,Lily,0,0,0,,El señor Tatsuya partió al aeropuerto\Npor una llamada de emergencia.
+Dialogue: 0,0:06:05.41,0:06:07.65,Gen_Main,Lily,0,0,0,,Hubo un secuestro.
+Dialogue: 0,0:06:07.73,0:06:09.05,Gen_Main,Sakuya,0,0,0,,¿Un secuestro?
+Dialogue: 0,0:06:09.13,0:06:10.69,Gen_Main,Lily,0,0,0,,El avión secuestrado
+Dialogue: 0,0:06:10.77,0:06:15.62,Gen_Main,Lily,0,0,0,,viajaba desde el aeropuerto de Changi,\NSingapur, con destino a Japón.
+Dialogue: 0,0:06:16.05,0:06:18.39,Gen_Main,Lily,0,0,0,,La secuestradora es\Nuna niña de nueve años.
+Dialogue: 0,0:06:19.41,0:06:24.76,Gen_Main,Lily,0,0,0,,Tiene de rehenes a 179 pasajeros\Ny tripulantes a bordo del avión.
+Dialogue: 0,0:06:24.84,0:06:26.11,Gen_Main,Sakuya,0,0,0,,¿Tiene nueve años?
+Dialogue: 0,0:06:27.00,0:06:29.04,Gen_Italics,Sakuya,0,0,0,,Si enviaron a mi papá,
+Dialogue: 0,0:06:29.12,0:06:34.23,Gen_Italics,Sakuya,0,0,0,,significa que creen que nadie más\Nque Tatsuya Otsuki puede resolverlo.
+Dialogue: 0,0:06:37.00,0:06:44.04,Gen_Main,Lily,0,0,0,,El avión secuestrado es el vuelo XX999.
+Dialogue: 0,0:06:45.61,0:06:46.76,Gen_Main,Sakuya,0,0,0,,Gracias.
+Dialogue: 0,0:06:47.19,0:06:49.41,Gen_Main,Sakuya,0,0,0,,¿Qué tengo programado para hoy?
+Dialogue: 0,0:06:49.49,0:06:51.36,Gen_Main,Lily,0,0,0,,Investigación de infidelidad.
+Dialogue: 0,0:06:51.44,0:06:53.97,Gen_Main,Sakuya,0,0,0,,Perfecto. No suena peligroso.
+Dialogue: 0,0:06:55.26,0:07:00.02,Gen_Main,Lily,0,0,0,,Debería ser más ambicioso, señor Sakuya.
+Dialogue: 0,0:07:00.10,0:07:03.31,Gen_Main,Sakuya,0,0,0,,¿Crees que un detective debería\Nresolver casos más importantes?
+Dialogue: 0,0:07:03.89,0:07:06.34,Gen_Main,Sakuya,0,0,0,,¿Como un crimen imposible en una mansión
+Dialogue: 0,0:07:06.42,0:07:09.57,Gen_Main,Sakuya,0,0,0,,o una seguidilla de asesinatos\Nen alguna isla remota?
+Dialogue: 0,0:07:10.42,0:07:12.14,Gen_Main,Sakuya,0,0,0,,Preferiría evitarlo.
+Dialogue: 0,0:07:15.32,0:07:18.00,Gen_Main,Sakuya,0,0,0,,¿Quién es el objetivo de hoy?
+Dialogue: 0,0:07:18.99,0:07:21.84,Gen_Main,Lily,0,0,0,,Makoto Katsuragi, 43 años.
+Dialogue: 0,0:07:21.92,0:07:24.22,Gen_Main,Lily,0,0,0,,Trabaja para una distribuidora de cine
+Dialogue: 0,0:07:24.30,0:07:27.42,Gen_Main,Lily,0,0,0,,y se le atribuyen\Nvarios éxitos de taquilla.
+Dialogue: 0,0:07:28.09,0:07:29.09,Gen_Main,Lily,0,0,0,,Lo seguirá…
+Dialogue: 0,0:07:30.15,0:07:34.93,Gen_Main,Lily,0,0,0,,a bordo del Queen Irie,\Nque irá de Yokohama a Singapur.
+Dialogue: 0,0:07:35.91,0:07:40.83,Cart_A_Tre,CARTEL,0,0,0,,{\fad(900,900)\b0\blur1\bord1.5\pos(446,297)\c&HD6D6D6&}El asesinato del Queen Irie, primera parte
+Dialogue: 0,0:07:42.81,0:07:44.39,Gen_Main,Sakuya,0,0,0,,Es enorme…
+Dialogue: 0,0:07:44.97,0:07:49.21,Gen_Main,Lily,0,0,0,,El Queen Irie es el crucero\Nmás grande de Japón
+Dialogue: 0,0:07:49.29,0:07:52.28,Gen_Main,Lily,0,0,0,,y tiene una capacidad\Npara 1100 pasajeros.
+Dialogue: 0,0:07:58.71,0:08:00.29,Gen_Main,Staff,0,0,0,,¿Lo ayudo con su equipaje?
+Dialogue: 0,0:08:00.37,0:08:03.17,Gen_Main,Katsuragi,0,0,0,,No, puedo yo solo.
+Dialogue: 0,0:08:03.25,0:08:04.25,Gen_Main,Sakuya,0,0,0,,¿Ese es…?
+Dialogue: 0,0:08:04.62,0:08:05.79,Gen_Main,Lily,0,0,0,,Makoto Katsuragi.
+Dialogue: 0,0:08:17.50,0:08:21.06,Gen_Main,Lily,0,0,0,,Sabemos que a veces\Ncompra artículos sospechosos
+Dialogue: 0,0:08:21.14,0:08:24.86,Gen_Main,Lily,0,0,0,,y que empezó a alquilar\Nun departamento en el centro de Tokio.
+Dialogue: 0,0:08:25.65,0:08:27.99,Gen_Main,Sakuya,0,0,0,,Tenía un montón de equipaje.
+Dialogue: 0,0:08:28.07,0:08:29.73,Gen_Main,Sakuya,0,0,0,,Me pregunto qué llevará.
+Dialogue: 0,0:08:29.81,0:08:34.63,Gen_Main,Sakuya,0,0,0,,¿Regalos para una chica? ¿Juguetes\Npara adultos que preferiría ocultar?
+Dialogue: 0,0:08:34.71,0:08:35.71,Gen_Main,Lily,0,0,0,,Qué vulgar.
+Dialogue: 0,0:08:36.59,0:08:39.24,Gen_Main,Lily,0,0,0,,¿Tanto le cuesta\Nformular hipótesis decentes?
+Dialogue: 0,0:08:40.78,0:08:43.67,Gen_Main,Sakuya,0,0,0,,A todo esto, ¿por qué vino a un crucero?
+Dialogue: 0,0:08:43.75,0:08:44.75,Gen_Main,Lily,0,0,0,,Por una película.
+Dialogue: 0,0:08:45.43,0:08:50.63,Gen_Main,Lily,0,0,0,,Entrevistarán a la actriz principal\Na bordo de un crucero.
+Dialogue: 0,0:08:50.71,0:08:53.24,Gen_Main,Lily,0,0,0,,Es una promoción\Ncon una agencia de viajes.
+Dialogue: 0,0:08:53.76,0:08:56.12,Gen_Main,Sakuya,0,0,0,,¿Yuriu Haigamine?
+Dialogue: 0,0:08:56.60,0:08:59.97,Gen_Main,Lily,0,0,0,,Una actriz nueva que eligieron\Na dedo para la película.
+Dialogue: 0,0:09:00.05,0:09:01.14,Gen_Main,Sakuya,0,0,0,,Es verdad.
+Dialogue: 0,0:09:01.22,0:09:03.29,Gen_Main,Sakuya,0,0,0,,No ha trabajado en casi nada.
+Dialogue: 0,0:09:04.85,0:09:09.82,Cart_A_Tre,CARTEL,0,0,0,,{\frz8\bord0\fs16\pos(246,76)\fax0.1}Tatsuya Otsuki
+Dialogue: 0,0:09:04.85,0:09:09.82,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs14\an7\frz8\fax0.2\pos(221,200)\c&H303030&}Estoy por entrar.\NA 10 000 metros de altitud.\N¡Qué alto!
+Dialogue: 0,0:09:06.30,0:09:09.41,Gen_Main,Lily,0,0,0,,Su padre y usted tienen\Npreferencias opuestas.
+Dialogue: 0,0:09:10.15,0:09:12.31,Gen_Main,Sakuya,0,0,0,,Es mi ejemplo a no seguir.
+Dialogue: 0,0:09:12.78,0:09:15.74,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs16\an7\frz14\c&H303030&\pos(151,98)}Estoy por entrar.\NA 10 000 metros de altitud.\N¡Qué alto!
+Dialogue: 0,0:09:12.78,0:09:15.74,Cart_A_Tre,CARTEL,0,0,0,,{\bord1.5\fs16\an7\frz14\c&HFFFFFF&\pos(296,207)\3c&H5E10A6&}No vayas a causarme\Nproblemas resbalándote.
+Dialogue: 0,0:09:12.78,0:09:15.74,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs14\an7\frz14\c&H303030&\pos(238,188)}Visto
+Dialogue: 0,0:09:15.74,0:09:19.00,Gen_Main,Sakuya,0,0,0,,Y eso que odia las alturas…
+Dialogue: 0,0:09:19.08,0:09:22.02,Gen_Main,Lily,0,0,0,,¿Nos ponemos a trabajar?
+Dialogue: 0,0:09:22.10,0:09:23.10,Gen_Main,Sakuya,0,0,0,,Sí.
+Dialogue: 0,0:09:28.01,0:09:30.26,Gen_Main,Lily,0,0,0,,Katsuragi se dirige al gran evento
+Dialogue: 0,0:09:30.34,0:09:32.92,Gen_Main,Lily,0,0,0,,del primer día del crucero,\Nel "Cirque du Irie".
+Dialogue: 0,0:09:33.19,0:09:35.75,Gen_Main,Sakuya,0,0,0,,¿Cuándo fue la última vez\Nque fui al circo?
+Dialogue: 0,0:09:35.83,0:09:37.55,Gen_Main,Lily,0,0,0,,Yo nunca he ido a uno.
+Dialogue: 0,0:09:37.93,0:09:40.39,Gen_Main,Lily,0,0,0,,Solo los he visto en libros.
+Dialogue: 0,0:09:41.72,0:09:42.99,Gen_Main,Sakuya,0,0,0,,¡Perdón!
+Dialogue: 0,0:09:45.48,0:09:46.88,Gen_Main,Sakuya,0,0,0,,¡¿Sozorogi?!
+Dialogue: 0,0:09:46.96,0:09:48.78,Gen_Main,Sakuya,0,0,0,,¿Qué haces en un crucero de lujo?
+Dialogue: 0,0:09:48.86,0:09:49.98,Gen_Main,Sozorogi,0,0,0,,Vacacionar.
+Dialogue: 0,0:09:50.06,0:09:52.94,Gen_Main,Sozorogi,0,0,0,,Mi hermano me consiguió los pasajes.
+Dialogue: 0,0:09:53.18,0:09:54.18,Gen_Main,Sakuya,0,0,0,,¿Vacacionar?
+Dialogue: 0,0:09:54.26,0:09:57.88,Gen_Main,Sozorogi,0,0,0,,Si estás aquí, significa\Nque Tatsuya también está, ¿no?
+Dialogue: 0,0:09:57.96,0:10:00.13,Gen_Main,Sozorogi,0,0,0,,No me metan en sus embrollos, ¿eh?
+Dialogue: 0,0:10:00.21,0:10:03.67,Gen_Main,Sakuya,0,0,0,,Tranquilo, mi papá salió\Na encargarse de otro caso.
+Dialogue: 0,0:10:03.75,0:10:05.45,Gen_Main,Sozorogi,0,0,0,,Pues qué bien.
+Dialogue: 0,0:10:05.81,0:10:10.71,Gen_Main,Sozorogi,0,0,0,,A ti también te da problemas, ¿no?\NTienes que cuidar al vago de su hijo.
+Dialogue: 0,0:10:11.02,0:10:13.72,Gen_Main,Sozorogi,0,0,0,,Si alguna vez necesitas\Nun buen abogado, llámame.
+Dialogue: 0,0:10:14.66,0:10:18.15,Gen_Main,Lily,0,0,0,,Señor Sakuya, ya casi\Nes hora del espectáculo.
+Dialogue: 0,0:10:21.47,0:10:26.01,Gen_Main,Sozorogi,0,0,0,,Adiós. En el nombre del alcohol,\Nles deseo una buena noche.
+Dialogue: 0,0:10:30.82,0:10:35.19,Gen_Italics,Sakuya,0,0,0,,Un detective y un policía\Nen el mismo crucero…
+Dialogue: 0,0:10:35.94,0:10:38.30,Gen_Main,Sakuya,0,0,0,,No, lo dudo.
+Dialogue: 0,0:10:45.24,0:10:48.51,Gen_Main,Lily,0,0,0,,Señor Sakuya,\Nprocure no distraerse con el show
+Dialogue: 0,0:10:48.59,0:10:51.07,Gen_Main,Lily,0,0,0,,y siga vigilando a nuestro objetivo.
+Dialogue: 0,0:10:51.15,0:10:52.80,Gen_Main,Sakuya,0,0,0,,No te preocupes.
+Dialogue: 0,0:10:52.88,0:10:55.27,Gen_Main,Sakuya,0,0,0,,De todos modos,\Nno me interesa el circo.
+Dialogue: 0,0:10:56.03,0:10:58.17,Gen_Main,Lily,0,0,0,,¿De verdad?
+Dialogue: 0,0:10:58.25,0:11:02.44,Gen_Main,Sakuya,0,0,0,,Para serte franco,\Nno le encuentro la gracia.
+Dialogue: 0,0:11:39.16,0:11:40.16,Gen_Main,Lily,0,0,0,,¿Está bien?
+Dialogue: 0,0:11:43.74,0:11:46.84,Gen_Main,Sakuya,0,0,0,,Debería disfrutar la emoción\Nen vez de darle vueltas.
+Dialogue: 0,0:11:48.21,0:11:50.52,Gen_Main,Sakuya,0,0,0,,Hasta un niño puede hacerlo.
+Dialogue: 0,0:11:58.82,0:11:59.90,Gen_Main,Sakuya,0,0,0,,¿Un Pierrot?
+Dialogue: 0,0:12:00.17,0:12:01.80,Gen_Main,Lily,0,0,0,,Es un payaso.
+Dialogue: 0,0:12:01.88,0:12:03.65,Gen_Main,Lily,0,0,0,,Los Pierrots están tristes.
+Dialogue: 0,0:12:04.36,0:12:07.48,Gen_Main,Lily,0,0,0,,Si tiene lágrimas\Nen las mejillas, es un Pierrot.
+Dialogue: 0,0:12:07.56,0:12:11.00,Gen_Main,Lily,0,0,0,,Si no, es un payaso. Un bufón.
+Dialogue: 0,0:12:11.47,0:12:13.81,Gen_Main,Sakuya,0,0,0,,Un bufón, ¿eh?
+Dialogue: 0,0:12:14.61,0:12:17.01,Gen_Main,Man/Katsuragi,0,0,0,,-¡Vaya, señor Katsuragi!\N-Hola.
+Dialogue: 0,0:12:18.17,0:12:21.46,Gen_Main,Man,0,0,0,,Es mucho más impresionante\Nen persona, ¿eh?
+Dialogue: 0,0:12:21.54,0:12:24.09,Gen_Main,Katsuragi,0,0,0,,Y que lo diga.\NA mí también me sorprendió.
+Dialogue: 0,0:12:24.51,0:12:28.15,Gen_Main,Sakuya,0,0,0,,Dudo que esto cuente como infidelidad.
+Dialogue: 0,0:12:28.54,0:12:31.79,Gen_Main,Lily,0,0,0,,Tal vez no cometa adulterio\Ncon una mujer humana.
+Dialogue: 0,0:12:33.27,0:12:37.65,Gen_Main,Lily,0,0,0,,Podría ser con una gata,\Nuna planta o una aeronave.
+Dialogue: 0,0:12:39.58,0:12:41.43,Gen_Main,Sakuya,0,0,0,,Lo dudo mucho.
+Dialogue: 0,0:12:42.20,0:12:45.61,Gen_Italics,Sakuya,0,0,0,,Ha sido una chica un poco rara\Ndesde que nos conocimos.
+Dialogue: 0,0:12:47.48,0:12:52.45,Gen_Italics,Sakuya,0,0,0,,Conocí a Lilithea\Nen uno de los casos de mi papá.
+Dialogue: 0,0:12:52.90,0:12:56.37,Gen_Italics,Sakuya,0,0,0,,Como no tenía\Nadónde ir después del caso,
+Dialogue: 0,0:12:56.45,0:12:58.25,Gen_Italics,Sakuya,0,0,0,,la acogimos en la agencia.
+Dialogue: 0,0:13:10.14,0:13:12.13,Gen_Main,Lily,0,0,0,,El globo de la muerte.
+Dialogue: 0,0:13:12.21,0:13:15.10,Gen_Main,Lily,0,0,0,,Esto dice que es uno\Nde los eventos más importantes.
+Dialogue: 0,0:13:15.10,0:13:19.06,Cart_A_Tre,CARTEL,0,0,0,,{\frz29\pos(116,91)\c&H37DAF6&\3c&H6A3D51&}Globe of Death
+Dialogue: 0,0:13:15.10,0:13:19.06,Cart_A_Tre,CARTEL,0,0,0,,{\frz26\fs25\pos(444,211)\c&H150CBB&\3c&HFFFFFF&}Globo de la muerte
+Dialogue: 0,0:13:15.42,0:13:19.06,Gen_Main,Sakuya,0,0,0,,¿Giran dentro de eso en sus motos?
+Dialogue: 0,0:13:20.03,0:13:22.09,Gen_Main,Sakuya,0,0,0,,Yo moriría en dos segundos.
+Dialogue: 0,0:13:23.88,0:13:26.02,Gen_Main,Sakuya,0,0,0,,El globo de la muerte, ¿eh?
+Dialogue: 0,0:13:27.51,0:13:29.99,Cart_A_Tre,CARTEL,0,0,0,,{\bord0\fs24\pos(155,120)\b0}Qué nombre tan desagradable…
+Dialogue: 0,0:13:28.17,0:13:29.78,Gen_Main,Sakuya,0,0,0,,Qué nombre tan desagradable.
+Dialogue: 0,0:13:38.35,0:13:40.78,Gen_Main,Sakuya,0,0,0,,Tú sigue vigilándolo, Lilithea.
+Dialogue: 0,0:13:41.21,0:13:45.13,Gen_Main,Sakuya/Lily,0,0,0,,-Yo investigaré a quienes lo rodean.\N-Bien.
+Dialogue: 0,0:13:45.21,0:13:48.83,Gen_Main,Sakuya,0,0,0,,No caigas en la tentación de ir\Na divertirte por ahí en el crucero.
+Dialogue: 0,0:13:48.91,0:13:50.89,Gen_Main,Lily/Sakuya,0,0,0,,-Jamás lo haría.\N-¿No?
+Dialogue: 0,0:13:51.36,0:13:54.59,Gen_Main,Lily,0,0,0,,Un crucero ofrece todo tipo\Nde entretenimiento por la noche,
+Dialogue: 0,0:13:54.67,0:13:57.64,Gen_Main,Lily,0,0,0,,pero nunca caería en la tentación.
+Dialogue: 0,0:13:57.97,0:14:01.52,Gen_Main,Sakuya,0,0,0,,¿Y a qué se debe\Nesa guía llena de notas?
+Dialogue: 0,0:14:01.60,0:14:02.68,Gen_Main,Lily,0,0,0,,¡Esto es…!
+Dialogue: 0,0:14:02.76,0:14:06.61,Gen_Main,Lily,0,0,0,,Una asistente debe asegurarse\Nde estar preparada con antelación.
+Dialogue: 0,0:14:08.04,0:14:09.57,Gen_Main,Sakuya,0,0,0,,Ten cuidado, ¿sí?
+Dialogue: 0,0:14:10.21,0:14:13.45,Gen_Main,Lily,0,0,0,,Usted también. Cuídese.
+Dialogue: 0,0:14:17.74,0:14:19.68,Gen_Main,Sakuya,0,0,0,,Si mi papá estuviera aquí,
+Dialogue: 0,0:14:19.76,0:14:23.87,Gen_Main,Sakuya,0,0,0,,me obligaría a vigilar a ese tipo\Naunque tuviera que orinarme encima.
+Dialogue: 0,0:14:31.25,0:14:34.31,Gen_Main,Yuriu,0,0,0,,Parece que no funciona en la vida real…
+Dialogue: 0,0:14:36.51,0:14:37.66,Gen_Main,Sakuya,0,0,0,,¿Estás bien?
+Dialogue: 0,0:14:38.21,0:14:39.66,Gen_Main,Yuriu,0,0,0,,¡Disculpa las molestias!
+Dialogue: 0,0:14:40.21,0:14:41.53,Gen_Main,Yuriu,0,0,0,,Este…
+Dialogue: 0,0:14:41.61,0:14:42.61,Gen_Main,Yuriu,0,0,0,,¿Dónde estoy?
+Dialogue: 0,0:14:42.85,0:14:44.32,Gen_Main,Sakuya,0,0,0,,En el baño de hombres.
+Dialogue: 0,0:14:44.94,0:14:46.53,Gen_Main,Yuriu,0,0,0,,¡Ay, no!
+Dialogue: 0,0:14:46.97,0:14:49.88,Gen_Main,Yuriu,0,0,0,,¡No es lo que crees! ¡Tengo mis motivos!
+Dialogue: 0,0:14:49.96,0:14:52.12,Gen_Main,Sakuya,0,0,0,,Tranquila. ¿Puedes levantarte?
+Dialogue: 0,0:14:53.37,0:14:55.10,Gen_Main,Yuriu,0,0,0,,Muchas gracias.
+Dialogue: 0,0:15:01.35,0:15:06.24,Gen_Main,Sakuya,0,0,0,,Disculpa, ¿eres Yuriu Haigamine?
+Dialogue: 0,0:15:06.32,0:15:08.38,Gen_Main,Yuriu,0,0,0,,¡Sí, soy Yuriu!
+Dialogue: 0,0:15:09.80,0:15:10.80,Gen_Main,Yuriu,0,0,0,,Oye…
+Dialogue: 0,0:15:11.16,0:15:13.60,Gen_Main,Yuriu,0,0,0,,¿Eres detective, Sakuya?
+Dialogue: 0,0:15:15.62,0:15:16.97,Gen_Main,Sakuya,0,0,0,,¿Por qué…?
+Dialogue: 0,0:15:17.77,0:15:22.81,Gen_Main,Yuriu,0,0,0,,Porque hablabas de "vigilar a ese tipo\Naunque tuviera que orinarme encima".
+Dialogue: 0,0:15:22.89,0:15:26.65,Gen_Main,Sakuya,0,0,0,,Ah, verás… Es que…
+Dialogue: 0,0:15:26.73,0:15:29.49,Gen_Main,Yuriu,0,0,0,,¿Puedo contratarte?
+Dialogue: 0,0:15:30.11,0:15:31.11,Gen_Main,Sakuya,0,0,0,,¿Contratarme?
+Dialogue: 0,0:15:31.33,0:15:32.33,Gen_Main,Yuriu,0,0,0,,¡Sí!
+Dialogue: 0,0:15:35.61,0:15:38.25,Gen_Main,Yuriu,0,0,0,,Quiero encontrar\Na una gata llamada Lulu.
+Dialogue: 0,0:15:38.33,0:15:39.33,Gen_Main,Sakuya,0,0,0,,¿Una gata?
+Dialogue: 0,0:15:39.46,0:15:43.92,Gen_Main,Yuriu,0,0,0,,La escuché por los conductos,\Nasí que entré a buscarla.
+Dialogue: 0,0:15:44.22,0:15:49.45,Gen_Main,Yuriu,0,0,0,,Pero me caí de repente\Ny acabé en el baño de hombres…
+Dialogue: 0,0:15:53.83,0:15:56.93,Gen_Main,Yuriu,0,0,0,,¡Perdón, me estaba riendo de mí misma!
+Dialogue: 0,0:15:57.85,0:16:01.82,Gen_Main,Yuriu,0,0,0,,Lulu es la gata tricolor del productor.
+Dialogue: 0,0:16:01.90,0:16:02.91,Gen_Main,Sakuya,0,0,0,,¿Del productor?
+Dialogue: 0,0:16:02.99,0:16:07.32,Gen_Main,Yuriu,0,0,0,,Sí, de Katsuragi,\Nel productor de mi película.
+Dialogue: 0,0:16:07.74,0:16:10.07,Gen_Main,Yuriu,0,0,0,,Adora a los gatos.
+Dialogue: 0,0:16:10.15,0:16:15.07,Gen_Main,Yuriu,0,0,0,,Los trajo a todos al crucero,\Npero se le escapó uno…
+Dialogue: 0,0:16:15.32,0:16:18.42,Gen_Main,Sakuya,0,0,0,,¿Katsuragi te pidió que lo encontraras?
+Dialogue: 0,0:16:18.50,0:16:21.46,Gen_Main,Yuriu,0,0,0,,No, lo hago porque quiero.
+Dialogue: 0,0:16:23.03,0:16:26.06,Gen_Main,Sakuya,0,0,0,,¿Te metiste a los conductos\Naunque no te lo pidieron?
+Dialogue: 0,0:16:26.14,0:16:28.27,Gen_Main,Sakuya,0,0,0,,Eres bastante peculiar.
+Dialogue: 0,0:16:28.35,0:16:30.26,Gen_Main,Yuriu,0,0,0,,Es que me preocupa su gatita.
+Dialogue: 0,0:16:30.69,0:16:33.43,Gen_Main,Yuriu,0,0,0,,¿Podrías aceptar el encargo?
+Dialogue: 0,0:16:34.38,0:16:36.79,Gen_Main,Sakuya,0,0,0,,Está bien, lo haré.
+Dialogue: 0,0:16:37.75,0:16:40.02,Gen_Main,Yuriu,0,0,0,,¡Gracias, maestro!
+Dialogue: 0,0:16:40.10,0:16:43.98,Gen_Main,Sakuya,0,0,0,,No recuerdo haberte aceptado\Ncomo alumna…
+Dialogue: 0,0:16:44.45,0:16:48.74,Gen_Italics,Sakuya,0,0,0,,Pero si me acerco a ella, probablemente\Npueda aprender bastante sobre Katsuragi.
+Dialogue: 0,0:16:50.17,0:16:53.89,Gen_Main,Yuriu,0,0,0,,¿Sabes? Haré de detective\Nen mi próxima película.
+Dialogue: 0,0:16:53.97,0:16:58.41,Gen_Main,Yuriu,0,0,0,,Y se llama…\N¡"Uzura, la detective de prepa"!
+Dialogue: 0,0:16:59.14,0:17:03.09,Gen_Main,Sakuya,0,0,0,,¿Estabas buscando a la gata\Ncomo ensayo para el papel?
+Dialogue: 0,0:17:03.17,0:17:04.87,Gen_Main,Yuriu,0,0,0,,Es vergonzoso, pero sí.
+Dialogue: 0,0:17:04.95,0:17:07.63,Gen_Main,Yuriu,0,0,0,,Pero también me preocupa su gata.
+Dialogue: 0,0:17:08.13,0:17:11.71,Gen_Main,Yuriu,0,0,0,,¡Quiero que mi primer papel\Nprotagónico sea todo un éxito!
+Dialogue: 0,0:17:12.54,0:17:13.76,Gen_Main,Yuriu,0,0,0,,¡No te estorbaré!
+Dialogue: 0,0:17:13.84,0:17:16.43,Gen_Main,Yuriu,0,0,0,,¡De hecho, prometo ayudar!
+Dialogue: 0,0:17:16.67,0:17:17.67,Gen_Main,Yuriu,0,0,0,,¡Por favor!
+Dialogue: 0,0:17:18.84,0:17:22.10,Gen_Main,Sakuya,0,0,0,,Está bien. Como tú quieras.
+Dialogue: 0,0:17:22.18,0:17:24.60,Gen_Main,Yuriu,0,0,0,,¡Muchas gracias, maestro!
+Dialogue: 0,0:17:24.68,0:17:26.38,Gen_Main,Sakuya,0,0,0,,No hay de qué.
+Dialogue: 0,0:17:27.50,0:17:30.91,Gen_Main,Sakuya/Yuriu,0,0,0,,-Contáctame de inmediato si pasa algo.\N-¡Claro!
+Dialogue: 0,0:17:30.99,0:17:33.55,Gen_Main,Sakuya,0,0,0,,Y no hagas nada peligroso.
+Dialogue: 0,0:17:33.63,0:17:35.31,Gen_Main,Yuriu,0,0,0,,¡Tendré cuidado!
+Dialogue: 0,0:17:35.72,0:17:38.18,Gen_Main,Yuriu,0,0,0,,Tú tampoco te me vayas a morir, ¿eh?
+Dialogue: 0,0:17:38.26,0:17:40.16,Gen_Main,Sakuya,0,0,0,,Dudo que pase.
+Dialogue: 0,0:17:40.24,0:17:42.97,Gen_Main,Sakuya,0,0,0,,Pero me alegra tener\Nuna alumna tan dulce.
+Dialogue: 0,0:17:43.05,0:17:46.00,Gen_Main,Yuriu,0,0,0,,¿Cómo que dulce? Cielos…
+Dialogue: 0,0:17:46.51,0:17:51.78,Gen_Main,Yuriu,0,0,0,,¡Te devuelvo esas palabras\Nenvueltas con un listón!
+Dialogue: 0,0:17:53.95,0:17:55.93,Gen_Main,Sakuya,0,0,0,,¡Lulu!
+Dialogue: 0,0:17:57.57,0:18:01.26,Gen_Main,Sakuya,0,0,0,,Disculpe, ¿no ha visto un gato tricolor?
+Dialogue: 0,0:18:01.34,0:18:03.02,Gen_Main,Staff,0,0,0,,¿Un gato tricolor?
+Dialogue: 0,0:18:03.10,0:18:04.34,Gen_Main,Staff,0,0,0,,En absoluto.
+Dialogue: 0,0:18:04.42,0:18:05.64,Gen_Main,Sakuya,0,0,0,,Ya veo.
+Dialogue: 0,0:18:05.99,0:18:09.31,Gen_Main,Staff,0,0,0,,A veces veo ratas\Nen el almacén de más adelante.
+Dialogue: 0,0:18:09.39,0:18:11.31,Gen_Main,Staff,0,0,0,,Puede que haya un gato ahí.
+Dialogue: 0,0:18:11.74,0:18:13.50,Gen_Main,Sakuya,0,0,0,,¿Puedo ir a ver?
+Dialogue: 0,0:18:13.94,0:18:15.07,Gen_Main,Staff,0,0,0,,Sin problema.
+Dialogue: 0,0:18:15.15,0:18:16.89,Gen_Main,Sakuya,0,0,0,,Muchas gracias.
+Dialogue: 0,0:18:16.97,0:18:17.97,Gen_Main,Staff,0,0,0,,De nada.
+Dialogue: 0,0:18:29.25,0:18:30.75,Gen_Main,Sakuya,0,0,0,,¡Lulu!
+Dialogue: 0,0:18:35.01,0:18:36.97,Gen_Main,Sakuya,0,0,0,,¡Lulu!
+Dialogue: 0,0:18:41.26,0:18:43.26,Gen_Main,Sakuya,0,0,0,,¿Lulu?
+Dialogue: 0,0:18:53.27,0:18:55.41,Gen_Main,Sakuya,0,0,0,,¿Una Kawashima Ultra Sherba?
+Dialogue: 0,0:18:56.93,0:18:59.99,Gen_Main,Sakuya,0,0,0,,¿Las guardan aquí\Ncuando termina la función?
+Dialogue: 0,0:19:11.30,0:19:12.30,Gen_Main,Sakuya,0,0,0,,Muer…
+Dialogue: 0,0:19:12.71,0:19:14.04,Gen_Italics,Sakuya,0,0,0,,¿Está muerto…?
+Dialogue: 0,0:19:14.87,0:19:15.98,Gen_Italics,Sakuya,0,0,0,,Es el de entonces…
+Dialogue: 0,0:19:18.82,0:19:21.49,Gen_Italics,Sakuya,0,0,0,,¿Por qué tuve que encontrarme esto?
+Dialogue: 0,0:19:21.86,0:19:25.35,Gen_Main,Sakuya,0,0,0,,Ahora que lo vi,\Ntendré que involucrarme.
+Dialogue: 0,0:19:25.78,0:19:28.57,Gen_Main,Sakuya,0,0,0,,Y no puedo fingir que no lo vi.
+Dialogue: 0,0:19:34.33,0:19:35.70,Gen_Main,Sakuya,0,0,0,,Esto es…
+Dialogue: 0,0:19:36.11,0:19:38.66,Gen_Main,Sakuya,0,0,0,,¿Lo usan para levantar las motos?
+Dialogue: 0,0:19:42.76,0:19:46.47,Gen_Italics,Sakuya,0,0,0,,El cuerpo está demasiado alto\Ncomo para que se haya ahorcado
+Dialogue: 0,0:19:46.55,0:19:48.41,Gen_Italics,Sakuya,0,0,0,,con el control remoto, ¿no?
+Dialogue: 0,0:19:49.05,0:19:52.39,Gen_Italics,Sakuya,0,0,0,,Bastarían unas pocas decenas\Nde centímetros para asfixiarlo.
+Dialogue: 0,0:19:52.79,0:19:57.25,Gen_Italics,Sakuya,0,0,0,,Y si se le cayó el control remoto tras\Ndesmayarse, no debió elevarse más.
+Dialogue: 0,0:20:00.27,0:20:01.45,Gen_Main,Sakuya,0,0,0,,¿Hola?
+Dialogue: 0,0:20:01.53,0:20:05.45,Gen_Main,Sakuya,0,0,0,,Pasaron algunas cosas\Ny vine al almacén del primer piso.
+Dialogue: 0,0:20:05.53,0:20:07.43,Gen_Main,Sakuya,0,0,0,,Luego sucedió algo…
+Dialogue: 0,0:20:07.81,0:20:10.39,Gen_Main,Sakuya,0,0,0,,¿Estás jugando a los dardos?
+Dialogue: 0,0:20:10.47,0:20:13.16,Gen_Main,Sakuya,0,0,0,,¡¿Qué haces divirtiéndote?!
+Dialogue: 0,0:20:13.24,0:20:15.05,Gen_Main,Sakuya,0,0,0,,¡Ven de una vez!
+Dialogue: 0,0:20:20.02,0:20:21.30,Gen_Main,Sakuya,0,0,0,,Creo que…
+Dialogue: 0,0:20:28.45,0:20:29.99,Gen_Main,Sakuya,0,0,0,,¿Será de la víctima?
+Dialogue: 0,0:20:56.53,0:20:57.77,Gen_Main,Sakuya,0,0,0,,Me ahogo…
+Dialogue: 0,0:20:59.37,0:21:02.13,Gen_Main,Sakuya,0,0,0,,¿Quién haría algo así?
+Dialogue: 0,0:21:03.07,0:21:05.00,Gen_Main,Sakuya,0,0,0,,¿Este es el asesino?
+Dialogue: 0,0:21:05.56,0:21:08.87,Gen_Main,Sakuya,0,0,0,,¿Será hombre o mujer?
+Dialogue: 0,0:21:10.31,0:21:12.68,Gen_Main,Sakuya,0,0,0,,Es un Pierrot…
+Dialogue: 0,0:21:13.71,0:21:14.71,Gen_Main,Sakuya,0,0,0,,Maldición…
+Dialogue: 0,0:21:24.26,0:21:26.07,Gen_Italics,Sakuya,0,0,0,,Me aterra la muerte…
+Dialogue: 0,0:21:26.62,0:21:30.03,Gen_Italics,Sakuya,0,0,0,,Cómo la detesto…
+Dialogue: 0,0:21:30.77,0:21:34.91,Gen_Italics,Sakuya,0,0,0,,Tanto mi muerte como las de otros…
+Dialogue: 0,0:21:36.52,0:21:42.54,Gen_Italics,Sakuya,0,0,0,,Sin duda alguna, ser detective es\Nuna buena forma de acabar muerto.
+Dialogue: 0,0:22:11.35,0:22:12.55,Gen_Main,Sakuya,0,0,0,,Lilithea…
+Dialogue: 0,0:22:15.16,0:22:20.05,Gen_Main,Lily,0,0,0,,¿Volvieron a matarlo, señor detective?
+Dialogue: 0,0:24:04.27,0:24:10.05,Cart_A_Tre,CARTEL,0,0,0,,{\fad(250,0)\fs24\b0\bord0\pos(320,85)}Próximo episodio\N\N\N\N\N\N\N\N\NEl asesinato del Queen Irie, segunda parte
+Dialogue: 0,0:24:05.49,0:24:09.96,Gen_Main,Sakuya/Lily,0,0,0,,Próximamente: "El asesinato\Ndel Queen Irie, segunda parte".

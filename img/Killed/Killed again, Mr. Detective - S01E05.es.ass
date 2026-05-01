@@ -1,0 +1,353 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:30.54,0:01:35.46,Cart_A_Tre,CARTEL,0,0,0,,{\fad(1000,1000)\an1\bord1.5\blur1\c&HC8C8C8&\3c&H000000&\b0\pos(6,320)}El asesinato del hotel Kowloon, segunda parte
+Dialogue: 0,0:01:37.41,0:01:41.41,Gen_Main,Sakuya,0,0,0,,¿Estaba así cuando lo hallaron?
+Dialogue: 0,0:01:41.50,0:01:45.48,Gen_Main,Lili,0,0,0,,Sí. Fue justo antes de la 1:20 a.m.
+Dialogue: 0,0:01:45.54,0:01:48.20,Gen_Main,Lili,0,0,0,,El director Toriho\Nfue quien lo encontró.
+Dialogue: 0,0:01:48.30,0:01:51.66,Gen_Main,Lili,0,0,0,,La policía no llegará hasta el amanecer.
+Dialogue: 0,0:01:51.76,0:01:55.13,Gen_Main,Lili,0,0,0,,Por mucho que odie la idea,\Nhabrá que dejarlo así.
+Dialogue: 0,0:01:56.14,0:01:59.28,Gen_Main,Lili,0,0,0,,Encontraron su cuerpo\Nbajo la cabeza del dragón.
+Dialogue: 0,0:01:59.35,0:02:00.97,Gen_Main,Lili,0,0,0,,Ya está en el congelador.
+Dialogue: 0,0:02:01.98,0:02:04.91,Gen_Main,Sakuya,0,0,0,,Pero ¿por qué dejaría la cabeza ahí?
+Dialogue: 0,0:02:05.31,0:02:07.85,Gen_Main,Sakuya,0,0,0,,Vi al asesino ponerla en el mostrador.
+Dialogue: 0,0:02:07.94,0:02:09.35,Gen_Main,Lili,0,0,0,,¿Ah, sí?
+Dialogue: 0,0:02:11.53,0:02:12.92,Gen_Italics,Sakuya,0,0,0,,¿Y este bulto?
+Dialogue: 0,0:02:13.32,0:02:14.71,Gen_Main,Lili,0,0,0,,Mire hacia allá.
+Dialogue: 0,0:02:18.83,0:02:22.38,Gen_Main,Lili,0,0,0,,Ya estaba así cuando llegamos.
+Dialogue: 2,0:02:20.34,0:02:22.74,Cart_A_Tre,CARTEL,0,0,0,,{\pos(10,10)\an7\fs15\fad(600,0)\c&H373737&\3c&HF4F4F4&\blur2}Los traidores acabarán en la boca del dragón.\NQuien se entrometa, arderá en las llamas del fénix.\NLos avariciosos terminarán en el fondo del mar.\NLos insolentes caerán en las garras del tigre.
+Dialogue: 1,0:02:20.34,0:02:22.74,Cart_A_Tre,CARTEL,0,0,0,,{\fad(600,0)\an7\p1\alpha60\bord0\blur0.5\fscx77\fscy70\1a&H32&\pos(4,6)\c&HA9BED0&}m 0 0 l 415 0 415 100 0 100
+Dialogue: 0,0:02:22.83,0:02:25.95,Gen_Main,Sakuya,0,0,0,,Hay un 99 % de probabilidades\Nde que sea obra del asesino.
+Dialogue: 0,0:02:26.46,0:02:28.67,Gen_Main,Sakuya,0,0,0,,Pero ¿por qué tachó eso?
+Dialogue: 0,0:02:30.13,0:02:31.88,Gen_Main,Lili,0,0,0,,Sígame, señor Sakuya.
+Dialogue: 0,0:02:39.89,0:02:40.97,Gen_Main,Lili,0,0,0,,¿Señor Sakuya?
+Dialogue: 0,0:02:41.06,0:02:44.18,Gen_Main,Sakuya,0,0,0,,Estoy bien.\NDebe ser porque acabo de resucitar.
+Dialogue: 0,0:02:44.48,0:02:46.31,Gen_Main,Sakuya,0,0,0,,Me cuesta un poco moverme.
+Dialogue: 0,0:02:46.40,0:02:47.43,Gen_Main,Sakuya,0,0,0,,Vamos.
+Dialogue: 0,0:02:55.28,0:02:57.32,Gen_Main,Sakuya,0,0,0,,-¿Hubo un incendio?\N-Así es.
+Dialogue: 0,0:02:57.41,0:03:00.42,Gen_Main,Lili,0,0,0,,Lo vimos justo después de ver\Nla sangre del cuadro.
+Dialogue: 0,0:03:00.49,0:03:02.41,Gen_Main,Sakuya,0,0,0,,¿Esta habitación no era de…?
+Dialogue: 0,0:03:02.49,0:03:04.66,Gen_Main,Lili,0,0,0,,De Nakuji, el asesinado.
+Dialogue: 0,0:03:05.08,0:03:08.73,Gen_Main,Lili,0,0,0,,Utaki vio el incendio y nos avisó\Ncuando estaba comprobando
+Dialogue: 0,0:03:08.79,0:03:11.29,Gen_Main,Lili,0,0,0,,si había goteras en el noveno piso.
+Dialogue: 0,0:03:12.05,0:03:14.05,Gen_Main,Sakuya,0,0,0,,¿Estaba trabajando a esas horas?
+Dialogue: 0,0:03:14.13,0:03:19.41,Gen_Main,Lili,0,0,0,,Vio el humo salir por debajo\Nde la puerta de la habitación 606…
+Dialogue: 0,0:03:17.59,0:03:18.90,Gen_Main_Up,Utaki,0,0,0,,No puede ser…
+Dialogue: 0,0:03:24.64,0:03:27.31,Gen_Main,Utaki,0,0,0,,¿Qué estás haciendo, Nakuji?
+Dialogue: 0,0:03:29.65,0:03:31.23,Gen_Main,Utaki,0,0,0,,¡Un incendio!
+Dialogue: 0,0:03:31.52,0:03:33.17,Gen_Main,Utaki,0,0,0,,¡Socorro, un incendio!
+Dialogue: 0,0:03:50.92,0:03:53.75,Gen_Main,Sakuya,0,0,0,,Entonces, acabé quemado aquí.
+Dialogue: 0,0:03:53.84,0:03:54.89,Gen_Main,Lili,0,0,0,,Así es.
+Dialogue: 0,0:03:54.96,0:03:59.09,Gen_Main,Lili,0,0,0,,Tenía la cabeza en esa cama.
+Dialogue: 0,0:03:59.72,0:04:03.68,Cart_A_Tre,CARTEL,0,0,0,,{\fs34\c&H27376E&\3c&H678794&\an2\move(513,0,513,252)}El botones\Nno se detendrá
+Dialogue: 0,0:04:04.10,0:04:07.89,Gen_Main,Sakuya,0,0,0,,¿"Quien se entrometa\Narderá en las llamas del fénix"?
+Dialogue: 0,0:04:09.65,0:04:12.94,Gen_Main,Sakuya,0,0,0,,El dragón es el este.
+Dialogue: 0,0:04:13.02,0:04:15.94,Gen_Main,Sakuya,0,0,0,,Suzaku, el fénix, está aquí, en el sur.
+Dialogue: 0,0:04:16.53,0:04:19.71,Gen_Main,Sakuya,0,0,0,,Es probable que estos crímenes\Ntengan que ver
+Dialogue: 0,0:04:19.78,0:04:22.49,Gen_Main,Sakuya,0,0,0,,con los puntos cardinales\Nde los dioses del cuadro.
+Dialogue: 0,0:04:22.57,0:04:23.57,Gen_Main,Lili,0,0,0,,Sí.
+Dialogue: 0,0:04:23.74,0:04:25.94,Gen_Main,Sakuya,0,0,0,,El botones se está esforzando mucho.
+Dialogue: 0,0:04:26.45,0:04:31.23,Gen_Main,Sakuya,0,0,0,,Me mató en el primer piso\Ny me trajo hasta el sexto.
+Dialogue: 0,0:04:31.33,0:04:32.69,Gen_Main,Lili,0,0,0,,¿De verdad?
+Dialogue: 0,0:04:33.08,0:04:41.59,Cart_A_Tre,CARTEL,0,0,0,,{\blur0.3\an3\fscx90\fay0.2\c&H1E1D72&\frx354\fry6\3c&HA4A4A5&\t(\fs24)\move(270,94,350,65)}Fuera de servicio
+Dialogue: 0,0:04:33.63,0:04:36.71,Gen_Main,Sakuya,0,0,0,,Pero el ascensor está fuera de servicio.
+Dialogue: 0,0:04:36.80,0:04:39.13,Gen_Main,Sakuya,0,0,0,,¿Cómo lo hizo sin que lo vieran?
+Dialogue: 0,0:04:39.22,0:04:41.59,Gen_Main,Lili,0,0,0,,A mí me parece demasiado arriesgado…
+Dialogue: 0,0:04:42.05,0:04:44.70,Gen_Main,Lili,0,0,0,,Además, no sabemos\Npor qué le cortó la cabeza.
+Dialogue: 0,0:04:44.76,0:04:46.08,Gen_Main,Sakuya,0,0,0,,Tienes razón.
+Dialogue: 0,0:04:46.18,0:04:49.49,Gen_Main,Sakuya,0,0,0,,Según el texto de la pared,\Nsolo tenía que prenderme fuego.
+Dialogue: 0,0:04:50.81,0:04:53.83,Gen_Main,Sakuya,0,0,0,,¿Dónde dijiste que encontraron\Nel cadáver de Nakuji?
+Dialogue: 0,0:04:53.90,0:04:54.99,Gen_Main,Sakuya,0,0,0,,¡El cuerpo!
+Dialogue: 0,0:04:56.36,0:04:59.44,Gen_Main,Lili,0,0,0,,Como dije, bajo la cabeza del dragón.
+Dialogue: 0,0:04:59.53,0:05:01.15,Gen_Main,Sakuya,0,0,0,,¡No estaba ahí!
+Dialogue: 0,0:05:01.53,0:05:02.61,Gen_Main,Sakuya,0,0,0,,Cuando ocurrió todo,
+Dialogue: 0,0:05:02.70,0:05:04.76,Gen_Main,Sakuya,0,0,0,,cuando el botones me atacó,
+Dialogue: 0,0:05:04.83,0:05:07.12,Gen_Main,Sakuya,0,0,0,,¡el cuerpo de Nakuji no estaba ahí!
+Dialogue: 0,0:05:07.20,0:05:08.70,Gen_Main,Lili,0,0,0,,Entonces…
+Dialogue: 0,0:05:20.84,0:05:22.01,Gen_Main,Lili,0,0,0,,¿Qué opina?
+Dialogue: 0,0:05:22.51,0:05:25.53,Gen_Main,Sakuya,0,0,0,,No hay duda. Es mi cuerpo.
+Dialogue: 0,0:05:25.60,0:05:28.26,Gen_Main,Sakuya,0,0,0,,El asesino nos intercambió.
+Dialogue: 0,0:05:28.35,0:05:30.55,Gen_Main,Lili,0,0,0,,No puede ser.
+Dialogue: 0,0:05:30.66,0:05:32.90,Gen_Main,Lili,0,0,0,,¿Cómo no notó\Nque estaba en otro cuerpo?
+Dialogue: 0,0:05:32.98,0:05:36.35,Gen_Main,Sakuya,0,0,0,,¡No digas eso! Ya sospechaba\Nque algo no cuadraba…
+Dialogue: 0,0:05:37.02,0:05:40.32,Gen_Main,Sakuya,0,0,0,,Estoy algo rígido\Ny tengo unos bultos extraños.
+Dialogue: 0,0:05:40.40,0:05:43.59,Gen_Main,Lili,0,0,0,,¿No se había dado cuenta\Nde que algo andaba mal?
+Dialogue: 0,0:05:43.66,0:05:47.14,Gen_Main,Sakuya,0,0,0,,¡Es algo que nunca\Nse me había ocurrido!
+Dialogue: 0,0:05:47.24,0:05:50.29,Gen_Main,Sakuya,0,0,0,,No es normal que te cambien de cuerpo.
+Dialogue: 0,0:05:52.54,0:05:57.21,Gen_Main,Sakuya,0,0,0,,El asunto es que me mató en la recepción\Ny Nakuji murió en el sexto piso.
+Dialogue: 0,0:06:01.01,0:06:07.51,Gen_Main,Lili,0,0,0,,Entonces, ¿solo cargó su cabeza cortada?
+Dialogue: 0,0:06:07.93,0:06:10.15,Gen_Main,Sakuya,0,0,0,,Y mi ropa, pues me la quitó.
+Dialogue: 0,0:06:10.64,0:06:15.53,Gen_Main,Sakuya,0,0,0,,Luego me puso la ropa de Nakuji\Ny a él le puso la mía.
+Dialogue: 0,0:06:15.60,0:06:17.23,Gen_Main,Sakuya,0,0,0,,Así intercambió nuestros cuerpos.
+Dialogue: 0,0:06:17.31,0:06:23.03,Gen_Main,Lili,0,0,0,,Pero es imposible que así\Nhubiera engañado al forense.
+Dialogue: 0,0:06:23.11,0:06:25.99,Gen_Main,Sakuya,0,0,0,,Tuvo que pensar qué hacer rápido.
+Dialogue: 0,0:06:26.07,0:06:27.07,Gen_Main,Lili,0,0,0,,¿Usted cree?
+Dialogue: 0,0:06:27.51,0:06:29.95,Gen_Main,Sakuya,0,0,0,,Me alojé esta noche aquí\Npor casualidad, ¿verdad?
+Dialogue: 0,0:06:30.45,0:06:33.55,Gen_Main,Sakuya,0,0,0,,El asesino solo iba\Npor el personal de la película.
+Dialogue: 0,0:06:33.62,0:06:37.12,Gen_Main,Sakuya,0,0,0,,No tenía pensado matarme a mí también.
+Dialogue: 0,0:06:37.21,0:06:39.25,Gen_Main,Lili,0,0,0,,Entonces, usted se vio envuelto…
+Dialogue: 0,0:06:39.34,0:06:41.08,Gen_Main,Lili,0,0,0,,Lo siento por usted.
+Dialogue: 0,0:06:42.76,0:06:47.67,Gen_Main,Sakuya,0,0,0,,Pero entonces se le ocurrió\Nque los asesinatos siguieran ese texto.
+Dialogue: 0,0:06:48.35,0:06:51.39,Gen_Main,Sakuya,0,0,0,,En resumen,\Naún le quedan varios objetivos.
+Dialogue: 0,0:06:52.52,0:06:55.48,Gen_Main,Sakuya,0,0,0,,Tenemos que encontrar\Nal botones y detenerlo…
+Dialogue: 0,0:06:56.65,0:06:58.16,Gen_Main,Sakuya,0,0,0,,Pero primero…
+Dialogue: 0,0:06:58.23,0:06:59.40,Gen_Main,Lili,0,0,0,,¿Qué?
+Dialogue: 0,0:07:00.48,0:07:01.48,Gen_Main,Lili,0,0,0,,¡¿Acaso…?!
+Dialogue: 0,0:07:01.78,0:07:05.19,Gen_Main,Sakuya,0,0,0,,Sí. ¿Me cortas la cabeza y me la pegas?
+Dialogue: 0,0:07:06.32,0:07:08.31,Gen_Main,Lili,0,0,0,,No, señor Sakuya.
+Dialogue: 0,0:07:08.41,0:07:11.28,Gen_Main,Lili,0,0,0,,¡No puede pedirme algo así!
+Dialogue: 0,0:07:11.70,0:07:13.50,Gen_Main,Sakuya,0,0,0,,¡Te lo pido por favor!
+Dialogue: 0,0:07:13.58,0:07:14.58,Gen_Main,Lili,0,0,0,,¡No!
+Dialogue: 0,0:07:15.41,0:07:21.29,Gen_Main,Sakuya,0,0,0,,¡¿Quieres que viva en el cuerpo\Nde un viejo por el resto de mi vida?!
+Dialogue: 0,0:07:22.42,0:07:23.87,Gen_Main,Lili,0,0,0,,Tontorrón…
+Dialogue: 0,0:07:31.47,0:07:34.91,Gen_Main,Sakuya,0,0,0,,¡Mi cuerpo es el mejor!
+Dialogue: 0,0:07:35.68,0:07:36.68,Gen_Main,Sakuya,0,0,0,,¡Qué frío!
+Dialogue: 0,0:07:38.44,0:07:41.35,Gen_Main,Lili,0,0,0,,Ahora soy una asesina…
+Dialogue: 0,0:07:41.90,0:07:43.82,Gen_Main,Lili,0,0,0,,Soy una asesina de detectives.
+Dialogue: 0,0:07:43.90,0:07:45.63,Gen_Main,Sakuya,0,0,0,,No exageres.
+Dialogue: 0,0:07:45.69,0:07:49.19,Gen_Main,Sakuya,0,0,0,,¡Fue una operación\Ncon mi consentimiento!
+Dialogue: 0,0:07:50.12,0:07:54.84,Gen_Main,Lili,0,0,0,,Aún puedo sentir\Ncuando le corté el cuello…
+Dialogue: 0,0:07:55.33,0:07:57.87,Gen_Main,Lili,0,0,0,,Es horrible… Lo odio.
+Dialogue: 0,0:07:58.83,0:08:01.33,Gen_Main,Sakuya,0,0,0,,¡Lo siento! ¡Perdóname, Lilithea!
+Dialogue: 0,0:08:01.42,0:08:04.62,Gen_Main,Sakuya,0,0,0,,No pretendía que cargaras con esa culpa.
+Dialogue: 0,0:08:06.05,0:08:08.85,Gen_Main,Sakuya,0,0,0,,¿Lo ves? ¡Estoy como si nada!
+Dialogue: 0,0:08:08.93,0:08:11.53,Gen_Main,Sakuya,0,0,0,,De seguro gracias\Na tu habilidad con el cuchillo.
+Dialogue: 0,0:08:11.60,0:08:13.43,Gen_Main,Sakuya,0,0,0,,Se te da bien cortar pescado, ¿eh?
+Dialogue: 0,0:08:13.93,0:08:16.77,Gen_Main,Sakuya,0,0,0,,¡Eres una gran ayudante, Lilithea!
+Dialogue: 0,0:08:17.31,0:08:19.39,Gen_Main,Sakuya,0,0,0,,¿Podrías hacerme otro favorcito?
+Dialogue: 0,0:08:20.27,0:08:22.22,Gen_Main,Sakuya,0,0,0,,Trae a Chou.
+Dialogue: 0,0:08:26.94,0:08:29.32,Gen_Main,Sakuya,0,0,0,,Bien, ropa nueva.
+Dialogue: 0,0:08:33.41,0:08:35.38,Gen_Main,Sakuya,0,0,0,,Es el diario de Lilithea…
+Dialogue: 0,0:08:35.67,0:08:36.67,Gen_Main,Sakuya,0,0,0,,¡No!
+Dialogue: 0,0:08:37.20,0:08:39.21,Gen_Main,Sakuya,0,0,0,,¡No puedo leerlo sin permiso!
+Dialogue: 0,0:08:43.46,0:08:44.93,Gen_Italics,Lili,0,0,0,,Seis de junio.
+Dialogue: 0,0:08:45.26,0:08:47.45,Gen_Italics,Lili,0,0,0,,Hoy nos alojamos juntos.
+Dialogue: 0,0:08:47.74,0:08:50.29,Gen_Italics,Lili,0,0,0,,¡Traje un juego de mesa!
+Dialogue: 0,0:08:50.75,0:08:53.42,Gen_Italics,Lili,0,0,0,,¡Espero que juegue conmigo!
+Dialogue: 0,0:08:55.40,0:08:57.88,Gen_Italics,Lili,0,0,0,,Por cierto, tengo algo que confesar.
+Dialogue: 0,0:08:57.98,0:09:03.23,Gen_Italics,Lili,0,0,0,,La gotera del despacho\Ndel señor Sakuya es culpa mía.
+Dialogue: 0,0:09:03.31,0:09:06.23,Gen_Italics,Lili,0,0,0,,Abrí un agujero en el techo\Nmientras cazaba ratas.
+Dialogue: 0,0:09:08.78,0:09:13.20,Gen_Italics,Lili,0,0,0,,No esperaba que el cuchillo\Nfuera a agujerear la tubería.
+Dialogue: 0,0:09:13.28,0:09:14.99,Gen_Italics,Lili,0,0,0,,¡Perdón, señor Sakuya!
+Dialogue: 0,0:09:19.75,0:09:21.20,Gen_Main,Yuriu,0,0,0,,Maestro…
+Dialogue: 0,0:09:21.58,0:09:23.16,Gen_Main,Sakuya,0,0,0,,Hola.
+Dialogue: 0,0:09:23.25,0:09:26.12,Gen_Main,Yuriu,0,0,0,,¡Maestro!
+Dialogue: 0,0:09:26.84,0:09:29.50,Gen_Main,Yuriu,0,0,0,,¡Estás vivo, maestro!
+Dialogue: 0,0:09:29.88,0:09:31.57,Gen_Main,Lili,0,0,0,,Ya traje a los demás.
+Dialogue: 0,0:09:31.63,0:09:33.36,Gen_Main,Sakuya,0,0,0,,Gracias.
+Dialogue: 0,0:09:33.43,0:09:34.83,Gen_Main,Chou,0,0,0,,No doy crédito…
+Dialogue: 0,0:09:34.93,0:09:36.22,Gen_Main,Utaki,0,0,0,,¿Eres tú?
+Dialogue: 0,0:09:36.51,0:09:37.74,Gen_Main,Sakuya,0,0,0,,Vivito y coleando.
+Dialogue: 0,0:09:37.81,0:09:40.05,Gen_Main,Sakuya,0,0,0,,¿Lo ven? Fuerte como un roble.
+Dialogue: 0,0:09:40.14,0:09:43.76,Gen_Main,Utaki,0,0,0,,Qué alivio… ¡Es todo un alivio!
+Dialogue: 0,0:09:43.85,0:09:47.61,Gen_Main,Chou,0,0,0,,No podía creer que siguieras vivo.
+Dialogue: 0,0:09:48.11,0:09:50.27,Gen_Main,Chou,0,0,0,,En fin, ¿qué querías preguntarme?
+Dialogue: 0,0:09:50.57,0:09:54.54,Gen_Main,Sakuya,0,0,0,,Quería preguntarte sobre\Nlos asesinatos de hace veinte años.
+Dialogue: 0,0:09:55.16,0:10:01.78,Gen_Main,Sakuya,0,0,0,,¿Apodaron al asesino como\N"el botones cabeza de perro"?
+Dialogue: 0,0:10:03.79,0:10:06.60,Gen_Main,Sakuya,0,0,0,,Creo que está relacionado\Ncon este asesinato.
+Dialogue: 0,0:10:07.46,0:10:08.58,Gen_Main,Sakuya,0,0,0,,Cuéntamelo.
+Dialogue: 0,0:10:09.63,0:10:12.17,Gen_Main,Chou,0,0,0,,Ocurrió en una noche de lluvia,\Nigual que esta.
+Dialogue: 0,0:10:12.17,0:10:15.13,Cart_C_Tre,CARTEL,0,0,0,,{\pos(535,258)}20 años antes
+Dialogue: 0,0:10:13.26,0:10:15.13,Gen_Main,Chou,0,0,0,,Un hombre que había traicionado
+Dialogue: 0,0:10:15.27,0:10:18.55,Gen_Main,Chou,0,0,0,,a una organización\Nse alojó aquí con su familia.
+Dialogue: 0,0:10:20.10,0:10:22.77,Gen_Main,Chou,0,0,0,,Los asesinaron a todos la misma noche.
+Dialogue: 0,0:10:23.39,0:10:25.24,Gen_Main,Chou,0,0,0,,Los cortaron en pedacitos.
+Dialogue: 0,0:10:27.61,0:10:29.95,Gen_Main,Chou,0,0,0,,Solo sobrevivió el segundo hijo.
+Dialogue: 0,0:10:30.03,0:10:31.38,Gen_Main,Chou,0,0,0,,Esto fue lo que dijo…
+Dialogue: 0,0:10:32.11,0:10:35.98,Gen_Main,Chou,0,0,0,,"Un perro aterrador\Nlos mordió y los mató".
+Dialogue: 0,0:10:37.16,0:10:38.55,Gen_Main,Chou,0,0,0,,Me pareció extraño,
+Dialogue: 0,0:10:38.62,0:10:42.38,Gen_Main,Chou,0,0,0,,pero estuve allí y vi al asesino\Ncon mis propios ojos.
+Dialogue: 0,0:10:46.88,0:10:49.13,Gen_Main,Yuriu,0,0,0,,¿Lo atraparon?
+Dialogue: 0,0:10:49.21,0:10:50.21,Gen_Main,Chou,0,0,0,,Sí.
+Dialogue: 0,0:10:50.75,0:10:55.84,Gen_Main,Chou,0,0,0,,Llamaron a cierto detective\Ny le puso un buen final al caso.
+Dialogue: 0,0:10:55.93,0:10:57.55,Gen_Main,Chou,0,0,0,,Detuvieron al asesino.
+Dialogue: 0,0:10:57.93,0:11:00.84,Gen_Italics,Sakuya,0,0,0,,¿"Cierto detective"?\NNo puede ser él, ¿o sí?
+Dialogue: 0,0:11:01.56,0:11:04.70,Gen_Main,Lili,0,0,0,,¿El asesino era parte\Nde la organización?
+Dialogue: 0,0:11:05.19,0:11:07.32,Gen_Main,Chou,0,0,0,,No, era totalmente ajeno a ella.
+Dialogue: 0,0:11:07.40,0:11:09.23,Gen_Main,Chou,0,0,0,,Solo mataba por diversión.
+Dialogue: 0,0:11:09.90,0:11:14.28,Gen_Main,Chou,0,0,0,,El caso acabó siendo un asesinato más,
+Dialogue: 0,0:11:14.36,0:11:16.57,Gen_Main,Chou,0,0,0,,pero no evitó que la gente hablara.
+Dialogue: 0,0:11:17.03,0:11:20.95,Gen_Main,Chou,0,0,0,,Después, se le conoció\Nen la ciudad como…
+Dialogue: 0,0:11:21.70,0:11:23.95,Gen_Main,Chou,0,0,0,,"el botones cabeza de perro".
+Dialogue: 0,0:11:26.83,0:11:29.03,Gen_Main,Lili,0,0,0,,Entonces, este caso…
+Dialogue: 0,0:11:29.13,0:11:31.99,Gen_Main,Sakuya,0,0,0,,Sí, es una imitación\Ndel de hace veinte años.
+Dialogue: 0,0:11:33.42,0:11:35.78,Gen_Italics,Sakuya,0,0,0,,La policía llegará pronto.
+Dialogue: 0,0:11:35.88,0:11:37.95,Gen_Italics,Sakuya,0,0,0,,El asesino se está quedando sin tiempo.
+Dialogue: 0,0:11:38.39,0:11:41.22,Gen_Italics,Sakuya,0,0,0,,¿Cómo llevará a cabo\Nlos demás asesinatos?
+Dialogue: 0,0:11:41.72,0:11:44.58,Gen_Main,Sozorogi,0,0,0,,Conque aquí estaban todos.
+Dialogue: 0,0:11:46.48,0:11:49.05,Gen_Main,Sozorogi,0,0,0,,Tienen que quedarse\Nen sus habitaciones.
+Dialogue: 0,0:11:49.15,0:11:51.64,Gen_Main,Sakuya,0,0,0,,Perdón, los reuní para hablar.
+Dialogue: 0,0:11:51.73,0:11:54.75,Gen_Main,Sozorogi,0,0,0,,Diablos, tú siempre…
+Dialogue: 0,0:11:56.15,0:11:59.44,Gen_Main,Sozorogi,0,0,0,,¿Tatsuya Otsuki?\N¿Cómo es que estás vivo?
+Dialogue: 0,0:11:59.53,0:12:02.20,Gen_Main,Sakuya,0,0,0,,Cosas que pasan. Estoy bien.
+Dialogue: 0,0:12:02.28,0:12:03.78,Gen_Main,Sozorogi,0,0,0,,¿"Cosas que pasan"?
+Dialogue: 0,0:12:04.79,0:12:07.50,Gen_Main,Sozorogi,0,0,0,,¿El director y Marukoshi\Nno están contigo?
+Dialogue: 0,0:12:08.54,0:12:10.19,Gen_Main,Sakuya,0,0,0,,¿No están aquí?
+Dialogue: 0,0:12:10.29,0:12:14.37,Gen_Main,Sozorogi,0,0,0,,No estaban en sus habitaciones.\N¿Dónde se habrán metido?
+Dialogue: 0,0:12:15.71,0:12:20.93,Gen_Main,Yuriu,0,0,0,,Ahora que recuerdo, el director dijo que\Nseguiría rodando pasara lo que pasara.
+Dialogue: 0,0:12:21.01,0:12:22.01,Gen_Main,Yuriu,0,0,0,,¿Y si…?
+Dialogue: 0,0:12:23.22,0:12:25.02,Gen_Main,Sozorogi,0,0,0,,¿Iba a seguir grabando?
+Dialogue: 0,0:12:25.10,0:12:27.25,Gen_Main,Sakuya,0,0,0,,¿Qué escena? ¿Dónde?
+Dialogue: 0,0:12:27.35,0:12:29.46,Gen_Main,Yuriu,0,0,0,,En el último piso del hotel.
+Dialogue: 0,0:12:29.56,0:12:32.04,Gen_Main,Yuriu,0,0,0,,Es una caída de la ventana al lago.
+Dialogue: 0,0:12:32.11,0:12:34.69,Gen_Main,Yuriu,0,0,0,,La va a hacer el doble, por supuesto.
+Dialogue: 0,0:12:34.88,0:12:35.88,Gen_Main,Sakuya,0,0,0,,¿El lago?
+Dialogue: 0,0:12:35.94,0:12:37.17,Gen_Main,Sakuya,0,0,0,,¿Hay un lago aquí?
+Dialogue: 0,0:12:37.24,0:12:39.51,Gen_Main,Chou,0,0,0,,Mi padre lo construyó hace tiempo.
+Dialogue: 0,0:12:39.61,0:12:41.80,Gen_Main,Utaki,0,0,0,,En él vive una tortuga enorme, ¿verdad?
+Dialogue: 0,0:12:41.87,0:12:44.08,Gen_Main,Sakuya,0,0,0,,¿Y acaso está al norte?
+Dialogue: 0,0:12:44.16,0:12:45.91,Gen_Main,Utaki,0,0,0,,Sí, ¿cómo lo sabes?
+Dialogue: 0,0:12:51.29,0:12:56.63,Gen_Main,Toriho,0,0,0,,Sigan así.
+Dialogue: 0,0:12:56.71,0:12:57.71,Gen_Main,Toriho,0,0,0,,Para la próxima…
+Dialogue: 0,0:13:12.23,0:13:15.48,Gen_Main,Sakuya,0,0,0,,"Los avariciosos terminarán\Nen el fondo del mar", ¿verdad?
+Dialogue: 0,0:13:17.61,0:13:19.64,Gen_Main,Sakuya,0,0,0,,Te estoy hablando.
+Dialogue: 0,0:13:19.74,0:13:22.03,Gen_Main,Sakuya,0,0,0,,¿Me oyes, Shou Shirasagi?
+Dialogue: 0,0:13:22.66,0:13:25.49,Gen_Main,Sakuya,0,0,0,,O, mejor dicho…\N¡el botones cabeza de perro!
+Dialogue: 0,0:13:28.87,0:13:31.64,Gen_Main,Sakuya,0,0,0,,¡Se te acabó el tiempo!
+Dialogue: 0,0:13:35.67,0:13:39.96,Gen_Main,Lili,0,0,0,,Tiene que trabajar más en sus frases.\NLo que dijo no fue nada imponente.
+Dialogue: 0,0:13:42.01,0:13:44.76,Gen_Main,Shou,0,0,0,,¿Qué está pasando?\N¿No estabas muerto?
+Dialogue: 0,0:13:44.85,0:13:46.88,Gen_Main,Sakuya,0,0,0,,"¿No te había matado?", querrás decir.
+Dialogue: 0,0:13:49.22,0:13:51.64,Gen_Main,Sakuya,0,0,0,,Un lago debajo de la ventana.
+Dialogue: 0,0:13:51.73,0:13:54.03,Gen_Main,Sakuya,0,0,0,,Es el lugar perfecto\Npara otro asesinato.
+Dialogue: 0,0:13:54.10,0:13:57.73,Gen_Main,Shou,0,0,0,,¿De qué hablas? No te entiendo.
+Dialogue: 0,0:13:57.82,0:14:00.78,Gen_Main,Sakuya,0,0,0,,Entonces, ¿me dejas comprobar algo?
+Dialogue: 0,0:14:00.86,0:14:01.86,Gen_Main,Shou,0,0,0,,¿Comprobar?
+Dialogue: 0,0:14:02.40,0:14:04.90,Gen_Main,Sakuya,0,0,0,,Quítate la camiseta\Ny enséñame la espalda.
+Dialogue: 0,0:14:04.99,0:14:09.39,Gen_Main,Shou,0,0,0,,Si así demuestro mi inocencia,\Npor supuesto.
+Dialogue: 0,0:14:11.91,0:14:13.26,Gen_Main,Lili,0,0,0,,Señor…
+Dialogue: 0,0:14:13.33,0:14:16.83,Gen_Main,Sakuya,0,0,0,,Lo sabía. Eres el asesino.
+Dialogue: 0,0:14:17.92,0:14:19.64,Gen_Main,Shou,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:14:20.51,0:14:24.46,Gen_Main,Sakuya,0,0,0,,Te grabé mi firma en la espalda.
+Dialogue: 0,0:14:25.43,0:14:27.28,Gen_Main,Shou,0,0,0,,¿En la espalda? ¿Cuándo?
+Dialogue: 0,0:14:27.35,0:14:30.49,Gen_Main,Sakuya,0,0,0,,Cuando me apuñalaste.\N¿Ya se te olvidó?
+Dialogue: 0,0:14:35.73,0:14:37.05,Gen_Main,Sakuya,0,0,0,,Te lo repetiré.
+Dialogue: 0,0:14:37.52,0:14:39.98,Gen_Main,Sakuya,0,0,0,,Shou, tú eres el asesino.
+Dialogue: 0,0:14:40.48,0:14:43.93,Gen_Main,Toriho,0,0,0,,Entonces, la amenaza\Ny el asesinato de Nakuji…
+Dialogue: 0,0:14:44.03,0:14:46.32,Gen_Main,Toriho,0,0,0,,¿Todo fue obra tuya? ¿Por qué?
+Dialogue: 0,0:14:51.12,0:14:54.41,Gen_Main,Shou,0,0,0,,Si los hubiera matado,\Nhabría cumplido con mi trabajo.
+Dialogue: 0,0:14:54.50,0:14:57.37,Gen_Main,Shou,0,0,0,,No dejen de rodar la película.
+Dialogue: 0,0:14:57.46,0:14:59.46,Gen_Main,Shou,0,0,0,,Todos son un asco.
+Dialogue: 0,0:14:59.54,0:15:01.75,Gen_Main,Shou,0,0,0,,Nakuji, Marukoshi, el director…
+Dialogue: 0,0:15:01.84,0:15:05.34,Gen_Main,Shou,0,0,0,,Solo se preocupan por sí mismos.\N"Yo, yo, yo, yo".
+Dialogue: 0,0:15:05.59,0:15:09.78,Gen_Main,Shou,0,0,0,,¡Cómo se atreven a mirarla con\Nesos ojos que delatan lo que quieren!
+Dialogue: 0,0:15:09.85,0:15:12.84,Gen_Main,Shou,0,0,0,,¡No puedo dejar\Nque se encarguen de esto!
+Dialogue: 0,0:15:13.10,0:15:16.91,Gen_Main,Shou,0,0,0,,¡Solo yo puedo alcanzar\Nla belleza verdadera, la fugacidad
+Dialogue: 0,0:15:16.98,0:15:20.61,Gen_Main,Shou,0,0,0,,y el brillo real del alma\Nen una película!
+Dialogue: 0,0:15:20.69,0:15:22.10,Gen_Main,Sakuya,0,0,0,,¿De qué demonios hablas?
+Dialogue: 0,0:15:30.99,0:15:32.27,Gen_Main,Sozorogi,0,0,0,,¡Vengan por aquí!
+Dialogue: 0,0:15:34.83,0:15:36.41,Gen_Main,Chou,0,0,0,,¿Cómo sabe eso?
+Dialogue: 0,0:15:37.00,0:15:40.37,Gen_Italics,Chou,0,0,0,,Los únicos que lo sabíamos éramos yo,\Nque estaba en el hotel, y…
+Dialogue: 0,0:15:41.75,0:15:43.08,Gen_Main,Chou,0,0,0,,Shou.
+Dialogue: 0,0:15:43.51,0:15:47.80,Gen_Main,Chou,0,0,0,,Tú eres el chico que sobrevivió\Nal caso, ¿verdad?
+Dialogue: 0,0:16:11.65,0:16:12.65,Gen_Main,Lili,0,0,0,,No te lo permitiré.
+Dialogue: 0,0:16:20.92,0:16:22.91,Gen_Main,Sakuya,0,0,0,,Gracias por salvarme.
+Dialogue: 0,0:16:23.00,0:16:26.84,Gen_Main,Lili,0,0,0,,Este perro travieso\Ntiene que aprender una lección.
+Dialogue: 0,0:16:26.92,0:16:29.13,Gen_Main,Sakuya,0,0,0,,¿Te enojaste?
+Dialogue: 0,0:16:29.22,0:16:33.77,Gen_Main,Lili,0,0,0,,No solo lo mató para usarlo en su plan,
+Dialogue: 0,0:16:33.85,0:16:37.12,Gen_Main,Lili,0,0,0,,sino que intentó asesinarlo\Nen mi presencia.
+Dialogue: 0,0:16:37.18,0:16:40.06,Gen_Main,Lili,0,0,0,,Estoy un poco molesta.
+Dialogue: 0,0:16:48.95,0:16:51.78,Gen_Main,Lili,0,0,0,,Meia Lua de Compasso.
+Dialogue: 0,0:16:54.03,0:16:55.64,Gen_Main,Sakuya,0,0,0,,¡Qué genial, Lilithea!
+Dialogue: 0,0:16:56.57,0:16:57.57,Gen_Main,Yuriu,0,0,0,,¡Maestro!
+Dialogue: 0,0:17:01.08,0:17:02.33,Gen_Main,Sakuya,0,0,0,,¡Corre, Yuriu!
+Dialogue: 0,0:17:10.13,0:17:12.13,Gen_Main,Aino,0,0,0,,¿Qué pasa aquí?
+Dialogue: 0,0:17:12.68,0:17:15.08,Gen_Main,Aino,0,0,0,,¿Este es el lobo del que hablabas?
+Dialogue: 0,0:17:15.18,0:17:17.22,Gen_Main,Sakuya,0,0,0,,¡Aléjate de él, es peligroso!
+Dialogue: 0,0:17:24.23,0:17:25.25,Gen_Main,Sakuya,0,0,0,,¡Lili!
+Dialogue: 0,0:17:26.48,0:17:28.30,Gen_Main,Lili,0,0,0,,Estoy aquí.
+Dialogue: 0,0:17:31.74,0:17:35.45,Gen_Main,Lili,0,0,0,,¡Y este es el gran final!
+Dialogue: 0,0:17:41.71,0:17:43.91,Gen_Main,Sakuya,0,0,0,,Lilithea, esa frase…
+Dialogue: 0,0:17:45.00,0:17:46.35,Gen_Main,Lili,0,0,0,,Se me salió.
+Dialogue: 0,0:17:49.59,0:17:50.73,Gen_Main,Sozorogi,0,0,0,,¡Lo tengo!
+Dialogue: 0,0:17:50.80,0:17:52.91,Gen_Main,Sozorogi,0,0,0,,¡Detuve al asesino!
+Dialogue: 0,0:17:55.64,0:17:56.80,Gen_Main,Shou,0,0,0,,¿Cómo…?
+Dialogue: 0,0:17:57.22,0:17:59.67,Gen_Main,Shou,0,0,0,,Me dejaste ese mensaje solo a mí.
+Dialogue: 0,0:18:00.27,0:18:01.76,Gen_Main,Shou,0,0,0,,Por eso yo…
+Dialogue: 0,0:18:02.19,0:18:03.80,Gen_Main,Sozorogi,0,0,0,,Tenías razón.
+Dialogue: 0,0:18:03.90,0:18:07.53,Gen_Main,Sozorogi,0,0,0,,Shirasagi había sobrevivido\Na los asesinatos de hace veinte años.
+Dialogue: 0,0:18:07.61,0:18:09.34,Gen_Main,Sakuya,0,0,0,,Lo sabía.
+Dialogue: 0,0:18:10.11,0:18:15.64,Gen_Main,Sakuya,0,0,0,,Pretendía convertirse en su trauma,\Nen lo que más temía.
+Dialogue: 0,0:18:15.74,0:18:18.69,Gen_Main,Sozorogi,0,0,0,,Le confisqué esta cámara.
+Dialogue: 0,0:18:18.79,0:18:21.95,Gen_Main,Sozorogi,0,0,0,,Mira lo que había grabado\Nsi quieres conocer sus motivos.
+Dialogue: 0,0:18:25.41,0:18:26.41,Gen_Main,Sakuya,0,0,0,,Es…
+Dialogue: 0,0:18:26.88,0:18:28.87,Gen_Italics,Yuriu,0,0,0,,Buenos días, director.
+Dialogue: 0,0:18:28.96,0:18:31.08,Gen_Italics,Yuriu,0,0,0,,Desde luego, yo también ayudaré.
+Dialogue: 0,0:18:32.34,0:18:33.34,Gen_Italics,Yuriu,0,0,0,,Te devuelvo…
+Dialogue: 0,0:18:34.26,0:18:36.30,Gen_Italics,Yuriu,0,0,0,,¡Maestro!
+Dialogue: 0,0:18:39.14,0:18:42.01,Gen_Main,Botones,0,0,0,,No manches el honor\Nde la doncella celestial.
+Dialogue: 0,0:18:42.52,0:18:45.42,Gen_Italics,Sakuya,0,0,0,,¿Se refería a Yuriu?
+Dialogue: 0,0:18:45.52,0:18:51.54,Gen_Main,Sozorogi,0,0,0,,Le pregunté, pero dice\Nque solo lo conocía de otro rodaje.
+Dialogue: 0,0:18:51.61,0:18:53.22,Gen_Main,Sozorogi,0,0,0,,Ella nunca habló con él.
+Dialogue: 0,0:18:53.32,0:18:57.23,Gen_Main,Sakuya,0,0,0,,¿Solo por eso se obsesionó con Yuriu\Ny cometió esos asesinatos?
+Dialogue: 0,0:18:57.32,0:19:01.24,Gen_Main,Sozorogi,0,0,0,,No lo entiendo, pero supongo que sí.
+Dialogue: 0,0:19:01.54,0:19:05.49,Gen_Main,Sozorogi,0,0,0,,Lo del "ruedacintas" en la amenaza
+Dialogue: 0,0:19:05.58,0:19:08.68,Gen_Main,Sozorogi,0,0,0,,tal vez era un mensaje\Ndirigido a él mismo.
+Dialogue: 0,0:19:16.59,0:19:19.51,Gen_Main,Sakuya,0,0,0,,Otro caso bastante duro…
+Dialogue: 0,0:19:21.51,0:19:24.22,Gen_Main,Sakuya,0,0,0,,¿Lilithea?
+Dialogue: 0,0:19:24.85,0:19:27.09,Gen_Main,Lili,0,0,0,,Seguro que piensa que no pasa nada,
+Dialogue: 0,0:19:27.19,0:19:32.35,Gen_Main,Lili,0,0,0,,ya que resucitó\Ndespués de que lo asesinaran.
+Dialogue: 0,0:19:32.44,0:19:34.51,Gen_Main,Sakuya,0,0,0,,No…
+Dialogue: 0,0:19:34.61,0:19:35.61,Gen_Main,Lili,0,0,0,,Mentiroso.
+Dialogue: 0,0:19:39.41,0:19:42.17,Gen_Main,Lili,0,0,0,,¿Qué pasará si no resucita?
+Dialogue: 0,0:19:42.24,0:19:44.78,Gen_Main,Lili,0,0,0,,De hecho, eso sería lo normal.
+Dialogue: 0,0:19:46.87,0:19:48.50,Gen_Main,Lili,0,0,0,,Solo se vive una vez.
+Dialogue: 0,0:19:48.92,0:19:51.31,Gen_Main,Lili,0,0,0,,No desperdicie su vida así como así.
+Dialogue: 0,0:19:52.05,0:19:55.08,Gen_Main,Lili,0,0,0,,O algún día no podré protegerlo.
+Dialogue: 0,0:19:55.59,0:19:56.91,Gen_Main,Sakuya,0,0,0,,Lilithea…
+Dialogue: 0,0:19:57.34,0:19:58.52,Gen_Main,Lili,0,0,0,,Dime, Sakuya.
+Dialogue: 0,0:20:00.35,0:20:03.22,Gen_Main,Lili,0,0,0,,Si no dejas de morir y sufrir,
+Dialogue: 0,0:20:04.06,0:20:06.76,Gen_Main,Lili,0,0,0,,¿por qué no dejas de ser detective?
+Dialogue: 0,0:20:07.64,0:20:11.32,Gen_Main,Sakuya,0,0,0,,Es que la agencia es nuestra casa.
+Dialogue: 0,0:20:11.81,0:20:17.11,Gen_Main,Sakuya,0,0,0,,Si tiro la toalla, mis padres\Nno tendrán un hogar al cual regresar.
+Dialogue: 0,0:20:17.60,0:20:18.60,Gen_Main,Lili,0,0,0,,¿Un hogar?
+Dialogue: 0,0:20:19.95,0:20:23.77,Gen_Main,Lili,0,0,0,,Qué envidia.\NYo ya no tengo un lugar así.
+Dialogue: 0,0:20:23.87,0:20:25.57,Gen_Main,Sakuya,0,0,0,,No digas tonterías.
+Dialogue: 0,0:20:26.25,0:20:28.74,Gen_Main,Sakuya,0,0,0,,La agencia también es tu casa, ¿sabes?
+Dialogue: 0,0:20:31.06,0:20:32.06,Gen_Main,Lili,0,0,0,,Sí.
+Dialogue: 0,0:20:35.63,0:20:37.41,Gen_Main,Sakuya,0,0,0,,Bueno, ¿nos vamos?
+Dialogue: 0,0:20:37.51,0:20:39.75,Gen_Main,Lili,0,0,0,,Supongo…
+Dialogue: 0,0:20:40.47,0:20:44.01,Gen_Main,Lili,0,0,0,,Por cierto, sobre la gotera…
+Dialogue: 0,0:20:44.10,0:20:46.00,Gen_Main,Lili,0,0,0,,-Yo fui la que…\N-Por cierto,
+Dialogue: 0,0:20:46.08,0:20:48.35,Gen_Main,Sakuya,0,0,0,,¿quieres jugar algo cuando volvamos?
+Dialogue: 0,0:20:48.43,0:20:49.64,Gen_Main,Lili,0,0,0,,¿Jugar?
+Dialogue: 0,0:20:49.73,0:20:54.94,Gen_Main,Sakuya,0,0,0,,Anoche no pudimos probar\Nel juego de la reencarnación.
+Dialogue: 0,0:20:56.69,0:20:59.14,Gen_Main,Lili,0,0,0,,Qué infantil es, señor Sakuya.
+Dialogue: 0,0:20:59.24,0:21:01.53,Gen_Main,Lili,0,0,0,,Qué remedio. Jugaré con usted.
+Dialogue: 0,0:21:01.82,0:21:03.48,Gen_Main,Sakuya,0,0,0,,¡Bien, pero no pienso perder!
+Dialogue: 0,0:21:04.53,0:21:05.77,Gen_Main,Lili,0,0,0,,Qué tontorrón.
+Dialogue: 0,0:22:41.84,0:22:43.29,Gen_Main,Detective,0,0,0,,Ya lo interrogamos.
+Dialogue: 0,0:22:43.38,0:22:47.09,Gen_Main,Detective,0,0,0,,Como sospechamos, Shou Shirasagi\Nno tuvo nada que ver.
+Dialogue: 0,0:22:47.60,0:22:48.69,Gen_Main,Sozorogi,0,0,0,,Entiendo.
+Dialogue: 0,0:22:48.76,0:22:50.55,Gen_Main,Sozorogi,0,0,0,,No se lo cuenten a nadie.
+Dialogue: 0,0:22:51.14,0:22:55.06,Gen_Main,Sozorogi,0,0,0,,En especial al detective Tatsuya Otsuki.
+Dialogue: 0,0:23:03.44,0:23:04.65,Gen_Main,Yuriu,0,0,0,,¿Diga?
+Dialogue: 0,0:23:05.11,0:23:07.57,Gen_Main,Yuriu,0,0,0,,¿Sigues igual de demente hoy?
+Dialogue: 0,0:23:08.70,0:23:12.03,Gen_Main,Yuriu,0,0,0,,Sí, yo también he estado ocupada.
+Dialogue: 0,0:23:12.12,0:23:14.91,Gen_Main,Yuriu,0,0,0,,Sí, el hijo de Tatsuya Otsuki.
+Dialogue: 0,0:23:15.00,0:23:19.62,Gen_Main,Yuriu,0,0,0,,Lo estuve vigilando porque quería saber\Ncómo es y me entretuvo bastante.
+Dialogue: 0,0:23:20.04,0:23:23.68,Gen_Main,Yuriu,0,0,0,,Aún tiene que pulir bastante\Nsu habilidad como detective.
+Dialogue: 0,0:23:23.76,0:23:28.46,Gen_Main,Yuriu,0,0,0,,Creo que tendré que estimularle más\Nel cerebro como Yurrieux Dillinger.
+Dialogue: 0,0:23:30.60,0:23:33.80,Gen_Main,Yuriu,0,0,0,,¿"Eres demasiado buena con el maestro"?
+Dialogue: 0,0:23:34.77,0:23:36.51,Gen_Main,Yuriu,0,0,0,,¿Tú crees?
+Dialogue: 0,0:23:46.78,0:23:48.65,Gen_Main,Yuriu,0,0,0,,¿Y me lo dices tú?
+Dialogue: 0,0:23:48.74,0:23:54.49,Gen_Main,Yuriu,0,0,0,,¡Te devuelvo esas palabras\Nenvueltas con un listón!
+Dialogue: 0,0:23:53.72,0:23:59.88,Cart_A_Tre,CARTEL,0,0,0,,{\fad(150,2400)\fs16\pos(119,209)}Condena    999 años
+Dialogue: 0,0:24:03.19,0:24:09.97,Cart_A_Tre,CARTEL,0,0,0,,{\fad(250,0)\fs24\b0\bord0\pos(320,205)\c&HD7D7D7&}El parque de la rueda devorahombres, primera parte
+Dialogue: 0,0:24:03.19,0:24:09.97,Cart_A_Tre,CARTEL,0,0,0,,{\fad(250,0)\fs24\b0\bord0\pos(320,85)\c&HD7D7D7&}Próximo episodio
+Dialogue: 0,0:24:04.59,0:24:08.90,Gen_Main,Ambos,0,0,0,,Próximamente: "El parque de la rueda\Ndevorahombres, primera parte".
