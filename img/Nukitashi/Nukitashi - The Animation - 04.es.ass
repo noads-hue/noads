@@ -1,0 +1,579 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: untitled
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.0,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.70,Default,,0,0,0,,(ESTA SERIE ES UNA ANIMACIÓN PARA ADULTOS DESTINADA A ESPECTADORES\NQUE SEAN MAYORES DE EDAD SEGÚN LAS LEYES Y REGLAMENTOS LOCALES.)
+Dialogue: 0,0:00:01.70,0:00:02.90,Default,,0,0,0,,(ESTA HISTORIA ES PURAMENTE FICCIONAL Y NO GUARDA\NRELACIÓN CON PERSONAS, ORGANIZACIONES O EVENTOS REALES.)
+Dialogue: 0,0:00:02.90,0:00:03.82,Default,,0,0,0,,(TODOS LOS PERSONAJES SON MAYORES DE EDAD Y TIENEN EDAD DE CONSENTIMIENTO.)
+Dialogue: 0,0:00:03.82,0:00:05.00,Default,,0,0,0,,(EL TÍTULO PUEDE CONTENER CONTENIDO SENSIBLE\NCOMO ESCENAS SEXUALES O VIOLENTAS. NO LO IMITES.)
+Dialogue: 0,0:00:07.96,0:00:11.38,Default,,0,0,0,,EL FESTIVAL SPORT-GASM\NEYACULACIÓN SORPRESA
+Dialogue: 0,0:00:12.05,0:00:14.43,Default,,0,0,0,,TODOS LOS PERSONAJES, ORGANIZACIONES, LUGARES,\NLEYES Y NOMBRES SON PURAMENTE FICCIONALES.
+Dialogue: 0,0:00:14.43,0:00:16.87,Default,,0,0,0,,POR FAVOR, TEN EN CUENTA QUE LA OBRA\NCONTIENE ALGUN LENGUAJE EXTREMO.
+Dialogue: 0,0:00:16.87,0:00:17.68,Default,,0,0,0,,¡Maestra!
+Dialogue: 0,0:00:17.87,0:00:21.41,Default,,0,0,0,,Todos nosotros XXX respetaremos XXXship,\Nmostraremos completamente...
+Dialogue: 0,0:00:21.41,0:00:25.12,Default,,0,0,0,,los frutos de nuestro entrenamiento,\Npara luchar sexualmente y con valentía hasta el clímax.
+Dialogue: 0,0:00:28.03,0:00:30.03,Default,,0,0,0,,Para aplastar la Ordenanza Perversa,
+Dialogue: 0,0:00:31.31,0:00:33.55,Default,,0,0,0,,necesitamos obtener información\Nsobre Fumino Kotoyose...
+Dialogue: 0,0:00:33.82,0:00:36.13,Default,,0,0,0,,infiltrándonos\Nen la sala del consejo estudiantil de FS.
+Dialogue: 0,0:00:38.99,0:00:40.51,Default,,0,0,0,,Por su bien...
+Dialogue: 0,0:00:40.52,0:00:42.27,Default,,0,0,0,,y por el bien de mi vientre...
+Dialogue: 0,0:00:42.74,0:00:45.10,Default,,0,0,0,,tengo que borrar los registros de FS.
+Dialogue: 0,0:00:46.42,0:00:47.76,Default,,0,0,0,,Y ahora,
+Dialogue: 0,0:00:48.65,0:00:51.78,Default,,0,0,0,,comenzaremos el Festival Sport-gasm\Nde la Academia Minotsuki.
+Dialogue: 0,0:00:51.78,0:00:55.05,Default,,0,0,0,,EL FESTIVAL SPORT-GASM\N EYACULACIÓN SORPRESA
+Dialogue: 0,0:01:03.10,0:01:09.34,Default,,0,0,0,,NUKITASHI THE ANIMATION
+Dialogue: 0,0:01:09.34,0:01:11.96,Default,,0,0,0,,Solo las creaciones fallidas\Nde los de antes
+Dialogue: 0,0:01:11.96,0:01:14.80,Default,,0,0,0,,Algunos elementos rebeldes, podridos hasta la médula
+Dialogue: 0,0:01:14.80,0:01:17.22,Default,,0,0,0,,Más allá de la cerca de alambre,\Nun mundo de diseño elegante
+Dialogue: 0,0:01:17.22,0:01:19.68,Default,,0,0,0,,Lo miré fijamente,\Nun secreto que era solo mío
+Dialogue: 0,0:01:19.68,0:01:21.97,Default,,0,0,0,,Dentro del mundo perfecto\Nque alguien más diseñó
+Dialogue: 0,0:01:21.97,0:01:24.48,Default,,0,0,0,,Si éramos diferentes,\Nsiempre nos dejaban atrás
+Dialogue: 0,0:01:24.48,0:01:26.94,Default,,0,0,0,,En un mundo gentil para que todos lo contemplen
+Dialogue: 0,0:01:26.94,0:01:29.86,Default,,0,0,0,,Alguien desconocido gritaba de agonía
+Dialogue: 0,0:01:29.86,0:01:31.86,Default,,0,0,0,,Solo una multitud riendo,\Nun rebaño sin mente de cuervos,
+Dialogue: 0,0:01:31.86,0:01:33.82,Default,,0,0,0,,Siempre diciendo "NO"\Na cosas que nadie conoce
+Dialogue: 0,0:01:33.82,0:01:36.32,Default,,0,0,0,,Con valores y con normalidad posan
+Dialogue: 0,0:01:36.32,0:01:37.78,Default,,0,0,0,,Armados con todas sus teorías, supongo
+Dialogue: 0,0:01:37.78,0:01:38.82,Default,,0,0,0,,Y luego nos llaman inútiles profesionales
+Dialogue: 0,0:01:38.82,0:01:41.20,Default,,0,0,0,,Incluso si sabes\Nque estás equivocado
+Dialogue: 0,0:01:41.20,0:01:43.66,Default,,0,0,0,,Recuerda lo que significa\Nvivir tu vida y ser fuerte
+Dialogue: 0,0:01:43.66,0:01:46.08,Default,,0,0,0,,Si realmente deseas\Npoder cambiar hoy mismo
+Dialogue: 0,0:01:46.08,0:01:48.08,Default,,0,0,0,,Con ese mismo corazón,\Nve y muéstrales
+Dialogue: 0,0:01:48.33,0:01:51.34,Default,,0,0,0,,No dudes, no te detengas nunca
+Dialogue: 0,0:01:51.34,0:01:54.21,Default,,0,0,0,,Destrúyelo, haz que todo el mundo caiga
+Dialogue: 0,0:01:54.21,0:01:56.47,Default,,0,0,0,,Con toda esa pasión,\Natraviesa todo
+Dialogue: 0,0:01:56.47,0:01:58.47,Default,,0,0,0,,Ve a donde quieras
+Dialogue: 0,0:01:58.47,0:02:00.93,Default,,0,0,0,,¿Ni siquiera puedes amarte a ti mismo?
+Dialogue: 0,0:02:00.93,0:02:03.85,Default,,0,0,0,,Por la impaciencia o el desastre que has hecho
+Dialogue: 0,0:02:03.85,0:02:06.35,Default,,0,0,0,,Porque justo aquí y ahora,\Nestamos de pie
+Dialogue: 0,0:02:06.35,0:02:08.85,Default,,0,0,0,,Estamos vivos y respirando después de todo
+Dialogue: 0,0:02:27.63,0:02:30.06,Default,,0,0,0,,¡El festival sport-gasm por fin ha comenzado!
+Dialogue: 0,0:02:30.50,0:02:33.69,Default,,0,0,0,,La narración en vivo está a cargo de la locutora Chino,
+Dialogue: 0,0:02:33.69,0:02:35.20,Default,,0,0,0,,la chica que puede aceptarlo todo.
+Dialogue: 0,0:02:35.71,0:02:36.96,Default,,0,0,0,,Y nuestro analista es este hombre.
+Dialogue: 0,0:02:37.13,0:02:39.74,Default,,0,0,0,,Famoso por "No hay nada que no esté en mis datos",
+Dialogue: 0,0:02:39.74,0:02:41.03,Default,,0,0,0,,Shu Nakamura-san.
+Dialogue: 0,0:02:41.38,0:02:42.39,Default,,0,0,0,,Es un placer estar aquí.
+Dialogue: 0,0:02:42.81,0:02:46.71,Default,,0,0,0,,Nakamura-san, ¿cuáles son los momentos destacados\Nde este torneo?
+Dialogue: 0,0:02:46.72,0:02:48.92,Default,,0,0,0,,Eso no está en mis datos.
+Dialogue: 0,0:02:48.93,0:02:49.75,Default,,0,0,0,,¡Tú de ahí!
+Dialogue: 0,0:02:50.03,0:02:53.86,Default,,0,0,0,,Siguiendo el código de vestimenta, debes usar\Ntraje de baño pervertido en el festival sport-gasm.
+Dialogue: 0,0:02:54.20,0:02:55.70,Default,,0,0,0,,¿Qué es ese cinturón de castidad?
+Dialogue: 0,0:02:56.67,0:02:58.72,Default,,0,0,0,,Sigue el "perv-code" correctamente.
+Dialogue: 0,0:02:58.72,0:03:00.55,Default,,0,0,0,,Si no te cambias, serás castigada.
+Dialogue: 0,0:03:00.87,0:03:01.51,Default,,0,0,0,,Hmph.
+Dialogue: 0,0:03:02.44,0:03:03.12,Default,,0,0,0,,Tsk.
+Dialogue: 0,0:03:03.47,0:03:06.69,Default,,0,0,0,,Estaba intentando evitar el sexo lascivo,\Npero no hay remedio.
+Dialogue: 0,0:03:07.07,0:03:08.84,Default,,0,0,0,,Nanase, quítatelo.
+Dialogue: 0,0:03:08.84,0:03:09.93,Default,,0,0,0,,Tú tienes la llave.
+Dialogue: 0,0:03:10.22,0:03:11.98,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:03:11.98,0:03:13.55,Default,,0,0,0,,Jun es tan bebé.
+Dialogue: 0,0:03:17.60,0:03:20.49,Default,,0,0,0,,Más importante, ¿cómo va el plan?
+Dialogue: 0,0:03:20.49,0:03:24.30,Default,,0,0,0,,Sí, anticipé esta situación\Ne hice preparativos con el TAE.
+Dialogue: 0,0:03:24.71,0:03:25.52,Default,,0,0,0,,Esto es.
+Dialogue: 0,0:03:26.97,0:03:29.10,Default,,0,0,0,,Con esto, puedo extraer los datos de FS.
+Dialogue: 0,0:03:30.84,0:03:32.03,Default,,0,0,0,,Pónmelo, Nanase.
+Dialogue: 0,0:03:32.38,0:03:33.46,Default,,0,0,0,,¿Y-Yo?
+Dialogue: 0,0:03:33.46,0:03:36.11,Default,,0,0,0,,No hay forma de que yo pueda\Nponerme algo así yo misma.
+Dialogue: 0,0:03:36.51,0:03:38.97,Default,,0,0,0,,Está bien. Qué fastidio.
+Dialogue: 0,0:03:39.89,0:03:41.62,Default,,0,0,0,,Solo mira el culo, ¿vale?
+Dialogue: 0,0:03:41.62,0:03:43.02,Default,,0,0,0,,No mires la parte de enfrente.
+Dialogue: 0,0:03:43.57,0:03:45.41,Default,,0,0,0,,Date prisa y muéstrame tu culo.
+Dialogue: 0,0:03:46.63,0:03:47.60,Default,,0,0,0,,¡Allá voy!
+Dialogue: 0,0:03:49.47,0:03:50.22,Default,,0,0,0,,¡Hazlo!
+Dialogue: 0,0:03:50.70,0:03:52.34,Default,,0,0,0,,¡Hazlo!
+Dialogue: 0,0:03:53.44,0:03:56.35,Default,,0,0,0,,¡Aaaah!
+Dialogue: 0,0:03:58.14,0:04:00.21,Default,,0,0,0,,¿Eres una actriz AV asertiva?
+Dialogue: 0,0:04:00.56,0:04:03.13,Default,,0,0,0,,Increíble. ¿Entrará también dentro de mí?
+Dialogue: 0,0:04:03.13,0:04:04.61,Default,,0,0,0,,Es imposible para una loli.
+Dialogue: 0,0:04:04.61,0:04:06.54,Default,,0,0,0,,No soy una loli.
+Dialogue: 0,0:04:06.54,0:04:09.00,Default,,0,0,0,,Ikuko, estás descuidando la seguridad otra vez.
+Dialogue: 0,0:04:09.00,0:04:12.37,Default,,0,0,0,,Pero estaba buscando mi verga del destino.
+Dialogue: 0,0:04:12.37,0:04:14.44,Default,,0,0,0,,¿Seguridad o verga, qué es más importante?
+Dialogue: 0,0:04:14.44,0:04:15.23,Default,,0,0,0,,Verga.
+Dialogue: 0,0:04:15.54,0:04:16.45,Default,,0,0,0,,Ugh...
+Dialogue: 0,0:04:16.45,0:04:17.84,Default,,0,0,0,,La verga también es importante, pero...
+Dialogue: 0,0:04:17.84,0:04:18.50,Default,,0,0,0,,Mira.
+Dialogue: 0,0:04:18.51,0:04:22.83,Default,,0,0,0,,Si tengo la verga definitiva,\Npuedo hacer feliz a la mitad de la humanidad.
+Dialogue: 0,0:04:22.83,0:04:26.01,Default,,0,0,0,,Es el primer paso hacia\Nla paz mundial, ¿verdad, Touka-chan?
+Dialogue: 0,0:04:27.51,0:04:28.56,Default,,0,0,0,,Supongo que sí.
+Dialogue: 0,0:04:29.34,0:04:31.81,Default,,0,0,0,,El primer evento es la carrera de 100 metros.
+Dialogue: 0,0:04:31.82,0:04:36.44,Default,,0,0,0,,Todos los atletas participantes, por favor reúnanse\Nen la puerta de entrada llamada "Tierra".
+Dialogue: 0,0:04:36.44,0:04:37.08,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:04:37.08,0:04:38.96,Default,,0,0,0,,Es un evento más normal\Nde lo que pensaba.
+Dialogue: 0,0:04:39.28,0:04:41.11,Default,,0,0,0,,No realmente.
+Dialogue: 0,0:04:41.52,0:04:45.27,Default,,0,0,0,,Acumulación de bolas grandes, rodar bolas grandes,\Nderribar postes grandes.
+Dialogue: 0,0:04:45.88,0:04:47.27,Default,,0,0,0,,Tengo un mal presentimiento sobre esto.
+Dialogue: 0,0:04:47.67,0:04:48.35,Default,,0,0,0,,Cierto.
+Dialogue: 0,0:04:48.64,0:04:51.24,Default,,0,0,0,,Dependiendo del evento,\Ntambién hay concursos eróticos.
+Dialogue: 0,0:04:51.24,0:04:52.06,Default,,0,0,0,,Lo sabía.
+Dialogue: 0,0:04:52.06,0:04:53.87,Default,,0,0,0,,El evento principal al final es...
+Dialogue: 0,0:04:53.87,0:04:55.40,Default,,0,0,0,,la Gran Orgía Seiran.
+Dialogue: 0,0:04:55.57,0:04:56.96,Default,,0,0,0,,¿La Gran Orgía Seiran?
+Dialogue: 0,0:04:57.19,0:05:00.71,Default,,0,0,0,,Sí. Baile XXX, mezclador "quedar embarazada ya"...
+Dialogue: 0,0:05:00.71,0:05:02.77,Default,,0,0,0,,Mientras bailan el baile pervertido,
+Dialogue: 0,0:05:02.96,0:05:05.39,Default,,0,0,0,,todo el cuerpo estudiantil tendrá\Nun enorme XXX.
+Dialogue: 0,0:05:05.39,0:05:06.51,Default,,0,0,0,,Esto es lo peor.
+Dialogue: 0,0:05:07.30,0:05:09.52,Default,,0,0,0,,¿Cómo lo pasaste el año pasado?
+Dialogue: 0,0:05:09.97,0:05:13.77,Default,,0,0,0,,Solo mantuve una cara de XXX Legendaria\Ny nadie se me acercó.
+Dialogue: 0,0:05:13.77,0:05:14.80,Default,,0,0,0,,¿Y Wata-chan?
+Dialogue: 0,0:05:14.80,0:05:16.57,Default,,0,0,0,,Umm...
+Dialogue: 0,0:05:16.85,0:05:19.15,Default,,0,0,0,,La pasé terrible.
+Dialogue: 0,0:05:20.91,0:05:23.91,Default,,0,0,0,,El siguiente evento es el lanzamiento de bolas grandes de las chicas.
+Dialogue: 0,0:05:24.24,0:05:27.87,Default,,0,0,0,,Estudiantes participantes,\Npor favor diríjanse a la gran puerta de entrada.
+Dialogue: 0,0:05:27.87,0:05:28.42,Default,,0,0,0,,Oh.
+Dialogue: 0,0:05:28.42,0:05:29.49,Default,,0,0,0,,Somos nosotras.
+Dialogue: 0,0:05:29.49,0:05:30.86,Default,,0,0,0,,Vamos a ganar esto.
+Dialogue: 0,0:05:31.17,0:05:31.99,Default,,0,0,0,,Hagamos lo mejor posible.
+Dialogue: 0,0:05:31.99,0:05:32.57,Default,,0,0,0,,Bien.
+Dialogue: 0,0:05:32.57,0:05:33.99,Default,,0,0,0,,Ahora explicaré el evento.
+Dialogue: 0,0:05:33.99,0:05:34.57,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:05:34.57,0:05:35.83,Default,,0,0,0,,La acumulación de bolas grandes es...
+Dialogue: 0,0:05:35.83,0:05:40.57,Default,,0,0,0,,un gran concurso erótico para ver quién\Npuede acumular más bolas en su coño.
+Dialogue: 0,0:05:40.57,0:05:40.99,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:05:41.33,0:05:41.91,Default,,0,0,0,,Tsk.
+Dialogue: 0,0:05:41.91,0:05:42.89,Default,,0,0,0,,Está empezando.
+Dialogue: 0,0:05:43.79,0:05:45.85,Default,,0,0,0,,Si esto sigue así, Nanase-san va a...
+Dialogue: 0,0:05:48.70,0:05:52.48,Default,,0,0,0,,Ya no puedo meter más bolas.
+Dialogue: 0,0:05:58.33,0:05:59.37,Default,,0,0,0,,¿Asane-chan?
+Dialogue: 0,0:05:59.37,0:06:01.59,Default,,0,0,0,,¡Date prisa, a la enfermería!
+Dialogue: 0,0:06:02.54,0:06:03.14,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:03.41,0:06:04.50,Default,,0,0,0,,Oh, eres tú.
+Dialogue: 0,0:06:04.75,0:06:06.10,Default,,0,0,0,,¿Estás perdida?
+Dialogue: 0,0:06:06.10,0:06:06.65,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:06.97,0:06:08.84,Default,,0,0,0,,Déjaselo a la hermana mayor.
+Dialogue: 0,0:06:09.22,0:06:11.46,Default,,0,0,0,,La zona de niños está justo por aquí.
+Dialogue: 0,0:06:11.46,0:06:12.76,Default,,0,0,0,,¡Eeeh!
+Dialogue: 0,0:06:12.76,0:06:15.30,Default,,0,0,0,,¡Otra vez este año no!
+Dialogue: 0,0:06:15.30,0:06:17.17,Default,,0,0,0,,¿Eso es lo que pasa todo el tiempo?
+Dialogue: 0,0:06:17.68,0:06:19.92,Default,,0,0,0,,Bueno, con esto, Asane y Wata-chan...
+Dialogue: 0,0:06:19.92,0:06:21.59,Default,,0,0,0,,han escapado con éxito.
+Dialogue: 0,0:06:23.90,0:06:25.61,Default,,0,0,0,,¿Q-Qué debería hacer?
+Dialogue: 0,0:06:25.61,0:06:26.53,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:26.53,0:06:27.90,Default,,0,0,0,,¿La Perra XXX Legendaria?
+Dialogue: 0,0:06:28.33,0:06:30.96,Default,,0,0,0,,He oído que su XXX\Nlleva al espacio exterior.
+Dialogue: 0,0:06:30.96,0:06:34.48,Default,,0,0,0,,Recientemente también la llaman\Nla Bestia Fantasma Oscura XXX XXX.
+Dialogue: 0,0:06:34.69,0:06:35.92,Default,,0,0,0,,Como era de esperar.
+Dialogue: 0,0:06:36.21,0:06:37.13,Default,,0,0,0,,Ugh.
+Dialogue: 0,0:06:38.50,0:06:40.21,Default,,0,0,0,,Imposible.
+Dialogue: 0,0:06:41.23,0:06:44.46,Default,,0,0,0,,¡Retiradas! ¡Todas menos una se han retirado!
+Dialogue: 0,0:06:44.64,0:06:46.43,Default,,0,0,0,,Nakamura-san, ¿qué es esto?
+Dialogue: 0,0:06:46.43,0:06:48.70,Default,,0,0,0,,Eso no está en mis datos.
+Dialogue: 0,0:06:49.76,0:06:50.70,Default,,0,0,0,,Buen trabajo.
+Dialogue: 0,0:06:50.70,0:06:52.16,Default,,0,0,0,,Bestia Fantasma Oscura.
+Dialogue: 0,0:06:52.49,0:06:55.25,Default,,0,0,0,,Parece que tú también quieres ser\Ntomada por mi XXX.
+Dialogue: 0,0:06:55.67,0:06:57.84,Default,,0,0,0,,El siguiente evento es el Maradong.
+Dialogue: 0,0:06:57.84,0:07:00.76,Default,,0,0,0,,Todos los estudiantes varones, por favor vayan al\Nground de deportes... disculpen.
+Dialogue: 0,0:07:01.03,0:07:03.22,Default,,0,0,0,,Por favor reúnanse en la puerta de entrada anal.
+Dialogue: 0,0:07:03.22,0:07:04.50,Default,,0,0,0,,El siguiente soy yo.
+Dialogue: 0,0:07:05.09,0:07:06.80,Default,,0,0,0,,"Mara" significa verga, y...
+Dialogue: 0,0:07:06.80,0:07:08.30,Default,,0,0,0,,"dong" también significa verga.
+Dialogue: 0,0:07:08.30,0:07:10.05,Default,,0,0,0,,Por supuesto, es un concurso erótico.
+Dialogue: 0,0:07:10.05,0:07:10.81,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:10.81,0:07:11.71,Default,,0,0,0,,Jun.
+Dialogue: 0,0:07:13.25,0:07:15.15,Default,,0,0,0,,¿Q-Qué debería hacer?
+Dialogue: 0,0:07:15.47,0:07:18.35,Default,,0,0,0,,Oye, ese es el Hombre Invisible XXX.
+Dialogue: 0,0:07:18.35,0:07:19.94,Default,,0,0,0,,¡El Hombre XXX Invisible!
+Dialogue: 0,0:07:19.94,0:07:22.56,Default,,0,0,0,,El único capaz de XXX a Katagiri.
+Dialogue: 0,0:07:22.56,0:07:25.13,Default,,0,0,0,,¿Planea usar su XXX con nosotras?
+Dialogue: 0,0:07:26.12,0:07:28.59,Default,,0,0,0,,Imposible.
+Dialogue: 0,0:07:30.13,0:07:32.41,Default,,0,0,0,,¡Otra retirada total!
+Dialogue: 0,0:07:32.41,0:07:35.07,Default,,0,0,0,,Bienvenido de vuelta, Hombre Invisible XXX.
+Dialogue: 0,0:07:35.49,0:07:36.81,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:07:38.32,0:07:40.33,Default,,0,0,0,,¡Vamos! ¡Vamos!
+Dialogue: 0,0:07:40.65,0:07:42.27,Default,,0,0,0,,XXX XXX!
+Dialogue: 0,0:07:42.87,0:07:44.75,Default,,0,0,0,,¡Hurra, hurra, XXX!
+Dialogue: 0,0:07:44.93,0:07:47.00,Default,,0,0,0,,¡No pierdas, no pierdas, XXX!
+Dialogue: 0,0:07:47.00,0:07:49.04,Default,,0,0,0,,¡Hurra, hurra, folla folla folla!
+Dialogue: 0,0:07:49.19,0:07:51.24,Default,,0,0,0,,¡Hurra, hurra, folla folla folla!
+Dialogue: 0,0:07:51.72,0:07:52.97,Default,,0,0,0,,Un intercambio erótico, ¿eh?
+Dialogue: 0,0:07:53.66,0:07:55.96,Default,,0,0,0,,Para evitar ser el objetivo,\Ndeberíamos animar también.
+Dialogue: 0,0:07:56.18,0:07:56.81,Default,,0,0,0,,Tsk.
+Dialogue: 0,0:07:57.19,0:07:58.22,Default,,0,0,0,,Mientras esté vivo,
+Dialogue: 0,0:07:58.22,0:08:00.83,Default,,0,0,0,,llegará un momento\Nen el que tenga que decir palabras lascivas.
+Dialogue: 0,0:08:01.23,0:08:02.43,Default,,0,0,0,,Ahora es ese momento.
+Dialogue: 0,0:08:02.76,0:08:03.44,Default,,0,0,0,,¡Hurra!
+Dialogue: 0,0:08:03.68,0:08:04.41,Default,,0,0,0,,¡Hurra!
+Dialogue: 0,0:08:04.76,0:08:06.25,Default,,0,0,0,,¡Verga!
+Dialogue: 0,0:08:06.57,0:08:11.41,Default,,0,0,0,,¡Hurra, hurra, verga!
+Dialogue: 0,0:08:11.41,0:08:13.49,Default,,0,0,0,,¡No pierdas, no pierdas, verga!
+Dialogue: 0,0:08:14.13,0:08:16.95,Default,,0,0,0,,El siguiente es el derribo de postes grandes.
+Dialogue: 0,0:08:17.15,0:08:18.82,Default,,0,0,0,,Nakamura-san, ¿cómo es este evento?
+Dialogue: 0,0:08:18.83,0:08:20.36,Default,,0,0,0,,Esto no está en mis datos.
+Dialogue: 0,0:08:20.81,0:08:22.83,Default,,0,0,0,,En este evento, parejas de hombres y mujeres...
+Dialogue: 0,0:08:22.83,0:08:24.77,Default,,0,0,0,,guiarán sus vergas\Na la línea de meta...
+Dialogue: 0,0:08:24.90,0:08:27.84,Default,,0,0,0,,y competirán en puntos artísticos\Nen el concurso erótico.
+Dialogue: 0,0:08:27.84,0:08:29.26,Default,,0,0,0,,¿Otro concurso erótico?
+Dialogue: 0,0:08:29.26,0:08:32.68,Default,,0,0,0,,¿Tengo que exponer mi parte inferior\Ndelante de esta vigilancia de prisioneros?
+Dialogue: 0,0:08:32.68,0:08:35.12,Default,,0,0,0,,Pero si no lo haces,\Nlevantarás sospechas.
+Dialogue: 0,0:08:35.43,0:08:36.60,Default,,0,0,0,,S-Sin embargo...
+Dialogue: 0,0:08:36.60,0:08:37.90,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:08:37.90,0:08:42.27,Default,,0,0,0,,Haré lo mejor posible para asegurarme\Nde que nadie vea tu cosa.
+Dialogue: 0,0:08:43.99,0:08:44.88,Default,,0,0,0,,¡Arriba!
+Dialogue: 0,0:08:45.40,0:08:46.20,Default,,0,0,0,,¡Arriba!
+Dialogue: 0,0:08:46.36,0:08:47.37,Default,,0,0,0,,¡Arriba!
+Dialogue: 0,0:08:47.73,0:08:48.53,Default,,0,0,0,,¡Arriba!
+Dialogue: 0,0:08:48.80,0:08:49.60,Default,,0,0,0,,¡Arriba!
+Dialogue: 0,0:08:49.73,0:08:50.60,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:08:50.83,0:08:51.71,Default,,0,0,0,,Pocky.
+Dialogue: 0,0:08:51.89,0:08:52.77,Default,,0,0,0,,Pocky.
+Dialogue: 0,0:08:55.87,0:08:59.30,Default,,0,0,0,,Con este cuerpo maduro, participaré\Nde mi cuarto festival sport-gasm.
+Dialogue: 0,0:08:59.51,0:09:01.57,Default,,0,0,0,,Ríanse de mí como una madre promiscua.
+Dialogue: 0,0:09:01.57,0:09:04.40,Default,,0,0,0,,¡Cállate, vieja! ¡No repitas el año!
+Dialogue: 0,0:09:04.77,0:09:08.93,Default,,0,0,0,,La verga, o mejor dicho, el árbitro\Nserá la estudiante de segundo año Ikuko Onabuta-san.
+Dialogue: 0,0:09:09.17,0:09:11.92,Default,,0,0,0,,No decir "¡Quedar embarazada ya!"\Ncuando te corras...
+Dialogue: 0,0:09:11.92,0:09:14.95,Default,,0,0,0,,se convertirá en una violación del reglamento,\Nasí que tengan cuidado.
+Dialogue: 0,0:09:15.13,0:09:18.10,Default,,0,0,0,,Oh, las hermanas Hanamaru\Nestán luchando duro por aquí.
+Dialogue: 0,0:09:18.10,0:09:19.60,Default,,0,0,0,,¿Qué opinas, Nakamura-san?
+Dialogue: 0,0:09:19.60,0:09:21.48,Default,,0,0,0,,Eso no está en mis datos.
+Dialogue: 0,0:09:21.63,0:09:25.20,Default,,0,0,0,,Vamos, vamos, solo córrete encima de mí.
+Dialogue: 0,0:09:25.47,0:09:26.88,Default,,0,0,0,,¡Córrete, córrete!
+Dialogue: 0,0:09:27.20,0:09:29.40,Default,,0,0,0,,¡No te corras, no te corras!
+Dialogue: 0,0:09:29.40,0:09:32.37,Default,,0,0,0,,¡No pierdas contra una chica más joven,\Nverga pequeña de mierda!
+Dialogue: 0,0:09:32.37,0:09:34.16,Default,,0,0,0,,Kuh, esta mocosa.
+Dialogue: 0,0:09:34.16,0:09:35.07,Default,,0,0,0,,¡Aquí está!
+Dialogue: 0,0:09:35.07,0:09:38.17,Default,,0,0,0,,¡El Método de Asesinato SCQ Binaural de Transmisión Directa de la Familia Hanamaru!
+Dialogue: 0,0:09:38.17,0:09:40.20,Default,,0,0,0,,La voz de mocosa atraviesa\Nla coronilla...
+Dialogue: 0,0:09:40.20,0:09:43.19,Default,,0,0,0,,¡destruye el débil cerebro\Ndel perro masoquista de mierda pequeño!
+Dialogue: 0,0:09:52.68,0:09:55.58,Default,,0,0,0,,Oye, aunque finjas,\Nal menos haz que se pare.
+Dialogue: 0,0:09:56.64,0:09:58.30,Default,,0,0,0,,Lo siento, Nanase.
+Dialogue: 0,0:09:58.57,0:09:59.45,Default,,0,0,0,,Yo...
+Dialogue: 0,0:09:59.84,0:10:00.76,Default,,0,0,0,,soy impotente.
+Dialogue: 0,0:10:00.76,0:10:03.68,Default,,0,0,0,,¡No puede ser, eres un onanista de sangre pura, ¿verdad!?
+Dialogue: 0,0:10:04.08,0:10:05.47,Default,,0,0,0,,Puedo ponérmela para masturbarme.
+Dialogue: 0,0:10:05.47,0:10:07.57,Default,,0,0,0,,Pero cuando hay contacto con el sexo opuesto,
+Dialogue: 0,0:10:07.57,0:10:09.50,Default,,0,0,0,,en una situación\Ndon de otras personas están mirando...
+Dialogue: 0,0:10:10.07,0:10:13.60,Default,,0,0,0,,el recuerdo de aquella vez\Nsiempre vuelve.
+Dialogue: 0,0:10:14.13,0:10:15.37,Default,,0,0,0,,¿Qué es eso?
+Dialogue: 0,0:10:15.37,0:10:16.20,Default,,0,0,0,,¡Tan enorme!
+Dialogue: 0,0:10:16.20,0:10:17.32,Default,,0,0,0,,¿Cómo puede caber eso?
+Dialogue: 0,0:10:17.32,0:10:18.40,Default,,0,0,0,,¡Como la de un caballo!
+Dialogue: 0,0:10:20.48,0:10:23.10,Default,,0,0,0,,El resultado es este estado patético.
+Dialogue: 0,0:10:23.10,0:10:23.86,Default,,0,0,0,,Jun...
+Dialogue: 0,0:10:24.42,0:10:25.67,Default,,0,0,0,,Mi identidad...
+Dialogue: 0,0:10:26.29,0:10:28.10,Default,,0,0,0,,la dignidad de mi verga...
+Dialogue: 0,0:10:28.10,0:10:30.20,Default,,0,0,0,,fue literalmente destrozada en ese momento.
+Dialogue: 0,0:10:30.63,0:10:32.50,Default,,0,0,0,,Ahora, soy completamente impotente.
+Dialogue: 0,0:10:34.48,0:10:35.93,Default,,0,0,0,,En este preciso momento,
+Dialogue: 0,0:10:35.93,0:10:38.15,Default,,0,0,0,,cuando absolutamente tengo que tener una erección...
+Dialogue: 0,0:10:38.58,0:10:42.15,Default,,0,0,0,,¿Cuánto más\Narruinará esta verga mi vida?
+Dialogue: 0,0:10:43.84,0:10:45.18,Default,,0,0,0,,No me subestimes,
+Dialogue: 0,0:10:45.18,0:10:45.94,Default,,0,0,0,,Jun.
+Dialogue: 0,0:10:46.96,0:10:49.73,Default,,0,0,0,,Soy la XXX Legendaria, Nanase Katagiri.
+Dialogue: 0,0:10:49.73,0:10:53.16,Default,,0,0,0,,Poner duro a un virgen\Nes pan comido para mí.
+Dialogue: 0,0:10:53.41,0:10:54.17,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:10:54.44,0:10:56.64,Default,,0,0,0,,¡Date prisa y manosea y chúpala!
+Dialogue: 0,0:10:56.64,0:10:57.83,Default,,0,0,0,,S-Sin embargo...
+Dialogue: 0,0:10:58.08,0:11:00.66,Default,,0,0,0,,¡Qué cobarde, virgen, impotente!
+Dialogue: 0,0:11:00.66,0:11:01.43,Default,,0,0,0,,¿Qué dijiste?
+Dialogue: 0,0:11:08.11,0:11:10.13,Default,,0,0,0,,¿No estás esforzándote demasiado?
+Dialogue: 0,0:11:10.13,0:11:12.04,Default,,0,0,0,,Estás tan concentrado en las tetas.
+Dialogue: 0,0:11:12.27,0:11:13.07,Default,,0,0,0,,Virgen.
+Dialogue: 0,0:11:13.07,0:11:13.85,Default,,0,0,0,,Esta provocación.
+Dialogue: 0,0:11:14.10,0:11:15.27,Default,,0,0,0,,¡Qué lasciva!
+Dialogue: 0,0:11:15.52,0:11:16.59,Default,,0,0,0,,¡No quiero perder!
+Dialogue: 0,0:11:16.59,0:11:17.89,Default,,0,0,0,,¡No, quiero perder!
+Dialogue: 0,0:11:18.05,0:11:19.04,Default,,0,0,0,,Perdedor.
+Dialogue: 0,0:11:19.04,0:11:20.13,Default,,0,0,0,,Bajos ingresos.
+Dialogue: 0,0:11:20.32,0:11:22.22,Default,,0,0,0,,Cero habilidades para la vida.
+Dialogue: 0,0:11:22.22,0:11:24.32,Default,,0,0,0,,Deja el asiento del inodoro levantado.
+Dialogue: 0,0:11:24.32,0:11:26.27,Default,,0,0,0,,No ordena sus zapatos en la entrada.
+Dialogue: 0,0:11:26.27,0:11:27.06,Default,,0,0,0,,- Limpia el aceite de...\N- ¡Tú XXX!
+Dialogue: 0,0:11:27.06,0:11:28.64,Default,,0,0,0,,de tus manos en tu camisa.
+Dialogue: 0,0:11:28.64,0:11:31.40,Default,,0,0,0,,Alguien que cree que una gyaru\Nque es amable con los otakus realmente existe.
+Dialogue: 0,0:11:31.93,0:11:34.82,Default,,0,0,0,,¿Eso es...\N¡el Método de Asesinato SCQ Binaural!?
+Dialogue: 0,0:11:34.82,0:11:37.07,Default,,0,0,0,,Copió la técnica secreta\Nde los Haramaki,
+Dialogue: 0,0:11:37.07,0:11:39.00,Default,,0,0,0,,transmitida desde el período Sengoku.
+Dialogue: 0,0:11:39.00,0:11:40.65,Default,,0,0,0,,Y no solo la versión de niña mocosa,
+Dialogue: 0,0:11:40.65,0:11:42.95,Default,,0,0,0,,sino que incluso la adaptó\Na una versión gyaru XXX.
+Dialogue: 0,0:11:43.13,0:11:47.92,Default,,0,0,0,,Esta es la Perra XXX Legendaria,\NNanase Katagiri.
+Dialogue: 0,0:11:47.92,0:11:50.30,Default,,0,0,0,,Hasta mis datos están sorprendidos.
+Dialogue: 0,0:11:52.73,0:11:54.04,Default,,0,0,0,,Mi verga está...
+Dialogue: 0,0:11:54.60,0:11:55.56,Default,,0,0,0,,Mi verga se está poniendo...
+Dialogue: 0,0:11:55.56,0:11:56.40,Default,,0,0,0,,Ah...
+Dialogue: 0,0:11:57.37,0:12:01.04,Default,,0,0,0,,Puedo sentir un fuerte\Naura de verga viniendo de aquí.
+Dialogue: 0,0:12:01.30,0:12:04.23,Default,,0,0,0,,Mierda, si esto sigue así, FS se dará cuenta.
+Dialogue: 0,0:12:06.18,0:12:07.88,Default,,0,0,0,,Oye, se está ablandando.
+Dialogue: 0,0:12:08.13,0:12:09.88,Default,,0,0,0,,Nanase, sácala,\Nhazlo por mí.
+Dialogue: 0,0:12:10.11,0:12:10.98,Default,,0,0,0,,Pero...
+Dialogue: 0,0:12:11.46,0:12:13.34,Default,,0,0,0,,¡Aunque sea medio erecta, hazlo!
+Dialogue: 0,0:12:13.76,0:12:14.90,Default,,0,0,0,,¡Está bien!
+Dialogue: 0,0:12:15.46,0:12:17.22,Default,,0,0,0,,Esto podría ser un poco intenso.
+Dialogue: 0,0:12:35.16,0:12:37.98,Default,,0,0,0,,¡Quedar embarazada ya!
+Dialogue: 0,0:12:38.43,0:12:40.04,Default,,0,0,0,,¡Está decidido!
+Dialogue: 0,0:12:40.24,0:12:42.55,Default,,0,0,0,,¡Una eyaculación facial\Nen un clímax convulsivo!
+Dialogue: 0,0:12:42.55,0:12:43.92,Default,,0,0,0,,¡Reglamento aprobado!
+Dialogue: 0,0:12:43.92,0:12:45.30,Default,,0,0,0,,¡Un clímax magnífico!
+Dialogue: 0,0:12:45.79,0:12:47.33,Default,,0,0,0,,Hasta mis datos están complacidos.
+Dialogue: 0,0:12:49.35,0:12:49.93,Default,,0,0,0,,Ah.
+Dialogue: 0,0:12:49.93,0:12:52.31,Default,,0,0,0,,¿Qué? No se corrió.
+Dialogue: 0,0:12:52.51,0:12:54.40,Default,,0,0,0,,¿Es ese el orgasmo de Nanase-chan?
+Dialogue: 0,0:12:54.40,0:12:55.24,Default,,0,0,0,,Qué lástima.
+Dialogue: 0,0:12:55.40,0:12:57.10,Default,,0,0,0,,Árbitro, ¿cuál es el veredicto?
+Dialogue: 0,0:12:58.09,0:13:00.43,Default,,0,0,0,,Ciertamente parecía que se corrió, pero...
+Dialogue: 0,0:13:00.68,0:13:03.11,Default,,0,0,0,,el semen crucial\Nno se encuentra por ninguna parte, ¿verdad?
+Dialogue: 0,0:13:03.29,0:13:04.41,Default,,0,0,0,,Eso es porque...
+Dialogue: 0,0:13:04.83,0:13:07.00,Default,,0,0,0,,ya me lo bebí todo.
+Dialogue: 0,0:13:10.07,0:13:11.83,Default,,0,0,0,,1919 puntos.
+Dialogue: 0,0:13:12.13,0:13:13.75,Default,,0,0,0,,¡Como era de esperar del Hombre Invisible XXX!
+Dialogue: 0,0:13:13.75,0:13:15.58,Default,,0,0,0,,¡El Hombre XXX Invisible!
+Dialogue: 0,0:13:15.58,0:13:17.50,Default,,0,0,0,,¡El Hombre XXX de jugo palpitante!
+Dialogue: 0,0:13:17.50,0:13:19.17,Default,,0,0,0,,¡El XXX-XXX de jugo lascivo!
+Dialogue: 0,0:13:20.67,0:13:22.68,Default,,0,0,0,,Logramos engañarlos, Jun.
+Dialogue: 0,0:13:22.68,0:13:23.69,Default,,0,0,0,,¿Jun?
+Dialogue: 0,0:13:24.74,0:13:26.79,Default,,0,0,0,,Está muerto.
+Dialogue: 0,0:13:29.28,0:13:30.34,Default,,0,0,0,,Nukitashi.
+Dialogue: 0,0:13:39.03,0:13:42.60,Default,,0,0,0,,Todos, gracias por esperar tanto tiempo.
+Dialogue: 0,0:13:42.60,0:13:45.45,Default,,0,0,0,,Ha llegado el momento de la Gran Orgía Seiran.
+Dialogue: 0,0:13:45.96,0:13:46.88,Default,,0,0,0,,Verga verga.
+Dialogue: 0,0:13:46.88,0:13:47.43,Default,,0,0,0,,XXX.
+Dialogue: 0,0:13:47.43,0:13:48.96,Default,,0,0,0,,Cuando suene la campana.
+Dialogue: 0,0:13:48.96,0:13:49.61,Default,,0,0,0,,¡Aquí viene!
+Dialogue: 0,0:13:49.61,0:13:52.47,Default,,0,0,0,,El jugoso jugoso XXX se está calentando.
+Dialogue: 0,0:13:52.47,0:13:53.03,Default,,0,0,0,,¡Haz que se corra!
+Dialogue: 0,0:13:53.03,0:13:54.29,Default,,0,0,0,,Lleno de energía.
+Dialogue: 0,0:13:54.29,0:13:54.85,Default,,0,0,0,,Un XXX.
+Dialogue: 0,0:13:54.85,0:13:55.89,Default,,0,0,0,,XXX va bang bang.
+Dialogue: 0,0:13:55.89,0:13:56.97,Default,,0,0,0,,Un XXX.
+Dialogue: 0,0:13:56.97,0:13:59.84,Default,,0,0,0,,La noche avanza, así que compórtense correctamente.
+Dialogue: 0,0:13:59.84,0:14:00.63,Default,,0,0,0,,¡Aquí viene!
+Dialogue: 0,0:14:00.63,0:14:02.13,Default,,0,0,0,,Saca tu XXX y folla a una XXX.
+Dialogue: 0,0:14:02.13,0:14:03.69,Default,,0,0,0,,Se siente bien bien bien.
+Dialogue: 0,0:14:03.69,0:14:05.57,Default,,0,0,0,,Córrete un balde, córrete un balde.
+Dialogue: 0,0:14:05.57,0:14:07.57,Default,,0,0,0,,Córrete un balde lleno.
+Dialogue: 0,0:14:07.57,0:14:09.26,Default,,0,0,0,,Si quieres correrte,
+Dialogue: 0,0:14:09.26,0:14:11.27,Default,,0,0,0,,tienes que follar hasta gemir "An-An."
+Dialogue: 0,0:14:11.55,0:14:13.89,Default,,0,0,0,,Por cierto, el estudiante cuya\Ncosa fue exprimida...
+Dialogue: 0,0:14:13.89,0:14:17.48,Default,,0,0,0,,en el derribo de postes anterior\Nha sido llevado a la enfermería.
+Dialogue: 0,0:14:18.15,0:14:20.93,Default,,0,0,0,,Todos, por favor siéntanse libres de XXX.
+Dialogue: 0,0:14:22.67,0:14:23.91,Default,,0,0,0,,Funcionó.
+Dialogue: 0,0:14:26.61,0:14:28.41,Default,,0,0,0,,Asa-chan, ejecuta el plan.
+Dialogue: 0,0:14:28.41,0:14:29.48,Default,,0,0,0,,Cuento contigo.
+Dialogue: 0,0:14:29.48,0:14:30.29,Default,,0,0,0,,Roger.
+Dialogue: 0,0:14:30.60,0:14:32.47,Default,,0,0,0,,No hay enemigos en el camino\Na destino.
+Dialogue: 0,0:14:32.77,0:14:34.71,Default,,0,0,0,,Tomé la ruta más corta.
+Dialogue: 0,0:14:34.71,0:14:37.33,Default,,0,0,0,,SALA DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:14:37.50,0:14:39.13,Default,,0,0,0,,Llegué al aula objetivo.
+Dialogue: 0,0:14:39.63,0:14:41.03,Default,,0,0,0,,Intentando entrar.
+Dialogue: 0,0:14:43.21,0:14:44.47,Default,,0,0,0,,¿Una contraseña?
+Dialogue: 0,0:14:45.75,0:14:47.09,Default,,0,0,0,,Me vengo, me vengo.\N(1919)
+Dialogue: 0,0:14:48.71,0:14:50.24,Default,,0,0,0,,Fap, fap.\N(4545)
+Dialogue: 0,0:14:51.67,0:14:53.25,Default,,0,0,0,,Bang bang. (8585)
+Dialogue: 0,0:14:54.47,0:14:56.55,Default,,0,0,0,,¡Qué sistema de seguridad\Ntan elaborado!
+Dialogue: 0,0:14:57.63,0:14:58.29,Default,,0,0,0,,¿Quién está ahí?
+Dialogue: 0,0:14:58.29,0:14:59.12,Default,,0,0,0,,¡Aah!
+Dialogue: 0,0:15:01.40,0:15:02.99,Default,,0,0,0,,Se coló por el radar.
+Dialogue: 0,0:15:03.65,0:15:05.90,Default,,0,0,0,,Qué falta de presencia.
+Dialogue: 0,0:15:06.12,0:15:08.23,Default,,0,0,0,,He visto a esta chica en alguna parte antes...
+Dialogue: 0,0:15:08.58,0:15:09.77,Default,,0,0,0,,Um, yo...
+Dialogue: 0,0:15:10.20,0:15:13.79,Default,,0,0,0,,vine a recuperar lo que me confiscaron\Ndurante la revisión de mochilas.
+Dialogue: 0,0:15:13.79,0:15:15.21,Default,,0,0,0,,¿Durante el festival sport-gasm?
+Dialogue: 0,0:15:15.80,0:15:17.50,Default,,0,0,0,,¿Está bien no tener sexo lascivo?
+Dialogue: 0,0:15:17.83,0:15:19.28,Default,,0,0,0,,Yo...
+Dialogue: 0,0:15:19.28,0:15:20.05,Default,,0,0,0,,Hermano mayor.
+Dialogue: 0,0:15:20.54,0:15:22.66,Default,,0,0,0,,Un enemigo aproximándose\Nde frente.
+Dialogue: 0,0:15:23.11,0:15:24.37,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:15:27.77,0:15:28.97,Default,,0,0,0,,Si ha llegado a esto...
+Dialogue: 0,0:15:33.01,0:15:35.02,Default,,0,0,0,,¿Qué acabas de hacer?
+Dialogue: 0,0:15:35.69,0:15:38.81,Default,,0,0,0,,Por favor, inserta esto en\Nla PC del consejo estudiantil.
+Dialogue: 0,0:15:38.81,0:15:39.94,Default,,0,0,0,,¿Eh? ¿Esto?
+Dialogue: 0,0:15:39.94,0:15:40.98,Default,,0,0,0,,Solo conéctalo.
+Dialogue: 0,0:15:40.98,0:15:42.05,Default,,0,0,0,,Yo los detendré.
+Dialogue: 0,0:15:42.05,0:15:43.61,Default,,0,0,0,,No quieres que te atrapen, ¿verdad?
+Dialogue: 0,0:15:43.61,0:15:44.68,Default,,0,0,0,,E-Entiendo.
+Dialogue: 0,0:15:44.83,0:15:46.77,Default,,0,0,0,,Con permiso.
+Dialogue: 0,0:15:51.44,0:15:52.14,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:15:53.45,0:15:54.17,Default,,0,0,0,,Eres tú.
+Dialogue: 0,0:15:54.45,0:15:56.52,Default,,0,0,0,,¿No te llevaron\Na la enfermería?
+Dialogue: 0,0:15:56.52,0:15:57.62,Default,,0,0,0,,¿Estás bien ahora?
+Dialogue: 0,0:15:57.62,0:15:59.80,Default,,0,0,0,,Sí, así que por favor ten sexo conmigo.
+Dialogue: 0,0:15:59.80,0:16:01.80,Default,,0,0,0,,¿Eh? ¿Qué estás diciendo\Na estas alturas?
+Dialogue: 0,0:16:01.80,0:16:03.50,Default,,0,0,0,,Porque es un momento como este.
+Dialogue: 0,0:16:03.50,0:16:06.08,Default,,0,0,0,,¡Puedo tener al Director del Comité Disciplinario\Ntodo para mí!
+Dialogue: 0,0:16:06.41,0:16:07.23,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:07.57,0:16:09.50,Default,,0,0,0,,Lo siento, no tengo tiempo\Npara eso ahora.
+Dialogue: 0,0:16:09.50,0:16:11.20,Default,,0,0,0,,Tengo trabajo en la sala del consejo estudiantil.
+Dialogue: 0,0:16:11.20,0:16:12.50,Default,,0,0,0,,No digas eso.
+Dialogue: 0,0:16:12.64,0:16:14.60,Default,,0,0,0,,¿No quieres tener sexo?
+Dialogue: 0,0:16:14.72,0:16:15.39,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:16:15.39,0:16:17.22,Default,,0,0,0,,¿Podría ser que los rumores de...
+Dialogue: 0,0:16:17.22,0:16:20.13,Default,,0,0,0,,"Fuerza Anti-Cópula" en realidad son ustedes?
+Dialogue: 0,0:16:20.13,0:16:22.27,Default,,0,0,0,,¿Eh? N-No, yo no soy...
+Dialogue: 0,0:16:22.27,0:16:24.10,Default,,0,0,0,,¡Entonces déjame XXXte!
+Dialogue: 0,0:16:24.37,0:16:25.15,Default,,0,0,0,,¿Qué...?
+Dialogue: 0,0:16:25.15,0:16:28.29,Default,,0,0,0,,He dicho tanto XXX\Ny ni siquiera me muestras los pezones.
+Dialogue: 0,0:16:28.29,0:16:29.95,Default,,0,0,0,,¿Cómo puedes ser tan grosero?
+Dialogue: 0,0:16:30.08,0:16:31.82,Default,,0,0,0,,¿Qué quieres decir con "poner las cosas en orden"?
+Dialogue: 0,0:16:31.82,0:16:33.57,Default,,0,0,0,,¡Tú eres la grosera!
+Dialogue: 0,0:16:33.57,0:16:35.57,Default,,0,0,0,,¿No tienes ningún respeto\Npor la ordenanza?
+Dialogue: 0,0:16:35.96,0:16:37.51,Default,,0,0,0,,Si vas a hablar así...
+Dialogue: 0,0:16:38.24,0:16:39.20,Default,,0,0,0,,Aquí.
+Dialogue: 0,0:16:40.21,0:16:41.96,Default,,0,0,0,,¿Estás satisfecha con esto?
+Dialogue: 0,0:16:42.11,0:16:44.21,Default,,0,0,0,,Wow, ¿realmente los estás mostrando?
+Dialogue: 0,0:16:44.21,0:16:46.27,Default,,0,0,0,,¿Eh? ¿Qué quieres?
+Dialogue: 0,0:16:46.56,0:16:48.08,Default,,0,0,0,,Ya basta, me voy.
+Dialogue: 0,0:16:48.44,0:16:49.18,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:16:50.15,0:16:52.29,Default,,0,0,0,,Maldita sea, no puedo dejarla ir todavía.
+Dialogue: 0,0:16:52.64,0:16:55.27,Default,,0,0,0,,"Verga" quiere estar dentro de ti, senpai.
+Dialogue: 0,0:16:55.52,0:16:56.15,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:16:56.43,0:16:57.70,Default,,0,0,0,,¿Qué fue eso recién?
+Dialogue: 0,0:16:57.70,0:16:59.31,Default,,0,0,0,,El grito de mi verga.
+Dialogue: 0,0:16:59.31,0:17:02.03,Default,,0,0,0,,"Verga" quiere estar en tu coño, senpai.
+Dialogue: 0,0:17:02.33,0:17:03.87,Default,,0,0,0,,¿Puede una verga hablar?
+Dialogue: 0,0:17:04.05,0:17:05.81,Default,,0,0,0,,¿Y por qué se pronuncia a sí misma como "verga"?
+Dialogue: 0,0:17:05.81,0:17:07.52,Default,,0,0,0,,¿Tu verga es de la realeza?
+Dialogue: 0,0:17:07.52,0:17:08.20,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:17:08.50,0:17:09.57,Default,,0,0,0,,¿Una verga real?
+Dialogue: 0,0:17:09.57,0:17:11.63,Default,,0,0,0,,No te vuelvas cuerda de repente.
+Dialogue: 0,0:17:12.04,0:17:14.93,Default,,0,0,0,,Espera, ¿qué quieres decir con una verga real?
+Dialogue: 0,0:17:15.20,0:17:17.28,Default,,0,0,0,,Cállate, olvídalo, no lo alargues.
+Dialogue: 0,0:17:17.53,0:17:18.72,Default,,0,0,0,,¡Respóndeme!
+Dialogue: 0,0:17:19.10,0:17:20.12,Default,,0,0,0,,¡Eso es lesa majestad!
+Dialogue: 0,0:17:20.12,0:17:22.75,Default,,0,0,0,,No metas a la realeza en esto.
+Dialogue: 0,0:17:22.97,0:17:26.17,Default,,0,0,0,,Bien, he ganado algo de tiempo\Ncon el plan de restauración real.
+Dialogue: 0,0:17:27.05,0:17:28.81,Default,,0,0,0,,Um...
+Dialogue: 0,0:17:28.81,0:17:30.25,Default,,0,0,0,,¿Eh? Eres tú.
+Dialogue: 0,0:17:30.63,0:17:31.91,Default,,0,0,0,,¿Qué estás haciendo aquí?
+Dialogue: 0,0:17:32.30,0:17:33.83,Default,,0,0,0,,¿Qué pasó con el baile pervertido?
+Dialogue: 0,0:17:33.83,0:17:36.38,Default,,0,0,0,,M-Me creampiearon demasiado...
+Dialogue: 0,0:17:36.38,0:17:38.03,Default,,0,0,0,,así que vine a lavarme el ano.
+Dialogue: 0,0:17:38.03,0:17:40.12,Default,,0,0,0,,Ya veo. Así que el festival todavía sigue.
+Dialogue: 0,0:17:40.57,0:17:41.97,Default,,0,0,0,,Date prisa y vuelve al campo.
+Dialogue: 0,0:17:42.16,0:17:43.20,Default,,0,0,0,,Ah, sí.
+Dialogue: 0,0:17:46.56,0:17:48.40,Default,,0,0,0,,Sus movimientos son claramente extraños.
+Dialogue: 0,0:17:48.40,0:17:49.17,Default,,0,0,0,,Espera.
+Dialogue: 0,0:17:49.51,0:17:50.20,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:17:50.91,0:17:51.72,Default,,0,0,0,,Mierda.
+Dialogue: 0,0:17:52.05,0:17:53.51,Default,,0,0,0,,Estás escondiendo algo.
+Dialogue: 0,0:17:54.11,0:17:57.22,Default,,0,0,0,,El uso de props durante la\NGran Orgía Seiran está prohibido.
+Dialogue: 0,0:17:57.72,0:17:59.95,Default,,0,0,0,,Quítate el traje de baño\Ny abre las piernas.
+Dialogue: 0,0:18:00.35,0:18:01.26,Default,,0,0,0,,Ah, sí.
+Dialogue: 0,0:18:10.13,0:18:10.81,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:18:11.00,0:18:13.04,Default,,0,0,0,,No se detectaron anomalías\Npor inspección visual.
+Dialogue: 0,0:18:13.27,0:18:16.15,Default,,0,0,0,,¿Tus piernas solo temblaban\Npor follar demasiado?
+Dialogue: 0,0:18:16.15,0:18:17.77,Default,,0,0,0,,S-Sí, eso es.
+Dialogue: 0,0:18:17.92,0:18:20.27,Default,,0,0,0,,Todos eran tan intensos.
+Dialogue: 0,0:18:20.69,0:18:21.57,Default,,0,0,0,,Entonces está bien.
+Dialogue: 0,0:18:21.92,0:18:23.97,Default,,0,0,0,,Las dos, dense prisa y vuelvan\Na los terrenos de la escuela...
+Dialogue: 0,0:18:23.97,0:18:25.59,Default,,0,0,0,,y diviértanse llegando al clímax.
+Dialogue: 0,0:18:32.83,0:18:33.59,Default,,0,0,0,,Phew.
+Dialogue: 0,0:18:34.44,0:18:35.07,Default,,0,0,0,,EL FESTIVAL SPORT-GASM\N EYACULACIÓN SORPRESA
+Dialogue: 0,0:18:35.07,0:18:37.73,Default,,0,0,0,,Esperma volando bajo el cielo azul claro.
+Dialogue: 0,0:18:38.25,0:18:41.70,Default,,0,0,0,,Gemidos haciendo eco por toda la isla\Ncomo un eco de montaña.
+Dialogue: 0,0:18:42.13,0:18:44.65,Default,,0,0,0,,Fue un festival sport-gasm\Nverdaderamente maravilloso.
+Dialogue: 0,0:18:45.09,0:18:46.92,Default,,0,0,0,,Aquellos que conocieron la alegría de correrse,
+Dialogue: 0,0:18:46.92,0:18:49.07,Default,,0,0,0,,y aquellos que conocieron\Nla alegría de hacer que otros se corran.
+Dialogue: 0,0:18:49.35,0:18:51.17,Default,,0,0,0,,Por favor usen la experiencia de hoy...
+Dialogue: 0,0:18:51.35,0:18:54.05,Default,,0,0,0,,como motivación para esforzarse\Npor una mayor lascivia.
+Dialogue: 0,0:18:54.53,0:18:56.22,Default,,0,0,0,,Entonces, ¿dónde está el pendrive?
+Dialogue: 0,0:18:56.22,0:18:57.63,Default,,0,0,0,,Oh, está en mi ano.
+Dialogue: 0,0:18:57.91,0:18:59.31,Default,,0,0,0,,Por favor espera un momento.
+Dialogue: 0,0:18:59.31,0:18:59.99,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:19:00.21,0:19:01.60,Default,,0,0,0,,Pero hace un momento no había nada...
+Dialogue: 0,0:19:02.15,0:19:04.56,Default,,0,0,0,,Lo tenía guardado un poco profundo.
+Dialogue: 0,0:19:04.93,0:19:06.27,Default,,0,0,0,,¡Arriba...
+Dialogue: 0,0:19:10.47,0:19:12.25,Default,,0,0,0,,E-Estaba todo dentro...
+Dialogue: 0,0:19:12.50,0:19:13.30,Default,,0,0,0,,Increíble.
+Dialogue: 0,0:19:13.73,0:19:15.52,Default,,0,0,0,,No, para nada.
+Dialogue: 0,0:19:15.80,0:19:18.53,Default,,0,0,0,,Cuando se me quedó atascada una figura bishoujo\Nen el culo,
+Dialogue: 0,0:19:18.53,0:19:21.47,Default,,0,0,0,,terminé en el hospital\Npara que me la sacaran y tuve debilidad anal.
+Dialogue: 0,0:19:21.47,0:19:22.92,Default,,0,0,0,,Eso es increíble.
+Dialogue: 0,0:19:25.08,0:19:26.32,Default,,0,0,0,,Entonces, ¿cómo te fue?
+Dialogue: 0,0:19:26.56,0:19:29.91,Default,,0,0,0,,El doctor dijo que nunca más quiere\Nver una figura bishoujo.
+Dialogue: 0,0:19:29.91,0:19:30.99,Default,,0,0,0,,No eso.
+Dialogue: 0,0:19:31.49,0:19:33.52,Default,,0,0,0,,Oh, lo conecté correctamente.
+Dialogue: 0,0:19:34.04,0:19:37.06,Default,,0,0,0,,Pero ¿por qué harías eso?
+Dialogue: 0,0:19:37.89,0:19:38.79,Default,,0,0,0,,Yo...
+Dialogue: 0,0:19:39.43,0:19:42.09,Default,,0,0,0,,me excito increíblemente cuando inserto...
+Dialogue: 0,0:19:42.09,0:19:43.64,Default,,0,0,0,,mi pendrive en la PC de una mujer.
+Dialogue: 0,0:19:43.80,0:19:45.71,Default,,0,0,0,,Oh, más o menos lo entiendo.
+Dialogue: 0,0:19:45.71,0:19:46.61,Default,,0,0,0,,¿En serio?
+Dialogue: 0,0:19:47.13,0:19:48.72,Default,,0,0,0,,De todos modos, gracias.
+Dialogue: 0,0:19:49.11,0:19:51.96,Default,,0,0,0,,Soy Junnosuke Tachibana,\Nacabo de transferirme aquí.
+Dialogue: 0,0:19:52.37,0:19:56.21,Default,,0,0,0,,Oh, um... Soy Misaki Hotori.
+Dialogue: 0,0:19:56.87,0:20:00.30,Default,,0,0,0,,Encantada de conocerte, Tachibana-san.
+Dialogue: 0,0:20:08.80,0:20:10.03,Default,,0,0,0,,E-Entonces, ¿hay...
+Dialogue: 0,0:20:10.03,0:20:11.84,Default,,0,0,0,,información sobre Fumino Kotoyose?
+Dialogue: 0,0:20:11.85,0:20:14.67,Default,,0,0,0,,Ahh, no pude encontrarla.
+Dialogue: 0,0:20:14.67,0:20:17.67,Default,,0,0,0,,Tal vez tenga que buscar en una capa más profunda.
+Dialogue: 0,0:20:17.67,0:20:20.22,Default,,0,0,0,,Pero plantaste la puerta trasera, ¿verdad?
+Dialogue: 0,0:20:20.22,0:20:22.63,Default,,0,0,0,,Entonces la información\Naumentará eventualmente.
+Dialogue: 0,0:20:22.63,0:20:23.35,Default,,0,0,0,,Sí.
+Dialogue: 0,0:20:23.77,0:20:25.10,Default,,0,0,0,,Cuento contigo, Asa-chan.
+Dialogue: 0,0:20:25.68,0:20:29.45,Default,,0,0,0,,Tenemos que encontrar a Fumino Kotoyose\Nantes de que lo haga FS.
+Dialogue: 0,0:20:34.30,0:20:35.73,Default,,0,0,0,,Gracias a Dios.
+Dialogue: 0,0:20:35.93,0:20:37.40,Default,,0,0,0,,Ni Fumino-chan ni yo estábamos...
+Dialogue: 0,0:20:37.40,0:20:40.09,Default,,0,0,0,,registradas como parte\Nde la Fuerza Anti-Cópula.
+Dialogue: 0,0:20:40.72,0:20:42.18,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:20:42.43,0:20:45.04,Default,,0,0,0,,Solo era una cuestión\Nde "si tuviera que elegir".
+Dialogue: 0,0:20:45.04,0:20:46.66,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:20:47.28,0:20:49.89,Default,,0,0,0,,Fue un poco peligroso, sin embargo.
+Dialogue: 0,0:20:49.89,0:20:50.65,Default,,0,0,0,,¿Eh?
+Dialogue: 0,0:20:51.12,0:20:53.22,Default,,0,0,0,,Conocí a una persona genial.
+Dialogue: 0,0:20:53.22,0:20:56.43,Default,,0,0,0,,Espero que mi primera vez\Npueda ser con alguien como él.
+Dialogue: 0,0:21:02.66,0:21:03.61,Default,,0,0,0,,Hotori-sama.
+Dialogue: 0,0:21:04.08,0:21:05.98,Default,,0,0,0,,Solo voy a masturbarme un rato.
+Dialogue: 0,0:21:06.65,0:21:09.00,Default,,0,0,0,,Como te he arrastrado a esto,
+Dialogue: 0,0:21:09.37,0:21:11.16,Default,,0,0,0,,tengo algo que contarte.
+Dialogue: 0,0:21:11.16,0:21:13.07,Default,,0,0,0,,Oh, ¿quieres probar esto?
+Dialogue: 0,0:21:13.07,0:21:13.98,Default,,0,0,0,,No eso.
+Dialogue: 0,0:21:13.98,0:21:16.61,Default,,0,0,0,,¿Conoces a un hombre\Nllamado Toshiaki Hitoura?
+Dialogue: 0,0:21:16.93,0:21:17.97,Default,,0,0,0,,¿Hitoura?
+Dialogue: 0,0:21:17.97,0:21:19.10,Default,,0,0,0,,¿Es ese...?
+Dialogue: 0,0:21:19.10,0:21:21.73,Default,,0,0,0,,TOSHIAKI HITOURA\NDEFENSOR DE LA LIBERTAD LASCIVA
+Dialogue: 0,0:21:21.73,0:21:25.00,Default,,0,0,0,,el gobernador que\Ncreó la Ordenanza Perversa?
+Dialogue: 0,0:21:25.00,0:21:25.79,Default,,0,0,0,,Sí.
+Dialogue: 0,0:21:27.78,0:21:29.35,Default,,0,0,0,,Mi propósito es...
+Dialogue: 0,0:21:29.88,0:21:31.62,Default,,0,0,0,,el asesinato de ese hombre.
+Dialogue: 0,0:21:32.05,0:21:33.33,Default,,0,0,0,,¿Asesinato?
+Dialogue: 0,0:21:34.50,0:21:36.92,Default,,0,0,0,,SALA DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:21:39.89,0:21:43.11,Default,,0,0,0,,Me alegra que el festival sport-gasm\Nterminara sin incidentes.
+Dialogue: 0,0:21:43.12,0:21:47.45,Default,,0,0,0,,Aunque habría sido perfecto si\Nhubiera podido encontrar mi verga del destino.
+Dialogue: 0,0:21:51.73,0:21:54.95,Default,,0,0,0,,Ahora puedo reanudar\Nla orden de SHO.
+Dialogue: 0,0:21:55.44,0:21:58.04,Default,,0,0,0,,La búsqueda de Fumino Kotoyose.
+Dialogue: 0,0:21:58.53,0:22:00.53,Default,,0,0,0,,Touka-chan, ¿alguna pista?
+Dialogue: 0,0:22:02.41,0:22:05.70,Default,,0,0,0,,El lugar donde es probable que aparezca el objetivo\Nla próxima vez...
+Dialogue: 0,0:22:06.04,0:22:06.89,Default,,0,0,0,,es...
+Dialogue: 0,0:22:10.34,0:22:11.74,Default,,0,0,0,,El Pervert Land.
+Dialogue: 0,0:22:15.58,0:22:17.04,Default,,0,0,0,,Hey, ha pasado un tiempo
+Dialogue: 0,0:22:17.38,0:22:18.50,Default,,0,0,0,,Por fin nos volvemos a encontrar
+Dialogue: 0,0:22:18.88,0:22:20.92,Default,,0,0,0,,Me pregunto, ¿has estado bien
+Dialogue: 0,0:22:20.92,0:22:24.09,Default,,0,0,0,,¡Es broma! Qué feliz,\Npero también me estoy sonrojando
+Dialogue: 0,0:22:37.23,0:22:38.69,Default,,0,0,0,,Hey, tal vez no esta
+Dialogue: 0,0:22:38.81,0:22:40.11,Default,,0,0,0,,tal vez esa tampoco
+Dialogue: 0,0:22:40.11,0:22:42.61,Default,,0,0,0,,Me preocupo por las pequeñas cosas que he hecho
+Dialogue: 0,0:22:42.61,0:22:44.07,Default,,0,0,0,,¿Te darás cuenta siquiera
+Dialogue: 0,0:22:44.07,0:22:47.78,Default,,0,0,0,,Me esforcé mucho\Nen vestirme bien para todos
+Dialogue: 0,0:22:48.26,0:22:50.91,Default,,0,0,0,,¿Debería ser atrevida y dar el primer paso
+Dialogue: 0,0:22:50.91,0:22:53.45,Default,,0,0,0,,No hay garantía de que lo apruebes
+Dialogue: 0,0:22:53.45,0:22:56.12,Default,,0,0,0,,¿Todo o nada? No puedo hacer eso
+Dialogue: 0,0:22:56.12,0:22:57.67,Default,,0,0,0,,Ahhh, creo que he caído redonda
+Dialogue: 0,0:22:58.67,0:23:01.21,Default,,0,0,0,,Esta historia que comparto contigo
+Dialogue: 0,0:23:01.21,0:23:04.00,Default,,0,0,0,,Tiene demasiadas opciones
+Dialogue: 0,0:23:04.55,0:23:06.88,Default,,0,0,0,,Tengo que decidirme y ser valiente
+Dialogue: 0,0:23:06.88,0:23:09.18,Default,,0,0,0,,Así que el rol de heroína es mío
+Dialogue: 0,0:23:09.39,0:23:10.80,Default,,0,0,0,,Tiene que ser amor real
+Dialogue: 0,0:23:10.80,0:23:12.05,Default,,0,0,0,,Tiene que ser de tu amor
+Dialogue: 0,0:23:12.05,0:23:14.89,Default,,0,0,0,,Porque yo también estoy tan enamorada de ti
+Dialogue: 0,0:23:14.89,0:23:16.23,Default,,0,0,0,,Una historia cliché no es lo mío
+Dialogue: 0,0:23:16.23,0:23:17.73,Default,,0,0,0,,Y poner puntos de trama, ¿cómo puede ser
+Dialogue: 0,0:23:17.73,0:23:18.87,Default,,0,0,0,,Preocupación, preocupación, preocupación, y luego caer
+Dialogue: 0,0:23:18.87,0:23:20.15,Default,,0,0,0,,Seguir preocupándome y cayendo
+Dialogue: 0,0:23:20.15,0:23:21.36,Default,,0,0,0,,Tiene que ser amor real
+Dialogue: 0,0:23:21.36,0:23:22.65,Default,,0,0,0,,Tiene que ser de tu amor
+Dialogue: 0,0:23:22.65,0:23:25.69,Default,,0,0,0,,No olvides la promesa que hicimos
+Dialogue: 0,0:23:25.69,0:23:26.99,Default,,0,0,0,,Es broma, una dulce mentira está bien
+Dialogue: 0,0:23:26.99,0:23:28.40,Default,,0,0,0,,En realidad, lo que quiero es lo real
+Dialogue: 0,0:23:28.40,0:23:31.07,Default,,0,0,0,,Ahhh... Te lo ruego, por favor ámame

@@ -1,0 +1,492 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Nukitashi - The Animation - 05.es
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.70,Gen_Main,,0,0,0,,(ESTA SERIE ES UNA ANIMACIÓN PARA ADULTOS DESTINADA A ESPECTADORES\NQUE SEAN MAYORES DE EDAD SEGÚN LAS LEYES Y REGLAMENTOS LOCALES.)
+Dialogue: 0,0:00:01.70,0:00:02.90,Gen_Main,,0,0,0,,(ESTA HISTORIA ES PURAMENTE FICCIONAL Y NO GUARDA\NRELACIÓN CON PERSONAS, ORGANIZACIONES O EVENTOS REALES.)
+Dialogue: 0,0:00:02.90,0:00:03.82,Gen_Main,,0,0,0,,(TODOS LOS PERSONAJES SON MAYORES DE EDAD Y TIENEN EDAD DE CONSENTIMIENTO.)
+Dialogue: 0,0:00:03.82,0:00:05.00,Gen_Main,,0,0,0,,(EL TÍTULO PUEDE CONTENER CONTENIDO SENSIBLE\NCOMO ESCENAS SEXUALES O VIOLENTAS. NO LO IMITES.)
+Dialogue: 0,0:00:07.06,0:00:08.69,Gen_Main,,0,0,0,,TODOS LOS PERSONAJES, ORGANIZACIONES, LUGARES,\NLEYES Y NOMBRES SON PURAMENTE FICCIONALES.
+Dialogue: 0,0:00:08.69,0:00:10.30,Gen_Main,,0,0,0,,POR FAVOR, TEN EN CUENTA QUE LA OBRA\NCONTIENE ALGUN LENGUAJE EXTREMO.
+Dialogue: 0,0:00:10.30,0:00:13.42,Gen_Main,,0,0,0,,Me alegra que el festival sport-gasm\Nterminara sin incidentes.
+Dialogue: 0,0:00:13.42,0:00:17.90,Gen_Main,,0,0,0,,Aunque habría sido perfecto si\Nhubiera podido encontrar mi XXX del destino.
+Dialogue: 0,0:00:21.96,0:00:25.33,Gen_Main,,0,0,0,,Ahora puedo reanudar la orden\Nde SHO.
+Dialogue: 0,0:00:25.68,0:00:28.44,Gen_Main,,0,0,0,,La búsqueda de Fumino Kotoyose, ¿verdad?
+Dialogue: 0,0:00:28.80,0:00:30.92,Gen_Main,,0,0,0,,Touka-chan, ¿alguna pista?
+Dialogue: 0,0:00:32.72,0:00:36.26,Gen_Main,,0,0,0,,El lugar donde es probable que aparezca el objetivo\Nla próxima vez...
+Dialogue: 0,0:00:36.46,0:00:37.34,Gen_Main,,0,0,0,,es...
+Dialogue: 0,0:00:40.64,0:00:42.10,Gen_Main,,0,0,0,,El Pervert Land.
+Dialogue: 0,0:00:45.48,0:00:50.65,Gen_Main,,0,0,0,,ACADEMIA MINOTSUKI
+Dialogue: 0,0:00:50.65,0:00:51.97,Gen_Main,,0,0,0,,¡Quedar embarazada ya!
+Dialogue: 0,0:00:52.28,0:00:53.41,Gen_Main,,0,0,0,,¡Quedar embarazada ya!
+Dialogue: 0,0:00:53.78,0:00:56.07,Gen_Main,,0,0,0,,Mi vientre... no está cayendo mucho.
+Dialogue: 0,0:00:56.07,0:00:58.07,Gen_Main,,0,0,0,,No sé... qué decir.
+Dialogue: 0,0:00:58.78,0:00:59.80,Gen_Main,,0,0,0,,Esto es...
+Dialogue: 0,0:00:59.80,0:01:00.62,Gen_Main,,0,0,0,,TOSHIAKI HITOURA\NDEFENSOR DE LA LIBERTAD LASCIVA
+Dialogue: 0,0:01:01.09,0:01:03.01,Gen_Main,,0,0,0,,El asesinato de ese hombre.
+Dialogue: 0,0:01:06.97,0:01:09.27,Gen_Main,,0,0,0,,No conozco las circunstancias...
+Dialogue: 0,0:01:09.51,0:01:12.98,Gen_Main,,0,0,0,,pero no puedo dejar sola a Fumino-chan.
+Dialogue: 0,0:01:22.01,0:01:28.56,Gen_Main,,0,0,0,,NUKITASHI THE ANIMATION
+Dialogue: 0,0:01:28.56,0:01:30.95,Gen_Main,,0,0,0,,Solo las creaciones fallidas\Nde los de antes
+Dialogue: 0,0:01:30.95,0:01:33.79,Gen_Main,,0,0,0,,Algunos elementos rebeldes, podridos hasta la médula
+Dialogue: 0,0:01:33.79,0:01:36.21,Gen_Main,,0,0,0,,Más allá de la cerca de alambre,\Nun mundo de diseño elegante
+Dialogue: 0,0:01:36.21,0:01:38.67,Gen_Main,,0,0,0,,Lo miré fijamente,\Nun secreto que era solo mío
+Dialogue: 0,0:01:38.67,0:01:40.96,Gen_Main,,0,0,0,,Dentro del mundo perfecto\Nque alguien más diseñó
+Dialogue: 0,0:01:40.96,0:01:43.47,Gen_Main,,0,0,0,,Si éramos diferentes,\Nsiempre nos dejaban atrás
+Dialogue: 0,0:01:43.47,0:01:45.93,Gen_Main,,0,0,0,,En un mundo gentil para que todos lo contemplen
+Dialogue: 0,0:01:45.93,0:01:48.85,Gen_Main,,0,0,0,,Alguien desconocido gritaba de agonía
+Dialogue: 0,0:01:48.85,0:01:50.85,Gen_Main,,0,0,0,,Solo una multitud riendo,\Nun rebaño sin mente de cuervos,
+Dialogue: 0,0:01:50.85,0:01:52.81,Gen_Main,,0,0,0,,Siempre diciendo "NO"\Na cosas que nadie conoce
+Dialogue: 0,0:01:52.81,0:01:55.31,Gen_Main,,0,0,0,,Con valores y con normalidad posan
+Dialogue: 0,0:01:55.31,0:01:56.77,Gen_Main,,0,0,0,,Armados con todas sus teorías, supongo
+Dialogue: 0,0:01:56.77,0:01:57.81,Gen_Main,,0,0,0,,Y luego nos llaman inútiles profesionales
+Dialogue: 0,0:01:57.81,0:02:00.19,Gen_Main,,0,0,0,,Incluso si sabes\Nque estás equivocado
+Dialogue: 0,0:02:00.19,0:02:02.65,Gen_Main,,0,0,0,,Recuerda lo que significa\Nvivir tu vida y ser fuerte
+Dialogue: 0,0:02:02.65,0:02:05.07,Gen_Main,,0,0,0,,Si realmente deseas\Npoder cambiar hoy mismo
+Dialogue: 0,0:02:05.07,0:02:07.07,Gen_Main,,0,0,0,,Con ese mismo corazón,\Nve y muéstrales
+Dialogue: 0,0:02:07.32,0:02:10.33,Gen_Main,,0,0,0,,No dudes, no te detengas nunca
+Dialogue: 0,0:02:10.33,0:02:13.20,Gen_Main,,0,0,0,,Destrúyelo, haz que todo el mundo caiga
+Dialogue: 0,0:02:13.20,0:02:15.46,Gen_Main,,0,0,0,,Con toda esa pasión,\Natraviesa todo
+Dialogue: 0,0:02:15.46,0:02:17.46,Gen_Main,,0,0,0,,Ve a donde quieras
+Dialogue: 0,0:02:17.46,0:02:19.92,Gen_Main,,0,0,0,,¿Ni siquiera puedes amarte a ti mismo?
+Dialogue: 0,0:02:19.92,0:02:22.84,Gen_Main,,0,0,0,,Por la impaciencia o el desastre que has hecho
+Dialogue: 0,0:02:22.84,0:02:25.34,Gen_Main,,0,0,0,,Porque justo aquí y ahora,\Nestamos de pie
+Dialogue: 0,0:02:25.34,0:02:27.84,Gen_Main,,0,0,0,,Estamos vivos y respirando después de todo
+Dialogue: 0,0:02:57.17,0:02:59.50,Gen_Main,,0,0,0,,¿Cuál es la situación\Ncon Fumino Kotoyose?
+Dialogue: 0,0:02:59.89,0:03:01.96,Gen_Main,,0,0,0,,FS la está buscando actualmente.
+Dialogue: 0,0:03:02.20,0:03:04.77,Gen_Main,,0,0,0,,Pero la información\Nes bastante limitada.
+Dialogue: 0,0:03:05.16,0:03:08.08,Gen_Main,,0,0,0,,Cuida tu tono, Reizeiin.
+Dialogue: 0,0:03:08.74,0:03:14.84,Gen_Main,,0,0,0,,¿Crees que SHO está pagando\Ntus becas por caridad?
+Dialogue: 0,0:03:20.60,0:03:23.44,Gen_Main,,0,0,0,,Existimos para hacer cumplir\Nla Ordenanza Perversa a los habitantes de la isla...
+Dialogue: 0,0:03:23.44,0:03:26.04,Gen_Main,,0,0,0,,y eventualmente extenderla a todo el país.
+Dialogue: 0,0:03:26.25,0:03:30.79,Gen_Main,,0,0,0,,Por lo tanto, cualquier obstáculo debe ser eliminado.\N¿Me equivoco?
+Dialogue: 0,0:03:31.04,0:03:32.69,Gen_Main,,0,0,0,,Tienes toda la razón.
+Dialogue: 0,0:03:33.76,0:03:35.37,Gen_Main,,0,0,0,,Eso es suficiente.
+Dialogue: 0,0:03:36.05,0:03:36.79,Gen_Main,,0,0,0,,Roger.
+Dialogue: 0,0:03:38.94,0:03:40.99,Gen_Main,,0,0,0,,Asegura que la seguridad\Npara el discurso sea exhaustiva.
+Dialogue: 0,0:03:40.99,0:03:43.66,Gen_Main,,0,0,0,,No decepciones a Hitoura-sama.
+Dialogue: 0,0:03:43.66,0:03:45.20,Gen_Main,,0,0,0,,Touka-sama, ¿estás bien?
+Dialogue: 0,0:03:46.37,0:03:47.57,Gen_Main,,0,0,0,,No te preocupes.
+Dialogue: 0,0:03:47.70,0:03:49.97,Gen_Main,,0,0,0,,Qué molesto. ¿Debería matarlos?
+Dialogue: 0,0:03:50.20,0:03:52.00,Gen_Main,,0,0,0,,Está bien, Ikuko.
+Dialogue: 0,0:03:52.48,0:03:53.40,Gen_Main,,0,0,0,,Touka-sama.
+Dialogue: 0,0:03:53.62,0:03:55.63,Gen_Main,,0,0,0,,Aquí están los datos de despliegue de seguridad.
+Dialogue: 0,0:03:55.63,0:03:58.56,Gen_Main,,0,0,0,,Si no hay problemas,\Nlos compartiré con SHO.
+Dialogue: 0,0:03:58.56,0:04:00.28,Gen_Main,,0,0,0,,Eso no será necesario.
+Dialogue: 0,0:04:00.28,0:04:00.92,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:04:01.29,0:04:02.36,Gen_Main,,0,0,0,,¿Por qué?
+Dialogue: 0,0:04:03.78,0:04:04.73,Gen_Main,,0,0,0,,Hmm...
+Dialogue: 0,0:04:04.98,0:04:06.27,Gen_Main,,0,0,0,,De alguna manera...
+Dialogue: 0,0:04:10.99,0:04:12.89,Gen_Main,,0,0,0,,Bien, esto debería bastar.
+Dialogue: 0,0:04:15.06,0:04:17.24,Gen_Main,,0,0,0,,Asa-chan, parece que estás bien.
+Dialogue: 0,0:04:17.52,0:04:21.05,Gen_Main,,0,0,0,,A este ritmo, deberíamos encontrar\Ninformación sobre Fumino Kotoyose pronto...
+Dialogue: 0,0:04:21.05,0:04:22.67,Gen_Main,,0,0,0,,Estoy jugando un juego ahora mismo.
+Dialogue: 0,0:04:22.96,0:04:24.57,Gen_Main,,0,0,0,,Se llama "Instanto Denudo".
+Dialogue: 0,0:04:24.57,0:04:26.28,Gen_Main,,0,0,0,,Un juego donde nos desnudamos mutuamente...
+Dialogue: 0,0:04:26.28,0:04:28.84,Gen_Main,,0,0,0,,con magia para descubrir\Nlos secretos de la magia de la entrepierna.
+Dialogue: 0,0:04:30.48,0:04:32.44,Gen_Main,,0,0,0,,Bien, basta de juego.
+Dialogue: 0,0:04:32.64,0:04:34.21,Gen_Main,,0,0,0,,Es hora de una reunión de estrategia.
+Dialogue: 0,0:04:38.78,0:04:40.80,Gen_Main,,0,0,0,,Organicemos la nueva información...
+Dialogue: 0,0:04:40.80,0:04:43.52,Gen_Main,,0,0,0,,que obtuvimos de la puerta trasera\Nque instalé en la PC de FS.
+Dialogue: 0,0:04:43.82,0:04:44.97,Gen_Main,,0,0,0,,Para resumir,
+Dialogue: 0,0:04:44.97,0:04:47.76,Gen_Main,,0,0,0,,el objetivo usa kimono,\Ntiene un color de cabello distintivo,
+Dialogue: 0,0:04:47.76,0:04:49.53,Gen_Main,,0,0,0,,y es hábil en francotirador a larga distancia.
+Dialogue: 0,0:04:49.53,0:04:53.44,Gen_Main,,0,0,0,,Además, por alguna razón, parece\Nque está apuntando al gobernador Hitoura.
+Dialogue: 0,0:04:53.76,0:04:55.70,Gen_Main,,0,0,0,,¿La persona que creó la ordenanza?
+Dialogue: 0,0:04:55.92,0:04:57.30,Gen_Main,,0,0,0,,No sé por qué,
+Dialogue: 0,0:04:57.77,0:05:00.53,Gen_Main,,0,0,0,,pero si FS ha reunido tanta información...
+Dialogue: 0,0:05:00.88,0:05:03.97,Gen_Main,,0,0,0,,Deben estar apuntando a Fumino Kotoyose.
+Dialogue: 0,0:05:04.50,0:05:05.67,Gen_Main,,0,0,0,,Todos.
+Dialogue: 0,0:05:05.84,0:05:07.70,Gen_Main,,0,0,0,,Llegó algo.
+Dialogue: 0,0:05:07.70,0:05:09.03,Gen_Main,,0,0,0,,¡Arriba!
+Dialogue: 0,0:05:10.80,0:05:11.87,Gen_Main,,0,0,0,,Esto es...
+Dialogue: 0,0:05:11.87,0:05:15.54,Gen_Main,,0,0,0,,Esto debe ser de nuestro patrocinador,\Nla persona misteriosa.
+Dialogue: 0,0:05:16.14,0:05:17.06,Gen_Main,,0,0,0,,¿Qué es?
+Dialogue: 0,0:05:20.65,0:05:24.02,Gen_Main,,0,0,0,,Es una sustancia recientemente desarrollada\Nllamada D10-O.
+Dialogue: 0,0:05:24.02,0:05:26.70,Gen_Main,,0,0,0,,Normalmente es suave así,
+Dialogue: 0,0:05:26.70,0:05:28.30,Gen_Main,,0,0,0,,pero cuando recibe un fuerte impacto,
+Dialogue: 0,0:05:28.30,0:05:31.55,Gen_Main,,0,0,0,,las moléculas se unen y se endurece.
+Dialogue: 0,0:05:32.51,0:05:34.02,Gen_Main,,0,0,0,,Me cayó en la cara.
+Dialogue: 0,0:05:34.88,0:05:36.77,Gen_Main,,0,0,0,,Darle una facial a una loli es pecaminoso.
+Dialogue: 0,0:05:36.77,0:05:38.62,Gen_Main,,0,0,0,,No soy una loli, sin embargo.
+Dialogue: 0,0:05:38.90,0:05:40.78,Gen_Main,,0,0,0,,Unirse y endurecerse...
+Dialogue: 0,0:05:41.06,0:05:43.47,Gen_Main,,0,0,0,,¿Estás pensando en algo lascivo?
+Dialogue: 0,0:05:44.60,0:05:46.70,Gen_Main,,0,0,0,,Sí, exactamente.
+Dialogue: 0,0:05:48.08,0:05:52.10,Gen_Main,,0,0,0,,¡Ahh, me vengo, me vengo!
+Dialogue: 0,0:05:52.56,0:05:53.60,Gen_Main,,0,0,0,,Hmm...
+Dialogue: 0,0:05:54.44,0:05:56.24,Gen_Main,,0,0,0,,¡Ah, bienvenido!
+Dialogue: 0,0:06:00.01,0:06:01.30,Gen_Main,,0,0,0,,Este lugar es...
+Dialogue: 0,0:06:02.47,0:06:04.01,Gen_Main,,0,0,0,,¿una tienda para adultos?
+Dialogue: 0,0:06:04.40,0:06:06.16,Gen_Main,,0,0,0,,¡Uwah!
+Dialogue: 0,0:06:06.40,0:06:08.53,Gen_Main,,0,0,0,,Tal como esperaba.
+Dialogue: 0,0:06:08.84,0:06:13.12,Gen_Main,,0,0,0,,Desde los clásicos hasta los nuevos lanzamientos,\Ntienen todo tipo de onaholes imaginables.
+Dialogue: 0,0:06:14.80,0:06:16.13,Gen_Main,,0,0,0,,Mira, Nanase.
+Dialogue: 0,0:06:16.13,0:06:19.10,Gen_Main,,0,0,0,,Este se calienta automáticamente\Na la temperatura corporal.
+Dialogue: 0,0:06:19.32,0:06:22.68,Gen_Main,,0,0,0,,Reduce drásticamente\Nla sensación de frío al insertarlo.
+Dialogue: 0,0:06:22.86,0:06:25.60,Gen_Main,,0,0,0,,Lavarlo después\Nse sentiría aún más vacío.
+Dialogue: 0,0:06:25.80,0:06:27.66,Gen_Main,,0,0,0,,¡La vida es vacía de todos modos, ¿verdad!?
+Dialogue: 0,0:06:28.38,0:06:29.70,Gen_Main,,0,0,0,,Onii-san.
+Dialogue: 0,0:06:29.70,0:06:32.10,Gen_Main,,0,0,0,,Tienes muy buen gusto y grandes activos.
+Dialogue: 0,0:06:32.53,0:06:34.47,Gen_Main,,0,0,0,,Te recomiendo mucho ese producto.
+Dialogue: 0,0:06:34.96,0:06:38.29,Gen_Main,,0,0,0,,¿Eh? Te pareces a la XXX Legendaria.
+Dialogue: 0,0:06:38.29,0:06:40.08,Gen_Main,,0,0,0,,Nah, no puede ser.
+Dialogue: 0,0:06:40.68,0:06:43.38,Gen_Main,,0,0,0,,¿Qué tal este vibrador modelo nuevo?
+Dialogue: 0,0:06:43.66,0:06:47.46,Gen_Main,,0,0,0,,Te garantizo que mejorará\Nla noche apasionada de una pareja.
+Dialogue: 0,0:06:47.46,0:06:48.94,Gen_Main,,0,0,0,,¿Una pareja?
+Dialogue: 0,0:06:49.57,0:06:50.62,Gen_Main,,0,0,0,,Aquí, aquí.
+Dialogue: 0,0:06:50.82,0:06:52.60,Gen_Main,,0,0,0,,Por favor pruébalo suavemente.
+Dialogue: 0,0:06:53.58,0:06:56.64,Gen_Main,,0,0,0,,Wow, se ve genial "dentro" de ti, señora.
+Dialogue: 0,0:06:57.04,0:06:57.72,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:06:57.89,0:07:01.65,Gen_Main,,0,0,0,,Con su color elegante, incluso puedes\Nusarlo en ocasiones ceremoniales.
+Dialogue: 0,0:07:01.98,0:07:03.40,Gen_Main,,0,0,0,,¿Ocasiones ceremoniales?
+Dialogue: 0,0:07:03.77,0:07:05.11,Gen_Main,,0,0,0,,Bien, me llevaré este.
+Dialogue: 0,0:07:05.11,0:07:06.34,Gen_Main,,0,0,0,,¿Jun?
+Dialogue: 0,0:07:06.62,0:07:08.12,Gen_Main,,0,0,0,,¡Gracias por venir!
+Dialogue: 0,0:07:08.42,0:07:09.57,Gen_Main,,0,0,0,,¿Cómo vas a pagar?
+Dialogue: 0,0:07:09.57,0:07:10.71,Gen_Main,,0,0,0,,Con PyPy.
+Dialogue: 0,0:07:12.11,0:07:15.53,Gen_Main,,0,0,0,,UN HIMEN FUGAZ\NESPOSA - VIBRADOR - LOCIÓN
+Dialogue: 0,0:07:19.16,0:07:20.37,Gen_Main,,0,0,0,,Combinando este vibrador...
+Dialogue: 0,0:07:20.37,0:07:23.25,Gen_Main,,0,0,0,,con el nuevo material que recibimos\Nde la persona misteriosa,
+Dialogue: 0,0:07:23.25,0:07:24.77,Gen_Main,,0,0,0,,podemos hacer un arma poderosa.
+Dialogue: 0,0:07:24.77,0:07:25.64,Gen_Main,,0,0,0,,¿Un arma?
+Dialogue: 0,0:07:25.82,0:07:27.70,Gen_Main,,0,0,0,,Ah, s-sí, eso es.
+Dialogue: 0,0:07:28.88,0:07:31.26,Gen_Main,,0,0,0,,Estoy tan avergonzada que estoy sudando.
+Dialogue: 0,0:07:31.26,0:07:32.42,Gen_Main,,0,0,0,,Qué caliente.
+Dialogue: 0,0:07:32.72,0:07:34.51,Gen_Main,,0,0,0,,¿No es malo para el modelo XXX...
+Dialogue: 0,0:07:34.51,0:07:37.42,Gen_Main,,0,0,0,,ponerse nerviosa por un simple vibrador?
+Dialogue: 0,0:07:37.74,0:07:38.73,Gen_Main,,0,0,0,,Es cierto.
+Dialogue: 0,0:07:38.73,0:07:40.47,Gen_Main,,0,0,0,,Ese es el personaje que estoy interpretando.
+Dialogue: 0,0:07:40.64,0:07:43.62,Gen_Main,,0,0,0,,Nanase, eres sorprendentemente\Nmala fingiendo.
+Dialogue: 0,0:07:44.68,0:07:46.19,Gen_Main,,0,0,0,,Mira quién habla, virgen.
+Dialogue: 0,0:07:46.19,0:07:47.17,Gen_Main,,0,0,0,,Mira esto.
+Dialogue: 0,0:07:47.76,0:07:49.03,Gen_Main,,0,0,0,,Bip bip.
+Dialogue: 0,0:07:49.19,0:07:50.93,Gen_Main,,0,0,0,,Retrocediendo, retrocediendo.
+Dialogue: 0,0:07:51.33,0:07:54.16,Gen_Main,,0,0,0,,Voy a aparcar en ese garaje apretado XXX.
+Dialogue: 0,0:07:54.16,0:07:55.33,Gen_Main,,0,0,0,,¡Quedar embarazada ya!
+Dialogue: 0,0:07:55.86,0:07:58.50,Gen_Main,,0,0,0,,Aunque tienes\Nuna verga solo automática.
+Dialogue: 0,0:07:59.38,0:08:00.98,Gen_Main,,0,0,0,,Estás en el camino. Muévete.
+Dialogue: 0,0:08:01.16,0:08:01.96,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:08:01.96,0:08:04.40,Gen_Main,,0,0,0,,¿Quieres que aparque\Ntambién en tu garaje?
+Dialogue: 0,0:08:12.00,0:08:13.93,Gen_Main,,0,0,0,,Desafortunadamente, está lleno.
+Dialogue: 0,0:08:15.12,0:08:17.53,Gen_Main,,0,0,0,,Bip bip, XXX arriba, XXX arriba.
+Dialogue: 0,0:08:18.38,0:08:21.87,Gen_Main,,0,0,0,,Eso no es un garaje, es un área de estacionamiento.
+Dialogue: 0,0:08:22.30,0:08:25.20,Gen_Main,,0,0,0,,Para un automático,\Nno te atrevas a pararte en mí.
+Dialogue: 0,0:08:25.20,0:08:27.08,Gen_Main,,0,0,0,,¡Yahoo!
+Dialogue: 0,0:08:27.53,0:08:28.37,Gen_Main,,0,0,0,,¿Ves?
+Dialogue: 0,0:08:32.48,0:08:33.56,Gen_Main,,0,0,0,,Como era de esperar.
+Dialogue: 0,0:08:34.07,0:08:36.90,Gen_Main,,0,0,0,,Dentro del condón\Nsolo hay una papilla de maicena, sin embargo.
+Dialogue: 0,0:08:36.90,0:08:39.34,Gen_Main,,0,0,0,,Bueno, esta es mi arma.
+Dialogue: 0,0:08:39.61,0:08:41.19,Gen_Main,,0,0,0,,Mi cabello también son extensiones.
+Dialogue: 0,0:08:41.92,0:08:43.20,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,0:08:43.20,0:08:44.42,Gen_Main,,0,0,0,,También estoy usando lentillas.
+Dialogue: 0,0:08:44.94,0:08:46.58,Gen_Main,,0,0,0,,Así es como he logrado...
+Dialogue: 0,0:08:46.58,0:08:49.88,Gen_Main,,0,0,0,,lucir llamativa como una XXX\Nlo más posible.
+Dialogue: 0,0:08:53.01,0:08:54.22,Gen_Main,,0,0,0,,Pero cuando estás cerca,
+Dialogue: 0,0:08:54.22,0:08:56.86,Gen_Main,,0,0,0,,esa parte de mí simplemente sale.
+Dialogue: 0,0:09:05.00,0:09:06.00,Gen_Main,,0,0,0,,Nanase...
+Dialogue: 0,0:09:07.50,0:09:09.96,Gen_Main,,0,0,0,,Oye, ¿no deberíamos ponerle un nombre...
+Dialogue: 0,0:09:10.30,0:09:11.66,Gen_Main,,0,0,0,,a nuestro equipo?
+Dialogue: 0,0:09:12.08,0:09:12.76,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:13.03,0:09:14.50,Gen_Main,,0,0,0,,Ah, tienes razón.
+Dialogue: 0,0:09:14.50,0:09:17.10,Gen_Main,,0,0,0,,De hecho, ya pensé en uno.
+Dialogue: 0,0:09:18.24,0:09:20.10,Gen_Main,,0,0,0,,DICKPOSIUM EN PERVERT LAND\NEL 12 DE MAYO (SÁBADO) A LAS 13:00
+Dialogue: 0,0:09:20.10,0:09:21.18,Gen_Main,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:09:22.12,0:09:23.50,Gen_Main,,0,0,0,,¿XXXposium?
+Dialogue: 0,0:09:23.86,0:09:25.24,Gen_Main,,0,0,0,,Eso es bastante interesante.
+Dialogue: 0,0:09:25.54,0:09:27.11,Gen_Main,,0,0,0,,No, no es eso.
+Dialogue: 0,0:09:27.11,0:09:27.98,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:09:29.13,0:09:31.47,Gen_Main,,0,0,0,,"Parece que\Nestá apuntando al gobernador Hitoura."
+Dialogue: 0,0:09:34.08,0:09:36.70,Gen_Main,,0,0,0,,El discurso es mañana.
+Dialogue: 0,0:09:47.12,0:09:49.02,Gen_Main,,0,0,0,,¿De verdad vas a ir?
+Dialogue: 0,0:09:49.33,0:09:51.60,Gen_Main,,0,0,0,,No soy el tipo de mujer\Nque te abandonaría.
+Dialogue: 0,0:09:52.58,0:09:54.32,Gen_Main,,0,0,0,,Al menos puedo ser tu escudo.
+Dialogue: 0,0:09:54.58,0:09:56.04,Gen_Main,,0,0,0,,Después de todo soy una chica grande.
+Dialogue: 0,0:09:56.62,0:09:57.86,Gen_Main,,0,0,0,,Hagamos lo mejor posible.
+Dialogue: 0,0:09:57.86,0:09:59.28,Gen_Main,,0,0,0,,DICKPOSIUM EN PERVERT LAND\NEL 12 DE MAYO (SÁBADO) A LAS 13:00
+Dialogue: 0,0:10:02.08,0:10:03.16,Gen_Main,,0,0,0,,Para conmemorar el XXX,
+Dialogue: 0,0:10:03.16,0:10:06.67,Gen_Main,,0,0,0,,quien quiera dar la mano\Na Hamedori-kun, por favor formen fila.
+Dialogue: 0,0:10:07.10,0:10:08.50,Gen_Main,,0,0,0,,Una mano no es suficiente.
+Dialogue: 0,0:10:08.50,0:10:10.56,Gen_Main,,0,0,0,,Quiero una paja.
+Dialogue: 0,0:10:10.56,0:10:12.77,Gen_Main,,0,0,0,,Mano, paja, sexo-mano.
+Dialogue: 0,0:10:12.77,0:10:13.76,Gen_Main,,0,0,0,,¿Hame?
+Dialogue: 0,0:10:13.76,0:10:15.05,Gen_Main,,0,0,0,,¡Quedar embarazada ya!
+Dialogue: 0,0:10:15.05,0:10:17.47,Gen_Main,,0,0,0,,Por favor, follen en orden.
+Dialogue: 0,0:10:17.92,0:10:20.00,Gen_Main,,0,0,0,,REPRODUCIR JAPÓN\NA pesar de la recesión sin precedentes
+Dialogue: 0,0:10:20.00,0:10:21.37,Gen_Main,,0,0,0,,que enfrenta nuestro país,
+Dialogue: 0,0:10:21.64,0:10:24.35,Gen_Main,,0,0,0,,la Isla Seiran ha continuado\Nlogrando crecimiento económico.
+Dialogue: 0,0:10:24.67,0:10:28.66,Gen_Main,,0,0,0,,Aun así, la demanda\Nde lascivia está aumentando gradualmente.
+Dialogue: 0,0:10:29.10,0:10:30.12,Gen_Main,,0,0,0,,En los años venideros,
+Dialogue: 0,0:10:30.36,0:10:32.47,Gen_Main,,0,0,0,,Japón se convertirá en una Nación Perversa,
+Dialogue: 0,0:10:32.47,0:10:34.97,Gen_Main,,0,0,0,,y su nombre será conocido\Nen todo el mundo.
+Dialogue: 0,0:10:36.08,0:10:37.03,Gen_Main,,0,0,0,,Dicho esto...
+Dialogue: 0,0:10:37.78,0:10:38.70,Gen_Main,,0,0,0,,Oh cielos.
+Dialogue: 0,0:10:39.20,0:10:42.18,Gen_Main,,0,0,0,,Una verga sospechosa\Nse acerca desde el punto C3.
+Dialogue: 0,0:10:42.60,0:10:44.87,Gen_Main,,0,0,0,,Delta 1, confirma el vientre.
+Dialogue: 0,0:10:45.95,0:10:48.49,Gen_Main,,0,0,0,,Delta 1, ubicación del objetivo confirmada.
+Dialogue: 0,0:10:51.12,0:10:52.07,Gen_Main,,0,0,0,,Eso es...
+Dialogue: 0,0:10:55.38,0:10:57.17,Gen_Main,,0,0,0,,Te tengo, objetivo.
+Dialogue: 0,0:10:57.33,0:10:59.12,Gen_Main,,0,0,0,,¡Escuadrón 2, comiencen la supresión!
+Dialogue: 0,0:10:59.12,0:11:02.40,Gen_Main,,0,0,0,,Cuanto más aprietes el gatillo,\Nmás feliz te pones.
+Dialogue: 0,0:11:02.40,0:11:04.10,Gen_Main,,0,0,0,,¡Fuego, fuego, fuego, fuego—!
+Dialogue: 0,0:11:05.10,0:11:06.89,Gen_Main,,0,0,0,,¿Qué está pasando aquí?
+Dialogue: 0,0:11:06.89,0:11:09.88,Gen_Main,,0,0,0,,Así que ha aparecido,\Ntal como predijo Touka-sama.
+Dialogue: 0,0:11:10.26,0:11:11.06,Gen_Main,,0,0,0,,Mozume.
+Dialogue: 0,0:11:11.06,0:11:13.50,Gen_Main,,0,0,0,,Se dirigen hacia aquí\Ncomo para burlarse de nosotros.
+Dialogue: 0,0:11:13.67,0:11:14.94,Gen_Main,,0,0,0,,Ya tengo el objetivo fijado.
+Dialogue: 0,0:11:14.94,0:11:17.50,Gen_Main,,0,0,0,,Te enviaré de vuelta al vientre de tu madre.
+Dialogue: 0,0:11:17.74,0:11:18.54,Gen_Main,,0,0,0,,¿Oh?
+Dialogue: 0,0:11:19.20,0:11:21.12,Gen_Main,,0,0,0,,¿Esto es... interferencia?
+Dialogue: 0,0:11:23.42,0:11:25.36,Gen_Main,,0,0,0,,¿Qué es esta vez?
+Dialogue: 0,0:11:26.08,0:11:28.77,Gen_Main,,0,0,0,,¿Quién interrumpe mi momento feliz?
+Dialogue: 0,0:11:28.97,0:11:31.60,Gen_Main,,0,0,0,,Interferencia y una cortina de humo, ¿han venido?
+Dialogue: 0,0:11:33.14,0:11:34.97,Gen_Main,,0,0,0,,La Fuerza Anti-Cópula.
+Dialogue: 0,0:11:35.24,0:11:37.62,Gen_Main,,0,0,0,,Como era de esperar,\Nella está apuntando al gobernador Hitoura.
+Dialogue: 0,0:11:37.62,0:11:38.96,Gen_Main,,0,0,0,,Esa Fumino Kotoyose.
+Dialogue: 0,0:11:39.42,0:11:40.87,Gen_Main,,0,0,0,,Está bien,
+Dialogue: 0,0:11:41.18,0:11:43.07,Gen_Main,,0,0,0,,pero ¿qué se supone que hagamos?
+Dialogue: 0,0:11:43.36,0:11:45.16,Gen_Main,,0,0,0,,Fuego a discreción.
+Dialogue: 0,0:11:45.68,0:11:48.00,Gen_Main,,0,0,0,,El enemigo ya predijo nuestros movimientos.
+Dialogue: 0,0:11:48.58,0:11:50.00,Gen_Main,,0,0,0,,Dispersaos y cread una distracción.
+Dialogue: 0,0:11:50.00,0:11:51.72,Gen_Main,,0,0,0,,- ¡Entendido!\N- ¡Roger!
+Dialogue: 0,0:11:53.10,0:11:55.30,Gen_Main,,0,0,0,,Cambiando el radar a Modo Combate Aéreo.
+Dialogue: 0,0:11:55.96,0:11:57.97,Gen_Main,,0,0,0,,Arma maestra activada.
+Dialogue: 0,0:11:58.60,0:12:00.67,Gen_Main,,0,0,0,,¡Vamos! ¡Engage!
+Dialogue: 0,0:12:01.20,0:12:04.45,Gen_Main,,0,0,0,,Fumino Kotoyose está recibiendo apoyo\Nde la Fuerza Anti-Cópula.
+Dialogue: 0,0:12:04.68,0:12:06.95,Gen_Main,,0,0,0,,Todas las unidades, suprimidlos según lo planeado.
+Dialogue: 0,0:12:06.95,0:12:07.84,Gen_Main,,0,0,0,,Roger.
+Dialogue: 0,0:12:08.38,0:12:10.00,Gen_Main,,0,0,0,,Mantened la cortina de humo.
+Dialogue: 0,0:12:10.00,0:12:12.12,Gen_Main,,0,0,0,,Ahora es nuestra oportunidad\Nde asegurar a Fumino Kotoyose...
+Dialogue: 0,0:12:12.44,0:12:13.58,Gen_Main,,0,0,0,,Te encontré.
+Dialogue: 0,0:12:19.30,0:12:22.64,Gen_Main,,0,0,0,,Ha pasado un tiempo desde que nos encontramos\Nen la montaña, Fuerza Anti-Cópula.
+Dialogue: 0,0:12:22.93,0:12:24.33,Gen_Main,,0,0,0,,¿Cómo supiste mi posición?
+Dialogue: 0,0:12:24.64,0:12:26.51,Gen_Main,,0,0,0,,Tal vez puedas engañar al GPS,
+Dialogue: 0,0:12:26.51,0:12:29.28,Gen_Main,,0,0,0,,pero no puedes ocultar\Nel olor a semen que se pega a un hombre.
+Dialogue: 0,0:12:29.47,0:12:31.00,Gen_Main,,0,0,0,,Qué imitación tan perruna.
+Dialogue: 0,0:12:31.70,0:12:34.96,Gen_Main,,0,0,0,,Ahora, con honor, suelta tu precum.
+Dialogue: 0,0:12:41.64,0:12:42.57,Gen_Main,,0,0,0,,¿Vibrador?
+Dialogue: 0,0:12:43.21,0:12:45.03,Gen_Main,,0,0,0,,Este es hecho especialmente.
+Dialogue: 0,0:12:45.92,0:12:48.33,Gen_Main,,0,0,0,,Normalmente es suave y flexible,
+Dialogue: 0,0:12:48.33,0:12:52.82,Gen_Main,,0,0,0,,pero al recibir impacto, las moléculas\Ndel nuevo material se unen y se endurecen.
+Dialogue: 0,0:12:57.70,0:12:59.26,Gen_Main,,0,0,0,,¡Tú simple juguete sexual!
+Dialogue: 0,0:12:59.50,0:13:01.34,Gen_Main,,0,0,0,,Su dureza como el acero es como...
+Dialogue: 0,0:13:01.34,0:13:04.51,Gen_Main,,0,0,0,,la verga de un joven\Ncon libido acumulada.
+Dialogue: 0,0:13:04.84,0:13:07.07,Gen_Main,,0,0,0,,Puede atravesar a cualquier enemigo.
+Dialogue: 0,0:13:07.84,0:13:08.97,Gen_Main,,0,0,0,,¡Penetra!
+Dialogue: 0,0:13:09.67,0:13:12.92,Gen_Main,,0,0,0,,Su nombre es verdaderamente ¡el Penetrator!
+Dialogue: 0,0:13:21.14,0:13:23.78,Gen_Main,,0,0,0,,Mi precum...
+Dialogue: 0,0:13:26.26,0:13:29.20,Gen_Main,,0,0,0,,Te he hecho pagar\Ndeuda del anterior.
+Dialogue: 0,0:13:32.30,0:13:33.50,Gen_Main,,0,0,0,,Nukitashi.
+Dialogue: 0,0:13:36.93,0:13:38.70,Gen_Main,,0,0,0,,Fumino Kotoyose es...
+Dialogue: 0,0:13:39.00,0:13:41.54,Gen_Main,,0,0,0,,Ven aquí, Fuerza Anti-Cópula.
+Dialogue: 0,0:13:44.70,0:13:47.09,Gen_Main,,0,0,0,,Oye, ¿no es esa Nanase Katagiri?
+Dialogue: 0,0:13:47.09,0:13:48.72,Gen_Main,,0,0,0,,¿La XXX Legendaria?
+Dialogue: 0,0:13:48.72,0:13:49.93,Gen_Main,,0,0,0,,¡Cómo puede ser!
+Dialogue: 0,0:13:49.93,0:13:51.28,Gen_Main,,0,0,0,,¡Fuego!
+Dialogue: 0,0:13:55.44,0:13:56.80,Gen_Main,,0,0,0,,Eso estuvo cerca.
+Dialogue: 0,0:13:57.06,0:13:58.35,Gen_Main,,0,0,0,,¿Un... paraguas?
+Dialogue: 0,0:13:58.35,0:13:59.57,Gen_Main,,0,0,0,,¡Qué dureza!
+Dialogue: 0,0:13:59.76,0:14:00.90,Gen_Main,,0,0,0,,¿Dónde lo compraste?
+Dialogue: 0,0:14:01.59,0:14:03.29,Gen_Main,,0,0,0,,Desafortunadamente, no está a la venta.
+Dialogue: 0,0:14:05.87,0:14:07.61,Gen_Main,,0,0,0,,Es un Paraguas-Vibrador-Bate.
+Dialogue: 0,0:14:07.94,0:14:09.87,Gen_Main,,0,0,0,,¡No hay tiempo para tener miedo, Rin-san!
+Dialogue: 0,0:14:09.87,0:14:11.13,Gen_Main,,0,0,0,,Como si tuviera miedo.
+Dialogue: 0,0:14:11.13,0:14:13.33,Gen_Main,,0,0,0,,¡Conviértete en cenizas!
+Dialogue: 0,0:14:15.97,0:14:17.07,Gen_Main,,0,0,0,,Ah, um...
+Dialogue: 0,0:14:17.07,0:14:18.04,Gen_Main,,0,0,0,,Ve.
+Dialogue: 0,0:14:18.04,0:14:20.56,Gen_Main,,0,0,0,,La niña pequeña\Nte guiará a un lugar seguro.
+Dialogue: 0,0:14:21.14,0:14:22.56,Gen_Main,,0,0,0,,¿Niña pequeña?
+Dialogue: 0,0:14:23.12,0:14:24.09,Gen_Main,,0,0,0,,La encontré.
+Dialogue: 0,0:14:24.09,0:14:25.34,Gen_Main,,0,0,0,,El objetivo se ha detenido.
+Dialogue: 0,0:14:25.34,0:14:27.58,Gen_Main,,0,0,0,,1 en punto, distancia 391.
+Dialogue: 0,0:14:32.42,0:14:34.60,Gen_Main,,0,0,0,,¡Soy yo!
+Dialogue: 0,0:14:37.57,0:14:38.50,Gen_Main,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:14:38.50,0:14:39.60,Gen_Main,,0,0,0,,Nos están apuntando.
+Dialogue: 0,0:14:48.57,0:14:49.38,Gen_Main,,0,0,0,,¿Es el enemigo?
+Dialogue: 0,0:14:49.38,0:14:50.50,Gen_Main,,0,0,0,,Se fueron.
+Dialogue: 0,0:14:50.86,0:14:52.12,Gen_Main,,0,0,0,,Eres Fumino-chan, ¿verdad?
+Dialogue: 0,0:14:52.80,0:14:54.62,Gen_Main,,0,0,0,,Ahora, ven con la hermana mayor.
+Dialogue: 0,0:14:54.62,0:14:56.77,Gen_Main,,0,0,0,,Ah, ¿quiénes son ustedes?
+Dialogue: 0,0:14:57.12,0:14:58.37,Gen_Main,,0,0,0,,Fuerza Anti-Cópula.
+Dialogue: 0,0:14:58.37,0:14:59.80,Gen_Main,,0,0,0,,Estamos aquí para ayudar a Fumino-chan.
+Dialogue: 0,0:14:59.80,0:15:01.53,Gen_Main,,0,0,0,,¿Ayudarla? ¿Cómo?
+Dialogue: 0,0:15:01.53,0:15:02.48,Gen_Main,,0,0,0,,¿Qué tal eso?
+Dialogue: 0,0:15:02.48,0:15:03.48,Gen_Main,,0,0,0,,- ¿Hmm?\N- ¿Eh?
+Dialogue: 0,0:15:04.36,0:15:05.57,Gen_Main,,0,0,0,,¿Un camión?
+Dialogue: 0,0:15:08.38,0:15:09.87,Gen_Main,,0,0,0,,¿Puedes conducir?
+Dialogue: 0,0:15:10.66,0:15:12.01,Gen_Main,,0,0,0,,Me las arreglaré de alguna manera con espíritu.
+Dialogue: 0,0:15:12.01,0:15:12.72,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:15:12.96,0:15:16.66,Gen_Main,,0,0,0,,Ah, el freno de mano de este auto es una perla anal.
+Dialogue: 0,0:15:16.66,0:15:17.24,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:15:17.97,0:15:19.10,Gen_Main,,0,0,0,,¡Partamos!
+Dialogue: 0,0:15:20.56,0:15:23.40,Gen_Main,,0,0,0,,¡Espíritu, Energía, Misaki!
+Dialogue: 0,0:15:28.20,0:15:30.46,Gen_Main,,0,0,0,,El objeto se mueve hacia\Nla plaza en un camión.
+Dialogue: 0,0:15:30.90,0:15:33.30,Gen_Main,,0,0,0,,Tienen un conductor hábil\Ncomo cómplice.
+Dialogue: 0,0:15:33.74,0:15:36.01,Gen_Main,,0,0,0,,Entendido, los seguiremos inmediatamente.
+Dialogue: 0,0:15:40.34,0:15:43.00,Gen_Main,,0,0,0,,Jeje... ¿Puedes esquivar eso?
+Dialogue: 0,0:15:47.60,0:15:50.09,Gen_Main,,0,0,0,,Ella es incluso más rápida\Nque la detección del radar.
+Dialogue: 0,0:15:51.40,0:15:53.43,Gen_Main,,0,0,0,,Encantada de conocerte.
+Dialogue: 0,0:15:53.84,0:15:57.72,Gen_Main,,0,0,0,,La capitana más linda\Ny fuerte del Escuadrón 1 de FS,
+Dialogue: 0,0:15:57.72,0:15:59.96,Gen_Main,,0,0,0,,soy yo, Ikuko Onabuta-chan.
+Dialogue: 0,0:16:00.76,0:16:02.14,Gen_Main,,0,0,0,,Esta aura...
+Dialogue: 0,0:16:02.14,0:16:04.73,Gen_Main,,0,0,0,,Claramente está en otro nivel\Nrespecto a los otros miembros de FS.
+Dialogue: 0,0:16:04.90,0:16:06.70,Gen_Main,,0,0,0,,¿Fuerza Anti-Cópula, era?
+Dialogue: 0,0:16:07.14,0:16:10.78,Gen_Main,,0,0,0,,Escuché que están hablando\Nde acabar con el sexo sin amor.
+Dialogue: 0,0:16:12.19,0:16:15.03,Gen_Main,,0,0,0,,El placer de simplemente\Nentregarse al deseo carnal,
+Dialogue: 0,0:16:17.19,0:16:19.29,Gen_Main,,0,0,0,,¿quieres que te enseñe sobre eso?
+Dialogue: 0,0:16:20.70,0:16:21.93,Gen_Main,,0,0,0,,No me subestimes.
+Dialogue: 0,0:16:22.21,0:16:24.21,Gen_Main,,0,0,0,,Nunca me involucraré en sexo lascivo.
+Dialogue: 0,0:16:24.21,0:16:25.27,Gen_Main,,0,0,0,,Absolutamente no.
+Dialogue: 0,0:16:26.53,0:16:29.07,Gen_Main,,0,0,0,,Cuando te resistes,\Nme excita aún más.
+Dialogue: 0,0:16:29.48,0:16:31.24,Gen_Main,,0,0,0,,¡Hablas demasiado!
+Dialogue: 0,0:16:37.77,0:16:40.00,Gen_Main,,0,0,0,,Buena reacción, pero...
+Dialogue: 0,0:16:44.44,0:16:45.60,Gen_Main,,0,0,0,,Maldita sea...
+Dialogue: 0,0:16:48.30,0:16:51.32,Gen_Main,,0,0,0,,Soy mejor en técnicas de suelo, ¿sabes?
+Dialogue: 0,0:16:55.24,0:16:56.70,Gen_Main,,0,0,0,,¡Continúen avanzando!
+Dialogue: 0,0:16:56.70,0:16:58.49,Gen_Main,,0,0,0,,El objetivo está un poco más adelante.
+Dialogue: 0,0:16:58.84,0:17:00.99,Gen_Main,,0,0,0,,En otras palabras, la Ordenanza Perversa...
+Dialogue: 0,0:17:00.99,0:17:01.82,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:17:02.35,0:17:03.85,Gen_Main,,0,0,0,,Ella está aquí, Touka-sama.
+Dialogue: 0,0:17:04.96,0:17:07.00,Gen_Main,,0,0,0,,es una política sexual sin precedentes.
+Dialogue: 0,0:17:07.38,0:17:10.95,Gen_Main,,0,0,0,,Ya está atrayendo atención\Nde gobiernos locales de todo el país.
+Dialogue: 0,0:17:18.10,0:17:19.40,Gen_Main,,0,0,0,,Esta es la Base Null.
+Dialogue: 0,0:17:19.76,0:17:20.70,Gen_Main,,0,0,0,,¿Dónde está Wata-chan?
+Dialogue: 0,0:17:20.70,0:17:22.04,Gen_Main,,0,0,0,,A mi hermano lo han sacado.
+Dialogue: 0,0:17:22.04,0:17:23.00,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:17:23.00,0:17:24.35,Gen_Main,,0,0,0,,Tenemos que ayudarlo rápido.
+Dialogue: 0,0:17:24.35,0:17:26.38,Gen_Main,,0,0,0,,¿Qué hacemos, Fumino-chan?
+Dialogue: 0,0:17:29.48,0:17:30.50,Gen_Main,,0,0,0,,Esto es...
+Dialogue: 0,0:17:31.57,0:17:35.45,Gen_Main,,0,0,0,,Una vida más feliz, más libre\Ny más liberada...
+Dialogue: 0,0:17:35.45,0:17:37.76,Gen_Main,,0,0,0,,tiene una relación significativa\Ncon la salud diaria.
+Dialogue: 0,0:17:38.34,0:17:41.03,Gen_Main,,0,0,0,,Todos deberían estar\Nexperimentando esto en carne propia.
+Dialogue: 0,0:17:42.00,0:17:43.00,Gen_Main,,0,0,0,,Fumino-chan.
+Dialogue: 0,0:17:43.79,0:17:44.99,Gen_Main,,0,0,0,,Estamos dando la vuelta.
+Dialogue: 0,0:17:48.77,0:17:51.68,Gen_Main,,0,0,0,,Muchas gracias\Npor su atención.
+Dialogue: 0,0:17:52.12,0:17:55.13,Gen_Main,,0,0,0,,Ahora, para concluir,\Npor favor únanse a mí diciendo...
+Dialogue: 0,0:17:55.41,0:17:56.63,Gen_Main,,0,0,0,,"¡Extendamos el...
+Dialogue: 0,0:17:56.88,0:17:58.80,Gen_Main,,0,0,0,,¡el círculo del sexo lascivo!"
+Dialogue: 0,0:18:01.78,0:18:03.85,Gen_Main,,0,0,0,,Parece que hubo\Nalgún alboroto.
+Dialogue: 0,0:18:03.85,0:18:05.12,Gen_Main,,0,0,0,,Eso fue...
+Dialogue: 0,0:18:05.66,0:18:06.51,Gen_Main,,0,0,0,,¿Es Fumino?
+Dialogue: 0,0:18:06.82,0:18:08.63,Gen_Main,,0,0,0,,Bueno, me pregunto.
+Dialogue: 0,0:18:10.60,0:18:13.77,Gen_Main,,0,0,0,,¡Cómo te atreves\Na hablarle así a Hitoura-sama!
+Dialogue: 0,0:18:15.50,0:18:19.37,Gen_Main,,0,0,0,,Entrega un informe sobre el alboroto\Npara el final de hoy.
+Dialogue: 0,0:18:22.14,0:18:23.22,Gen_Main,,0,0,0,,Qué pena.
+Dialogue: 0,0:18:27.72,0:18:28.82,Gen_Main,,0,0,0,,Mi fuerza...
+Dialogue: 0,0:18:29.24,0:18:30.25,Gen_Main,,0,0,0,,Veamos...
+Dialogue: 0,0:18:30.25,0:18:31.80,Gen_Main,,0,0,0,,qué tipo de XXX XXX tienes.
+Dialogue: 0,0:18:31.80,0:18:33.13,Gen_Main,,0,0,0,,¡Detente!
+Dialogue: 0,0:18:33.35,0:18:35.07,Gen_Main,,0,0,0,,Quieres decir "Fóllame", ¿verdad?
+Dialogue: 0,0:18:35.88,0:18:37.72,Gen_Main,,0,0,0,,Oye, no se pone dura.
+Dialogue: 0,0:18:38.07,0:18:39.73,Gen_Main,,0,0,0,,Jajá, qué lástima.
+Dialogue: 0,0:18:39.84,0:18:40.93,Gen_Main,,0,0,0,,Soy impotente.
+Dialogue: 0,0:18:40.93,0:18:42.47,Gen_Main,,0,0,0,,No puedo tener sexo.
+Dialogue: 0,0:18:43.59,0:18:44.56,Gen_Main,,0,0,0,,Se pondrá dura.
+Dialogue: 0,0:18:45.80,0:18:47.53,Gen_Main,,0,0,0,,Si soy tu pareja,
+Dialogue: 0,0:18:47.82,0:18:49.32,Gen_Main,,0,0,0,,no importa qué tipo de XXX,
+Dialogue: 0,0:18:50.04,0:18:52.90,Gen_Main,,0,0,0,,se pondrá dura como una roca.
+Dialogue: 0,0:18:54.86,0:18:56.78,Gen_Main,,0,0,0,,E-Esta voz...
+Dialogue: 0,0:18:58.44,0:19:00.40,Gen_Main,,0,0,0,,Vamos, siéntelo.
+Dialogue: 0,0:19:00.94,0:19:03.74,Gen_Main,,0,0,0,,Mi voz linda haciéndote cosquillas en los oídos.
+Dialogue: 0,0:19:06.94,0:19:08.90,Gen_Main,,0,0,0,,Mi cabeza está dando vueltas.
+Dialogue: 0,0:19:10.20,0:19:12.97,Gen_Main,,0,0,0,,El dulce aroma haciéndote cosquillas en la nariz.
+Dialogue: 0,0:19:13.63,0:19:16.57,Gen_Main,,0,0,0,,Los suaves pechos presionados contra ti.
+Dialogue: 0,0:19:17.86,0:19:20.30,Gen_Main,,0,0,0,,¿No me digas que es efecto afrodisíaco?
+Dialogue: 0,0:19:23.98,0:19:25.47,Gen_Main,,0,0,0,,Ponte más grande.
+Dialogue: 0,0:19:25.70,0:19:27.12,Gen_Main,,0,0,0,,Ponte más grande.
+Dialogue: 0,0:19:28.87,0:19:31.57,Gen_Main,,0,0,0,,Bien, erección completa.
+Dialogue: 0,0:19:32.86,0:19:33.87,Gen_Main,,0,0,0,,Imposible.
+Dialogue: 0,0:19:34.90,0:19:37.44,Gen_Main,,0,0,0,,Eh, ¿por qué lo escondías?
+Dialogue: 0,0:19:37.44,0:19:39.02,Gen_Main,,0,0,0,,Qué verga tan genial.
+Dialogue: 0,0:19:39.02,0:19:40.98,Gen_Main,,0,0,0,,¿Existe algo como\Nuna verga lamentable?
+Dialogue: 0,0:19:41.15,0:19:42.13,Gen_Main,,0,0,0,,Oh, qué miedo.
+Dialogue: 0,0:19:42.41,0:19:44.47,Gen_Main,,0,0,0,,No sé por qué estás enojado,
+Dialogue: 0,0:19:44.67,0:19:46.27,Gen_Main,,0,0,0,,pero empecemos.
+Dialogue: 0,0:19:46.66,0:19:48.93,Gen_Main,,0,0,0,,D-Detente, espera.
+Dialogue: 0,0:19:49.18,0:19:50.81,Gen_Main,,0,0,0,,No esperaré.
+Dialogue: 0,0:19:50.81,0:19:53.81,Gen_Main,,0,0,0,,¡Uwaaah!
+Dialogue: 0,0:19:53.81,0:19:56.60,Gen_Main,,0,0,0,,Bien, felicitaciones\Npor perder tu virginidad.
+Dialogue: 0,0:19:57.24,0:19:59.44,Gen_Main,,0,0,0,,Ah, ¿qué es esto?
+Dialogue: 0,0:19:59.44,0:20:01.50,Gen_Main,,0,0,0,,¡Está adentro, está dentro!
+Dialogue: 0,0:20:01.50,0:20:05.47,Gen_Main,,0,0,0,,Ah, no solo es grande,\Nsino que la forma también es perfecta.
+Dialogue: 0,0:20:05.90,0:20:07.93,Gen_Main,,0,0,0,,Estoy siendo completamente violada.
+Dialogue: 0,0:20:08.12,0:20:10.20,Gen_Main,,0,0,0,,Así que escondías esto.
+Dialogue: 0,0:20:10.20,0:20:12.22,Gen_Main,,0,0,0,,Tal vez haya encontrado algo increíble.
+Dialogue: 0,0:20:13.16,0:20:14.07,Gen_Main,,0,0,0,,Se acabó.
+Dialogue: 0,0:20:14.43,0:20:16.28,Gen_Main,,0,0,0,,Ya se acabó.
+Dialogue: 0,0:20:17.77,0:20:19.07,Gen_Main,,0,0,0,,Ah, qué bueno.
+Dialogue: 0,0:20:19.34,0:20:20.53,Gen_Main,,0,0,0,,Increíble.
+Dialogue: 0,0:20:21.00,0:20:22.93,Gen_Main,,0,0,0,,Perdí mi virginidad.
+Dialogue: 0,0:20:23.34,0:20:25.94,Gen_Main,,0,0,0,,Junnosuke Tachibana acaba de morir.
+Dialogue: 0,0:20:28.94,0:20:29.97,Gen_Main,,0,0,0,,Entonces yo...
+Dialogue: 0,0:20:30.22,0:20:31.87,Gen_Main,,0,0,0,,tendré que vivir mientras mi orgullo...
+Dialogue: 0,0:20:31.87,0:20:35.67,Gen_Main,,0,0,0,,y mi autoestima\Nme son continuamente arrebatados?
+Dialogue: 0,0:20:37.18,0:20:41.40,Gen_Main,,0,0,0,,Pero cuando estás cerca,\Nesa parte de mí simplemente sale.
+Dialogue: 0,0:20:42.24,0:20:43.19,Gen_Main,,0,0,0,,¡No puede ser!
+Dialogue: 0,0:20:43.97,0:20:46.14,Gen_Main,,0,0,0,,Ah, se movió y saltó.
+Dialogue: 0,0:20:46.14,0:20:48.40,Gen_Main,,0,0,0,,La verga se hizo más grande.
+Dialogue: 0,0:20:50.40,0:20:51.47,Gen_Main,,0,0,0,,Todavía se hace más grande...
+Dialogue: 0,0:20:51.47,0:20:54.00,Gen_Main,,0,0,0,,Espera, ¿todavía se hace más grande?
+Dialogue: 0,0:20:54.54,0:20:56.42,Gen_Main,,0,0,0,,No es solo la mía.
+Dialogue: 0,0:20:56.64,0:20:58.27,Gen_Main,,0,0,0,,¿Todavía se hace más grande?
+Dialogue: 0,0:20:58.27,0:21:00.97,Gen_Main,,0,0,0,,No puede ser. ¡Esto es físicamente imposible!!
+Dialogue: 0,0:21:00.97,0:21:03.61,Gen_Main,,0,0,0,,¡Aaaaaah!
+Dialogue: 0,0:21:05.87,0:21:08.17,Gen_Main,,0,0,0,,No estoy sola.
+Dialogue: 0,0:21:12.50,0:21:15.56,Gen_Main,,0,0,0,,¡No puede ser! ¿Qué es esto? Es tan duro...
+Dialogue: 0,0:21:19.44,0:21:21.70,Gen_Main,,0,0,0,,¡Me vengo!
+Dialogue: 0,0:21:21.70,0:21:24.53,Gen_Main,,0,0,0,,Nunca dejaré que nadie me lo quite.
+Dialogue: 0,0:21:27.51,0:21:31.64,Gen_Main,,0,0,0,,Por fin lo encontré, ¡mi XXX del destino!
+Dialogue: 0,0:21:37.99,0:21:39.92,Gen_Main,,0,0,0,,¿A-Acabo de golpear algo?
+Dialogue: 0,0:21:40.23,0:21:42.50,Gen_Main,,0,0,0,,E-Espero que solo sea mi imaginación.
+Dialogue: 0,0:21:42.76,0:21:43.80,Gen_Main,,0,0,0,,Señor, ten piedad.
+Dialogue: 0,0:21:43.80,0:21:45.60,Gen_Main,,0,0,0,,Jun, ¿estás bien?
+Dialogue: 0,0:21:51.34,0:21:53.07,Gen_Main,,0,0,0,,Sí, de alguna manera.
+Dialogue: 0,0:21:53.79,0:21:54.79,Gen_Main,,0,0,0,,¡Auch!
+Dialogue: 0,0:21:54.79,0:21:57.10,Gen_Main,,0,0,0,,¿Q-Quiénes son ustedes?
+Dialogue: 0,0:21:57.82,0:22:00.72,Gen_Main,,0,0,0,,No tenemos obligación\Nde presentarnos,
+Dialogue: 0,0:22:00.72,0:22:02.93,Gen_Main,,0,0,0,,pero haré una excepción\Nasí que escuchen.
+Dialogue: 0,0:22:03.28,0:22:07.27,Gen_Main,,0,0,0,,Somos los que acaban\Ncon todo el sexo pervertido sin amor.
+Dialogue: 0,0:22:07.27,0:22:08.78,Gen_Main,,0,0,0,,La Facción Anti-Cópula.
+Dialogue: 0,0:22:09.83,0:22:10.80,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:22:11.14,0:22:12.72,Gen_Main,,0,0,0,,Los NLNS.
+Dialogue: 0,0:22:15.58,0:22:17.04,Gen_Main,,0,0,0,,Hey, ha pasado un tiempo
+Dialogue: 0,0:22:17.38,0:22:18.56,Gen_Main,,0,0,0,,Por fin nos volvemos a encontrar
+Dialogue: 0,0:22:18.88,0:22:20.92,Gen_Main,,0,0,0,,Me pregunto, ¿has estado bien
+Dialogue: 0,0:22:20.92,0:22:24.09,Gen_Main,,0,0,0,,¡Es broma! Qué feliz,\Npero también me estoy sonrojando
+Dialogue: 0,0:22:37.23,0:22:38.69,Gen_Main,,0,0,0,,Hey, tal vez no esta
+Dialogue: 0,0:22:38.81,0:22:40.11,Gen_Main,,0,0,0,,tal vez esa tampoco
+Dialogue: 0,0:22:40.11,0:22:42.61,Gen_Main,,0,0,0,,Me preocupo por las pequeñas cosas que he hecho
+Dialogue: 0,0:22:42.61,0:22:44.07,Gen_Main,,0,0,0,,¿Te darás cuenta siquiera
+Dialogue: 0,0:22:44.07,0:22:47.78,Gen_Main,,0,0,0,,Me esforcé mucho\Nen vestirme bien para todos
+Dialogue: 0,0:22:48.26,0:22:50.91,Gen_Main,,0,0,0,,¿Debería ser atrevida y dar el primer paso
+Dialogue: 0,0:22:50.91,0:22:53.45,Gen_Main,,0,0,0,,No hay garantía de que lo apruebes
+Dialogue: 0,0:22:53.45,0:22:56.12,Gen_Main,,0,0,0,,¿Todo o nada? No puedo hacer eso
+Dialogue: 0,0:22:56.12,0:22:57.67,Gen_Main,,0,0,0,,Ahhh, creo que he caído redonda
+Dialogue: 0,0:22:58.67,0:23:01.21,Gen_Main,,0,0,0,,Esta historia que comparto contigo
+Dialogue: 0,0:23:01.21,0:23:04.00,Gen_Main,,0,0,0,,Tiene demasiadas opciones
+Dialogue: 0,0:23:04.55,0:23:06.88,Gen_Main,,0,0,0,,Tengo que decidirme y ser valiente
+Dialogue: 0,0:23:06.88,0:23:09.18,Gen_Main,,0,0,0,,Así que el rol de heroína es mío
+Dialogue: 0,0:23:09.39,0:23:10.80,Gen_Main,,0,0,0,,Tiene que ser amor real
+Dialogue: 0,0:23:10.80,0:23:12.05,Gen_Main,,0,0,0,,Tiene que ser de tu amor
+Dialogue: 0,0:23:12.05,0:23:14.89,Gen_Main,,0,0,0,,Porque yo también estoy tan enamorada de ti
+Dialogue: 0,0:23:14.89,0:23:16.23,Gen_Main,,0,0,0,,Una historia cliché no es lo mío
+Dialogue: 0,0:23:16.23,0:23:17.73,Gen_Main,,0,0,0,,Y poner puntos de trama, ¿cómo puede ser
+Dialogue: 0,0:23:17.73,0:23:18.87,Gen_Main,,0,0,0,,Preocupación, preocupación, preocupación, y luego caer
+Dialogue: 0,0:23:18.87,0:23:20.15,Gen_Main,,0,0,0,,Seguir preocupándome y cayendo
+Dialogue: 0,0:23:20.15,0:23:21.36,Gen_Main,,0,0,0,,Tiene que ser amor real
+Dialogue: 0,0:23:21.36,0:23:22.65,Gen_Main,,0,0,0,,Tiene que ser de tu amor
+Dialogue: 0,0:23:22.65,0:23:25.69,Gen_Main,,0,0,0,,No olvides la promesa que hicimos
+Dialogue: 0,0:23:25.69,0:23:26.99,Gen_Main,,0,0,0,,Es broma, una dulce mentira está bien
+Dialogue: 0,0:23:26.99,0:23:28.40,Gen_Main,,0,0,0,,En realidad, lo que quiero es lo real
+Dialogue: 0,0:23:28.40,0:23:31.63,Gen_Main,,0,0,0,,Ahhh... Te lo ruego, por favor ámame
