@@ -1,0 +1,276 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: Gen_Main Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Gen_Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,20,1
+Style: Gen_Main Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00CECECE,&H00B5B5B5,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Ver,Verdana,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Ver,Verdana,24,&H00000300,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:00:16.45,0:00:19.93,Gen_Main,Tenza,0,0,0,,Maestro, siga enseñándome a…
+Dialogue: 0,0:00:20.88,0:00:26.48,Gen_Main,Tenza,0,0,0,,¡Ah, no! ¡Maestro!\N¡Siga enseñándome a usar la espada!
+Dialogue: 0,0:00:27.13,0:00:28.58,Gen_Main,Shion,0,0,0,,Por supuesto.
+Dialogue: 0,0:00:29.97,0:00:32.60,Gen_Main,Tenza,0,0,0,,Estamos a salvo con él de nuestro lado.
+Dialogue: 0,0:00:32.68,0:00:34.59,Gen_Main,Tenza,0,0,0,,El señor Shion es mi salvador
+Dialogue: 0,0:00:34.64,0:00:36.74,Gen_Main,Tenza,0,0,0,,y el maestro\Nque me instruyó en la espada.
+Dialogue: 0,0:00:36.85,0:00:39.70,Gen_Main,Tenza,0,0,0,,No deja de ser maestro\Naun en una situación como esta.
+Dialogue: 0,0:00:39.77,0:00:42.10,Gen_Main,Tenza,0,0,0,,Eso me ayuda a tranquilizarme.
+Dialogue: 0,0:00:43.40,0:00:45.61,Gen_Main,Zhu Jin,0,0,0,,Veo que me subestiman.
+Dialogue: 0,0:00:54.66,0:00:56.33,Gen_Main,Zhu Jin,0,0,0,,Ya me acostumbré a eso.
+Dialogue: 0,0:01:00.50,0:01:02.21,Gen_Main,Nurugai,0,0,0,,¡Tenza!
+Dialogue: 0,0:01:28.78,0:01:31.14,Gen_Main,Shion,0,0,0,,Quienes arrebatan vidas\Njamás lo entenderán.
+Dialogue: 0,0:01:32.66,0:01:36.18,Gen_Main,Shion,0,0,0,,Quienes las pierden… nunca lo olvidan.
+Dialogue: 0,0:01:51.05,0:01:52.09,Cart_A_Tim,CARTEL,0,0,0,,{\c&H151634&\fad(250,123)\4c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:03:00.53,0:03:03.66,Cart_A_Tim,CARTEL,0,0,0,,{\4c&H151634&\fad(250,250)\c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:03:07.58,0:03:12.50,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\an3\bord0\b0\c&HFFFFFF&\shad1\pos(603,300)}Maestro y discípulo
+Dialogue: 0,0:03:16.88,0:03:21.56,Gen_Main Italics,Nurugai,0,0,0,,Lo cortó sin cesar cuando se regeneraba\Npara agotar su Tao.
+Dialogue: 0,0:03:21.81,0:03:25.35,Gen_Main Italics,Nurugai,0,0,0,,No le hizo heridas mortales,\Npero ahora tarda mucho en regenerarse.
+Dialogue: 0,0:03:25.43,0:03:27.73,Gen_Main Italics,Nurugai,0,0,0,,También parece haber envejecido.
+Dialogue: 0,0:03:28.19,0:03:30.69,Gen_Main Italics,Nurugai,0,0,0,,Ya no debería poder hacer mucho.
+Dialogue: 0,0:03:40.28,0:03:44.15,Gen_Main,Zhu Jin,0,0,0,,Puedo controlar objetos inanimados\Nusando muy poco Tao.
+Dialogue: 0,0:03:44.91,0:03:46.83,Gen_Main,Zhu Jin,0,0,0,,¡Mueran, humanos!
+Dialogue: 0,0:04:00.43,0:04:03.22,Gen_Main Italics,Zhu Jin,0,0,0,,Aprovecharé para recuperarme.
+Dialogue: 0,0:04:03.60,0:04:06.60,Gen_Main Italics,Zhu Jin,0,0,0,,Mi oponente también está agotado.
+Dialogue: 0,0:04:06.73,0:04:11.15,Gen_Main Italics,Zhu Jin,0,0,0,,Usar ataques de Tao sin parar\Ntambién reduce su tiempo de vida.
+Dialogue: 0,0:04:15.48,0:04:16.49,Gen_Main,Nurugai,0,0,0,,¡Maestro!
+Dialogue: 0,0:04:19.49,0:04:21.99,Gen_Main,Shion,0,0,0,,Son trucos baratos.\NNo te servirán de nada.
+Dialogue: 0,0:04:23.12,0:04:26.00,Gen_Main,Shion,0,0,0,,Escuela de un Solo Corte:\NLlovizna Provincial.
+Dialogue: 0,0:04:36.92,0:04:39.13,Gen_Main Italics,Zhu Jin,0,0,0,,No alcanzó mi Tanden.
+Dialogue: 0,0:04:40.30,0:04:41.39,Gen_Main,Zhu Jin,0,0,0,,¿Y ese ruido?
+Dialogue: 0,0:04:55.11,0:04:58.65,Gen_Main,Zhu Jin,0,0,0,,Tú también…\NAunque estás al borde de la muerte…
+Dialogue: 0,0:04:59.53,0:05:01.53,Gen_Main,Zhu Jin,0,0,0,,¿Qué demonios te pasa, maldita sea?
+Dialogue: 0,0:05:03.37,0:05:04.53,Gen_Main,Shion,0,0,0,,¡No te acerques!
+Dialogue: 0,0:05:10.66,0:05:11.98,Gen_Main,Nurugai,0,0,0,,Maes…
+Dialogue: 0,0:05:28.93,0:05:31.18,Gen_Main,Zhu Jin,0,0,0,,¿Qué te pasa?
+Dialogue: 0,0:05:31.27,0:05:36.44,Gen_Main,Zhu Jin,0,0,0,,¿Por qué decides acortar tu vida\Npor alguien que ya está muerto?
+Dialogue: 0,0:05:36.86,0:05:38.93,Gen_Main,Zhu Jin,0,0,0,,¿Por qué llegas a ese extremo?
+Dialogue: 0,0:05:42.78,0:05:44.95,Gen_Main,Shion,0,0,0,,Aún no he hecho nada.
+Dialogue: 0,0:05:45.07,0:05:50.13,Gen_Main,Shion,0,0,0,,Aún no puedo llorar ni estar triste.
+Dialogue: 0,0:05:50.75,0:05:55.45,Gen_Main,Shion,0,0,0,,Hasta enojarme es una molestia\Nmientras sigas con vida.
+Dialogue: 0,0:05:56.38,0:05:59.13,Gen_Main,Shion,0,0,0,,Haré todo eso después de matarte.
+Dialogue: 0,0:05:59.21,0:06:01.97,Gen_Main,Shion,0,0,0,,La desesperación y la tristeza\Nquedarán para después.
+Dialogue: 0,0:06:02.42,0:06:06.90,Gen_Main,Shion,0,0,0,,Dime… ¿Cuántos cientos de veces más\Ndebo cortarte para que mueras?
+Dialogue: 0,0:06:07.72,0:06:10.80,Gen_Main Italics,Zhu Jin,0,0,0,,Estoy acabado…\N¡Estoy acabado! ¡Acabado!
+Dialogue: 0,0:06:10.89,0:06:12.48,Gen_Main Italics,Zhu Jin,0,0,0,,Tengo que hacer algo…
+Dialogue: 0,0:06:12.73,0:06:14.28,Gen_Main Italics,Zhu Jin,0,0,0,,¡Lo que sea!
+Dialogue: 0,0:06:27.83,0:06:29.24,Gen_Main Italics,Shion,0,0,0,,No te desesperes.
+Dialogue: 0,0:06:29.62,0:06:33.23,Gen_Main Italics,Shion,0,0,0,,Su Tao no debería recuperarse\Nen tan poco tiempo.
+Dialogue: 0,0:06:42.51,0:06:45.08,Gen_Main,Zhu Jin,0,0,0,,¿Creíste que estabas a un paso de ganar?
+Dialogue: 0,0:06:45.18,0:06:47.51,Gen_Main,Zhu Jin,0,0,0,,No me subestimes, humano.
+Dialogue: 0,0:06:48.20,0:06:51.54,Gen_Main,Zhu Jin,0,0,0,,Uno de los nuestros siempre mantiene\Nambos sexos al mismo tiempo…
+Dialogue: 0,0:06:51.64,0:06:55.02,Gen_Main,Zhu Jin,0,0,0,,Hace circular el Yin y el Yang\Npor su cuenta para refinar su Tao.
+Dialogue: 0,0:06:55.31,0:06:57.52,Gen_Main,Zhu Jin,0,0,0,,Solo lo estoy imitando.
+Dialogue: 0,0:06:57.98,0:07:02.90,Gen_Main,Zhu Jin,0,0,0,,Mantener ambos sexos es muy agotador,\Npero ahora no tengo otra opción.
+Dialogue: 0,0:07:03.07,0:07:04.28,Gen_Main,Zhu Jin,0,0,0,,Además…
+Dialogue: 0,0:07:06.03,0:07:09.16,Gen_Main,Zhu Jin,0,0,0,,Tenía razón… Siempre lo pensé.
+Dialogue: 0,0:07:09.62,0:07:13.73,Gen_Main,Zhu Jin,0,0,0,,Si puedo transformar una parte de mí,\Nla Resurrección Demoníaca será igual.
+Dialogue: 0,0:07:16.25,0:07:17.25,Gen_Main,Zhu Jin,0,0,0,,Dime…
+Dialogue: 0,0:07:17.60,0:07:22.30,Gen_Main,Zhu Jin,0,0,0,,¿Cuántos cientos de veces más\Nquieres que sigamos con esto?
+Dialogue: 0,0:07:28.05,0:07:31.56,Gen_Main,Shion,0,0,0,,Te juro que ajustaré cuentas contigo.
+Dialogue: 0,0:07:31.76,0:07:35.31,Gen_Main,Zhu Jin,0,0,0,,Ya me acostumbré a tus trucos de circo.
+Dialogue: 0,0:07:52.03,0:07:53.63,Gen_Main Italics,Shion,0,0,0,,¿Trucos de circo?
+Dialogue: 0,0:07:54.95,0:07:58.13,Gen_Main Italics,Shion,0,0,0,,Que diga lo que quiera…\NAsí es como peleo.
+Dialogue: 0,0:08:06.05,0:08:09.80,Gen_Main Italics,Shion,0,0,0,,Mi madre, una artista ambulante,\Nfue quien me hizo estas cicatrices.
+Dialogue: 0,0:08:12.30,0:08:16.06,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HF3F5F5&\c&HB8BFC9&\be1\fscx65\fscy65\pos(140,20)}El acto del hijo\Ndel dios de la espada
+Dialogue: 0,0:08:12.47,0:08:16.06,Gen_Main Italics,Shion,0,0,0,,Era un acto donde un niño ciego\Nesquivaba espadas de madera.
+Dialogue: 0,0:08:16.06,0:08:20.81,Cart_A_Tre,CARTEL,0,0,0,,{\3c&HC2CDD4&\c&H556580&\org(855.9,92.4)\fry-4.89\frx9.53\frz17.69\be1\pos(184,-231)\fscx82\fscy100}dios de la espada
+Dialogue: 0,0:08:16.27,0:08:19.35,Gen_Main Italics,Shion,0,0,0,,"El hijo del dios de la espada\Nque ve los cortes sin mirar".
+Dialogue: 0,0:08:19.73,0:08:23.18,Gen_Main Italics,Shion,0,0,0,,Mi madre y yo estábamos desesperados\Npor sobrevivir.
+Dialogue: 0,0:08:25.32,0:08:28.88,Gen_Main Italics,Shion,0,0,0,,La cicatriz era parte del acto,\Npero mi ceguera era de nacimiento.
+Dialogue: 0,0:08:28.95,0:08:33.48,Gen_Main Italics,Shion,0,0,0,,Como desde niño sentía el mundo\Na través de las ondas del Tao,
+Dialogue: 0,0:08:33.83,0:08:35.50,Gen_Main Italics,Shion,0,0,0,,ese acto era muy fácil para mí.
+Dialogue: 0,0:08:38.21,0:08:42.10,Gen_Main Italics,Shion,0,0,0,,Al oír los rumores, el maestro Souroku\Nme acogió en el gremio de ciegos.
+Dialogue: 0,0:08:42.46,0:08:45.80,Gen_Main Italics,Shion,0,0,0,,Gracias a eso,\Nlogré entrar al clan Yamada.
+Dialogue: 0,0:08:45.88,0:08:50.22,Gen_Main Italics,Shion,0,0,0,,Era una oportunidad única para una pobre\Nfamilia de artistas ambulantes.
+Dialogue: 0,0:08:54.93,0:08:59.55,Gen_Main,YamadaAsaemon,0,0,0,,Es increíble que un niño, y uno ciego,\Ntenga semejante habilidad.
+Dialogue: 0,0:08:59.64,0:09:01.55,Gen_Main,YamadaAsaemon,0,0,0,,¿De dónde son esas cicatrices?
+Dialogue: 0,0:09:02.10,0:09:04.95,Gen_Main,MadreDeShion,0,0,0,,Su padre es un famoso\Nmaestro espadachín.
+Dialogue: 0,0:09:05.02,0:09:09.50,Gen_Main,MadreDeShion,0,0,0,,Tiene un gran talento para el combate\Ny fue herido en batalla a temprana edad.
+Dialogue: 0,0:09:09.57,0:09:13.90,Gen_Main Italics,Shion,0,0,0,,Cada vez que le preguntaban,\Nmi madre decía esa historia inventada.
+Dialogue: 0,0:09:18.95,0:09:21.75,Gen_Main Italics,Shion,0,0,0,,Y yo hacía lo mismo.
+Dialogue: 0,0:09:23.92,0:09:29.23,Gen_Main Italics,Shion,0,0,0,,No podía desmentir esa historia\Nni manchar el honor de mi madre.
+Dialogue: 0,0:09:29.30,0:09:33.33,Gen_Main Italics,Shion,0,0,0,,Así que pasé mis días en el clan Yamada\Nocultando mi pasado.
+Dialogue: 0,0:09:34.05,0:09:35.83,Gen_Main Italics,Shion,0,0,0,,Y me avergonzaba de ello.
+Dialogue: 0,0:09:36.51,0:09:38.93,Gen_Main,Tenza,0,0,0,,¡El pasado no importa en lo absoluto!
+Dialogue: 0,0:09:39.02,0:09:42.63,Gen_Main,Tenza,0,0,0,,¡Lo que importa es el presente!
+Dialogue: 0,0:09:43.52,0:09:47.38,Gen_Main,Shugen,0,0,0,,Ese no es el problema.\NTe dije que te comportes como un Yamada.
+Dialogue: 0,0:09:47.48,0:09:53.66,Gen_Main,Tenza,0,0,0,,¡Eso estoy haciendo!\N¡Fíjate en mí y no en mi origen!
+Dialogue: 0,0:09:53.78,0:09:56.73,Gen_Main,Senta,0,0,0,,Shugen y Tenza\Nse están peleando de nuevo…
+Dialogue: 0,0:09:56.83,0:09:58.91,Gen_Main,Fuchi,0,0,0,,Déjalos, es divertido.
+Dialogue: 0,0:10:01.50,0:10:06.17,Gen_Main Italics,Shion,0,0,0,,Envidiaba a Tenza. Él se mostraba\Ntal cual era y no le temía a nada.
+Dialogue: 0,0:10:06.50,0:10:11.48,Gen_Main Italics,Shion,0,0,0,,Lo aceptaban por lo auténtico que era,\Ny yo sentía un gran potencial en él.
+Dialogue: 0,0:10:14.05,0:10:18.73,Gen_Main,Tenza,0,0,0,,Su manejo de la espada\Nes increíble, maestro.
+Dialogue: 0,0:10:18.81,0:10:21.15,Gen_Main,Tenza,0,0,0,,¡Lo admiro muchísimo!
+Dialogue: 0,0:10:23.06,0:10:27.10,Gen_Main Italics,Shion,0,0,0,,No, te equivocas.\NTú eras a quien yo admiraba.
+Dialogue: 0,0:10:34.86,0:10:37.80,Gen_Main Italics,Shion,0,0,0,,Te mataré con mis propias manos.
+Dialogue: 0,0:10:37.87,0:10:39.98,Gen_Main Italics,Shion,0,0,0,,¡Aun a costa de mi vida!
+Dialogue: 0,0:10:50.05,0:10:53.28,Gen_Main,Zhu Jin,0,0,0,,Puedo usar la Resurrección Demoníaca\Nmientras me recupero.
+Dialogue: 0,0:10:53.38,0:10:56.35,Gen_Main,Zhu Jin/Shion,0,0,0,,-Ya no tienen oportunidad de…\N-¡Cállate!
+Dialogue: 0,0:10:57.09,0:11:01.35,Gen_Main,Shion,0,0,0,,Esa apariencia y tus técnicas llamativas\Nson solo una farsa.
+Dialogue: 0,0:11:01.64,0:11:06.35,Gen_Main,Shion,0,0,0,,Solo concentras la fuerza que te queda\Nen aparentar, ¿verdad?
+Dialogue: 0,0:11:06.44,0:11:09.36,Gen_Main,Shion,0,0,0,,Pronto tu Tao caerá al nivel\Nde un simple humano.
+Dialogue: 0,0:11:09.77,0:11:12.38,Gen_Main,Shion,0,0,0,,Tu actuación tan mala no me engaña.
+Dialogue: 0,0:11:13.11,0:11:15.60,Gen_Main,Shion,0,0,0,,A ambos nos falta un ataque decisivo.
+Dialogue: 0,0:11:16.24,0:11:19.00,Gen_Main,Shion,0,0,0,,Esto será una lucha interminable…
+Dialogue: 0,0:11:19.10,0:11:21.87,Gen_Main,Shion,0,0,0,,Será una prueba de resistencia\Ndonde vamos a matarnos.
+Dialogue: 0,0:11:22.69,0:11:24.37,Gen_Main,Shion,0,0,0,,¿Estás preparado?
+Dialogue: 0,0:11:27.96,0:11:29.33,Gen_Main,Nurugai,0,0,0,,¡Maestro!
+Dialogue: 0,0:11:30.72,0:11:32.08,Gen_Main,Shion,0,0,0,,Nurugai…
+Dialogue: 0,0:11:36.63,0:11:41.15,Gen_Main,Shion,0,0,0,,Aléjate… A partir de ahora,\Nme encargaré yo solo.
+Dialogue: 0,0:11:42.97,0:11:45.85,Gen_Main,Shion,0,0,0,,A partir de ahora, será muy peligroso.
+Dialogue: 0,0:11:48.90,0:11:50.20,Gen_Main,Zhu Jin,0,0,0,,¡Maldición!
+Dialogue: 0,0:11:59.61,0:12:03.13,Gen_Main Italics,Shion,0,0,0,,Como mi Tao no lo domina,\Nsolo puedo hacer una pelea de desgaste.
+Dialogue: 0,0:12:03.20,0:12:07.23,Gen_Main Italics,Shion,0,0,0,,Entonces, ¿cuál es la mejor manera\Npara que consuma todo su Tao?
+Dialogue: 0,0:12:08.08,0:12:13.25,Gen_Main,Yuzuriha,0,0,0,,No hace falta cortarlo cientos de veces.\N¿No es más simple empalarlo y ya?
+Dialogue: 0,0:12:13.71,0:12:15.01,Gen_Main,Sagiri,0,0,0,,Es verdad…
+Dialogue: 0,0:12:15.30,0:12:17.33,Gen_Main,Sagiri,0,0,0,,Físicamente, es posible.
+Dialogue: 0,0:12:17.42,0:12:21.76,Gen_Main,Sagiri,0,0,0,,El Tanden de los Tensen es un ovario\Nque tienen dentro del cuerpo.
+Dialogue: 0,0:12:22.18,0:12:26.77,Gen_Main,Fuchi,0,0,0,,Empalarlos sería útil para obligarlos\Na regenerarse y así agotar su Tao.
+Dialogue: 0,0:12:30.94,0:12:32.65,Gen_Main,Fuchi,0,0,0,,Cortar sus extremidades…
+Dialogue: 0,0:12:33.61,0:12:35.20,Gen_Main,Fuchi,0,0,0,,o como alternativa…
+Dialogue: 0,0:12:36.11,0:12:39.40,Gen_Main,Fuchi,0,0,0,,extraer solo el ovario\Ny luego empalarlo.
+Dialogue: 0,0:12:39.86,0:12:43.55,Gen_Main,Fuchi,0,0,0,,Nosotros sabemos hacer el Hiemontori,\Nasí que no sería difícil.
+Dialogue: 0,0:12:44.24,0:12:47.13,Gen_Main,Gabimaru,0,0,0,,El problema es si podremos\Nmantenerlo empalado.
+Dialogue: 0,0:12:47.20,0:12:48.79,Gen_Main,Fuchi,0,0,0,,Ah, es verdad.
+Dialogue: 0,0:12:48.91,0:12:52.67,Gen_Main,Yuzuriha,0,0,0,,Me da asco solo de imaginarlo.\NYo no podría hacerlo.
+Dialogue: 0,0:13:02.76,0:13:05.68,Gen_Main,Mei,0,0,0,,Se regenera. Crecen enredaderas.
+Dialogue: 0,0:13:05.81,0:13:10.19,Gen_Main,Mei,0,0,0,,Luego, se saca la espada.\NAunque lo sujeten, se defenderá.
+Dialogue: 0,0:13:10.77,0:13:12.55,Gen_Main,Mei,0,0,0,,Se meterá en sus cuerpos.
+Dialogue: 0,0:13:12.94,0:13:14.27,Gen_Main,Nurugai,0,0,0,,¡Maestro!
+Dialogue: 0,0:13:18.53,0:13:20.73,Gen_Main Italics,Shion,0,0,0,,Es más débil de lo que esperaba.
+Dialogue: 0,0:13:21.20,0:13:23.43,Gen_Main Italics,Shion,0,0,0,,¿Será porque logré agotar su Tao?
+Dialogue: 0,0:13:24.07,0:13:28.04,Gen_Main,Shion,0,0,0,,Ya te dije que esto se convertiría\Nen una prueba de resistencia.
+Dialogue: 0,0:13:28.33,0:13:32.04,Gen_Main,Shion,0,0,0,,¿Te quedarás sin fuerzas primero tú\No me quedaré sin fuerzas yo?
+Dialogue: 0,0:13:32.37,0:13:34.45,Gen_Main,Shion,0,0,0,,Esto es para ajustar cuentas…
+Dialogue: 0,0:13:36.04,0:13:39.05,Gen_Main,Shion,0,0,0,,¡Si caemos juntos,\Nentonces yo seré el ganador!
+Dialogue: 0,0:13:39.05,0:13:43.05,Cart_A_Tim,CARTEL,0,0,0,,{\c&H000001&\bord0\shad0\fscx152\fscy152\pos(425,171)}Hell's Paradise
+Dialogue: 0,0:13:52.48,0:13:54.40,Gen_Main Italics,Shion,0,0,0,,Este nivel de dolor…
+Dialogue: 0,0:13:54.81,0:13:58.07,Gen_Main Italics,Shion,0,0,0,,no es nada comparado\Nal que él sintió cuando murió.
+Dialogue: 0,0:13:58.32,0:14:00.57,Gen_Main,Nurugai,0,0,0,,¡Maestro! ¡Detente de una vez!
+Dialogue: 0,0:14:00.69,0:14:02.45,Gen_Main,Nurugai,0,0,0,,¡Si sigues así, morirás!
+Dialogue: 0,0:14:02.70,0:14:03.95,Gen_Main,Shion,0,0,0,,¡Aléjate!
+Dialogue: 0,0:14:05.49,0:14:09.70,Gen_Main,Shion,0,0,0,,Si sigo así, podré llevarme\Na este monstruo conmigo.
+Dialogue: 0,0:14:09.83,0:14:14.71,Gen_Main,Shion,0,0,0,,Vete de aquí de inmediato\Ny reúnete con los demás.
+Dialogue: 0,0:14:15.25,0:14:18.33,Gen_Main,Shion,0,0,0,,Yo me quedaré aquí.
+Dialogue: 0,0:14:19.80,0:14:22.72,Gen_Main,Nurugai,0,0,0,,Eso es una locura.
+Dialogue: 0,0:14:23.30,0:14:25.72,Gen_Main,Nurugai,0,0,0,,Eres un hombre muy inteligente.
+Dialogue: 0,0:14:25.93,0:14:30.90,Gen_Main,Nurugai,0,0,0,,Siempre analizas todo\Ny tomas las decisiones correctas, ¿no?
+Dialogue: 0,0:14:31.73,0:14:33.78,Gen_Main,Nurugai,0,0,0,,¡Esto no es propio de ti!
+Dialogue: 0,0:14:36.77,0:14:38.25,Gen_Main,Shion,0,0,0,,En aquel momento…
+Dialogue: 0,0:14:39.11,0:14:41.60,Gen_Main,Shion,0,0,0,,entendí lo que significaba su grito.
+Dialogue: 0,0:14:43.53,0:14:46.87,Gen_Main,Shion,0,0,0,,Sabía que no podíamos ganar\Ny quería evitar que todos muriéramos.
+Dialogue: 0,0:14:47.37,0:14:49.40,Gen_Main,Shion,0,0,0,,Entendí su voluntad y actué al instante.
+Dialogue: 0,0:14:50.37,0:14:53.23,Gen_Main,Shion,0,0,0,,Fue la decisión correcta.
+Dialogue: 0,0:14:54.50,0:14:58.63,Gen_Main,Shion,0,0,0,,¿Por qué tuve que tomar\Nla decisión correcta?
+Dialogue: 0,0:14:59.54,0:15:02.38,Gen_Main,Shion,0,0,0,,Aunque fuera una estupidez,\Nno pude quedarme a su lado.
+Dialogue: 0,0:15:04.69,0:15:10.68,Gen_Main,Shion,0,0,0,,¿Con cuánto remordimiento\Ny con cuánto dolor murió al final?
+Dialogue: 0,0:15:11.51,0:15:15.58,Gen_Main,Shion,0,0,0,,No puedo perdonarme a mí mismo\Nporque lo único que hice fue escapar.
+Dialogue: 0,0:15:17.90,0:15:23.15,Gen_Main,Shion,0,0,0,,No me perdono haber elegido lo correcto\Ny haber perdido a alguien tan preciado.
+Dialogue: 0,0:15:23.69,0:15:25.38,Gen_Main,Shion,0,0,0,,No puedo hacerlo.
+Dialogue: 0,0:15:27.86,0:15:30.20,Gen_Main,Shion,0,0,0,,Estos ojos ni siquiera pueden llorar.
+Dialogue: 0,0:15:30.66,0:15:33.60,Gen_Main,Shion,0,0,0,,Por eso, al menos…
+Dialogue: 0,0:15:37.17,0:15:38.58,Gen_Main,Nurugai,0,0,0,,¡Maestro!
+Dialogue: 0,0:15:39.54,0:15:43.67,Gen_Main,Shion,0,0,0,,¡Déjame esto a mí y vete rápido\Na reunirte con los demás!
+Dialogue: 0,0:15:43.92,0:15:45.95,Gen_Main,Nurugai,0,0,0,,Pero yo… no puedo…
+Dialogue: 0,0:15:46.05,0:15:47.35,Gen_Main,Shion,0,0,0,,¡Vete de una vez!
+Dialogue: 0,0:15:47.93,0:15:48.93,Gen_Main,Shion,0,0,0,,¡Que te vayas!
+Dialogue: 0,0:16:00.48,0:16:04.03,Gen_Main Italics,Nurugai,0,0,0,,El maestro está igual que yo\Nen aquel entonces.
+Dialogue: 0,0:16:05.40,0:16:07.70,Gen_Main Italics,Nurugai,0,0,0,,Perdió a alguien que quería mucho…
+Dialogue: 0,0:16:08.70,0:16:10.68,Gen_Main Italics,Nurugai,0,0,0,,y es incapaz de perdonarse a sí mismo.
+Dialogue: 0,0:16:16.41,0:16:21.83,Gen_Main Italics,Nurugai,0,0,0,,Está igual que yo, cuando ya no sabía\Nsi merecía seguir viviendo o morir.
+Dialogue: 0,0:16:22.96,0:16:25.83,Gen_Main,Nurugai,0,0,0,,Pero yo sobreviví hasta el final,
+Dialogue: 0,0:16:25.92,0:16:28.30,Gen_Main,Nurugai,0,0,0,,a pesar de que todos\Nmurieron por mi culpa.
+Dialogue: 0,0:16:34.06,0:16:36.31,Gen_Main,Tenza,0,0,0,,¡Que no te entiendo ni jota!
+Dialogue: 0,0:16:38.98,0:16:41.19,Gen_Main,Tenza,0,0,0,,¿Por qué tienes que morir por eso?
+Dialogue: 0,0:16:43.36,0:16:46.57,Gen_Main,Nurugai,0,0,0,,Sí… Tienes razón.
+Dialogue: 0,0:16:46.99,0:16:49.38,Gen_Main,Nurugai,0,0,0,,Si no me lo explica bien…
+Dialogue: 0,0:16:50.11,0:16:52.32,Gen_Main,Nurugai,0,0,0,,Si no me da una buena razón…
+Dialogue: 0,0:16:52.99,0:16:54.40,Gen_Main,Nurugai,0,0,0,,Yo…
+Dialogue: 0,0:16:55.20,0:16:56.80,Gen_Main,Nurugai,0,0,0,,Yo…
+Dialogue: 0,0:17:06.55,0:17:09.09,Gen_Main,Nurugai,0,0,0,,Tenza…
+Dialogue: 0,0:17:09.38,0:17:13.00,Gen_Main,Nurugai,0,0,0,,Yo… Este… Este…
+Dialogue: 0,0:17:13.85,0:17:16.75,Gen_Main,Nurugai,0,0,0,,El maestro… Yo…
+Dialogue: 0,0:17:21.73,0:17:25.19,Gen_Main,Tenza,0,0,0,,En ese caso,\Nsolo hay una cosa que hacer, ¿no crees?
+Dialogue: 0,0:17:29.44,0:17:30.70,Gen_Main,Nurugai,0,0,0,,¡Sí!
+Dialogue: 0,0:17:42.67,0:17:46.71,Gen_Main Italics,Tenza,0,0,0,,Si no me lo explicas bien,\Nno me voy a quedar conforme,
+Dialogue: 0,0:17:47.30,0:17:49.45,Gen_Main Italics,Tenza,0,0,0,,y no me voy a ir de aquí.
+Dialogue: 0,0:17:52.68,0:17:55.80,Gen_Main Italics,Shion,0,0,0,,Ya ni siquiera escucho ningún sonido.
+Dialogue: 0,0:17:56.68,0:18:01.08,Gen_Main Italics,Shion,0,0,0,,¿Cuánto tiempo ha pasado?\N¿Cuánto más tendré que soportar?
+Dialogue: 0,0:18:02.52,0:18:05.90,Gen_Main Italics,Shion,0,0,0,,Solo la sensación\Nde mi vida consumiéndose
+Dialogue: 0,0:18:06.36,0:18:08.90,Gen_Main Italics,Shion,0,0,0,,se vuelve cada vez más nítida…
+Dialogue: 0,0:18:16.45,0:18:22.75,Gen_Main Italics,Shion,0,0,0,,Esa lentitud significa que empalarlo\Nestá funcionando.
+Dialogue: 0,0:18:24.12,0:18:27.13,Gen_Main Italics,Shion,0,0,0,,Tenza, al fin…
+Dialogue: 0,0:18:36.18,0:18:37.65,Gen_Main,Shion,0,0,0,,¿Nuru…?
+Dialogue: 0,0:18:53.24,0:18:54.70,Gen_Main,Shion,0,0,0,,¡¿Qué estás haciendo?!
+Dialogue: 0,0:18:54.95,0:18:57.28,Gen_Main,Nurugai,0,0,0,,¡Te estoy abrazando\Npara recuperar tu Tao!
+Dialogue: 0,0:18:58.70,0:19:01.23,Gen_Main,Shion,0,0,0,,Este no es el momento para hacer esto…
+Dialogue: 0,0:19:03.00,0:19:06.50,Gen_Main,Shion,0,0,0,,¡Una señorita no debería abrazar\Na alguien con tanta ligereza!
+Dialogue: 0,0:19:06.58,0:19:08.59,Gen_Main,Shion,0,0,0,,¡Suéltame, por un montón de razones!
+Dialogue: 0,0:19:11.09,0:19:14.34,Gen_Main,Nurugai,0,0,0,,Esa actitud…\NYa vuelves a ser tú, maestro.
+Dialogue: 0,0:19:16.01,0:19:17.43,Gen_Main,Nurugai,0,0,0,,Mira.
+Dialogue: 0,0:19:18.30,0:19:21.85,Gen_Main,Nurugai,0,0,0,,No está muerto,\Npero su regeneración es muy lenta.
+Dialogue: 0,0:19:21.93,0:19:24.85,Gen_Main,Nurugai,0,0,0,,A ese paso, le tomará un día\Nvolver a la normalidad.
+Dialogue: 0,0:19:25.60,0:19:28.10,Gen_Main,Shion,0,0,0,,Por eso mismo debemos rematarlo ahora.
+Dialogue: 0,0:19:28.23,0:19:31.43,Gen_Main,Nurugai,0,0,0,,No, por eso mismo\Ndeberíamos dejarlo en paz.
+Dialogue: 0,0:19:32.32,0:19:34.85,Gen_Main,Nurugai,0,0,0,,Si nos acercamos,\Nlas enredaderas se clavarán.
+Dialogue: 0,0:19:34.94,0:19:37.61,Gen_Main,Nurugai,0,0,0,,Si sigues forzándote,\Nterminarás muriendo, maestro.
+Dialogue: 0,0:19:37.91,0:19:40.87,Gen_Main,Nurugai,0,0,0,,Regresemos con los demás.
+Dialogue: 0,0:19:44.66,0:19:47.08,Gen_Main,Shion,0,0,0,,No puedo hacer eso.
+Dialogue: 0,0:19:47.83,0:19:51.48,Gen_Main,Shion,0,0,0,,Si no lo mato,\Nel alma de Tenza no descansará en paz.
+Dialogue: 0,0:19:52.42,0:19:54.63,Gen_Main,Shion,0,0,0,,Todo su sufrimiento…
+Dialogue: 0,0:19:55.42,0:19:57.00,Gen_Main,Nurugai,0,0,0,,Te equivocas.
+Dialogue: 0,0:19:58.22,0:20:01.39,Gen_Main,Nurugai,0,0,0,,Su arrepentimiento y su sufrimiento\Nno se trataban de eso.
+Dialogue: 0,0:20:01.97,0:20:03.53,Gen_Main,Shion,0,0,0,,¿No se trataba de eso…?
+Dialogue: 0,0:20:04.18,0:20:07.01,Gen_Main,Nurugai,0,0,0,,Cuando huíamos\Ny me llevabas a cuestas…
+Dialogue: 0,0:20:07.55,0:20:08.83,Gen_Main,Nurugai,0,0,0,,yo lo vi.
+Dialogue: 0,0:20:09.40,0:20:12.65,Gen_Main,Nurugai,0,0,0,,Él estaba sonriendo.
+Dialogue: 0,0:20:13.23,0:20:15.65,Gen_Main,Nurugai,0,0,0,,Nos miró alejarnos y sonrió.
+Dialogue: 0,0:20:16.65,0:20:20.53,Gen_Main,Nurugai,0,0,0,,Tú no lo viste y estuviste sufriendo\Ntodo este tiempo, ¿verdad?
+Dialogue: 0,0:20:21.03,0:20:23.95,Gen_Main,Nurugai,0,0,0,,Fue por llevarme a mí. Lo siento.
+Dialogue: 0,0:20:24.95,0:20:26.88,Gen_Main,Nurugai,0,0,0,,Tenía una sonrisa hermosa…
+Dialogue: 0,0:20:27.50,0:20:31.42,Gen_Main,Nurugai,0,0,0,,Fue muy triste,\Npero se veía increíble.
+Dialogue: 0,0:20:32.84,0:20:36.92,Gen_Main,Nurugai,0,0,0,,Por eso te equivocas\Ncon lo del arrepentimiento.
+Dialogue: 0,0:20:43.97,0:20:50.69,Gen_Main,Nurugai,0,0,0,,Solo pensábamos en vengarnos\Ny casi no hablamos sobre Tenza.
+Dialogue: 0,0:20:51.65,0:20:56.19,Gen_Main,Nurugai,0,0,0,,Cuéntame sobre él.\NQuiero saber más de él.
+Dialogue: 0,0:20:57.24,0:20:59.25,Gen_Main,Nurugai,0,0,0,,Hablemos de él a partir de ahora.
+Dialogue: 0,0:20:59.70,0:21:02.78,Gen_Main,Nurugai,0,0,0,,Una vez que salgamos vivos de aquí.
+Dialogue: 0,0:21:24.97,0:21:26.47,Gen_Main,Shion,0,0,0,,Tienes razón.
+Dialogue: 0,0:21:26.72,0:21:29.38,Gen_Main,Shion,0,0,0,,Ya terminemos con esto.
+Dialogue: 0,0:21:29.77,0:21:31.73,Gen_Main,Shion,0,0,0,,No lo perseguiremos más.
+Dialogue: 0,0:21:33.19,0:21:35.03,Gen_Main,Shion,0,0,0,,Regresemos con los demás.
+Dialogue: 0,0:21:37.65,0:21:38.98,Gen_Main,Nurugai,0,0,0,,¡Sí!
+Dialogue: 0,0:21:39.99,0:21:42.43,Gen_Main,Shion,0,0,0,,Gracias, Nurugai.
+Dialogue: 0,0:21:42.82,0:21:45.99,Gen_Main,Shion,0,0,0,,Me salvaste la vida.
+Dialogue: 0,0:21:54.00,0:21:56.88,Gen_Main,Shion,0,0,0,,Soy yo quien debería llamarte "maestro".
+Dialogue: 0,0:21:57.59,0:21:59.26,Gen_Main,Shion,0,0,0,,Me abriste los ojos.
+Dialogue: 0,0:22:00.30,0:22:02.05,Gen_Main,Shion,0,0,0,,Supongo que no puedes oírme.
+Dialogue: 0,0:22:10.02,0:22:13.15,Gen_Main,Gui Fa,0,0,0,,¿Derrotaron a Zhu Jin?
+Dialogue: 0,0:22:13.77,0:22:16.77,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H2E8FA6&\c&H1F1C84&\fry-16.01\frx-13.45\frz18.83\fax0.52\be1\fscx127\fscy127\move(468,282,468,232,20,2982)}Shion
+Dialogue: 0,0:22:13.77,0:22:16.77,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H22637C&\c&H161670&\fry-0.88\frx14.96\frz15.49\fax0.24\be1\move(161,192,161,144,20,2982)}Nurugai
+Dialogue: 0,0:22:17.52,0:22:19.20,Gen_Main Italics,Sagiri,0,0,0,,Don Shion…
+Dialogue: 0,0:22:19.53,0:22:21.53,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H3DACC0&\c&H1E1DA6&\t(\fscx105\fscy105)\fs40\be1\fry1.33\frx7.66\frz22.89\fax0.48\clip(m 163 272 l 595 93 759 231 323 436)\move(509,156,515,154,16,1976)}Shion
+Dialogue: 0,0:22:23.28,0:22:25.63,Gen_Main,Sagiri,0,0,0,,¿No podrían reconsiderarlo?
+Dialogue: 0,0:22:25.99,0:22:30.25,Gen_Main,Sagiri,0,0,0,,Si seguimos así, lo único que haremos\Nserá perder a nuestros seres queridos.
+Dialogue: 0,0:22:30.33,0:22:33.38,Gen_Main,Sagiri,0,0,0,,Y eso sería demasiado triste.
+Dialogue: 0,0:22:35.50,0:22:36.90,Gen_Main,Sagiri,0,0,0,,Se lo ruego…
+Dialogue: 0,0:22:46.55,0:22:49.56,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H46B8D3&\c&H201FA8&\org(1289.6,385.5)\fry-1.28\frx16.5\frz-3.19\clip(m 316 99 l 555 104 333 318 40 303)\pos(-13,307)\fscx257\fscy186\be1}Gabimaru
+Dialogue: 0,0:22:50.56,0:22:55.06,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H40B5CB&\c&H1D19A5&\be1\org(682.4,851.8)\fry2.2\frx9.06\frz53.92\fax0.01\pos(1176,-59)\fscx301\fscy301}Gabimaru
+Dialogue: 0,0:24:20.73,0:24:25.03,Cart_A_Tre,CARTEL,0,0,0,,{\an8\fad(500,0)\fs18\bord1}Traducción: Gekokujou\NPautado: Thomas Benaissa\NEdición: Álvaro Jimeno\NControl de calidad: Nicolás Sepúlveda

@@ -1,0 +1,363 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:16.81,0:00:21.02,Gen_Italics,Gantetsusai,0000,0000,0000,,Denominado "El Dragón de la Espada"\No también "el Inigualable de Japón",
+Dialogue: 0,0:00:21.33,0:00:24.70,Gen_Italics,Gantetsusai,0000,0000,0000,,cuando ya no encontraba alguien\Nmás fuerte que yo,
+Dialogue: 0,0:00:26.42,0:00:30.47,Gen_Italics,Gantetsusai,0000,0000,0000,,recibí la petición de servir\Nal señor feudal Tatsumi no-sé-qué.
+Dialogue: 0,0:00:31.96,0:00:34.66,Gen_Italics,Gantetsusai,0000,0000,0000,,Era un presumido\Ncuyo mayor orgullo era su mansión.
+Dialogue: 0,0:00:35.17,0:00:39.33,Gen_Italics,Gantetsusai,0000,0000,0000,,Acepté para ganarme el sustento y porque\Nlos dos teníamos "dragón" en el nombre.
+Dialogue: 0,0:00:40.35,0:00:43.67,Gen_Main,Tatsumi,0000,0000,0000,,Me encanta tu forma de beber tan épica.
+Dialogue: 0,0:00:43.87,0:00:45.76,Gen_Main,Tatsumi,0000,0000,0000,,Te felicito. Eres espléndido.
+Dialogue: 0,0:00:47.88,0:00:50.83,Gen_Main,Tatsumi,0000,0000,0000,,Sin embargo, don Gantetsusai Tamiya…
+Dialogue: 0,0:00:51.03,0:00:53.31,Gen_Main,Tatsumi,0000,0000,0000,,Te llamarán el Dragón de la Espada,
+Dialogue: 0,0:00:53.63,0:00:56.43,Gen_Main,Tatsumi,0000,0000,0000,,pero dudo que puedas cortar\Na un dragón de verdad.
+Dialogue: 0,0:00:59.97,0:01:01.94,Gen_Italics,Gantetsusai,0000,0000,0000,,De modo que me enfade y los corté,
+Dialogue: 0,0:01:02.15,0:01:06.68,Gen_Italics,Gantetsusai,0000,0000,0000,,tanto al dragón en la puerta\Ncomo la audacia de ese dragón cobarde.
+Dialogue: 0,0:01:08.26,0:01:11.55,Gen_Main,Fuchi,0000,0000,0000,,Cuánta violencia innecesaria.\NNo soy capaz de comprenderlo.
+Dialogue: 0,0:01:12.76,0:01:14.19,Gen_Main,Gantetsusai,0000,0000,0000,,Estoy de acuerdo contigo.
+Dialogue: 0,0:01:14.55,0:01:17.80,Gen_Main,Gantetsusai,0000,0000,0000,,Por aquello, me exiliaron del feudo\Ny me condenaron a muerte.
+Dialogue: 0,0:01:18.00,0:01:20.04,Gen_Main,Gantetsusai,0000,0000,0000,,Aunque no me arrepiento, ¿sabes?
+Dialogue: 0,0:01:20.51,0:01:23.41,Gen_Main,Gantetsusai,0000,0000,0000,,Mientras consiga el perdón,\Nse borrarán mis crímenes.
+Dialogue: 0,0:01:23.61,0:01:25.71,Gen_Main,Gantetsusai,0000,0000,0000,,Podré pulir mi kenjutsu a mis anchas.
+Dialogue: 0,0:01:26.23,0:01:28.72,Gen_Main,Gantetsusai,0000,0000,0000,,La próxima vez,\Npartiré su mansión en dos.
+Dialogue: 0,0:01:29.76,0:01:31.93,Gen_Main,Fuchi,0000,0000,0000,,Sí, eres incomprensible para mí.
+Dialogue: 0,0:01:32.28,0:01:35.35,Gen_Main,Gantetsusai,0000,0000,0000,,Pues, si me lo preguntas,\Nlos incomprensibles son ustedes.
+Dialogue: 0,0:01:35.91,0:01:39.06,Gen_Main,Gantetsusai,0000,0000,0000,,Lo que llevas ahí son\Nherramientas para diseccionar, ¿no?
+Dialogue: 0,0:01:39.53,0:01:41.27,Gen_Main,Gantetsusai,0000,0000,0000,,Qué tipo tan macabro.
+Dialogue: 0,0:01:41.68,0:01:45.60,Gen_Main,Gantetsusai,0000,0000,0000,,¿Sabe buena la comida que ganan con\Nla muerte de condenados, Sabe-qué-emon?
+Dialogue: 0,0:01:46.52,0:01:50.35,Gen_Main,Fuchi,0000,0000,0000,,Es Asaemon.\NMe llamo Fuchi Yamada Asaemon.
+Dialogue: 0,0:01:48.67,0:01:51.01,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(188,0)\be3\an9\c&H000000&\3c&HF3F3F3&\fs23\pos(617,155)}Fuchi Yamada Asaemon\N{\fs16}Rango 9.º en la escuela\Nde Prueba de un Solo Corte
+Dialogue: 0,0:01:51.32,0:01:53.80,Gen_Main,Fuchi,0000,0000,0000,,El negocio de los Yamada\Nno solo es decapitar.
+Dialogue: 0,0:01:54.00,0:01:59.67,Gen_Main,Fuchi,0000,0000,0000,,Catamos espadas y fabricamos medicina.\NServimos a la sociedad, más que tú.
+Dialogue: 0,0:02:00.48,0:02:02.14,Gen_Main,Fuchi,0000,0000,0000,,Además, diseccionar cadáveres…
+Dialogue: 0,0:02:02.31,0:02:07.14,Gen_Main,Fuchi,0000,0000,0000,,… es una vocación sublime que ayuda\Nal avance y desarrollo de la medicina.
+Dialogue: 0,0:02:13.85,0:02:15.83,Gen_Main,Fuchi,0000,0000,0000,,No toleraré tus insultos.
+Dialogue: 0,0:02:20.01,0:02:21.52,Gen_Main,Gantetsusai,0000,0000,0000,,Bueno, sí, como sea.
+Dialogue: 0,0:02:21.72,0:02:23.83,Gen_Main,Gantetsusai/Fuchi,0000,0000,0000,,-No me vayas a estorbar, ¿sí?\N-Oye.
+Dialogue: 0,0:02:27.03,0:02:28.57,Gen_Main,Fuchi,0000,0000,0000,,¿Tienes alguna pista?
+Dialogue: 0,0:02:29.22,0:02:30.84,Gen_Main,Gantetsusai,0000,0000,0000,,¿Acaso no es obvio?
+Dialogue: 0,0:02:31.04,0:02:33.82,Gen_Main,Gantetsusai,0000,0000,0000,,Iré a acabar\Ncon los competidores más fuertes.
+Dialogue: 0,0:02:34.68,0:02:38.27,Gen_Main,Gantetsusai,0000,0000,0000,,Buscar el elixir de la vida después\Nserá mucho más eficiente.
+Dialogue: 0,0:02:38.47,0:02:41.07,Gen_Main,Gantetsusai,0000,0000,0000,,Lo mejor,\Nblandiré la espada todo lo que quiera.
+Dialogue: 0,0:02:41.78,0:02:47.12,Gen_Main,Gantetsusai,0000,0000,0000,,Pensaba que ya no sería partícipe\N de duelos que me emocionaran tanto.
+Dialogue: 0,0:02:49.00,0:02:50.63,Gen_Italics,Fuchi,0000,0000,0000,,Tiene algo de razón.
+Dialogue: 0,0:02:51.43,0:02:54.11,Gen_Italics,Fuchi,0000,0000,0000,,La misión es como la brujería\Nde bichos ponzoñosos.
+Dialogue: 0,0:02:54.28,0:02:57.81,Gen_Italics,Fuchi,0000,0000,0000,,Cuanto más pasa el tiempo, la alimaña\Ncon el peor veneno queda viva.
+Dialogue: 0,0:02:58.48,0:03:01.40,Gen_Italics,Fuchi,0000,0000,0000,,Pero me pregunto\Nsi concluirá tan limpiamente.
+Dialogue: 0,0:03:01.79,0:03:04.14,Gen_Italics,Fuchi,0000,0000,0000,,Todavía faltan más alimañas venenosas.
+Dialogue: 0,0:03:04.73,0:03:08.81,Gen_Italics,Fuchi,0000,0000,0000,,Si el shogunato se impacienta,\Nmandarán al próximo bicho de seguro.
+Dialogue: 0,0:03:09.01,0:03:12.82,Gen_Italics,Fuchi,0000,0000,0000,,Un bicho con un veneno\Nmás poderoso y tóxico.
+Dialogue: 0,0:03:33.65,0:03:35.18,Gen_Main,Gantetsusai,0000,0000,0000,,Interesante…
+Dialogue: 0,0:03:47.40,0:03:48.71,Gen_Main,Gabimaru,0000,0000,0000,,Hazte a un lado.
+Dialogue: 0,0:04:04.41,0:04:08.42,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:05:19.47,0:05:26.47,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(800,1000)\an6\bord0\b0\c&HFEFFFE&\pos(599.333,293.667)}El paraíso y el infierno
+Dialogue: 0,0:05:22.31,0:05:24.87,Gen_Italics,Gabimaru,0000,0000,0000,,¿Qué es esta cosa? ¿Un pez?
+Dialogue: 0,0:05:25.15,0:05:29.04,Gen_Italics,Gabimaru,0000,0000,0000,,Lleva rosarios budistas consigo,\Npero ¿es un monstruo? ¿Un animal?
+Dialogue: 0,0:05:29.24,0:05:32.28,Gen_Italics,Gabimaru,0000,0000,0000,,Qué apariencia tan irreal y absurda.
+Dialogue: 0,0:05:32.48,0:05:34.47,Gen_Italics,Gabimaru,0000,0000,0000,,Hay muchas cosas que no comprendo.
+Dialogue: 0,0:05:35.00,0:05:38.88,Gen_Italics,Gabimaru,0000,0000,0000,,Pero el instinto me grita\Nque toda la isla es peligrosa.
+Dialogue: 0,0:05:40.11,0:05:41.51,Gen_Italics,Gabimaru,0000,0000,0000,,Ah, qué fastidio.
+Dialogue: 0,0:05:52.73,0:05:53.84,Gen_Main,Sagiri,0000,0000,0000,,Gabimaru…
+Dialogue: 0,0:05:57.12,0:05:58.77,Gen_Main,Gabimaru,0000,0000,0000,,Dije que te hicieras a un lado.
+Dialogue: 0,0:05:58.97,0:06:00.03,Gen_Main,Sagiri,0000,0000,0000,,Sí.
+Dialogue: 0,0:06:00.61,0:06:02.86,Gen_Italics,Gabimaru,0000,0000,0000,,Es un ser vivo, sin duda.
+Dialogue: 0,0:06:03.94,0:06:07.10,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Quinta regla inviolable de los shinobi:
+Dialogue: 0,0:06:07.30,0:06:11.62,Gen_Main,Jefe Iwagakure,0000,0000,0000,,no debes enfrentarte a un oponente\Ncuya naturaleza desconozcas.
+Dialogue: 0,0:06:13.92,0:06:15.38,Gen_Italics,Gabimaru,0000,0000,0000,,¿Será mejor huir?
+Dialogue: 0,0:06:16.57,0:06:19.11,Gen_Italics,Gabimaru,0000,0000,0000,,¿Junto con ella? ¿O yo solo?
+Dialogue: 0,0:06:31.52,0:06:34.06,Gen_Main,Sagiri,0000,0000,0000,,Gabimaru, ¿estás bien?
+Dialogue: 0,0:06:34.81,0:06:36.65,Gen_Italics,Gabimaru,0000,0000,0000,,Este lugar es peligroso.
+Dialogue: 0,0:06:37.68,0:06:41.15,Gen_Main,Sagiri,0000,0000,0000,,También puedes salir tan lastimado, ¿eh?\NNo, quiero decir…
+Dialogue: 0,0:06:41.62,0:06:42.78,Gen_Main,Gabimaru,0000,0000,0000,,Primero hay que huir.
+Dialogue: 0,0:06:52.26,0:06:53.55,Gen_Italics,Sagiri,0000,0000,0000,,¿Qué son esas cosas?
+Dialogue: 0,0:06:54.84,0:06:56.16,Gen_Italics,Sagiri,0000,0000,0000,,Están sonriendo.
+Dialogue: 0,0:06:56.36,0:06:58.67,Gen_Italics,Sagiri,0000,0000,0000,,¿Acaso son dioses verdaderos?
+Dialogue: 0,0:07:00.00,0:07:03.74,Gen_Italics,Sagiri,0000,0000,0000,,Tranquilízate. Piensa con sangre fría.\NNo pierdas la calma.
+Dialogue: 0,0:07:04.15,0:07:05.56,Gen_Main,Sagiri,0000,0000,0000,,Nos han rodeado.
+Dialogue: 0,0:07:10.08,0:07:13.42,Gen_Italics,Gabimaru,0000,0000,0000,,Suficiente.\NYa no pensaré en cosas irrelevantes.
+Dialogue: 0,0:07:15.65,0:07:16.85,Gen_Main,Sagiri,0000,0000,0000,,¡Gabimaru!
+Dialogue: 0,0:07:21.03,0:07:22.78,Gen_Main,Gabimaru,0000,0000,0000,,Ninjutsu Hombre de Fuego.
+Dialogue: 0,0:07:30.49,0:07:31.96,Gen_Italics,Gabimaru,0000,0000,0000,,Ahora no pienses en nada.
+Dialogue: 0,0:07:37.01,0:07:38.24,Gen_Italics,Gabimaru,0000,0000,0000,,Solo mata.
+Dialogue: 0,0:07:40.99,0:07:42.40,Gen_Italics,Gabimaru,0000,0000,0000,,Para sobrevivir.
+Dialogue: 0,0:07:43.04,0:07:47.04,Gen_Italics,Gabimaru,0000,0000,0000,,Para obtener el perdón\Ny escapar del sangriento bajo mundo.
+Dialogue: 0,0:07:47.82,0:07:49.14,Gen_Italics,Gabimaru,0000,0000,0000,,Solo mata.
+Dialogue: 0,0:07:50.64,0:07:53.54,Gen_Italics,Sagiri,0000,0000,0000,,Era consciente\Nde que era una misión peligrosa.
+Dialogue: 0,0:07:54.92,0:07:57.27,Gen_Italics,Sagiri,0000,0000,0000,,Pero fue mucho más.
+Dialogue: 0,0:07:57.97,0:08:02.54,Gen_Italics,Sagiri,0000,0000,0000,,Al cabo de unas pocas horas de llegar,\Ntodo se intensificó de repente.
+Dialogue: 0,0:08:09.40,0:08:11.76,Gen_Italics,Sagiri,0000,0000,0000,,No parece una escena\Ndel mundo de los vivos.
+Dialogue: 0,0:08:12.93,0:08:16.36,Gen_Main,Sagiri,0000,0000,0000,,¿Acaso este es el Paraíso Terrenal?\N¿O acaso es…?
+Dialogue: 0,0:08:30.48,0:08:32.39,Gen_Italics,Gabimaru,0000,0000,0000,,No te preocupes de nimiedades.
+Dialogue: 0,0:08:33.06,0:08:34.91,Gen_Main,Sagiri,0000,0000,0000,,Eso no es ninguna debilidad.
+Dialogue: 0,0:08:35.72,0:08:37.64,Gen_Italics,Gabimaru,0000,0000,0000,,Solo derrota al enemigo…
+Dialogue: 0,0:08:37.84,0:08:40.65,Gen_Italics,Yui,0000,0000,0000,,Obedecer a tus sentimientos\Nes el verdadero valor.
+Dialogue: 0,0:08:40.85,0:08:42.05,Gen_Italics,Gabimaru,0000,0000,0000,,… delante de ti.
+Dialogue: 0,0:08:53.37,0:08:55.90,Gen_Main,Sagiri,0000,0000,0000,,Este, Gabimaru…
+Dialogue: 0,0:08:57.16,0:08:58.32,Gen_Main,Sagiri,0000,0000,0000,,Te lo agradezco…
+Dialogue: 0,0:09:02.75,0:09:06.20,Gen_Main,Yuzuriha,0000,0000,0000,,¡Impresionante!\N¿Todo esto lo hiciste tú solo?
+Dialogue: 0,0:09:06.40,0:09:09.07,Gen_Main,Yuzuriha,0000,0000,0000,,¡Era de esperarse del gran Vacío!\N¡Fenomenal!
+Dialogue: 0,0:09:09.27,0:09:12.41,Gen_Main,Yuzuriha,0000,0000,0000,,¿O sea que utilizaste esto y aquello?\N¡Extraordinario!
+Dialogue: 0,0:09:12.61,0:09:16.03,Gen_Main,Yuzuriha,0000,0000,0000,,Me llamo Yuzuriha, soy una ninja como tú.
+Dialogue: 0,0:09:16.23,0:09:17.89,Gen_Main,Yuzuriha,0000,0000,0000,,Somos compañeros de gremio.
+Dialogue: 0,0:09:18.34,0:09:20.38,Gen_Main,Sagiri,0000,0000,0000,,¿Dos verdugos?
+Dialogue: 0,0:09:20.58,0:09:22.03,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué se proponen?
+Dialogue: 0,0:09:22.82,0:09:26.92,Gen_Main,Yui,0000,0000,0000,,Si alguien te ayuda,\Ndebes darles las gracias.
+Dialogue: 0,0:09:29.55,0:09:32.53,Gen_Main,Gabimaru,0000,0000,0000,,Gracias por ayudarme.
+Dialogue: 0,0:09:33.87,0:09:36.13,Gen_Main,Gabimaru,0000,0000,0000,,Entonces, ¿qué se proponen?
+Dialogue: 0,0:09:36.33,0:09:40.12,Gen_Main,Gabimaru,0000,0000,0000,,Competimos por lo mismo.\NNo tenemos obligación de ayudarnos.
+Dialogue: 0,0:09:41.92,0:09:44.15,Gen_Main,Yuzuriha,0000,0000,0000,,No te pongas tan tenso, ¿quieres?
+Dialogue: 0,0:09:44.35,0:09:46.42,Gen_Main,Yuzuriha,0000,0000,0000,,Ya no hay monstruos por aquí, ¿cierto?
+Dialogue: 0,0:09:46.59,0:09:48.80,Gen_Main,Yuzuriha,0000,0000,0000,,Intuyo que puedo apoyarme en ti, Gabi.
+Dialogue: 0,0:09:49.00,0:09:51.49,Gen_Main,Yuzuriha,0000,0000,0000,,Estás de pie como si nada\Na pesar del sangrado.
+Dialogue: 0,0:09:51.69,0:09:54.30,Gen_Main,Yuzuriha,0000,0000,0000,,Hace un momento,\Nsalvaste a esa chica, ¿no?
+Dialogue: 0,0:09:58.08,0:09:59.31,Gen_Main,Yuzuriha,0000,0000,0000,,Escúchame.
+Dialogue: 0,0:09:59.79,0:10:01.56,Gen_Main,Yuzuriha,0000,0000,0000,,¿No quieres ser mi compañero?
+Dialogue: 0,0:10:01.94,0:10:06.07,Gen_Main,Yuzuriha,0000,0000,0000,,No pensé que sería un sitio\Ntan peligroso. Tengo mucho miedo.
+Dialogue: 0,0:10:06.95,0:10:10.32,Gen_Main,Yuzuriha,0000,0000,0000,,Haré todo lo que tú digas.\NCuida de mí, por favor…
+Dialogue: 0,0:10:12.90,0:10:14.56,Gen_Main,Yuzuriha,0000,0000,0000,,Oye, me duele.
+Dialogue: 0,0:10:14.88,0:10:18.09,Gen_Main,Yuzuriha,0000,0000,0000,,¡Te digo que me duele mucho!\N¡¿Qué rayos haces?!
+Dialogue: 0,0:10:18.29,0:10:21.71,Gen_Main,Gabimaru,0000,0000,0000,,No lograrás seducirme.\NSé muy bien cómo trabajan las kunoichi.
+Dialogue: 0,0:10:23.06,0:10:27.71,Gen_Main,Yuzuriha,0000,0000,0000,,Sí, claro. Me lo suponía.\NNo me culpes por intentarlo.
+Dialogue: 0,0:10:27.91,0:10:30.74,Gen_Main,Yuzuriha,0000,0000,0000,,Es mejor tratar y arrepentirse\Nque no hacer nada.
+Dialogue: 0,0:10:31.45,0:10:34.23,Gen_Main,Yuzuriha,0000,0000,0000,,Pero la propuesta de la alianza\Nva en serio, ¿eh?
+Dialogue: 0,0:10:34.43,0:10:36.93,Gen_Main,Yuzuriha,0000,0000,0000,,Es más seguro un grupo de cinco\Nque solo tres.
+Dialogue: 0,0:10:37.13,0:10:38.97,Gen_Main,Sagiri,0000,0000,0000,,Espera un momento.
+Dialogue: 0,0:10:39.17,0:10:41.35,Gen_Main,Sagiri,0000,0000,0000,,Primeramente, ¿por qué hay dos Asaemon?
+Dialogue: 0,0:10:41.81,0:10:44.11,Gen_Main,Yuzuriha,0000,0000,0000,,En su caso, este…
+Dialogue: 0,0:10:44.45,0:10:46.52,Gen_Main,Genji,0000,0000,0000,,Me llamo Genji Yamada Asaemon.
+Dialogue: 0,0:10:44.46,0:10:47.46,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(188,188)\be3\an9\c&H000000&\3c&HF3F3F3&\fs23\pos(613,175)}Genji Yamada Asaemon\N{\fs16}Rango 8.º en la escuela\Nde Prueba de un Solo Corte
+Dialogue: 0,0:10:46.72,0:10:50.74,Gen_Main,Genji,0000,0000,0000,,Primero estaba asignado a Makiya Moro,\Nel misionero caído.
+Dialogue: 0,0:10:51.17,0:10:54.24,Gen_Main,Genji,0000,0000,0000,,Esta mujer engatusó a Makiya,\Ny eso fue su perdición.
+Dialogue: 0,0:10:54.60,0:10:56.89,Gen_Main,Genji,0000,0000,0000,,Usa métodos cobardes sin nada de honor.
+Dialogue: 0,0:10:57.09,0:11:01.00,Gen_Main,Genji,0000,0000,0000,,Juzgué que un solo verdugo\Nera insuficiente para controlarla.
+Dialogue: 0,0:11:01.27,0:11:03.62,Gen_Main,Genji,0000,0000,0000,,Y decidí unirme a ellos dos.
+Dialogue: 0,0:11:05.39,0:11:06.73,Gen_Italics,Gabimaru,0000,0000,0000,,Me suena a que lo sedujo.
+Dialogue: 0,0:11:06.93,0:11:08.22,Gen_Italics,Sagiri,0000,0000,0000,,Lo entiendo muy bien.
+Dialogue: 0,0:11:08.42,0:11:11.75,Gen_Italics,Sagiri,0000,0000,0000,,La debilidad de don Genji\Nson las mujeres. Cayó en sus redes.
+Dialogue: 0,0:11:14.50,0:11:18.81,Gen_Main,Senta,0000,0000,0000,,Y yo soy su encargado original,\NSenta Yamada Asaemon.
+Dialogue: 0,0:11:18.91,0:11:19.37,Cart_A_Tim,CARTEL,0000,0000,0000,,{\fad(188,0)\be3\an9\c&H000000&\3c&HF3F3F3&\fs27\pos(617,85)\iclip(621,4,629,351)\t(59,351,\iclip(350,4,629,351))}Senta Yamada Asaemon\N{\fs19}Rango 5.º en la escuela\Nde Prueba de un Solo Corte
+Dialogue: 0,0:11:19.01,0:11:22.76,Gen_Main,Yuzuriha,0000,0000,0000,,Ya saben.\NEn el camino hacia acá,
+Dialogue: 0,0:11:22.96,0:11:25.99,Gen_Main,Yuzuriha,0000,0000,0000,,bichos horripilantes,\Nmonstruos y estatuas nos atacaron.
+Dialogue: 0,0:11:26.19,0:11:28.77,Gen_Main,Yuzuriha,0000,0000,0000,,Era obvio que las circunstancias\Nson las peores.
+Dialogue: 0,0:11:29.01,0:11:31.82,Gen_Main,Yuzuriha,0000,0000,0000,,Es importante encontrar pronto\Nel elixir de la vida,
+Dialogue: 0,0:11:31.99,0:11:35.28,Gen_Main,Yuzuriha,0000,0000,0000,,pero es inútil correr sin un plan\Npor la isla para luego morir.
+Dialogue: 0,0:11:35.71,0:11:38.25,Gen_Main,Gabimaru,0000,0000,0000,,Tú fuiste la que me llamó\Nuna decepción, ¿no?
+Dialogue: 0,0:11:38.45,0:11:41.38,Gen_Main,Yuzuriha,0000,0000,0000,,¿Qué? No me acuerdo.
+Dialogue: 0,0:11:41.85,0:11:46.15,Gen_Main,Sagiri,0000,0000,0000,,Pues, si los dos están de acuerdo,\Npueden ayudarse si quieren.
+Dialogue: 0,0:11:46.35,0:11:48.79,Gen_Main,Yuzuriha,0000,0000,0000,,¡Qué bien! ¡Te amo, Gabimaru!
+Dialogue: 0,0:11:48.99,0:11:51.18,Gen_Main,Yuzuriha,0000,0000,0000,,¡Ay, ay, ay! ¡¿Qué te pasa?!
+Dialogue: 0,0:11:51.35,0:11:54.30,Gen_Main,Gabimaru,0000,0000,0000,,Aún no he dicho que sí.\N¿Cómo voy a confiar en una ninja?
+Dialogue: 0,0:11:55.68,0:11:59.43,Gen_Main,Yuzuriha,0000,0000,0000,,¿"Confianza"? No digas tonterías.\NNi que fuéramos niños.
+Dialogue: 0,0:12:03.65,0:12:05.88,Gen_Main,Yuzuriha,0000,0000,0000,,Podemos traicionarnos cuando queramos.
+Dialogue: 0,0:12:06.52,0:12:10.35,Gen_Main,Yuzuriha,0000,0000,0000,,Aunque encontremos el elixir,\Nsolo uno podrá obtener el perdón, ¿no?
+Dialogue: 0,0:12:10.55,0:12:13.40,Gen_Main,Yuzuriha,0000,0000,0000,,Propongo que nos utilicemos\Nhasta el último minuto.
+Dialogue: 0,0:12:13.78,0:12:18.27,Gen_Main,Yuzuriha,0000,0000,0000,,¿O acaso te doy miedo?\NEres más verde de lo que creía.
+Dialogue: 0,0:12:21.33,0:12:25.21,Gen_Main,Yuzuriha,0000,0000,0000,,Por favor, Gabi,\Nayuda a una débil damisela en apuros.
+Dialogue: 0,0:12:25.41,0:12:27.23,Gen_Main,Gabimaru,0000,0000,0000,,Eso es una pérdida de tiempo.
+Dialogue: 0,0:12:27.43,0:12:28.58,Gen_Main,Yuzuriha,0000,0000,0000,,Ah, ¿sí?
+Dialogue: 0,0:12:29.33,0:12:31.33,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué ganaríamos con esta alianza?
+Dialogue: 0,0:12:32.28,0:12:35.84,Gen_Main,Yuzuriha,0000,0000,0000,,Mientras tú me aportas fuerza marcial,\Nyo te puedo dar información.
+Dialogue: 0,0:12:36.26,0:12:40.43,Gen_Main,Yuzuriha,0000,0000,0000,,Por ejemplo, parece que ustedes\Nse están cuidando de los monstruos.
+Dialogue: 0,0:12:40.63,0:12:43.47,Gen_Main,Yuzuriha,0000,0000,0000,,Pero lo más peligroso aquí\Nson los bichos.
+Dialogue: 0,0:12:43.77,0:12:45.37,Gen_Main,Yuzuriha,0000,0000,0000,,La mariposa con rostro humano…
+Dialogue: 0,0:12:45.57,0:12:49.48,Gen_Main,Yuzuriha,0000,0000,0000,,Revolotean cerca de los monstruos,\Npero no sé dónde anidan ni sus hábitos.
+Dialogue: 0,0:12:49.91,0:12:53.26,Gen_Main,Yuzuriha,0000,0000,0000,,El polvo de sus alas posee\Npropiedades venenosas y alucinógenas.
+Dialogue: 0,0:12:53.46,0:12:55.49,Gen_Main,Gabimaru,0000,0000,0000,,¿Cómo sabes eso?
+Dialogue: 0,0:12:58.19,0:12:59.66,Gen_Main,Yuzuriha,0000,0000,0000,,Gracias a Makiya Moro.
+Dialogue: 0,0:12:59.91,0:13:04.20,Gen_Main,Yuzuriha,0000,0000,0000,,Lo engatusé para que confiara en mí,\Ny luego lo probé en él.
+Dialogue: 0,0:13:04.40,0:13:08.77,Gen_Main,Yuzuriha,0000,0000,0000,,Los ciempiés son asquerosos, pero\Nse pueden ignorar porque son carroñeros.
+Dialogue: 0,0:13:08.97,0:13:10.39,Gen_Main,Gabimaru,0000,0000,0000,,¿Cómo lo sabes?
+Dialogue: 0,0:13:10.59,0:13:12.34,Gen_Main,Yuzuriha,0000,0000,0000,,Lo probé con Makiya.
+Dialogue: 0,0:13:12.54,0:13:16.71,Gen_Main,Yuzuriha,0000,0000,0000,,Hay otras alimañas,\Npero no atacan a menos que te acerques.
+Dialogue: 0,0:13:16.91,0:13:18.40,Gen_Main,Yuzuriha,0000,0000,0000,,Lo comprobé con Makiya.
+Dialogue: 0,0:13:18.60,0:13:20.34,Gen_Main,Gabimaru,0000,0000,0000,,¿Y qué fue de ese sujeto?
+Dialogue: 0,0:13:20.74,0:13:23.85,Gen_Main,Yuzuriha,0000,0000,0000,,Me hice la muerta para que\Nbajara la guardia y acabé con él.
+Dialogue: 0,0:13:24.07,0:13:28.32,Gen_Main,Senta,0000,0000,0000,,La mayoría de lo que llevan consigo\Nlos monstruos tiene motivos religiosos,
+Dialogue: 0,0:13:28.52,0:13:31.60,Gen_Main,Senta,0000,0000,0000,,de origen budista o taoísta.
+Dialogue: 0,0:13:31.80,0:13:37.11,Gen_Main,Senta,0000,0000,0000,,El budismo y el taoísmo son religiones\Ndiferentes. No es natural mezclarlas.
+Dialogue: 0,0:13:37.31,0:13:39.45,Gen_Main,Senta,0000,0000,0000,,Las estatuas budistas son espeluznantes.
+Dialogue: 0,0:13:39.62,0:13:43.87,Gen_Main,Senta,0000,0000,0000,,No creo que la isla sea el Paraíso\NTerrenal en el sentido que conocemos.
+Dialogue: 0,0:13:44.07,0:13:45.42,Gen_Main,Sagiri,0000,0000,0000,,Estoy de acuerdo.
+Dialogue: 0,0:13:46.23,0:13:48.56,Gen_Main,Sagiri,0000,0000,0000,,Es muy fácil describirlos como divinos,
+Dialogue: 0,0:13:48.76,0:13:53.51,Gen_Main,Sagiri,0000,0000,0000,,pero el organismo y el tacto del músculo\Na través de la espada es de un ser vivo.
+Dialogue: 0,0:13:53.71,0:13:56.32,Gen_Main,Yuzuriha,0000,0000,0000,,¿Ya ves? Hay un montón\Nde cosas que desconocemos.
+Dialogue: 0,0:13:56.48,0:13:59.51,Gen_Main,Yuzuriha,0000,0000,0000,,La cooperación y la información\Nnos llevarán a la cabeza.
+Dialogue: 0,0:13:59.83,0:14:02.51,Gen_Main,Yuzuriha,0000,0000,0000,,Les diremos todo lo que sabemos.
+Dialogue: 0,0:14:03.43,0:14:05.64,Gen_Main,Gabimaru,0000,0000,0000,,¿Para qué nos revelas tanta información?
+Dialogue: 0,0:14:05.86,0:14:07.75,Gen_Main,Gabimaru,0000,0000,0000,,¿Tanto quieres sobrevivir?
+Dialogue: 0,0:14:09.83,0:14:12.40,Gen_Main,Yuzuriha,0000,0000,0000,,Tengo una hermanita\Nque es mi única familia.
+Dialogue: 0,0:14:13.16,0:14:16.96,Gen_Main,Yuzuriha,0000,0000,0000,,Sufre de una enfermedad incurable,\Npero no tenemos dinero para medicinas.
+Dialogue: 0,0:14:17.67,0:14:20.40,Gen_Main,Yuzuriha,0000,0000,0000,,Me volví una shinobi para ganar dinero.
+Dialogue: 0,0:14:20.75,0:14:23.45,Gen_Main,Yuzuriha,0000,0000,0000,,El clan Koga de Kasumidani\Nme entrenó duramente.
+Dialogue: 0,0:14:23.62,0:14:27.20,Gen_Main,Gabimaru,0000,0000,0000,,-Los ninjas de Koga viven en Mizoredani.\N-Ah, sí, justo ahí.
+Dialogue: 0,0:14:27.51,0:14:29.40,Gen_Main,Yuzuriha,0000,0000,0000,,Y luego, pues…
+Dialogue: 0,0:14:29.60,0:14:32.07,Gen_Main,Yuzuriha,0000,0000,0000,,El jefe de la aldea, pues…
+Dialogue: 0,0:14:32.27,0:14:34.54,Gen_Main,Yuzuriha,0000,0000,0000,,Me dijo algo así como\N"no debes hacer eso".
+Dialogue: 0,0:14:34.92,0:14:36.30,Gen_Main,Yuzuriha,0000,0000,0000,,Es decir, me traicionó.
+Dialogue: 0,0:14:36.50,0:14:38.71,Gen_Main,Gabimaru,0000,0000,0000,,Eh, suficiente con la sarta de mentiras.
+Dialogue: 0,0:14:38.91,0:14:41.07,Gen_Main,Yuzuriha,0000,0000,0000,,¿Me descubriste?
+Dialogue: 0,0:14:41.27,0:14:44.93,Gen_Main,Yuzuriha,0000,0000,0000,,¿Se necesita una razón\Npara querer sobrevivir?
+Dialogue: 0,0:14:45.37,0:14:48.31,Gen_Main,Yuzuriha,0000,0000,0000,,¿Es necesario cargar con un gran motivo?
+Dialogue: 0,0:14:48.77,0:14:50.94,Gen_Main,Yuzuriha,0000,0000,0000,,No poseo nada de eso.
+Dialogue: 0,0:14:51.14,0:14:54.24,Gen_Main,Yuzuriha,0000,0000,0000,,Tan solo quiero volver a casa con vida.\N¿Está mal eso?
+Dialogue: 0,0:14:54.44,0:14:56.94,Gen_Main,Yuzuriha,0000,0000,0000,,No quiero morir joven y bella.
+Dialogue: 0,0:14:57.24,0:14:58.44,Gen_Main,Yuzuriha,0000,0000,0000,,Eso es todo.
+Dialogue: 0,0:14:58.65,0:15:02.06,Gen_Main,Yuzuriha,0000,0000,0000,,Tal vez los honorables samuráis\Nno sean capaces de entenderlo.
+Dialogue: 0,0:15:02.26,0:15:05.70,Gen_Main,Yuzuriha,0000,0000,0000,,Ellos se juegan la vida\Nsolo por la gran voluntad del shogun.
+Dialogue: 0,0:15:05.95,0:15:08.58,Gen_Main,Yuzuriha,0000,0000,0000,,Son gente que no pone nada en duda.
+Dialogue: 0,0:15:09.39,0:15:12.39,Gen_Main,Gabimaru,0000,0000,0000,,Quiero hacerte otra pregunta.
+Dialogue: 0,0:15:13.69,0:15:17.75,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué le hiciste en verdad a ese hombre,\Nal tal Makiya Moro?
+Dialogue: 0,0:15:22.42,0:15:24.72,Gen_Main,Yuzuriha,0000,0000,0000,,No le hice nada realmente.
+Dialogue: 0,0:15:25.25,0:15:28.30,Gen_Main,Yuzuriha,0000,0000,0000,,¿Te importa la vida de un extraño?
+Dialogue: 0,0:15:28.99,0:15:31.26,Gen_Main,Yuzuriha,0000,0000,0000,,Así no durarás mucho tiempo vivo aquí.
+Dialogue: 0,0:15:33.62,0:15:34.94,Gen_Main,Gabimaru,0000,0000,0000,,Está bien. Acepto.
+Dialogue: 0,0:15:35.20,0:15:36.97,Gen_Main,Gabimaru,0000,0000,0000,,Yo también necesito información.
+Dialogue: 0,0:15:37.17,0:15:39.23,Gen_Main,Gabimaru,0000,0000,0000,,Acepto una alianza, no tanto colaborar.
+Dialogue: 0,0:15:39.40,0:15:41.57,Gen_Main,Yuzuriha,0000,0000,0000,,¡Viva! ¡Eres lo máximo, Gabi!
+Dialogue: 0,0:15:41.77,0:15:45.68,Gen_Main,Yuzuriha,0000,0000,0000,,¡Ay, ay, ay! ¡Solo me emocioné un poco!\N¡Ya déjame!
+Dialogue: 0,0:15:45.88,0:15:47.32,Gen_Main,Gabimaru,0000,0000,0000,,Estoy casado, ¿sabes?
+Dialogue: 0,0:15:47.56,0:15:49.14,Gen_Main,Senta,0000,0000,0000,,Entonces, les enseñaré más…
+Dialogue: 0,0:15:49.34,0:15:51.04,Gen_Main,Yuzuriha,0000,0000,0000,,No, no, no. Detente justo ahí.
+Dialogue: 0,0:15:51.24,0:15:54.33,Gen_Main,Yuzuriha,0000,0000,0000,,Ya somos socios.\NNo es necesario decirle más cosas.
+Dialogue: 0,0:15:54.60,0:15:57.53,Gen_Main,Yuzuriha,0000,0000,0000,,Acababas de decir que me lo dirías todo.
+Dialogue: 0,0:15:57.73,0:16:00.23,Gen_Main,Yuzuriha,0000,0000,0000,,Es broma. Te daré la información.
+Dialogue: 0,0:16:01.22,0:16:05.22,Gen_Italics,Sagiri,0000,0000,0000,,¿Qué he logrado yo después\Nde haber desembarcado en la isla?
+Dialogue: 0,0:16:06.55,0:16:10.02,Gen_Italics,Sagiri,0000,0000,0000,,Titubeé ante los monstruos\Ny las circunstancias me superaron.
+Dialogue: 0,0:16:10.83,0:16:14.79,Gen_Italics,Sagiri,0000,0000,0000,,¿De qué me han servido las habilidades\Ncon la espada que he pulido?
+Dialogue: 0,0:16:15.24,0:16:18.26,Gen_Italics,Sagiri,0000,0000,0000,,Soy una incompetente.
+Dialogue: 0,0:16:20.96,0:16:24.96,Cart_A_Tre,CARTEL,0000,0000,0000,,{\1c&H00000&\bord0\pos(420,180)\fs30\be.4}Hell's Paradise
+Dialogue: 0,0:16:26.19,0:16:28.24,Gen_Italics,Toma,0000,0000,0000,,La fuerza es adaptarse al cambio.
+Dialogue: 0,0:16:29.97,0:16:32.61,Gen_Main,Alumno A,0000,0000,0000,,Lo aceptaron como Asaemon\Nal mes de unirse al dojo.
+Dialogue: 0,0:16:32.78,0:16:34.37,Gen_Main,Eizen,0000,0000,0000,,Magnífico, Toma.
+Dialogue: 0,0:16:34.85,0:16:38.47,Gen_Main,Eizen,0000,0000,0000,,La última prueba es ejecutar\Na un condenado para ser un Asaemon.
+Dialogue: 0,0:16:38.81,0:16:40.88,Gen_Main,Eizen,0000,0000,0000,,Me pregunto cuál prisión será la mejor.
+Dialogue: 0,0:16:43.63,0:16:45.65,Gen_Main,Toma,0000,0000,0000,,Me gustaría sugerir una tierra.
+Dialogue: 0,0:16:52.43,0:16:54.08,Gen_Main,Toma,0000,0000,0000,,Perdón por demorarme tanto.
+Dialogue: 0,0:16:54.50,0:16:56.86,Gen_Main,Toma,0000,0000,0000,,Vine a rescatarte, mi querido hermano.
+Dialogue: 0,0:16:57.55,0:16:59.37,Gen_Main,Chobee,0000,0000,0000,,Te tardaste mucho.
+Dialogue: 0,0:16:59.57,0:17:04.65,Gen_Main,Toma,0000,0000,0000,,¿No felicitas a tu hermanito por obtener\Neste puesto con los Asaemon en un mes?
+Dialogue: 0,0:17:04.92,0:17:08.48,Gen_Main,Chobee,0000,0000,0000,,Aguanté una interrogación\Ny tortura infernal por todo un mes.
+Dialogue: 0,0:17:08.68,0:17:10.69,Gen_Main,Toma,0000,0000,0000,,Te ves mucho más apuesto.
+Dialogue: 0,0:17:10.89,0:17:12.76,Gen_Main,Toma,0000,0000,0000,,¿Y cómo vamos a escapar?
+Dialogue: 0,0:17:12.93,0:17:15.04,Gen_Main,Chobee,0000,0000,0000,,Acabemos con los guardias\Ndel magistrado.
+Dialogue: 0,0:17:15.72,0:17:19.29,Gen_Main,Toma,0000,0000,0000,,Me enteré de que hay una manera\Ncon la que dejarían de perseguirte.
+Dialogue: 0,0:17:21.06,0:17:22.75,Gen_Main,Chobee,0000,0000,0000,,Me agrada la idea.
+Dialogue: 0,0:17:22.95,0:17:26.56,Gen_Italics,Toma,0000,0000,0000,,Adaptarse implica cambiar de apariencia\Nsegún las circunstancias.
+Dialogue: 0,0:17:27.44,0:17:28.54,Gen_Main,Toma,0000,0000,0000,,Chobee…
+Dialogue: 0,0:17:28.74,0:17:32.05,Gen_Italics,Toma,0000,0000,0000,,Entender de inmediato la situación\Ny actuar acordemente.
+Dialogue: 0,0:17:32.32,0:17:34.94,Gen_Main,Chobee,0000,0000,0000,,¿Son seres vivos?
+Dialogue: 0,0:17:35.14,0:17:38.10,Gen_Italics,Chobee,0000,0000,0000,,En ocasiones, hay circunstancias\Ndifíciles de comprender.
+Dialogue: 0,0:17:41.15,0:17:43.40,Gen_Main,Chobee,0000,0000,0000,,¡Si lo son, los puedo matar!
+Dialogue: 0,0:17:43.70,0:17:47.42,Gen_Italics,Toma,0000,0000,0000,,Adaptarse al cambio de inmediato\Nes la fortaleza de mi hermano.
+Dialogue: 0,0:17:47.90,0:17:49.49,Gen_Italics,Toma,0000,0000,0000,,Siempre ha sido así.
+Dialogue: 0,0:17:50.10,0:17:54.52,Gen_Italics,Toma,0000,0000,0000,,Acusaron al señor a quien servía padre\Nde causar una riña en el castillo Edo,
+Dialogue: 0,0:17:54.72,0:17:57.31,Gen_Italics,Toma,0000,0000,0000,,y ordenaron disolver el clan.
+Dialogue: 0,0:17:59.75,0:18:02.86,Gen_Italics,Toma,0000,0000,0000,,Luego vivimos en la miseria\Ny madre murió de una enfermedad.
+Dialogue: 0,0:18:03.98,0:18:09.56,Gen_Main,Magistrado A,0000,0000,0000,,Condenó a los 47 ronin que conspiraron\Na morir decapitados.
+Dialogue: 0,0:18:10.82,0:18:15.23,Gen_Italics,Toma,0000,0000,0000,,Padre participó en una revuelta\Npara vengar a su señor y lo ejecutaron.
+Dialogue: 0,0:18:23.57,0:18:25.86,Gen_Italics,Toma,0000,0000,0000,,Después, unos bandidos nos raptaron.
+Dialogue: 0,0:18:26.34,0:18:28.36,Gen_Italics,Toma,0000,0000,0000,,Él siempre se adaptó pronto al cambio.
+Dialogue: 0,0:18:28.56,0:18:31.80,Gen_Italics,Toma,0000,0000,0000,,Y, al final, siempre acabó\Nadueñándose de la situación.
+Dialogue: 0,0:18:32.55,0:18:35.25,Gen_Main,Magistrado B,0000,0000,0000,,¡Ríndete, Chobee, jefe de los bandidos!
+Dialogue: 0,0:18:35.57,0:18:37.99,Gen_Main,Magistrado B,0000,0000,0000,,Entrégate a la justicia\Nsin oponer resistencia.
+Dialogue: 0,0:18:38.43,0:18:40.66,Gen_Main,Chobee,0000,0000,0000,,Toma, tú huye de aquí.
+Dialogue: 0,0:18:40.86,0:18:43.36,Gen_Main,Toma/Chobee,0000,0000,0000,,-Chobee…\N-Ven después a rescatarme.
+Dialogue: 0,0:18:44.50,0:18:46.38,Gen_Main,Chobee,0000,0000,0000,,Confío en ti.
+Dialogue: 0,0:18:48.95,0:18:52.22,Gen_Italics,Toma,0000,0000,0000,,El mundo no está regido\Npor la ley de supervivencia del fuerte,
+Dialogue: 0,0:18:52.61,0:18:56.41,Gen_Italics,Toma,0000,0000,0000,,sino de supervivencia del más apto.\NAhí reside la verdadera fortaleza.
+Dialogue: 0,0:19:00.74,0:19:03.82,Gen_Main,Toma/Chobee,0000,0000,0000,,-Chobee…\N-Salgamos corriendo entre los monstruos.
+Dialogue: 0,0:19:04.02,0:19:05.15,Gen_Main,Toma,0000,0000,0000,,Está bien.
+Dialogue: 0,0:19:06.25,0:19:10.18,Gen_Italics,Toma,0000,0000,0000,,Si es imposible asimilar la situación,\Nescapar también es adaptarse.
+Dialogue: 0,0:19:11.39,0:19:13.58,Gen_Italics,Toma,0000,0000,0000,,Mi hermano es un genio\Nde la metamorfosis.
+Dialogue: 0,0:19:14.33,0:19:16.78,Gen_Italics,Toma,0000,0000,0000,,Pero hay una cosa que nunca cambia.
+Dialogue: 0,0:19:22.76,0:19:24.17,Gen_Main,Toma,0000,0000,0000,,¡Chobee!
+Dialogue: 0,0:19:28.15,0:19:30.43,Gen_Italics,Toma,0000,0000,0000,,La fuerza es ser capaz de transformarse.
+Dialogue: 0,0:19:32.49,0:19:34.63,Gen_Italics,Toma,0000,0000,0000,,Lo que permanece inmutable…
+Dialogue: 0,0:19:35.69,0:19:36.80,Gen_Italics,Toma,0000,0000,0000,,… es innecesario.
+Dialogue: 0,0:19:37.77,0:19:39.75,Gen_Italics,Toma,0000,0000,0000,,Por eso mismo, Chobee…
+Dialogue: 0,0:19:40.60,0:19:42.00,Gen_Italics,Toma,0000,0000,0000,,… es muy fuerte.
+Dialogue: 0,0:19:43.38,0:19:44.77,Gen_Main,Toma,0000,0000,0000,,¡Maldito monstruo!
+Dialogue: 0,0:19:44.97,0:19:46.65,Gen_Main,Toma,0000,0000,0000,,¡No te dejaré dar un paso más!
+Dialogue: 0,0:19:53.00,0:19:56.32,Gen_Main,Chobee,0000,0000,0000,,Lo sabía. Las armas de los monstruos\Nson efectivas contra ellos.
+Dialogue: 0,0:19:56.52,0:19:57.58,Gen_Main,Toma,0000,0000,0000,,Chobee…
+Dialogue: 0,0:19:57.78,0:20:01.53,Gen_Main,Chobee,0000,0000,0000,,Gracias a ti,\Ntuve tiempo de recoger un arma.
+Dialogue: 0,0:20:03.69,0:20:04.91,Gen_Main,Toma,0000,0000,0000,,¡Chobee!
+Dialogue: 0,0:20:05.78,0:20:08.78,Gen_Main,Toma,0000,0000,0000,,¡Chobee! ¡Chobee! ¡Chobee!
+Dialogue: 0,0:20:11.65,0:20:13.58,Gen_Main,Soshin,0000,0000,0000,,Asesinar es pecado.
+Dialogue: 0,0:20:15.78,0:20:18.34,Gen_Main,Soshin Insecto,0000,0000,0000,,La vida de los insectos también vale.
+Dialogue: 0,0:20:18.54,0:20:19.90,Gen_Main,Soshin Pez,0000,0000,0000,,Y de los peces.
+Dialogue: 0,0:20:20.10,0:20:22.33,Gen_Main,Soshin/Gobee,0000,0000,0000,,-No debes hacer daño.\N-¿Estas cosas hablan?
+Dialogue: 0,0:20:22.50,0:20:25.35,Gen_Main,Soshin/Toma,0000,0000,0000,,-Asesinar es pecado.\N-¿Qué está pasando?
+Dialogue: 0,0:20:25.67,0:20:27.34,Gen_Main,Toma,0000,0000,0000,,¿De verdad son dioses y budas?
+Dialogue: 0,0:20:27.70,0:20:31.23,Gen_Main,Toma,0000,0000,0000,,Aquí no es el Paraíso Terrenal.\NEs el infierno…
+Dialogue: 0,0:20:31.86,0:20:34.43,Gen_Main,Toma,0000,0000,0000,,… donde los pecadores\Nreciben su castigo.
+Dialogue: 0,0:20:37.95,0:20:40.67,Gen_Main,Magistrado A,0000,0000,0000,,Los samuráis cargan\Ncon los crímenes de su señor.
+Dialogue: 0,0:20:40.87,0:20:42.29,Gen_Main,Magistrado A,0000,0000,0000,,¡Los condeno a muerte!
+Dialogue: 0,0:20:42.49,0:20:45.00,Gen_Main,Magistrado B,0000,0000,0000,,¡Detengan al gran criminal Chobee!
+Dialogue: 0,0:20:47.37,0:20:51.75,Gen_Main,Chobee,0000,0000,0000,,¡Cierren la maldita boca\Ncon eso de crímenes y pecados!
+Dialogue: 0,0:20:53.76,0:20:55.38,Gen_Main,Chobee,0000,0000,0000,,¡El mal es pecado!
+Dialogue: 0,0:20:55.58,0:20:59.16,Gen_Main,Chobee,0000,0000,0000,,¡¿Qué demonios me importa?!\N¡Eso lo establecieron ustedes, no yo!
+Dialogue: 0,0:20:59.72,0:21:02.51,Gen_Main,Chobee,0000,0000,0000,,¡Esclavos que obedecen a lo correcto!
+Dialogue: 0,0:21:02.71,0:21:05.64,Gen_Main,Chobee,0000,0000,0000,,¡Marionetas sin una pizca de ambición!
+Dialogue: 0,0:21:06.20,0:21:08.65,Gen_Main,Chobee,0000,0000,0000,,¡No toleraré más sus opiniones!
+Dialogue: 0,0:21:08.85,0:21:11.74,Gen_Main,Chobee,0000,0000,0000,,¡Voy a hacer lo que se me dé la gana!
+Dialogue: 0,0:21:13.36,0:21:15.61,Gen_Main,Chobee,0000,0000,0000,,¡Yo soy mi propio amo!
+Dialogue: 0,0:21:16.05,0:21:18.36,Gen_Main,Chobee,0000,0000,0000,,¡Y mi propio dios!
+Dialogue: 0,0:21:19.49,0:21:21.88,Gen_Italics,Toma,0000,0000,0000,,Su fortaleza es adaptarse al cambio.
+Dialogue: 0,0:21:22.08,0:21:26.12,Gen_Italics,Toma,0000,0000,0000,,Asimismo,\Ntransformarse lo hace destacar.
+Dialogue: 0,0:21:26.57,0:21:28.86,Gen_Italics,Toma,0000,0000,0000,,Posee una voluntad inquebrantable.
+Dialogue: 0,0:21:29.54,0:21:32.38,Gen_Main,Toma niño,0000,0000,0000,,Padre, madre…
+Dialogue: 0,0:21:32.90,0:21:35.38,Gen_Main,Toma niño,0000,0000,0000,,Quiero volver a la mansión.
+Dialogue: 0,0:21:36.31,0:21:39.47,Gen_Main,Toma niño,0000,0000,0000,,Nací hijo de un samurái,\Npero ahora soy un bandido.
+Dialogue: 0,0:21:40.64,0:21:45.40,Gen_Main,Toma niño,0000,0000,0000,,Ya no sé qué es lo correcto.
+Dialogue: 0,0:21:51.09,0:21:52.45,Gen_Main,Chobee niño,0000,0000,0000,,No llores, Toma.
+Dialogue: 0,0:21:52.65,0:21:54.48,Gen_Main,Chobee niño,0000,0000,0000,,Los que muestran debilidad mueren.
+Dialogue: 0,0:21:54.66,0:21:57.78,Gen_Main,Chobee niño,0000,0000,0000,,Si no sabes qué es lo correcto,\Nsolo tienes que creer en mí.
+Dialogue: 0,0:21:58.25,0:22:02.08,Gen_Main,Chobee niño,0000,0000,0000,,Yo soy tu hermano mayor.\NEl mayor siempre es la guía del menor.
+Dialogue: 0,0:22:02.39,0:22:04.28,Gen_Main,Chobee,0000,0000,0000,,Siempre estaré en lo correcto.
+Dialogue: 0,0:22:07.91,0:22:12.29,Gen_Main,Chobee,0000,0000,0000,,Si estos adefesios existen, la historia\Ndel elixir de la vida será cierta.
+Dialogue: 0,0:22:12.85,0:22:14.16,Gen_Main,Chobee,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:22:14.50,0:22:18.78,Gen_Main,Chobee,0000,0000,0000,,Ya lo decidí. Masacraremos a\Nlos monstruos y a los demás criminales.
+Dialogue: 0,0:22:18.95,0:22:22.30,Gen_Main,Chobee,0000,0000,0000,,Así, nadie se entrometerá\Nmientras buscamos la panacea.
+Dialogue: 0,0:22:22.56,0:22:25.53,Gen_Main,Chobee,0000,0000,0000,,Cuando la encontremos,\Nnos la tomaremos nosotros.
+Dialogue: 0,0:22:25.73,0:22:31.30,Gen_Main,Chobee,0000,0000,0000,,Así, ni la misma muerte podrá meter\Nlas narices en nuestro estilo de vida.
+Dialogue: 0,0:22:35.31,0:22:38.55,Gen_Main,Toma/Chobee,0000,0000,0000,,-¿Crees que será tan fácil?\N-¿Qué dices?
+Dialogue: 0,0:22:38.92,0:22:41.03,Gen_Main,Toma,0000,0000,0000,,Es una isla muy peligrosa.
+Dialogue: 0,0:22:41.31,0:22:45.78,Gen_Main,Toma,0000,0000,0000,,Los que nos encontraremos serán\Nlos supervivientes a este infierno.
+Dialogue: 0,0:22:46.34,0:22:49.04,Gen_Main,Toma,0000,0000,0000,,Se tratarán de una amenaza considerable.
+Dialogue: 0,0:22:50.40,0:22:53.20,Gen_Main,Toma,0000,0000,0000,,Los débiles ya habrán sido descartados.
+Dialogue: 0,0:24:22.36,0:24:25.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

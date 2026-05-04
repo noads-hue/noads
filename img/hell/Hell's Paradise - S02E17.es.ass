@@ -1,0 +1,376 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: Gen_Main Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Gen_Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,20,1
+Style: Gen_Main Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00CECECE,&H00B5B5B5,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Ver,Verdana,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Ver,Verdana,24,&H00000300,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:00:29.05,0:00:30.09,Cart_A_Tim,CARTEL,0,0,0,,{\c&H151634&\fad(250,123)\4c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:01:38.54,0:01:41.66,Cart_A_Tim,CARTEL,0,0,0,,{\4c&H151634&\fad(250,250)\c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:01:45.29,0:01:47.86,Gen_Main,Aoki,0,0,0,,¿Una expedición adicional?
+Dialogue: 0,0:01:45.54,0:01:50.51,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\an3\bord0\b0\c&HFFFFFF&\shad1\pos(603,300)}Honor y matanza
+Dialogue: 0,0:01:47.96,0:01:49.26,Gen_Main,Shogun,0,0,0,,Así es.
+Dialogue: 0,0:01:49.34,0:01:52.46,Gen_Main,Shogun,0,0,0,,Han pasado dos días\Ny nadie me ha traído el elixir.
+Dialogue: 0,0:01:52.55,0:01:55.26,Gen_Main,Aoki/Shogun,0,0,0,,-¿Dos días…?\N-El siguiente grupo es impresionante.
+Dialogue: 0,0:01:55.39,0:01:59.75,Gen_Main,Shogun,0,0,0,,Incluye a cuatro hombres, entre ellos\Nal mismísimo Shugen Yamada Asaemon.
+Dialogue: 0,0:01:59.85,0:02:02.27,Gen_Main,Shogun,0,0,0,,Además,\Ncuatro miembros de élite de Iwagakure.
+Dialogue: 0,0:02:02.39,0:02:05.02,Gen_Main,Shogun,0,0,0,,Si sumas a sus tropas,\Nen total son más de 50.
+Dialogue: 0,0:02:05.31,0:02:08.40,Gen_Main,Shogun,0,0,0,,Será como una bendición del cielo\Npara el grupo de avanzada.
+Dialogue: 0,0:02:08.61,0:02:10.08,Gen_Main Italics,Aoki,0,0,0,,Qué señor tan imbécil.
+Dialogue: 0,0:02:10.15,0:02:14.48,Gen_Main Italics,Aoki,0,0,0,,¿Qué sentido tiene reunir\Na tantos soldados para esta misión?
+Dialogue: 0,0:02:14.57,0:02:17.87,Gen_Main Italics,Aoki,0,0,0,,Seguro que el jefe de los shinobi\Ntiene otros planes.
+Dialogue: 0,0:02:18.03,0:02:19.29,Gen_Main,Shugen,0,0,0,,Don Aoki.
+Dialogue: 0,0:02:20.24,0:02:21.87,Gen_Main,Shugen,0,0,0,,¿Hay algo que le preocupe?
+Dialogue: 0,0:02:22.16,0:02:25.54,Gen_Main,Shugen,0,0,0,,Aunque haya algo inquietante,\Nestamos aquí para protegerlo.
+Dialogue: 0,0:02:25.67,0:02:29.28,Gen_Main,Aoki,0,0,0,,Pero… ¿crees que podrás\Ncontrolar a tanta gente?
+Dialogue: 0,0:02:29.38,0:02:30.51,Gen_Main,Aoki,0,0,0,,Además…
+Dialogue: 0,0:02:31.38,0:02:34.06,Gen_Main,Aoki,0,0,0,,esos dos no tienen rango, ¿verdad?
+Dialogue: 0,0:02:34.13,0:02:35.89,Gen_Main,Shugen,0,0,0,,No se preocupe.
+Dialogue: 0,0:02:35.98,0:02:39.05,Gen_Main,Shugen,0,0,0,,Ese joven es Kiyomaru Yamada Asaemon.
+Dialogue: 0,0:02:39.26,0:02:41.79,Gen_Main,Shugen,0,0,0,,Aunque no tiene rango por su edad,
+Dialogue: 0,0:02:41.89,0:02:45.06,Gen_Main,Shugen,0,0,0,,es uno de los espadachines\Nmás talentosos del clan.
+Dialogue: 0,0:02:45.44,0:02:47.32,Gen_Main,Shugen,0,0,0,,Y ella es Isuzu Yamada Asaemon.
+Dialogue: 0,0:02:47.40,0:02:49.82,Gen_Main,Shugen,0,0,0,,Es mujer,\Npero es una guerrera formidable.
+Dialogue: 0,0:02:50.32,0:02:52.91,Gen_Main,Shugen,0,0,0,,Era instructora de artes marciales\Ndel shogunato.
+Dialogue: 0,0:02:53.53,0:02:55.84,Gen_Main,Shugen,0,0,0,,Ellos tienen una "licencia oculta".
+Dialogue: 0,0:02:55.91,0:02:57.89,Gen_Main,Shugen,0,0,0,,Oficialmente, no tienen rango,
+Dialogue: 0,0:02:57.97,0:03:01.33,Gen_Main,Shugen,0,0,0,,pero son tan fuertes\Ncomo alguien con licencia de maestro.
+Dialogue: 0,0:03:01.87,0:03:03.94,Gen_Main,Shugen,0,0,0,,Y contamos con la destreza de don Jikka.
+Dialogue: 0,0:03:04.02,0:03:06.08,Gen_Main,Jikka,0,0,0,,Hola, tengo mucha destreza.
+Dialogue: 0,0:03:06.29,0:03:09.93,Gen_Main,Shugen,0,0,0,,No vinimos solo a vigilar.
+Dialogue: 0,0:03:10.25,0:03:13.09,Gen_Main,Shugen,0,0,0,,Lo daremos todo por nuestros compañeros.
+Dialogue: 0,0:03:13.46,0:03:14.91,Gen_Main,Aoki,0,0,0,,Ya veo.
+Dialogue: 0,0:03:15.01,0:03:18.84,Gen_Main,Kiyomaru,0,0,0,,Si tan preocupado está,\Nle mostraré mi técnica, viejo de mierda.
+Dialogue: 0,0:03:18.93,0:03:20.22,Gen_Main,Isuzu,0,0,0,,¡Kiyo!
+Dialogue: 0,0:03:20.35,0:03:22.99,Gen_Main,Kiyomaru,0,0,0,,Nos subestima porque no tenemos rango.
+Dialogue: 0,0:03:23.06,0:03:26.62,Gen_Main,Kiyomaru,0,0,0,,Me enferma.\N¡Si soy mucho más fuerte que él!
+Dialogue: 0,0:03:26.69,0:03:28.35,Gen_Main,Isuzu,0,0,0,,Pero no deberías hablarle así.
+Dialogue: 0,0:03:30.56,0:03:33.94,Gen_Main,Kiyomaru,0,0,0,,De hecho, puedo matarlos\Na todos ahora mismo.
+Dialogue: 0,0:03:34.82,0:03:36.45,Gen_Main,Kumokiri,0,0,0,,Como guste.
+Dialogue: 0,0:03:41.87,0:03:45.20,Gen_Main,Kiyomaru,0,0,0,,¿Eh? Corté a tu lado a propósito.
+Dialogue: 0,0:03:45.33,0:03:48.21,Gen_Main,Kiyomaru,0,0,0,,Y no te moviste nada. Qué aburrido.
+Dialogue: 0,0:03:49.33,0:03:51.73,Gen_Main,Isuzu,0,0,0,,No seas maleducado con el ninja.
+Dialogue: 0,0:03:51.79,0:03:54.02,Gen_Main,Isuzu,0,0,0,,Guarda la espada, Kiyo.
+Dialogue: 0,0:03:54.84,0:03:57.09,Gen_Main,Kiyomaru,0,0,0,,Tú también, grandulona.
+Dialogue: 0,0:04:02.47,0:04:04.35,Gen_Main Italics,Aoki,0,0,0,,¿Estos están bien de la cabeza?
+Dialogue: 0,0:04:04.43,0:04:06.23,Gen_Main,Kumokiri,0,0,0,,No, no, no.
+Dialogue: 0,0:04:06.39,0:04:10.10,Gen_Main,Kumokiri,0,0,0,,Los samuráis no deben pelearse\Npor una nimiedad como esta.
+Dialogue: 0,0:04:10.27,0:04:12.61,Gen_Main,Kumokiri,0,0,0,,No se preocupen por nosotros.
+Dialogue: 0,0:04:12.94,0:04:15.99,Gen_Main,Isuzu,0,0,0,,¡Qué vergüenza! ¡Les pido disculpas!
+Dialogue: 0,0:04:16.15,0:04:19.62,Gen_Main,Kumokiri,0,0,0,,Descuide. La vida de un shinobi\Nle pertenece a su amo.
+Dialogue: 0,0:04:19.70,0:04:22.37,Gen_Main,Kumokiri,0,0,0,,Y en esta misión,\Nnuestro amo es el clan Yamada.
+Dialogue: 0,0:04:22.45,0:04:25.49,Gen_Main,Kumokiri,0,0,0,,Si duda de nosotros,\Nseñale a quien quiera.
+Dialogue: 0,0:04:25.83,0:04:29.84,Gen_Main,Kumokiri,0,0,0,,Lo bajaré del barco\No lo ejecutaré ahí mismo…
+Dialogue: 0,0:04:29.92,0:04:32.60,Gen_Main,Kumokiri,0,0,0,,para demostrarle nuestra lealtad.
+Dialogue: 0,0:04:35.25,0:04:38.76,Gen_Main,Kiyomaru,0,0,0,,A ver, muéstrame esa lealtad ninja.
+Dialogue: 0,0:04:40.43,0:04:41.98,Gen_Main,Kumokiri,0,0,0,,De acuerdo.
+Dialogue: 0,0:04:42.97,0:04:44.39,Gen_Main,Kumokiri,0,0,0,,Te encargo el resto.
+Dialogue: 0,0:04:45.97,0:04:50.31,Gen_Main Italics,Kumokiri,0,0,0,,Pasa, pasa…
+Dialogue: 0,0:04:50.39,0:04:55.29,Gen_Main Italics,Kumokiri,0,0,0,,¿A dónde lleva este sendero angosto?
+Dialogue: 0,0:04:55.65,0:05:01.28,Gen_Main Italics,Kumokiri,0,0,0,,El sendero del dios Tenjin…
+Dialogue: 0,0:05:08.04,0:05:12.37,Gen_Main,Shija,0,0,0,,Los shinobi\Nno tenemos voluntad ni corazón.
+Dialogue: 0,0:05:12.46,0:05:15.17,Gen_Main,Shija,0,0,0,,Ser simples herramientas\Nes nuestro mayor anhelo.
+Dialogue: 0,0:05:15.71,0:05:17.92,Gen_Main,Shija,0,0,0,,Por favor, confíe en nosotros.
+Dialogue: 0,0:05:18.05,0:05:20.17,Gen_Main,Aoki,0,0,0,,Ya es suficiente. Vuelvan todos.
+Dialogue: 0,0:05:20.26,0:05:22.71,Gen_Main,Isuzu,0,0,0,,¡Qué gran determinación!\N¡Tienen mis respetos!
+Dialogue: 0,0:05:22.80,0:05:25.29,Gen_Main,Kiyomaru,0,0,0,,No entiendo a los ninjas.
+Dialogue: 0,0:05:27.85,0:05:31.73,Gen_Main,Jefe Iwagakure,0,0,0,,Infíltrense en la misión\Ny maten a Gabimaru.
+Dialogue: 0,0:05:32.06,0:05:38.73,Gen_Main,Jefe Iwagakure,0,0,0,,Jamás creí que aceptaría una misión así\Nantes de que lo ejecutaran.
+Dialogue: 0,0:05:38.86,0:05:42.95,Gen_Main,Jefe Iwagakure,0,0,0,,Si no lo matas tú,\Nno podrás saldar cuentas.
+Dialogue: 0,0:05:43.03,0:05:46.04,Gen_Main,Jefe Iwagakure,0,0,0,,Maten a Gabimaru sin falta.
+Dialogue: 0,0:05:46.12,0:05:50.33,Gen_Main,Jefe Iwagakure,0,0,0,,Usen sus vidas únicamente para ese fin.
+Dialogue: 0,0:05:50.58,0:05:54.26,Gen_Main,Kiyomaru,0,0,0,,¿Seguro que podemos\Nconfiar en esos tipos, Shugen?
+Dialogue: 0,0:05:54.33,0:05:59.18,Gen_Main,Shugen,0,0,0,,Nunca he confiado en ellos.\NLos ninjas son iguales a los criminales.
+Dialogue: 0,0:05:59.55,0:06:01.98,Gen_Main,Shugen,0,0,0,,Nosotros buscaremos el elixir.
+Dialogue: 0,0:06:02.60,0:06:03.95,Gen_Main,Shugen,0,0,0,,Solo los Asaemon.
+Dialogue: 0,0:06:04.05,0:06:06.72,Gen_Main,Kiyomaru,0,0,0,,¿Y qué haremos\Ncon los criminales de la isla?
+Dialogue: 0,0:06:07.01,0:06:10.31,Gen_Main,Shugen,0,0,0,,Ejecutaremos a los criminales\Nen cuanto los veamos.
+Dialogue: 0,0:06:10.64,0:06:13.23,Gen_Main,Shugen,0,0,0,,Y traeré de vuelta a todos los Asaemon.
+Dialogue: 0,0:06:14.23,0:06:16.69,Gen_Main Italics,Shugen,0,0,0,,Don Eizen… Chicos…
+Dialogue: 0,0:06:17.11,0:06:18.98,Gen_Main Italics,Shugen,0,0,0,,Por favor, manténganse con vida.
+Dialogue: 0,0:06:20.36,0:06:24.06,Gen_Main,Jikka,0,0,0,,Vaya… Qué difícil es ser el jefe.
+Dialogue: 0,0:06:24.15,0:06:28.73,Gen_Main,Jikka,0,0,0,,Con tantos tipos raros juntos,\Nla misión se va a complicar.
+Dialogue: 0,0:06:28.83,0:06:30.28,Gen_Main,Aoki,0,0,0,,No nos queda otra.
+Dialogue: 0,0:06:30.36,0:06:34.12,Gen_Main,Aoki,0,0,0,,El shogun espera\Nque acabemos pronto con esto.
+Dialogue: 0,0:06:34.20,0:06:38.18,Gen_Main,Aoki,0,0,0,,Los refuerzos deberían ser una bendición\Npara el grupo de avanzada.
+Dialogue: 0,0:06:39.04,0:06:41.06,Gen_Main,Jikka,0,0,0,,¿Lo dice en broma?
+Dialogue: 0,0:06:41.13,0:06:45.46,Gen_Main,Jikka,0,0,0,,Lo que trae este barco no son refuerzos.
+Dialogue: 0,0:06:45.55,0:06:48.51,Gen_Main,Jikka,0,0,0,,Solo trae más muerte y caos.
+Dialogue: 0,0:06:48.60,0:06:54.52,Gen_Main,Jikka,0,0,0,,Es como un barco de las pesadillas\Nque solo acarrea desgracias.
+Dialogue: 0,0:06:56.73,0:06:59.73,Gen_Main,Jikka,0,0,0,,Morirá mucha, mucha más gente.
+Dialogue: 0,0:07:00.86,0:07:03.53,Gen_Main,Jikka,0,0,0,,Probablemente, no regrese nadie.
+Dialogue: 0,0:07:06.86,0:07:08.49,Gen_Main,Gabimaru,0,0,0,,¿Una expedición adicional?
+Dialogue: 0,0:07:08.74,0:07:11.40,Gen_Main,Shion,0,0,0,,Sí. Podrían ser Shugen y los demás.
+Dialogue: 0,0:07:11.74,0:07:15.59,Gen_Main,Shion,0,0,0,,Son los Asaemon de reserva\Nque eligió Eizen.
+Dialogue: 0,0:07:15.66,0:07:19.00,Gen_Main,Fuchi,0,0,0,,Shu debería ser capaz\Nde controlar a los criminales.
+Dialogue: 0,0:07:19.29,0:07:21.63,Gen_Main,Gabimaru,0,0,0,,¿Ese Shugen será un aliado?
+Dialogue: 0,0:07:21.75,0:07:23.59,Gen_Main,Sagiri,0,0,0,,Sí, seguro que sí.
+Dialogue: 0,0:07:23.76,0:07:25.95,Gen_Main,Sagiri,0,0,0,,Es el más hábil del clan Yamada.
+Dialogue: 0,0:07:26.05,0:07:28.42,Gen_Main,Sagiri,0,0,0,,Su técnica de combate\Nes de primer nivel.
+Dialogue: 0,0:07:29.05,0:07:32.35,Gen_Main,Gantetsusai,0,0,0,,Ser de primer nivel no basta\Npara sobrevivir en la isla.
+Dialogue: 0,0:07:32.64,0:07:35.10,Gen_Main,Gantetsusai,0,0,0,,Si no sabes usar\Nese truco de magia llamado Tao…
+Dialogue: 0,0:07:35.18,0:07:36.43,Gen_Main,Mei,0,0,0,,¡No es truco!
+Dialogue: 0,0:07:36.52,0:07:40.44,Gen_Main,Shion,0,0,0,,Creo que Shugen\Ndebería poder percibir el Tao.
+Dialogue: 0,0:07:40.98,0:07:45.48,Gen_Main,Shion,0,0,0,,Cuando entrenábamos juntos,\Nparecía notar mis sensaciones.
+Dialogue: 0,0:07:45.57,0:07:47.70,Gen_Main,Shion,0,0,0,,Es un hombre muy diligente
+Dialogue: 0,0:07:48.16,0:07:50.82,Gen_Main,Shion,0,0,0,,que siempre quiso aprender de mí.
+Dialogue: 0,0:07:51.16,0:07:53.20,Gen_Main,Shion,0,0,0,,Fue él quien las llamó "olas".
+Dialogue: 0,0:07:53.58,0:07:56.04,Gen_Main,Shugen,0,0,0,,Isuzu, sujétame esto.
+Dialogue: 0,0:07:56.12,0:07:59.08,Gen_Main,Isuzu,0,0,0,,¿Eh? Pero ¿qué puedes hacer sin armas?
+Dialogue: 0,0:07:59.17,0:08:00.58,Gen_Main,Kiyomaru,0,0,0,,Te va a comer.
+Dialogue: 0,0:08:00.75,0:08:04.17,Gen_Main,Shugen,0,0,0,,Esa espada es un regalo del shogun.
+Dialogue: 0,0:08:04.25,0:08:06.44,Gen_Main,Shugen,0,0,0,,Es el orgullo de nuestro oficio.
+Dialogue: 0,0:08:09.30,0:08:11.36,Gen_Main,Shugen,0,0,0,,No la voy a usar para cazar un jabalí.
+Dialogue: 0,0:08:14.26,0:08:18.17,Gen_Main,Shugen,0,0,0,,Fuchi me enseñó\Nque la estructura muscular
+Dialogue: 0,0:08:18.27,0:08:20.68,Gen_Main,Shugen,0,0,0,,se puede deducir por la apariencia.
+Dialogue: 0,0:08:20.77,0:08:23.37,Gen_Main,Shugen,0,0,0,,Si usas eso,\Nes fácil desmembrarlos y destruirlos.
+Dialogue: 0,0:08:26.19,0:08:28.70,Gen_Main,Shugen,0,0,0,,Y don Shion me enseñó…
+Dialogue: 0,0:08:28.95,0:08:32.70,Gen_Main,Shugen,0,0,0,,que, si observas las "olas",\Npuedes deducir la estructura de la vida.
+Dialogue: 0,0:08:41.83,0:08:44.56,Gen_Main,Nurugai,0,0,0,,Será un gran aliado si es tan fuerte.
+Dialogue: 0,0:08:45.75,0:08:47.67,Gen_Main,Nurugai,0,0,0,,¿Pasa algo, maestro?
+Dialogue: 0,0:08:48.01,0:08:50.44,Gen_Main,Yuzuriha,0,0,0,,Creo que lo conozco.
+Dialogue: 0,0:08:50.51,0:08:54.89,Gen_Main,Yuzuriha,0,0,0,,Shugen Yamada Asaemon\Nes el de aquel incidente, ¿verdad?
+Dialogue: 0,0:08:55.01,0:08:57.89,Gen_Main,Gantetsusai,0,0,0,,¿Qué incidente? ¿Causó problemas?
+Dialogue: 0,0:08:58.06,0:09:01.07,Gen_Main,Sagiri,0,0,0,,No, no fue un problema como tal.
+Dialogue: 0,0:09:01.40,0:09:04.65,Gen_Main,Sagiri,0,0,0,,Es solo que, a veces,\Nes demasiado severo.
+Dialogue: 0,0:09:04.98,0:09:06.65,Gen_Main,Gabimaru,0,0,0,,¿Qué clase de incidente?
+Dialogue: 0,0:09:06.98,0:09:09.15,Gen_Main,Sagiri,0,0,0,,Yo solo escuché los rumores…
+Dialogue: 0,0:09:09.44,0:09:14.16,Gen_Main,Sagiri,0,0,0,,Sucedió cuando capturaron al jefe\Ndel clan yakuza "Serpiente Plateada".
+Dialogue: 0,0:09:14.53,0:09:18.37,Gen_Main,Sagiri,0,0,0,,Se negaba a confesar\Ndónde se escondían sus hombres.
+Dialogue: 0,0:09:18.45,0:09:20.87,Gen_Main,Sagiri,0,0,0,,Las autoridades no sabían qué hacer.
+Dialogue: 0,0:09:21.21,0:09:23.17,Gen_Main,Sagiri,0,0,0,,Don Shugen asistió al lugar…
+Dialogue: 0,0:09:23.63,0:09:26.68,Gen_Main,Sagiri,0,0,0,,y decapitó a los subordinados\Nya capturados frente al jefe.
+Dialogue: 0,0:09:26.75,0:09:28.71,Gen_Main,Sagiri,0,0,0,,Lo obligó a confesar su escondite
+Dialogue: 0,0:09:28.80,0:09:33.18,Gen_Main,Sagiri,0,0,0,,y ejecutó a los 20 miembros,\Nincluso a los que acababan de encontrar.
+Dialogue: 0,0:09:33.84,0:09:37.18,Gen_Main,Sagiri,0,0,0,,El shogun quedó tan complacido
+Dialogue: 0,0:09:37.35,0:09:41.26,Gen_Main,Sagiri,0,0,0,,que le otorgó un traje especial\Ny la famosa espada "Fuributsu Kaneaki".
+Dialogue: 0,0:09:41.35,0:09:44.87,Gen_Main,Sagiri,0,0,0,,Dicen que así ganó mucha influencia\Ndentro del shogunato.
+Dialogue: 0,0:09:47.94,0:09:49.94,Gen_Main,Gantetsusai,0,0,0,,¿Mató a todos los maleantes?
+Dialogue: 0,0:09:51.19,0:09:53.57,Gen_Main,Gantetsusai,0,0,0,,Me gusta su estilo.
+Dialogue: 0,0:09:53.74,0:09:57.70,Gen_Main,Sagiri,0,0,0,,En el fondo, es buena persona.\NEs muy amable con sus alumnos.
+Dialogue: 0,0:09:57.83,0:10:00.11,Gen_Main,Fuchi,0,0,0,,Es que es el primer amor de Sagi.
+Dialogue: 0,0:10:00.95,0:10:03.17,Gen_Main,Yuzuriha,0,0,0,,¿Y eso? ¡Cuenten, cuenten!
+Dialogue: 0,0:10:03.25,0:10:05.22,Gen_Main,Nurugai,0,0,0,,¿Te quieres casar con él?
+Dialogue: 0,0:10:05.29,0:10:06.73,Gen_Main,Sagiri,0,0,0,,No, este…
+Dialogue: 0,0:10:07.79,0:10:09.59,Gen_Main,Sagiri,0,0,0,,Fue cuando era niña.
+Dialogue: 0,0:10:09.68,0:10:12.22,Gen_Main,Sagiri,0,0,0,,Bueno, es verdad que lo admiraba.
+Dialogue: 0,0:10:13.84,0:10:18.72,Gen_Main,Sagiri,0,0,0,,Si obtuve un rango en el clan Yamada,\Nfue gracias a don Shugen.
+Dialogue: 0,0:10:19.31,0:10:22.27,Gen_Main,Shugen,0,0,0,,Por favor, otórguele un rango a Sagiri.
+Dialogue: 0,0:10:22.93,0:10:25.71,Gen_Main,Shugen,0,0,0,,Si no reconoce su magnífica técnica,
+Dialogue: 0,0:10:25.81,0:10:28.23,Gen_Main,Shugen,0,0,0,,yo no podré enorgullecerme\Nde mi propio rango.
+Dialogue: 0,0:10:28.52,0:10:31.84,Gen_Main,Sagiri,0,0,0,,Es muy testarudo,\Npero es una persona amable.
+Dialogue: 0,0:10:32.49,0:10:34.21,Gen_Main,Kiyomaru,0,0,0,,Shugen, ¿estás herido?
+Dialogue: 0,0:10:34.29,0:10:36.53,Gen_Main,Isuzu,0,0,0,,Podríamos haberle ayudado.
+Dialogue: 0,0:10:36.62,0:10:40.12,Gen_Main,Shugen,0,0,0,,El shogunato solo nos ordenó\Nvigilar y realizar ejecuciones.
+Dialogue: 0,0:10:41.87,0:10:45.54,Gen_Main,Shugen,0,0,0,,No hace falta que ensucien sus espadas\Ncon ninguna otra cosa.
+Dialogue: 0,0:10:45.92,0:10:48.42,Gen_Main,Shugen,0,0,0,,Dejen las tareas menores a su superior.
+Dialogue: 0,0:10:49.54,0:10:52.30,Gen_Main,Kiyomaru,0,0,0,,Shugen, tu mirada da miedo\Nincluso cuando sonríes.
+Dialogue: 0,0:10:52.63,0:10:54.11,Gen_Main,Shugen,0,0,0,,¿Tú crees?
+Dialogue: 0,0:10:54.17,0:10:57.35,Gen_Main,Jikka,0,0,0,,Vaya… Qué confiable eres.
+Dialogue: 0,0:10:57.43,0:11:00.18,Gen_Main,Shugen,0,0,0,,Don Jikka, usted es mayor que yo.
+Dialogue: 0,0:11:00.72,0:11:02.56,Gen_Main,Shugen,0,0,0,,Démonos prisa.
+Dialogue: 0,0:11:06.19,0:11:09.19,Gen_Main,Sagiri,0,0,0,,Seguro que nos ayuda\Ncuando se entere de la situación.
+Dialogue: 0,0:11:09.31,0:11:11.32,Gen_Main,Shion,0,0,0,,No, no lo creo.
+Dialogue: 0,0:11:12.65,0:11:16.89,Gen_Main,Shion,0,0,0,,Estás algo confundida\Ncon la historia de antes.
+Dialogue: 0,0:11:17.53,0:11:20.07,Gen_Main,Shion,0,0,0,,Es un tema tabú en el clan Yamada.
+Dialogue: 0,0:11:21.16,0:11:26.08,Gen_Main,Shion,0,0,0,,Shugen ejecutó a 20 yakuzas\Ny a todas sus familias.
+Dialogue: 0,0:11:26.21,0:11:29.96,Gen_Main,Sagiri/Shion,0,0,0,,-Sí, como dije, a los 20…\N-No.
+Dialogue: 0,0:11:30.34,0:11:32.96,Gen_Main,Shion,0,0,0,,Fueron los 20 de Serpiente Plateada\Ny sus familias.
+Dialogue: 0,0:11:33.38,0:11:37.64,Gen_Main,Shion,0,0,0,,A sus parientes, sus padres ancianos,\Nincluso niños pequeños…
+Dialogue: 0,0:11:38.09,0:11:39.97,Gen_Main,Shion,0,0,0,,En total, más de 100 personas.
+Dialogue: 0,0:11:40.26,0:11:42.57,Gen_Main,JefeYakuza,0,0,0,,¿Cómo pudiste hacer eso?
+Dialogue: 0,0:11:42.64,0:11:46.80,Gen_Main,JefeYakuza,0,0,0,,Yataro… era solo un bebé…
+Dialogue: 0,0:11:47.14,0:11:50.61,Gen_Main,JefeYakuza,0,0,0,,¡¿Era necesario llegar a este extremo?!
+Dialogue: 0,0:11:51.57,0:11:53.99,Gen_Main,Shugen,0,0,0,,Es doloroso, pero necesario.
+Dialogue: 0,0:11:54.07,0:11:59.33,Gen_Main,Shugen,0,0,0,,Si solo te ejecuto a ti,\Ntu familia heredará ese karma.
+Dialogue: 0,0:11:59.41,0:12:02.10,Gen_Main,Shugen,0,0,0,,La raíz del mal\Nno está solo en el corazón,
+Dialogue: 0,0:12:02.18,0:12:04.53,Gen_Main,Shugen,0,0,0,,sino en el entorno en que uno crece.
+Dialogue: 0,0:12:05.41,0:12:10.00,Gen_Main,Shugen,0,0,0,,Rezaré para que en la próxima vida\Nrenazcan como personas de bien.
+Dialogue: 0,0:12:10.29,0:12:12.50,Gen_Main,JefeYakuza,0,0,0,,No eres humano, no eres humano…
+Dialogue: 0,0:12:12.67,0:12:14.47,Gen_Main,JefeYakuza,0,0,0,,¡No eres humano!
+Dialogue: 0,0:12:18.47,0:12:22.64,Gen_Main,Shion,0,0,0,,Lo aprecio como samurái, y es mi amigo.
+Dialogue: 0,0:12:22.76,0:12:27.09,Gen_Main,Shion,0,0,0,,Pero sé que Shugen no perdonará\Na ningún criminal condenado.
+Dialogue: 0,0:12:27.43,0:12:29.58,Gen_Main,Shion,0,0,0,,Sin importar las circunstancias.
+Dialogue: 0,0:12:31.44,0:12:35.62,Gen_Main,Shion,0,0,0,,Es más, tampoco perdonará\Na los Asaemon que los protejan.
+Dialogue: 0,0:12:36.74,0:12:38.60,Gen_Main,Shion,0,0,0,,Así es él.
+Dialogue: 0,0:12:40.36,0:12:44.04,Gen_Main,Shion,0,0,0,,Y más aún si se entera\Nde la situación de la isla.
+Dialogue: 0,0:12:45.91,0:12:48.04,Gen_Main,Eizen,0,0,0,,Así que te llamas Shugen.
+Dialogue: 0,0:12:48.50,0:12:53.64,Gen_Main,Eizen,0,0,0,,Perdiste a tus padres siendo muy joven,\Ny el karma te trajo hasta aquí.
+Dialogue: 0,0:12:54.75,0:12:57.73,Gen_Main,Eizen,0,0,0,,Nuestro oficio será duro para ti.
+Dialogue: 0,0:12:57.80,0:13:00.51,Gen_Main,Eizen,0,0,0,,Tendrás que enfrentarte\Na muchos pecados.
+Dialogue: 0,0:13:00.63,0:13:03.89,Gen_Main,Shugen,0,0,0,,Aún no han atrapado\Nal asesino de mis padres.
+Dialogue: 0,0:13:04.14,0:13:06.62,Gen_Main,Shugen,0,0,0,,Quizá algún día\Npueda cortarle la cabeza.
+Dialogue: 0,0:13:07.64,0:13:12.27,Gen_Main,Shugen,0,0,0,,Los Yamada Asaemon buscan matar\Nde un solo corte sin dolor ni emociones.
+Dialogue: 0,0:13:13.27,0:13:14.77,Gen_Main,Eizen,0,0,0,,Así es.
+Dialogue: 0,0:13:15.36,0:13:19.17,Gen_Main,Shugen,0,0,0,,No lo entiendo.\NEs mejor usar mal la espada.
+Dialogue: 0,0:13:19.24,0:13:21.88,Gen_Main,Shugen,0,0,0,,Si hay que golpear varias veces\Npara decapitarlo,
+Dialogue: 0,0:13:21.99,0:13:24.41,Gen_Main,Shugen,0,0,0,,sufrirá más antes de morir, ¿no?
+Dialogue: 0,0:13:24.83,0:13:27.84,Gen_Main,Shugen,0,0,0,,¿Qué tal si rompo el filo\Ny lo dejo dentado?
+Dialogue: 0,0:13:28.29,0:13:29.67,Gen_Main,Eizen,0,0,0,,No servirá de nada.
+Dialogue: 0,0:13:30.46,0:13:32.17,Gen_Main,Eizen,0,0,0,,Porque yo volveré a afilarla.
+Dialogue: 0,0:13:35.50,0:13:38.62,Gen_Main,Eizen,0,0,0,,Sé que es difícil\Neliminar el odio de inmediato,
+Dialogue: 0,0:13:38.71,0:13:42.44,Gen_Main,Eizen,0,0,0,,pero, mientras te enseñemos aquí,\Naprenderás a lidiar con él.
+Dialogue: 0,0:13:44.51,0:13:47.22,Gen_Main,Eizen,0,0,0,,Si aun así quieres\Nromper el filo, hazlo.
+Dialogue: 0,0:13:47.87,0:13:49.52,Gen_Main,Eizen,0,0,0,,Yo seguiré afilándola.
+Dialogue: 0,0:13:51.35,0:13:54.52,Gen_Main,Eizen,0,0,0,,Algún día se formará\Nun hermoso patrón en tu hoja.
+Dialogue: 0,0:13:55.15,0:13:56.73,Gen_Main,Eizen,0,0,0,,Estaré esperando ese día.
+Dialogue: 0,0:13:59.94,0:14:01.78,Gen_Main,Shugen,0,0,0,,¡Don Eizen!
+Dialogue: 0,0:14:01.86,0:14:05.27,Gen_Main,Shugen,0,0,0,,Aún… aún no he podido…
+Dialogue: 0,0:14:07.37,0:14:09.39,Gen_Main,Shugen/Isuzu,0,0,0,,-No le he podido…\N-Shugen.
+Dialogue: 0,0:14:09.45,0:14:11.62,Gen_Main,Isuzu,0,0,0,,Sé que es duro, pero debemos seguir.
+Dialogue: 0,0:14:12.33,0:14:15.02,Gen_Main,Isuzu,0,0,0,,Me preocupa lo que haya pasado\Ncon los demás.
+Dialogue: 0,0:14:16.00,0:14:17.93,Gen_Main,Shugen,0,0,0,,Sí, tienes razón.
+Dialogue: 0,0:14:20.42,0:14:23.37,Gen_Main,Shugen,0,0,0,,Déjame rezar una última oración\Ny nos vamos.
+Dialogue: 0,0:14:23.47,0:14:24.76,Gen_Main,Isuzu,0,0,0,,Está bien.
+Dialogue: 0,0:14:31.73,0:14:33.82,Gen_Main Italics,Shija,0,0,0,,Qué grupo tan extraño.
+Dialogue: 0,0:14:33.89,0:14:37.39,Gen_Main Italics,Shija,0,0,0,,Tienen el descaro de rezar\Nen una isla llena de monstruos.
+Dialogue: 0,0:14:37.48,0:14:39.40,Gen_Main Italics,Shija,0,0,0,,Y esos dos también son raros.
+Dialogue: 0,0:14:39.73,0:14:42.40,Gen_Main Italics,Shija,0,0,0,,¿Será que él impone tanto respeto?
+Dialogue: 0,0:14:42.74,0:14:46.16,Gen_Main Italics,Shija,0,0,0,,Aunque, hablando de raros,\Neste tipo también…
+Dialogue: 0,0:14:46.45,0:14:48.53,Gen_Main Italics,Shija,0,0,0,,No logro descifrar qué trama.
+Dialogue: 0,0:14:49.16,0:14:51.13,Gen_Main Italics,Jikka,0,0,0,,Quiero irme a casa…
+Dialogue: 0,0:14:51.20,0:14:55.62,Gen_Main Italics,Shija,0,0,0,,Pero esta isla peligrosa es perfecta\Npara librarse de los Asaemon.
+Dialogue: 0,0:14:55.83,0:14:58.62,Gen_Main Italics,Shija,0,0,0,,Esperaré el momento justo\Npara cumplir mi misión.
+Dialogue: 0,0:14:58.71,0:15:02.29,Gen_Main Italics,Shija,0,0,0,,Él no moriría en una isla como esta.
+Dialogue: 0,0:15:09.43,0:15:12.68,Gen_Main,Jikka,0,0,0,,Vaya… Esto sí que es enorme.
+Dialogue: 0,0:15:22.44,0:15:25.86,Gen_Main,Mago taoísta,0,0,0,,Captúrenlos con vida\Nen la medida de lo posible.
+Dialogue: 0,0:15:25.99,0:15:30.24,Gen_Main,Shija/Jikka,0,0,0,,-Habló… ¿Es una variante?\N-¡Si puedes hablar, conversemos!
+Dialogue: 0,0:15:30.33,0:15:34.70,Gen_Main,Mago taoísta,0,0,0,,No tengo autoridad para eso.\NPregúntenles a los venerables Tensen.
+Dialogue: 0,0:15:39.08,0:15:42.59,Gen_Main,Isuzu/Kiyomaru,0,0,0,,¡¿No ven que Shugen está rezando?!
+Dialogue: 0,0:15:57.98,0:15:59.48,Gen_Main Italics,Shija,0,0,0,,Le destrozó el equilibrio.
+Dialogue: 0,0:16:09.45,0:16:11.22,Gen_Main,Kiyomaru,0,0,0,,Ah, cuidado.
+Dialogue: 0,0:16:11.70,0:16:15.45,Gen_Main,Isuzu/Kiyomaru,0,0,0,,-Aún quedan muchos, Kiyo.\N-¡Qué ruidosa! ¡Ya lo sé!
+Dialogue: 0,0:16:15.58,0:16:18.48,Gen_Main,Shija/Jikka,0,0,0,,-Qué técnica tan magnífica.\N-Sí, ¿verdad?
+Dialogue: 0,0:16:18.58,0:16:20.21,Gen_Main,Shija,0,0,0,,Entonces, nosotros también…
+Dialogue: 0,0:16:20.29,0:16:22.66,Gen_Main,Shija,0,0,0,,Arakagi, acaba con ese.
+Dialogue: 0,0:16:22.73,0:16:23.84,Gen_Main,Arakagi,0,0,0,,A la orden.
+Dialogue: 0,0:16:30.05,0:16:33.27,Gen_Main,Shija,0,0,0,,Escuadrones Bakuro e Ishifudo, ataquen.
+Dialogue: 0,0:16:34.85,0:16:38.17,Gen_Main,Shija,0,0,0,,Individualmente,\Nno somos rivales para el clan Yamada,
+Dialogue: 0,0:16:38.27,0:16:41.53,Gen_Main,Shija,0,0,0,,pero los shinobi somos un enjambre\Nque actúa en grupo.
+Dialogue: 0,0:16:42.15,0:16:45.64,Gen_Main,Shija,0,0,0,,El poder individual se doblega\Nante la superioridad numérica.
+Dialogue: 0,0:16:45.73,0:16:48.49,Gen_Main,Shija,0,0,0,,Ningún héroe\Npuede vencer a una multitud.
+Dialogue: 0,0:16:49.70,0:16:53.12,Gen_Main,Shija,0,0,0,,Así es como peleamos\Nlos ninjas de clase baja.
+Dialogue: 0,0:16:53.37,0:16:55.87,Gen_Main,Jikka,0,0,0,,De clase baja, ¿eh?
+Dialogue: 0,0:17:07.38,0:17:09.24,Gen_Main,Shugen,0,0,0,,Que descanse en paz.
+Dialogue: 0,0:17:11.26,0:17:12.64,Gen_Main,Kiyomaru,0,0,0,,¡Shugen!
+Dialogue: 0,0:17:26.73,0:17:28.40,Gen_Main,Kiyomaru,0,0,0,,¡Increíble!
+Dialogue: 0,0:17:37.66,0:17:39.19,Gen_Main,Shugen,0,0,0,,Malditos monstruos…
+Dialogue: 0,0:17:40.00,0:17:43.44,Gen_Main,Shugen,0,0,0,,No, mataré a todos\Nlos seres vivos de esta isla…
+Dialogue: 0,0:17:44.04,0:17:48.34,Gen_Main,Shugen,0,0,0,,Los aniquilaré causándoles\Nel mayor sufrimiento posible.
+Dialogue: 0,0:17:48.96,0:17:50.62,Gen_Main,Mago taoísta,0,0,0,,Muy bien.
+Dialogue: 0,0:17:53.18,0:17:56.02,Gen_Main,Mago taoísta,0,0,0,,Te mataré y serás mi ofrenda.
+Dialogue: 0,0:17:57.51,0:18:00.56,Gen_Main,Mago taoísta,0,0,0,,Así podré ascender a Chisen.
+Dialogue: 0,0:18:09.61,0:18:13.82,Gen_Main,Shugen,0,0,0,,Veo que su regeneración tiene un límite.
+Dialogue: 0,0:18:14.66,0:18:18.98,Gen_Main,Shugen,0,0,0,,Si no respondes a mis preguntas\No la respuesta no me gusta…
+Dialogue: 0,0:18:19.58,0:18:20.95,Gen_Main,Shugen,0,0,0,,te rebanaré.
+Dialogue: 0,0:18:21.58,0:18:23.73,Gen_Main,Shugen,0,0,0,,Primero, háblame de tus compañeros.
+Dialogue: 0,0:18:23.82,0:18:26.71,Gen_Main,Shugen,0,0,0,,Si son una organización,\Ncuéntamelo todo en detalle.
+Dialogue: 0,0:18:26.79,0:18:28.60,Gen_Main,Mago taoísta,0,0,0,,No, eso no…
+Dialogue: 0,0:18:29.30,0:18:32.47,Gen_Main,Shugen,0,0,0,,No titubees. Es una pérdida de tiempo.
+Dialogue: 0,0:18:32.59,0:18:34.73,Gen_Main,Jikka,0,0,0,,Calma, calma, Shugen.
+Dialogue: 0,0:18:34.80,0:18:37.02,Gen_Main,Jikka,0,0,0,,Apareció un nuevo tipo de monstruo.
+Dialogue: 0,0:18:37.10,0:18:40.60,Gen_Main,Jikka,0,0,0,,Volvamos a Japón a reportarlo, ¿sí?
+Dialogue: 0,0:18:40.72,0:18:41.68,Gen_Main,Shugen,0,0,0,,Me niego.
+Dialogue: 0,0:18:42.04,0:18:44.95,Gen_Main,Shugen,0,0,0,,Usted solo quiere irse a casa,\Ndon Jikka.
+Dialogue: 0,0:18:45.02,0:18:47.51,Gen_Main,Shugen,0,0,0,,Ni siquiera desenvainó su espada.
+Dialogue: 0,0:18:48.65,0:18:51.40,Gen_Main,Jikka,0,0,0,,Sabes que no puedo desenvainarla.
+Dialogue: 0,0:18:51.82,0:18:54.40,Gen_Main,Shugen,0,0,0,,Sé que puede desenvainarla.
+Dialogue: 0,0:18:54.65,0:18:58.28,Gen_Main,Isuzu,0,0,0,,Cálmese, Shugen.\NNo deberían pelear entre ustedes.
+Dialogue: 0,0:18:58.37,0:18:59.84,Gen_Main,Shugen,0,0,0,,Tienes razón.
+Dialogue: 0,0:19:04.54,0:19:06.31,Gen_Main,Shugen,0,0,0,,Lo siento mucho.
+Dialogue: 0,0:19:06.37,0:19:09.13,Gen_Main,Shugen,0,0,0,,Estaba alterado\Ny le falté el respeto a mi superior.
+Dialogue: 0,0:19:09.25,0:19:12.73,Gen_Main,Jikka,0,0,0,,Ah, no pasa nada. No me importa.
+Dialogue: 0,0:19:13.42,0:19:15.24,Gen_Main,Shugen,0,0,0,,Les pido perdón a ustedes también.
+Dialogue: 0,0:19:15.32,0:19:18.26,Gen_Main Italics,Jikka,0,0,0,,Tiene su lado tierno.
+Dialogue: 0,0:19:15.47,0:19:18.26,Gen_Main Top,Kiyomaru/Isuzu,0,0,0,,-Se estaba poniendo bueno…\N-¡Kiyo!
+Dialogue: 0,0:19:18.47,0:19:21.59,Gen_Main,Shugen,0,0,0,,Pero, si volvemos sin ajustar cuentas,
+Dialogue: 0,0:19:21.68,0:19:25.52,Gen_Main,Shugen,0,0,0,,mancharemos el nombre del clan\Ny el honor de don Eizen.
+Dialogue: 0,0:19:25.85,0:19:28.57,Gen_Main,Shugen,0,0,0,,Exterminaré a las criaturas de la isla.
+Dialogue: 0,0:19:28.65,0:19:31.90,Gen_Main,Shugen,0,0,0,,Debo enseñarles lo que pasa\Nsi tocan a uno de los Yamada.
+Dialogue: 0,0:19:34.40,0:19:36.91,Gen_Main,Shugen,0,0,0,,Y para eso, necesito información.
+Dialogue: 0,0:19:37.78,0:19:41.53,Gen_Main,Shija,0,0,0,,Señor Shugen,\Ndeje las torturas y los interrogatorios…
+Dialogue: 0,0:19:41.70,0:19:44.00,Gen_Main,Shija,0,0,0,,en manos de los shinobi.
+Dialogue: 0,0:19:45.62,0:19:49.13,Gen_Main,Fuchi,0,0,0,,Esa niebla está compuesta\Nde partículas densas de Tao.
+Dialogue: 0,0:19:49.21,0:19:52.30,Gen_Main,Fuchi,0,0,0,,Gracias a ella,\Npercibes las anomalías en la isla,
+Dialogue: 0,0:19:52.63,0:19:55.36,Gen_Main,Fuchi,0,0,0,,pero no puedes identificar\Na quienes desembarcaron.
+Dialogue: 0,0:19:56.51,0:19:58.05,Gen_Main,Mei,0,0,0,,Lo siento.
+Dialogue: 0,0:19:58.22,0:20:01.80,Gen_Main,Sagiri,0,0,0,,Además de los Tensen,\Nahora llegó más gente a la isla…
+Dialogue: 0,0:20:02.14,0:20:04.93,Gen_Main,Nurugai,0,0,0,,Esto se complica cada vez más.
+Dialogue: 0,0:20:05.73,0:20:08.94,Gen_Main,Shion,0,0,0,,Creo que a partir de aquí\Ndeberíamos dividirnos en dos grupos.
+Dialogue: 0,0:20:09.06,0:20:10.37,Gen_Main,Sagiri,0,0,0,,¿En dos grupos?
+Dialogue: 0,0:20:10.44,0:20:14.44,Gen_Main,Shion,0,0,0,,Un grupo irá por el elixir\Ny el otro buscará una ruta de escape.
+Dialogue: 0,0:20:14.61,0:20:17.44,Gen_Main,Yuzuriha,0,0,0,,¿Qué? Entonces, yo me pido\Nel que escapará de la isla.
+Dialogue: 0,0:20:17.52,0:20:19.70,Gen_Main,Gabimaru,0,0,0,,Solo va a buscar la ruta de escape.
+Dialogue: 0,0:20:20.03,0:20:24.83,Gen_Main,Gabimaru,0,0,0,,Según la ruta que me dijo Mei,\Nno hay forma de evitar Horai.
+Dialogue: 0,0:20:24.95,0:20:27.28,Gen_Main,Yuzuriha,0,0,0,,¿Eh? ¿Por qué no salimos desde la playa?
+Dialogue: 0,0:20:27.37,0:20:29.33,Gen_Main,Nurugai,0,0,0,,En el mar también hay monstruos.
+Dialogue: 0,0:20:29.81,0:20:32.54,Gen_Main,Gantetsusai,0,0,0,,¿Tienes una estrategia\Npara pelear contra los Tensen?
+Dialogue: 0,0:20:32.71,0:20:36.42,Gen_Main,Shion,0,0,0,,Confirmé mi teoría con ella.
+Dialogue: 0,0:20:36.84,0:20:38.02,Gen_Main,Mei,0,0,0,,Sí.
+Dialogue: 0,0:20:39.55,0:20:41.59,Gen_Main,Shion,0,0,0,,El Tao posee atributos.
+Dialogue: 0,0:20:41.68,0:20:45.64,Gen_Main,Shion,0,0,0,,Entre ellos hay compatibilidades,\Nventajas y desventajas.
+Dialogue: 0,0:20:45.72,0:20:47.12,Gen_Main,Shion,0,0,0,,Si las aprovechamos,
+Dialogue: 0,0:20:47.21,0:20:51.31,Gen_Main,Shion,0,0,0,,podemos debilitar el Tao del enemigo\Ny fortalecer el de nuestros aliados.
+Dialogue: 0,0:20:51.44,0:20:53.82,Gen_Main,Shion,0,0,0,,Por más que superen\Nel entendimiento humano,
+Dialogue: 0,0:20:53.94,0:20:58.07,Gen_Main,Shion,0,0,0,,si usan el Tao como fuente de poder,\Nno podrán escapar a estas leyes.
+Dialogue: 0,0:20:58.65,0:21:01.07,Gen_Main,Shion,0,0,0,,Funcionará contra ellos.
+Dialogue: 0,0:21:01.20,0:21:03.44,Gen_Main,Yuzuriha,0,0,0,,Ni hablar.
+Dialogue: 0,0:21:03.53,0:21:05.77,Gen_Main,Yuzuriha,0,0,0,,¿Qué tan eficaz será?
+Dialogue: 0,0:21:05.87,0:21:08.08,Gen_Main,Yuzuriha,0,0,0,,¿Hay alguna garantía\Nde que no moriremos?
+Dialogue: 0,0:21:08.16,0:21:11.33,Gen_Main,Yuzuriha,0,0,0,,Es muy arriesgado entrar\Na la guarida enemiga con solo eso.
+Dialogue: 0,0:21:11.67,0:21:15.88,Gen_Main,Yuzuriha,0,0,0,,¿No es más realista salir de la isla\Ny desaparecer del mapa?
+Dialogue: 0,0:21:15.96,0:21:18.96,Gen_Main,Yuzuriha,0,0,0,,En ese caso, prefiero ir por mi cuenta.
+Dialogue: 0,0:21:20.17,0:21:22.51,Gen_Main,Shion,0,0,0,,Lo que dice Yuzuriha tiene sentido.
+Dialogue: 0,0:21:22.76,0:21:26.09,Gen_Main,Shion,0,0,0,,Al fin y al cabo,\Nsomos un grupo circunstancial.
+Dialogue: 0,0:21:26.81,0:21:30.53,Gen_Main,Shion,0,0,0,,No tenemos ninguna obligación ni vínculo\Npara estar juntos.
+Dialogue: 0,0:21:30.60,0:21:32.73,Gen_Main,Shion,0,0,0,,Hay demasiados factores inciertos.
+Dialogue: 0,0:21:32.85,0:21:35.44,Gen_Main,Shion,0,0,0,,Como quiénes son\Nlos que llegaron a la isla.
+Dialogue: 0,0:21:36.61,0:21:37.91,Gen_Main,Shion,0,0,0,,O quizás…
+Dialogue: 0,0:21:38.86,0:21:41.36,Gen_Main,Shion,0,0,0,,haya algún otro elemento inesperado.
+Dialogue: 0,0:21:41.61,0:21:46.00,Gen_Main,Shion,0,0,0,,Es imposible predecir\Nqué pasará o quién perderá la vida.
+Dialogue: 0,0:21:48.20,0:21:53.37,Gen_Main,Shion,0,0,0,,Por eso, creo que cada uno\Ndebe decidir su camino.
+Dialogue: 0,0:21:53.47,0:21:55.73,Gen_Main,Shion,0,0,0,,Quienes quieran venir,\Nvengan a la cueva.
+Dialogue: 0,0:21:55.79,0:21:59.15,Gen_Main,Shion,0,0,0,,No me importa si prefieren ir solos.
+Dialogue: 0,0:21:59.21,0:22:01.38,Gen_Main,Shion,0,0,0,,Ignoraré nuestras posiciones.
+Dialogue: 0,0:22:05.76,0:22:08.64,Gen_Main,Shion,0,0,0,,No, este…
+Dialogue: 0,0:22:08.93,0:22:11.73,Gen_Main,Shion,0,0,0,,En realidad…
+Dialogue: 0,0:22:11.81,0:22:14.22,Gen_Main,Shion,0,0,0,,¿No deberían pensarlo un poco más?
+Dialogue: 0,0:22:14.31,0:22:16.28,Gen_Main,Shion,0,0,0,,Decidieron demasiado rápido.
+Dialogue: 0,0:22:16.36,0:22:18.90,Gen_Main,Nurugai,0,0,0,,Llegamos hasta aquí\Nporque estamos juntos, ¿no?
+Dialogue: 0,0:22:19.11,0:22:22.03,Gen_Main,Yuzuriha,0,0,0,,A mí me da lo mismo\Nmientras pueda volver a casa.
+Dialogue: 0,0:22:22.12,0:22:24.02,Gen_Main,Yuzuriha,0,0,0,,Aunque prefiero tener más escudos.
+Dialogue: 0,0:22:24.11,0:22:28.03,Gen_Main,Gantetsusai,0,0,0,,No entendí nada, pero al menos\Npodré vencer a uno de los Tensen, ¿no?
+Dialogue: 0,0:22:30.66,0:22:32.45,Gen_Main,Gabimaru,0,0,0,,Ni tenías que preguntarlo.
+Dialogue: 0,0:22:32.53,0:22:35.93,Gen_Main,Gabimaru,0,0,0,,Si queremos regresar,\Ncooperar es la opción más racional.
+Dialogue: 0,0:22:36.00,0:22:38.67,Gen_Main,Fuchi,0,0,0,,Nosotros solo cumpliremos\Ncon nuestro deber.
+Dialogue: 0,0:22:38.84,0:22:40.92,Gen_Main,Sagiri,0,0,0,,Seré testigo hasta el final.
+Dialogue: 0,0:22:41.96,0:22:45.17,Gen_Main,Nurugai,0,0,0,,¿Acaso pensabas dejarme, maestro?
+Dialogue: 0,0:22:45.26,0:22:46.93,Gen_Main,Shion,0,0,0,,No era mi intención.
+Dialogue: 0,0:22:47.18,0:22:48.68,Gen_Main,Nurugai,0,0,0,,Ya lo sé, pero…
+Dialogue: 0,0:22:48.81,0:22:52.11,Gen_Main,Yuzuriha,0,0,0,,Aunque consigamos el elixir,\Nsolo habrá indulto para uno…
+Dialogue: 0,0:22:52.18,0:22:54.56,Gen_Main,Gantetsusai,0,0,0,,Nos lo disputaremos\Nen el barco de vuelta.
+Dialogue: 0,0:22:54.85,0:22:57.18,Gen_Main,Shion,0,0,0,,Sinceramente, me siento aliviado.
+Dialogue: 0,0:22:57.65,0:22:59.40,Gen_Main,Shion,0,0,0,,Cuantos más seamos, mejor.
+Dialogue: 0,0:22:59.65,0:23:01.36,Gen_Main,Shion,0,0,0,,Escapemos todos juntos.
+Dialogue: 0,0:23:02.03,0:23:07.28,Gen_Main,Shion,0,0,0,,Ahora que reina el caos,\Nes nuestra gran y última oportunidad.
+Dialogue: 0,0:24:20.69,0:24:24.98,Cart_A_Tre,CARTEL,0,0,0,,{\an8\fad(500,0)\fs18\bord1}Traducción: Gekokujou\NPautado: Thomas Benaissa\NEdición: Álvaro Jimeno\NControl de calidad: Nicolás Sepúlveda

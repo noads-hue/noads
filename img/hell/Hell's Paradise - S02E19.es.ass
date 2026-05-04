@@ -1,0 +1,351 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: Gen_Main Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Gen_Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,20,1
+Style: Gen_Main Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00CECECE,&H00B5B5B5,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Ver,Verdana,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Ver,Verdana,24,&H00000300,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main Italics,,0,0,0,,
+Dialogue: 0,0:00:16.33,0:00:19.39,Gen_Main,Ran,0,0,0,,Seguramente tenían algún plan,
+Dialogue: 0,0:00:19.75,0:00:21.36,Gen_Main,Ran,0,0,0,,pero fue todo en vano.
+Dialogue: 0,0:00:21.96,0:00:25.13,Gen_Main,Gabimaru,0,0,0,,No se enfrenten a los Tensen.
+Dialogue: 0,0:00:25.21,0:00:27.51,Gen_Main,Gabimaru,0,0,0,,Si lo hacen, el plan fracasará.
+Dialogue: 0,0:00:27.59,0:00:28.90,Gen_Main,Sagiri,0,0,0,,Gabimaru.
+Dialogue: 0,0:00:32.47,0:00:33.83,Gen_Main,Gabimaru,0,0,0,,Se acabó.
+Dialogue: 0,0:00:34.47,0:00:36.30,Gen_Main,Sagiri,0,0,0,,¿"Se acabó"?
+Dialogue: 0,0:00:36.39,0:00:38.89,Gen_Main,Sagiri,0,0,0,,¿Qué haremos si nos topamos con ellos?
+Dialogue: 0,0:00:38.98,0:00:40.90,Gen_Main,Sagiri,0,0,0,,¿Huiremos sin más?
+Dialogue: 0,0:00:42.35,0:00:44.90,Gen_Main,Gabimaru,0,0,0,,En ese preciso momento,\Nel plan se acabó.
+Dialogue: 0,0:00:46.78,0:00:48.53,Gen_Main,Gabimaru,0,0,0,,Pasamos al plan B.
+Dialogue: 0,0:00:49.65,0:00:51.28,Gen_Main,Gabimaru,0,0,0,,Prepárense.
+Dialogue: 0,0:00:51.36,0:00:53.30,Gen_Main,Gabimaru,0,0,0,,Los atacaremos con todo.
+Dialogue: 0,0:00:53.78,0:00:56.79,Gen_Main,Gabimaru,0,0,0,,Son rivales de los que no se puede huir.
+Dialogue: 0,0:00:57.33,0:00:58.70,Gen_Main,Gabimaru,0,0,0,,No vamos a huir.
+Dialogue: 0,0:00:58.79,0:01:00.23,Gen_Main,Gabimaru,0,0,0,,Tampoco nos rendiremos.
+Dialogue: 0,0:01:01.25,0:01:03.81,Gen_Main,Gabimaru,0,0,0,,Te derrotaremos y saldremos de la isla.
+Dialogue: 0,0:01:23.13,0:01:24.17,Cart_A_Tim,CARTEL,0,0,0,,{\c&H151634&\fad(250,123)\4c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:02:32.62,0:02:35.74,Cart_A_Tim,CARTEL,0,0,0,,{\4c&H151634&\fad(250,250)\c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:02:39.51,0:02:43.66,Gen_Main,Ran,0,0,0,,Si planean resistirse, seré claro:\Nes inútil.
+Dialogue: 0,0:02:39.56,0:02:43.64,Cart_A_Tim,CARTEL,0,0,0,,{\fad(500,500)\an3\bord0\b0\c&HFFFFFF&\shad1\pos(600,300)}Dominación\Ny generación
+Dialogue: 0,0:02:47.10,0:02:49.97,Gen_Main Italics,Sagiri,0,0,0,,¿El plan B es usar la fuerza bruta?
+Dialogue: 0,0:02:50.07,0:02:53.01,Gen_Main Italics,Gabimaru,0,0,0,,No, te equivocas. Tengo un plan.
+Dialogue: 0,0:02:57.32,0:02:58.91,Gen_Main,Ran,0,0,0,,Hermana,
+Dialogue: 0,0:02:58.99,0:03:02.02,Gen_Main,Ran,0,0,0,,vuelve con nuestro hermano\Ny el gran maestro.
+Dialogue: 0,0:03:02.12,0:03:06.06,Gen_Main,Ran,0,0,0,,Nuestro hermano te exilió por amor.
+Dialogue: 0,0:03:06.29,0:03:09.31,Gen_Main,Ran,0,0,0,,Me entristece verlos peleados.
+Dialogue: 0,0:03:09.75,0:03:14.59,Gen_Main,Ran,0,0,0,,Si aún te opones a la flor Waitanhua,\Nya no tiene sentido.
+Dialogue: 0,0:03:14.67,0:03:16.01,Gen_Main,Ran,0,0,0,,El Tan perfecto…
+Dialogue: 0,0:03:16.42,0:03:18.93,Gen_Main,Ran,0,0,0,,El elixir de la vida\Npronto estará listo.
+Dialogue: 0,0:03:19.35,0:03:21.43,Gen_Main,Ran,0,0,0,,Y no convierte a los humanos en árboles.
+Dialogue: 0,0:03:21.51,0:03:23.56,Gen_Main,Gabimaru,0,0,0,,¿Qué?
+Dialogue: 0,0:03:23.81,0:03:28.34,Gen_Main,Ran,0,0,0,,Descubrimos cómo refinarlo\Ngracias a la ayuda de un humano.
+Dialogue: 0,0:03:28.90,0:03:31.82,Gen_Main,Ran,0,0,0,,Ya terminamos\Nla investigación de la flor Waitanhua.
+Dialogue: 0,0:03:32.27,0:03:34.99,Gen_Main,Ran,0,0,0,,No hay razón para seguir peleando.
+Dialogue: 0,0:03:35.28,0:03:37.68,Gen_Main,Ran,0,0,0,,Solo nos falta reunir suficiente Tan.
+Dialogue: 0,0:03:37.78,0:03:41.02,Gen_Main,Ran,0,0,0,,Necesitamos\Nmás materiales de alta calidad.
+Dialogue: 0,0:03:41.12,0:03:46.76,Gen_Main,Ran,0,0,0,,Por eso nuestro hermano\Ninició el Rito de Hekiji Fukusho.
+Dialogue: 0,0:03:47.75,0:03:51.98,Gen_Main,Ran,0,0,0,,Aún desconoces el verdadero sufrimiento\Nde nuestro hermano,
+Dialogue: 0,0:03:52.04,0:03:55.13,Gen_Main,Ran,0,0,0,,pero estoy seguro\Nde que ahora se entenderían.
+Dialogue: 0,0:03:55.21,0:03:59.89,Gen_Main Italics,Mei,0,0,0,,Pero quiero verlos una vez más.\NA Rien y al maestro.
+Dialogue: 0,0:04:00.68,0:04:02.39,Gen_Main,Sagiri,0,0,0,,Mei…
+Dialogue: 0,0:04:04.47,0:04:08.54,Gen_Main,Mei,0,0,0,,Yo también los extrañé a todos.
+Dialogue: 0,0:04:08.64,0:04:11.38,Gen_Main,Mei,0,0,0,,Pero ahora lo entiendo.
+Dialogue: 0,0:04:11.48,0:04:16.04,Gen_Main,Mei,0,0,0,,Ya no soy como ustedes.
+Dialogue: 0,0:04:26.45,0:04:30.14,Gen_Main,Mei,0,0,0,,Tanto morir como no poder morir\Nson cosas tristes.
+Dialogue: 0,0:04:31.46,0:04:33.38,Gen_Main,Mei,0,0,0,,Vine para verlos a todos.
+Dialogue: 0,0:04:36.80,0:04:39.76,Gen_Main,Mei,0,0,0,,Vine a despedirme.
+Dialogue: 0,0:04:40.47,0:04:42.56,Gen_Main,Mei,0,0,0,,Me iré de la isla.
+Dialogue: 0,0:04:51.40,0:04:54.55,Gen_Main,Ran,0,0,0,,Qué remedio.\NTerminemos con esto primero.
+Dialogue: 0,0:04:54.86,0:04:57.03,Gen_Main,Ran,0,0,0,,El rito ya comenzó.
+Dialogue: 0,0:04:57.86,0:05:00.03,Gen_Main,Ran,0,0,0,,Solo nos faltan las ofrendas.
+Dialogue: 0,0:05:00.53,0:05:04.02,Gen_Main,Ran,0,0,0,,Es decir… ustedes.
+Dialogue: 0,0:05:09.66,0:05:12.54,Gen_Main,Gabimaru,0,0,0,,Solo hay una condición para ganar.
+Dialogue: 0,0:05:13.17,0:05:15.76,Gen_Main,Gabimaru,0,0,0,,Destruir su Tanden\Ncon el Tao de dominación.
+Dialogue: 0,0:05:15.84,0:05:18.86,Gen_Main,Gabimaru,0,0,0,,Es decir,\Nun Tao de un atributo dominante.
+Dialogue: 0,0:05:18.92,0:05:23.82,Gen_Main,Shion,0,0,0,,La situación cambia\Nsegún el atributo del Tao del rival.
+Dialogue: 0,0:05:24.01,0:05:28.91,Gen_Main,Shion,0,0,0,,Por ejemplo, Gabimaru,\Ntienes ventaja sobre el metal de Gui Fa,
+Dialogue: 0,0:05:29.06,0:05:39.90,Cart_A_Tre,CARTEL,0,0,0,,{\fs25\fad(1499,0)\bord0\c&HFFFFFF&\1a&H39&\pos(385.454,14.909)}Madera
+Dialogue: 0,0:05:29.06,0:05:39.90,Cart_A_Tre,CARTEL,0,0,0,,{\fs25\fad(1499,0)\bord0\c&HFFFFFF&\1a&H39&\pos(540.363,141.818)}Fuego
+Dialogue: 0,0:05:29.06,0:05:39.90,Cart_A_Tre,CARTEL,0,0,0,,{\fs25\fad(1499,0)\bord0\c&HFFFFFF&\1a&H39&\pos(438.545,282.182)}Tierra
+Dialogue: 0,0:05:29.06,0:05:39.90,Cart_A_Tre,CARTEL,0,0,0,,{\fs25\fad(1499,0)\bord0\c&HFFFFFF&\1a&H39&\pos(207.273,277.818)}Metal
+Dialogue: 0,0:05:29.06,0:05:39.90,Cart_A_Tre,CARTEL,0,0,0,,{\fs25\fad(1499,0)\bord0\c&HFFFFFF&\1a&H39&\pos(107.636,140.364)}Agua
+Dialogue: 1,0:05:29.64,0:05:33.14,Gen_Main,Shion,0,0,0,,pero si enfrentas\Nal agua de Ran, estás perdido.
+Dialogue: 1,0:05:33.23,0:05:36.04,Gen_Main,Shion,0,0,0,,Al tocarlo,\Ntu Tao de fuego se debilitará.
+Dialogue: 1,0:05:36.11,0:05:38.86,Gen_Main,Shion,0,0,0,,No lo herirás de muerte\Naunque destruyas su Tanden.
+Dialogue: 0,0:05:38.94,0:05:42.09,Gen_Main,Shion,0,0,0,,Es decir, no tienes forma de vencerlo.
+Dialogue: 0,0:05:42.45,0:05:45.41,Gen_Main,Shion,0,0,0,,Además, la diferencia de Tao es inmensa.
+Dialogue: 0,0:05:46.03,0:05:47.41,Gen_Main,Shion,0,0,0,,¿Qué planeas hacer?
+Dialogue: 0,0:05:48.87,0:05:50.29,Gen_Main Italics,Gabimaru,0,0,0,,Tengo una idea.
+Dialogue: 0,0:05:50.37,0:05:54.64,Gen_Main Italics,Sagiri,0,0,0,,Tenía que tocarnos\Njusto su enemigo natural…
+Dialogue: 0,0:05:54.71,0:05:56.04,Gen_Main,Gabimaru/Sagiri,0,0,0,,-Sagiri.\N-¿Qué?
+Dialogue: 0,0:05:56.46,0:05:59.20,Gen_Main,Gabimaru,0,0,0,,Ve con Mei a la sala del elixir.
+Dialogue: 0,0:05:59.30,0:06:01.09,Gen_Main,Gabimaru,0,0,0,,Yuzuriha y yo lo detendremos.
+Dialogue: 0,0:06:01.17,0:06:03.18,Gen_Main,Yuzuriha,0,0,0,,¿Eh? ¿Por qué yo?
+Dialogue: 0,0:06:03.26,0:06:04.94,Gen_Main,Gabimaru,0,0,0,,El Tao de Ran es agua.
+Dialogue: 0,0:06:05.18,0:06:08.47,Gen_Main,Gabimaru,0,0,0,,Tú eres la única\Ncon el Tao de dominación: tierra.
+Dialogue: 0,0:06:10.39,0:06:14.12,Gen_Main,Mei,0,0,0,,Gabimaru, aquí no.
+Dialogue: 0,0:06:14.19,0:06:17.31,Gen_Main,Mei,0,0,0,,No es el Palacio Rentan. No hay elixir.
+Dialogue: 0,0:06:17.40,0:06:18.46,Gen_Main,Gabimaru,0,0,0,,¿Qué?
+Dialogue: 0,0:06:25.03,0:06:26.12,Gen_Main,Yuzuriha,0,0,0,,¡Qué rápido!
+Dialogue: 0,0:06:31.95,0:06:36.33,Gen_Main,Ran,0,0,0,,Como dijo mi hermana,\Neste no es el Palacio Rentan.
+Dialogue: 0,0:06:36.79,0:06:39.92,Gen_Main,Ran,0,0,0,,Es mi castillo, el Palacio Doin.
+Dialogue: 0,0:06:40.00,0:06:41.23,Gen_Main,Mei,0,0,0,,¿Por qué…?
+Dialogue: 0,0:06:41.76,0:06:45.81,Gen_Main Italics,Sagiri,0,0,0,,Pero si confirmamos la ubicación\Ndel Palacio Rentan y el Tao del Tan.
+Dialogue: 0,0:06:45.88,0:06:50.42,Gen_Main,Ran,0,0,0,,El Tao de los objetos es más fácil\Nde manipular que el de los seres vivos.
+Dialogue: 0,0:06:51.81,0:06:53.95,Gen_Main,Ran,0,0,0,,Basta con ordenarle una forma.
+Dialogue: 0,0:06:54.18,0:06:57.33,Gen_Main,Ran,0,0,0,,Hacer remodelaciones basadas\Nen el Feng Shui es mi deber.
+Dialogue: 0,0:06:57.60,0:07:01.39,Gen_Main,Ran,0,0,0,,Eso incluye construir los edificios\Ny levantar las estatuas.
+Dialogue: 0,0:07:01.98,0:07:07.98,Gen_Main,Ran,0,0,0,,Cambiar la distribución del castillo\Npara frenar su invasión fue sencillo.
+Dialogue: 0,0:07:08.07,0:07:10.72,Gen_Main,Ran,0,0,0,,El Tao de los cadáveres\Nes igual al de los objetos.
+Dialogue: 0,0:07:10.78,0:07:13.89,Gen_Main,Ran,0,0,0,,Los usé para fingir\Nque el Tan estaba aquí.
+Dialogue: 0,0:07:14.86,0:07:15.96,Gen_Main,Sagiri,0,0,0,,¡Mei!
+Dialogue: 0,0:07:16.58,0:07:19.00,Gen_Main,Ran,0,0,0,,¿Ves? Así…
+Dialogue: 0,0:07:19.08,0:07:22.50,Gen_Main,Ran,0,0,0,,Quédate quieta un momento, hermana.
+Dialogue: 0,0:07:22.59,0:07:25.67,Gen_Main Italics,Gabimaru,0,0,0,,Como suponía,\Ndebemos acabar con esto aquí.
+Dialogue: 0,0:07:25.76,0:07:27.30,Gen_Main,Yuzuriha/Gabimaru,0,0,0,,-¡Gabimaru!\N-¡Yuzuriha!
+Dialogue: 0,0:07:27.38,0:07:28.97,Gen_Main,Gabimaru,0,0,0,,¡Vamos con ese plan!
+Dialogue: 0,0:07:34.56,0:07:37.23,Gen_Main,Ran,0,0,0,,¡Maravilloso! ¡Eres muy ágil!
+Dialogue: 0,0:07:37.31,0:07:38.84,Gen_Main,Ran,0,0,0,,Pero lo lamento.
+Dialogue: 0,0:07:38.94,0:07:42.92,Gen_Main,Ran,0,0,0,,Por mucho que me golpees,\Nno podrás matarme con tu Tao.
+Dialogue: 0,0:07:45.15,0:07:47.91,Gen_Main,Ran,0,0,0,,Por lo que ella debe ser la amenaza.
+Dialogue: 0,0:07:49.11,0:07:52.31,Gen_Main,Yuzuriha,0,0,0,,Podemos imbuir Tao en las armas, ¿no?
+Dialogue: 0,0:07:52.41,0:07:53.48,Gen_Main,Mei,0,0,0,,Sí.
+Dialogue: 0,0:07:53.58,0:07:57.51,Gen_Main,Yuzuriha,0,0,0,,Entonces, es mejor atacar a distancia\Nque pelear cuerpo a cuerpo, ¿no?
+Dialogue: 0,0:07:57.58,0:08:00.61,Gen_Main,Yuzuriha,0,0,0,,Es más seguro y más fácil\Npara sorprenderlos.
+Dialogue: 0,0:08:00.71,0:08:04.90,Gen_Main,Yuzuriha,0,0,0,,Como los Tensen se regeneran,\Nsuelen tener la guardia baja.
+Dialogue: 0,0:08:06.63,0:08:07.80,Gen_Main,Yuzuriha,0,0,0,,¡Rayos!
+Dialogue: 0,0:08:07.88,0:08:09.82,Gen_Main,Yuzuriha,0,0,0,,¿Por qué? ¡Debería dominarlo!
+Dialogue: 0,0:08:14.43,0:08:17.85,Gen_Main Italics,Gabimaru,0,0,0,,Como suponía, bloquear sus ataques\Nrequiere mucho esfuerzo.
+Dialogue: 0,0:08:17.94,0:08:20.33,Gen_Main Italics,Gabimaru,0,0,0,,¿Es el efecto de la dominación?
+Dialogue: 0,0:08:20.40,0:08:24.18,Gen_Main Italics,Gabimaru,0,0,0,,Pero, sobre todo, es diferente\Na cuando enfrentamos a Zhu Jin.
+Dialogue: 0,0:08:24.27,0:08:26.13,Gen_Main Italics,Gabimaru,0,0,0,,¿Por qué es tan duro?
+Dialogue: 0,0:08:29.36,0:08:33.01,Gen_Main,Ran,0,0,0,,Estiro mi Tao\Nen hilos finos y los agrupo.
+Dialogue: 0,0:08:33.28,0:08:37.24,Gen_Main,Ran,0,0,0,,Son duros y flexibles,\Ncomo si fueran fibras musculares.
+Dialogue: 0,0:08:37.33,0:08:39.64,Gen_Main,Yuzuriha,0,0,0,,¿O sea que…?
+Dialogue: 0,0:08:40.71,0:08:43.88,Gen_Main,Gabimaru,0,0,0,,Tiene el cuerpo cubierto\Ncon una armadura de Tao muy sólida.
+Dialogue: 0,0:08:44.21,0:08:48.18,Gen_Main,Ran,0,0,0,,Si su plan era ese ataque coordinado,\Nlamento decirles que es inútil.
+Dialogue: 0,0:08:49.55,0:08:53.93,Gen_Main,Ran,0,0,0,,A diferencia de una armadura,\Nel Tao no tiene puntos ciegos.
+Dialogue: 0,0:08:54.01,0:08:59.45,Gen_Main,Ran,0,0,0,,Esta armonía entre músculos y Tao\Nes la verdad del cuerpo físico.
+Dialogue: 0,0:08:59.52,0:09:02.12,Gen_Main,Yuzuriha,0,0,0,,¿Todos los Tensen están así de locos?
+Dialogue: 0,0:09:02.19,0:09:03.19,Gen_Main,Gabimaru,0,0,0,,Yo qué sé.
+Dialogue: 0,0:09:03.44,0:09:05.31,Gen_Main,Sagiri,0,0,0,,Liberémosla ahora que podemos.
+Dialogue: 0,0:09:22.62,0:09:24.34,Gen_Main,Gabimaru,0,0,0,,Ninjutsu: Torrente Relámpago.
+Dialogue: 0,0:09:28.59,0:09:29.81,Gen_Main,Sagiri,0,0,0,,¡Gabimaru!
+Dialogue: 0,0:09:30.88,0:09:33.14,Gen_Main Italics,Yuzuriha,0,0,0,,No solo es resistente.
+Dialogue: 0,0:09:33.51,0:09:36.87,Gen_Main Italics,Yuzuriha,0,0,0,,Sabe pelear mejor que Mu Dan.
+Dialogue: 0,0:09:36.97,0:09:38.32,Gen_Main Italics,Yuzuriha,0,0,0,,Si seguimos así…
+Dialogue: 0,0:09:39.60,0:09:41.46,Gen_Main,Gabimaru,0,0,0,,No se preocupen.
+Dialogue: 0,0:09:42.85,0:09:44.65,Gen_Main,Gabimaru,0,0,0,,Está dentro de lo previsto.
+Dialogue: 0,0:09:45.11,0:09:46.88,Gen_Main,Gabimaru,0,0,0,,Ya entendí cómo funciona.
+Dialogue: 0,0:09:46.98,0:09:48.71,Gen_Main,Gabimaru,0,0,0,,Empecemos, Yuzuriha.
+Dialogue: 0,0:09:49.48,0:09:51.51,Gen_Main,Yuzuriha,0,0,0,,Sí, sí, ya era hora.
+Dialogue: 0,0:09:51.61,0:09:53.30,Gen_Main,Yuzuriha,0,0,0,,Pensé que iba a morir.
+Dialogue: 0,0:09:53.91,0:09:55.30,Gen_Main Italics,Ran,0,0,0,,¿Empezar?
+Dialogue: 0,0:09:55.91,0:09:58.37,Gen_Main Italics,Ran,0,0,0,,¿Lo de antes no era su plan?
+Dialogue: 0,0:10:00.70,0:10:03.87,Gen_Main Italics,Ran,0,0,0,,La cantidad y el atributo de su Tao\Nno han cambiado.
+Dialogue: 0,0:10:03.96,0:10:07.63,Gen_Main Italics,Ran,0,0,0,,No podrá ni rasguñar mis músculos.
+Dialogue: 0,0:10:07.71,0:10:10.34,Gen_Main,Ran,0,0,0,,Inténtalo cuanto quieras.\NEl resultado será el mismo.
+Dialogue: 0,0:10:19.47,0:10:21.12,Gen_Main,Gabimaru,0,0,0,,Parece que funcionó.
+Dialogue: 0,0:10:25.98,0:10:28.27,Gen_Main,Gabimaru,0,0,0,,Confirmé el primer método.
+Dialogue: 0,0:10:28.36,0:10:30.56,Gen_Main,Gabimaru,0,0,0,,Ahora vamos con el segundo.
+Dialogue: 0,0:10:41.54,0:10:43.29,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H93D4F0&\c&H4D6BCF&\org(373,222.2)\fry-3.44\frx34.98\frz-4.89\fax0.01\be1\fscx82\fscy100\pos(384.728,218.545)}Yuzuriha
+Dialogue: 0,0:10:41.54,0:10:43.29,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H93D4F0&\c&H4D6BCF&\org(373,222.2)\fry-3.44\frx34.98\frz-4.89\fax0.01\be1\pos(314.91,129.818)\fscx102\fscy125}Gabimaru
+Dialogue: 0,0:10:41.54,0:10:43.29,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H93D4F0&\c&H4D6BCF&\org(373,222.2)\fry-3.44\frx34.98\frz-4.89\fax0.01\be1\fscx82\fscy100\pos(210.182,186.545)}Sagiri\NYamada\NAsaemon
+Dialogue: 0,0:10:43.29,0:10:46.16,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H2D7495&\c&H19147B&\fscx171\fscy171\pos(278.545,20)\be1\fad(0,1000)}Gabimaru
+Dialogue: 0,0:10:43.75,0:10:46.16,Gen_Main,Rien,0,0,0,,Los nombres de los que desembarcaron.
+Dialogue: 0,0:10:46.25,0:10:48.99,Gen_Main,Rien,0,0,0,,Los ritos y las maldiciones\Nrequieren nombres.
+Dialogue: 0,0:10:49.09,0:10:52.81,Gen_Main,Rien,0,0,0,,Usaré sus nombres\Npara el Rito de Hekiji Fukusho.
+Dialogue: 0,0:10:52.88,0:10:55.09,Gen_Main,Ju Fa,0,0,0,,Entonces,\N¿los capturamos para que hablen?
+Dialogue: 0,0:10:55.18,0:10:56.55,Gen_Main,Chobee,0,0,0,,Gabimaru.
+Dialogue: 0,0:10:56.64,0:11:00.51,Gen_Main,Chobee,0,0,0,,Gabimaru el Vacío, Gantetsusai Tamiya.
+Dialogue: 0,0:11:00.93,0:11:06.13,Gen_Main,Chobee,0,0,0,,Me sé de memoria los nombres de todos,\Nincluidos los de los verdugos.
+Dialogue: 0,0:11:06.23,0:11:09.19,Gen_Main,Chobee,0,0,0,,Aunque no sé quiénes siguen vivos.
+Dialogue: 0,0:11:09.73,0:11:12.01,Gen_Main,Chobee,0,0,0,,Mi hermano está entre ellos.
+Dialogue: 0,0:11:12.28,0:11:14.65,Gen_Main,Chobee,0,0,0,,Peleamos contra ti una vez.
+Dialogue: 0,0:11:15.24,0:11:17.60,Gen_Main,Chobee,0,0,0,,No tiene sentido ocultarlo ahora.
+Dialogue: 0,0:11:17.70,0:11:20.29,Gen_Main,Chobee,0,0,0,,Solo tengo una condición para cooperar.
+Dialogue: 0,0:11:20.62,0:11:22.51,Gen_Main,Chobee,0,0,0,,La seguridad de mi hermano.
+Dialogue: 0,0:11:22.58,0:11:25.84,Gen_Main,Chobee,0,0,0,,Si me la garantizan,\Nme uniré a su bando.
+Dialogue: 0,0:11:25.91,0:11:29.84,Gen_Main,Chobee,0,0,0,,Llévenme a ese rito o lo que sea.
+Dialogue: 0,0:11:30.25,0:11:35.24,Gen_Main,Chobee,0,0,0,,Yo mismo reclutaré a mi hermano.\NUstedes no interfieran.
+Dialogue: 0,0:11:36.93,0:11:39.40,Gen_Main,Rien,0,0,0,,Entonces, dime los nombres de todos.
+Dialogue: 0,0:11:40.05,0:11:43.06,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H1250CC&\c&H11079D&\be1\org(116.1,473.3)\fry-2.94\frx7.34\frz49.57\fax0.05\pos(556.364,514.545)\fscx313\fscy313}Keiun
+Dialogue: 0,0:11:40.05,0:11:42.52,Gen_Main,Rien,0,0,0,,Usaré mis talismanes\Npara ver su estado actual.
+Dialogue: 0,0:11:43.93,0:11:45.85,Gen_Main,Rien,0,0,0,,Keiun el Retorcido.
+Dialogue: 0,0:11:49.73,0:11:52.12,Gen_Main,Rien,0,0,0,,Kisho Yamada Asaemon.
+Dialogue: 0,0:11:53.90,0:11:55.67,Gen_Main,Rien,0,0,0,,Rokurota.
+Dialogue: 0,0:11:56.74,0:11:59.06,Gen_Main,Rien,0,0,0,,Eizen Yamada Asaemon.
+Dialogue: 0,0:12:00.49,0:12:02.01,Gen_Main,Rien,0,0,0,,Akaginu.
+Dialogue: 0,0:12:03.45,0:12:05.82,Gen_Main,Rien,0,0,0,,Shion Yamada Asaemon.
+Dialogue: 0,0:12:06.79,0:12:10.17,Cart_A_Tre,CARTEL,0,0,0,,{\fad(374,0)\3c&H6BC1D7&\c&H3D39C3&\be1}Shion Yamada Asaemon
+Dialogue: 0,0:12:16.22,0:12:22.21,Gen_Main,Rien,0,0,0,,Vivo. Madera. Domina muy bien el Tao.
+Dialogue: 0,0:12:20.55,0:12:23.97,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H3C80B6&\c&H3A2DC3&\org(536.4,307.4)\fry23.37\frx37.88\frz-11.19\fax-0.01\be1\fad(0,2000)\pos(417.455,212.727)\fscx68\fscy100}Shion\NYamada\NAsaemon
+Dialogue: 0,0:12:20.55,0:12:23.97,Cart_A_Tre,CARTEL,0,0,0,,{\fad(0,2000)\3c&H3C80B6&\c&H3A2DC3&\org(536.4,307.4)\fry23.37\frx37.88\frz-11.19\fax-0.01\be1\fscx68\fscy100\pos(350.546,251.272)}Nurugai
+Dialogue: 0,0:12:22.97,0:12:25.81,Gen_Main,Rien,0,0,0,,Se encontró con Zhu Jin\Nen el Palacio Taisoku.
+Dialogue: 0,0:12:27.27,0:12:31.66,Gen_Main,Rien,0,0,0,,La madera de Shion\Nno domina al agua de Zhu Jin.
+Dialogue: 0,0:12:31.73,0:12:34.40,Gen_Main,Rien,0,0,0,,Por lo tanto,\Nno tiene forma de matarlo.
+Dialogue: 0,0:12:34.48,0:12:36.99,Gen_Main,Rien,0,0,0,,Su acompañante, Nurugai,\Ntiene el atributo agua.
+Dialogue: 0,0:12:37.07,0:12:41.04,Gen_Main,Rien,0,0,0,,Sus ataques funcionan contra Zhu Jin,\Npero su nivel de Tao es bajo.
+Dialogue: 0,0:12:41.11,0:12:42.75,Gen_Main,Rien,0,0,0,,No es rival para él.
+Dialogue: 0,0:12:50.37,0:12:52.77,Gen_Main,Rien,0,0,0,,Pero percibo una ira intensa.
+Dialogue: 0,0:12:53.54,0:12:56.74,Gen_Main,Rien,0,0,0,,Las emociones impactan drásticamente\Nal Tao de los humanos.
+Dialogue: 0,0:12:55.88,0:12:58.88,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(1000,0)\c&H1D1C98&\3c&H2D80A0&\be2\fry-6.04\frx5.84\frz30.37\fax-0.1\fs25\t(\fs22)\move(141.092,35.636,119.273,205.091,20,2981)}Toma\NYamada\h\NAsaemon\h\h
+Dialogue: 0,0:12:55.88,0:12:58.88,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(1000,0)\c&H1D1C98&\3c&H2D80A0&\be2\fax-0.1\fs25\t(\fs22)\frz35.04\frx5.84\fry5.96\move(389.091,15.273,347.636,177.455,20,2981)}Fuchi\NYamada\h\NAsaemon\h\h\N\N\N\N\N\N
+Dialogue: 0,0:12:55.88,0:12:58.88,Cart_A_Tre,CARTEL,0,0,0,,{\an2\fad(1000,0)\c&H1D1C98&\3c&H2D80A0&\be2\fax-0.1\fs25\t(\fs22)\frz41.33\move(646.545,19.637,584.726,170.91,20,2981)\frx5.84\fry1.96}Gantetsusai\NTamiya\h\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N\N
+Dialogue: 0,0:12:56.84,0:12:58.48,Gen_Main,Rien,0,0,0,,No podemos bajar la guardia.
+Dialogue: 0,0:12:58.97,0:13:02.82,Gen_Main,Rien,0,0,0,,Fuchi Yamada Asaemon\Ny Gantetsusai Tamiya.
+Dialogue: 0,0:13:03.93,0:13:07.66,Gen_Main,Rien,0,0,0,,Se encontraron con Tao Fa y Ju Fa\Nen el Palacio Bochu.
+Dialogue: 0,0:13:07.72,0:13:11.29,Gen_Main,Rien,0,0,0,,El metal de Fuchi domina a Tao Fa,
+Dialogue: 0,0:13:11.35,0:13:14.43,Gen_Main,Rien,0,0,0,,pero a ambos les falta\Nentrenamiento en el Tao.
+Dialogue: 0,0:13:14.52,0:13:16.98,Gen_Main,Rien,0,0,0,,Al contrario,\Nel fuego de Ju Fa domina a Fuchi.
+Dialogue: 0,0:13:17.07,0:13:19.49,Gen_Main,Rien,0,0,0,,Van a matarlos a ambos.
+Dialogue: 0,0:13:19.82,0:13:21.05,Gen_Main,Rien,0,0,0,,Y entonces…
+Dialogue: 0,0:13:27.08,0:13:29.99,Gen_Main,Rien,0,0,0,,Chobee reclutará a su hermano menor.
+Dialogue: 0,0:13:30.08,0:13:31.61,Gen_Main,Rien,0,0,0,,Debería ser fácil.
+Dialogue: 0,0:13:33.17,0:13:35.34,Gen_Main,Rien,0,0,0,,Debemos vigilar…
+Dialogue: 0,0:13:35.34,0:13:36.21,Cart_A_Tre,CARTEL,0,0,0,,{\3c&H76CAE5&\c&H323DC4&\pos(319.273,48.364)\be1}Gabimaru
+Dialogue: 0,0:13:35.42,0:13:37.04,Gen_Main,Rien,0,0,0,,a este hombre.
+Dialogue: 0,0:13:39.13,0:13:42.72,Gen_Main Italics,Sagiri,0,0,0,,¿Este es el "primer método"\Nque mencionó Gabimaru?
+Dialogue: 0,0:13:44.80,0:13:48.06,Gen_Main,Gabimaru,0,0,0,,El Tao es como una corriente de agua\Nque cubre el cuerpo.
+Dialogue: 0,0:13:48.14,0:13:50.19,Gen_Main,Gabimaru,0,0,0,,Es un fenómeno físico.
+Dialogue: 0,0:13:50.27,0:13:53.44,Gen_Main,Gabimaru,0,0,0,,La velocidad y tamaño de la corriente\Nse convierten en fuerza.
+Dialogue: 0,0:13:56.15,0:13:59.39,Gen_Main,Gabimaru,0,0,0,,Los atributos son las diferencias\Nen la dirección del flujo.
+Dialogue: 0,0:13:59.82,0:14:03.45,Gen_Main,Gabimaru,0,0,0,,La generación es una corriente\Nque impulsa el flujo del oponente.
+Dialogue: 0,0:14:03.82,0:14:06.18,Gen_Main,Gabimaru,0,0,0,,La dominación es una que lo bloquea.
+Dialogue: 0,0:14:07.28,0:14:10.35,Gen_Main,Gabimaru,0,0,0,,Pero las corrientes de Tao\Nde los Tensen son tan inmensas
+Dialogue: 0,0:14:10.44,0:14:12.58,Gen_Main,Gabimaru,0,0,0,,que las leyes normales no aplican.
+Dialogue: 0,0:14:13.08,0:14:14.96,Gen_Main,Gabimaru,0,0,0,,Existen tres contramedidas.
+Dialogue: 0,0:14:15.46,0:14:18.77,Gen_Main,Gabimaru,0,0,0,,Superar su cantidad de Tao\Nmomentánea o localmente.
+Dialogue: 0,0:14:18.96,0:14:24.85,Gen_Main,Gabimaru,0,0,0,,O al revés: debilitar el Tao en un punto\Npara desviar los ataques.
+Dialogue: 0,0:14:25.39,0:14:29.47,Gen_Main,Gabimaru,0,0,0,,Hay que montarse en su corriente\Ny devolverla tal cual,
+Dialogue: 0,0:14:29.56,0:14:34.12,Gen_Main,Gabimaru,0,0,0,,sin aceleración por generación\Nni repulsión por dominación.
+Dialogue: 0,0:14:39.79,0:14:43.38,Gen_Main,Gabimaru,0,0,0,,Es similar a las técnicas del Tai Chi\Npara absorber ataques del rival.
+Dialogue: 0,0:14:43.86,0:14:46.97,Gen_Main,Gabimaru,0,0,0,,Son técnicas\Npara devolver la fuerza del oponente.
+Dialogue: 0,0:14:47.07,0:14:48.96,Gen_Main,Shion,0,0,0,,¿Es posible hacer eso?
+Dialogue: 0,0:14:49.03,0:14:52.72,Gen_Main,Gabimaru,0,0,0,,No es fácil, pero es una aplicación\Nde lo que he aprendido.
+Dialogue: 0,0:14:52.79,0:14:56.30,Gen_Main,Gabimaru,0,0,0,,Aprendí a usar el Tao del rival\Nentrenando con Nurugai.
+Dialogue: 0,0:14:57.04,0:14:59.71,Gen_Main,Gabimaru,0,0,0,,A diluirlo al límite, de Yuzuriha.
+Dialogue: 0,0:15:00.30,0:15:03.59,Gen_Main,Gabimaru,0,0,0,,Y la manipulación parcial, de Shion.
+Dialogue: 0,0:15:03.67,0:15:04.74,Gen_Main,Gabimaru,0,0,0,,Y…
+Dialogue: 0,0:15:10.43,0:15:13.51,Gen_Main Italics,Gabimaru,0,0,0,,Para sincronizar mi respiración\Ncon su Tao…
+Dialogue: 0,0:15:16.06,0:15:19.08,Gen_Main Italics,Gabimaru,0,0,0,,debo equilibrar\Nla calma y la intensidad.
+Dialogue: 0,0:15:19.44,0:15:23.15,Gen_Main Italics,Gabimaru,0,0,0,,Desviaré los ataques\Ncon mi mente en el "Camino del Medio".
+Dialogue: 0,0:15:23.23,0:15:28.55,Gen_Main Italics,Gabimaru,0,0,0,,Esa técnica la aprendí de ti, Sagiri.
+Dialogue: 0,0:15:28.70,0:15:30.76,Gen_Main,Sagiri,0,0,0,,Es la suma de todo lo que has aprendido.
+Dialogue: 0,0:15:30.83,0:15:34.29,Gen_Main,Gabimaru,0,0,0,,Sí. Lo enfrentaré\Ncon todo lo que tengo.
+Dialogue: 0,0:15:38.54,0:15:42.00,Gen_Main Italics,Gabimaru,0,0,0,,Al diluir mi Tao,\Nmi defensa también se debilita.
+Dialogue: 0,0:15:42.30,0:15:45.50,Gen_Main Italics,Gabimaru,0,0,0,,Me basta\Ncon seguir desviando los ataques,
+Dialogue: 0,0:15:45.59,0:15:47.97,Gen_Main Italics,Gabimaru,0,0,0,,pero incluso un roce\Nme supone una gran carga.
+Dialogue: 0,0:15:48.30,0:15:50.29,Gen_Main Italics,Gabimaru,0,0,0,,Un golpe directo sería fatal.
+Dialogue: 0,0:15:52.22,0:15:53.85,Gen_Main,Ran,0,0,0,,Espléndido.
+Dialogue: 0,0:15:54.43,0:15:55.85,Gen_Main,Ran,0,0,0,,Ahora que veo mejor,
+Dialogue: 0,0:15:55.93,0:15:59.98,Gen_Main,Ran,0,0,0,,se nota que empezaste\Na refinar el Tao al llegar a la isla.
+Dialogue: 0,0:16:00.06,0:16:03.00,Gen_Main,Ran,0,0,0,,Y, aun así, llegaste a este nivel.
+Dialogue: 0,0:16:06.70,0:16:11.09,Gen_Main,Ran,0,0,0,,Hay muchos que descubren el Tao
+Dialogue: 0,0:16:11.53,0:16:14.66,Gen_Main,Ran,0,0,0,,al ser expuestos al denso Tao\Nque flota en la isla.
+Dialogue: 0,0:16:14.74,0:16:19.42,Gen_Main,Ran,0,0,0,,De hecho, ese es uno\Nde los propósitos de este lugar,
+Dialogue: 0,0:16:19.87,0:16:23.73,Gen_Main,Ran,0,0,0,,pero eso no explica\Ntu capacidad de adaptación.
+Dialogue: 0,0:16:23.80,0:16:25.26,Gen_Main,Ran,0,0,0,,Sin duda tienes talento.
+Dialogue: 0,0:16:25.34,0:16:27.65,Gen_Main,Ran,0,0,0,,Al punto de que me impresionas.
+Dialogue: 0,0:16:27.97,0:16:29.62,Gen_Main,Gabimaru,0,0,0,,¿Talento?
+Dialogue: 0,0:16:30.18,0:16:32.00,Gen_Main,Gabimaru,0,0,0,,¿Dices que tengo talento?
+Dialogue: 0,0:16:32.80,0:16:34.99,Gen_Main,Gabimaru,0,0,0,,No, no es nada de eso.
+Dialogue: 0,0:16:35.64,0:16:38.91,Gen_Main,Gabimaru,0,0,0,,Es una medida desesperada\Nque nace de una lucha agónica.
+Dialogue: 0,0:16:41.52,0:16:46.71,Gen_Main,Gabimaru,0,0,0,,Es la suma de lo que los humanos\Ndescubrimos entre tantos sacrificios.
+Dialogue: 0,0:16:46.94,0:16:49.83,Gen_Main,Gabimaru,0,0,0,,Y todo con el fin de matarlos.
+Dialogue: 0,0:16:49.90,0:16:52.75,Gen_Main,Gabimaru,0,0,0,,Pero ignoras todo eso\Ny dices que es talento.
+Dialogue: 0,0:16:52.82,0:16:55.22,Gen_Main,Gabimaru,0,0,0,,Qué forma tan superficial de decirlo.
+Dialogue: 0,0:16:56.58,0:16:57.65,Gen_Main,Sagiri,0,0,0,,Salió.
+Dialogue: 0,0:16:58.29,0:17:02.84,Gen_Main,Sagiri,0,0,0,,Gabimaru, iremos al Palacio Rentan\Na buscar el elixir.
+Dialogue: 0,0:17:02.92,0:17:04.61,Gen_Main,Ran,0,0,0,,¡No se muevan de ahí!
+Dialogue: 0,0:17:05.59,0:17:06.92,Gen_Main Italics,Gabimaru,0,0,0,,El elixir.
+Dialogue: 0,0:17:07.01,0:17:08.38,Gen_Main Italics,Gabimaru,0,0,0,,Es nuestra oportunidad.
+Dialogue: 0,0:17:08.47,0:17:10.47,Gen_Main Italics,Gabimaru,0,0,0,,Los otros ermitaños están peleando.
+Dialogue: 0,0:17:10.74,0:17:12.97,Gen_Main Italics,Gabimaru,0,0,0,,El rito… ¿Cuál es el riesgo?
+Dialogue: 0,0:17:13.22,0:17:14.22,Gen_Main,Gabimaru,0,0,0,,¡Se lo encargo!
+Dialogue: 0,0:17:14.30,0:17:15.30,Gen_Main,Sagiri,0,0,0,,¡Sí!
+Dialogue: 0,0:17:16.64,0:17:17.83,Gen_Main,Ran,0,0,0,,Esperen…
+Dialogue: 0,0:17:18.48,0:17:22.04,Gen_Main Italics,Ran,0,0,0,,¿Planea usar mi Tao otra vez?
+Dialogue: 0,0:17:22.10,0:17:24.50,Gen_Main Italics,Ran,0,0,0,,Entonces, lo debilitaré…
+Dialogue: 0,0:17:28.65,0:17:30.49,Gen_Main Italics,Ran,0,0,0,,La mujer de la dominación.
+Dialogue: 0,0:17:30.57,0:17:33.01,Gen_Main Italics,Ran,0,0,0,,¿Estaba esperando esto?
+Dialogue: 0,0:17:33.49,0:17:37.23,Gen_Main Italics,Ran,0,0,0,,Qué habilidad física y coordinación\Ntan espléndidas.
+Dialogue: 0,0:17:37.33,0:17:41.24,Gen_Main Italics,Ran,0,0,0,,Con ellos podría llegar\Na nuevas cimas del Tao.
+Dialogue: 0,0:17:41.33,0:17:43.03,Gen_Main Italics,Ran,0,0,0,,Son los mejores oponentes.
+Dialogue: 0,0:17:43.12,0:17:44.27,Gen_Main Italics,Ran,0,0,0,,Pero…
+Dialogue: 0,0:17:44.75,0:17:45.75,Gen_Main,Yuzuriha,0,0,0,,¡Ahí va otro!
+Dialogue: 0,0:17:45.84,0:17:46.95,Gen_Main,Gabimaru,0,0,0,,¡Espera!
+Dialogue: 0,0:18:00.48,0:18:03.72,Gen_Main,Ran,0,0,0,,Lo lamento, pero esto es un rito.
+Dialogue: 0,0:18:03.81,0:18:05.78,Gen_Main,Ran,0,0,0,,No tengo tiempo para jugar.
+Dialogue: 0,0:18:09.15,0:18:10.15,Gen_Main,Yuzuriha,0,0,0,,¿Esto es…?
+Dialogue: 0,0:18:10.57,0:18:11.57,Gen_Main,Gabimaru,0,0,0,,Sí.
+Dialogue: 0,0:18:14.78,0:18:15.78,Gen_Main,Gabimaru,0,0,0,,Ahí viene.
+Dialogue: 0,0:18:16.12,0:18:17.93,Gen_Main,Gabimaru,0,0,0,,Ahora empieza la verdadera batalla.
+Dialogue: 0,0:18:38.51,0:18:40.45,Gen_Main,Ran,0,0,0,,Es una lástima.
+Dialogue: 0,0:18:45.48,0:18:48.01,Gen_Main,Rien,0,0,0,,Así que Ran utilizó\Nla Resurrección Demoníaca.
+Dialogue: 0,0:18:51.11,0:18:58.58,Cart_A_Tre,CARTEL,0,0,0,,{\bord4\3c&H399DB8&\c&H201EA1&\be1\org(727,937)\fry0.97\frx6.91\frz-38.63\pos(-282.545,21.273)\fscx231\fscy231}Gabimaru
+Dialogue: 0,0:18:51.19,0:18:53.44,Gen_Main,Rien,0,0,0,,Eso no pasaba desde hace siglos.
+Dialogue: 0,0:18:53.53,0:18:58.58,Gen_Main,Rien,0,0,0,,Eso demuestra el gran material\Nque es este hombre tan poderoso.
+Dialogue: 0,0:18:59.74,0:19:01.33,Gen_Main,Rien,0,0,0,,Gran maestro.
+Dialogue: 0,0:19:01.58,0:19:05.07,Gen_Main,Rien,0,0,0,,La semilla del elixir está completa.
+Dialogue: 0,0:19:05.17,0:19:08.96,Gen_Main,Rien,0,0,0,,Primero, la multiplicaremos\Ncon los invasores, cruzaremos el mar
+Dialogue: 0,0:19:09.04,0:19:11.59,Gen_Main,Rien,0,0,0,,y reuniremos más ingredientes.
+Dialogue: 0,0:19:12.88,0:19:16.77,Gen_Main,Rien,0,0,0,,Esta noche por fin acabará todo.
+Dialogue: 0,0:19:17.43,0:19:19.60,Gen_Main,Ran,0,0,0,,Es una lástima.
+Dialogue: 0,0:19:20.68,0:19:25.60,Gen_Main Italics,Gabimaru,0,0,0,,Primero, debo identificar la corriente\Ny los patrones de su Tao como antes.
+Dialogue: 0,0:19:25.69,0:19:27.37,Gen_Main Italics,Gabimaru,0,0,0,,¿Podré desviarlo?
+Dialogue: 0,0:19:30.27,0:19:36.97,Gen_Main,Ran,0,0,0,,¡El movimiento del cuerpo!
+Dialogue: 0,0:19:49.96,0:19:52.99,Gen_Main Italics,Yuzuriha,0,0,0,,Es demasiado poderoso.
+Dialogue: 0,0:20:03.06,0:20:04.47,Gen_Main,Mei,0,0,0,,Por aquí. Se puede pasar.
+Dialogue: 0,0:20:04.54,0:20:05.54,Gen_Main,Sagiri,0,0,0,,Bien.
+Dialogue: 0,0:20:12.15,0:20:15.07,Gen_Main,Sagiri,0,0,0,,Gabimaru estará bien.
+Dialogue: 0,0:20:29.29,0:20:33.39,Gen_Main Italics,Gabimaru,0,0,0,,Está midiendo mi resistencia\Ny evita darme golpes mortales.
+Dialogue: 0,0:20:33.84,0:20:36.04,Gen_Main Italics,Gabimaru,0,0,0,,¿Quiere convertirnos en Tan?
+Dialogue: 0,0:20:36.55,0:20:38.62,Gen_Main Italics,Gabimaru,0,0,0,,No es como Zhu Jin o Mu Dan.
+Dialogue: 0,0:20:39.30,0:20:42.13,Gen_Main Italics,Gabimaru,0,0,0,,Ran conserva su raciocinio\Ntras transformarse.
+Dialogue: 0,0:20:42.22,0:20:44.42,Gen_Main Italics,Gabimaru,0,0,0,,Tiene técnica y estrategia.
+Dialogue: 0,0:20:44.72,0:20:45.81,Gen_Main Italics,Gabimaru,0,0,0,,Mierda.
+Dialogue: 0,0:20:46.35,0:20:47.63,Gen_Main Italics,Gabimaru,0,0,0,,Pierdo la consciencia…
+Dialogue: 0,0:20:48.35,0:20:50.04,Gen_Main,Gabimaru,0,0,0,,Hay un problema.
+Dialogue: 0,0:20:50.44,0:20:52.73,Gen_Main,Gabimaru,0,0,0,,El Tao es la vida misma.
+Dialogue: 0,0:20:52.81,0:20:56.90,Gen_Main,Gabimaru,0,0,0,,Al usarlo estando malheridos,\Npodría acortar nuestras vidas.
+Dialogue: 0,0:20:56.99,0:20:59.39,Gen_Main,Ran,0,0,0,,El movimiento del cuerpo.
+Dialogue: 0,0:21:06.16,0:21:10.27,Gen_Main,Gabimaru,0,0,0,,Ninjutsu: Torrente…
+Dialogue: 0,0:21:10.37,0:21:13.80,Gen_Main,Gabimaru,0,0,0,,Por eso, de acuerdo\Na la afinidad de Tao con el rival,
+Dialogue: 0,0:21:13.88,0:21:16.52,Gen_Main,Gabimaru,0,0,0,,te protegeré por motivos estratégicos.
+Dialogue: 0,0:21:17.21,0:21:21.77,Gen_Main,Yuzuriha,0,0,0,,Aunque ambos somos shinobi,\Nno nos parecemos en nada.
+Dialogue: 0,0:21:22.84,0:21:26.75,Gen_Main,Yuzuriha,0,0,0,,En un momento crítico,\Nyo solo me protegeré a mí misma.
+Dialogue: 0,0:21:38.61,0:21:39.86,Gen_Main,Yuzuriha,0,0,0,,Nos retiramos por ahora.
+Dialogue: 0,0:21:40.40,0:21:42.10,Gen_Main,Yuzuriha,0,0,0,,Buscaremos otra oportunidad.
+Dialogue: 0,0:21:42.20,0:21:44.99,Gen_Main,Yuzuriha,0,0,0,,Mientras no muramos,\Nya se nos ocurrirá algo.
+Dialogue: 0,0:21:45.07,0:21:48.08,Gen_Main,Yuzuriha,0,0,0,,Mi vida es mi máxima prioridad.
+Dialogue: 0,0:21:48.16,0:21:50.33,Gen_Main,Yuzuriha,0,0,0,,Paso de arriesgarla.
+Dialogue: 0,0:22:06.80,0:22:09.60,Gen_Main,Ran,0,0,0,,Ya es suficiente.
+Dialogue: 0,0:22:13.98,0:22:19.61,Gen_Main,Ran,0,0,0,,El ingrediente para el Tan es la vida,
+Dialogue: 0,0:22:19.72,0:22:22.28,Gen_Main,Ran,0,0,0,,pero eres demasiado resistente.
+Dialogue: 0,0:22:23.20,0:22:26.08,Gen_Main,Ran,0,0,0,,Ya es suficiente.
+Dialogue: 0,0:22:33.87,0:22:35.31,Gen_Main,Gabimaru,0,0,0,,Pienso lo mismo.
+Dialogue: 0,0:22:39.63,0:22:41.94,Gen_Main Italics,Gabimaru,0,0,0,,Mi vida es mi máxima prioridad.
+Dialogue: 0,0:22:42.01,0:22:43.32,Gen_Main Italics,Gabimaru,0,0,0,,No pienso morir.
+Dialogue: 0,0:22:44.88,0:22:47.69,Gen_Main Italics,Gabimaru,0,0,0,,Mi objetivo es regresar con vida…
+Dialogue: 0,0:22:49.35,0:22:53.18,Gen_Main Italics,Gabimaru,0,0,0,,vivir y ver a mi esposa.
+Dialogue: 0,0:24:20.73,0:24:25.03,Cart_A_Tre,CARTEL,0,0,0,,{\an8\fad(500,0)\fs18\bord1}Traducción: Gekokujou\NPautado: Thomas Benaissa\NEdición: Álvaro Jimeno\NControl de calidad: Nicolás Sepúlveda

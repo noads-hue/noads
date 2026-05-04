@@ -1,0 +1,333 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:30.22,0:00:34.51,Gen_Italics,Narrador,0000,0000,0000,,La muerte por decapitación requiere\Nde una gran habilidad con la espada.
+Dialogue: 0,0:00:35.06,0:00:39.31,Gen_Italics,Narrador,0000,0000,0000,,El cuello está constituido por duros\Nhuesos y más de diez músculos apilados.
+Dialogue: 0,0:00:39.52,0:00:41.73,Gen_Italics,Narrador,0000,0000,0000,,No es posible cercenarlo tan fácilmente.
+Dialogue: 0,0:00:39.52,0:00:43.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\org(481.6,138.8)\fry-4.92\frx-11.84\frz1.34\fs14\c&H533F37&\3c&H7B6556&\be.2\bord0\pos(489,43)}Todo el espíritu\Nen un golpe
+Dialogue: 0,0:00:42.35,0:00:43.98,Gen_Main,Verdugo A,0000,0000,0000,,¿Tus últimas palabras?
+Dialogue: 0,0:00:44.32,0:00:45.48,Gen_Main,Gabimaru,0000,0000,0000,,Nada que decir.
+Dialogue: 0,0:00:47.32,0:00:50.65,Gen_Italics,Narrador,0000,0000,0000,,Cortarlo de un solo tajo\Nes una técnica difícil en extremo.
+Dialogue: 0,0:00:51.07,0:00:53.49,Gen_Italics,Narrador,0000,0000,0000,,Por lo general,\Nhay que intentar varios cortes.
+Dialogue: 0,0:00:53.70,0:00:56.74,Gen_Italics,Narrador,0000,0000,0000,,Y el sitio de la ejecución\Nqueda hecho un desastre.
+Dialogue: 0,0:01:06.71,0:01:08.71,Cart_A_Tre,CARTEL,0000,0000,0000,,{\org(481.6,138.8)\fry-4.92\be.2\frx-11.84\frz1.34\fs14\c&H533F37&\3c&H7B6556&\bord0\pos(489,43)}Todo el espíritu\Nen un golpe
+Dialogue: 0,0:01:14.18,0:01:15.35,Gen_Main,Verdugo A,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:01:16.01,0:01:18.72,Gen_Italics,Gabimaru,0000,0000,0000,,No lo entiendo.\N¿Por qué no puedo morir?
+Dialogue: 0,0:01:18.93,0:01:21.23,Gen_Italics,Gabimaru,0000,0000,0000,,Más bien, ¿por qué no muero?
+Dialogue: 0,0:01:23.85,0:01:26.02,Gen_Italics,Gabimaru,0000,0000,0000,,No tengo ningún apego por la vida.
+Dialogue: 0,0:01:29.94,0:01:32.53,Gen_Italics,Gabimaru,0000,0000,0000,,He asesinado a incontables personas.
+Dialogue: 0,0:01:33.82,0:01:36.49,Gen_Italics,Gabimaru,0000,0000,0000,,A estas alturas,\Nno planeo vivir una larga vida.
+Dialogue: 0,0:01:57.56,0:02:00.39,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:03:11.84,0:03:17.76,Cart_A_Tre,Sagiri,0000,0000,0000,,{\pos(511.333,288.667)\fad(800,800)\bord0\b0\c&HFEFFFE&}El condenado y la ejecutora
+Dialogue: 0,0:03:12.96,0:03:14.47,Gen_Main_Up,Sagiri,0000,0000,0000,,Te llamas Gabimaru.
+Dialogue: 0,0:03:15.26,0:03:17.93,Gen_Main_Up,Sagiri,0000,0000,0000,,Naciste como un shinobi\Nde la aldea Iwagakure.
+Dialogue: 0,0:03:18.18,0:03:20.93,Gen_Main,Sagiri,0000,0000,0000,,Desde pequeño te inculcaron\Nel arte del asesinato.
+Dialogue: 0,0:03:22.26,0:03:24.81,Gen_Main,Sagiri,0000,0000,0000,,Durante el entrenamiento,\Nvarios pierden la vida,
+Dialogue: 0,0:03:24.98,0:03:27.56,Gen_Main,Sagiri,0000,0000,0000,,pero, al final,\Nobtuviste un cuerpo sobrehumano.
+Dialogue: 0,0:03:29.27,0:03:30.40,Gen_Main,Sagiri,0000,0000,0000,,Tiene sentido.
+Dialogue: 0,0:03:31.02,0:03:36.20,Gen_Main,Sagiri,0000,0000,0000,,Para un ninja de Iwagakure, es muy fácil\Nquebrar una espada con el cuerpo.
+Dialogue: 0,0:03:36.61,0:03:38.03,Gen_Main,Gabimaru,0000,0000,0000,,Sí, digamos que así es.
+Dialogue: 0,0:03:38.45,0:03:42.45,Gen_Main,Gabimaru,0000,0000,0000,,Esos inútiles no me hacen ni cosquillas.\NNi siquiera tengo que usar ninjutsu.
+Dialogue: 0,0:03:43.08,0:03:45.04,Gen_Main,Sagiri,0000,0000,0000,,¿Eres capaz de utilizar ninjutsu?
+Dialogue: 0,0:03:45.66,0:03:48.46,Gen_Main,Sagiri/Gabimaru,0000,0000,0000,,-¿Podrías mostrarme un poco?\N-¿Para qué?
+Dialogue: 0,0:03:48.71,0:03:50.21,Gen_Main,Sagiri,0000,0000,0000,,Interés personal.
+Dialogue: 0,0:03:50.42,0:03:51.46,Gen_Main,Gabimaru,0000,0000,0000,,Entonces no.
+Dialogue: 0,0:03:51.71,0:03:53.50,Gen_Main,Magistrado,0000,0000,0000,,¡Lo sentencio a la hoguera!
+Dialogue: 0,0:03:53.96,0:03:58.01,Gen_Italics,Narrador,0000,0000,0000,,La muerte en la hoguera se reservaba\Na los que provocaban incendios.
+Dialogue: 0,0:03:58.22,0:04:01.01,Gen_Italics,Narrador,0000,0000,0000,,La piel quemándose\Nproducía un dolor intenso.
+Dialogue: 0,0:04:01.22,0:04:05.77,Gen_Italics,Narrador,0000,0000,0000,,Los músculos se comprimían con el calor\Nal grado de doblar y romper huesos.
+Dialogue: 0,0:04:06.52,0:04:10.56,Gen_Italics,Narrador,0000,0000,0000,,Finalmente, la muerte llegaba\Nal asfixiarse con el humo de las flamas.
+Dialogue: 0,0:04:10.73,0:04:14.73,Gen_Italics,Narrador,0000,0000,0000,,O también por intoxicación.\NEs un castigo muy doloroso.
+Dialogue: 0,0:04:15.73,0:04:19.78,Gen_Italics,Narrador,0000,0000,0000,,A veces se remataba a los condenados\Ncomo señal de misericordia.
+Dialogue: 0,0:04:23.41,0:04:24.79,Gen_Main,Gabimaru,0000,0000,0000,,Qué pena con ustedes.
+Dialogue: 0,0:04:31.79,0:04:34.80,Cart_A_Tre,CARTEL,0000,0000,0000,,{\pos(458,42)\c&H18120E&\3c&H393834&\bord0\be.4\t(986,1570,\3c&H2F385F&)}Todo el espíritu\Nen un golpe
+Dialogue: 0,0:04:42.76,0:04:45.31,Gen_Main,Samurai A,0000,0000,0000,,Ni estas intensas llamas\Nfueron suficiente.
+Dialogue: 0,0:04:47.68,0:04:51.44,Gen_Main,Gabimaru,0000,0000,0000,,No es mi intención\Noponer resistencia, ¿sabes?
+Dialogue: 0,0:04:52.23,0:04:54.19,Gen_Main,Gabimaru,0000,0000,0000,,De hecho, quisiera que ya me mataran.
+Dialogue: 0,0:04:54.40,0:04:55.65,Gen_Main,Sagiri,0000,0000,0000,,Claro.
+Dialogue: 0,0:04:56.32,0:05:00.07,Gen_Main,Gabimaru,0000,0000,0000,,Eh, si me vas a dar la espalda,\Nmejor dame algo de ropa, ¿quieres?
+Dialogue: 0,0:05:00.28,0:05:01.28,Gen_Main,Gabimaru,0000,0000,0000,,¿Me oyes?
+Dialogue: 0,0:05:01.45,0:05:03.99,Gen_Main,Sagiri,0000,0000,0000,,Mi deber es mantener\Nun registro del caso.
+Dialogue: 0,0:05:04.33,0:05:07.12,Gen_Main,Sagiri,0000,0000,0000,,Esta postura no me impide hacerlo,\Nasí que continuaré.
+Dialogue: 0,0:05:08.41,0:05:11.46,Gen_Main,Gabimaru,0000,0000,0000,,Mi historia personal\Nno tiene nada de interesante.
+Dialogue: 0,0:05:11.67,0:05:13.33,Gen_Main,Sagiri,0000,0000,0000,,Es mi trabajo.
+Dialogue: 0,0:05:16.75,0:05:19.09,Gen_Main,Gabimaru,0000,0000,0000,,¿Mis padres? Nunca los conocí.
+Dialogue: 0,0:05:19.92,0:05:23.18,Gen_Main,Gabimaru,0000,0000,0000,,Solo sé que el jefe de la aldea\Nlos asesinó cuando era un bebé.
+Dialogue: 0,0:05:23.55,0:05:25.10,Gen_Main,Gabimaru,0000,0000,0000,,No sé la razón…
+Dialogue: 0,0:05:25.51,0:05:27.01,Gen_Main,Gabimaru,0000,0000,0000,,… ni me importa.
+Dialogue: 0,0:05:28.47,0:05:29.60,Gen_Main,Gabimaru,0000,0000,0000,,¿Sueños?
+Dialogue: 0,0:05:30.06,0:05:31.35,Gen_Main,Gabimaru,0000,0000,0000,,No, ninguno.
+Dialogue: 0,0:05:31.64,0:05:34.23,Gen_Main,Gabimaru,0000,0000,0000,,Un ninja no tiene aspiraciones\Nni una gran causa.
+Dialogue: 0,0:05:35.06,0:05:37.07,Gen_Main,Gabimaru,0000,0000,0000,,Solo hay que matar\Na quien nos ordenan.
+Dialogue: 0,0:05:39.36,0:05:43.11,Gen_Main,Gabimaru,0000,0000,0000,,¿Por qué lograron capturarme?\NEste, veamos…
+Dialogue: 0,0:05:44.07,0:05:45.82,Gen_Main,Gabimaru,0000,0000,0000,,Intenté desertar de la aldea.
+Dialogue: 0,0:05:46.03,0:05:49.50,Gen_Main,Gabimaru,0000,0000,0000,,Mis compañeros me traicionaron\Ndurante la misión y me atraparon.
+Dialogue: 0,0:05:49.79,0:05:52.00,Gen_Main,Gabimaru,0000,0000,0000,,Supongo que por orden\Ndel jefe de la aldea.
+Dialogue: 0,0:05:52.46,0:05:56.25,Gen_Main,Gabimaru,0000,0000,0000,,Las reglas de la aldea\Nprohíben la deserción. No me quejo.
+Dialogue: 0,0:05:57.21,0:06:01.09,Gen_Main,Sagiri,0000,0000,0000,,Entonces, en primer lugar,\N¿por qué quisiste abandonar tu aldea?
+Dialogue: 0,0:06:01.97,0:06:03.76,Gen_Main,Magistrado,0000,0000,0000,,¡Desmembramiento por bueyes!
+Dialogue: 0,0:06:04.09,0:06:08.76,Gen_Italics,Narrador,0000,0000,0000,,En este castigo, bueyes tiran de sogas\Natadas a las piernas del condenado.
+Dialogue: 0,0:06:09.31,0:06:13.39,Gen_Italics,Narrador,0000,0000,0000,,Se dice que las piernas de las personas\Npueden resistir 500 kg de fuerza,
+Dialogue: 0,0:06:13.60,0:06:15.77,Gen_Italics,Narrador,0000,0000,0000,,pero un buey posee una fuerza de 950 kg.
+Dialogue: 0,0:06:16.36,0:06:21.19,Gen_Italics,Narrador,0000,0000,0000,,Hay registros que cuentan que la gente\Nse partía de la pelvis al pecho.
+Dialogue: 0,0:06:40.55,0:06:43.26,Gen_Main,Gabimaru,0000,0000,0000,,Ay, ¿cómo pasó?
+Dialogue: 0,0:06:45.88,0:06:48.47,Gen_Main,Magistrado,0000,0000,0000,,¡A este paso,\Nmi reputación caerá por los suelos!
+Dialogue: 0,0:06:48.64,0:06:50.22,Gen_Main,Magistrado,0000,0000,0000,,¡Traigan más bueyes!
+Dialogue: 0,0:06:51.39,0:06:52.85,Gen_Main,Sagiri,0000,0000,0000,,Qué extraño.
+Dialogue: 0,0:06:53.77,0:06:55.60,Gen_Main,Gabimaru,0000,0000,0000,,¿El cuerpo de un shinobi?
+Dialogue: 0,0:06:55.81,0:06:56.90,Gen_Main,Sagiri,0000,0000,0000,,No.
+Dialogue: 0,0:06:57.06,0:07:01.82,Gen_Main,Sagiri,0000,0000,0000,,Afirmas que deseas que te maten,\Npero me pareció que te resististe.
+Dialogue: 0,0:07:02.65,0:07:04.95,Gen_Main,Sagiri,0000,0000,0000,,¿Por qué, si no tienes apego a la vida?
+Dialogue: 0,0:07:05.53,0:07:10.24,Gen_Main,Sagiri,0000,0000,0000,,No, en primer lugar, ¿por qué\Nse te ocurrió desertar de tu aldea?
+Dialogue: 0,0:07:10.91,0:07:13.50,Gen_Main,Sagiri,0000,0000,0000,,¿Podrías responder la pregunta de ayer?
+Dialogue: 0,0:07:14.96,0:07:18.13,Gen_Main,Magistrado/Sagiri,0000,0000,0000,,-Olvídate del registro. Matémoslo.\N-Estoy trabajando.
+Dialogue: 0,0:07:18.33,0:07:20.38,Gen_Main,Samurai B/Sagiri,0000,0000,0000,,-Traje más bueyes.\N-Estoy trabajando.
+Dialogue: 0,0:07:20.67,0:07:22.46,Gen_Main,Gabimaru/Sagiri,0000,0000,0000,,-Por nada.\N-Que estoy trabajando…
+Dialogue: 0,0:07:22.63,0:07:24.26,Gen_Main,Gabimaru,0000,0000,0000,,No tiene gran importancia.
+Dialogue: 0,0:07:25.47,0:07:28.01,Gen_Main,Gabimaru,0000,0000,0000,,Estaba en lo alto\Nde la jerarquía de Iwagakure.
+Dialogue: 0,0:07:29.72,0:07:34.77,Gen_Main,Gabimaru,0000,0000,0000,,El jefe reconocía mis habilidades,\Ny me dio la mano de su hija.
+Dialogue: 0,0:07:35.43,0:07:39.40,Gen_Main,Gabimaru,0000,0000,0000,,Sin embargo,\Nla hija resultó ser una gran imbécil.
+Dialogue: 0,0:07:39.73,0:07:44.61,Gen_Main,Gabimaru,0000,0000,0000,,No sé cómo criaron a la hija\Nde un jefe ninja para que resultara así.
+Dialogue: 0,0:07:46.20,0:07:49.16,Gen_Main,Gabimaru,0000,0000,0000,,Era una cabeza hueca\Nque no sabía nada del mundo.
+Dialogue: 0,0:07:49.70,0:07:52.28,Gen_Main,Gabimaru,0000,0000,0000,,Por su culpa, mi vida dio un vuelco.
+Dialogue: 0,0:07:53.20,0:07:55.79,Gen_Main,Yui,0000,0000,0000,,Tienes que quitarte el calzado\Nantes de entrar.
+Dialogue: 0,0:07:56.41,0:07:59.42,Gen_Main,Yui,0000,0000,0000,,Rezaremos una vez al día\Na Buda y los dioses.
+Dialogue: 0,0:07:59.63,0:08:02.29,Gen_Main,Yui,0000,0000,0000,,Daremos gracias\Nantes de probar alimento…
+Dialogue: 0,0:08:03.00,0:08:05.67,Gen_Main,Yui,0000,0000,0000,,… para honrar la vida que consumimos.
+Dialogue: 0,0:08:05.92,0:08:10.43,Gen_Main,Gabimaru,0000,0000,0000,,Estaba desconcertado y, al final, harto.\NHaría que se oxidaran mis habilidades.
+Dialogue: 0,0:08:12.35,0:08:15.31,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Si de eso se trata,\Nno queda más remedio que consentirlo,
+Dialogue: 0,0:08:15.52,0:08:21.31,Gen_Main,Jefe Iwagakure,0000,0000,0000,,pero, para dejar las cuentas claras,\N¿aceptas realizar una última misión?
+Dialogue: 0,0:08:26.15,0:08:27.95,Gen_Main,Gabimaru,0000,0000,0000,,Ahí supe que me tendió una trampa,
+Dialogue: 0,0:08:28.78,0:08:32.32,Gen_Main,Gabimaru,0000,0000,0000,,pero me resigné porque los de Iwagakure\Nme seguirían a donde fuera.
+Dialogue: 0,0:08:33.62,0:08:35.79,Gen_Main,Gabimaru,0000,0000,0000,,El haber caído en la trampa fue mi fin.
+Dialogue: 0,0:08:36.20,0:08:41.88,Gen_Main,Gabimaru,0000,0000,0000,,En primer lugar, oponerse al jefe\Nfue una estupidez. Y me di por vencido.
+Dialogue: 0,0:08:43.71,0:08:46.46,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué opinas?\NLa razón no fue la gran cosa, ¿o sí?
+Dialogue: 0,0:08:51.51,0:08:53.97,Gen_Main,Samurai C,0000,0000,0000,,Tal vez me meto donde no me llaman,
+Dialogue: 0,0:08:54.18,0:08:57.77,Gen_Main,Samurai C,0000,0000,0000,,pero es mejor\Nque una mujer no se le acerque.
+Dialogue: 0,0:08:59.06,0:09:00.98,Gen_Main,Samurai C,0000,0000,0000,,Conoce su nombre, ¿cierto?
+Dialogue: 0,0:09:02.23,0:09:06.23,Gen_Main,Sagiri,0000,0000,0000,,¿No es Gabimaru,\Nun antiguo ninja de la aldea Iwagakure?
+Dialogue: 0,0:09:06.69,0:09:09.24,Gen_Main,Samurai C,0000,0000,0000,,No, me refiero a su apelativo.
+Dialogue: 0,0:09:13.28,0:09:15.24,Gen_Main,Samurai C,0000,0000,0000,,Gabimaru el Vacío.
+Dialogue: 0,0:09:15.78,0:09:18.50,Gen_Main,Samurai C,0000,0000,0000,,Un muñeco vacío\Ncarente de emociones y empatía.
+Dialogue: 0,0:09:20.16,0:09:23.88,Gen_Main,Samurai C,0000,0000,0000,,Es un monstruo que acabó con la vida\Nde 20 hombres cuando lo apresaron.
+Dialogue: 0,0:09:25.17,0:09:30.01,Gen_Main,Samurai C,0000,0000,0000,,Se rumorea que los ninjas de Iwagakure\Nson inmortales por el elixir de la vida.
+Dialogue: 0,0:09:30.63,0:09:34.26,Gen_Main,Samurai C,0000,0000,0000,,Un brebaje del paraíso terrenal\Nque concede la eterna juventud.
+Dialogue: 0,0:09:34.80,0:09:36.14,Gen_Main,Sagiri,0000,0000,0000,,¿El elixir de la vida?
+Dialogue: 0,0:09:36.72,0:09:39.52,Gen_Main,Samurai C,0000,0000,0000,,Siento mucho importunarla\Ncon esta sarta de tonterías.
+Dialogue: 0,0:09:39.93,0:09:42.44,Gen_Main,Samurai C,0000,0000,0000,,Simplemente, tenga en cuenta\Nque él es peligroso.
+Dialogue: 0,0:09:42.73,0:09:44.40,Gen_Main,Sagiri,0000,0000,0000,,Eso aún está en tela de juicio.
+Dialogue: 0,0:09:45.06,0:09:46.15,Gen_Main,Sagiri,0000,0000,0000,,Es solo que…
+Dialogue: 0,0:09:46.44,0:09:52.11,Gen_Main,Sagiri,0000,0000,0000,,¿Por qué un hombre vacío habrá opuesto\Nresistencia al punto de matar a veinte?
+Dialogue: 0,0:09:54.87,0:09:57.16,Gen_Italics,Sagiri,0000,0000,0000,,Afirmas que deseas que te maten,
+Dialogue: 0,0:09:57.37,0:09:59.75,Gen_Italics,Sagiri,0000,0000,0000,,pero me pareció que te resististe.
+Dialogue: 0,0:10:01.33,0:10:02.41,Gen_Italics,Gabimaru,0000,0000,0000,,Tiene razón.
+Dialogue: 0,0:10:03.04,0:10:04.29,Gen_Italics,Gabimaru,0000,0000,0000,,¿Qué me propongo?
+Dialogue: 0,0:10:05.79,0:10:07.75,Gen_Italics,Gabimaru,0000,0000,0000,,¿Por qué no muero en paz?
+Dialogue: 0,0:10:08.17,0:10:10.34,Gen_Italics,Gabimaru,0000,0000,0000,,No tengo ningún apego\Na la vida, ¿cierto?
+Dialogue: 0,0:10:11.13,0:10:14.68,Gen_Italics,Gabimaru,0000,0000,0000,,Mañana. Mañana le pondré fin a todo.
+Dialogue: 0,0:10:15.34,0:10:17.01,Gen_Italics,Gabimaru,0000,0000,0000,,En la ejecución de mañana.
+Dialogue: 0,0:10:23.73,0:10:28.98,Gen_Italics,Narrador,0000,0000,0000,,En la pena de aceite hirviendo\Nse utilizaba gran cantidad de grasa.
+Dialogue: 0,0:10:32.82,0:10:37.16,Gen_Italics,Narrador,0000,0000,0000,,Sin embargo, a los 370°, el aceite\Nllega al punto de ignición espontánea.
+Dialogue: 0,0:10:37.37,0:10:41.50,Gen_Italics,Narrador,0000,0000,0000,,Las ollas de barro de la era Edo\Nno podían resistir por largo tiempo.
+Dialogue: 0,0:10:44.00,0:10:45.75,Gen_Italics,Gabimaru,0000,0000,0000,,¿Por qué no muero?
+Dialogue: 0,0:10:46.58,0:10:48.38,Gen_Italics,Gabimaru,0000,0000,0000,,¿Por qué sigo forcejeando?
+Dialogue: 0,0:10:49.46,0:10:51.46,Gen_Italics,Gabimaru,0000,0000,0000,,Nada me ata a la vida terrenal, ¿o sí?
+Dialogue: 0,0:10:52.01,0:10:54.09,Gen_Italics,Gabimaru,0000,0000,0000,,Se supone que estoy vacío, ¿no?
+Dialogue: 0,0:10:54.30,0:10:57.09,Gen_Main,Magistrado,0000,0000,0000,,Ser despreciable,\N¿cómo es que no pereces?
+Dialogue: 0,0:11:03.93,0:11:07.02,Gen_Main,Sagiri,0000,0000,0000,,Señor magistrado,\Nlos preparativos están listos.
+Dialogue: 0,0:11:07.35,0:11:09.02,Gen_Main,Sagiri,0000,0000,0000,,Cuando usted lo desee.
+Dialogue: 0,0:11:16.32,0:11:18.24,Gen_Main,Gabimaru,0000,0000,0000,,¿Ahora qué tipo de ejecución será?
+Dialogue: 0,0:11:18.87,0:11:21.33,Gen_Main,Gabimaru,0000,0000,0000,,Confieso que ya me cansé\Nde seguirles el juego.
+Dialogue: 0,0:11:21.49,0:11:23.25,Gen_Main,Gabimaru,0000,0000,0000,,¿Cuándo me van a…?
+Dialogue: 0,0:11:24.71,0:11:27.29,Gen_Main,Magistrado,0000,0000,0000,,Por fin te cerraremos la bocota.
+Dialogue: 0,0:11:36.97,0:11:38.30,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué es todo esto?
+Dialogue: 0,0:11:39.80,0:11:43.39,Gen_Main,Magistrado,0000,0000,0000,,La señorita no es\Nuna inspectora cualquiera.
+Dialogue: 0,0:11:44.14,0:11:47.31,Gen_Main,Magistrado,0000,0000,0000,,Es una catadora{\Antonio: término del manga Mx. La RAE tiene "catar" como variante en desuso de "ver, examinar", así que no queda tan mal en el contexto. Además, "probadora" se oye mal. :D} de espadas\Nque nos visita desde Edo.
+Dialogue: 0,0:11:50.61,0:11:54.82,Gen_Main,Magistrado,0000,0000,0000,,La verdugo decapitadora\NSagiri Yamada Asaemon.
+Dialogue: 0,0:11:57.32,0:12:01.07,Cart_A_Tre,CARTEL,0000,0000,0000,,{\pos(326,10)\an8\fs30\be4\fad(250,0)\3c&HAD76DC&\c&H000000&}H{\3c&HA963B3&}e{\3c&HA65693&}l{\3c&HA44E83&}l{\3c&HA24773&}'{\3c&HA14062&}s{\3c&HAF5D79&} {\3c&HC18297&}P{\3c&HDCB9C5&}a{\3c&HF1E3E8&}r{\3c&HF6F0FA&}a{\3c&HE1CBF0&}d{\3c&HD4B5EB&}i{\3c&HC59AE4&}s{\3c&HB176DB&}e
+Dialogue: 0,0:12:04.54,0:12:08.83,Gen_Italics,Narrador,0000,0000,0000,,Yamada Asaemon es el nombre\Ndel clan ronin que, por generaciones,
+Dialogue: 0,0:12:09.12,0:12:14.00,Gen_Italics,Narrador,0000,0000,0000,,ha tenido bajo su cargo probar espadas\Ny ejecutar condenados a muerte.
+Dialogue: 0,0:12:14.21,0:12:16.47,Gen_Italics,Narrador,0000,0000,0000,,Digamos que es el título\Ndel clan Yamada.
+Dialogue: 0,0:12:16.67,0:12:21.60,Gen_Italics,Narrador,0000,0000,0000,,Son maestros de la espada\Ncapaces de decapitar de un solo golpe.
+Dialogue: 0,0:12:21.76,0:12:24.85,Gen_Main,Gabimaru,0000,0000,0000,,¿Asaemon? ¿Aun siendo mujer?
+Dialogue: 0,0:12:25.06,0:12:26.85,Gen_Main,Sagiri,0000,0000,0000,,Una mujer Asaemon, si gustas.
+Dialogue: 0,0:12:27.39,0:12:29.48,Gen_Main,Sagiri,0000,0000,0000,,Gabimaru, ninja desertor de Iga,
+Dialogue: 0,0:12:29.69,0:12:32.44,Gen_Main,Sagiri,0000,0000,0000,,el shogunato me ordenó\Nllevar a cabo tu ejecución.
+Dialogue: 0,0:12:33.36,0:12:35.48,Gen_Main,Sagiri,0000,0000,0000,,Anhelabas que te mataran, ¿no es verdad?
+Dialogue: 0,0:12:36.65,0:12:38.53,Gen_Main,Sagiri,0000,0000,0000,,Te concederé tu deseo.
+Dialogue: 0,0:12:46.54,0:12:49.50,Gen_Italics,Gabimaru,0000,0000,0000,,Ella no es ninguna impostora.
+Dialogue: 0,0:12:53.54,0:12:55.59,Gen_Main,Magistrado,0000,0000,0000,,¡Señorita Sagiri, acabe con el infeliz!
+Dialogue: 0,0:12:55.75,0:12:57.26,Gen_Main,Sagiri,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:13:05.31,0:13:06.89,Gen_Main,Sagiri,0000,0000,0000,,¿Por qué evades la espada?
+Dialogue: 0,0:13:07.81,0:13:09.94,Gen_Main,Sagiri,0000,0000,0000,,Habrías muerto si no te hubieras movido.
+Dialogue: 0,0:13:11.94,0:13:14.40,Gen_Italics,Gabimaru,0000,0000,0000,,¿Habría muerto?
+Dialogue: 0,0:13:18.65,0:13:22.11,Gen_Italics,Gabimaru,0000,0000,0000,,¿Acaso me desagrada la idea de morir?
+Dialogue: 0,0:13:25.12,0:13:26.95,Gen_Main,Sagiri,0000,0000,0000,,Por mi oficio,
+Dialogue: 0,0:13:27.33,0:13:29.83,Gen_Main,Sagiri,0000,0000,0000,,he sido testigo\Ndel final de varias personas.
+Dialogue: 0,0:13:30.04,0:13:33.00,Gen_Main,Sagiri,0000,0000,0000,,Puedo percibir su mayor anhelo\Nal borde de la muerte.
+Dialogue: 0,0:13:33.79,0:13:37.05,Gen_Main,Sagiri,0000,0000,0000,,La espada refleja\Nla verdadera naturaleza de las personas.
+Dialogue: 0,0:13:37.84,0:13:40.84,Gen_Main,Sagiri,0000,0000,0000,,Hay quienes se muestran valientes\Nhasta el último momento.
+Dialogue: 0,0:13:41.42,0:13:44.05,Gen_Main,Sagiri,0000,0000,0000,,Hay quienes imploran clemencia\Ncon toda su fuerza.
+Dialogue: 0,0:13:44.68,0:13:45.85,Gen_Main,Sagiri,0000,0000,0000,,Y también…
+Dialogue: 0,0:13:46.43,0:13:49.81,Gen_Main,Sagiri,0000,0000,0000,,… hay quienes se engañan a sí mismos,\Nfingiendo resignación.
+Dialogue: 0,0:13:50.02,0:13:51.64,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué dices?
+Dialogue: 0,0:13:51.85,0:13:53.60,Gen_Main,Sagiri,0000,0000,0000,,Gabimaru el Vacío…
+Dialogue: 0,0:13:53.90,0:13:57.11,Gen_Main,Sagiri,0000,0000,0000,,Es verdad que hay un gran abismo en ti.
+Dialogue: 0,0:13:57.48,0:14:00.90,Gen_Main,Sagiri,0000,0000,0000,,Lo comprobé al escuchar tu historia.
+Dialogue: 0,0:14:01.44,0:14:04.70,Gen_Main,Sagiri,0000,0000,0000,,Sin embargo,\Nmientes en cuanto a un punto.
+Dialogue: 0,0:14:05.20,0:14:07.37,Gen_Main,Sagiri,0000,0000,0000,,Sí sientes apego por la vida.
+Dialogue: 0,0:14:07.58,0:14:10.33,Gen_Main,Sagiri,0000,0000,0000,,En otras palabras, amas a tu esposa.
+Dialogue: 0,0:14:13.71,0:14:16.25,Gen_Main,Sagiri,0000,0000,0000,,Su presencia para ti…
+Dialogue: 0,0:14:16.42,0:14:19.25,Gen_Main,Sagiri,0000,0000,0000,,… era tu razón de vivir, ¿o me equivoco?
+Dialogue: 0,0:14:22.01,0:14:24.13,Gen_Main,Yui,0000,0000,0000,,Rezaremos a Buda y los dioses.
+Dialogue: 0,0:14:24.59,0:14:26.39,Gen_Main,Yui,0000,0000,0000,,Daremos gracias antes de comer.
+Dialogue: 0,0:14:26.72,0:14:29.89,Gen_Main,Yui,0000,0000,0000,,Atesoraremos la cotidianeidad\Nen cada momento…
+Dialogue: 0,0:14:30.06,0:14:32.60,Gen_Main,Yui,0000,0000,0000,,… para ser marido y mujer\Ncomo cualquier persona.
+Dialogue: 0,0:14:33.48,0:14:34.64,Gen_Main,Yui,0000,0000,0000,,Tú…
+Dialogue: 0,0:14:42.11,0:14:43.61,Gen_Main,Sagiri,0000,0000,0000,,Supongo que di en el blanco.
+Dialogue: 0,0:14:44.32,0:14:46.70,Gen_Main,Sagiri,0000,0000,0000,,¿Qué ganas al engañarte a ti mismo?
+Dialogue: 0,0:14:46.95,0:14:51.20,Gen_Main,Sagiri,0000,0000,0000,,No te dejaste morir en las ejecuciones\Npor tu amor a ella, ¿cierto?
+Dialogue: 0,0:14:51.41,0:14:53.37,Gen_Main,Sagiri,0000,0000,0000,,Solo intentas convencerte a ti mismo…
+Dialogue: 0,0:14:54.41,0:14:57.33,Gen_Main,Sagiri,0000,0000,0000,,… de que no tienes\Nningún apego a la vida.
+Dialogue: 0,0:14:57.54,0:14:58.96,Gen_Main,Gabimaru,0000,0000,0000,,¡Calla!
+Dialogue: 0,0:14:59.92,0:15:03.51,Gen_Main,Gabimaru,0000,0000,0000,,¡Nada me retiene en esta vida!\N¡¿Qué demonios sabes tú?!
+Dialogue: 0,0:15:03.72,0:15:06.01,Gen_Main,Gabimaru,0000,0000,0000,,¡¿Conoces el mundo en el que vivía?!
+Dialogue: 0,0:15:06.76,0:15:09.35,Gen_Main,Gabimaru,0000,0000,0000,,¡Soy Gabimaru el Vacío!
+Dialogue: 0,0:15:09.55,0:15:12.52,Gen_Main,Yui,0000,0000,0000,,Tú no estás vacío.
+Dialogue: 0,0:15:13.35,0:15:16.60,Gen_Main,Gabimaru,0000,0000,0000,,Sí, lo estoy al igual que el apodo.
+Dialogue: 0,0:15:17.23,0:15:19.36,Gen_Main,Gabimaru,0000,0000,0000,,Me acostumbré a los horrores en demasía.
+Dialogue: 0,0:15:20.27,0:15:24.03,Gen_Main,Gabimaru,0000,0000,0000,,Terminaré mostrándote lo mismo a ti.
+Dialogue: 0,0:15:28.07,0:15:29.95,Gen_Main,Yui,0000,0000,0000,,Por supuesto que no.
+Dialogue: 0,0:15:31.24,0:15:32.66,Gen_Main,Yui,0000,0000,0000,,Eres una persona muy dulce.
+Dialogue: 0,0:15:32.83,0:15:38.29,Gen_Main,Yui,0000,0000,0000,,Pues tú fuiste el único\Nque no aborreció mi rostro.
+Dialogue: 0,0:15:40.84,0:15:44.42,Gen_Main,Yui,0000,0000,0000,,No es tan malo\Nestar acostumbrado al horror, ¿no crees?
+Dialogue: 0,0:15:46.38,0:15:48.93,Gen_Main,Yui,0000,0000,0000,,En Iwagakure, los hombres son soldados.
+Dialogue: 0,0:15:49.14,0:15:51.35,Gen_Main,Yui,0000,0000,0000,,Y las mujeres, incubadoras.
+Dialogue: 0,0:15:51.89,0:15:54.81,Gen_Main,Yui,0000,0000,0000,,No nos dan la opción\Nde vivir como personas.
+Dialogue: 0,0:15:55.60,0:15:57.31,Gen_Main,Yui,0000,0000,0000,,Mi cara es un ejemplo de ello.
+Dialogue: 0,0:16:00.06,0:16:04.78,Gen_Main,Yui,0000,0000,0000,,Mi padre me la quemó para que desistiera\Nde vivir como una mujer normal.
+Dialogue: 0,0:16:05.57,0:16:06.70,Gen_Main,Yui,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:16:07.32,0:16:10.32,Gen_Main,Yui,0000,0000,0000,,el corazón humano\Nno perece tan fácilmente.
+Dialogue: 0,0:16:11.49,0:16:13.08,Gen_Main,Gabimaru,0000,0000,0000,,Sí, pero…
+Dialogue: 0,0:16:22.21,0:16:24.05,Gen_Main,Gabimaru,0000,0000,0000,,Pero ¿qué haces?
+Dialogue: 0,0:16:25.17,0:16:27.72,Gen_Main,Yui,0000,0000,0000,,Mira, te has puesto todo colorado.
+Dialogue: 0,0:16:28.09,0:16:30.89,Gen_Main,Yui,0000,0000,0000,,¿Cómo alguien así podría estar vacío?
+Dialogue: 0,0:16:31.85,0:16:33.10,Gen_Main,Gabimaru,0000,0000,0000,,¡Yo soy…
+Dialogue: 0,0:16:33.43,0:16:35.52,Gen_Main,Gabimaru,0000,0000,0000,,… Gabimaru el Vacío!
+Dialogue: 0,0:16:36.31,0:16:38.81,Gen_Main,Gabimaru,0000,0000,0000,,¡Soy un ogro carente de corazón!
+Dialogue: 0,0:16:40.23,0:16:43.65,Gen_Main,Gabimaru,0000,0000,0000,,¡Nunca se me concedería\Nvivir como la gente!
+Dialogue: 0,0:16:55.12,0:16:57.70,Gen_Italics,Gabimaru,0000,0000,0000,,Dejaré de ganar dinero asesinando.
+Dialogue: 0,0:16:57.87,0:17:01.46,Gen_Italics,Gabimaru,0000,0000,0000,,Quiero llevar\Nuna vida tranquila a su lado.
+Dialogue: 0,0:17:02.00,0:17:04.17,Gen_Italics,Gabimaru,0000,0000,0000,,El jefe lo comprenderá. Es por su hija.
+Dialogue: 0,0:17:07.05,0:17:08.92,Gen_Italics,Gabimaru,0000,0000,0000,,Vivamos donde no tenga que matar,
+Dialogue: 0,0:17:10.13,0:17:11.80,Gen_Italics,Gabimaru,0000,0000,0000,,en una tierra llena de paz,
+Dialogue: 0,0:17:12.97,0:17:14.80,Gen_Italics,Gabimaru,0000,0000,0000,,como lo hace todo el mundo,
+Dialogue: 0,0:17:19.10,0:17:20.56,Gen_Italics,Gabimaru,0000,0000,0000,,como lo hacen las personas.
+Dialogue: 0,0:17:22.02,0:17:24.48,Gen_Main,Gabimaru,0000,0000,0000,,¡Ese deseo nunca se me concedería!
+Dialogue: 0,0:17:24.69,0:17:25.77,Gen_Main,Sagiri,0000,0000,0000,,¡Sí, es posible!
+Dialogue: 0,0:17:28.99,0:17:30.99,Gen_Main,Sagiri,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:17:30.99,0:17:42.00,Cart_A_Tre,SIGN,0000,0000,0000,,{\be.2\fsp2\bord0\i1\move(450,58,450,118)\c&H261A3F&}Indulto oficial
+Dialogue: 0,0:17:31.78,0:17:34.53,Gen_Main,Sagiri,0000,0000,0000,,Este es un permiso oficial\Nexpedido por el shogunato.
+Dialogue: 0,0:17:34.70,0:17:37.04,Gen_Main,Sagiri,0000,0000,0000,,Es una carta\Nque absuelve de cualquier delito
+Dialogue: 0,0:17:37.20,0:17:40.25,Gen_Main,Sagiri,0000,0000,0000,,y, además, garantiza\Nla noble protección del shogun.
+Dialogue: 0,0:17:40.91,0:17:46.34,Gen_Main,Sagiri,0000,0000,0000,,Con ella, ni el magistrado ni los ninjas\Nde tu aldea podrían perseguirte.
+Dialogue: 0,0:17:47.34,0:17:51.51,Gen_Main,Gabimaru/Sagiri,0000,0000,0000,,-¿De qué hablas?\N-Pero hay una condición para dártela.
+Dialogue: 0,0:17:51.93,0:17:53.64,Gen_Main,Sagiri,0000,0000,0000,,Tendrás que ir al otro mundo.
+Dialogue: 0,0:17:55.85,0:17:58.52,Gen_Main,Gabimaru,0000,0000,0000,,¿Al otro mundo? ¿Te refieres al Nirvana?
+Dialogue: 0,0:17:58.72,0:18:01.23,Gen_Main,Sagiri/Gabimaru,0000,0000,0000,,-Así es.\N-¿Me estás pidiendo que muera?
+Dialogue: 0,0:18:01.43,0:18:02.77,Gen_Main,Sagiri,0000,0000,0000,,No.
+Dialogue: 0,0:18:03.35,0:18:09.11,Gen_Main,Sagiri,0000,0000,0000,,El Reino de los Inmortales, un paraíso\Ncarente de sufrimiento y lleno de dicha.
+Dialogue: 0,0:18:09.53,0:18:15.78,Gen_Main,Sagiri,0000,0000,0000,,Los creyentes le dan varios nombres:\NParaíso Terrenal, Nirvana, Utopía…
+Dialogue: 0,0:18:16.78,0:18:21.66,Gen_Main,Sagiri,0000,0000,0000,,Se decía que se encontraba en el mar del\Nsuroeste, más allá del reino de Ryukyu.
+Dialogue: 0,0:18:22.46,0:18:24.58,Gen_Main,Sagiri,0000,0000,0000,,Al fin, nuestra gente lo encontró.
+Dialogue: 0,0:18:28.00,0:18:32.34,Gen_Main,Sagiri,0000,0000,0000,,Mariposas y pétalos danzaban. El canto\Nde una voz hermosa se oía a lo lejos.
+Dialogue: 0,0:18:33.38,0:18:35.72,Gen_Main,Sagiri,0000,0000,0000,,Era tal cual contaban las leyendas.
+Dialogue: 0,0:18:36.55,0:18:41.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\org(22.5,672.2)\fry1.22\frx11.12\frz19.87\fax0.02\pos(571.111,-189.111)\bord0\be.5\fscy120\fs30\c&H2C3947&}El fruto de la inmortalidad
+Dialogue: 0,0:18:37.39,0:18:41.81,Gen_Main,Sagiri,0000,0000,0000,,La tradición dice que, en la Isla de los\NInmortales, existe el elixir de la vida.
+Dialogue: 0,0:18:42.52,0:18:47.31,Gen_Main,Sagiri,0000,0000,0000,,El shogun mandó una expedición\Na la isla en busca del brebaje.
+Dialogue: 0,0:18:47.81,0:18:49.02,Gen_Main,Sagiri,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:19:16.72,0:19:19.51,Gen_Main,Sagiri,0000,0000,0000,,Más tarde se enviaron\Notras cinco expediciones,
+Dialogue: 0,0:19:19.89,0:19:22.14,Gen_Main,Sagiri,0000,0000,0000,,pero ninguno de sus integrantes regresó.
+Dialogue: 0,0:19:25.94,0:19:28.23,Gen_Main,Sagiri,0000,0000,0000,,Exceptuando lo que solían ser.
+Dialogue: 0,0:19:29.98,0:19:34.90,Gen_Main,Gabimaru,0000,0000,0000,,Detente un momento, ¿quieres?\N¿Me estás hablando de cuentos de hadas?
+Dialogue: 0,0:19:35.11,0:19:38.91,Gen_Main,Sagiri,0000,0000,0000,,Exacto. Todos creían\Nque se trataba de cuentos de hadas,
+Dialogue: 0,0:19:39.37,0:19:41.49,Gen_Main,Sagiri,0000,0000,0000,,hasta que lo vieron\Ncon sus propios ojos.
+Dialogue: 0,0:19:42.41,0:19:46.00,Gen_Main,Shogún,0000,0000,0000,,¡Gente que se transforma en flores!\N¡Qué mágico!
+Dialogue: 0,0:19:46.21,0:19:48.67,Gen_Main,Shogún,0000,0000,0000,,¡Qué divino y fascinante!
+Dialogue: 0,0:19:49.08,0:19:51.34,Gen_Main,Shogún,0000,0000,0000,,¡La Tierra del Nirvana existe de verdad!
+Dialogue: 0,0:19:51.54,0:19:54.30,Gen_Main,Shogún,0000,0000,0000,,El elixir de la vida\Nahí se encuentra sin duda.
+Dialogue: 0,0:19:54.59,0:19:57.63,Gen_Main,Shogún,0000,0000,0000,,La próxima vez, envíen individuos\Ncuya vida no valga nada.
+Dialogue: 0,0:19:57.97,0:20:01.85,Gen_Main,Shogún,0000,0000,0000,,Reúnan criminales de todo el país\Ny mándenlos a la isla.
+Dialogue: 0,0:20:02.06,0:20:06.06,Gen_Main,Shogún,0000,0000,0000,,Absolveré de todos sus crímenes al héroe\Nque me traiga el elixir de la vida.
+Dialogue: 0,0:20:06.89,0:20:10.81,Gen_Main,Sagiri,0000,0000,0000,,Vine aquí con la tarea de encontrar\Nal más indicado para dicha misión.
+Dialogue: 0,0:20:11.06,0:20:14.57,Gen_Main,Sagiri,0000,0000,0000,,Alguien con grandes habilidades\Ny, más importante, deseos de vivir.
+Dialogue: 0,0:20:16.40,0:20:21.82,Gen_Main,Sagiri,0000,0000,0000,,Cuando me dirigí hacia acá, me enteré\Nde que tu esposa seguía en Iwagakure.
+Dialogue: 0,0:20:23.12,0:20:26.25,Gen_Main,Sagiri,0000,0000,0000,,Entró en un estado de suma tristeza\Ndesde que te capturaron.
+Dialogue: 0,0:20:26.79,0:20:29.25,Gen_Main,Sagiri,0000,0000,0000,,Se rehúsa a hablar con nadie.
+Dialogue: 0,0:20:29.58,0:20:33.29,Gen_Main,Sagiri,0000,0000,0000,,Seguramente cree en tu regreso.
+Dialogue: 0,0:20:35.17,0:20:39.13,Gen_Main,Sagiri,0000,0000,0000,,Te lo preguntaré una vez más:\N¿sientes apego por la vida?
+Dialogue: 0,0:20:39.47,0:20:43.22,Gen_Main,Sagiri,0000,0000,0000,,Irás a una isla desconocida\Nal lado de otros criminales atroces.
+Dialogue: 0,0:20:43.43,0:20:45.39,Gen_Main,Sagiri,0000,0000,0000,,Pelearás con ellos por la absolución.
+Dialogue: 0,0:20:46.10,0:20:50.19,Gen_Main,Sagiri,0000,0000,0000,,Esa es la única manera que existe\Npara volver a ver a tu mujer.
+Dialogue: 0,0:20:50.69,0:20:51.90,Gen_Main,Sagiri,0000,0000,0000,,De todas maneras,
+Dialogue: 0,0:20:52.31,0:20:57.40,Gen_Main,Sagiri,0000,0000,0000,,¿ansías vivir a su lado,\NGabimaru el Vacío?
+Dialogue: 0,0:20:58.82,0:21:00.28,Gen_Main,Magistrado,0000,0000,0000,,¡No me vengan con cuentos!
+Dialogue: 0,0:21:00.49,0:21:03.53,Gen_Main,Magistrado,0000,0000,0000,,¡No le permitiré salir de la cárcel\Npor meras fantasías!
+Dialogue: 0,0:21:06.24,0:21:08.04,Gen_Main,Sagiri,0000,0000,0000,,Es orden del shogunato.
+Dialogue: 0,0:21:08.33,0:21:11.79,Gen_Main,Magistrado,0000,0000,0000,,¡Es un desgraciado criminal!\N¡Cualquiera puede remplazarlo!
+Dialogue: 0,0:21:12.21,0:21:15.17,Gen_Main,Magistrado,0000,0000,0000,,Si osa interferir,\Nle espera el mismo destino.
+Dialogue: 0,0:21:17.38,0:21:19.42,Gen_Main,Magistrado,0000,0000,0000,,¡¿Me estás escuchando, Vacío?!
+Dialogue: 0,0:21:19.63,0:21:22.43,Gen_Italics,Gabimaru,0000,0000,0000,,Un ser vacío sin corazón…
+Dialogue: 0,0:21:22.89,0:21:25.93,Gen_Italics,Yui,0000,0000,0000,,El corazón humano\Nno perece tan fácilmente.
+Dialogue: 0,0:21:35.40,0:21:37.57,Gen_Main,Gabimaru,0000,0000,0000,,Dijiste que querías ver ninjutsu, ¿no?
+Dialogue: 0,0:21:48.08,0:21:49.66,Gen_Main,Gabimaru,0000,0000,0000,,Espero que sea de tu agrado.
+Dialogue: 0,0:21:50.29,0:21:53.42,Gen_Main,Gabimaru,0000,0000,0000,,Abre bien los ojos.\NNinjutsu Hombre de Fuego.
+Dialogue: 0,0:22:08.26,0:22:09.47,Gen_Main,Sagiri,0000,0000,0000,,Fue espectacular.
+Dialogue: 0,0:22:14.98,0:22:19.36,Gen_Main,Gabimaru,0000,0000,0000,,Acepto.\NYo encontraré el elixir de la vida.
+Dialogue: 0,0:22:22.11,0:22:25.03,Gen_Main,Gabimaru,0000,0000,0000,,¿Y ahora qué debo hacer?
+Dialogue: 0,0:22:25.24,0:22:27.24,Gen_Main,Gabimaru,0000,0000,0000,,Acompáñame.
+Dialogue: 0,0:22:27.45,0:22:28.99,Gen_Main,Sagiri,0000,0000,0000,,Primero iremos a Edo…
+Dialogue: 0,0:22:29.79,0:22:32.00,Gen_Main,Gabimaru,0000,0000,0000,,¿No sería mejor\Nir directamente a la isla?
+Dialogue: 0,0:22:32.21,0:22:34.21,Gen_Main,Gabimaru,0000,0000,0000,,Sería un gran desvío. Qué molesto.
+Dialogue: 0,0:22:34.42,0:22:36.54,Gen_Italics,Sagiri,0000,0000,0000,,El cambio de suerte lo hizo quejumbroso.
+Dialogue: 0,0:22:37.84,0:22:39.46,Gen_Main,Sagiri,0000,0000,0000,,Si no te gusta, pues olvídalo.
+Dialogue: 0,0:22:39.67,0:22:41.59,Gen_Main,Gabimaru,0000,0000,0000,,¡Lo haré! ¡Dije que aceptaba!
+Dialogue: 0,0:22:41.80,0:22:44.18,Gen_Main,Gabimaru,0000,0000,0000,,A estas alturas, estoy dispuesto a todo.
+Dialogue: 0,0:22:44.38,0:22:47.26,Gen_Main,Gabimaru,0000,0000,0000,,No me importa ir con criminales\Na una isla desconocida.
+Dialogue: 0,0:22:48.51,0:22:50.56,Gen_Main,Gabimaru,0000,0000,0000,,¡Juro que regresaré con vida!
+Dialogue: 0,0:22:52.73,0:22:54.44,Gen_Italics,Gabimaru,0000,0000,0000,,¡Por ti!
+Dialogue: 0,0:24:22.40,0:24:25.16,Cart_A_Tre,Créditos,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

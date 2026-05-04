@@ -1,0 +1,321 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:15.81,0:00:18.87,Gen_Main,Senta,0000,0000,0000,,Investigué la aldea de cabo a rabo.
+Dialogue: 0,0:00:17.02,0:00:18.81,Cart_A_Tre,CARTEL,0000,0000,0000,,{\org(470.4,260.1)\fry-1.99\frx4.35\frz-21.94\be3\fax-0.01\fscx70\fscy70\pos(513.455,88.364)\c&H2C2834&\3c&HBFD6DD&}Notas\Nsobre la\Nexpedición
+Dialogue: 0,0:00:19.08,0:00:20.75,Gen_Main,Senta,0000,0000,0000,,Todo es incomprensible.
+Dialogue: 0,0:00:20.95,0:00:24.62,Gen_Main,Senta,0000,0000,0000,,Cuanto más conozco, más pierdo\Nde vista la situación en su totalidad.
+Dialogue: 0,0:00:25.75,0:00:26.96,Gen_Main,Sagiri,0000,0000,0000,,Gabimaru…
+Dialogue: 0,0:00:27.75,0:00:29.05,Gen_Main,Sagiri,0000,0000,0000,,¿Te sucede algo?
+Dialogue: 0,0:00:29.25,0:00:31.23,Gen_Main,Gabimaru,0000,0000,0000,,No, no es nada. ¿Y qué más?
+Dialogue: 0,0:00:31.43,0:00:33.38,Gen_Main,Sagiri,0000,0000,0000,,Es que parece que don Senta…
+Dialogue: 0,0:00:33.62,0:00:35.64,Gen_Main,Yuzuriha,0000,0000,0000,,Dice que ya le explotaron los sesos.
+Dialogue: 0,0:00:35.84,0:00:37.94,Gen_Main,Senta,0000,0000,0000,,Hay demasiados misterios por descifrar.
+Dialogue: 0,0:00:38.11,0:00:41.01,Gen_Main,Senta,0000,0000,0000,,Necesito enfriarme la cabeza\Npara analizarlos en orden.
+Dialogue: 0,0:00:41.93,0:00:44.34,Gen_Main,Sagiri,0000,0000,0000,,Es mejor que ya se vaya a dormir,\Ndon Senta.
+Dialogue: 0,0:00:44.51,0:00:46.64,Gen_Main,Sagiri,0000,0000,0000,,Yo sola puedo montar guardia esta noche.
+Dialogue: 0,0:00:46.81,0:00:48.37,Gen_Main,Senta,0000,0000,0000,,No, no te preocupes por eso.
+Dialogue: 0,0:00:48.54,0:00:50.45,Gen_Main,Senta,0000,0000,0000,,Me despabilaré si me doy un baño.
+Dialogue: 0,0:00:50.65,0:00:53.53,Gen_Main,Sagiri/Senta,0000,0000,0000,,-Le dará más sueño.\N-No, te digo que estaré bien.
+Dialogue: 0,0:01:02.29,0:01:03.91,Gen_Main,Senta,0000,0000,0000,,Hay demasiados misterios.
+Dialogue: 0,0:01:04.51,0:01:07.42,Gen_Main,Senta,0000,0000,0000,,Sería peligroso ponerse en acción\Nsin descifrar algunos.
+Dialogue: 0,0:01:07.65,0:01:09.44,Gen_Main,Gabimaru,0000,0000,0000,,¿Algunos? ¿A cuántos te refieres?
+Dialogue: 0,0:01:09.64,0:01:11.79,Gen_Main,Senta,0000,0000,0000,,De eso no estoy muy seguro.
+Dialogue: 0,0:01:12.05,0:01:15.90,Gen_Main,Senta,0000,0000,0000,,Pero, si en verdad esos tales Tensen\Nson los seres que protegen el elixir,
+Dialogue: 0,0:01:16.10,0:01:18.88,Gen_Main,Senta,0000,0000,0000,,es muy arriesgado\Nir a Horai ahora sin un plan.
+Dialogue: 0,0:01:20.21,0:01:22.64,Gen_Italics,Gabimaru,0000,0000,0000,,Perdón, pero no puedo esperar\Nlas respuestas.
+Dialogue: 0,0:01:23.45,0:01:26.56,Gen_Italics,Gabimaru,0000,0000,0000,,Si los Tensen saldrán a atacarme,\Neso es lo que me conviene.
+Dialogue: 0,0:01:43.83,0:01:47.37,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:02:58.05,0:03:02.63,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(0,500)\an6\bord0\b0\c&HFFFFFF&\pos(601,291.667)}Dios y mortales
+Dialogue: 0,0:03:00.37,0:03:03.18,Gen_Italics,Gabimaru,0000,0000,0000,,La neblina se volvió tan espesa\Nque no puedo ver nada.
+Dialogue: 0,0:03:04.00,0:03:06.61,Gen_Italics,Gabimaru,0000,0000,0000,,Cruzamos el bosque hacia el sur\Npara llegar aquí.
+Dialogue: 0,0:03:06.78,0:03:08.65,Gen_Italics,Gabimaru,0000,0000,0000,,Si lo que dice Hoko es cierto,
+Dialogue: 0,0:03:08.85,0:03:10.79,Gen_Italics,Gabimaru,0000,0000,0000,,llegaré al centro si voy más al sur.
+Dialogue: 0,0:03:11.05,0:03:13.04,Gen_Italics,Gabimaru,0000,0000,0000,,Así debería acercarme más a Horai.
+Dialogue: 0,0:03:23.88,0:03:25.43,Gen_Italics,Gabimaru,0000,0000,0000,,¿Qué diablos son estas voces?
+Dialogue: 0,0:03:25.78,0:03:26.95,Gen_Italics,Gabimaru,0000,0000,0000,,¿Están cantando?
+Dialogue: 0,0:03:27.93,0:03:28.93,Gen_Main,Gabimaru,0000,0000,0000,,No.
+Dialogue: 0,0:03:35.81,0:03:37.19,Gen_Italics,Gabimaru,0000,0000,0000,,¿Están rezando?
+Dialogue: 0,0:03:37.41,0:03:39.25,Gen_Italics,Gabimaru,0000,0000,0000,,¿Son de la misma especie que Hoko?
+Dialogue: 0,0:03:39.44,0:03:41.41,Gen_Italics,Gabimaru,0000,0000,0000,,No reaccionan, aunque me acerque.
+Dialogue: 0,0:03:41.58,0:03:43.20,Gen_Italics,Gabimaru,0000,0000,0000,,¿Son incapaces de moverse?
+Dialogue: 0,0:03:45.37,0:03:47.70,Gen_Italics,Gabimaru,0000,0000,0000,,¿Están venerando algo?
+Dialogue: 0,0:03:48.06,0:03:51.45,Gen_Main,Senta,0000,0000,0000,,Sería peligroso ponerse en acción\Nsin descifrar algo.
+Dialogue: 0,0:03:51.82,0:03:54.96,Gen_Italics,Gabimaru,0000,0000,0000,,Ese es el caso de los Asaemon,\Npero no el de los criminales.
+Dialogue: 0,0:03:55.45,0:03:58.08,Gen_Italics,Gabimaru,0000,0000,0000,,No es un viaje\Nen el que podamos dar marcha atrás
+Dialogue: 0,0:03:58.28,0:04:00.09,Gen_Italics,Gabimaru,0000,0000,0000,,según lo que haya en la isla.
+Dialogue: 0,0:04:01.86,0:04:04.16,Gen_Italics,Gabimaru,0000,0000,0000,,Aunque sepa que es un lugar peligroso,
+Dialogue: 0,0:04:04.36,0:04:07.00,Gen_Italics,Gabimaru,0000,0000,0000,,no obtendré el perdón\Nsi no me llevo el elixir.
+Dialogue: 0,0:04:07.33,0:04:09.60,Gen_Italics,Gabimaru,0000,0000,0000,,No tengo otra opción más que avanzar.
+Dialogue: 0,0:04:10.07,0:04:11.60,Gen_Italics,Gabimaru,0000,0000,0000,,Aunque deba hacerlo solo.
+Dialogue: 0,0:04:15.58,0:04:19.77,Gen_Main,Hoko,0000,0000,0000,,Dicen que Horai\Nsigue siendo un lugar hermoso.
+Dialogue: 0,0:04:20.36,0:04:23.12,Gen_Main,Hoko,0000,0000,0000,,A diferencia de\Nlos desolados Hojo y Eishu,
+Dialogue: 0,0:04:23.32,0:04:28.02,Gen_Main,Hoko,0000,0000,0000,,es el verdadero Paraíso Terrenal donde\Nmoran los dioses y ermitaños inmortales.
+Dialogue: 0,0:04:28.96,0:04:31.58,Gen_Main,Gabimaru,0000,0000,0000,,¿El verdadero Paraíso Terrenal?
+Dialogue: 0,0:04:31.96,0:04:34.08,Gen_Main,Gabimaru,0000,0000,0000,,Esto está claramente\Nhecho por el hombre.
+Dialogue: 0,0:04:36.16,0:04:38.72,Gen_Italics,Gabimaru,0000,0000,0000,,Si este lugar es Horai,\Nel elixir estará aquí.
+Dialogue: 0,0:04:49.25,0:04:51.64,Gen_Italics,Gabimaru,0000,0000,0000,,¿Y esta tipa? Se siente diferente.
+Dialogue: 0,0:04:51.88,0:04:55.39,Gen_Italics,Gabimaru,0000,0000,0000,,Tiene la apariencia de una persona,\Npero no es humana.
+Dialogue: 0,0:04:56.69,0:04:58.01,Gen_Main,Gabimaru,0000,0000,0000,,¿Tú quién eres?
+Dialogue: 0,0:04:58.84,0:05:00.40,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Ya no, por favor.
+Dialogue: 0,0:05:00.65,0:05:04.53,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,¿Por qué pasa solo en mi guardia?\NQué fastidio.
+Dialogue: 0,0:05:05.45,0:05:07.53,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Oye, ¿no te podrías ir a tu casa?
+Dialogue: 0,0:05:07.83,0:05:10.03,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Es que justo vengo de un combate.
+Dialogue: 0,0:05:10.46,0:05:14.41,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Pero tengo que capturarlos\Na ustedes los humanos si los encuentro.
+Dialogue: 0,0:05:15.03,0:05:17.46,Gen_Main,Zhu Jin (mujer)/Gabimaru,0000,0000,0000,,-Hoy es mi turno…\N-¿Para volver…
+Dialogue: 0,0:05:18.14,0:05:19.83,Gen_Main,Gabimaru,0000,0000,0000,,… los humanos en elixir?
+Dialogue: 0,0:05:33.98,0:05:35.13,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,¿Eh?
+Dialogue: 0,0:05:46.80,0:05:50.82,Gen_Italics,Gabimaru,0000,0000,0000,,Posee regeneración, poder y velocidad\Nque no van con su complexión.
+Dialogue: 0,0:05:51.06,0:05:53.33,Gen_Italics,Gabimaru,0000,0000,0000,,¿Esta es una de los tales Tensen?
+Dialogue: 0,0:06:00.54,0:06:02.27,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Otra vez el cuello.
+Dialogue: 0,0:06:02.63,0:06:04.24,Gen_Main,Gabimaru,0000,0000,0000,,Ninjutsu, Hombre de Fuego.
+Dialogue: 0,0:06:28.18,0:06:30.15,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,¿De nuevo lo maté?
+Dialogue: 0,0:06:30.64,0:06:34.41,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,Si me lo hubiera llevado,\Nhabría sido un Tan de alta calidad.
+Dialogue: 0,0:06:37.70,0:06:39.16,Gen_Main,Gabimaru,0000,0000,0000,,Es algo tarde para preguntar,
+Dialogue: 0,0:06:40.63,0:06:42.54,Gen_Main,Gabimaru,0000,0000,0000,,pero ¿tú eres uno de los Tensen?
+Dialogue: 0,0:06:43.20,0:06:45.79,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,Ahora dime, ¿tú eres humano?
+Dialogue: 0,0:07:07.99,0:07:10.90,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,¿Cómo es que eres tan resistente?
+Dialogue: 0,0:07:11.20,0:07:13.97,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,Hace unas horas me encontré\Ncon otro tipo duro.
+Dialogue: 0,0:07:14.17,0:07:17.52,Gen_Main,Zhu Jin (hombre),0000,0000,0000,,Pero es la primera vez que conozco\Na alguien como tú en siglos.
+Dialogue: 0,0:07:18.95,0:07:20.54,Gen_Main,Gabimaru,0000,0000,0000,,¿Dónde está el elixir?
+Dialogue: 0,0:07:27.02,0:07:30.28,Gen_Italics,Gabimaru,0000,0000,0000,,Será mejor asumir que\Nlos golpes y cortes no le harán nada.
+Dialogue: 0,0:07:33.16,0:07:35.22,Gen_Italics,Gabimaru,0000,0000,0000,,Posee un gran poder destructivo.
+Dialogue: 0,0:07:36.23,0:07:38.60,Gen_Italics,Gabimaru,0000,0000,0000,,Una pelea de desgaste\Nme pondrá en peligro.
+Dialogue: 0,0:07:38.86,0:07:40.97,Gen_Italics,Gabimaru,0000,0000,0000,,Debo encontrar una manera de vencerlo.
+Dialogue: 0,0:07:41.26,0:07:44.02,Gen_Italics,Gabimaru,0000,0000,0000,,Es inmortal.\NEl Hombre de Fuego no lo venció.
+Dialogue: 0,0:07:44.22,0:07:47.35,Gen_Italics,Gabimaru,0000,0000,0000,,Debe haber otras opciones\Nque no haya probado.
+Dialogue: 0,0:07:48.23,0:07:49.62,Gen_Italics,Gabimaru,0000,0000,0000,,¡Algo!
+Dialogue: 0,0:07:54.17,0:07:56.62,Gen_Italics,Gabimaru,0000,0000,0000,,Aquí se sintió distinto. ¿Qué fue?
+Dialogue: 0,0:08:01.57,0:08:04.82,Gen_Italics,Gabimaru,0000,0000,0000,,Su reacción es claramente\Ndiferente a las otras.
+Dialogue: 0,0:08:05.02,0:08:07.31,Gen_Italics,Gabimaru,0000,0000,0000,,¿Qué fue lo que dio resultado?
+Dialogue: 0,0:08:11.61,0:08:13.13,Gen_Italics,Gabimaru,0000,0000,0000,,Volvió a su forma femenina.
+Dialogue: 0,0:08:13.66,0:08:17.89,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Tu gran capacidad física…\NQuizá inconscientemente puedes usar…
+Dialogue: 0,0:08:19.67,0:08:21.89,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,No, de verdad no me importa.
+Dialogue: 0,0:08:32.37,0:08:34.90,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Eres muy irritante. Muere.
+Dialogue: 0,0:08:41.57,0:08:44.00,Gen_Italics,Gabimaru,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:08:49.76,0:08:54.41,Gen_Italics,Gabimaru,0000,0000,0000,,¿Golpes de viento? No, no es eso.\NLos impactos retumban en mi interior.
+Dialogue: 0,0:08:55.12,0:08:57.30,Gen_Italics,Gabimaru,0000,0000,0000,,Es otra especie de poder desconocido.
+Dialogue: 0,0:08:57.47,0:09:00.33,Gen_Italics,Gabimaru,0000,0000,0000,,De nada sirve bloquear.\NNo puedo verlos para evadir.
+Dialogue: 0,0:09:02.04,0:09:04.22,Gen_Italics,Gabimaru,0000,0000,0000,,¿En serio existe una manera de vencerla?
+Dialogue: 0,0:09:08.41,0:09:10.39,Gen_Italics,Gabimaru,0000,0000,0000,,¡No, no la necesito!
+Dialogue: 0,0:09:10.88,0:09:14.37,Gen_Italics,Gabimaru,0000,0000,0000,,No importa lo que suceda.\NNo puedo detenerme.
+Dialogue: 0,0:09:14.54,0:09:16.76,Gen_Italics,Gabimaru,0000,0000,0000,,¡Mi objetivo es volver con mi esposa!
+Dialogue: 0,0:09:19.05,0:09:21.45,Gen_Italics,Gabimaru,0000,0000,0000,,Pase lo que pase, volveré con vida.
+Dialogue: 0,0:09:21.92,0:09:24.65,Gen_Italics,Gabimaru,0000,0000,0000,,Aunque termine mutilado,\Nvolveré con vida.
+Dialogue: 0,0:09:25.04,0:09:27.16,Gen_Italics,Gabimaru,0000,0000,0000,,Arriesgaré la vida para volver con ella.
+Dialogue: 0,0:09:29.78,0:09:32.84,Gen_Italics,Gabimaru,0000,0000,0000,,La destruiré antes\Nde que pueda regenerarse.
+Dialogue: 0,0:09:37.92,0:09:39.97,Gen_Italics,Zhu Jin (mujer),0000,0000,0000,,No puede ser. Un humano me…
+Dialogue: 0,0:09:52.96,0:09:54.74,Gen_Main,Gabimaru,0000,0000,0000,,Apuesto a que no estás muerta.
+Dialogue: 0,0:09:54.94,0:09:57.36,Gen_Main,Gabimaru,0000,0000,0000,,Contesta. ¿Dónde está el elixir?
+Dialogue: 0,0:10:02.20,0:10:03.72,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Qué problema.
+Dialogue: 0,0:10:05.82,0:10:09.61,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Otra vez me van a regañar…
+Dialogue: 0,0:10:42.88,0:10:44.02,Gen_Italics,Gabimaru,0000,0000,0000,,Tranquilízate.
+Dialogue: 0,0:10:44.47,0:10:47.28,Gen_Italics,Gabimaru,0000,0000,0000,,No es la primera vez\Nque me enfrento a un monstruo.
+Dialogue: 0,0:10:47.48,0:10:51.30,Gen_Italics,Gabimaru,0000,0000,0000,,Debo analizarlo y lidiar con él\Ncomo hasta ahora.
+Dialogue: 0,0:10:51.75,0:10:53.12,Gen_Italics,Gabimaru,0000,0000,0000,,De ese modo…
+Dialogue: 0,0:11:36.44,0:11:38.63,Gen_Main,Gabimaru,0000,0000,0000,,Ninjutsu, Hombre de Fuego.
+Dialogue: 0,0:11:41.37,0:11:45.23,Gen_Italics,Gabimaru,0000,0000,0000,,El cuerpo no me responde. Me está\Npasando factura el sobreesfuerzo.
+Dialogue: 0,0:11:49.53,0:11:52.31,Gen_Italics,Gabimaru,0000,0000,0000,,Brujerías sobrenaturales\Ny monstruos enormes…
+Dialogue: 0,0:11:52.77,0:11:55.19,Gen_Italics,Gabimaru,0000,0000,0000,,¿De verdad todo esto es real?
+Dialogue: 0,0:11:55.85,0:11:59.53,Gen_Italics,Gabimaru,0000,0000,0000,,¿He estado viviendo\Nen la realidad estos últimos días?
+Dialogue: 0,0:12:00.70,0:12:03.07,Gen_Italics,Gabimaru,0000,0000,0000,,Parece que estoy\Ndentro de una pesadilla.
+Dialogue: 0,0:12:08.71,0:12:10.27,Gen_Main,Yui,0000,0000,0000,,Ya despertaste.
+Dialogue: 0,0:12:13.25,0:12:15.50,Gen_Main,Yui,0000,0000,0000,,Te movías mucho, como atormentado.
+Dialogue: 0,0:12:15.70,0:12:17.96,Gen_Main,Yui,0000,0000,0000,,¿Estabas teniendo un mal sueño?
+Dialogue: 0,0:12:23.06,0:12:24.42,Gen_Main,Gabimaru,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:12:25.14,0:12:26.48,Gen_Main,Gabimaru,0000,0000,0000,,Era un sueño.
+Dialogue: 0,0:12:31.18,0:12:32.52,Gen_Main,Gabimaru,0000,0000,0000,,Qué alivio.
+Dialogue: 0,0:12:33.05,0:12:36.13,Gen_Main,Yui,0000,0000,0000,,Entonces, sí estabas\Nsufriendo una pesadilla.
+Dialogue: 0,0:12:36.46,0:12:39.06,Gen_Main,Yui,0000,0000,0000,,Como has estado muy ocupado\Nestos últimos días…
+Dialogue: 0,0:12:39.26,0:12:41.98,Gen_Main,Yui,0000,0000,0000,,¿Por qué hoy no te tomas el día libre?
+Dialogue: 0,0:12:58.71,0:13:00.18,Gen_Main,Yui,0000,0000,0000,,Te traje té de crisantemo.
+Dialogue: 0,0:13:00.38,0:13:03.11,Gen_Main,Yui,0000,0000,0000,,Oí que sirve para alejar\Nlos malos sueños.
+Dialogue: 0,0:13:07.24,0:13:10.01,Gen_Main,Yui,0000,0000,0000,,¿El crisantemo no es de tu agrado?
+Dialogue: 0,0:13:10.69,0:13:14.02,Gen_Main,Gabimaru,0000,0000,0000,,No es eso.\NEs que en verdad me dio mucho gusto.
+Dialogue: 0,0:13:14.25,0:13:18.52,Gen_Main,Gabimaru,0000,0000,0000,,Aunque esto sea un sueño,\Nme hizo muy feliz poder hablar contigo.
+Dialogue: 0,0:13:19.75,0:13:21.51,Gen_Main,Yui,0000,0000,0000,,¿A qué te refieres?
+Dialogue: 0,0:13:24.32,0:13:25.54,Gen_Main,Gabimaru,0000,0000,0000,,Perdón.
+Dialogue: 0,0:13:26.37,0:13:29.32,Gen_Main,Gabimaru,0000,0000,0000,,Es probable que\Nno pueda regresar a tu lado.
+Dialogue: 0,0:13:45.21,0:13:48.37,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Vigésima regla inviolable\Nde los shinobi:
+Dialogue: 0,0:13:48.88,0:13:53.32,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Si llegaras a estar a punto de morir,\Nhaz arder las llamas de tu vida
+Dialogue: 0,0:13:53.52,0:13:58.39,Gen_Main,Jefe Iwagakure,0000,0000,0000,,y muere después de infligirle\Nla máxima cantidad de daño al enemigo.
+Dialogue: 0,0:13:58.65,0:14:00.26,Gen_Main,Jefe Iwagakure,0000,0000,0000,,No es necesario aprenderla.
+Dialogue: 0,0:14:00.46,0:14:04.40,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Los entrené de modo\Nque lo hagan así por instinto.
+Dialogue: 0,0:14:08.74,0:14:12.53,Gen_Main,Jefe Iwagakure,0000,0000,0000,,En el borde de la muerte, buscarán\Nllevarse al adversario por reflejo.
+Dialogue: 0,0:14:12.73,0:14:15.03,Gen_Main,Jefe Iwagakure,0000,0000,0000,,Sin importar cuál sea su voluntad.
+Dialogue: 0,0:14:26.26,0:14:27.56,Gen_Main,Gabimaru,0000,0000,0000,,Perdón.
+Dialogue: 0,0:14:27.96,0:14:29.38,Gen_Main,Gabimaru,0000,0000,0000,,Es probable que…
+Dialogue: 0,0:14:58.10,0:15:01.56,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Mei, ¿qué te propones?
+Dialogue: 0,0:15:10.92,0:15:13.01,Gen_Main,Sagiri,0000,0000,0000,,No tiene caso. Es algo que ya pasó.
+Dialogue: 0,0:15:13.21,0:15:15.30,Gen_Main,Senta,0000,0000,0000,,¡Lo siento mucho!
+Dialogue: 0,0:15:15.56,0:15:18.06,Gen_Main,Senta,0000,0000,0000,,Después fui a buscarlo de inmediato,
+Dialogue: 0,0:15:18.40,0:15:21.08,Gen_Main,Senta,0000,0000,0000,,pero la niebla se espesaba\Ncuanto más me alejaba.
+Dialogue: 0,0:15:21.25,0:15:23.06,Gen_Main,Senta,0000,0000,0000,,Me costó trabajo volver.
+Dialogue: 0,0:15:23.26,0:15:28.02,Gen_Main,Hoko,0000,0000,0000,,Es imposible que alguien normal\Natraviese la niebla.
+Dialogue: 0,0:15:28.22,0:15:30.82,Gen_Main,Sagiri,0000,0000,0000,,En caso de que Gabimaru\Nse haya dirigido a Horai,
+Dialogue: 0,0:15:31.02,0:15:32.82,Gen_Main,Sagiri,0000,0000,0000,,debemos ir a buscarlo enseguida.
+Dialogue: 0,0:15:33.06,0:15:35.05,Gen_Main,Yuzuriha,0000,0000,0000,,¿Eh? Yo no quiero.
+Dialogue: 0,0:15:35.46,0:15:38.33,Gen_Main,Yuzuriha,0000,0000,0000,,Es que no tenemos tiempo\Nque perder con eso.
+Dialogue: 0,0:15:38.63,0:15:41.08,Gen_Main,Yuzuriha,0000,0000,0000,,Además, él se fue por su propia cuenta.
+Dialogue: 0,0:15:41.28,0:15:44.77,Gen_Main,Yuzuriha,0000,0000,0000,,Era un aliado formidable,\Npero no podemos hacer nada, ¿verdad?
+Dialogue: 0,0:15:44.97,0:15:50.13,Gen_Main,Yuzuriha,0000,0000,0000,,Es más, a los Asaemon les da igual\Nla seguridad de los criminales, ¿no?
+Dialogue: 0,0:15:50.52,0:15:53.33,Gen_Main,Yuzuriha/Sagiri,0000,0000,0000,,-No tiene sentido buscarlo, ¿o sí?\N-Es que…
+Dialogue: 0,0:15:53.53,0:15:55.95,Gen_Main,Hoko,0000,0000,0000,,Si piensan dirigirse a Horai,\Nlos acompañaré.
+Dialogue: 0,0:15:56.55,0:15:59.02,Gen_Main,Hoko,0000,0000,0000,,No encuentro a Mei por ningún lado.
+Dialogue: 0,0:15:59.22,0:16:02.01,Gen_Main,Hoko,0000,0000,0000,,Asumo que se fue\Nsiguiendo los pasos de Gabimaru.
+Dialogue: 0,0:16:02.21,0:16:05.94,Gen_Main,Hoko,0000,0000,0000,,Debo ir a encontrarla.\NPreferiría tener aliados conmigo.
+Dialogue: 0,0:16:06.14,0:16:09.08,Gen_Main,Yuzuriha,0000,0000,0000,,¿Tú puedes llegar al lugar,\Naun a través de la niebla?
+Dialogue: 0,0:16:09.28,0:16:10.48,Gen_Main,Hoko,0000,0000,0000,,Así es.
+Dialogue: 0,0:16:13.21,0:16:15.71,Gen_Main,Yuzuriha,0000,0000,0000,,Como que siento eso por Gabimaru.
+Dialogue: 0,0:16:15.91,0:16:19.62,Gen_Main,Yuzuriha,0000,0000,0000,,Sí, preocupación, creo que le dicen.\NVamos juntas, Sagirin.
+Dialogue: 0,0:16:20.74,0:16:21.87,Gen_Main,Sagiri,0000,0000,0000,,De acuerdo.
+Dialogue: 0,0:16:22.07,0:16:25.25,Gen_Main,Yuzuriha,0000,0000,0000,,Pero, escúchenme,\Nno es mala idea ir a Horai,
+Dialogue: 0,0:16:25.52,0:16:28.30,Gen_Main,Yuzuriha,0000,0000,0000,,pero los tales Tensen\Nserán un problema, ¿no?
+Dialogue: 0,0:16:28.50,0:16:31.14,Gen_Main,Hoko/Yuzuriha,0000,0000,0000,,-Así es.\N-¿Qué son realmente?
+Dialogue: 0,0:16:31.34,0:16:33.51,Gen_Main,Yuzuriha,0000,0000,0000,,Vamos, dinos con lujo de detalles, ¿sí?
+Dialogue: 0,0:16:33.71,0:16:37.28,Gen_Main,Senta,0000,0000,0000,,Yuzuriha, pon atención\Nen el camino o te perderás.
+Dialogue: 0,0:16:37.48,0:16:40.89,Gen_Main,Yuzuriha,0000,0000,0000,,¿Cómo me voy a perder?\NTe dan curiosidad, ¿no, Sagirin?
+Dialogue: 0,0:16:41.52,0:16:42.94,Gen_Main,Yuzuriha,0000,0000,0000,,Me refiero a los Tensen.
+Dialogue: 0,0:16:43.14,0:16:46.51,Gen_Main,Sagiri,0000,0000,0000,,Pues sí. Me dan curiosidad.
+Dialogue: 0,0:16:48.00,0:16:50.40,Gen_Main,Sagiri,0000,0000,0000,,Si Horai es la morada de los Tensen,
+Dialogue: 0,0:16:50.60,0:16:53.04,Gen_Main,Sagiri,0000,0000,0000,,nos los encontraremos\Nde seguro en algún punto.
+Dialogue: 0,0:16:53.74,0:16:55.75,Gen_Main,Hoko,0000,0000,0000,,Los señores Tensen son…
+Dialogue: 0,0:16:56.48,0:16:58.78,Gen_Main,Hoko,0000,0000,0000,,… siete Ermitaños Inmortales.
+Dialogue: 0,0:16:59.81,0:17:01.53,Gen_Main,Mu Dan (hombre),0000,0000,0000,,Prefiero ser hombre.
+Dialogue: 0,0:17:01.76,0:17:05.93,Gen_Main,Mu Dan (hombre),0000,0000,0000,,Primero, su forma es más eficiente.\NLa belleza está en la maniobrabilidad.
+Dialogue: 0,0:17:06.13,0:17:08.38,Gen_Main,Tao Hua (mujer),0000,0000,0000,,Yo prefiero indiscutiblemente ser mujer.
+Dialogue: 0,0:17:08.58,0:17:11.38,Gen_Main,Tao Hua (mujer),0000,0000,0000,,Contemplar el cuerpo femenino\Nda ganas de tocarlo.
+Dialogue: 0,0:17:11.62,0:17:12.86,Gen_Main,Gui Hua (mujer),0000,0000,0000,,Guarden silencio.
+Dialogue: 0,0:17:13.06,0:17:15.42,Gen_Main,Ran (hombre),0000,0000,0000,,Ambos son hermosos a su manera.
+Dialogue: 0,0:17:15.66,0:17:17.65,Gen_Main,Ju Hua (hombre),0000,0000,0000,,¿Estamos hablando solo de apariencia?
+Dialogue: 0,0:17:17.85,0:17:21.86,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Yo prefiero ser hombre. La sensación\Ny el espíritu inquisitivo van conmigo.
+Dialogue: 0,0:17:22.85,0:17:25.50,Gen_Main,Tao Hua (mujer),0000,0000,0000,,Pero el otro día\Nhicimos el amor siendo mujeres.
+Dialogue: 0,0:17:25.70,0:17:27.59,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Fue para satisfacer mi curiosidad.
+Dialogue: 0,0:17:27.76,0:17:30.93,Gen_Main,Tao Hua (mujer),0000,0000,0000,,No es cierto. Quedaste satisfecho\Nen otros sentidos también.
+Dialogue: 0,0:17:31.36,0:17:34.76,Gen_Main,Mu Dan (hombre),0000,0000,0000,,Me asombra que te puedas encargar\Nde alguien con tantas manías.
+Dialogue: 0,0:17:34.96,0:17:36.49,Gen_Main,Tao Hua (mujer),0000,0000,0000,,Esa es la mejor parte, ¿no?
+Dialogue: 0,0:17:36.69,0:17:38.76,Gen_Main,Ran (hombre),0000,0000,0000,,Esforzarse en esos menesteres es bueno.
+Dialogue: 0,0:17:38.93,0:17:40.49,Gen_Main,Gui Hua (mujer),0000,0000,0000,,Guarden silencio, ¿quieren?
+Dialogue: 0,0:17:41.70,0:17:43.49,Gen_Main,Rien (hombre),0000,0000,0000,,Hasta aquí la conversación casual.
+Dialogue: 0,0:17:43.74,0:17:45.67,Gen_Main,Rien (hombre),0000,0000,0000,,Comencemos el informe regular.
+Dialogue: 0,0:17:47.04,0:17:50.50,Gen_Main,Rien (hombre),0000,0000,0000,,Sobre los humanos\Nque desembarcaron hace unos días,
+Dialogue: 0,0:17:50.78,0:17:53.08,Gen_Main,Rien (hombre),0000,0000,0000,,parece que son diferentes\Na los anteriores.
+Dialogue: 0,0:17:53.28,0:17:55.51,Gen_Main,Rien (hombre),0000,0000,0000,,Son pocos, pero cada uno es una fiera.
+Dialogue: 0,0:17:56.01,0:17:57.98,Gen_Main,Rien (hombre),0000,0000,0000,,Ya asesinaron a varios Soshin.
+Dialogue: 0,0:17:58.18,0:18:01.40,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Eso es porque\Ntu vigilancia es un asco, ¿no, Zhu Jin?
+Dialogue: 0,0:18:02.17,0:18:05.02,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Dejaste escapar\Na los que encontraste en la playa.
+Dialogue: 0,0:18:05.22,0:18:08.24,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Y te costó trabajo el que encontraste\Nen la puerta anoche.
+Dialogue: 0,0:18:08.44,0:18:10.65,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Eres miserable y das pena.
+Dialogue: 0,0:18:14.64,0:18:17.95,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Además, viendo tu estado,\Nasumo que usaste demasiado Tao, ¿no?
+Dialogue: 0,0:18:18.15,0:18:19.94,Gen_Main,Tao Hua (mujer),0000,0000,0000,,Pobre criatura.
+Dialogue: 0,0:18:20.30,0:18:22.16,Gen_Main,Mu Dan (hombre),0000,0000,0000,,Tú te lo buscaste.
+Dialogue: 0,0:18:22.50,0:18:26.29,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Mira que usar la Resurrección Demoníaca\Ncontra un humano…
+Dialogue: 0,0:18:26.53,0:18:29.79,Gen_Main,Rien (hombre),0000,0000,0000,,Ya fue suficiente, Ju Hua.\NNosotros somos familia.
+Dialogue: 0,0:18:29.99,0:18:31.80,Gen_Main,Rien (hombre),0000,0000,0000,,La familia debe estar unida.
+Dialogue: 0,0:18:32.00,0:18:33.90,Gen_Main,Rien (hombre),0000,0000,0000,,Y debe obedecer.
+Dialogue: 0,0:18:34.10,0:18:35.81,Gen_Main,Rien (hombre),0000,0000,0000,,A mí, ni más ni menos.
+Dialogue: 0,0:18:36.28,0:18:39.55,Gen_Main,Rien (hombre),0000,0000,0000,,Yo soy el único\Nque tiene derecho a lastimar a Zhu Jin.
+Dialogue: 0,0:18:41.36,0:18:42.55,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Sí, está bien.
+Dialogue: 0,0:18:42.84,0:18:47.56,Gen_Main,Rien (hombre),0000,0000,0000,,¿Qué hay de ti? ¿Dispusiste de los\Nhumanos que encontraste en el bosque?
+Dialogue: 0,0:18:47.76,0:18:50.06,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Los arrojé medio muertos al hoyo.
+Dialogue: 0,0:18:50.53,0:18:52.32,Gen_Main,Ju Hua (hombre),0000,0000,0000,,Ahora ya deben ser flores.
+Dialogue: 0,0:18:52.72,0:18:54.23,Gen_Main,Rien (hombre),0000,0000,0000,,No los subestimes.
+Dialogue: 0,0:18:54.90,0:18:57.32,Gen_Main,Rien (hombre),0000,0000,0000,,Se encontró el cadáver\Nde un Soshin guardián.
+Dialogue: 0,0:18:57.52,0:19:00.88,Gen_Main,Rien (hombre),0000,0000,0000,,Un humano ordinario\Nno podría matar a uno de esos.
+Dialogue: 0,0:19:01.08,0:19:03.76,Gen_Main,Rien (hombre),0000,0000,0000,,Y está el humano\Nque casi derrota a Zhu Jin anoche.
+Dialogue: 0,0:19:03.96,0:19:06.12,Gen_Main,Rien (hombre),0000,0000,0000,,Hay algo diferente esta vez.
+Dialogue: 0,0:19:08.33,0:19:10.76,Gen_Main,Rien (hombre),0000,0000,0000,,Imaginen que pudieran salir del hoyo.
+Dialogue: 0,0:19:11.25,0:19:13.88,Gen_Main,Rien (hombre),0000,0000,0000,,Una bestia herida es escalofriante.
+Dialogue: 0,0:19:14.16,0:19:17.97,Gen_Main,Rien (hombre),0000,0000,0000,,Si todos los humanos que desembarcaron\Ntuvieran una fuerza similar,
+Dialogue: 0,0:19:18.17,0:19:20.26,Gen_Main,Rien (hombre),0000,0000,0000,,será un asunto bastante problemático.
+Dialogue: 0,0:19:21.97,0:19:26.14,Gen_Main,Rien (hombre),0000,0000,0000,,¿Mataste al hombre que te obligó a usar\Nla Resurrección Demoníaca?
+Dialogue: 0,0:19:27.27,0:19:28.64,Gen_Main,Zhu Jin (mujer),0000,0000,0000,,Sí.
+Dialogue: 0,0:19:30.34,0:19:34.39,Gen_Main,Rien (hombre),0000,0000,0000,,Bueno, no importa quién venga.\NNuestro objetivo sigue siendo uno.
+Dialogue: 0,0:19:42.68,0:19:44.78,Gen_Main,Rien (hombre),0000,0000,0000,,¡Por la eternidad con nuestro maestro!
+Dialogue: 0,0:19:52.05,0:19:54.54,Gen_Main,Sagiri,0000,0000,0000,,¿Hay siete inmortales?
+Dialogue: 0,0:19:54.74,0:19:57.56,Gen_Main,Hoko,0000,0000,0000,,Dicen que originalmente eran solo uno.
+Dialogue: 0,0:19:57.76,0:19:59.43,Gen_Main,Yuzuriha,0000,0000,0000,,¿Qué? ¿A qué te refieres?
+Dialogue: 0,0:19:59.63,0:20:02.80,Gen_Main,Hoko,0000,0000,0000,,El Dios Supremo Fugen Jotei,\Nel Gran Emperador Ashuku Taitei,
+Dialogue: 0,0:20:02.97,0:20:05.87,Gen_Main,Hoko,0000,0000,0000,,el que Ocupa el Trono Fuku Jukun,\Nel Sabio Ratna Taisei,
+Dialogue: 0,0:20:06.07,0:20:09.08,Gen_Main,Hoko,0000,0000,0000,,el Origen de Todo Nyoi Genkun,\Nel Príncipe Monju Koko
+Dialogue: 0,0:20:09.28,0:20:10.85,Gen_Main,Hoko,0000,0000,0000,,y el Emperador Jundei Teikun.
+Dialogue: 0,0:20:11.05,0:20:15.84,Gen_Main,Hoko,0000,0000,0000,,El ermitaño obtuvo la iluminación,\Nse volvió un dios y se dividió en siete.
+Dialogue: 0,0:20:16.04,0:20:18.53,Gen_Main,Hoko,0000,0000,0000,,Todos poseen los mismos rasgos y voz,
+Dialogue: 0,0:20:18.70,0:20:21.17,Gen_Main,Hoko,0000,0000,0000,,pero sus personalidades\Ny roles son distintos.
+Dialogue: 0,0:20:21.34,0:20:23.81,Gen_Main,Hoko,0000,0000,0000,,Los siete gobiernan la isla.
+Dialogue: 0,0:20:24.70,0:20:28.21,Gen_Main,Hoko,0000,0000,0000,,Pero es solo algo que aprendí\Ncuando era niño.
+Dialogue: 0,0:20:28.41,0:20:31.95,Gen_Main,Yuzuriha,0000,0000,0000,,Cuando eras niño…\N¿Te refieres a cuando eras una hojita?
+Dialogue: 0,0:20:32.16,0:20:36.19,Gen_Main,Hoko,0000,0000,0000,,No. Yo tenía el mismo aspecto\Nque ustedes tienen.
+Dialogue: 0,0:20:36.94,0:20:40.40,Gen_Main,Hoko,0000,0000,0000,,Todos los habitantes de la isla\Ntenían aspecto humano.
+Dialogue: 0,0:20:40.60,0:20:44.03,Gen_Main,Hoko,0000,0000,0000,,Pero poseían una longevidad mayor\Na la suya y eran muy creyentes.
+Dialogue: 0,0:20:44.23,0:20:46.55,Gen_Main,Hoko,0000,0000,0000,,El pueblo florecía.
+Dialogue: 0,0:20:46.97,0:20:48.29,Gen_Main,Hoko,0000,0000,0000,,Sin embargo…
+Dialogue: 0,0:20:50.94,0:20:52.35,Gen_Main,Senta,0000,0000,0000,,¿Qué es todo esto?
+Dialogue: 0,0:20:52.65,0:20:55.60,Gen_Main,Hoko,0000,0000,0000,,El pueblo florecía hasta hace mil años.
+Dialogue: 0,0:20:56.12,0:21:00.11,Gen_Main,Hoko,0000,0000,0000,,Nuestras vidas son largas.\NNos volvemos árboles antes de morir.
+Dialogue: 0,0:21:00.31,0:21:01.36,Gen_Main,Senta,0000,0000,0000,,¿Árboles?
+Dialogue: 0,0:21:01.64,0:21:04.52,Gen_Main,Hoko,0000,0000,0000,,El cuerpo se va transformando\Nen un árbol poco a poco.
+Dialogue: 0,0:21:04.72,0:21:09.72,Gen_Main,Hoko,0000,0000,0000,,Al final, nos enraizamos en posición zen\Npara adorar a los Tensen para siempre.
+Dialogue: 0,0:21:09.92,0:21:14.12,Gen_Main,Hoko,0000,0000,0000,,El proceso continúa sin importar\Nla edad, y la consciencia se pierde.
+Dialogue: 0,0:21:14.32,0:21:17.80,Gen_Main,Hoko,0000,0000,0000,,Antes de perder la consciencia\Npor completo, todos se reúnen aquí.
+Dialogue: 0,0:21:18.00,0:21:22.71,Gen_Main,Hoko,0000,0000,0000,,Se dice que así el espíritu es invitado\Na entrar a Horai después de la muerte.
+Dialogue: 0,0:21:23.70,0:21:26.16,Gen_Main,Hoko,0000,0000,0000,,Me queda poco\Npara perder la consciencia.
+Dialogue: 0,0:21:26.36,0:21:29.21,Gen_Main,Hoko,0000,0000,0000,,Tenía una familia,\Npero ahora todos son árboles.
+Dialogue: 0,0:21:29.41,0:21:31.72,Gen_Main,Hoko,0000,0000,0000,,Esta era mi hija.
+Dialogue: 0,0:21:31.96,0:21:36.23,Gen_Main,Hoko,0000,0000,0000,,Fue muy desafortunado que fuera\Nla primera de la familia en convertirse.
+Dialogue: 0,0:21:38.42,0:21:42.09,Gen_Main,Sagiri,0000,0000,0000,,Por lo tanto,\Naunque puedan vivir por mil años,
+Dialogue: 0,0:21:42.29,0:21:44.48,Gen_Main,Sagiri,0000,0000,0000,,la aldea colapsaría tarde o temprano.
+Dialogue: 0,0:21:44.69,0:21:48.47,Gen_Main,Hoko,0000,0000,0000,,Horai es el último destino donde\Nel espíritu consigue la paz eterna.
+Dialogue: 0,0:21:48.78,0:21:52.40,Gen_Main,Hoko,0000,0000,0000,,Los Tensen son dioses que eligen\Na los merecedores de entrar a Horai.
+Dialogue: 0,0:21:52.60,0:21:54.90,Gen_Main,Hoko,0000,0000,0000,,Nadie puede desobedecerlos nunca.
+Dialogue: 0,0:21:55.66,0:21:57.87,Gen_Italics,Sagiri,0000,0000,0000,,Se fue él solo a algún lado.
+Dialogue: 0,0:21:58.34,0:22:00.95,Gen_Italics,Sagiri,0000,0000,0000,,De todos modos,\Nno estoy a cargo de su seguridad.
+Dialogue: 0,0:22:01.86,0:22:03.13,Gen_Italics,Sagiri,0000,0000,0000,,Pero…
+Dialogue: 0,0:22:03.76,0:22:05.48,Gen_Italics,Sagiri,0000,0000,0000,,… espero que esté bien.
+Dialogue: 0,0:22:06.58,0:22:09.06,Gen_Italics,Gabimaru,0000,0000,0000,,¿Dónde estoy?
+Dialogue: 0,0:22:09.26,0:22:11.89,Gen_Italics,Gabimaru,0000,0000,0000,,¿La niña me salvó?
+Dialogue: 0,0:22:14.42,0:22:17.28,Gen_Italics,Gabimaru,0000,0000,0000,,No era un santo o un dios.
+Dialogue: 0,0:22:17.54,0:22:19.39,Gen_Italics,Gabimaru,0000,0000,0000,,Es un monstruo hecho y derecho.
+Dialogue: 0,0:22:20.02,0:22:24.11,Gen_Italics,Gabimaru,0000,0000,0000,,Debo vencer esa cosa\Npara conseguir el elixir.
+Dialogue: 0,0:22:25.42,0:22:26.78,Gen_Italics,Gabimaru,0000,0000,0000,,Qué alivio.
+Dialogue: 0,0:22:28.12,0:22:32.41,Gen_Italics,Gabimaru,0000,0000,0000,,Si es un monstruo y no un dios,\Ndebe haber una manera de matarlo.
+Dialogue: 0,0:22:32.66,0:22:36.66,Gen_Italics,Gabimaru,0000,0000,0000,,Pero no debo ser impulsivo.\NHe de buscar la manera de enfrentarlo.
+Dialogue: 0,0:22:36.86,0:22:40.15,Gen_Italics,Gabimaru,0000,0000,0000,,Solo sería muy difícil. Dos, o tres…
+Dialogue: 0,0:22:40.58,0:22:42.08,Gen_Italics,Gabimaru,0000,0000,0000,,Incluso más.
+Dialogue: 0,0:22:44.64,0:22:49.34,Gen_Main,Gantetsusai,0000,0000,0000,,Creí que se trataba de un trapo sucio\Nandante, pero resultó ser el shinobi.
+Dialogue: 0,0:22:49.60,0:22:52.59,Gen_Main,Gantetsusai,0000,0000,0000,,Te ves deshecho.\N¿Será el momento de acabar contigo?
+Dialogue: 0,0:24:22.26,0:24:25.02,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

@@ -1,0 +1,390 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:30.37,0:00:34.37,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:01:45.04,0:01:50.09,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(500,500)\an6\bord0\b0\c&HFFFFFF&\pos(594,291.667)}Fuerte y débil
+Dialogue: 0,0:01:55.20,0:01:56.58,Gen_Main,Toma,0000,0000,0000,,¡Chobee!
+Dialogue: 0,0:01:56.78,0:02:00.08,Gen_Main,Mago Taoísta A,0000,0000,0000,,Tenía potencial,\Npero no dejaba de ser humano.
+Dialogue: 0,0:02:00.28,0:02:01.96,Gen_Main,Mago Taoísta A,0000,0000,0000,,Se rompen muy fácilmente.
+Dialogue: 0,0:02:02.62,0:02:03.96,Gen_Main,Toma,0000,0000,0000,,¡A un lado, animal!
+Dialogue: 0,0:02:04.23,0:02:08.22,Gen_Main,Mago Taoísta A,0000,0000,0000,,Lo echaré de vuelta al hoyo\Nmientras respira. Sí, eso es lo debido.
+Dialogue: 0,0:02:08.47,0:02:10.78,Gen_Main,Mago Taoísta A,0000,0000,0000,,Porque estoy lleno de sabiduría.
+Dialogue: 0,0:02:10.98,0:02:11.99,Gen_Main,Toma,0000,0000,0000,,¡Chobee!
+Dialogue: 0,0:02:16.55,0:02:18.89,Gen_Main,Chobee,0000,0000,0000,,Eso te pasa\Npor bajar la guardia, monstruo.
+Dialogue: 0,0:02:19.40,0:02:20.54,Gen_Main,Chobee,0000,0000,0000,,¡Toma!
+Dialogue: 0,0:02:21.15,0:02:23.32,Gen_Main,Chobee,0000,0000,0000,,¿Por qué vienes para acá?
+Dialogue: 0,0:02:23.49,0:02:25.65,Gen_Main,Chobee,0000,0000,0000,,Te dejé a ti todos los gusanos, ¿no?
+Dialogue: 0,0:02:26.61,0:02:29.15,Gen_Main,Toma,0000,0000,0000,,Sí, lo siento mucho.
+Dialogue: 0,0:02:29.44,0:02:32.18,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Se le regeneró la garganta. ¿Cómo?
+Dialogue: 0,0:02:32.38,0:02:35.91,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Se suponía que era\Nun humano normal. ¿O no?
+Dialogue: 0,0:02:36.37,0:02:39.47,Gen_Italics,Mago Taoísta A,0000,0000,0000,,No me digan que hubo\Nuna mezcla ahí dentro.
+Dialogue: 0,0:02:40.11,0:02:45.30,Gen_Main,Chobee,0000,0000,0000,,Monstruo, hace un momento sentí\Nalgo extraño emanando de ti. ¿Qué es?
+Dialogue: 0,0:02:45.50,0:02:46.76,Gen_Italics,Mago Taoísta A,0000,0000,0000,,¿Se refiere al Tao?
+Dialogue: 0,0:02:46.96,0:02:49.77,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Los humanos normales\Nson incapaces de detectarlo, ¿no?
+Dialogue: 0,0:02:49.97,0:02:52.57,Gen_Main,Chobee,0000,0000,0000,,Vaya, vaya…\N¿Te comieron la lengua los ratones?
+Dialogue: 0,0:02:52.77,0:02:57.00,Gen_Main,Chobee,0000,0000,0000,,¿Acaso esa es la verdadera fuente\Ndel poder de los monstruos?
+Dialogue: 0,0:02:58.48,0:03:01.38,Gen_Main,Chobee,0000,0000,0000,,Deberá ser la clave para asesinar\Na los malditos Tensen.
+Dialogue: 0,0:03:01.58,0:03:06.15,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Su Tao se ha vuelto más grande\Nque hace un momento.
+Dialogue: 0,0:03:06.90,0:03:09.86,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Puedo sentirlo.\NEste hombre es peligroso.
+Dialogue: 0,0:03:10.06,0:03:11.78,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Lo debido es exterminarlo ahora.
+Dialogue: 0,0:03:14.05,0:03:15.41,Gen_Main,Chobee,0000,0000,0000,,No lo puedo ver.
+Dialogue: 0,0:03:17.53,0:03:22.41,Gen_Italics,Chobee,0000,0000,0000,,Cuánta fuerza para su cuerpo.\NSí, esa extraña aura es el secreto.
+Dialogue: 0,0:03:30.47,0:03:32.80,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Su Tao se ha incrementado aún más.
+Dialogue: 0,0:03:32.97,0:03:36.64,Gen_Italics,Mago Taoísta A,0000,0000,0000,,¿Es por las lianas?\NYa ni siquiera es humano.
+Dialogue: 0,0:03:36.87,0:03:39.14,Gen_Italics,Toma,0000,0000,0000,,Mi hermano es\Nun genio de la adaptabilidad.
+Dialogue: 0,0:03:39.34,0:03:42.09,Gen_Italics,Toma,0000,0000,0000,,Pero algo me dice que si esto continúa…
+Dialogue: 0,0:03:42.52,0:03:43.86,Gen_Italics,Toma,0000,0000,0000,,Si sigue con esto…
+Dialogue: 0,0:03:44.80,0:03:46.83,Gen_Main,Chobee,0000,0000,0000,,No entiendo muy bien lo que pasa,
+Dialogue: 0,0:03:47.03,0:03:49.91,Gen_Main,Chobee,0000,0000,0000,,pero parece que he conseguido\Nun cuerpo muy útil.
+Dialogue: 0,0:03:50.11,0:03:51.56,Gen_Main,Mago Taoísta A,0000,0000,0000,,Veo que posees mucho valor.
+Dialogue: 0,0:03:51.73,0:03:55.66,Gen_Main,Mago Taoísta A,0000,0000,0000,,¿No temes los cambios en tu cuerpo\Ny que dejes de ser humano?
+Dialogue: 0,0:03:56.06,0:03:57.40,Gen_Main,Chobee,0000,0000,0000,,No, para nada.
+Dialogue: 0,0:03:57.71,0:04:00.16,Gen_Main,Chobee,0000,0000,0000,,En el mundo nada es inmutable.
+Dialogue: 0,0:04:00.66,0:04:05.42,Gen_Main,Chobee,0000,0000,0000,,Lo sé muy bien. Me basta\Ncon que no cambie solo una cosa.
+Dialogue: 0,0:04:05.62,0:04:08.17,Gen_Main,Mago Taoísta A,0000,0000,0000,,¿Una cosa? ¿Tu propia consciencia?
+Dialogue: 0,0:04:09.05,0:04:10.73,Gen_Main,Chobee,0000,0000,0000,,No, te equivocas.
+Dialogue: 0,0:04:11.45,0:04:13.17,Gen_Main,Chobee niño/Toma niño,0000,0000,0000,,-¡¿Qué diantres haces?!\N-¡Chobee!
+Dialogue: 0,0:04:13.44,0:04:16.24,Gen_Main,Bandido,0000,0000,0000,,Se les ve en la cara\Nlo elegantes que son.
+Dialogue: 0,0:04:16.44,0:04:19.93,Gen_Main,Bandido,0000,0000,0000,,Sus refinadas caritas\Nharán que dejemos de dar miedo.
+Dialogue: 0,0:04:20.40,0:04:23.18,Gen_Main,Bandido,0000,0000,0000,,Los convertiré en verdaderos bandidos.
+Dialogue: 0,0:04:23.65,0:04:26.27,Gen_Main,Bandido,0000,0000,0000,,Comenzaré por el menor.
+Dialogue: 0,0:04:32.35,0:04:35.07,Gen_Main,Bandido,0000,0000,0000,,¡¿Estás loco, mocoso?!\N¡¿Qué carajo haces?!
+Dialogue: 0,0:04:36.03,0:04:38.05,Gen_Main,Chobee niño,0000,0000,0000,,¿Aún me veo refinado?
+Dialogue: 0,0:04:38.25,0:04:41.60,Gen_Main,Chobee niño,0000,0000,0000,,Si alguien tiene algún problema,\Nque trate de hacerme otra.
+Dialogue: 0,0:04:42.22,0:04:44.58,Gen_Main,Chobee,0000,0000,0000,,Un monstruo no lo entendería.
+Dialogue: 0,0:04:45.26,0:04:47.33,Gen_Main,Chobee,0000,0000,0000,,Nadie lo comprendería.
+Dialogue: 0,0:04:48.80,0:04:52.55,Gen_Main,Chobee,0000,0000,0000,,¡Vamos, muéstrame más de tu brujería!
+Dialogue: 0,0:04:57.57,0:05:01.01,Gen_Main,Chobee,0000,0000,0000,,¡Te tengo, cabrón!\NConque así son ustedes.
+Dialogue: 0,0:05:01.21,0:05:03.83,Gen_Main,Chobee,0000,0000,0000,,Sabía que su punto débil era el ombligo.
+Dialogue: 0,0:05:05.80,0:05:07.65,Gen_Italics,Mago Taoísta A,0000,0000,0000,,Se va haciendo más grande.
+Dialogue: 0,0:05:07.85,0:05:10.11,Gen_Italics,Mago Taoísta A,0000,0000,0000,,¿Qué diablos es este hombre?
+Dialogue: 0,0:05:16.08,0:05:17.65,Gen_Main,Chobee,0000,0000,0000,,Ya soy capaz de verlo.
+Dialogue: 0,0:05:17.89,0:05:20.37,Gen_Main,Chobee,0000,0000,0000,,Sí, tenía idea\Nde que lanzabas algo extraño.
+Dialogue: 0,0:05:20.57,0:05:23.41,Gen_Main,Chobee,0000,0000,0000,,Así que eso también\Nte recubría el cuerpo, ¿eh?
+Dialogue: 0,0:05:23.77,0:05:27.54,Gen_Main,Mago Taoísta A/Toma,0000,0000,0000,,-¡Soshin, vengan a…!\N-Eso no se va a poder.
+Dialogue: 0,0:05:28.55,0:05:30.92,Gen_Main,Toma,0000,0000,0000,,Ya barrí con todos ellos.
+Dialogue: 0,0:05:33.50,0:05:37.17,Gen_Main,Chobee,0000,0000,0000,,Vamos, muéstrame más de tu magia.
+Dialogue: 0,0:05:37.45,0:05:39.42,Gen_Main,Chobee,0000,0000,0000,,¡Es su arma secreta, ¿no?!
+Dialogue: 0,0:05:43.31,0:05:46.15,Gen_Main,Chobee,0000,0000,0000,,Vaya, vaya. Así es como lo reúnes, ¿eh?
+Dialogue: 0,0:05:46.95,0:05:50.42,Gen_Main,Chobee,0000,0000,0000,,Por cierto, ¿no te sirve de defensa\Nsi te cubres con eso?
+Dialogue: 0,0:05:50.62,0:05:53.40,Gen_Main,Chobee/Mago Taoísta A,0000,0000,0000,,-Pude aplastarlo muy fácilmente.\N-No puede ser.
+Dialogue: 0,0:05:54.10,0:05:57.45,Gen_Main,Chobee,0000,0000,0000,,Cuando peleé contra el otro,\Nno funcionó casi ningún ataque.
+Dialogue: 0,0:05:57.65,0:05:59.86,Gen_Main,Chobee,0000,0000,0000,,¿Era porque\Nyo no estaba revestido con él?
+Dialogue: 0,0:06:00.03,0:06:03.16,Gen_Main,Mago Taoísta A/Chobee,0000,0000,0000,,-No lo puedo creer.\N-Parece que lo rigen varios principios.
+Dialogue: 0,0:06:03.64,0:06:06.16,Gen_Main,Chobee,0000,0000,0000,,Solo resta probarlo en combate, ¿verdad?
+Dialogue: 0,0:06:06.77,0:06:08.27,Gen_Main,Chobee,0000,0000,0000,,¿Este es el Tao?
+Dialogue: 0,0:06:08.47,0:06:09.59,Gen_Main,Mago Taoísta A,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:06:15.92,0:06:19.09,Gen_Main,Chobee,0000,0000,0000,,Me habían asustado.\NPero ya vi que sí los puedo matar.
+Dialogue: 0,0:06:19.32,0:06:23.36,Gen_Main,Chobee,0000,0000,0000,,Puedo ver muy bien cómo tu Tao\Nestá a punto de extinguirse.
+Dialogue: 0,0:06:26.40,0:06:28.00,Gen_Main,Chobee,0000,0000,0000,,Ponte de pie, adefesio.
+Dialogue: 0,0:06:28.20,0:06:31.32,Gen_Main,Chobee,0000,0000,0000,,Hay montones de cosas\Nque te quiero preguntar.
+Dialogue: 0,0:06:31.52,0:06:34.22,Gen_Main,Chobee,0000,0000,0000,,Primero, dime dónde están los Tensen.
+Dialogue: 0,0:06:35.73,0:06:39.22,Gen_Italics,Toma,0000,0000,0000,,Me da la impresión de que\Nlas cicatrices se están expandiendo.
+Dialogue: 0,0:06:40.87,0:06:41.99,Gen_Main,Chobee,0000,0000,0000,,¿Qué sucede?
+Dialogue: 0,0:06:43.82,0:06:45.74,Gen_Main,Chobee,0000,0000,0000,,Oye, no te distraigas.
+Dialogue: 0,0:06:46.07,0:06:49.25,Gen_Main,Toma/Chobee,0000,0000,0000,,-Lo siento mucho.\N-Ayúdame a atarlo.
+Dialogue: 0,0:06:49.53,0:06:50.99,Gen_Italics,Toma,0000,0000,0000,,¿Habrá sido mi imaginación?
+Dialogue: 0,0:06:51.19,0:06:53.80,Gen_Italics,Toma,0000,0000,0000,,Lo más importante es que está con vida.
+Dialogue: 0,0:06:54.00,0:06:56.25,Gen_Italics,Toma,0000,0000,0000,,Pero ¿sí se encontrará bien en verdad?
+Dialogue: 0,0:06:56.48,0:07:01.06,Gen_Italics,Toma,0000,0000,0000,,Además, ¿qué son estas marcas?\NParecen alguna especie de planta.
+Dialogue: 0,0:07:01.63,0:07:03.81,Gen_Italics,Toma,0000,0000,0000,,Como la vaina de algún arbusto.
+Dialogue: 0,0:07:06.19,0:07:09.49,Gen_Main,Gantetsusai,0000,0000,0000,,¿Qué le parece, señorita?\NMi espada es asombrosa, ¿no?
+Dialogue: 0,0:07:09.69,0:07:10.81,Gen_Main,Mei,0000,0000,0000,,Fuerte…
+Dialogue: 0,0:07:11.01,0:07:14.40,Gen_Main,Gantetsusai,0000,0000,0000,,Así dominaré el Tao en poco tiempo, ¿no?
+Dialogue: 0,0:07:16.09,0:07:18.95,Gen_Main,Mei,0000,0000,0000,,Tao, fuerte, débil.
+Dialogue: 0,0:07:19.15,0:07:21.36,Gen_Main,Mei,0000,0000,0000,,Fuerte, fuerte, no bien.
+Dialogue: 0,0:07:22.37,0:07:23.85,Gen_Main,Gantetsusai,0000,0000,0000,,No le entiendo nada.
+Dialogue: 0,0:07:24.36,0:07:27.28,Gen_Main,Gantetsusai/Mei,0000,0000,0000,,-¿Así?\N-Fuerte, fuerte, no bien.
+Dialogue: 0,0:07:27.80,0:07:30.29,Gen_Main,Gantetsusai/Mei,0000,0000,0000,,-¿Y así?\N-Fuerte, fuerte.
+Dialogue: 0,0:07:30.59,0:07:33.28,Gen_Main,Mei,0000,0000,0000,,Tao, fuerte, débil.
+Dialogue: 0,0:07:33.48,0:07:35.68,Gen_Main,Gantetsusai,0000,0000,0000,,Soy incapaz de comprender\Nsus respuestas.
+Dialogue: 0,0:07:35.85,0:07:38.20,Gen_Main,Gantetsusai,0000,0000,0000,,¿Quiere decir que no basta\Ncon fuerza bruta?
+Dialogue: 0,0:07:41.26,0:07:43.48,Gen_Main,Gantetsusai,0000,0000,0000,,Es pequeñito,\Npero le echas ganas, ¿verdad?
+Dialogue: 0,0:07:43.68,0:07:45.31,Gen_Main,Gantetsusai,0000,0000,0000,,¿Qué me dice de él, señorita?
+Dialogue: 0,0:07:45.47,0:07:48.31,Gen_Main,Mei,0000,0000,0000,,Fuerte, fuerte, no bien, no bien.
+Dialogue: 0,0:07:48.48,0:07:52.34,Gen_Main,Fuchi,0000,0000,0000,,El Vacío y el Dragón de la Espada.\NMe sirven tanto que se me sale la risa.
+Dialogue: 0,0:07:52.50,0:07:53.94,Gen_Main,Gabimaru,0000,0000,0000,,¿Tú qué estás haciendo?
+Dialogue: 0,0:07:54.53,0:07:56.44,Gen_Main,Fuchi,0000,0000,0000,,Analizando a los monstruos.
+Dialogue: 0,0:07:56.67,0:07:59.43,Gen_Main,Fuchi,0000,0000,0000,,Cada uno tiene órganos distintos.
+Dialogue: 0,0:07:59.63,0:08:03.44,Gen_Main,Fuchi,0000,0000,0000,,Aunque tengan apariencias similares,\Neste adentro se parece más a un pez.
+Dialogue: 0,0:08:03.61,0:08:05.57,Gen_Main,Fuchi,0000,0000,0000,,Y este es más cercano a los humanos.
+Dialogue: 0,0:08:05.83,0:08:09.19,Gen_Main,Fuchi,0000,0000,0000,,O sea que cada uno\Ntiene puntos débiles diferentes.
+Dialogue: 0,0:08:09.39,0:08:12.34,Gen_Main,Fuchi,0000,0000,0000,,Aunque es imposible\Ndesde el punto de vista biológico.
+Dialogue: 0,0:08:13.65,0:08:17.70,Gen_Main,Fuchi,0000,0000,0000,,Lo mismo va para ella.\NEn primer lugar, ¿qué es?
+Dialogue: 0,0:08:19.96,0:08:25.47,Gen_Italics,Gabimaru,0000,0000,0000,,Aquella vez, me pareció que rasgó\Nla barranca con magia para poder huir.
+Dialogue: 0,0:08:25.81,0:08:28.55,Gen_Italics,Gabimaru,0000,0000,0000,,Un humano normal no podría hacer eso.
+Dialogue: 0,0:08:29.05,0:08:30.85,Gen_Italics,Gabimaru,0000,0000,0000,,Si fuera una humana normal…
+Dialogue: 0,0:08:34.92,0:08:38.73,Gen_Italics,Gabimaru,0000,0000,0000,,Otra vez la hice llorar.\NPor dentro es una niña, ¿verdad?
+Dialogue: 0,0:08:38.93,0:08:40.14,Gen_Main,Gantetsusai,0000,0000,0000,,¡Oye, shinobi!
+Dialogue: 0,0:08:40.56,0:08:42.44,Gen_Main,Gantetsusai,0000,0000,0000,,¡No hagas llorar a la señorita!
+Dialogue: 0,0:08:42.64,0:08:45.28,Gen_Main,Gantetsusai,0000,0000,0000,,Nunca serás popular\Ncon esos ojos de villano.
+Dialogue: 0,0:08:45.60,0:08:48.76,Gen_Main,Gabimaru,0000,0000,0000,,No busco ser popular. Tengo a mi esposa.
+Dialogue: 0,0:08:50.45,0:08:52.00,Gen_Main,Gantetsusai,0000,0000,0000,,No me refiero a eso.
+Dialogue: 0,0:08:52.20,0:08:55.47,Gen_Main,Gantetsusai,0000,0000,0000,,Lo que digo es que un secuaz mío\Nno haría llorar a una mujer.
+Dialogue: 0,0:08:56.05,0:08:57.83,Gen_Main,Gabimaru,0000,0000,0000,,No soy tu secuaz.
+Dialogue: 0,0:08:58.07,0:09:01.53,Gen_Italics,Fuchi,0000,0000,0000,,Ese Vacío es más humano\Nque lo que cuentan los rumores.
+Dialogue: 0,0:09:02.04,0:09:05.23,Gen_Main,Mei,0000,0000,0000,,Fuerte, fuerte, fuerte, no bien.
+Dialogue: 0,0:09:05.72,0:09:07.71,Gen_Main,Gabimaru,0000,0000,0000,,¿Y tú? ¿Tienes esposa?
+Dialogue: 0,0:09:07.91,0:09:08.97,Gen_Main,Mago Taoísta B,0000,0000,0000,,Es ella.
+Dialogue: 0,0:09:09.14,0:09:11.22,Gen_Main,Gantetsusai,0000,0000,0000,,Tengo una en cada puerto y cada ciudad.
+Dialogue: 0,0:09:23.64,0:09:26.86,Gen_Main,Mago Taoísta B,0000,0000,0000,,La estábamos buscando en secreto,\Nseñorita Mei.
+Dialogue: 0,0:09:27.18,0:09:28.87,Gen_Main,Gabimaru,0000,0000,0000,,¿Señorita Mei?
+Dialogue: 0,0:09:29.07,0:09:32.55,Gen_Main,Mago Taoísta B,0000,0000,0000,,Han pasado varios siglos\Ndesde que fue expulsada del castillo.
+Dialogue: 0,0:09:32.75,0:09:37.08,Gen_Main,Mago Taoísta B,0000,0000,0000,,Escapó de Horai\Ny no teníamos idea de dónde estaba.
+Dialogue: 0,0:09:37.28,0:09:40.11,Gen_Main,Mago Taoísta B,0000,0000,0000,,Las órdenes del señor Rien\Nnos impedían ir a buscarla.
+Dialogue: 0,0:09:40.45,0:09:43.03,Gen_Main,Mago Taoísta B,0000,0000,0000,,Me causa algarabía volver a verla aquí.
+Dialogue: 0,0:09:44.11,0:09:46.01,Gen_Main,Mago Taoísta B,0000,0000,0000,,Me encuentro lleno de júbilo.
+Dialogue: 0,0:09:46.39,0:09:48.50,Gen_Main,Mago Taoísta B,0000,0000,0000,,Venga conmigo. Regresemos juntos.
+Dialogue: 0,0:09:48.70,0:09:51.64,Gen_Main,Mago Taoísta B,0000,0000,0000,,Nosotros necesitamos de su ayuda.
+Dialogue: 0,0:09:52.59,0:09:54.04,Gen_Main,Mago Taoísta B,0000,0000,0000,,¿De qué se trata eso?
+Dialogue: 0,0:09:54.47,0:09:57.63,Gen_Main,Mago Taoísta B,0000,0000,0000,,Yo soy el que debería preguntarles\Npor qué están con ella.
+Dialogue: 0,0:09:58.32,0:10:02.52,Gen_Main,Mago Taoísta B,0000,0000,0000,,Ustedes no pueden estar\Ncon una señorita de tan alto estatus.
+Dialogue: 0,0:10:02.93,0:10:04.79,Gen_Main,Mago Taoísta B,0000,0000,0000,,Es del mismo nivel que los Tensen.
+Dialogue: 0,0:10:04.99,0:10:07.78,Gen_Main,Mago Taoísta B,0000,0000,0000,,Ella es de las que\Nse alimenta de ustedes, humanos.
+Dialogue: 0,0:10:08.01,0:10:09.67,Gen_Main,Gantetsusai,0000,0000,0000,,¿Tensen? ¿De los que hablamos?
+Dialogue: 0,0:10:09.87,0:10:11.41,Gen_Main,Fuchi,0000,0000,0000,,¿Es de la misma especie?
+Dialogue: 0,0:10:11.72,0:10:13.91,Gen_Italics,Gabimaru,0000,0000,0000,,Entonces, no era humana.
+Dialogue: 0,0:10:14.91,0:10:18.68,Gen_Main,Mago Taoísta B,0000,0000,0000,,Le ruego que regrese con nosotros\Na Horai para que nos guíe, por favor.
+Dialogue: 0,0:10:19.04,0:10:21.79,Gen_Main,Mago Taoísta B,0000,0000,0000,,No somos nada sin su ayuda.
+Dialogue: 0,0:10:22.09,0:10:26.30,Gen_Italics,Gabimaru,0000,0000,0000,,Si me involucro en asuntos que\Nno me corresponden, perderé el camino.
+Dialogue: 0,0:10:26.71,0:10:30.67,Gen_Italics,Gabimaru,0000,0000,0000,,¿Cuál es mi verdadero objetivo?\N¿La razón por la que estoy en la misión?
+Dialogue: 0,0:10:30.99,0:10:33.51,Gen_Italics,Gabimaru,0000,0000,0000,,Debo pensar en lo que debo hacer ahora.
+Dialogue: 0,0:10:40.99,0:10:43.20,Gen_Main,Mago Taoísta B,0000,0000,0000,,¿Qué crees que haces, humano?
+Dialogue: 0,0:10:43.40,0:10:44.94,Gen_Main,Gabimaru,0000,0000,0000,,Pues fue sin querer.
+Dialogue: 0,0:10:45.58,0:10:48.24,Gen_Main,Mago Taoísta B,0000,0000,0000,,Si crees que la estás salvando,\Nte equivocas.
+Dialogue: 0,0:10:48.44,0:10:50.35,Gen_Main,Mago Taoísta B,0000,0000,0000,,Este es un problema nuestro.
+Dialogue: 0,0:10:50.55,0:10:53.20,Gen_Main,Gabimaru,0000,0000,0000,,Pues sí, tienes razón.
+Dialogue: 0,0:10:53.89,0:10:56.48,Gen_Main,Gabimaru,0000,0000,0000,,Desconozco las circunstancias\Ny quizá me adelanto.
+Dialogue: 0,0:10:57.26,0:11:00.47,Gen_Main,Gabimaru,0000,0000,0000,,En primer lugar, yo no soy así.\NY es un fastidio.
+Dialogue: 0,0:11:00.88,0:11:03.83,Gen_Main,Gabimaru,0000,0000,0000,,Estoy sorprendido\Nde haber actuado por instinto.
+Dialogue: 0,0:11:04.12,0:11:05.20,Gen_Main,Gabimaru,0000,0000,0000,,Pero…
+Dialogue: 0,0:11:06.04,0:11:07.96,Gen_Main,Gabimaru,0000,0000,0000,,… no quiero hacerla llorar de nuevo.
+Dialogue: 0,0:11:08.41,0:11:10.33,Gen_Main,Gabimaru,0000,0000,0000,,Supongo que es razón suficiente.
+Dialogue: 0,0:11:11.47,0:11:13.38,Gen_Main,Mago Taoísta B,0000,0000,0000,,Maldito estorbo.
+Dialogue: 0,0:11:13.74,0:11:17.72,Gen_Main,Mago Taoísta B,0000,0000,0000,,En primer lugar,\Nvinimos a capturarlos para hacerlos Tan.
+Dialogue: 0,0:11:18.22,0:11:19.22,Gen_Main,Fuchi,0000,0000,0000,,¿De dónde salió?
+Dialogue: 0,0:11:22.31,0:11:24.69,Gen_Main,Mago Taoísta B,0000,0000,0000,,Nos llevaremos a la señorita Mei.
+Dialogue: 0,0:11:24.89,0:11:27.93,Gen_Main,Gantetsusai,0000,0000,0000,,No me digan que ese es\Nel jefe de las mariposas.
+Dialogue: 0,0:11:28.46,0:11:30.48,Gen_Main,Gantetsusai,0000,0000,0000,,Mataré al desgraciado.
+Dialogue: 0,0:11:36.79,0:11:40.34,Gen_Italics,Gabimaru,0000,0000,0000,,Infiero por sus apariencias\Nque son domadores de bichos.
+Dialogue: 0,0:11:40.77,0:11:42.42,Gen_Italics,Gabimaru,0000,0000,0000,,¿O los jefes de la colonia?
+Dialogue: 0,0:11:42.61,0:11:44.46,Gen_Italics,Gabimaru,0000,0000,0000,,Es peligroso acercarme sin un plan.
+Dialogue: 0,0:11:46.87,0:11:50.11,Gen_Main,Gantetsusai,0000,0000,0000,,Por culpa de esos malditos bichos\Nperdí la mano izquierda.
+Dialogue: 0,0:11:50.31,0:11:52.47,Gen_Main,Gantetsusai,0000,0000,0000,,Les voy a devolver el favor con creces.
+Dialogue: 0,0:11:52.67,0:11:54.97,Gen_Main,Fuchi,0000,0000,0000,,Entonces,\Ndevuélveme el favor a mí también.
+Dialogue: 0,0:11:55.14,0:11:58.10,Gen_Main,Fuchi,0000,0000,0000,,Yo fui el que modificó…\Ndigo, te curó la mano izquierda.
+Dialogue: 0,0:11:58.30,0:12:00.72,Gen_Main,Gabimaru,0000,0000,0000,,Creo que eso del favor\Nsolo fue una metáfora.
+Dialogue: 0,0:12:01.18,0:12:02.74,Gen_Main,Gantetsusai,0000,0000,0000,,No, lo digo en serio.
+Dialogue: 0,0:12:02.94,0:12:06.48,Gen_Main,Gantetsusai,0000,0000,0000,,Al perder algo,\Nme voy puliendo y refinando más.
+Dialogue: 0,0:12:06.92,0:12:09.48,Gen_Main,Gantetsusai,0000,0000,0000,,¡Mi esgrima es mucho más fuerte ahora!
+Dialogue: 0,0:12:11.99,0:12:12.99,Gen_Main,Gantetsusai,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:12:13.40,0:12:15.24,Gen_Main,Gabimaru,0000,0000,0000,,Es el ataque invisible.
+Dialogue: 0,0:12:15.51,0:12:17.23,Gen_Main,Gabimaru,0000,0000,0000,,¿Ellos también pueden emplearlo?
+Dialogue: 0,0:12:17.43,0:12:20.46,Gen_Main,Gabimaru,0000,0000,0000,,No los ataques sin pensar.\NUsan una brujería muy extraña.
+Dialogue: 0,0:12:20.63,0:12:23.00,Gen_Main,Gantetsusai,0000,0000,0000,,Ahora comprendo. Conque esto es el Tao.
+Dialogue: 0,0:12:26.71,0:12:28.57,Gen_Main,Gantetsusai,0000,0000,0000,,Maldito enjambre de alimañas.
+Dialogue: 0,0:12:32.97,0:12:34.89,Gen_Main,Gantetsusai,0000,0000,0000,,¡No me estorbes, secuaz!
+Dialogue: 0,0:12:35.09,0:12:37.30,Gen_Main,Gabimaru,0000,0000,0000,,No soy tu secuaz\Ny el que estorba eres tú.
+Dialogue: 0,0:12:37.50,0:12:40.43,Gen_Main,Gantetsusai,0000,0000,0000,,Yo quiero aplastar\Na la mariposota de allá.
+Dialogue: 0,0:12:40.71,0:12:43.55,Gen_Main,Mago Taoísta B,0000,0000,0000,,Ustedes no son\Noponentes dignos de nosotros.
+Dialogue: 0,0:12:43.75,0:12:46.44,Gen_Main,Mago Taoísta B,0000,0000,0000,,Ni siquiera tienen nada que ver\Ncon la señorita Mei.
+Dialogue: 0,0:12:46.64,0:12:48.58,Gen_Main,Mago Taoísta B,0000,0000,0000,,¿Por qué intentan defenderla?
+Dialogue: 0,0:12:48.78,0:12:49.94,Gen_Italics,Gabimaru,0000,0000,0000,,Es verdad.
+Dialogue: 0,0:12:50.33,0:12:53.19,Gen_Italics,Gabimaru,0000,0000,0000,,En el pasado,\Nquizá la habría abandonado a su suerte.
+Dialogue: 0,0:12:53.57,0:12:57.41,Gen_Italics,Gabimaru,0000,0000,0000,,Desde que llegué a la isla,\Nme comporto de una manera muy diferente.
+Dialogue: 0,0:12:57.77,0:13:00.33,Gen_Italics,Gabimaru,0000,0000,0000,,Pero no creo que sea malo.
+Dialogue: 0,0:13:01.18,0:13:03.85,Gen_Main,Gabimaru,0000,0000,0000,,Si la que me rescató está en problemas,\Nla ayudaré.
+Dialogue: 0,0:13:04.02,0:13:05.33,Gen_Main,Gabimaru,0000,0000,0000,,Es lo más normal, ¿no?
+Dialogue: 0,0:13:05.56,0:13:09.27,Gen_Main,Gabimaru,0000,0000,0000,,¿Y ustedes? ¿Por qué están\Ntan obsesionados con ella?
+Dialogue: 0,0:13:09.58,0:13:11.84,Gen_Main,Gabimaru,0000,0000,0000,,A la chica no parece agradarle.
+Dialogue: 0,0:13:12.21,0:13:15.67,Gen_Main,Mago Taoísta B,0000,0000,0000,,Nosotros los magos taoístas\Nestudiamos y entrenamos el Tao.
+Dialogue: 0,0:13:15.87,0:13:19.76,Gen_Main,Mago Taoísta B,0000,0000,0000,,La señorita Mei es un ser indispensable\Npara nuestro entrenamiento.
+Dialogue: 0,0:13:20.39,0:13:23.01,Gen_Main,Gantetsusai,0000,0000,0000,,Unos monstruos entrenando, ¿dices?
+Dialogue: 0,0:13:23.25,0:13:25.68,Gen_Main,Mago Taoísta B,0000,0000,0000,,El Tao se encuentra\Ndentro de toda la creación.
+Dialogue: 0,0:13:25.88,0:13:30.27,Gen_Main,Mago Taoísta B,0000,0000,0000,,Les enseñaré antes de refinarlos en Tan,\Npobres y desdichados humanos.
+Dialogue: 0,0:13:30.69,0:13:33.64,Gen_Main,Mago Taoísta B,0000,0000,0000,,Hay cinco tipos de entrenamiento\Npara incrementar el Tao:
+Dialogue: 0,0:13:33.81,0:13:37.53,Gen_Main,Mago Taoísta B,0000,0000,0000,,Ejercicios físicos, de respiración,\Nde meditación y cultivo de energía.
+Dialogue: 0,0:13:37.85,0:13:41.69,Gen_Main,Mago Taoísta B,0000,0000,0000,,Y, el más importante,\Nlas artes de la intimidad.
+Dialogue: 0,0:13:42.04,0:13:44.87,Gen_Main,Mago Taoísta B,0000,0000,0000,,Para el último,\Nse necesita alguien más para entrenar.
+Dialogue: 0,0:13:45.07,0:13:48.04,Gen_Main,Mago Taoísta B,0000,0000,0000,,La circulación del yin y el yang\Nocurre en el coito.
+Dialogue: 0,0:13:48.94,0:13:50.66,Gen_Main,Gantetsusai,0000,0000,0000,,¿A qué se refiere con intimidad?
+Dialogue: 0,0:13:51.95,0:13:53.74,Gen_Main,Fuchi,0000,0000,0000,,Al acto sexual, dicho vulgarmente.
+Dialogue: 0,0:13:53.94,0:13:55.05,Gen_Main,Gantetsusai,0000,0000,0000,,¡¿Qué?!
+Dialogue: 0,0:13:55.98,0:13:58.51,Gen_Main,Gantetsusai,0000,0000,0000,,¿Coger es su entrenamiento?\NNo digas tonterías.
+Dialogue: 0,0:13:58.71,0:14:00.68,Gen_Main,Mago Taoísta B,0000,0000,0000,,Hablo de un entrenamiento sublime.
+Dialogue: 0,0:14:01.23,0:14:05.08,Gen_Main,Mago Taoísta B,0000,0000,0000,,Todas las cosas contienen\Nya sea energía yin o yang.
+Dialogue: 0,0:14:05.28,0:14:08.96,Gen_Main,Mago Taoísta B,0000,0000,0000,,Al circular ambos polos, el Tao aumenta.
+Dialogue: 0,0:14:09.55,0:14:12.71,Gen_Main,Mago Taoísta B,0000,0000,0000,,Preparamos el cuerpo\Ncon ejercicios físicos y de respiración,
+Dialogue: 0,0:14:12.88,0:14:15.82,Gen_Main,Mago Taoísta B,0000,0000,0000,,y mezclamos el yin y el yang,\Ny los hacemos circular.
+Dialogue: 0,0:14:16.13,0:14:17.98,Gen_Main,Mago Taoísta B,0000,0000,0000,,Eso es el arte de la intimidad.
+Dialogue: 0,0:14:18.77,0:14:20.95,Gen_Main,Mago Taoísta B,0000,0000,0000,,Dicen que este Tao sublimado…
+Dialogue: 0,0:14:21.15,0:14:24.65,Gen_Main,Mago Taoísta B,0000,0000,0000,,… posee el poder\Nde modificar las leyes naturales.
+Dialogue: 0,0:14:25.27,0:14:30.21,Gen_Main,Mago Taoísta B,0000,0000,0000,,Los que han refinado esto al máximo\Nson nuestros maestros los Tensen.
+Dialogue: 0,0:14:31.32,0:14:33.68,Gen_Main,Mago Taoísta B,0000,0000,0000,,Los Tensen,\Nademás del arte de la intimidad,
+Dialogue: 0,0:14:33.88,0:14:37.91,Gen_Main,Mago Taoísta B,0000,0000,0000,,son seres superiores que pueden hacer\Ncircular por sí mismos el yin y yang.
+Dialogue: 0,0:14:38.14,0:14:42.59,Gen_Main,Mago Taoísta B,0000,0000,0000,,Crean un remolino constante de yin\Ny yang con el que aumentan el Tao.
+Dialogue: 0,0:14:43.13,0:14:48.64,Gen_Main,Mago Taoísta B,0000,0000,0000,,Se han dedicado al entrenamiento por\Nmil años para producir el máximo Tao.
+Dialogue: 0,0:14:49.23,0:14:51.69,Gen_Main,Mago Taoísta B,0000,0000,0000,,El yin o el yang\Nse manifiestan según el sexo.
+Dialogue: 0,0:14:51.89,0:14:54.75,Gen_Main,Mago Taoísta B,0000,0000,0000,,En el caso de los Tensen,\Ncada uno posee ambos polos.
+Dialogue: 0,0:14:54.95,0:14:57.23,Gen_Italics,Gabimaru,0000,0000,0000,,Dos polos\Npara hacer circular yin y yang.
+Dialogue: 0,0:14:57.45,0:14:59.91,Gen_Italics,Gabimaru,0000,0000,0000,,Por eso cambian\Nde forma masculina y femenina.
+Dialogue: 0,0:15:00.94,0:15:03.94,Gen_Main,Mago Taoísta B,0000,0000,0000,,Sin embargo, los seres vivos normales\Nsolo tienen un polo.
+Dialogue: 0,0:15:04.11,0:15:07.55,Gen_Main,Mago Taoísta B,0000,0000,0000,,Por lo que se necesita un acompañante\Npara rotar el yin y el yang.
+Dialogue: 0,0:15:07.72,0:15:10.29,Gen_Main,Mago Taoísta B,0000,0000,0000,,Nosotros somos machos,\No sea, energía yang.
+Dialogue: 0,0:15:10.65,0:15:14.19,Gen_Main,Mago Taoísta B,0000,0000,0000,,La señorita Mei posee energía yin,\Ny de la más alta calidad.
+Dialogue: 0,0:15:14.39,0:15:18.43,Gen_Main,Mago Taoísta B,0000,0000,0000,,Si fusionamos su yin con nuestro yang\Ny los hacemos rotar,
+Dialogue: 0,0:15:18.63,0:15:21.05,Gen_Main,Mago Taoísta B,0000,0000,0000,,llevamos a cabo el mejor\Narte de la intimidad.
+Dialogue: 0,0:15:21.25,0:15:22.56,Gen_Main,Fuchi,0000,0000,0000,,Eso significa que…
+Dialogue: 0,0:15:22.76,0:15:25.35,Gen_Main,Gantetsusai,0000,0000,0000,,No tienes que decirlo. Me dan náuseas.
+Dialogue: 0,0:15:25.64,0:15:28.72,Gen_Main,Mago Taoísta B,0000,0000,0000,,La señorita Mei es\Nde la misma estirpe que los Tensen,
+Dialogue: 0,0:15:28.92,0:15:31.48,Gen_Main,Mago Taoísta B,0000,0000,0000,,pero es una especie inferior\Nque solo posee yin.
+Dialogue: 0,0:15:31.74,0:15:34.19,Gen_Main,Mago Taoísta B,0000,0000,0000,,Por eso la expulsaron del castillo.
+Dialogue: 0,0:15:34.83,0:15:38.11,Gen_Main,Mago Taoísta B,0000,0000,0000,,El señor Rien\Nle dio dos alternativas:
+Dialogue: 0,0:15:38.43,0:15:40.61,Gen_Main,Mago Taoísta B,0000,0000,0000,,morir abandonada como una perra…
+Dialogue: 0,0:15:40.89,0:15:44.32,Gen_Main,Mago Taoísta B,0000,0000,0000,,… o permanecer en Horai\Ncomo compañera de nuestro entrenamiento.
+Dialogue: 0,0:15:44.71,0:15:47.23,Gen_Main,Mago Taoísta B,0000,0000,0000,,El señor Rien le infligió esa herida.
+Dialogue: 0,0:15:47.43,0:15:49.63,Gen_Main,Mago Taoísta B,0000,0000,0000,,Es la marca que la distingue.
+Dialogue: 0,0:15:51.64,0:15:55.85,Gen_Main,Mago Taoísta B,0000,0000,0000,,Sin embargo,\Nla señorita Mei desapareció de Horai.
+Dialogue: 0,0:15:56.05,0:15:59.05,Gen_Main,Mago Taoísta B,0000,0000,0000,,Le ruego que regrese\Ny apoye nuestro entrenamiento.
+Dialogue: 0,0:15:59.42,0:16:01.92,Gen_Main,Gantetsusai,0000,0000,0000,,Ahora entiendo la razón\Npor la que tiene miedo.
+Dialogue: 0,0:16:02.12,0:16:04.30,Gen_Main,Gantetsusai,0000,0000,0000,,¡Ustedes son unos cerdos asquerosos!
+Dialogue: 0,0:16:05.43,0:16:07.55,Gen_Main,Mago Taoísta B,0000,0000,0000,,Unos simples humanos no lo entenderían.
+Dialogue: 0,0:16:07.91,0:16:10.06,Gen_Main,Gantetsusai,0000,0000,0000,,Oye, ninja, también mataré al ciempiés.
+Dialogue: 0,0:16:13.20,0:16:15.58,Gen_Main,Gabimaru,0000,0000,0000,,Me desconozco desde que llegué a la isla.
+Dialogue: 0,0:16:16.44,0:16:20.41,Gen_Main,Gabimaru,0000,0000,0000,,Más bien estoy conociendo\Nfacetas mías que no conocía.
+Dialogue: 0,0:16:20.61,0:16:22.11,Gen_Main,Gabimaru,0000,0000,0000,,Estoy un poco sorprendido.
+Dialogue: 0,0:16:23.18,0:16:25.82,Gen_Main,Gabimaru,0000,0000,0000,,Tal parece que no soy capaz\Nde permitir esas cosas.
+Dialogue: 0,0:16:29.20,0:16:30.82,Gen_Main,Gabimaru,0000,0000,0000,,Una marca, ¿dicen?
+Dialogue: 0,0:16:31.17,0:16:33.71,Gen_Main,Gabimaru,0000,0000,0000,,¡Dejen de hablar de ella\Ncomo si fuera un objeto!
+Dialogue: 0,0:16:33.91,0:16:35.28,Gen_Main,Mago Taoísta B,0000,0000,0000,,Comprendo.
+Dialogue: 0,0:16:35.67,0:16:38.56,Gen_Main,Mago Taoísta B,0000,0000,0000,,Creo que será complicado\Nrefinarlos en Tan.
+Dialogue: 0,0:16:42.03,0:16:44.72,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,¡Arte de Ermitaño:\NResurrección Demoníaca Falsa!
+Dialogue: 0,0:16:44.92,0:16:46.71,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,Los masacraré aquí mismo.
+Dialogue: 0,0:16:46.91,0:16:48.22,Gen_Main,Gabimaru/Gantetsusai,0000,0000,0000,,¡A ver, inténtalo!
+Dialogue: 0,0:16:48.42,0:16:51.11,Gen_Main,Gantetsusai,0000,0000,0000,,¿Arte de Ermitaño?\NMetamorfosis de duendes, ¿no?
+Dialogue: 0,0:16:52.20,0:16:54.43,Gen_Italics,Gabimaru,0000,0000,0000,,El Tensen también se volvió un monstruo.
+Dialogue: 0,0:16:54.63,0:16:56.31,Gen_Italics,Gabimaru,0000,0000,0000,,¿Es el mismo tipo de brujería?
+Dialogue: 0,0:16:57.95,0:17:00.23,Gen_Main,Gabimaru,0000,0000,0000,,Esta vez no me puedo dar\Nel lujo de perder.
+Dialogue: 0,0:17:04.11,0:17:05.11,Gen_Main,Gantetsusai,0000,0000,0000,,¡Ups!
+Dialogue: 0,0:17:05.50,0:17:07.99,Gen_Main,Gantetsusai,0000,0000,0000,,Ahora que se juntaron,\Nes más fácil esquivarlos.
+Dialogue: 0,0:17:09.72,0:17:12.22,Gen_Italics,Gantetsusai,0000,0000,0000,,Me mareo. ¿Respiré el polvo de sus alas?
+Dialogue: 0,0:17:12.42,0:17:14.63,Gen_Italics,Gantetsusai,0000,0000,0000,,Qué difícil es pelear contra ellos.
+Dialogue: 0,0:17:14.83,0:17:16.83,Gen_Main,Gantetsusai/Gabimaru,0000,0000,0000,,-¡Apóyame, secuaz!\N-¡No puedo!
+Dialogue: 0,0:17:18.12,0:17:21.25,Gen_Main,Gabimaru,0000,0000,0000,,Es duro, pero de todas maneras arde.
+Dialogue: 0,0:17:25.98,0:17:28.08,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,Arte de Ermitaño: Cascabeles Aguja.
+Dialogue: 0,0:17:29.58,0:17:31.89,Gen_Main,Gabimaru,0000,0000,0000,,Su poder es menor al del Tensen,
+Dialogue: 0,0:17:32.09,0:17:33.35,Gen_Main,Gabimaru,0000,0000,0000,,pero sigo sin verlo.
+Dialogue: 0,0:17:34.60,0:17:36.98,Gen_Main,Gantetsusai,0000,0000,0000,,¡Esa mariposota es peligrosa, Enanomaru!
+Dialogue: 0,0:17:37.99,0:17:39.69,Gen_Main,Gabimaru,0000,0000,0000,,¡Ninjutsu: Puente de Fuego!
+Dialogue: 0,0:17:44.87,0:17:46.19,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,Detente.
+Dialogue: 0,0:17:46.48,0:17:48.70,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,Podrías darle a la señorita Mei.
+Dialogue: 0,0:17:48.93,0:17:51.37,Gen_Italics,Gabimaru,0000,0000,0000,,Tao, una fuerza invisible.
+Dialogue: 0,0:17:51.97,0:17:56.18,Gen_Italics,Gabimaru,0000,0000,0000,,La siento a grandes rasgos, pero debo\Ndetectarla claramente para combatirlos.
+Dialogue: 0,0:17:56.45,0:17:59.25,Gen_Italics,Gabimaru,0000,0000,0000,,No es hora de estar batallando\Ncontra estos oponentes.
+Dialogue: 0,0:17:59.59,0:18:01.44,Gen_Italics,Gabimaru,0000,0000,0000,,¡Mis verdaderos enemigos son ellos!
+Dialogue: 0,0:18:01.61,0:18:03.77,Gen_Italics,Gabimaru,0000,0000,0000,,Si solo pudiera entender\Nlo que ella dice…
+Dialogue: 0,0:18:03.97,0:18:06.54,Gen_Main,Fuchi,0000,0000,0000,,Dice que usas demasiada fuerza.
+Dialogue: 0,0:18:07.24,0:18:11.87,Gen_Main,Fuchi,0000,0000,0000,,Dice que se necesita un corazón fuerte\Ny débil al mismo tiempo para ver el Tao.
+Dialogue: 0,0:18:12.77,0:18:14.01,Gen_Main,Gantetsusai,0000,0000,0000,,¿Cómo le entendiste?
+Dialogue: 0,0:18:14.25,0:18:19.15,Gen_Main,Fuchi,0000,0000,0000,,Del mismo modo que Genpaku Sugita\Ntradujo {\i1}Tafel Anatomie{\i0} sin saber alemán.
+Dialogue: 0,0:18:19.35,0:18:22.77,Gen_Main,Fuchi,0000,0000,0000,,Interpreté sus palabras\Ny le pedí una demostración.
+Dialogue: 0,0:18:23.25,0:18:25.77,Gen_Main,Fuchi,0000,0000,0000,,Hizo contacto directo con mi Tao.
+Dialogue: 0,0:18:25.97,0:18:28.65,Gen_Main,Fuchi,0000,0000,0000,,Eso me ayudó a sentirlo.
+Dialogue: 0,0:18:29.45,0:18:33.28,Gen_Italics,Gabimaru,0000,0000,0000,,Siento algo, pero solo es eso.\NNo lo puedo ver.
+Dialogue: 0,0:18:38.49,0:18:43.36,Gen_Main,Fuchi,0000,0000,0000,,Para ver el Tao, hay que entrenar\Npara lograr un estado mental específico.
+Dialogue: 0,0:18:43.56,0:18:48.07,Gen_Main,Fuchi,0000,0000,0000,,Dice que en especial tú, Gabimaru,\Ndebes debilitar tu corazón.
+Dialogue: 0,0:18:48.76,0:18:51.11,Gen_Main,Gabimaru,0000,0000,0000,,¿Debilitar?\NEstamos en medio de un combate.
+Dialogue: 0,0:18:51.31,0:18:52.43,Gen_Main,Fuchi,0000,0000,0000,,Aun así.
+Dialogue: 0,0:18:52.97,0:18:55.83,Gen_Main,Fuchi,0000,0000,0000,,El Tao es una manifestación visible\Nde la fuerza vital.
+Dialogue: 0,0:18:56.00,0:18:59.31,Gen_Main,Fuchi,0000,0000,0000,,No se puede percibir sin la combinación\Nde fuerza y debilidad.
+Dialogue: 0,0:18:59.80,0:19:02.43,Gen_Italics,Gabimaru,0000,0000,0000,,¿Debilitar el corazón?
+Dialogue: 0,0:19:02.63,0:19:04.75,Gen_Main,Mei,0000,0000,0000,,Fuerte es la fruta de débil.
+Dialogue: 0,0:19:05.36,0:19:07.74,Gen_Main,Mei,0000,0000,0000,,Débil es el origen de fuerte.
+Dialogue: 0,0:19:09.00,0:19:12.07,Gen_Italics,Sagiri,0000,0000,0000,,Eso no es ninguna debilidad.\NEs el origen de la fortaleza.
+Dialogue: 0,0:19:12.45,0:19:14.32,Gen_Main,Mei,0000,0000,0000,,Fuerte, débil,
+Dialogue: 0,0:19:14.60,0:19:16.83,Gen_Main,Mei,0000,0000,0000,,todo es importante.
+Dialogue: 0,0:19:19.02,0:19:22.67,Gen_Main,Fuchi,0000,0000,0000,,Bueno, no creo que se pueda conseguir\Nde la noche a la mañana.
+Dialogue: 0,0:19:22.91,0:19:26.32,Gen_Main,Gabimaru,0000,0000,0000,,No, es suficiente.\NYa entendí más o menos.
+Dialogue: 0,0:19:27.37,0:19:28.72,Gen_Main,Fuchi,0000,0000,0000,,¿Más o menos?
+Dialogue: 0,0:19:28.92,0:19:31.20,Gen_Main,Fuchi/Mei,0000,0000,0000,,-Un momento.\N-Grande.
+Dialogue: 0,0:19:33.00,0:19:35.93,Gen_Main,Mei,0000,0000,0000,,Gabimaru, Tao grande.
+Dialogue: 0,0:19:37.87,0:19:39.22,Gen_Italics,Gabimaru,0000,0000,0000,,Esa sensación…
+Dialogue: 0,0:19:42.29,0:19:44.59,Gen_Main,Mago Taoísta Demonio B,0000,0000,0000,,Arte de Ermitaño: Cascabeles Aguja.
+Dialogue: 0,0:19:45.55,0:19:48.34,Gen_Main,Fuchi,0000,0000,0000,,Logró evadirlo.\N¿Lo entendió solo con esa explicación?
+Dialogue: 0,0:19:48.54,0:19:51.11,Gen_Main,Gantetsusai,0000,0000,0000,,Es un ninja de la aldea Iwagakure, ¿no?
+Dialogue: 0,0:19:51.58,0:19:54.41,Gen_Main,Gantetsusai,0000,0000,0000,,Dicen que hay unos\Ncon poderes sobrehumanos.
+Dialogue: 0,0:19:54.93,0:19:59.79,Gen_Main,Gantetsusai,0000,0000,0000,,No sería extraño que usaran algo similar\Naunque no conozcan el nombre Tao.
+Dialogue: 0,0:20:00.29,0:20:03.03,Gen_Main,Gantetsusai,0000,0000,0000,,Ese es el trasfondo del nombre\NGabimaru el Vacío.
+Dialogue: 0,0:20:03.23,0:20:06.44,Gen_Main,Gantetsusai,0000,0000,0000,,Es el resultado de desechar el corazón\Nen el entrenamiento.
+Dialogue: 0,0:20:15.39,0:20:19.56,Gen_Italics,Gabimaru,0000,0000,0000,,El movimiento del Tao me dice\Nque va a atacar y hacia qué dirección.
+Dialogue: 0,0:20:19.79,0:20:22.06,Gen_Italics,Gabimaru,0000,0000,0000,,Percibo claramente\Nla presencia atrás de mí.
+Dialogue: 0,0:20:22.94,0:20:26.48,Gen_Italics,Gabimaru,0000,0000,0000,,Pasé por varios entrenamientos\Nen Iwagakure,
+Dialogue: 0,0:20:26.68,0:20:29.49,Gen_Italics,Gabimaru,0000,0000,0000,,pero con ninguno alcancé esta sensación.
+Dialogue: 0,0:20:29.69,0:20:34.74,Gen_Italics,Gabimaru,0000,0000,0000,,No solo las presencias fuertes, sino\Nlas débiles y todo alrededor también.
+Dialogue: 0,0:20:35.66,0:20:37.64,Gen_Italics,Gabimaru,0000,0000,0000,,Al aceptar mi propia debilidad,
+Dialogue: 0,0:20:37.97,0:20:41.63,Gen_Italics,Gabimaru,0000,0000,0000,,puedo sentir por primera vez\Nla debilidad del otro, ¿eh?
+Dialogue: 0,0:20:42.27,0:20:46.89,Gen_Italics,Gabimaru,0000,0000,0000,,Estar entre un corazón duro\Ny uno sensible, o una fusión de ambos.
+Dialogue: 0,0:20:47.43,0:20:50.20,Gen_Italics,Gabimaru,0000,0000,0000,,Es como navegar las olas de la ira.
+Dialogue: 0,0:20:51.95,0:20:53.72,Gen_Italics,Gabimaru,0000,0000,0000,,Ahora puedo entender…
+Dialogue: 0,0:20:53.91,0:20:57.34,Gen_Italics,Gabimaru,0000,0000,0000,,… su fortaleza,\Ncómo avanza a pesar de la duda.
+Dialogue: 0,0:21:00.01,0:21:01.85,Gen_Italics,Gabimaru,0000,0000,0000,,Más fuerte y más débil.
+Dialogue: 0,0:21:02.09,0:21:04.87,Gen_Italics,Gabimaru,0000,0000,0000,,El Tao de cada uno de los bichos\Nque cubren su brazo.
+Dialogue: 0,0:21:05.07,0:21:06.97,Gen_Italics,Gabimaru,0000,0000,0000,,Sé su intención y dirección.
+Dialogue: 0,0:21:07.37,0:21:10.05,Gen_Italics,Gabimaru,0000,0000,0000,,Es como saber la ola\Nque formará una gota de agua…
+Dialogue: 0,0:21:10.25,0:21:13.06,Gen_Italics,Gabimaru,0000,0000,0000,,… al chocar con la superficie.
+Dialogue: 0,0:21:17.20,0:21:19.94,Gen_Main,Mago Taoísta B,0000,0000,0000,,¡¿Ninjutsu?! No…
+Dialogue: 0,0:21:20.75,0:21:22.94,Gen_Italics,Mago Taoísta B,0000,0000,0000,,Un humano no podría realizar este arte…
+Dialogue: 0,0:21:23.11,0:21:25.38,Gen_Italics,Mago Taoísta B,0000,0000,0000,,Es como si… Es como si fuera…
+Dialogue: 0,0:21:25.58,0:21:26.72,Gen_Italics,Mago Taoísta B,0000,0000,0000,,… un Tensen.
+Dialogue: 0,0:21:27.72,0:21:29.36,Gen_Main,Gabimaru,0000,0000,0000,,Tú ya no tienes valor para mí.
+Dialogue: 0,0:21:37.91,0:21:40.97,Gen_Main,Gabimaru,0000,0000,0000,,Por fin estoy en el mismo nivel\Nque los Tensen.
+Dialogue: 0,0:21:41.21,0:21:44.82,Gen_Main,Mago Taoísta B,0000,0000,0000,,¿Fuiste capaz de detectar el Tao\Nen tan poco tiempo?
+Dialogue: 0,0:21:45.02,0:21:46.73,Gen_Main,Mago Taoísta B,0000,0000,0000,,La precisión de la técnica es…
+Dialogue: 0,0:21:46.96,0:21:49.72,Gen_Main,Gabimaru,0000,0000,0000,,Habla. ¿Cuántos compañeros tienes?
+Dialogue: 0,0:21:49.92,0:21:51.50,Gen_Main,Gabimaru,0000,0000,0000,,¿Dónde están los Tensen?
+Dialogue: 0,0:21:52.21,0:21:54.90,Gen_Main,Mago Taoísta B,0000,0000,0000,,Parece que este es mi final.\NTe contestaré.
+Dialogue: 0,0:21:55.10,0:22:00.49,Gen_Main,Mago Taoísta B,0000,0000,0000,,Los Tensen nos ordenaron a los tres\Nmagos taoístas vigilar a los humanos.
+Dialogue: 0,0:22:00.77,0:22:03.74,Gen_Main,Mago Taoísta B,0000,0000,0000,,Los que vinieron a la isla esta vez\Ntienen un aire diferente.
+Dialogue: 0,0:22:04.16,0:22:08.12,Gen_Main,Mago Taoísta B,0000,0000,0000,,Porque, si los dejamos libres,\Nsus colmillos nos morderán la yugular.
+Dialogue: 0,0:22:08.39,0:22:10.40,Gen_Main,Mago Taoísta A,0000,0000,0000,,Tal parece que estaban en lo correcto.
+Dialogue: 0,0:22:11.59,0:22:13.13,Gen_Main,Gantetsusai,0000,0000,0000,,¡Alto ahí!
+Dialogue: 0,0:22:13.33,0:22:15.79,Gen_Main,Gantetsusai,0000,0000,0000,,¡El secuaz no debe eclipsar al jefe!
+Dialogue: 0,0:22:15.99,0:22:18.28,Gen_Main,Gantetsusai/Gabimaru,0000,0000,0000,,-¡Yo lo voy a rematar!\N-No soy tu secuaz.
+Dialogue: 0,0:22:25.85,0:22:28.40,Gen_Main,Gabimaru,0000,0000,0000,,¡Ninjutsu: Torrente Relámpago,\Nversión Ciempiés!
+Dialogue: 0,0:22:40.83,0:22:42.03,Gen_Main,Sagiri,0000,0000,0000,,Aquí es…
+Dialogue: 0,0:22:43.15,0:22:44.54,Gen_Main,Sagiri,0000,0000,0000,,… Horai.
+Dialogue: 0,0:24:22.41,0:24:24.95,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

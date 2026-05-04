@@ -1,0 +1,323 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:27.51,0:00:31.78,Gen_Italics,Tenza,0000,0000,0000,,Desde que tengo uso de razón,\Nsiempre me han dicho lo mismo.
+Dialogue: 0,0:00:33.26,0:00:34.26,Gen_Main,Hombre A,0000,0000,0000,,Basura.
+Dialogue: 0,0:00:34.46,0:00:36.76,Gen_Main,Hombre B/Hombre C,0000,0000,0000,,-Bueno para nada.\N-Parásito.
+Dialogue: 0,0:00:39.48,0:00:41.52,Gen_Italics,Tenza,0000,0000,0000,,Nací y me crie en los arrabales.
+Dialogue: 0,0:00:42.30,0:00:46.23,Gen_Italics,Tenza,0000,0000,0000,,Mis padres no tenían los medios\Nni las ganas de alimentarme.
+Dialogue: 0,0:00:53.98,0:00:56.90,Gen_Italics,Tenza,0000,0000,0000,,Si me daba hambre,\Nrobaba o se la quitaba a otros.
+Dialogue: 0,0:00:57.40,0:00:59.49,Gen_Italics,Tenza,0000,0000,0000,,Hice de todo menos matar.
+Dialogue: 0,0:01:05.03,0:01:06.81,Gen_Italics,Tenza,0000,0000,0000,,Dormía cuando me daba sueño.
+Dialogue: 0,0:01:08.06,0:01:09.97,Gen_Italics,Tenza,0000,0000,0000,,Me levantaba cuando me daba la gana.
+Dialogue: 0,0:01:14.49,0:01:16.09,Gen_Italics,Tenza,0000,0000,0000,,Era libre.
+Dialogue: 0,0:01:18.19,0:01:19.40,Gen_Main,Tenza,0000,0000,0000,,¡Ay!
+Dialogue: 0,0:01:19.80,0:01:21.69,Gen_Main,Tenza,0000,0000,0000,,¡Fíjense por dónde caminan!
+Dialogue: 0,0:01:21.89,0:01:24.15,Gen_Main,Samurái A,0000,0000,0000,,¿Un niño de la calle? Eres escoria.
+Dialogue: 0,0:01:32.50,0:01:34.87,Gen_Main,Samurái A,0000,0000,0000,,Ya déjame, por favor.
+Dialogue: 0,0:01:40.80,0:01:42.48,Gen_Main,Shion,0000,0000,0000,,Déjalo ahí, ¿quieres?
+Dialogue: 0,0:01:43.80,0:01:45.54,Gen_Main,Tenza,0000,0000,0000,,¡¿Y tú qué quieres, cabrón?!
+Dialogue: 0,0:02:07.40,0:02:11.40,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:03:22.49,0:03:27.71,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(800,1000)\an6\bord0\b0\c&HFFFFFF&\pos(601,291.667)}Discípulo y maestro
+Dialogue: 0,0:03:28.30,0:03:33.23,Gen_Main,Nurugai,0000,0000,0000,,No encontraremos la corriente que lleva\Nlejos de la isla caminando al azar.
+Dialogue: 0,0:03:33.56,0:03:35.86,Gen_Main,Nurugai,0000,0000,0000,,El sol y la arena\Nsolo nos roban energía.
+Dialogue: 0,0:03:36.04,0:03:38.01,Gen_Main,Tenza,0000,0000,0000,,¡Deja de decir cosas llenas de razón!
+Dialogue: 0,0:03:38.29,0:03:40.74,Gen_Main,Tenza,0000,0000,0000,,Actúo como me dicta mi pobre cerebro.
+Dialogue: 0,0:03:40.91,0:03:43.39,Gen_Main,Tenza,0000,0000,0000,,La jungla está llena\Nde bichos y monstruos, ¿no?
+Dialogue: 0,0:03:43.56,0:03:45.52,Gen_Main,Nurugai,0000,0000,0000,,Podríamos derrotarlos con ayuda, ¿no?
+Dialogue: 0,0:03:45.78,0:03:48.87,Gen_Main,Tenza,0000,0000,0000,,Ahora que sé que eres mujer,\Nquiero evitar el peligro.
+Dialogue: 0,0:03:50.05,0:03:53.75,Gen_Main,Nurugai,0000,0000,0000,,-Sí, tú tienes que desposarme.\N-Es demasiado pronto en varios sentidos.
+Dialogue: 0,0:03:53.98,0:03:57.30,Gen_Main,Tenza,0000,0000,0000,,Para desposarte o lo que sea,\Nprimero debemos salir con vida.
+Dialogue: 0,0:03:57.50,0:03:59.98,Gen_Main,Tenza,0000,0000,0000,,Sigamos el plan más seguro,\Naunque tome tiempo.
+Dialogue: 0,0:04:00.18,0:04:02.26,Gen_Main,Tenza,0000,0000,0000,,Evitaremos los combates lo más posible.
+Dialogue: 0,0:04:02.58,0:04:04.76,Gen_Main,Nurugai,0000,0000,0000,,La precaución es una virtud en un novio.
+Dialogue: 0,0:04:13.52,0:04:15.14,Gen_Main,Tenza,0000,0000,0000,,¿Quién es?
+Dialogue: 0,0:04:15.43,0:04:17.14,Gen_Main,Tenza,0000,0000,0000,,Acaba de llegar del cielo.
+Dialogue: 0,0:04:17.34,0:04:21.40,Gen_Main,Chujin (mujer),0000,0000,0000,,Había mucho alboroto en el bosque.\NEso es algo muy raro.
+Dialogue: 0,0:04:22.70,0:04:25.25,Gen_Main,Chujin (mujer),0000,0000,0000,,Encontré los cadáveres de muchos Soshin.
+Dialogue: 0,0:04:25.45,0:04:27.63,Gen_Main,Chujin (mujer),0000,0000,0000,,Eso también es muy raro.
+Dialogue: 0,0:04:28.69,0:04:30.66,Gen_Main,Chujin (hombre),0000,0000,0000,,¿Fue obra suya?
+Dialogue: 0,0:04:30.89,0:04:32.46,Gen_Main,Nurugai,0000,0000,0000,,Se convirtió en hombre.
+Dialogue: 0,0:04:32.66,0:04:35.04,Gen_Main,Tenza,0000,0000,0000,,¡Es un monstruo! ¡Huyamos de aquí!
+Dialogue: 0,0:04:35.56,0:04:37.04,Gen_Main,Chujin (hombre),0000,0000,0000,,¿Por qué corren?
+Dialogue: 0,0:04:41.62,0:04:42.80,Gen_Main,Chujin (hombre),0000,0000,0000,,Es inútil.
+Dialogue: 0,0:04:52.31,0:04:54.06,Gen_Main,Chujin (hombre),0000,0000,0000,,No tiene mucha importancia.
+Dialogue: 0,0:04:54.46,0:04:58.07,Gen_Main,Chujin (hombre),0000,0000,0000,,Pero llama la atención\Ncuando hay algo fuera de lo común, ¿no?
+Dialogue: 0,0:04:59.08,0:05:01.31,Gen_Main,Chujin (hombre),0000,0000,0000,,Esas cosas no me agradan.
+Dialogue: 0,0:05:10.68,0:05:13.66,Gen_Main,Chujin (hombre),0000,0000,0000,,Qué bien te mueves\Na pesar de ser humana.
+Dialogue: 0,0:05:26.64,0:05:29.68,Gen_Main,Chujin (hombre),0000,0000,0000,,Qué rápido eres a pesar de ser humano.
+Dialogue: 0,0:05:32.16,0:05:33.36,Gen_Main,Tenza,0000,0000,0000,,¡Nurugai!
+Dialogue: 0,0:05:35.01,0:05:38.69,Gen_Main,Tenza,0000,0000,0000,,¡Corre a mi señal!\NNo trates de vencerlo, solo corre.
+Dialogue: 0,0:05:39.00,0:05:41.06,Gen_Main,Tenza,0000,0000,0000,,Yo no poseo mucha resistencia, pero…
+Dialogue: 0,0:05:43.64,0:05:46.07,Gen_Main,Tenza,0000,0000,0000,,… estoy orgulloso\Nde la velocidad de mi espada.
+Dialogue: 0,0:06:00.71,0:06:01.95,Gen_Main,Tenza,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:06:21.18,0:06:23.08,Gen_Main,Chujin (hombre),0000,0000,0000,,Rasgaste mi ropa.
+Dialogue: 0,0:06:27.45,0:06:29.04,Gen_Main,Chujin (hombre),0000,0000,0000,,No podría ser peor.
+Dialogue: 0,0:06:42.81,0:06:44.88,Gen_Main,Tenza/Shion,0000,0000,0000,,-¡Maestro!\N-¡Corre!
+Dialogue: 0,0:06:45.17,0:06:46.76,Gen_Main,Tenza/Shion,0000,0000,0000,,-¡Tenza!\N-¡Sí, señor!
+Dialogue: 0,0:06:52.96,0:06:54.14,Gen_Main,Nurugai,0000,0000,0000,,¿Quién es ese?
+Dialogue: 0,0:06:54.37,0:06:56.51,Gen_Main,Tenza,0000,0000,0000,,Se llama Shion Yamada Asaemon.
+Dialogue: 0,0:06:56.71,0:06:58.24,Gen_Main,Tenza,0000,0000,0000,,Es mi maestro.
+Dialogue: 0,0:06:58.44,0:07:00.64,Gen_Main,Nurugai,0000,0000,0000,,Tiene los ojos deshechos,
+Dialogue: 0,0:07:00.96,0:07:03.27,Gen_Main,Nurugai,0000,0000,0000,,pero es capaz de correr por el bosque.
+Dialogue: 0,0:07:03.52,0:07:05.83,Gen_Main,Tenza,0000,0000,0000,,Capta su entorno con olores y sonidos.
+Dialogue: 0,0:07:14.53,0:07:15.93,Gen_Main,Shion,0000,0000,0000,,Ya nos alejamos bastante.
+Dialogue: 0,0:07:16.13,0:07:21.04,Gen_Main,Tenza,0000,0000,0000,,Joven… no, digo, Nurugai,\Nestamos a salvo con él de nuestro lado.
+Dialogue: 0,0:07:21.24,0:07:25.04,Gen_Main,Tenza,0000,0000,0000,,El señor Shion es mi salvador y\Nel maestro que me instruyó en la espada.
+Dialogue: 0,0:07:22.08,0:07:25.04,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(188,0)\be3\an8\c&H000000&\3c&HF3F3F3&\fs23\pos(504,126)}Shion Yamada Asaemon\N{\fs16}\NRango 4.º en la escuela\Nde Prueba de un Solo Corte
+Dialogue: 0,0:07:25.24,0:07:27.29,Gen_Main,Tenza,0000,0000,0000,,¡Es un sujeto extraordina…!
+Dialogue: 0,0:07:27.49,0:07:31.67,Gen_Main,Shion,0000,0000,0000,,Te concentraste tanto en la velocidad\Nque los golpes fueron muy descuidados.
+Dialogue: 0,0:07:31.86,0:07:34.69,Gen_Main,Shion,0000,0000,0000,,Ve por la cabeza o las piernas\Ncontra un oponente así.
+Dialogue: 0,0:07:34.86,0:07:37.25,Gen_Main,Shion,0000,0000,0000,,El sonido me dijo\Nque pisaste con poca fuerza.
+Dialogue: 0,0:07:37.41,0:07:39.14,Gen_Main,Shion,0000,0000,0000,,Cada corte debe ser perfecto.
+Dialogue: 0,0:07:39.34,0:07:42.58,Gen_Main,Tenza,0000,0000,0000,,No deja de ser maestro\Naun en una situación como esta.
+Dialogue: 0,0:07:42.78,0:07:44.86,Gen_Main,Tenza,0000,0000,0000,,Eso me ayuda a tranquilizarme.
+Dialogue: 0,0:07:45.06,0:07:47.56,Gen_Main,Shion,0000,0000,0000,,Tú tampoco dejas de ser negligente.
+Dialogue: 0,0:07:47.76,0:07:50.78,Gen_Main,Shion,0000,0000,0000,,Pero es un alivio que estés bien.
+Dialogue: 0,0:07:50.98,0:07:53.28,Gen_Main,Shion,0000,0000,0000,,Creí que ya nunca más te volvería a ver.
+Dialogue: 0,0:07:54.04,0:07:55.97,Gen_Main,Tenza,0000,0000,0000,,¿Espera que me ría de su chiste?
+Dialogue: 0,0:07:56.89,0:08:00.26,Gen_Main,Tenza,0000,0000,0000,,Por cierto,\N¿qué ha estado haciendo usted solo?
+Dialogue: 0,0:08:02.29,0:08:05.71,Gen_Main,Shion,0000,0000,0000,,Cumplí con mi trabajo\Ny estaba preparándome para ir a casa.
+Dialogue: 0,0:08:13.69,0:08:17.95,Gen_Main,Shion,0000,0000,0000,,Pero no encontré una corriente\Nfuera de la isla, y la estaba buscando.
+Dialogue: 0,0:08:18.15,0:08:19.60,Gen_Main,Nurugai,0000,0000,0000,,Al igual que nosotros.
+Dialogue: 0,0:08:19.83,0:08:22.87,Gen_Main,Shion,0000,0000,0000,,Solo hay un punto que parece ser\Nla corriente al exterior.
+Dialogue: 0,0:08:23.24,0:08:24.24,Gen_Main,Shion,0000,0000,0000,,Sin embargo,
+Dialogue: 0,0:08:25.72,0:08:28.85,Gen_Main,Shion,0000,0000,0000,,había un sonido y una presencia\Nque nunca había percibido.
+Dialogue: 0,0:08:29.57,0:08:32.84,Gen_Main,Shion,0000,0000,0000,,Consideré que un ciego como yo\Nno podría hacer más.
+Dialogue: 0,0:08:33.04,0:08:35.59,Gen_Main,Shion,0000,0000,0000,,Y empecé a buscar a alguien\Nque fuera de regreso.
+Dialogue: 0,0:08:36.36,0:08:40.18,Gen_Main,Tenza,0000,0000,0000,,Llévenos a ese lugar, por favor.\NLos tres podremos lograrlo.
+Dialogue: 0,0:08:40.38,0:08:42.26,Gen_Main,Shion,0000,0000,0000,,Sí, tal vez tengas razón.
+Dialogue: 0,0:08:42.85,0:08:44.34,Gen_Main,Shion,0000,0000,0000,,Pero antes de eso…
+Dialogue: 0,0:08:48.82,0:08:51.81,Gen_Main,Tenza,0000,0000,0000,,¿Qué pretende, maestro?
+Dialogue: 0,0:08:52.01,0:08:55.89,Gen_Main,Shion,0000,0000,0000,,Ahora es tu turno de dar explicaciones.\N¿Por qué defiendes a tu criminal?
+Dialogue: 0,0:08:56.09,0:09:01.64,Gen_Main,Shion,0000,0000,0000,,La orden era ejecutarlos de inmediato\Nsi había insubordinación o imprevistos.
+Dialogue: 0,0:09:02.53,0:09:04.16,Gen_Main,Shion,0000,0000,0000,,Eso fue lo que yo hice.
+Dialogue: 0,0:09:06.82,0:09:09.86,Gen_Main,Shion,0000,0000,0000,,La criminal trató de seducirme.
+Dialogue: 0,0:09:12.07,0:09:15.85,Gen_Main,Shion,0000,0000,0000,,Y yo la ejecuté…\Nde una manera que no sufriera.
+Dialogue: 0,0:09:17.70,0:09:22.29,Gen_Main,Shion,0000,0000,0000,,Me parece que estás del lado\Nde tu criminal. Dame tus razones.
+Dialogue: 0,0:09:22.62,0:09:25.64,Gen_Main,Shion,0000,0000,0000,,En dado caso,\Nyo llevaré a cabo la ejecución.
+Dialogue: 0,0:09:25.84,0:09:28.62,Gen_Main,Tenza,0000,0000,0000,,No ha cometido ningún delito.
+Dialogue: 0,0:09:29.00,0:09:32.38,Gen_Main,Shion,0000,0000,0000,,Memoricé toda la información\Nconcerniente a los criminales.
+Dialogue: 0,0:09:32.85,0:09:35.38,Gen_Main,Shion,0000,0000,0000,,Soy consciente\Nde las circunstancias de cada uno.
+Dialogue: 0,0:09:35.58,0:09:38.64,Gen_Main,Shion,0000,0000,0000,,Sin embargo,\Ncada época decide lo que es un crimen.
+Dialogue: 0,0:09:38.84,0:09:44.33,Gen_Main,Shion,0000,0000,0000,,Tenza, los Yamada Asaemon\Nsomos la espada que la era deja caer.
+Dialogue: 0,0:09:44.53,0:09:47.94,Gen_Main,Shion,0000,0000,0000,,Si la espada escoge a quien cortar,\Nse desviará de toda moral.
+Dialogue: 0,0:09:48.29,0:09:52.95,Gen_Main,Shion,0000,0000,0000,,Y, lo más importante, si tú rompes las\Nreglas, podrían acusar a todo el clan.
+Dialogue: 0,0:09:53.51,0:09:56.52,Gen_Main,Shion,0000,0000,0000,,Los actos de una persona\Nponen en peligro al clan.
+Dialogue: 0,0:09:57.44,0:10:01.53,Gen_Main,Tenza,0000,0000,0000,,Pero usted me enseñó\Na blandir la espada, ¿recuerda, maestro?
+Dialogue: 0,0:10:01.82,0:10:04.28,Gen_Main,Tenza,0000,0000,0000,,A mí, que era un rapaz y un paria.
+Dialogue: 0,0:10:04.48,0:10:08.79,Gen_Main,Tenza,0000,0000,0000,,Usted me recogió pese a que no tenía\Nla obligación de hacerlo, ¿cierto?
+Dialogue: 0,0:10:09.35,0:10:13.29,Gen_Main,Shion,0000,0000,0000,,Eso fue porque percibí en ti\Ntalento y potencial.
+Dialogue: 0,0:10:13.54,0:10:15.48,Gen_Main,Tenza,0000,0000,0000,,¡En ese caso, ahora siento lo mismo!
+Dialogue: 0,0:10:15.65,0:10:19.42,Gen_Main,Tenza,0000,0000,0000,,¡Percibo el potencial de un mundo\Ndonde pueda vivir en libertad!
+Dialogue: 0,0:10:20.36,0:10:22.72,Gen_Main,Shion,0000,0000,0000,,Veo que ya eres capaz de dar argumentos.
+Dialogue: 0,0:10:22.92,0:10:24.68,Gen_Main,Tenza,0000,0000,0000,,Gracias a su influencia, maestro.
+Dialogue: 0,0:10:25.62,0:10:29.33,Gen_Main,Tenza,0000,0000,0000,,Además, sé muy bien\Nque usted es muy gentil.
+Dialogue: 0,0:10:29.53,0:10:32.39,Gen_Main,Tenza,0000,0000,0000,,Usted me pondrá atención\Nsi le hablo con seriedad.
+Dialogue: 0,0:10:41.65,0:10:43.95,Gen_Italics,Tenza,0000,0000,0000,,¿Ayudar a la gente? No sé de qué hablas.
+Dialogue: 0,0:10:46.41,0:10:48.51,Gen_Main,Shion,0000,0000,0000,,Bueno, si tanto insistes…
+Dialogue: 0,0:10:48.71,0:10:50.08,Gen_Main,Tenza,0000,0000,0000,,¡Estaba seguro!
+Dialogue: 0,0:10:50.25,0:10:52.43,Gen_Main,Tenza,0000,0000,0000,,¿Ves que al final es una buena persona?
+Dialogue: 0,0:10:52.63,0:10:53.96,Gen_Main,Nurugai,0000,0000,0000,,Sí, claro…
+Dialogue: 0,0:10:54.21,0:10:56.43,Gen_Main,Shion,0000,0000,0000,,Pero solo la estoy posponiendo.
+Dialogue: 0,0:10:56.74,0:10:59.25,Gen_Main,Shion,0000,0000,0000,,Si defender a la señorita\Npusiera en peligro…
+Dialogue: 0,0:10:59.45,0:11:03.34,Gen_Main,Shion,0000,0000,0000,,… al clan Yamada o a ti, en ese momento…
+Dialogue: 0,0:11:04.72,0:11:06.82,Gen_Main,Shion/Tenza,0000,0000,0000,,-¿Ahora qué?\N-¿Señorita?
+Dialogue: 0,0:11:07.02,0:11:08.70,Gen_Main,Shion/Tenza,0000,0000,0000,,Es increíble que lo notara.
+Dialogue: 0,0:11:08.90,0:11:11.64,Gen_Main,Shion,0000,0000,0000,,Es fácil darse cuenta. Tengo buen ojo.
+Dialogue: 0,0:11:11.84,0:11:14.35,Gen_Main,Tenza,0000,0000,0000,,Le gustan mucho esos chistes, ¿verdad?
+Dialogue: 0,0:11:15.80,0:11:17.86,Gen_Main,Nurugai,0000,0000,0000,,Cuento con usted, maestro.
+Dialogue: 0,0:11:18.77,0:11:20.61,Gen_Main,Shion,0000,0000,0000,,Y yo contigo, Nurugai.
+Dialogue: 0,0:11:20.94,0:11:23.62,Gen_Main,Shion,0000,0000,0000,,Pero no es necesario\Nque me llames maestro.
+Dialogue: 0,0:11:23.82,0:11:26.48,Gen_Main,Shion,0000,0000,0000,,Porque no te he enseñado nada aún.
+Dialogue: 0,0:11:28.12,0:11:31.55,Gen_Main,Tenza,0000,0000,0000,,Bueno, vayamos de una vez\Na la corriente que mencionó, maestro.
+Dialogue: 0,0:11:31.75,0:11:33.12,Gen_Main,Shion,0000,0000,0000,,No levantes tanto la voz.
+Dialogue: 0,0:11:33.48,0:11:35.38,Gen_Main,Shion,0000,0000,0000,,Vayamos con precaución y sin prisas.
+Dialogue: 0,0:11:35.90,0:11:38.56,Gen_Main,Shion,0000,0000,0000,,Lo peligroso ahora\Nes el monstruo de hace un rato.
+Dialogue: 0,0:11:38.76,0:11:40.67,Gen_Main,Shion,0000,0000,0000,,No me pareció humano para nada.
+Dialogue: 0,0:11:40.96,0:11:43.43,Gen_Main,Shion,0000,0000,0000,,Pensemos cómo lidiar con él\Nsi lo encontramos.
+Dialogue: 0,0:11:43.70,0:11:47.60,Gen_Main,Tenza,0000,0000,0000,,Si el fin es solo escapar, podríamos\Nrepetir el mismo procedimiento.
+Dialogue: 0,0:11:48.68,0:11:51.18,Gen_Main,Chujin (mujer),0000,0000,0000,,Veo que me subestiman.
+Dialogue: 0,0:11:57.48,0:11:59.94,Gen_Main,Tenza/Nurugai,0000,0000,0000,,-Se lo agradezco, maestro.\N-Gracias.
+Dialogue: 0,0:12:01.38,0:12:03.45,Gen_Main,Tenza/Chujin (mujer),0000,0000,0000,,-¡Maestro!\N-¿Eh?
+Dialogue: 0,0:12:03.64,0:12:07.45,Gen_Main,Chujin (mujer),0000,0000,0000,,Creí que le había volado la cabeza.\NEres bueno, ¿eh?
+Dialogue: 0,0:12:15.25,0:12:16.80,Gen_Main,Chujin (mujer),0000,0000,0000,,Ya me acostumbré a eso.
+Dialogue: 0,0:12:18.84,0:12:23.30,Gen_Main,Chujin (mujer),0000,0000,0000,,La verdad es que no sirven\Npara refinar más Tan si no están vivos,
+Dialogue: 0,0:12:24.02,0:12:25.80,Gen_Main,Chujin (mujer),0000,0000,0000,,pero ya me hartaron. Los mataré.
+Dialogue: 0,0:12:26.00,0:12:29.70,Gen_Italics,Tenza,0000,0000,0000,,¿Qué hago? Debemos huir, pero…
+Dialogue: 0,0:12:31.03,0:12:33.31,Gen_Italics,Tenza,0000,0000,0000,,No, aquí no hay más opción que pelear.
+Dialogue: 0,0:12:38.70,0:12:41.08,Gen_Main,Tenza,0000,0000,0000,,Técnica de Prueba de un Solo Corte…
+Dialogue: 0,0:12:41.28,0:12:42.56,Gen_Main,Shion,0000,0000,0000,,¡Espera, Ten…!
+Dialogue: 0,0:12:44.73,0:12:46.45,Gen_Main,Tenza,0000,0000,0000,,¡Lluvia Torrencial!
+Dialogue: 0,0:12:52.70,0:12:54.39,Gen_Main,Chujin (mujer),0000,0000,0000,,Te dije que ya me acostumbré.
+Dialogue: 0,0:13:04.86,0:13:06.49,Gen_Main,Nurugai,0000,0000,0000,,¡Tenza!
+Dialogue: 0,0:13:06.93,0:13:10.93,Cart_A_Tre,CARTEL,0000,0000,0000,,{\1c&H00000&\bord0\pos(420,180)\fs30\be.4}Hell's Paradise
+Dialogue: 0,0:13:15.52,0:13:16.95,Gen_Main,Tenza,0000,0000,0000,,Dime, maestro…
+Dialogue: 0,0:13:17.34,0:13:19.73,Gen_Main,Tenza,0000,0000,0000,,¿Por qué acogiste a una basura como yo?
+Dialogue: 0,0:13:20.07,0:13:21.68,Gen_Main,Shion,0000,0000,0000,,Muestra respeto al hablar.
+Dialogue: 0,0:13:22.10,0:13:24.88,Gen_Main,Tenza,0000,0000,0000,,¿Por qué me acogió a mí? ¿Eh?
+Dialogue: 0,0:13:25.40,0:13:28.07,Gen_Main,Shion,0000,0000,0000,,Nuestro trabajo consiste\Nen arrebatar vidas.
+Dialogue: 0,0:13:28.40,0:13:31.32,Gen_Main,Shion,0000,0000,0000,,Quiero emplear el resto del tiempo\Nayudando a la gente.
+Dialogue: 0,0:13:31.69,0:13:35.21,Gen_Main,Shion,0000,0000,0000,,Es verdad que tienes\Nun lado violento y rebelde.
+Dialogue: 0,0:13:36.52,0:13:38.83,Gen_Main,Shion,0000,0000,0000,,Percibo potencial\Nen el fondo de tu ser.
+Dialogue: 0,0:13:39.11,0:13:41.13,Gen_Main,Tenza,0000,0000,0000,,Pero qué buena persona eres, en serio.
+Dialogue: 0,0:13:41.33,0:13:43.70,Gen_Main,Tenza,0000,0000,0000,,¿Ayudar a la gente? No sé de qué hablas.
+Dialogue: 0,0:13:49.97,0:13:51.47,Gen_Main,Tenza,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:13:51.78,0:13:53.54,Gen_Main,Shion,0000,0000,0000,,Eres descuidado con la espada.
+Dialogue: 0,0:13:53.74,0:13:57.48,Gen_Main,Shion,0000,0000,0000,,Te dejas llevar por las emociones\N como la ira y…
+Dialogue: 0,0:13:57.82,0:13:59.05,Gen_Main,Shion,0000,0000,0000,,… la duda.
+Dialogue: 0,0:13:59.62,0:14:02.44,Gen_Main,Tenza,0000,0000,0000,,No es que quiera ser un samurái.
+Dialogue: 0,0:14:02.84,0:14:04.48,Gen_Main,Tenza,0000,0000,0000,,Esto no tiene sentido.
+Dialogue: 0,0:14:04.94,0:14:08.08,Gen_Main,Shion,0000,0000,0000,,No te pido que tengas\Nel honor del guerrero desde el inicio,
+Dialogue: 0,0:14:08.24,0:14:12.11,Gen_Main,Shion,0000,0000,0000,,pero si un día hay alguien\Na quien desees proteger,
+Dialogue: 0,0:14:12.69,0:14:15.87,Gen_Main,Shion,0000,0000,0000,,te aseguro que la habilidad\Ncon la espada te servirá.
+Dialogue: 0,0:14:16.53,0:14:18.25,Gen_Main,Tenza,0000,0000,0000,,¿Alguien a quien desee proteger?
+Dialogue: 0,0:14:19.16,0:14:21.63,Gen_Main,Shion,0000,0000,0000,,Mira ese cerezo de allá.
+Dialogue: 0,0:14:21.90,0:14:24.55,Gen_Main,Shion,0000,0000,0000,,Las ramas son delgadas\Ny solo da capullos,
+Dialogue: 0,0:14:25.06,0:14:28.63,Gen_Main,Shion,0000,0000,0000,,pero los capullos contienen\Ntodo tipo de potencial.
+Dialogue: 0,0:14:29.11,0:14:30.88,Gen_Main,Shion,0000,0000,0000,,Tú eres igual a ellos.
+Dialogue: 0,0:14:31.20,0:14:35.30,Gen_Main,Shion,0000,0000,0000,,Te prometo que llegará un día\Nen el que florecerá tu potencial.
+Dialogue: 0,0:14:35.89,0:14:37.27,Gen_Main,Hombre A/Hombre B,0000,0000,0000,,-Basura.\N-Bueno para nada.
+Dialogue: 0,0:14:37.44,0:14:39.20,Gen_Main,Hombre C/Samurái A,0000,0000,0000,,-Parásito.\N-Eres escoria.
+Dialogue: 0,0:14:40.52,0:14:42.29,Gen_Main,Shion,0000,0000,0000,,En fin, continuemos.
+Dialogue: 0,0:14:42.72,0:14:45.49,Gen_Main,Tenza,0000,0000,0000,,No cuento con ningún potencial.
+Dialogue: 0,0:14:45.69,0:14:46.69,Gen_Main,Tenza,0000,0000,0000,,¡No tengo!
+Dialogue: 0,0:14:47.94,0:14:50.19,Gen_Main,Tenza,0000,0000,0000,,No tengo ni estatus social ni dinero.
+Dialogue: 0,0:14:50.52,0:14:54.20,Gen_Main,Tenza,0000,0000,0000,,¡No tengo ningún potencial\Ndesde que nací!
+Dialogue: 0,0:14:56.23,0:14:58.54,Gen_Main,Tenza/Shion,0000,0000,0000,,-Renuncio.\N-¿Qué dices?
+Dialogue: 0,0:14:58.77,0:15:02.29,Gen_Main,Tenza,0000,0000,0000,,¡Renuncio! Estoy harto\Nde esta vida disciplinada de mierda.
+Dialogue: 0,0:15:02.58,0:15:04.58,Gen_Main,Tenza,0000,0000,0000,,¡Quiero vivir como se me dé la gana!
+Dialogue: 0,0:15:05.33,0:15:07.89,Gen_Main,Shion/Tenza,0000,0000,0000,,-¿Lo dices en serio?\N-Pues sí.
+Dialogue: 0,0:15:08.09,0:15:10.50,Gen_Main,Shion,0000,0000,0000,,En ese caso, te tengo una condición.
+Dialogue: 0,0:15:10.70,0:15:12.05,Gen_Main,Tenza,0000,0000,0000,,¿Una condición?
+Dialogue: 0,0:15:12.37,0:15:14.05,Gen_Main,Shion,0000,0000,0000,,Con un golpe es suficiente.
+Dialogue: 0,0:15:14.30,0:15:18.76,Gen_Main,Shion,0000,0000,0000,,Puede ser en cualquier momento y lugar.\NIntenta darme un golpe.
+Dialogue: 0,0:15:19.17,0:15:22.60,Gen_Main,Shion,0000,0000,0000,,Si lo consigues, aceptaré tu renuncia.
+Dialogue: 0,0:15:26.81,0:15:28.90,Gen_Main,Tenza,0000,0000,0000,,Ya me tienes harto.
+Dialogue: 0,0:15:30.94,0:15:34.66,Gen_Main,Eizen,0000,0000,0000,,¿Adónde crees que vas?\NEl dojo está del otro lado.
+Dialogue: 0,0:15:35.14,0:15:37.28,Gen_Main,Eizen,0000,0000,0000,,Shion me lo contó todo.
+Dialogue: 0,0:15:37.59,0:15:39.66,Gen_Main,Eizen,0000,0000,0000,,¿Ya le diste el golpe que te dijo?
+Dialogue: 0,0:15:40.16,0:15:42.00,Gen_Main,Tenza,0000,0000,0000,,¿Piensas llevarme de vuelta?
+Dialogue: 0,0:15:42.20,0:15:43.88,Gen_Main,Eizen,0000,0000,0000,,Haz lo que se te venga en gana.
+Dialogue: 0,0:15:44.87,0:15:47.84,Gen_Main,Eizen,0000,0000,0000,,Pero acompáñame a un último paseo.
+Dialogue: 0,0:15:48.04,0:15:50.90,Gen_Main,Eizen,0000,0000,0000,,Cuando uno se levanta temprano,\Nno hay mucho que hacer.
+Dialogue: 0,0:15:59.56,0:16:02.56,Cart_A_Tre,CARTEL,0000,0000,0000,,{\c&H232E3F&\3c&H515766&\be3}Que Buda se apiade de su alma
+Dialogue: 0,0:16:01.13,0:16:05.76,Gen_Main,Eizen,0000,0000,0000,,El que yace aquí es el que fuera\Nun aprendiz de Shion.
+Dialogue: 0,0:16:06.54,0:16:08.06,Gen_Main,Eizen,0000,0000,0000,,Se llamaba Tesshin.
+Dialogue: 0,0:16:08.36,0:16:09.73,Gen_Main,Tenza,0000,0000,0000,,¿Aprendiz?
+Dialogue: 0,0:16:09.93,0:16:12.69,Gen_Main,Eizen,0000,0000,0000,,Se parecía a ti en lo mal portado.
+Dialogue: 0,0:16:13.05,0:16:15.84,Gen_Main,Eizen,0000,0000,0000,,Tenía talento,\Npero le faltaba motivación.
+Dialogue: 0,0:16:16.28,0:16:20.44,Gen_Main,Tenza,0000,0000,0000,,En ese caso, el maestro\Nlo ponía a trabajar duro como a mí, ¿no?
+Dialogue: 0,0:16:22.31,0:16:26.18,Gen_Main,Eizen,0000,0000,0000,,En esa época, Shion se enfocaba\Nen mejorar sus propias habilidades.
+Dialogue: 0,0:16:26.38,0:16:29.25,Gen_Main,Eizen,0000,0000,0000,,No le apasionaba tanto\Nla enseñanza como ahora.
+Dialogue: 0,0:16:29.70,0:16:34.51,Gen_Main,Eizen,0000,0000,0000,,Al final, Tesshin dejó el dojo\Ndiciendo que viviría cómo le placiera.
+Dialogue: 0,0:16:34.98,0:16:37.68,Gen_Main,Eizen,0000,0000,0000,,Por un tiempo, nada cambió.
+Dialogue: 0,0:16:38.57,0:16:42.77,Gen_Main,Eizen,0000,0000,0000,,Y un día Shion salió a ejecutar\Na un criminal, como es rutina.
+Dialogue: 0,0:16:43.13,0:16:45.23,Gen_Main,Eizen,0000,0000,0000,,Llegó al lado del condenado.
+Dialogue: 0,0:16:48.56,0:16:53.23,Gen_Main,Eizen,0000,0000,0000,,Pero no podía bajar la espada\Nque había levantado sobre su cabeza.
+Dialogue: 0,0:16:53.58,0:16:54.76,Gen_Main,Tenza,0000,0000,0000,,No me digas que…
+Dialogue: 0,0:16:54.96,0:16:57.49,Gen_Main,Eizen,0000,0000,0000,,Así es. Shion se percató de que…
+Dialogue: 0,0:16:57.81,0:17:00.11,Gen_Main,Eizen,0000,0000,0000,,… el criminal delante de él era Tesshin.
+Dialogue: 0,0:17:01.06,0:17:05.33,Gen_Main,Eizen,0000,0000,0000,,Luego de que Tesshin abandonó el dojo,\Ntuvo dificultades para conseguir comida.
+Dialogue: 0,0:17:05.53,0:17:07.17,Gen_Main,Eizen,0000,0000,0000,,Y se ensució las manos.
+Dialogue: 0,0:17:07.50,0:17:10.27,Gen_Main,Tenza,0000,0000,0000,,¿Qué hizo el maestro?
+Dialogue: 0,0:17:10.47,0:17:13.76,Gen_Main,Eizen,0000,0000,0000,,Lo decapitó, desde luego,\Ncomo Yamada Asaemon que es.
+Dialogue: 0,0:17:14.40,0:17:17.96,Gen_Main,Eizen,0000,0000,0000,,Shion oyó claramente\Nlas últimas palabras de Tesshin.
+Dialogue: 0,0:17:18.69,0:17:20.76,Gen_Main,Eizen,0000,0000,0000,,Lo que dijo fue:
+Dialogue: 0,0:17:22.44,0:17:25.02,Gen_Main,Eizen,0000,0000,0000,,"Lo siento mucho, maestro".
+Dialogue: 0,0:17:25.96,0:17:31.95,Gen_Main,Eizen,0000,0000,0000,,Desde entonces, Shion se entregó\Na la enseñanza y a ayudar a la gente.
+Dialogue: 0,0:17:32.48,0:17:36.65,Gen_Main,Eizen,0000,0000,0000,,Si vives como un pandillero,\Npuede que tengas el mismo destino.
+Dialogue: 0,0:17:37.17,0:17:40.92,Gen_Main,Eizen,0000,0000,0000,,Supongo que le dolería que arruinaras\Ntu vida de la misma manera.
+Dialogue: 0,0:17:41.12,0:17:42.44,Gen_Italics,Shion,0000,0000,0000,,Tú eres igual a ellos.
+Dialogue: 0,0:17:42.64,0:17:46.91,Gen_Italics,Shion,0000,0000,0000,,Te prometo que llegará un día\Nen el que florecerá tu potencial.
+Dialogue: 0,0:17:47.12,0:17:51.83,Gen_Main,Eizen,0000,0000,0000,,¿Qué harás?\N¿Huirás de aquí sin conseguir un golpe?
+Dialogue: 0,0:18:01.51,0:18:02.93,Gen_Main,Shion,0000,0000,0000,,Eres tú, Tenza.
+Dialogue: 0,0:18:03.48,0:18:06.27,Gen_Main,Tenza,0000,0000,0000,,Maestro, ¿me concedes\Nun duelo de entrenamiento?
+Dialogue: 0,0:18:15.81,0:18:18.52,Gen_Main,Shion,0000,0000,0000,,Vaya, no pareces ser el mismo de antes.
+Dialogue: 0,0:18:19.36,0:18:24.37,Gen_Italics,Tenza,0000,0000,0000,,Nunca me había metido\Na realizar algo con seriedad, pero…
+Dialogue: 0,0:18:31.02,0:18:32.56,Gen_Main,Shion,0000,0000,0000,,Protege mejor los flancos.
+Dialogue: 0,0:18:34.07,0:18:35.55,Gen_Main,Tenza,0000,0000,0000,,¡Otra vez!
+Dialogue: 0,0:18:37.04,0:18:38.51,Gen_Main,Tenza,0000,0000,0000,,¡Otra vez!
+Dialogue: 0,0:18:39.72,0:18:41.23,Gen_Main,Tenza,0000,0000,0000,,¡Otra vez!
+Dialogue: 0,0:18:42.55,0:18:44.33,Gen_Main,Tenza,0000,0000,0000,,Todavía puedo.
+Dialogue: 0,0:18:44.68,0:18:47.18,Gen_Italics,Tenza,0000,0000,0000,,Quiero conseguir darle un golpe.
+Dialogue: 0,0:18:51.51,0:18:55.67,Gen_Italics,Tenza,0000,0000,0000,,Es el primero\Nque cree en mi potencial.
+Dialogue: 0,0:18:56.68,0:19:01.95,Gen_Italics,Tenza,0000,0000,0000,,Maestro, ¿puedo creer\Nen mi propio potencial?
+Dialogue: 0,0:19:02.15,0:19:05.20,Gen_Italics,Tenza,0000,0000,0000,,Y, como una vez lo dijiste, ¿yo también…
+Dialogue: 0,0:19:06.42,0:19:09.11,Gen_Italics,Tenza,0000,0000,0000,,… tendré algún día\Nuna persona a quien proteger?
+Dialogue: 0,0:19:22.10,0:19:24.51,Gen_Italics,Tenza,0000,0000,0000,,Las puntas de los dedos\Nse me están enfriando,
+Dialogue: 0,0:19:25.76,0:19:29.77,Gen_Italics,Tenza,0000,0000,0000,,pero del pecho hacia arriba\Nsiento mucho calor.
+Dialogue: 0,0:19:31.03,0:19:32.48,Gen_Italics,Tenza,0000,0000,0000,,Ya lo entiendo.
+Dialogue: 0,0:19:33.20,0:19:35.23,Gen_Italics,Tenza,0000,0000,0000,,Voy a morir, ¿eh?
+Dialogue: 0,0:19:36.28,0:19:38.23,Gen_Italics,Tenza,0000,0000,0000,,Todos los que estamos aquí…
+Dialogue: 0,0:19:39.06,0:19:41.74,Gen_Italics,Tenza,0000,0000,0000,,… moriremos a manos de este monstruo.
+Dialogue: 0,0:19:50.73,0:19:52.84,Gen_Main,Tenza,0000,0000,0000,,¡No lo permitiré nunca!
+Dialogue: 0,0:19:56.76,0:19:59.84,Gen_Italics,Tenza,0000,0000,0000,,¡Aunque yo muera,\Nconseguiré que ellos huyan!
+Dialogue: 0,0:20:00.04,0:20:01.71,Gen_Italics,Tenza,0000,0000,0000,,No importa cómo lo logre.
+Dialogue: 0,0:20:02.28,0:20:05.29,Gen_Italics,Tenza,0000,0000,0000,,¡Les conseguiré tiempo\Ncon todas mis fuerzas!
+Dialogue: 0,0:20:14.25,0:20:15.90,Gen_Italics,Tenza,0000,0000,0000,,No te acerques.
+Dialogue: 0,0:20:16.23,0:20:17.52,Gen_Italics,Tenza,0000,0000,0000,,Sal de aquí.
+Dialogue: 0,0:20:17.91,0:20:19.31,Gen_Italics,Tenza,0000,0000,0000,,Sal de aquí, por favor.
+Dialogue: 0,0:20:29.35,0:20:30.91,Gen_Italics,Tenza,0000,0000,0000,,Maestro, Nurugai,
+Dialogue: 0,0:20:31.45,0:20:32.81,Gen_Italics,Tenza,0000,0000,0000,,huyan de aquí, por favor.
+Dialogue: 0,0:20:33.60,0:20:35.34,Gen_Italics,Tenza,0000,0000,0000,,¡No lo haga, maestro!
+Dialogue: 0,0:20:35.54,0:20:36.92,Gen_Italics,Tenza,0000,0000,0000,,No podrá vencerlo.
+Dialogue: 0,0:20:37.19,0:20:38.42,Gen_Italics,Tenza,0000,0000,0000,,Lo sabe muy bien, ¿no?
+Dialogue: 0,0:20:39.09,0:20:41.52,Gen_Italics,Tenza,0000,0000,0000,,Me destrozó la garganta.\NNo puedo hablar.
+Dialogue: 0,0:20:42.33,0:20:44.53,Gen_Italics,Tenza,0000,0000,0000,,Maestro, váyanse de aquí, por favor.
+Dialogue: 0,0:20:44.73,0:20:47.93,Gen_Italics,Tenza,0000,0000,0000,,¡Solo quiero decirle eso,\Nuna sola palabra!
+Dialogue: 0,0:21:21.46,0:21:25.33,Gen_Italics,Tenza,0000,0000,0000,,Maestro, lo siento mucho.\NA pesar de haberme cuidado, moriré aquí.
+Dialogue: 0,0:21:26.71,0:21:29.18,Gen_Italics,Tenza,0000,0000,0000,,Nurugai, tienes que vivir, por favor.
+Dialogue: 0,0:21:29.38,0:21:31.35,Gen_Italics,Tenza,0000,0000,0000,,Tú cuentas con mucho potencial.
+Dialogue: 0,0:21:33.85,0:21:37.79,Gen_Italics,Tenza,0000,0000,0000,,¿Potencial? ¿Qué potencial tendría yo?
+Dialogue: 0,0:21:50.57,0:21:52.42,Gen_Main,Chujin (mujer),0000,0000,0000,,Qué hombre tan duro.
+Dialogue: 0,0:22:03.67,0:22:06.51,Gen_Main,Nurugai,0000,0000,0000,,¿Por qué lo abandona? ¡Regresaré por él!
+Dialogue: 0,0:22:06.74,0:22:11.01,Gen_Main,Shion,0000,0000,0000,,No. Hay que honrar su último deseo.
+Dialogue: 0,0:22:11.22,0:22:13.36,Gen_Main,Nurugai,0000,0000,0000,,¡¿Eso qué importa?!
+Dialogue: 0,0:22:13.56,0:22:16.27,Gen_Main,Nurugai,0000,0000,0000,,¡Era su maestro, ¿no?!\N¡Era su discípulo, ¿no?!
+Dialogue: 0,0:22:16.52,0:22:17.52,Gen_Main,Shion,0000,0000,0000,,¡Era más que eso!
+Dialogue: 0,0:22:18.71,0:22:22.02,Gen_Main,Shion,0000,0000,0000,,Era un compañero\Ncon el que compartía los mismos ideales.
+Dialogue: 0,0:22:22.29,0:22:27.55,Gen_Main,Shion,0000,0000,0000,,No puedo permitir\Nque su sacrificio sea en vano.
+Dialogue: 0,0:22:28.61,0:22:30.56,Gen_Main,Shion,0000,0000,0000,,Ahora no puedo derrotar al monstruo.
+Dialogue: 0,0:22:30.72,0:22:34.53,Gen_Main,Shion,0000,0000,0000,,Hubiéramos muerto todos.\NLa única opción era la retirada.
+Dialogue: 0,0:22:34.79,0:22:38.80,Gen_Main,Shion,0000,0000,0000,,Pero juro que me vengaré.
+Dialogue: 0,0:23:06.63,0:23:10.32,Gen_Main,Tenza,0000,0000,0000,,¡Viva! ¡Logré darle un golpe!
+Dialogue: 0,0:23:10.52,0:23:13.98,Gen_Main,Shion,0000,0000,0000,,Fue espléndido.\NAhora puedes hacer lo que quieras.
+Dialogue: 0,0:23:17.59,0:23:20.80,Gen_Main,Tenza,0000,0000,0000,,Maestro, sígueme instruyendo…
+Dialogue: 0,0:23:21.90,0:23:27.31,Gen_Main,Tenza,0000,0000,0000,,Digo, sígame instruyendo en el arte\Nde la espada, por favor, maestro.
+Dialogue: 0,0:23:28.16,0:23:29.34,Gen_Main,Shion,0000,0000,0000,,Por supuesto que sí.
+Dialogue: 0,0:24:22.30,0:24:24.94,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

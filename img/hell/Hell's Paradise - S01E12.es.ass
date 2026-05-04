@@ -1,0 +1,371 @@
+[Script Info]
+Title: Español (América Latina)
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,0010,0010,0018,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Gen_Nota,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,-1,0,0,100,100,0,0,1,2,1,8,0010,0010,0018,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,0020,0020,0020,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+Style: Edit_Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H0063110A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0010,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,0020,0020,0020,1
+Style: Cart_EpiTitle,Trebuchet MS,22,&H00FFFFFF,&H000000FF,&H32494949,&H00494949,-1,0,0,0,100,100,0,0,1,0,2,3,0020,0020,0020,1
+Style: Cart_Serieslogo,Consolas,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,10,0,1,0,0,5,0005,0005,0000,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,0020,0020,0020,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:26.38,0:00:28.19,Gen_Main,Mu Dan,0000,0000,0000,,Hola. Me asombran mucho.
+Dialogue: 0,0:00:28.39,0:00:31.61,Gen_Main,Mu Dan,0000,0000,0000,,Ustedes son los primeros humanos\Nque han llegado hasta aquí.
+Dialogue: 0,0:00:31.81,0:00:33.16,Gen_Main,Mu Dan,0000,0000,0000,,Los primeros en mil años.
+Dialogue: 0,0:00:34.43,0:00:35.68,Gen_Main,Sagiri,0000,0000,0000,,¿Es una persona?
+Dialogue: 0,0:00:35.88,0:00:38.30,Gen_Main,Yuzuriha,0000,0000,0000,,No, para nada. Estamos en peligro.
+Dialogue: 0,0:00:41.02,0:00:44.22,Gen_Main,Mu Dan,0000,0000,0000,,Espera. No tienen que huir.\NTranquilos.
+Dialogue: 0,0:00:44.42,0:00:46.58,Gen_Main,Mu Dan,0000,0000,0000,,No tengo intención de matarlos.
+Dialogue: 0,0:00:46.78,0:00:47.88,Gen_Main,Mu Dan,0000,0000,0000,,Todavía no.
+Dialogue: 0,0:00:48.37,0:00:49.72,Gen_Italics,Yuzuriha,0000,0000,0000,,Cuánta fuerza.
+Dialogue: 0,0:00:49.92,0:00:51.10,Gen_Main,Senta,0000,0000,0000,,¡¿Cuándo lo hizo?!
+Dialogue: 0,0:00:51.27,0:00:53.33,Gen_Italics,Sagiri,0000,0000,0000,,Comprendo por qué intentó huir.
+Dialogue: 0,0:00:53.49,0:00:57.23,Gen_Italics,Sagiri,0000,0000,0000,,Se ve que es mucho más poderoso\Nque los monstruos que hemos encontrado.
+Dialogue: 0,0:01:02.32,0:01:03.98,Gen_Main,Sagiri,0000,0000,0000,,Suéltala.
+Dialogue: 0,0:01:04.18,0:01:05.72,Gen_Main,Yuzuriha,0000,0000,0000,,Sagirin…
+Dialogue: 0,0:01:05.92,0:01:10.00,Gen_Main,Mu Dan,0000,0000,0000,,No me veas tan feo.\NSolo quiero hablar con ustedes.
+Dialogue: 0,0:01:10.20,0:01:11.75,Gen_Main,Sagiri,0000,0000,0000,,¿Quién eres tú?
+Dialogue: 0,0:01:11.95,0:01:14.10,Gen_Main,Hoko,0000,0000,0000,,Es uno de los señores Tensen.
+Dialogue: 0,0:01:14.75,0:01:19.47,Gen_Main,Hoko,0000,0000,0000,,Él es el espíritu de la peonía,\Nel que Ocupa el Trono Fuku Jukun.
+Dialogue: 0,0:01:35.34,0:01:39.34,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(1500,100)\t(\fscx95\fscy95)\bord5\be30\i1\fs40\move(320,46,320,50.667,15,2810)}{\1c&H5E5E5E&\i0}H{\1c&H87888B&}e{\1c&HA7A9AE&}l{\1c&H929398&}l{\1c&H78797D&}'{\1c&H5E5E62&}s{\1c&H39393C&} {\1c&H3C3C3E&}P{\1c&H505153&}a{\1c&H626365&}r{\1c&H7D7E80&}a{\1c&H9B9C9E&}d{\1c&H8C8C8E&}i{\1c&H707172&}s{\1c&H4B4B4B&}e
+Dialogue: 0,0:02:51.51,0:02:53.89,Gen_Main,Sagiri,0000,0000,0000,,¿Él es uno de…?
+Dialogue: 0,0:02:53.90,0:02:58.98,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(500,500)\an6\bord0\b0\c&HFFFFFF&\pos(594,291.667)}Sombrilla y tinta
+Dialogue: 0,0:02:54.12,0:02:56.78,Gen_Main,Senta,0000,0000,0000,,¡Hoko, ¿está vivo?!
+Dialogue: 0,0:02:57.48,0:02:59.51,Gen_Main,Mu Dan,0000,0000,0000,,Ellos no mueren con tan poco.
+Dialogue: 0,0:02:59.71,0:03:02.96,Gen_Main,Mu Dan,0000,0000,0000,,Su transformación en árbol\Nse acelera y pronto será su fin.
+Dialogue: 0,0:03:03.16,0:03:04.40,Gen_Main,Sagiri,0000,0000,0000,,No puede ser.
+Dialogue: 0,0:03:04.60,0:03:07.08,Gen_Main,Hoko,0000,0000,0000,,Me arrepiento de cosas,\Npero este es mi destino.
+Dialogue: 0,0:03:07.28,0:03:11.92,Gen_Main,Hoko,0000,0000,0000,,Rezaré para que, por lo menos,\Nmi espíritu sea llamado a Horai.
+Dialogue: 0,0:03:12.12,0:03:16.27,Gen_Main,Mu Dan,0000,0000,0000,,Para que lo sepas, eso del espíritu\Ny que soy Fuku quién-sabe-quién…
+Dialogue: 0,0:03:16.47,0:03:18.66,Gen_Main,Mu Dan,0000,0000,0000,,Todo eso es mentira, ¿eh?
+Dialogue: 0,0:03:19.66,0:03:21.25,Gen_Main,Mu Dan,0000,0000,0000,,Era una forma de instruirlos.
+Dialogue: 0,0:03:21.42,0:03:24.42,Gen_Main,Mu Dan,0000,0000,0000,,El maestro lo inventó\Npara mantener el orden en la isla.
+Dialogue: 0,0:03:24.81,0:03:27.46,Gen_Main,Mu Dan,0000,0000,0000,,La isla es un laboratorio\Ndonde se estudia la vida.
+Dialogue: 0,0:03:27.66,0:03:32.17,Gen_Main,Mu Dan,0000,0000,0000,,Tú y los demás solo son prototipos\Nque nacieron de un experimento.
+Dialogue: 0,0:03:32.68,0:03:34.30,Gen_Main,Hoko,0000,0000,0000,,No puede ser…
+Dialogue: 0,0:03:34.61,0:03:37.39,Gen_Main,Mu Dan,0000,0000,0000,,Además, los humanos que llegan a la isla
+Dialogue: 0,0:03:37.59,0:03:39.81,Gen_Main,Mu Dan,0000,0000,0000,,son nuevo material de experimentación.
+Dialogue: 0,0:03:40.83,0:03:44.19,Gen_Main,Mu Dan,0000,0000,0000,,Estos son muertos vivientes.\NLos creé a partir de humanos.
+Dialogue: 0,0:03:44.48,0:03:46.94,Gen_Main,Sagiri,0000,0000,0000,,¿Los creó de humanos?
+Dialogue: 0,0:03:47.14,0:03:50.19,Gen_Main,Mu Dan,0000,0000,0000,,Así es. Originalmente eran humanos\Nque llegaron a la isla.
+Dialogue: 0,0:03:50.63,0:03:54.74,Gen_Main,Mu Dan,0000,0000,0000,,Me gusta modificarlos,\Ny termino jugando así con ellos.
+Dialogue: 0,0:03:54.94,0:03:56.57,Gen_Main,Mu Dan,0000,0000,0000,,Qué gracioso, ¿no?
+Dialogue: 0,0:03:57.87,0:04:01.04,Gen_Main,Mu Dan,0000,0000,0000,,Pero este no es el método correcto\Nde utilizar a los humanos.
+Dialogue: 0,0:04:01.28,0:04:03.61,Gen_Main,Mu Dan,0000,0000,0000,,Hacemos Tan a los humanos\Nde mejor calidad.
+Dialogue: 0,0:04:03.78,0:04:06.54,Gen_Main,Senta,0000,0000,0000,,¿Tan? Te refieres al elixir, ¿cierto?
+Dialogue: 0,0:04:06.78,0:04:08.02,Gen_Main,Mu Dan,0000,0000,0000,,¿Elixir?
+Dialogue: 0,0:04:08.22,0:04:12.42,Gen_Main,Mu Dan,0000,0000,0000,,Todos los humanos\Nque vienen aquí dicen lo mismo, ¿eh?
+Dialogue: 0,0:04:12.62,0:04:16.20,Gen_Main,Mu Dan,0000,0000,0000,,El elixir de la inmortalidad\Ny la eterna juventud, el agua sagrada,
+Dialogue: 0,0:04:16.40,0:04:18.55,Gen_Main,Mu Dan,0000,0000,0000,,el fruto del bien y el mal…
+Dialogue: 0,0:04:18.78,0:04:22.41,Gen_Main,Mu Dan,0000,0000,0000,,Lo siento muchísimo,\Npero aquí no contamos con algo parecido.
+Dialogue: 0,0:04:24.01,0:04:26.05,Gen_Main,Mu Dan,0000,0000,0000,,El Tan nos es indispensable,
+Dialogue: 0,0:04:26.25,0:04:28.94,Gen_Main,Mu Dan,0000,0000,0000,,pero, si un humano lo bebe,\Nse convierte en planta.
+Dialogue: 0,0:04:29.11,0:04:32.86,Gen_Main,Mu Dan,0000,0000,0000,,Los hombres árbol y flor están cerca\Nde la inmortalidad, pero envejecen.
+Dialogue: 0,0:04:33.27,0:04:37.16,Gen_Main,Mu Dan,0000,0000,0000,,Mis compañeros están investigando eso,\Npero falta para que se complete.
+Dialogue: 0,0:04:37.36,0:04:41.12,Gen_Main,Mu Dan,0000,0000,0000,,Como sea, lo que buscan no está\Nen ningún lugar de la isla.
+Dialogue: 0,0:04:41.79,0:04:44.62,Gen_Italics,Sagiri,0000,0000,0000,,¿El elixir no existe?
+Dialogue: 0,0:04:44.96,0:04:47.42,Gen_Italics,Sagiri,0000,0000,0000,,Entonces, ¿qué será de él?
+Dialogue: 0,0:04:47.88,0:04:51.13,Gen_Italics,Sagiri,0000,0000,0000,,Sin el elixir,\Nno podrá obtener el perdón.
+Dialogue: 0,0:04:51.79,0:04:54.53,Gen_Main,Mu Dan,0000,0000,0000,,Lo que significa\Nque su viaje ha llegado a su fin.
+Dialogue: 0,0:04:54.73,0:04:57.13,Gen_Main,Mu Dan,0000,0000,0000,,Vengan conmigo sin resistirse.
+Dialogue: 0,0:04:57.39,0:04:59.97,Gen_Main,Mu Dan,0000,0000,0000,,Quiero experimentar con ustedes.
+Dialogue: 0,0:05:01.67,0:05:03.38,Gen_Main,Yuzuriha,0000,0000,0000,,Ninjutsu: Sustitución de Cuerpo.
+Dialogue: 0,0:05:11.37,0:05:14.61,Gen_Main,Yuzuriha,0000,0000,0000,,Cualquier monstruo\Nmorirá después de esto, ¿no?
+Dialogue: 0,0:05:14.89,0:05:16.22,Gen_Main,Yuzuriha,0000,0000,0000,,Quedan sus seguidores.
+Dialogue: 0,0:05:16.42,0:05:18.82,Gen_Main,Yuzuriha,0000,0000,0000,,Pero se ven muy distraídos.
+Dialogue: 0,0:05:19.02,0:05:20.49,Gen_Main,Yuzuriha,0000,0000,0000,,Vayámonos de aquí ahora.
+Dialogue: 0,0:05:21.34,0:05:22.63,Gen_Main,Yuzuriha,0000,0000,0000,,¡Sagirin!
+Dialogue: 0,0:05:23.08,0:05:24.24,Gen_Main,Sagiri,0000,0000,0000,,Ah, sí.
+Dialogue: 0,0:05:27.55,0:05:31.71,Gen_Main,Yuzuriha,0000,0000,0000,,Gracias por haberme rescatado\Na pesar de que intenté escapar.
+Dialogue: 0,0:05:31.91,0:05:34.35,Gen_Main,Yuzuriha,0000,0000,0000,,¿Te sorprendió tanto lo del elixir?
+Dialogue: 0,0:05:34.55,0:05:36.24,Gen_Main,Yuzuriha,0000,0000,0000,,Te entiendo.
+Dialogue: 0,0:05:36.79,0:05:40.25,Gen_Main,Yuzuriha,0000,0000,0000,,Pero la máxima prioridad\Nes mantenernos con vida.
+Dialogue: 0,0:05:40.45,0:05:43.15,Gen_Main,Yuzuriha,0000,0000,0000,,Mientras sigamos vivas,\Nlo demás puede solucionarse.
+Dialogue: 0,0:05:43.33,0:05:45.39,Gen_Main,Yuzuriha,0000,0000,0000,,Primero hay que pensar cómo sobrevivir.
+Dialogue: 0,0:05:46.06,0:05:48.17,Gen_Main,Yuzuriha,0000,0000,0000,,Reacciona. Ahora vamos a correr.
+Dialogue: 0,0:05:49.02,0:05:50.27,Gen_Main,Sagiri,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:51.90,0:05:54.15,Gen_Main,Yuzuriha/Senta,0000,0000,0000,,-Tú también, Senta.\N-¡Sí!
+Dialogue: 0,0:05:54.53,0:05:57.16,Gen_Main,Mu Dan,0000,0000,0000,,Qué mujer tan extraordinaria.\NTiene potencial.
+Dialogue: 0,0:05:59.05,0:06:00.91,Gen_Main,Mu Dan,0000,0000,0000,,Pero te equivocaste en una cosa.
+Dialogue: 0,0:06:01.36,0:06:03.63,Gen_Main,Mu Dan,0000,0000,0000,,Los muertos vivientes\Nno son mis seguidores.
+Dialogue: 0,0:06:08.61,0:06:12.17,Gen_Main,Mu Dan,0000,0000,0000,,Son mis juguetes.\N¿Ves? Fue muy gracioso, ¿no?
+Dialogue: 0,0:06:13.73,0:06:16.42,Gen_Main,Mu Dan,0000,0000,0000,,¿Lo evadiste?\NQué buena vista tienes.
+Dialogue: 0,0:06:16.72,0:06:19.65,Gen_Main,Mu Dan,0000,0000,0000,,O más bien,\Neres capaz de ver el Tao, ¿no?
+Dialogue: 0,0:06:19.85,0:06:22.58,Gen_Main,Yuzuriha,0000,0000,0000,,Es la primera vez\Nque escucho la palabra Tao.
+Dialogue: 0,0:06:22.78,0:06:25.56,Gen_Main,Yuzuriha,0000,0000,0000,,En mi lugar de origen, lo llamaban "ki".
+Dialogue: 0,0:06:25.80,0:06:28.23,Gen_Main,Mu Dan,0000,0000,0000,,Pero aún no eres capaz\Nde usarlo por completo.
+Dialogue: 0,0:06:28.43,0:06:30.39,Gen_Main,Mu Dan,0000,0000,0000,,Ya que están aquí, yo les puedo ense…
+Dialogue: 0,0:06:30.56,0:06:31.66,Gen_Main,Senta,0000,0000,0000,,Espere un momento.
+Dialogue: 0,0:06:32.30,0:06:36.57,Gen_Main,Senta,0000,0000,0000,,Tiene que pedirme permiso si se trata\Nde algo que tenga que ver con su muerte.
+Dialogue: 0,0:06:36.86,0:06:39.68,Gen_Main,Senta,0000,0000,0000,,Es mi trabajo.
+Dialogue: 0,0:06:38.32,0:06:40.32,Cart_A_Tre,CARTEL,0000,0000,0000,,{\fad(188,0)\be3\an9\c&H000000&\3c&HF3F3F3&\fs27\pos(612,134)}Senta Yamada Asaemon\N{\fs19}Rango 5.º en la escuela\Nde Prueba de un Solo Corte
+Dialogue: 0,0:06:40.59,0:06:43.29,Gen_Main,Mu Dan,0000,0000,0000,,Ustedes dos también\Nparecen tener potencial.
+Dialogue: 0,0:06:43.49,0:06:45.70,Gen_Main,Mu Dan,0000,0000,0000,,Pero no es mucho,\Nasí que no me interesan.
+Dialogue: 0,0:06:45.95,0:06:49.71,Gen_Main,Mu Dan,0000,0000,0000,,Tú, la ninja,\Nte enseñaré cómo utilizar el Tao.
+Dialogue: 0,0:06:49.91,0:06:52.65,Gen_Main,Mu Dan,0000,0000,0000,,Podrías tener talento\Npara los artes de la intimidad.
+Dialogue: 0,0:06:52.82,0:06:55.09,Gen_Italics,Mu Dan,0000,0000,0000,,Así te convertirías\Nen Tan de buena calidad.
+Dialogue: 0,0:06:55.41,0:06:57.76,Gen_Main,Senta,0000,0000,0000,,Parece que eres su favorita, ¿verdad?
+Dialogue: 0,0:06:57.96,0:06:59.47,Gen_Main,Senta/Yuzuriha,0000,0000,0000,,-¿Verdad?\N-¡Cállate!
+Dialogue: 0,0:06:59.67,0:07:01.93,Gen_Italics,Sagiri,0000,0000,0000,,Qué raro que don Senta desenvainara.
+Dialogue: 0,0:07:02.38,0:07:05.10,Gen_Italics,Sagiri,0000,0000,0000,,Y, además, por una criminal.
+Dialogue: 0,0:07:05.36,0:07:08.66,Gen_Italics,Sagiri,0000,0000,0000,,Me pregunto si siente\Nalgo especial por ella.
+Dialogue: 0,0:07:10.37,0:07:12.44,Gen_Main,Mu Dan,0000,0000,0000,,Solo tengo interés en la shinobi.
+Dialogue: 0,0:07:12.73,0:07:14.44,Gen_Main,Mu Dan,0000,0000,0000,,Hazte a un lado, ¿quieres?
+Dialogue: 0,0:07:18.77,0:07:21.81,Gen_Main,Yuzuriha/Mu Dan,0000,0000,0000,,-¡Sagirin!\N-Olvídate de la fracasada.
+Dialogue: 0,0:07:22.01,0:07:25.63,Gen_Main,Mu Dan,0000,0000,0000,,Eso se llama Golpe a Distancia,\Nuna técnica que lanza Tao.
+Dialogue: 0,0:07:25.83,0:07:29.45,Gen_Main,Mu Dan,0000,0000,0000,,Los humanos ordinarios no pueden usarla.\NSerá mejor que la olvides.
+Dialogue: 0,0:07:29.72,0:07:32.21,Gen_Main,Mu Dan,0000,0000,0000,,Quiero que tú aprendas desde lo básico.
+Dialogue: 0,0:07:32.47,0:07:34.21,Gen_Main,Mu Dan,0000,0000,0000,,¿Eh?
+Dialogue: 0,0:07:37.75,0:07:39.59,Gen_Main,Mu Dan,0000,0000,0000,,No me estorbes, gordo.
+Dialogue: 0,0:07:39.89,0:07:42.60,Gen_Main,Senta,0000,0000,0000,,Creo haberte dicho\Nque hablaras conmigo, ¿no?
+Dialogue: 0,0:07:42.80,0:07:45.22,Gen_Main,Senta/Yuzuriha,0000,0000,0000,,-Además…\N-Tiene razón. Estorbas.
+Dialogue: 0,0:07:48.17,0:07:50.56,Gen_Main,Yuzuriha,0000,0000,0000,,Si de verdad no muere\Ncon nada que le hagamos,
+Dialogue: 0,0:07:50.76,0:07:52.73,Gen_Main,Yuzuriha,0000,0000,0000,,probaré en él todo lo que tengo.
+Dialogue: 0,0:07:54.08,0:07:56.02,Gen_Italics,Yuzuriha,0000,0000,0000,,Ninjutsu: Hilo Pegajoso.
+Dialogue: 0,0:07:57.52,0:08:01.83,Gen_Italics,Yuzuriha,0000,0000,0000,,Mi ninjutsu metaboliza las sustancias\Nque me tomo y las secreta.
+Dialogue: 0,0:08:02.00,0:08:04.43,Gen_Italics,Yuzuriha,0000,0000,0000,,Este es veneno de serpiente\Nque disuelve carne.
+Dialogue: 0,0:08:05.28,0:08:06.80,Gen_Italics,Yuzuriha,0000,0000,0000,,Ninjutsu: Prisión de Néctar.
+Dialogue: 0,0:08:07.15,0:08:10.16,Gen_Italics,Yuzuriha,0000,0000,0000,,Y luego, Ninjutsu: Corte en Línea.
+Dialogue: 0,0:08:16.37,0:08:19.55,Gen_Main,Mu Dan,0000,0000,0000,,Eso que haces es\Nuna aplicación del Tao, ¿verdad?
+Dialogue: 0,0:08:19.77,0:08:23.05,Gen_Main,Mu Dan,0000,0000,0000,,Si puedes metabolizar toxinas,\Nno eres una mujer ordinaria.
+Dialogue: 0,0:08:23.48,0:08:26.29,Gen_Main,Mu Dan,0000,0000,0000,,Pero no lo logras emplear al máximo.
+Dialogue: 0,0:08:26.49,0:08:29.06,Gen_Main,Mu Dan,0000,0000,0000,,Te aconsejo que aprendas\Nmétodos mejores.
+Dialogue: 0,0:08:29.61,0:08:32.31,Gen_Main,Senta,0000,0000,0000,,¡Podemos vencer\Nsi no lo dejamos formar los ojos!
+Dialogue: 0,0:08:33.43,0:08:34.43,Gen_Main,Mu Dan,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:08:34.77,0:08:38.02,Gen_Main,Mu Dan,0000,0000,0000,,Me parece muy bien.\NO podemos continuar así.
+Dialogue: 0,0:08:47.11,0:08:48.74,Gen_Main,Yuzuriha,0000,0000,0000,,¡Senta, te digo que estorbas!
+Dialogue: 0,0:08:48.94,0:08:50.49,Gen_Main,Senta,0000,0000,0000,,Tú eres la que estorba.
+Dialogue: 0,0:08:57.03,0:08:58.80,Gen_Main,Mu Dan,0000,0000,0000,,El Tao maximiza los sentidos.
+Dialogue: 0,0:08:59.12,0:09:03.26,Gen_Main,Mu Dan,0000,0000,0000,,Me cubro el cuerpo con él como una manta\Npara sentir desde cualquier dirección.
+Dialogue: 0,0:09:04.41,0:09:07.51,Gen_Main,Mu Dan,0000,0000,0000,,Si no puedes usarlo al máximo,\Nno dejas de ser humana.
+Dialogue: 0,0:09:07.76,0:09:10.51,Gen_Main,Mu Dan,0000,0000,0000,,No podrás compararte con nosotros.
+Dialogue: 0,0:09:10.76,0:09:12.07,Gen_Main,Mu Dan,0000,0000,0000,,Muy bien.
+Dialogue: 0,0:09:12.51,0:09:15.14,Gen_Main,Mu Dan,0000,0000,0000,,Bienvenidos a Horai.
+Dialogue: 0,0:09:15.39,0:09:18.15,Gen_Italics,Senta,0000,0000,0000,,¿Cómo podremos vencer a este monstruo?
+Dialogue: 0,0:09:21.27,0:09:25.70,Gen_Main,Sagiri,0000,0000,0000,,Señor Hoko, ¿no hay una manera\Nde vencer a los Tensen?
+Dialogue: 0,0:09:25.90,0:09:27.46,Gen_Main,Hoko,0000,0000,0000,,Él es un dios.
+Dialogue: 0,0:09:27.66,0:09:30.78,Gen_Main,Hoko,0000,0000,0000,,Si esto es un castigo divino,\Nlo recibiré sin chistar.
+Dialogue: 0,0:09:31.26,0:09:33.23,Gen_Main,Sagiri,0000,0000,0000,,Entiendo lo que debe sentir ahora.
+Dialogue: 0,0:09:33.98,0:09:38.50,Gen_Main,Sagiri,0000,0000,0000,,¡Pero, si no hacemos algo, nos matará\Na todos y ya no podrá ver a Mei!
+Dialogue: 0,0:09:40.80,0:09:43.23,Gen_Main,Sagiri,0000,0000,0000,,Culaquier consejo nos servirá.
+Dialogue: 0,0:09:44.33,0:09:48.07,Gen_Main,Mu Dan,0000,0000,0000,,Esa técnica de Sustitución\Nes una aplicación de Tao, ¿no?
+Dialogue: 0,0:09:48.27,0:09:50.43,Gen_Main,Mu Dan,0000,0000,0000,,Además,\Nes del mismo elemento que yo uso.
+Dialogue: 0,0:09:50.76,0:09:55.29,Gen_Main,Mu Dan,0000,0000,0000,,Interesante. Hasta un entrenamiento\Ncomo el tuyo se acerca a nuestras artes.
+Dialogue: 0,0:09:56.03,0:09:57.82,Gen_Main,Mu Dan,0000,0000,0000,,Ya es hora de matar al gordo.
+Dialogue: 0,0:09:58.02,0:10:00.58,Gen_Main,Mu Dan,0000,0000,0000,,¡Por poco!\NTe puedes recuperar rápido, ¿verdad?
+Dialogue: 0,0:10:00.78,0:10:02.70,Gen_Main,Mu Dan,0000,0000,0000,,Pero tú no eres capaz de hacer nada.
+Dialogue: 0,0:10:03.03,0:10:05.81,Gen_Main,Mu Dan,0000,0000,0000,,Tu cantidad de Tao\Nes igual al de cualquiera.
+Dialogue: 0,0:10:08.05,0:10:10.40,Gen_Main,Senta,0000,0000,0000,,¡Él puede leer\Nlos movimientos y la voluntad!
+Dialogue: 0,0:10:10.71,0:10:13.91,Gen_Main,Sagiri,0000,0000,0000,,Ya lo sé, pero ¿qué tal\Nuna trayectoria sin voluntad?
+Dialogue: 0,0:10:15.74,0:10:18.38,Gen_Main,Hoko,0000,0000,0000,,¡Rebánale el tanden ahora!
+Dialogue: 0,0:10:20.00,0:10:23.89,Gen_Main,Hoko,0000,0000,0000,,La tradición oral dice\Nque el Tao nace del tanden.
+Dialogue: 0,0:10:24.09,0:10:27.13,Gen_Main,Hoko,0000,0000,0000,,Recorre todo el cuerpo\Ny regresa de nuevo al tanden.
+Dialogue: 0,0:10:27.63,0:10:29.99,Gen_Main,Hoko,0000,0000,0000,,Si cortamos ese flujo, será posible…
+Dialogue: 0,0:10:30.81,0:10:33.39,Gen_Main,Mu Dan,0000,0000,0000,,Te faltó poco,\Npero tú nunca lo lograrías.
+Dialogue: 0,0:10:33.87,0:10:36.41,Gen_Main,Mu Dan,0000,0000,0000,,En primer lugar,\Ncuentas con muy poco Tao.
+Dialogue: 0,0:10:36.61,0:10:38.91,Gen_Main,Mu Dan,0000,0000,0000,,Podré regenerar\Ncualquier parte que cortes.
+Dialogue: 0,0:10:39.48,0:10:41.86,Gen_Main,Sagiri,0000,0000,0000,,De hecho, incluyendo a la ninja,
+Dialogue: 0,0:10:42.06,0:10:46.40,Gen_Main,Sagiri,0000,0000,0000,,ninguno de ustedes posee suficiente Tao\Ncomo para poder asesinarme.
+Dialogue: 0,0:10:49.91,0:10:53.95,Gen_Main,Sagiri,0000,0000,0000,,Lo comprobé al acercármele.\NResultó ser igual.
+Dialogue: 0,0:11:04.69,0:11:06.34,Gen_Italics,Sagiri,0000,0000,0000,,Puede predecir los movimientos.
+Dialogue: 0,0:11:07.72,0:11:09.32,Gen_Italics,Mu Dan,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:11:09.52,0:11:12.04,Gen_Italics,Mu Dan,0000,0000,0000,,La fuerza de voluntad\Ndecide el tamaño del Tao.
+Dialogue: 0,0:11:12.21,0:11:14.74,Gen_Italics,Mu Dan,0000,0000,0000,,¿Es del tipo que lo puede\Naumentar temporalmente?
+Dialogue: 0,0:11:15.13,0:11:17.73,Gen_Italics,Mu Dan,0000,0000,0000,,Pero eso no es lo importante.
+Dialogue: 0,0:11:17.93,0:11:20.35,Gen_Italics,Mu Dan,0000,0000,0000,,No puedo creer que esta mujer…
+Dialogue: 0,0:11:20.55,0:11:24.00,Gen_Main,Senta/Yuzuriha,0000,0000,0000,,-¡Yuzuriha!\N-Ya lo sé. Esa herida…
+Dialogue: 0,0:11:24.89,0:11:26.72,Gen_Main,Yuzuriha,0000,0000,0000,,… no se está regenerando.
+Dialogue: 0,0:11:27.99,0:11:32.00,Cart_A_Tre,CARTEL,0000,0000,0000,,{\1c&H00000&\bord0\pos(420,180)\fs30\be.4}Hell's Paradise
+Dialogue: 0,0:11:32.87,0:11:36.99,Gen_Main,Sagiri,0000,0000,0000,,Cuando me le acerqué,\Ndetecté un aura muy extraña.
+Dialogue: 0,0:11:37.25,0:11:41.12,Gen_Main,Sagiri,0000,0000,0000,,Si lo que usa es Tao, sé cómo cortarlo.
+Dialogue: 0,0:11:41.42,0:11:44.37,Gen_Main,Sagiri,0000,0000,0000,,A veces percibo\Nun aura similar de Gabumaru.
+Dialogue: 0,0:11:44.71,0:11:48.87,Gen_Main,Sagiri,0000,0000,0000,,O de Rokurota, el Gigante de Bizen.
+Dialogue: 0,0:11:49.31,0:11:51.95,Gen_Main,Senta,0000,0000,0000,,¿Ellos dos eran capaces de usar Tao?
+Dialogue: 0,0:11:52.15,0:11:53.87,Gen_Main,Sagiri,0000,0000,0000,,Es lo que supongo.
+Dialogue: 0,0:11:54.07,0:11:58.27,Gen_Italics,Yuzuriha,0000,0000,0000,,Para infligirle una herida al enemigo,\N se necesita cierta cantidad de Tao.
+Dialogue: 0,0:11:58.47,0:12:02.39,Gen_Italics,Yuzuriha,0000,0000,0000,,Sagirin es capaz de aumentar\Ntemporalmente su Tao con respiración.
+Dialogue: 0,0:12:02.97,0:12:07.14,Gen_Italics,Yuzuriha,0000,0000,0000,,Pero no solo es eso. ¿Por qué razón\Nel Tensen no puede regenerarse?
+Dialogue: 0,0:12:09.13,0:12:11.53,Gen_Main,Sagiri,0000,0000,0000,,Déjenmelo a mí, por favor.
+Dialogue: 0,0:12:11.73,0:12:14.19,Gen_Main,Mu Dan,0000,0000,0000,,Qué tipo de Tao tan raro.
+Dialogue: 0,0:12:14.59,0:12:17.84,Gen_Main,Mu Dan,0000,0000,0000,,Además, resulta venenoso para mí.
+Dialogue: 0,0:12:18.69,0:12:20.30,Gen_Main,Mu Dan,0000,0000,0000,,¡Magnífico!
+Dialogue: 0,0:12:20.79,0:12:22.81,Gen_Main,Mu Dan,0000,0000,0000,,Me pregunto qué tipo de obra obtendré.
+Dialogue: 0,0:12:22.98,0:12:26.45,Gen_Main,Mu Dan,0000,0000,0000,,¿O, por el contrario,\Nserá capaz de matarme?
+Dialogue: 0,0:12:27.90,0:12:29.64,Gen_Main,Senta,0000,0000,0000,,Espera, Sagiri.
+Dialogue: 0,0:12:30.03,0:12:33.32,Gen_Main,Senta,0000,0000,0000,,El enemigo es poderoso.\NCoordinémonos entre los tres.
+Dialogue: 0,0:12:36.82,0:12:40.57,Gen_Italics,Mu Dan,0000,0000,0000,,Arte Yin de la Tierra,\NVisitante Nocturno.
+Dialogue: 0,0:12:41.24,0:12:42.64,Gen_Main,Sagiri,0000,0000,0000,,¿Desapareció?
+Dialogue: 0,0:12:45.27,0:12:46.64,Gen_Main,Yuzuriha,0000,0000,0000,,No desapareció.
+Dialogue: 0,0:12:46.84,0:12:49.86,Gen_Main,Yuzuriha,0000,0000,0000,,Redujo el Tao\Npara que fuera difícil detectarlo.
+Dialogue: 0,0:12:50.06,0:12:52.28,Gen_Main,Yuzuriha,0000,0000,0000,,Es el mismo principio\Nque mi Sustitución.
+Dialogue: 0,0:12:52.52,0:12:53.89,Gen_Main,Yuzuriha,0000,0000,0000,,¡Córtalo ahora!
+Dialogue: 0,0:12:54.09,0:12:57.32,Gen_Italics,Sagiri,0000,0000,0000,,Una fusión de la calma\Ny el movimiento en el corazón.
+Dialogue: 0,0:12:58.11,0:13:00.24,Gen_Main,Mu Dan,0000,0000,0000,,¡Muertos vivientes, maten a la shinobi!
+Dialogue: 0,0:13:06.23,0:13:08.87,Gen_Main,Senta/Yuzuriha,0000,0000,0000,,-Gracias, Senta.\N-Estamos coordinados.
+Dialogue: 0,0:13:14.93,0:13:17.67,Gen_Main,Yuzuriha,0000,0000,0000,,Estamos coordinados. Gracias, Senta.
+Dialogue: 0,0:13:17.87,0:13:18.91,Gen_Main,Senta,0000,0000,0000,,De nada…
+Dialogue: 0,0:13:19.67,0:13:20.90,Gen_Main,Mu Dan,0000,0000,0000,,¡Ups!
+Dialogue: 0,0:13:21.39,0:13:25.14,Gen_Main,Mu Dan,0000,0000,0000,,Anticipo tus golpes, y cada respiro\Ntiene una pausa que deja evadir.
+Dialogue: 0,0:13:25.39,0:13:29.16,Gen_Italics,Sagiri,0000,0000,0000,,¡La respiración me desgasta muy rápido!\N¡Mi cuerpo no resistirá!
+Dialogue: 0,0:13:33.79,0:13:36.17,Gen_Main,Mu Dan,0000,0000,0000,,Qué coordinación tan buena.
+Dialogue: 0,0:13:42.31,0:13:43.58,Gen_Italics,Sagiri,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:13:43.78,0:13:44.82,Gen_Main,Mu Dan,0000,0000,0000,,Qué ilusa.
+Dialogue: 0,0:13:47.66,0:13:49.21,Gen_Main,Sagiri,0000,0000,0000,,Está volando.
+Dialogue: 0,0:13:49.41,0:13:52.46,Gen_Italics,Mu Dan,0000,0000,0000,,Arte Yang de la Tierra, Visitante Aéreo.
+Dialogue: 0,0:13:53.00,0:13:57.71,Gen_Main,Mu Dan,0000,0000,0000,,Puedo manipular el Tao en el aire\Npara crear donde posar los pies.
+Dialogue: 0,0:13:58.24,0:14:01.84,Gen_Main,Mu Dan mujer,0000,0000,0000,,Es verdad que para alguien\Nque no sepa la ciencia que hay detrás
+Dialogue: 0,0:14:02.04,0:14:04.07,Gen_Main,Mu Dan mujer,0000,0000,0000,,podría parecer cercano a un dios.
+Dialogue: 0,0:14:04.85,0:14:06.85,Gen_Main,Mu Dan mujer,0000,0000,0000,,Es otra forma de emplear el Tao.
+Dialogue: 0,0:14:07.07,0:14:09.48,Gen_Italics,Mu Dan mujer,0000,0000,0000,,Arte de Ermitaño: Cascabeles Aguja.
+Dialogue: 0,0:14:15.15,0:14:17.59,Gen_Main,Senta,0000,0000,0000,,¡Ya no puedo contra todo esto!
+Dialogue: 0,0:14:18.54,0:14:19.70,Gen_Main,Sagiri,0000,0000,0000,,¡Don Senta!
+Dialogue: 0,0:14:24.20,0:14:25.92,Gen_Italics,Sagiri,0000,0000,0000,,Tengo la vista borrosa.
+Dialogue: 0,0:14:26.12,0:14:29.83,Gen_Italics,Sagiri,0000,0000,0000,,Ese método de respiración\Nroba algo más que la resistencia física.
+Dialogue: 0,0:14:30.15,0:14:32.19,Gen_Italics,Sagiri,0000,0000,0000,,Ya no puedo más.
+Dialogue: 0,0:14:32.39,0:14:35.08,Gen_Main,Yuzuriha,0000,0000,0000,,Es muy pronto para rendirse, Sagirin.
+Dialogue: 0,0:14:35.28,0:14:38.59,Gen_Main,Yuzuriha,0000,0000,0000,,Creo que esto demuestra\Nque el enemigo se está desesperando.
+Dialogue: 0,0:14:38.79,0:14:41.72,Gen_Main,Yuzuriha,0000,0000,0000,,Tu ataque es el único\Nque esquiva sin excepción.
+Dialogue: 0,0:14:41.99,0:14:46.83,Gen_Main,Yuzuriha,0000,0000,0000,,Quizá haya compatibilidad entre los Tao,\Ny el tuyo es su punto débil.
+Dialogue: 0,0:14:47.03,0:14:49.10,Gen_Main,Sagiri,0000,0000,0000,,Pero ese monstruo…
+Dialogue: 0,0:14:49.30,0:14:52.30,Gen_Main,Yuzuriha,0000,0000,0000,,Exacto. Es un monstruo, no un dios.
+Dialogue: 0,0:14:52.50,0:14:53.73,Gen_Main,Yuzuriha,0000,0000,0000,,Podremos matarlo.
+Dialogue: 0,0:14:54.33,0:14:57.11,Gen_Main,Yuzuriha,0000,0000,0000,,Yo lo detendré para que tú lo cortes.
+Dialogue: 0,0:14:57.60,0:15:00.29,Gen_Main,Sagiri,0000,0000,0000,,Qué optimista eres.
+Dialogue: 0,0:15:00.49,0:15:04.12,Gen_Main,Yuzuriha,0000,0000,0000,,Es lo normal.\NNo pienso morir en este lugar.
+Dialogue: 0,0:15:04.32,0:15:05.58,Gen_Main,Yuzuriha,0000,0000,0000,,¡En serio que no!
+Dialogue: 0,0:15:07.82,0:15:09.08,Gen_Main,Mu Dan mujer,0000,0000,0000,,Te digo que es inútil.
+Dialogue: 0,0:15:11.83,0:15:12.83,Gen_Main,Sagiri,0000,0000,0000,,¡Yuzuriha!
+Dialogue: 0,0:15:14.33,0:15:15.71,Gen_Main,Mu Dan mujer,0000,0000,0000,,¿No los vas a evadir?
+Dialogue: 0,0:15:15.91,0:15:17.28,Gen_Main,Mu Dan mujer,0000,0000,0000,,Te matarán.
+Dialogue: 0,0:15:27.15,0:15:30.64,Gen_Main,Yuzuriha,0000,0000,0000,,¡Baja de ahí, dios impostor!
+Dialogue: 0,0:15:31.56,0:15:35.06,Gen_Main,Yuzuriha,0000,0000,0000,,¡Mataré a todos\Nlos que me estorben en la vida!
+Dialogue: 0,0:15:35.26,0:15:37.84,Gen_Main,Yuzuriha,0000,0000,0000,,¡Te mataré aunque seas un dios real!
+Dialogue: 0,0:15:39.94,0:15:41.52,Gen_Main,Yuzuriha,0000,0000,0000,,¡Ahora, Sagiri!
+Dialogue: 0,0:15:41.95,0:15:42.95,Gen_Main,Sagiri,0000,0000,0000,,¡Sí!
+Dialogue: 0,0:15:46.09,0:15:49.00,Gen_Main,Mu Dan mujer/Mu Dan,0000,0000,0000,,Qué molesta es esa mujer.
+Dialogue: 0,0:15:49.20,0:15:51.20,Gen_Main,Mu Dan,0000,0000,0000,,Sabía que Yuzuriha lo lograría.
+Dialogue: 0,0:15:54.73,0:15:57.68,Gen_Main,Mu Dan,0000,0000,0000,,Así no podrás moverte\Nsin importar si te regeneras o no.
+Dialogue: 0,0:15:57.84,0:16:00.59,Gen_Main,Mu Dan,0000,0000,0000,,No me digas que piensas morir conmigo.
+Dialogue: 0,0:16:00.79,0:16:03.35,Gen_Main,Senta,0000,0000,0000,,¡Te encargo que solo sea\Nuna capa de piel, Sagiri!
+Dialogue: 0,0:16:03.55,0:16:04.72,Gen_Main,Sagiri,0000,0000,0000,,¡Por supuesto!
+Dialogue: 0,0:16:20.29,0:16:22.28,Gen_Main,Yuzuriha,0000,0000,0000,,No se mueve.
+Dialogue: 0,0:16:22.69,0:16:25.61,Gen_Main,Yuzuriha,0000,0000,0000,,Fue un punto débil mayor\Nal que pensábamos, ¿no?
+Dialogue: 0,0:16:25.87,0:16:27.30,Gen_Main,Sagiri,0000,0000,0000,,Fue una apuesta que gané.
+Dialogue: 0,0:16:27.50,0:16:30.32,Gen_Main,Yuzuriha/Senta,0000,0000,0000,,-Fue una victoria de las dos.\N-¿Y yo?
+Dialogue: 0,0:16:33.25,0:16:34.25,Gen_Main,Hoko,0000,0000,0000,,¡Señor Hoko!
+Dialogue: 0,0:16:35.25,0:16:39.28,Gen_Main,Sagiri/Hoko,0000,0000,0000,,-¿Cómo sigue el proceso de degeneración?\N-Creo que voy bien.
+Dialogue: 0,0:16:39.54,0:16:40.76,Gen_Main,Sagiri,0000,0000,0000,,Menos mal.
+Dialogue: 0,0:16:40.96,0:16:44.74,Gen_Main,Senta,0000,0000,0000,,No puedo creer que haya\Notros seis monstruos como él.
+Dialogue: 0,0:16:45.67,0:16:47.73,Gen_Italics,Sagiri,0000,0000,0000,,El Tao es un arte misterioso.
+Dialogue: 0,0:16:47.90,0:16:51.59,Gen_Italics,Sagiri,0000,0000,0000,,Es un poder más alejado del hombre\N que lo que Hoko nos había contado.
+Dialogue: 0,0:16:52.25,0:16:54.39,Gen_Italics,Sagiri,0000,0000,0000,,Me siento demasiada fatigada.
+Dialogue: 0,0:16:54.61,0:16:58.23,Gen_Italics,Sagiri,0000,0000,0000,,¿En serio derrotamos\Ntan fácilmente a un Tensen?
+Dialogue: 0,0:16:58.66,0:16:59.98,Gen_Italics,Sagiri,0000,0000,0000,,Lo más importante es que…
+Dialogue: 0,0:17:00.54,0:17:03.55,Gen_Main,Sagiri,0000,0000,0000,,El elixir de la vida no existe.
+Dialogue: 0,0:17:04.40,0:17:06.76,Gen_Main,Sagiri,0000,0000,0000,,¿Qué haremos ahora?
+Dialogue: 0,0:17:07.51,0:17:09.54,Gen_Main,Yuzuriha,0000,0000,0000,,Tenemos que hacer algo, lo que sea.
+Dialogue: 0,0:17:09.74,0:17:12.99,Gen_Main,Yuzuriha,0000,0000,0000,,Si no existe el elixir,\Nbusquemos otra manera.
+Dialogue: 0,0:17:13.40,0:17:16.49,Gen_Main,Yuzuriha,0000,0000,0000,,Ay, tengo la piel toda reseca.
+Dialogue: 0,0:17:16.69,0:17:19.17,Gen_Main,Yuzuriha,0000,0000,0000,,Viéndolo bien, todo esto es oro.
+Dialogue: 0,0:17:19.37,0:17:21.64,Gen_Main,Yuzuriha,0000,0000,0000,,Podría ser un sustituto del elixir.
+Dialogue: 0,0:17:21.84,0:17:24.63,Gen_Main,Yuzuriha/Senta,0000,0000,0000,,-Qué cara tan extraña.\N-Tomemos un pequeño descanso.
+Dialogue: 0,0:17:24.83,0:17:26.34,Gen_Main,Sagiri,0000,0000,0000,,Sí.
+Dialogue: 0,0:17:29.61,0:17:32.22,Gen_Main,Senta,0000,0000,0000,,Puedes contar con Yuzuriha.
+Dialogue: 0,0:17:34.23,0:17:38.25,Gen_Main,Sagiri,0000,0000,0000,,Parece que guarda un sentimiento\Nespecial hacia ella, don Senta.
+Dialogue: 0,0:17:38.73,0:17:40.58,Gen_Main,Senta,0000,0000,0000,,Ah, no, este…
+Dialogue: 0,0:17:41.61,0:17:47.24,Gen_Main,Senta,0000,0000,0000,,Es que envidio lo libre que es.
+Dialogue: 0,0:17:47.53,0:17:50.62,Gen_Main,Sagiri,0000,0000,0000,,Porque es algo muy lejano a mí.
+Dialogue: 0,0:17:50.82,0:17:52.51,Gen_Main,Sagiri,0000,0000,0000,,¿Qué quiere decir?
+Dialogue: 0,0:17:54.54,0:17:58.07,Gen_Main,Senta,0000,0000,0000,,Cuando era joven,\Nquería convertirme en un pintor.
+Dialogue: 0,0:17:58.27,0:18:03.64,Gen_Main,Senta,0000,0000,0000,,Pero en mi familia es regla\Nque los hombres entremos al dojo Yamada.
+Dialogue: 0,0:18:03.93,0:18:06.27,Gen_Main,Senta,0000,0000,0000,,Y no pude rehusarme.
+Dialogue: 0,0:18:07.09,0:18:11.12,Gen_Main,Senta,0000,0000,0000,,La verdad es que odiaba al clan Yamada\Ny ser catador de espadas.
+Dialogue: 0,0:18:11.74,0:18:14.17,Gen_Main,Senta,0000,0000,0000,,Aborrecía matar gente.
+Dialogue: 0,0:18:15.69,0:18:19.06,Gen_Main,Senta,0000,0000,0000,,Sufría buscando una manera\Nde justificar el asesinato.
+Dialogue: 0,0:18:19.26,0:18:22.87,Gen_Main,Senta,0000,0000,0000,,Sé mucho sobre religiones gracias a eso.
+Dialogue: 0,0:18:23.07,0:18:27.95,Gen_Main,Senta,0000,0000,0000,,Irónicamente, me calificaron\Nde estudioso y subieron mi rango.
+Dialogue: 0,0:18:29.01,0:18:31.92,Gen_Main,Senta,0000,0000,0000,,Un día me rendí, cerré mi corazón,
+Dialogue: 0,0:18:32.54,0:18:35.18,Gen_Main,Senta,0000,0000,0000,,y me limité a obedecer órdenes.
+Dialogue: 0,0:18:36.48,0:18:41.04,Gen_Main,Yuzuriha,0000,0000,0000,,Apuesto a que te importa un comino\Nla misión y esa familia.
+Dialogue: 0,0:18:41.68,0:18:44.99,Gen_Main,Senta/Yuzuriha,0000,0000,0000,,-¡No!\N-Lo sé aunque lo trates de ocultar.
+Dialogue: 0,0:18:45.93,0:18:47.70,Gen_Main,Senta,0000,0000,0000,,La conocí.
+Dialogue: 0,0:18:47.90,0:18:50.21,Gen_Main,Senta,0000,0000,0000,,Sus ojos parecían ver todo.
+Dialogue: 0,0:18:50.41,0:18:54.33,Gen_Main,Senta,0000,0000,0000,,Sus acciones frías y crueles\Nme hicieron sudar frío más de una vez.
+Dialogue: 0,0:18:55.36,0:18:57.41,Gen_Main,Senta,0000,0000,0000,,Pero no sé por qué, pero, para mí,
+Dialogue: 0,0:18:57.61,0:19:00.32,Gen_Main,Senta,0000,0000,0000,,que me llevaba mintiendo\Na mí mismo por años,
+Dialogue: 0,0:19:00.52,0:19:03.69,Gen_Main,Senta,0000,0000,0000,,me pareció deslumbrante
+Dialogue: 0,0:19:05.26,0:19:07.07,Gen_Main,Senta,0000,0000,0000,,que solo mintiera a los demás,
+Dialogue: 0,0:19:07.51,0:19:10.08,Gen_Main,Senta,0000,0000,0000,,y eso me dio mucha envidia.
+Dialogue: 0,0:19:10.63,0:19:13.20,Gen_Main,Senta,0000,0000,0000,,Estoy seguro de que me lanzó\Nun conjuro ninja.
+Dialogue: 0,0:19:13.52,0:19:16.84,Gen_Main,Senta,0000,0000,0000,,Soy un fracaso como Asaemon\Nal admirar a una criminal, ¿verdad?
+Dialogue: 0,0:19:19.91,0:19:21.37,Gen_Main,Sagiri,0000,0000,0000,,No.
+Dialogue: 0,0:19:21.57,0:19:22.86,Gen_Main,Sagiri,0000,0000,0000,,Solo un poco…
+Dialogue: 0,0:19:24.45,0:19:28.02,Gen_Main,Sagiri,0000,0000,0000,,Entiendo lo que siente\Nsolo un poco, en serio.
+Dialogue: 0,0:19:28.36,0:19:29.76,Gen_Main,Sagiri,0000,0000,0000,,Un poco.
+Dialogue: 0,0:19:30.16,0:19:32.65,Gen_Main,Sagiri,0000,0000,0000,,Todos nosotros vinimos a la isla juntos.
+Dialogue: 0,0:19:33.13,0:19:36.39,Gen_Main,Sagiri,0000,0000,0000,,¿No quiere buscar conmigo\Nun modo de regresar todos a salvo?
+Dialogue: 0,0:19:36.80,0:19:38.41,Gen_Main,Senta,0000,0000,0000,,Sagiri…
+Dialogue: 0,0:19:38.89,0:19:39.89,Gen_Main,Senta,0000,0000,0000,,Sí.
+Dialogue: 0,0:19:44.62,0:19:47.40,Gen_Italics,Gabimaru,0000,0000,0000,,Ahora soy capaz de detectar el Tao,
+Dialogue: 0,0:19:47.59,0:19:49.98,Gen_Italics,Gabimaru,0000,0000,0000,,pero no creo que pueda\Nusarlo a la perfección.
+Dialogue: 0,0:19:50.15,0:19:54.02,Gen_Main,Fuchi,0000,0000,0000,,Por cierto, si los matan, no podremos\Npreguntarles sobre el elixir.
+Dialogue: 0,0:19:55.12,0:19:58.68,Gen_Main,Gantetsusai,0000,0000,0000,,Por lo que veo, ella debe saber.
+Dialogue: 0,0:19:58.99,0:20:01.83,Gen_Main,Gantetsusai,0000,0000,0000,,Sería cruel\Nhacerla que nos sirva de guía.
+Dialogue: 0,0:20:02.03,0:20:05.67,Gen_Main,Gantetsusai,0000,0000,0000,,Sobre todo si tomamos en cuenta\Nlo que los monstruos le quieren hacer.
+Dialogue: 0,0:20:08.80,0:20:12.65,Gen_Main,Gabimaru,0000,0000,0000,,Pero tú viniste siguiéndome, ¿cierto?
+Dialogue: 0,0:20:13.53,0:20:17.46,Gen_Main,Gabimaru,0000,0000,0000,,Si tienes algún objetivo\No me quieres pedir un favor, dímelo.
+Dialogue: 0,0:20:17.92,0:20:20.25,Gen_Main,Gabimaru,0000,0000,0000,,Quiero agradecerte\Nque me salvaras dos veces.
+Dialogue: 0,0:20:21.11,0:20:22.98,Gen_Italics,Fuchi,0000,0000,0000,,En el informe de Sagiri decía que…
+Dialogue: 0,0:20:23.65,0:20:26.52,Gen_Italics,Sagiri,0000,0000,0000,,Este individuo no tiene corazón.
+Dialogue: 0,0:20:26.78,0:20:31.42,Gen_Italics,Sagiri,0000,0000,0000,,Sin embargo, solo lo muestra\Ncuando se trata de una persona.
+Dialogue: 0,0:20:32.36,0:20:35.61,Gen_Italics,Senta,0000,0000,0000,,Decía que era\Nuna estatua fría para los demás.
+Dialogue: 0,0:20:36.16,0:20:39.12,Gen_Italics,Fuchi,0000,0000,0000,,Es muy diferente\Na la impresión que tenía de él.
+Dialogue: 0,0:20:39.63,0:20:43.62,Gen_Italics,Fuchi,0000,0000,0000,,¿Qué será de esa misericordia\Nal final de esta misión?
+Dialogue: 0,0:20:45.25,0:20:46.32,Gen_Main,Gantetsusai,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:20:47.72,0:20:50.09,Gen_Main,Gabimaru,0000,0000,0000,,¿Qué pa…?
+Dialogue: 0,0:20:51.34,0:20:52.34,Gen_Main,Yuzuriha,0000,0000,0000,,Oigan…
+Dialogue: 0,0:20:53.68,0:20:57.06,Gen_Main,Yuzuriha,0000,0000,0000,,¿Esta cosa tenía tantas flores abiertas?
+Dialogue: 0,0:21:00.72,0:21:02.08,Gen_Main,Sagiri,0000,0000,0000,,¡Yuzuriha!
+Dialogue: 0,0:21:21.04,0:21:22.82,Gen_Italics,Senta,0000,0000,0000,,No tiene escrúpulos.
+Dialogue: 0,0:21:23.81,0:21:25.29,Gen_Italics,Senta,0000,0000,0000,,Es cruel.
+Dialogue: 0,0:21:26.77,0:21:29.43,Gen_Italics,Senta,0000,0000,0000,,Es una pecadora y asesina.
+Dialogue: 0,0:21:30.20,0:21:33.87,Gen_Italics,Senta,0000,0000,0000,,Es un fuerte viento que sopló\Ny dispersó mi sentido común.
+Dialogue: 0,0:21:37.65,0:21:39.51,Gen_Italics,Senta,0000,0000,0000,,No me le puedo acercar.
+Dialogue: 0,0:21:39.97,0:21:42.01,Gen_Italics,Senta,0000,0000,0000,,Pero no me importa estar lejos.
+Dialogue: 0,0:21:42.44,0:21:46.57,Gen_Italics,Senta,0000,0000,0000,,Si tan solo pudiera comtemplarla\Na su lado todo el tiempo…
+Dialogue: 0,0:21:50.65,0:21:53.88,Gen_Main,Senta,0000,0000,0000,,¿Eh? ¿Puedo pintar lo que yo quiera?
+Dialogue: 0,0:21:54.08,0:21:57.79,Gen_Main,Senta,0000,0000,0000,,Me da la impresión de que estaba\Na la mitad de hacer otra cosa.
+Dialogue: 0,0:21:58.20,0:22:01.34,Gen_Main,Senta,0000,0000,0000,,Bueno, ¿qué importa?\NDibujaré la última.
+Dialogue: 0,0:22:03.77,0:22:08.90,Gen_Main,Senta,0000,0000,0000,,Ay, la envidio mucho…
+Dialogue: 0,0:22:27.19,0:22:28.52,Gen_Main,Mu Dan mujer,0000,0000,0000,,¿Los mato?
+Dialogue: 0,0:22:28.72,0:22:30.20,Gen_Main,Mu Dan mujer,0000,0000,0000,,¡Los mataré!
+Dialogue: 0,0:22:30.93,0:22:34.44,Gen_Main,Sagiri,0000,0000,0000,,Yuzuriha, ¿qué vamos a hacer?
+Dialogue: 0,0:22:34.67,0:22:38.63,Gen_Main,Yuzuriha,0000,0000,0000,,¿Debemos luchar otra vez\Ncontra ese monstruo?
+Dialogue: 0,0:22:39.45,0:22:41.94,Gen_Main,Yuzuriha,0000,0000,0000,,Es imposible. Yo ya no puedo más.
+Dialogue: 0,0:24:22.42,0:24:24.96,Cart_A_Tre,CARTEL,0000,0000,0000,,{\an8\fad(500,0)\fs18\bord1}Traducción: Antonio Valdez y Álvaro Jimeno\NEdición: Álvaro Jimeno\NControl de calidad: Eduardo Salgueiro

@@ -1,0 +1,336 @@
+[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,20,1
+Style: Gen_Main Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,20,0
+Style: Gen_Main Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,20,1
+Style: Gen_Main Italics Top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H001E0200,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Cart_A_Tre,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_B_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00CECECE,&H00B5B5B5,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tre,Trebuchet MS,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,24,&H00323232,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_A_Ver,Verdana,24,&H00FFFFFF,&H000000FF,&H00303030,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_B_Ver,Verdana,24,&H00323232,&H000000FF,&H00D9D9D9,&H00D9D9D9,-1,0,0,0,100,100,0,0,1,2,1,8,20,20,20,1
+Style: Cart_C_Ver,Verdana,24,&H00000300,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,7,20,20,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:01.00,Gen_Main,,0,0,0,,
+Dialogue: 0,0:00:16.50,0:00:18.18,Gen_Main,Rien (hombre),0,0,0,,Qué inusual.
+Dialogue: 0,0:00:19.50,0:00:21.25,Gen_Main,Rien (hombre),0,0,0,,Así que eres un híbrido…
+Dialogue: 0,0:00:22.08,0:00:25.76,Gen_Main,Rien (hombre),0,0,0,,¿Fuiste tú quien mató a Mu Dan?
+Dialogue: 0,0:00:25.92,0:00:27.21,Gen_Main,Chobee,0,0,0,,Tú eres…
+Dialogue: 0,0:00:32.85,0:00:34.47,Gen_Main,Chobee,0,0,0,,Maldito…
+Dialogue: 0,0:00:35.06,0:00:38.91,Gen_Main,Rien (hombre),0,0,0,,Me has despertado un poco de interés.
+Dialogue: 0,0:00:54.08,0:00:55.12,Cart_A_Tim,CARTEL,0,0,0,,{\c&H151634&\fad(250,123)\4c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:02:03.56,0:02:06.69,Cart_A_Tim,CARTEL,0,0,0,,{\4c&H151634&\fad(250,250)\c&HE1ECF5&\bord0\fscx160\fscy160\pos(320,20)\shad2.5}Hell's Paradise
+Dialogue: 0,0:02:10.57,0:02:16.53,Cart_A_Tre,CARTEL,0,0,0,,{\fad(500,500)\an3\bord0\shad1.5\b0\c&HFFFFFF&\pos(600,305)}Inmutabilidad\Ny cambio
+Dialogue: 0,0:02:13.28,0:02:14.47,Gen_Main,Fuchi,0,0,0,,Vete.
+Dialogue: 0,0:02:15.61,0:02:18.66,Gen_Main,Fuchi,0,0,0,,En realidad, quería diseccionarte,
+Dialogue: 0,0:02:18.85,0:02:21.71,Gen_Main,Fuchi,0,0,0,,pero ahora mismo no tengo ganas\Nde arrebatar una vida.
+Dialogue: 0,0:02:27.96,0:02:29.99,Gen_Main,Sagiri,0,0,0,,¡Don Fuchi! ¡Qué alivio!
+Dialogue: 0,0:02:30.09,0:02:31.55,Gen_Main,Fuchi,0,0,0,,¿Ocurre algo?
+Dialogue: 0,0:02:31.80,0:02:33.56,Gen_Main,Sagiri,0,0,0,,Mei se encuentra mal.
+Dialogue: 0,0:02:34.59,0:02:38.84,Gen_Main,Sagiri,0,0,0,,Creía que solo estaba cansada,\Npero no se recupera.
+Dialogue: 0,0:02:38.93,0:02:42.95,Gen_Main,Yuzuriha,0,0,0,,¿Esta chica no era una niña?\N¿Qué rayos es?
+Dialogue: 0,0:02:43.02,0:02:45.82,Gen_Main,Fuchi,0,0,0,,Parece ser de la misma especie\Nque los Tensen.
+Dialogue: 0,0:02:46.65,0:02:49.38,Gen_Main,Fuchi,0,0,0,,También la vi usar un poder extraño.
+Dialogue: 0,0:02:49.77,0:02:52.29,Gen_Main,Sagiri,0,0,0,,¿Es de la misma especie\Nque esos monstruos?
+Dialogue: 0,0:02:53.40,0:02:57.80,Gen_Main,Fuchi,0,0,0,,Cuento con recursos limitados,\Npero haré un remedio para la fiebre.
+Dialogue: 0,0:02:58.37,0:02:59.98,Gen_Main,Fuchi,0,0,0,,A cambio, Mei,
+Dialogue: 0,0:03:00.66,0:03:04.66,Gen_Main,Fuchi,0,0,0,,cuéntanos más sobre ti\Ny sobre los Tensen.
+Dialogue: 0,0:03:04.75,0:03:08.82,Gen_Main,Fuchi,0,0,0,,Por fin entendí la gravedad del asunto\Ntras la muerte de un compañero.
+Dialogue: 0,0:03:08.92,0:03:12.57,Gen_Main,Fuchi,0,0,0,,Quiero saber quiénes son\Ny cuál es su objetivo.
+Dialogue: 0,0:03:12.67,0:03:16.80,Gen_Main,Fuchi,0,0,0,,Dependiendo de tu respuesta,\Npuede que no te perdone.
+Dialogue: 0,0:03:17.97,0:03:19.68,Gen_Main,Mei,0,0,0,,Este…
+Dialogue: 0,0:03:19.76,0:03:23.26,Gen_Main,Yuzuriha,0,0,0,,Espera. No nos podrá explicar nada\Ncon esa forma de hablar.
+Dialogue: 0,0:03:23.35,0:03:25.99,Gen_Main,Fuchi/Sagiri,0,0,0,,-Tienes razón.\N-¡Oigan! ¡Cuiden lo que dicen!
+Dialogue: 0,0:03:26.06,0:03:28.93,Gen_Main,Fuchi,0,0,0,,Pero no pasa nada,\Nestoy acostumbrado a traducir.
+Dialogue: 0,0:03:29.02,0:03:32.90,Gen_Main,Fuchi,0,0,0,,Mientras tanto,\Nprepara la medicina, Sagiri.
+Dialogue: 0,0:03:34.74,0:03:37.20,Gen_Main,Gantetsusai,0,0,0,,Mira hasta dónde me has hecho venir.
+Dialogue: 0,0:03:37.49,0:03:39.95,Gen_Main,Gantetsusai,0,0,0,,¿Qué quieres, Enanomaru?
+Dialogue: 0,0:03:40.45,0:03:44.62,Gen_Main,Gabimaru,0,0,0,,Recuperé la memoria,\Npero estoy algo oxidado.
+Dialogue: 0,0:03:45.16,0:03:49.04,Gen_Main,Gabimaru,0,0,0,,Así que quiero calentar.\NAcompáñenme un rato.
+Dialogue: 0,0:03:49.21,0:03:52.15,Gen_Main,Gantetsusai,0,0,0,,¿Quieres que te ataquemos todos juntos?
+Dialogue: 0,0:03:52.25,0:03:53.67,Gen_Main,Gabimaru,0,0,0,,Sí, eso mismo.
+Dialogue: 0,0:03:54.80,0:03:57.80,Gen_Main,Gantetsusai,0,0,0,,¿Pretendes usarme para entrenar?
+Dialogue: 0,0:03:58.30,0:03:59.93,Gen_Main,Gabimaru,0,0,0,,Tú también.
+Dialogue: 0,0:04:00.18,0:04:02.79,Gen_Main,Gabimaru,0,0,0,,Al que más odias es a mí, ¿no?
+Dialogue: 0,0:04:02.89,0:04:05.13,Gen_Main,Gabimaru,0,0,0,,Si quieres matarme, atácame con todo.
+Dialogue: 0,0:04:06.81,0:04:08.02,Gen_Main,Shion,0,0,0,,Espera un momento.
+Dialogue: 0,0:04:08.11,0:04:12.47,Gen_Main,Shion,0,0,0,,Si planeas algo raro\Naprovechando el caos, te mataré.
+Dialogue: 0,0:04:12.55,0:04:14.69,Gen_Main,Nurugai,0,0,0,,Si el maestro participa, yo también.
+Dialogue: 0,0:04:15.57,0:04:18.57,Gen_Main,Gantetsusai,0,0,0,,Oye, princesa, puedes usar tu espada.
+Dialogue: 0,0:04:18.65,0:04:20.82,Gen_Main,Gantetsusai,0,0,0,,Voy a destrozar a ese desgraciado.
+Dialogue: 0,0:04:21.78,0:04:27.33,Gen_Main Italics,Gabimaru,0,0,0,,Entendí una cosa tras pelear\Ncontra el mago taoísta y contra Chobee.
+Dialogue: 0,0:04:27.41,0:04:30.08,Gen_Main Italics,Gabimaru,0,0,0,,Abusar del Tao es peligroso,
+Dialogue: 0,0:04:30.17,0:04:35.22,Gen_Main Italics,Gabimaru,0,0,0,,pero si no aprendo a manejarlo,\Nno venceré a los Tensen ni a nadie.
+Dialogue: 0,0:04:36.34,0:04:38.58,Gen_Main Italics,Gabimaru,0,0,0,,Debo dominar su uso.
+Dialogue: 0,0:04:43.10,0:04:45.60,Gen_Main,Gabimaru,0,0,0,,Gracias por ayudarme.
+Dialogue: 0,0:04:46.43,0:04:47.93,Gen_Main,Gantetsusai,0,0,0,,¡No te burles de mí!
+Dialogue: 0,0:04:50.56,0:04:51.81,Gen_Main Italics,Gabimaru,0,0,0,,Es rápido.
+Dialogue: 0,0:04:55.69,0:04:57.44,Gen_Main Italics,Gabimaru,0,0,0,,No lo sigas con la vista.
+Dialogue: 0,0:04:59.82,0:05:01.45,Gen_Main Italics,Gabimaru,0,0,0,,Siéntelo con el Tao.
+Dialogue: 0,0:05:10.08,0:05:14.67,Gen_Main Italics,Gabimaru,0,0,0,,No sirve de nada usar fuerza bruta\Ncontra esos músculos,
+Dialogue: 0,0:05:14.75,0:05:15.92,Gen_Main Italics,Gabimaru,0,0,0,,pero…
+Dialogue: 0,0:05:19.88,0:05:24.26,Gen_Main Italics,Gabimaru,0,0,0,,si ataco el punto vital del Tao,\Nel golpe será poderoso aun sin fuerza.
+Dialogue: 0,0:05:25.35,0:05:26.72,Gen_Main,Shion,0,0,0,,¡Espera, Nurugai!
+Dialogue: 0,0:05:28.14,0:05:31.23,Gen_Main Italics,Gabimaru,0,0,0,,Pero acabo de confirmarlo.
+Dialogue: 0,0:05:31.81,0:05:35.23,Gen_Main Italics,Gabimaru,0,0,0,,Es imposible superar a los Tensen\Nen el dominio del Tao.
+Dialogue: 0,0:05:35.73,0:05:39.04,Gen_Main Italics,Gabimaru,0,0,0,,Son monstruos que han entrenado\Nel Tao durante mil años.
+Dialogue: 0,0:05:39.11,0:05:41.74,Gen_Main Italics,Gabimaru,0,0,0,,Un humano no puede superarlos.
+Dialogue: 0,0:05:42.49,0:05:43.61,Gen_Main Italics,Gabimaru,0,0,0,,Entonces…
+Dialogue: 0,0:05:53.67,0:05:56.04,Gen_Main Italics,Gabimaru,0,0,0,,Aprovecharé el Tao del enemigo.
+Dialogue: 0,0:05:56.42,0:06:01.22,Gen_Main Italics,Gabimaru,0,0,0,,Cuanta más fuerza usen,\Nmayor será el impacto al devolverla.
+Dialogue: 0,0:06:01.63,0:06:05.68,Gen_Main Italics,Gabimaru,0,0,0,,Si logro usar el Tao de los Tensen\Nen su contra, tendré una oportunidad.
+Dialogue: 0,0:06:05.76,0:06:06.97,Gen_Main,Nurugai,0,0,0,,¡Increíble!
+Dialogue: 0,0:06:07.26,0:06:09.73,Gen_Main,Nurugai,0,0,0,,¡Con esto podremos matar a los Tensen!
+Dialogue: 0,0:06:09.81,0:06:12.60,Gen_Main,Gabimaru,0,0,0,,No, aún no. Hay mucho que mejorar.
+Dialogue: 0,0:06:13.02,0:06:15.10,Gen_Main Italics,Shion,0,0,0,,Supera los rumores.
+Dialogue: 0,0:06:15.35,0:06:17.98,Gen_Main Italics,Shion,0,0,0,,Gabimaru podría estar a su altura.
+Dialogue: 0,0:06:18.23,0:06:20.96,Gen_Main Italics,Shion,0,0,0,,Pero ¿puedo confiar en un criminal?
+Dialogue: 0,0:06:23.61,0:06:27.62,Gen_Main,Shion,0,0,0,,Gabimaru, descubrí algo\Nal observar el Tao.
+Dialogue: 0,0:06:27.70,0:06:29.93,Gen_Main,Shion,0,0,0,,Debe haber varios tipos de Tao.
+Dialogue: 0,0:06:29.99,0:06:32.28,Gen_Main,Shion,0,0,0,,Cada uno con sus atributos y afinidades.
+Dialogue: 0,0:06:32.37,0:06:33.64,Gen_Main,Gabimaru,0,0,0,,¿Tipos?
+Dialogue: 0,0:06:33.71,0:06:36.92,Gen_Main,Shion,0,0,0,,Si lo aprovechamos,\Npodremos matar a los inmortales.
+Dialogue: 0,0:06:43.67,0:06:45.18,Gen_Main,Gantetsusai,0,0,0,,¿Eh? ¿Qué pasa?
+Dialogue: 0,0:06:45.51,0:06:47.53,Gen_Main,Gantetsusai,0,0,0,,¿Tú también quieres pelear?
+Dialogue: 0,0:06:51.27,0:06:53.39,Gen_Main,Gantetsusai,0,0,0,,¿Qué haces, princesa?
+Dialogue: 0,0:06:53.64,0:06:56.04,Gen_Main,Toma,0,0,0,,Me trago el orgullo para pedirte
+Dialogue: 0,0:06:56.60,0:06:59.02,Gen_Main,Toma,0,0,0,,que me enseñes\Na combatir de verdad.
+Dialogue: 0,0:06:59.82,0:07:04.06,Gen_Main,Toma,0,0,0,,No es por venganza.\NEs para sobrevivir aquí por mi cuenta.
+Dialogue: 0,0:07:04.15,0:07:07.03,Gen_Main,Gantetsusai,0,0,0,,¿Y esperas que confíe\Nen la palabra de un bandido?
+Dialogue: 0,0:07:14.46,0:07:17.42,Gen_Main,Toma,0,0,0,,Solo puedo probarlo haciendo esto…
+Dialogue: 0,0:07:17.58,0:07:22.08,Gen_Main,Toma,0,0,0,,Hablo en serio. No me agradas,\Npero eres más fuerte que yo.
+Dialogue: 0,0:07:22.17,0:07:25.42,Gen_Main,Toma,0,0,0,,Por eso… enséñame esgrima.
+Dialogue: 0,0:07:30.97,0:07:32.53,Gen_Main,Gantetsusai,0,0,0,,Haz lo que quieras.
+Dialogue: 0,0:07:33.22,0:07:36.82,Gen_Main,Gantetsusai,0,0,0,,Justo iba a practicar.\NTrae esa espada.
+Dialogue: 0,0:07:38.27,0:07:41.04,Gen_Main Italics,Toma,0,0,0,,Aunque deba arrastrarme,\Nobtendré poder.
+Dialogue: 0,0:07:41.69,0:07:43.69,Gen_Main Italics,Toma,0,0,0,,Para poder pelear solo…
+Dialogue: 0,0:07:44.69,0:07:47.16,Gen_Main Italics,Toma,0,0,0,,Para poder pelear junto a mi hermano.
+Dialogue: 0,0:07:48.78,0:07:51.47,Gen_Main Italics,Toma,0,0,0,,La fuerza… es el cambio.
+Dialogue: 0,0:07:54.87,0:07:57.66,Gen_Main Italics,Toma,0,0,0,,Matar a estos tipos puede esperar.
+Dialogue: 0,0:07:57.75,0:08:00.64,Gen_Main Italics,Toma,0,0,0,,Iré a salvarte, Chobee.
+Dialogue: 0,0:08:02.75,0:08:06.38,Gen_Main Italics,Chobee,0,0,0,,Qué fuerte es.\NNo se compara con los magos taoístas.
+Dialogue: 0,0:08:06.76,0:08:09.01,Gen_Main Italics,Chobee,0,0,0,,¿Es de la misma especie que aquel?
+Dialogue: 0,0:08:13.93,0:08:16.77,Gen_Main,Rien (hombre),0,0,0,,Interesante.\NTienes un Tao distorsionado.
+Dialogue: 0,0:08:16.85,0:08:19.27,Gen_Main,Rien (hombre),0,0,0,,Debió mezclarse al llegar a la isla.
+Dialogue: 0,0:08:19.39,0:08:22.86,Gen_Main,Rien (hombre),0,0,0,,La flor Waitanhua\Nconvierte a los humanos en Tan.
+Dialogue: 0,0:08:22.94,0:08:26.88,Gen_Main,Rien (hombre),0,0,0,,Pero tu Tao mantiene la consciencia\Npese a ser invadido por ella.
+Dialogue: 0,0:08:26.94,0:08:28.82,Gen_Main,Rien (hombre),0,0,0,,Es toda una rareza.
+Dialogue: 0,0:08:35.49,0:08:37.71,Gen_Main,Rien (hombre),0,0,0,,Voy a investigar un poco más.
+Dialogue: 0,0:08:47.76,0:08:49.88,Gen_Main Italics,Chobee,0,0,0,,Así nunca podré ganarle.
+Dialogue: 0,0:08:49.97,0:08:54.05,Gen_Main Italics,Chobee,0,0,0,,Pero no sé si podré controlarlo\Nsi uso eso de nuevo.
+Dialogue: 0,0:08:54.35,0:08:55.56,Gen_Main Italics,Chobee,0,0,0,,No…
+Dialogue: 0,0:08:57.93,0:09:01.98,Gen_Main Italics,Chobee,0,0,0,,No necesito certezas.\NEs hacerlo o no hacerlo.
+Dialogue: 0,0:09:02.48,0:09:05.06,Gen_Main Italics,Chobee,0,0,0,,Siento raíces extendiéndose\Npor todo mi cuerpo.
+Dialogue: 0,0:09:05.15,0:09:09.76,Gen_Main Italics,Chobee,0,0,0,,¡Concéntrate para que\Nno te robe la consciencia!
+Dialogue: 0,0:09:25.59,0:09:29.46,Gen_Main Italics,Rien (hombre),0,0,0,,Su velocidad y su potencia\Nsuperan el nivel humano.
+Dialogue: 0,0:09:30.05,0:09:32.34,Gen_Main Italics,Chobee,0,0,0,,Aún soy yo mismo…
+Dialogue: 0,0:09:32.84,0:09:35.47,Gen_Main Italics,Chobee,0,0,0,,¡Debo acabar con esto rápido!
+Dialogue: 0,0:09:40.27,0:09:43.50,Gen_Main,Chobee,0,0,0,,¡Su punto débil es el ombligo!
+Dialogue: 0,0:09:46.98,0:09:49.07,Gen_Main Italics,Rien (hombre),0,0,0,,Es inaudito.
+Dialogue: 0,0:09:54.66,0:09:57.02,Gen_Main Italics,Chobee,0,0,0,,No se regenera.
+Dialogue: 0,0:09:57.12,0:09:59.58,Gen_Main Italics,Chobee,0,0,0,,¿Mueren si les aplasto el ombligo?
+Dialogue: 0,0:10:00.75,0:10:04.33,Gen_Main Italics,Chobee,0,0,0,,Yo también estoy al límite.\NDebo volver a la normalidad.
+Dialogue: 0,0:10:07.67,0:10:09.71,Gen_Main,Rien (hombre),0,0,0,,Es inaudito.
+Dialogue: 0,0:10:10.21,0:10:14.64,Gen_Main,Rien (hombre),0,0,0,,Liberaste el Tao de la flor Waitanhua\Ne incluso lo estás controlando.
+Dialogue: 0,0:10:15.09,0:10:17.35,Gen_Main,Rien (hombre),0,0,0,,Nunca había visto algo así.
+Dialogue: 0,0:10:17.76,0:10:20.72,Gen_Main,Chobee,0,0,0,,¿Así que el de antes era un doble?
+Dialogue: 0,0:10:20.93,0:10:25.64,Gen_Main,Rien (hombre),0,0,0,,Iba a hacer solo un reconocimiento,\Npero quise verlo con mis propios ojos.
+Dialogue: 0,0:10:28.23,0:10:30.11,Gen_Main,Rien (hombre),0,0,0,,Hermoso.
+Dialogue: 0,0:10:31.44,0:10:34.62,Gen_Main,Rien (hombre),0,0,0,,Debo llevarte al castillo\Npara estudiarte.
+Dialogue: 0,0:10:39.53,0:10:44.00,Gen_Main Italics,Chobee,0,0,0,,Estoy al límite…\NSi sigo, mi consciencia…
+Dialogue: 0,0:10:44.50,0:10:46.79,Gen_Main,Rien (hombre),0,0,0,,No te fuerces o morirás.
+Dialogue: 0,0:10:47.46,0:10:49.51,Gen_Main,Rien (hombre),0,0,0,,Cuida tu cuerpo.
+Dialogue: 0,0:10:53.30,0:10:54.64,Gen_Main,Rien (hombre),0,0,0,,Duerme.
+Dialogue: 0,0:11:00.85,0:11:05.04,Gen_Main,Chobee,0,0,0,,Lo sé, Toma. No soy como papá.
+Dialogue: 0,0:11:05.77,0:11:07.44,Gen_Main,Chobee,0,0,0,,Te juro que volveré.
+Dialogue: 0,0:11:08.06,0:11:09.64,Gen_Main Italics,Chobee,0,0,0,,Me voy a desmoronar…
+Dialogue: 0,0:11:10.73,0:11:12.27,Gen_Main Italics,Chobee,0,0,0,,Me voy a romper…
+Dialogue: 0,0:11:23.16,0:11:25.00,Gen_Main,Chobee,0,0,0,,¿Dónde estoy?
+Dialogue: 0,0:11:27.04,0:11:30.13,Gen_Main,Rien (mujer),0,0,0,,Así que despertaste, humano.
+Dialogue: 0,0:11:31.71,0:11:33.99,Gen_Main,Chobee,0,0,0,,¿Qué demonios haces?
+Dialogue: 0,0:11:34.09,0:11:36.55,Gen_Main,Rien (mujer),0,0,0,,Tu cuerpo es valioso.
+Dialogue: 0,0:11:36.76,0:11:39.38,Gen_Main,Rien (mujer),0,0,0,,Al convertirte en Tan,\Nlos Tao se mezclaron.
+Dialogue: 0,0:11:39.48,0:11:41.93,Gen_Main,Rien (mujer),0,0,0,,Pero tu parte humana ganó.
+Dialogue: 0,0:11:42.01,0:11:45.62,Gen_Main,Rien (mujer),0,0,0,,Es un milagro.\NJamás vi algo así en mil años.
+Dialogue: 0,0:11:46.18,0:11:51.57,Gen_Main,Rien (mujer),0,0,0,,Eres la última llave\Nque le faltaba a mi estudio.
+Dialogue: 0,0:11:53.23,0:11:55.69,Gen_Main,Chobee,0,0,0,,¿Qué te pasa?\N¿Entraste en celo de repente?
+Dialogue: 0,0:11:55.86,0:11:59.45,Gen_Main,Rien (mujer),0,0,0,,No, te equivocas.\NEs el arte de la intimidad.
+Dialogue: 0,0:11:59.57,0:12:05.70,Gen_Main,Rien (mujer),0,0,0,,Quiero circular nuestros Tao\Npara entenderlo mejor.
+Dialogue: 0,0:12:05.83,0:12:08.46,Gen_Main,Rien (mujer),0,0,0,,También recuperará tu Tao debilitado.
+Dialogue: 0,0:12:08.58,0:12:12.07,Gen_Main,Chobee/Rien (mujer),0,0,0,,-¿Circular?\N-Cada Tao tiene su atributo.
+Dialogue: 0,0:12:12.59,0:12:17.04,Gen_Main,Rien (mujer),0,0,0,,Madera, Fuego, Tierra, Metal y Agua.
+Dialogue: 0,0:12:17.13,0:12:19.59,Gen_Main,Rien (mujer),0,0,0,,Los cinco atributos\Nse influyen entre sí.
+Dialogue: 0,0:12:20.01,0:12:23.28,Gen_Main,Rien (mujer),0,0,0,,La "dominación"\Ndebilita el Tao al contacto.
+Dialogue: 0,0:12:23.35,0:12:26.35,Gen_Main,Rien (mujer),0,0,0,,La "generación" lo fortalece.
+Dialogue: 0,0:12:27.27,0:12:29.85,Gen_Main,Chobee,0,0,0,,Oye, ¿hablas en serio?
+Dialogue: 0,0:12:30.06,0:12:34.28,Gen_Main,Rien (mujer),0,0,0,,El arte de la intimidad requiere\Narmonía mutua para ser efectivo.
+Dialogue: 0,0:12:34.36,0:12:38.74,Gen_Main,Rien (mujer),0,0,0,,¿Tienes alguna postura\Nque desees hacer?
+Dialogue: 0,0:12:41.41,0:12:42.87,Gen_Main,Chobee,0,0,0,,Sí, tengo un deseo.
+Dialogue: 0,0:12:43.83,0:12:46.73,Gen_Main,Chobee,0,0,0,,Responde mis preguntas.\N¿Qué es esta isla?
+Dialogue: 0,0:12:46.83,0:12:49.08,Gen_Main,Chobee,0,0,0,,¿Qué hacen ustedes aquí?
+Dialogue: 0,0:12:50.37,0:12:56.92,Gen_Main,Fuchi,0,0,0,,Según ella, un solo humano creó\Ntanto la isla como a los Tensen.
+Dialogue: 0,0:12:57.17,0:12:58.93,Gen_Main,Sagiri,0,0,0,,¿Un humano?
+Dialogue: 0,0:12:59.01,0:13:01.68,Gen_Main,Fuchi,0,0,0,,Un hechicero famoso del continente.
+Dialogue: 0,0:13:02.34,0:13:06.62,Gen_Main,Fuchi,0,0,0,,Investigaba la vida eterna basándose\Nen la ideología de los inmortales.
+Dialogue: 0,0:13:06.72,0:13:11.56,Gen_Main,Fuchi,0,0,0,,En el taoísmo, se dice que el Tao\Nda forma a toda la creación.
+Dialogue: 0,0:13:12.40,0:13:17.24,Gen_Main,Fuchi,0,0,0,,En esta isla encontró una técnica\Npara manipularlo directamente.
+Dialogue: 0,0:13:18.07,0:13:22.07,Gen_Main,Fuchi,0,0,0,,Mezcló e injertó el Tao\Nde distintos seres vivos.
+Dialogue: 0,0:13:22.17,0:13:25.84,Gen_Main,Fuchi,0,0,0,,Buscó la inmortalidad\Nrepitiendo prueba y error.
+Dialogue: 0,0:13:26.91,0:13:30.46,Gen_Main,Fuchi,0,0,0,,Así nacieron los Tensen.
+Dialogue: 0,0:13:30.62,0:13:34.62,Gen_Main,Fuchi,0,0,0,,Al fusionar Tao humano y vegetal,\Nse volvieron hermafroditas.
+Dialogue: 0,0:13:34.71,0:13:37.84,Gen_Main,Fuchi,0,0,0,,Pueden amplificar su Tao\Nusando el Yin y el Yang por sí solos.
+Dialogue: 0,0:13:37.92,0:13:39.35,Gen_Main,Fuchi,0,0,0,,Llevan mil años
+Dialogue: 0,0:13:39.43,0:13:43.24,Gen_Main,Fuchi,0,0,0,,refinando el Tao que los seres vivos\Npierden por actividad o tiempo.
+Dialogue: 0,0:13:43.64,0:13:45.93,Gen_Main,Fuchi,0,0,0,,Un humano no puede vencerlos.
+Dialogue: 0,0:13:46.64,0:13:49.10,Gen_Main,Fuchi,0,0,0,,Salvo por un único método.
+Dialogue: 0,0:13:49.64,0:13:51.71,Gen_Main,Sagiri,0,0,0,,El Tao, ¿verdad?
+Dialogue: 0,0:13:51.81,0:13:55.89,Gen_Main,Yuzuriha,0,0,0,,¿Y por qué esos superhombres\Nestán encerrados en esta isla?
+Dialogue: 0,0:13:57.23,0:14:02.66,Gen_Main,Fuchi,0,0,0,,En el taoísmo, buscar la inmortalidad\Nmediante respiración y meditación
+Dialogue: 0,0:14:02.75,0:14:04.53,Gen_Main,Fuchi,0,0,0,,se conoce como "Neidan".
+Dialogue: 0,0:14:04.99,0:14:07.91,Gen_Main,Fuchi,0,0,0,,Por otro lado, los métodos\Npara volverse inmortal
+Dialogue: 0,0:14:08.00,0:14:10.37,Gen_Main,Fuchi,0,0,0,,sin importar constitución\No entrenamiento…
+Dialogue: 0,0:14:10.45,0:14:13.29,Gen_Main,Fuchi,0,0,0,,Por ejemplo,\Nintentando crear medicinas,
+Dialogue: 0,0:14:13.37,0:14:14.97,Gen_Main,Fuchi,0,0,0,,se conocen como "Waitan".
+Dialogue: 0,0:14:15.04,0:14:18.25,Gen_Main,Fuchi,0,0,0,,Al parecer,\Nes lo que fabrican los Tensen.
+Dialogue: 0,0:14:18.67,0:14:21.13,Gen_Main,Sagiri/Yuzuriha,0,0,0,,-Eso es…\N-¡El elixir!
+Dialogue: 0,0:14:21.26,0:14:22.91,Gen_Main,Yuzuriha,0,0,0,,¿Existe de verdad?
+Dialogue: 0,0:14:23.01,0:14:25.39,Gen_Main,Fuchi,0,0,0,,Dicen que está\Nen fase de investigación.
+Dialogue: 0,0:14:25.55,0:14:29.39,Gen_Main,Fuchi,0,0,0,,Lo que llaman Tan\Nson prototipos del proceso.
+Dialogue: 0,0:14:29.51,0:14:32.35,Gen_Main,Fuchi,0,0,0,,Recolectan vidas humanas como néctar,
+Dialogue: 0,0:14:32.43,0:14:35.89,Gen_Main,Fuchi,0,0,0,,e ingieren eficientemente Tao,\Nes decir, fuerza vital.
+Dialogue: 0,0:14:36.40,0:14:40.76,Gen_Main,Fuchi,0,0,0,,Es como sumarse a uno mismo\Nlos años de vida robados a otros.
+Dialogue: 0,0:14:41.90,0:14:44.84,Gen_Main,Fuchi,0,0,0,,Los Tensen también\Nalargan su vida con el Tan.
+Dialogue: 0,0:14:44.91,0:14:47.91,Gen_Main,Fuchi,0,0,0,,Su autosuficiencia de Tao\Nno debe ser perfecta.
+Dialogue: 0,0:14:47.99,0:14:52.79,Gen_Main,Fuchi,0,0,0,,Por eso, si pierden\Nmucho Tao de golpe, mueren.
+Dialogue: 0,0:14:53.37,0:14:57.67,Gen_Main,Yuzuriha,0,0,0,,Pero el Tan actual ya les basta, ¿no?
+Dialogue: 0,0:14:57.79,0:15:01.92,Gen_Main,Yuzuriha,0,0,0,,¿Qué planean hacer con un método\Npara que cualquiera sea inmortal?
+Dialogue: 0,0:15:02.67,0:15:04.24,Gen_Main,Mei,0,0,0,,No lo sé.
+Dialogue: 0,0:15:04.34,0:15:07.68,Gen_Main,Mei,0,0,0,,Quizás sea la voluntad\Ndel hechicero Shufu.
+Dialogue: 0,0:15:07.80,0:15:09.04,Gen_Main,Sagiri/Yuzuriha,0,0,0,,-¿Shu…?\N-¿Quién?
+Dialogue: 0,0:15:09.14,0:15:12.91,Gen_Main,Fuchi,0,0,0,,El hechicero que creó\Na los Tensen y la isla.
+Dialogue: 0,0:15:12.97,0:15:16.42,Gen_Main,Fuchi,0,0,0,,Shufu… Es decir, Xu Fu.
+Dialogue: 0,0:15:14.27,0:15:17.27,Cart_A_Tre,CARTEL,0,0,0,,{\c&H070707&\fad(0,700)\bord0\fscx175\fscy175\fry8.02\frx8.8\frz-8.65\fax-0.63\move(515.00,335.04,515.00,-85.43,250,3000)}Xu Fu
+Dialogue: 0,0:15:17.10,0:15:19.69,Gen_Main,Fuchi,0,0,0,,Sirvió al Primer Emperador\Nen la dinastía Qin.
+Dialogue: 0,0:15:19.78,0:15:24.14,Gen_Main,Fuchi,0,0,0,,En busca de la inmortalidad,\Nse llevó a 3000 niños y 100 artesanos
+Dialogue: 0,0:15:24.23,0:15:26.13,Gen_Main,Fuchi,0,0,0,,y partió a los mares del este.
+Dialogue: 0,0:15:26.20,0:15:28.46,Gen_Main,Fuchi,0,0,0,,Desapareció después de eso.
+Dialogue: 0,0:15:28.53,0:15:31.08,Gen_Main,Fuchi,0,0,0,,Es una figura\Nde hace más de mil años.
+Dialogue: 0,0:15:31.16,0:15:35.29,Gen_Main,Fuchi,0,0,0,,Quizás siga investigando\Nen algún lugar de la isla.
+Dialogue: 0,0:15:35.41,0:15:38.42,Gen_Main,Rien (mujer),0,0,0,,Este lugar es un laboratorio\Ny un campo de pruebas.
+Dialogue: 0,0:15:38.67,0:15:45.05,Gen_Main,Rien (mujer),0,0,0,,Un jardín en miniatura\Npara crear y observar la vida eterna.
+Dialogue: 0,0:15:47.38,0:15:52.10,Gen_Main,Chobee,0,0,0,,¿Dices que todos esos monstruos\Nson criaturas artificiales?
+Dialogue: 0,0:15:52.26,0:15:56.23,Gen_Main,Rien (mujer),0,0,0,,Así es. Cada uno tiene\Nun propósito experimental.
+Dialogue: 0,0:15:56.64,0:16:00.07,Gen_Main,Rien (mujer),0,0,0,,Los Hoko sirven para observar\Nla vida cotidiana de los inmortales.
+Dialogue: 0,0:16:00.36,0:16:04.35,Gen_Main,Rien (mujer),0,0,0,,Los Soshin enseñan moralidad a los Hoko,\Ncuyo concepto de la muerte es tenue.
+Dialogue: 0,0:16:04.44,0:16:06.82,Gen_Main,Rien (mujer),0,0,0,,Además, mantienen el orden.
+Dialogue: 0,0:16:07.36,0:16:10.99,Gen_Main,Rien (mujer),0,0,0,,Nosotros tampoco\Nsomos más que creaciones.
+Dialogue: 0,0:16:11.99,0:16:15.73,Gen_Main,Rien (mujer),0,0,0,,Una mezcla del Tao del maestro\Ny el Tao de las flores.
+Dialogue: 0,0:16:15.83,0:16:18.08,Gen_Main,Rien (mujer),0,0,0,,Somos uno\Ny a la vez individuos distintos.
+Dialogue: 0,0:16:18.16,0:16:21.46,Gen_Main,Rien (mujer),0,0,0,,Somos familia y yo mismo.
+Dialogue: 0,0:16:21.92,0:16:24.04,Gen_Main,Chobee,0,0,0,,¿Es tan fácil hacer eso?
+Dialogue: 0,0:16:24.13,0:16:27.95,Gen_Main,Rien (mujer),0,0,0,,No es fácil.\NEl Tao es la fuente de la vida…
+Dialogue: 0,0:16:28.05,0:16:30.28,Gen_Main,Rien (mujer),0,0,0,,No, la fuente de todo.
+Dialogue: 0,0:16:30.34,0:16:35.22,Gen_Main,Rien (mujer),0,0,0,,Lo impregna todo como el polvo\Ny da forma a todo lo que existe.
+Dialogue: 0,0:16:35.43,0:16:40.13,Gen_Main,Rien (mujer),0,0,0,,Ese incienso y el aire\Nson formas del Tao.
+Dialogue: 0,0:16:40.23,0:16:44.84,Gen_Main,Rien (mujer),0,0,0,,Por eso, manipular el Tao equivale\Na manipular los principios del mundo.
+Dialogue: 0,0:16:44.94,0:16:49.36,Gen_Main,Rien (mujer),0,0,0,,Pero a diferencia de lo inorgánico,\Nmanipular la vida es difícil.
+Dialogue: 0,0:16:51.03,0:16:54.62,Gen_Main,Rien (mujer),0,0,0,,Por eso tu Tao es valioso.
+Dialogue: 0,0:16:54.83,0:16:56.62,Gen_Main,Rien (mujer),0,0,0,,Quiero estudiarlo.
+Dialogue: 0,0:16:56.79,0:17:02.38,Gen_Main,Chobee,0,0,0,,¿Me usarás para tu estudio y convertirás\Na todos los de la isla en elixir?
+Dialogue: 0,0:17:02.58,0:17:04.13,Gen_Main,Rien (mujer),0,0,0,,No, te equivocas.
+Dialogue: 0,0:17:04.46,0:17:06.88,Gen_Main,Rien (mujer),0,0,0,,A todos los humanos de Japón.
+Dialogue: 0,0:17:07.21,0:17:08.38,Gen_Main,Chobee,0,0,0,,¿Qué?
+Dialogue: 0,0:17:08.63,0:17:11.24,Gen_Main,Rien (mujer),0,0,0,,Los preparativos ya están listos.
+Dialogue: 0,0:17:11.34,0:17:13.89,Gen_Main,Rien (mujer),0,0,0,,Solo falta un Tan perfecto.
+Dialogue: 0,0:17:14.10,0:17:17.42,Gen_Main,Rien (mujer),0,0,0,,Si cooperas,\Nte dejaré unirte a nosotros.
+Dialogue: 0,0:17:17.52,0:17:22.15,Gen_Main,Rien (mujer),0,0,0,,No como Tan, sino como un camarada\Npara dominar la inmortalidad.
+Dialogue: 0,0:17:23.61,0:17:26.65,Gen_Main Italics,Chobee,0,0,0,,¿Cuál es la opción más inteligente?
+Dialogue: 0,0:17:26.78,0:17:31.28,Gen_Main Italics,Chobee,0,0,0,,En mi estado, no puedo vencerla.\NHuir también será difícil.
+Dialogue: 0,0:17:31.40,0:17:34.53,Gen_Main Italics,Chobee,0,0,0,,¿Qué es lo que debo priorizar más?
+Dialogue: 0,0:17:41.00,0:17:43.31,Gen_Main,Chobee,0,0,0,,Hagamos el arte de la intimidad.
+Dialogue: 0,0:17:43.37,0:17:46.35,Gen_Main,Chobee,0,0,0,,A ver si con eso llego\Na dominar el uso del Tao.
+Dialogue: 0,0:17:46.42,0:17:50.05,Gen_Main,Chobee,0,0,0,,Aunque no me gusta\Ntener a alguien encima.
+Dialogue: 0,0:17:50.17,0:17:53.43,Gen_Main,Rien (mujer),0,0,0,,No te preocupes. Seré amable.
+Dialogue: 0,0:17:53.76,0:17:57.18,Gen_Main Italics,Chobee,0,0,0,,No me resistiré a la situación,\Nme adaptaré.
+Dialogue: 0,0:17:57.31,0:18:00.68,Gen_Main Italics,Chobee,0,0,0,,Me adaptaré y la devoraré.
+Dialogue: 0,0:18:01.23,0:18:03.58,Gen_Main Italics,Chobee,0,0,0,,Espérame, Toma.
+Dialogue: 0,0:18:04.31,0:18:07.82,Gen_Main,Rien (mujer),0,0,0,,Como pensaba, es un Tao magnífico.
+Dialogue: 0,0:18:09.69,0:18:13.70,Gen_Main,Yuzuriha,0,0,0,,O sea, que ese tal Xu Fu\Nes el culpable de todo.
+Dialogue: 0,0:18:15.78,0:18:16.91,Gen_Main,Sagiri,0,0,0,,Esto es…
+Dialogue: 0,0:18:17.24,0:18:20.09,Gen_Main,Fuchi,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:18:20.83,0:18:24.29,Gen_Main,Mei,0,0,0,,Mi cuerpo… incompleto.
+Dialogue: 0,0:18:25.00,0:18:28.84,Gen_Main,Mei,0,0,0,,Cuando uso Tao,\Nla arborificación avanza.
+Dialogue: 0,0:18:28.92,0:18:30.97,Gen_Main,Mei,0,0,0,,No puedo recuperarme sola.
+Dialogue: 0,0:18:31.05,0:18:33.93,Gen_Main,Yuzuriha,0,0,0,,Entonces, si recuperas el Tao\Ncomo Gabimaru…
+Dialogue: 0,0:18:34.01,0:18:35.22,Gen_Main,Mei,0,0,0,,No.
+Dialogue: 0,0:18:35.80,0:18:39.35,Gen_Main,Mei,0,0,0,,Es poco. Circulación, insuficiente.
+Dialogue: 0,0:18:39.43,0:18:43.91,Gen_Main,Mei,0,0,0,,Porque Rien destruyó\Nmi Tanden, mi óvulo.
+Dialogue: 0,0:18:44.81,0:18:47.73,Gen_Main,Sagiri/Mei,0,0,0,,-¿Rien?\N-Rien y yo…
+Dialogue: 0,0:18:47.86,0:18:51.86,Gen_Main,Mei,0,0,0,,fuimos los primeros discípulos\Nque creó el maestro Xu Fu.
+Dialogue: 0,0:18:52.19,0:18:54.61,Gen_Main,Mei,0,0,0,,Pero Rien cambió.
+Dialogue: 0,0:18:55.78,0:18:59.28,Gen_Main,Mei,0,0,0,,Mató a muchos para el Waitan.
+Dialogue: 0,0:19:07.38,0:19:09.22,Gen_Main,Mei,0,0,0,,No pude detenerlo.
+Dialogue: 0,0:19:10.04,0:19:13.38,Gen_Main,Mei,0,0,0,,Hui de Horai…
+Dialogue: 0,0:19:15.26,0:19:17.31,Gen_Main,Hoko,0,0,0,,Lo sabía. Así que era eso.
+Dialogue: 0,0:19:18.76,0:19:21.04,Gen_Main,Sagiri,0,0,0,,Si sigue así, Mei va a…
+Dialogue: 0,0:19:21.51,0:19:23.91,Gen_Main,Hoko,0,0,0,,Usa mi Tao.
+Dialogue: 0,0:19:24.39,0:19:27.51,Gen_Main,Hoko,0,0,0,,Los Tensen manipulan el Tao a voluntad.
+Dialogue: 0,0:19:27.60,0:19:32.77,Gen_Main,Hoko,0,0,0,,Deberías poder extraer el Tao\Nde un ser vivo y hacerlo tuyo.
+Dialogue: 0,0:19:32.86,0:19:34.47,Gen_Main,Fuchi,0,0,0,,¿Es eso posible?
+Dialogue: 0,0:19:35.15,0:19:38.41,Gen_Main,Sagiri/Hoko,0,0,0,,-Pero entonces usted…\N-Está bien.
+Dialogue: 0,0:19:40.16,0:19:43.36,Gen_Main,Hoko,0,0,0,,Mei, yo pronto\Nvoy a convertirme en árbol.
+Dialogue: 0,0:19:44.20,0:19:47.02,Gen_Main,Hoko,0,0,0,,Además, esto es mi expiación.
+Dialogue: 0,0:19:47.12,0:19:48.29,Gen_Main,Fuchi,0,0,0,,¿Expiación?
+Dialogue: 0,0:19:48.54,0:19:51.67,Gen_Main,Hoko,0,0,0,,La conocí hace cientos de años.
+Dialogue: 0,0:19:51.79,0:19:54.55,Gen_Main,Hoko,0,0,0,,Yo tenía esposa y una hija.
+Dialogue: 0,0:19:54.63,0:19:58.28,Gen_Main,Hoko,0,0,0,,Ambas se convirtieron en árbol\Nantes que yo.
+Dialogue: 0,0:19:58.34,0:20:03.51,Gen_Main,Hoko,0,0,0,,Los aldeanos también se transformaron\Npoco a poco y me quedé solo.
+Dialogue: 0,0:20:03.89,0:20:07.02,Gen_Main,Hoko,0,0,0,,Y entonces, llegó ese momento.
+Dialogue: 0,0:20:14.61,0:20:17.28,Gen_Main,Hoko,0,0,0,,Solo tenía su misma edad y aspecto,
+Dialogue: 0,0:20:18.07,0:20:21.42,Gen_Main,Hoko,0,0,0,,pero para mí era mi hija.
+Dialogue: 0,0:20:21.82,0:20:25.12,Gen_Main,Hoko,0,0,0,,Mi hija pequeña.
+Dialogue: 0,0:20:27.29,0:20:33.02,Gen_Main,Hoko,0,0,0,,En el fondo lo sabía.\NSabía que ella era un ser distinto.
+Dialogue: 0,0:20:33.38,0:20:36.73,Gen_Main,Hoko,0,0,0,,Que en realidad quería irse de la isla.
+Dialogue: 0,0:20:38.01,0:20:43.33,Gen_Main,Hoko,0,0,0,,Lo ignoré todo y seguí fingiendo\Nque éramos una familia.
+Dialogue: 0,0:20:43.81,0:20:49.38,Gen_Main,Hoko,0,0,0,,Por favor, perdóname.\NNo te veía a ti, veía a mi hija.
+Dialogue: 0,0:20:50.14,0:20:54.84,Gen_Main,Hoko,0,0,0,,Te arrastré a mi mentira y a mi apego\Ndurante cientos de años.
+Dialogue: 0,0:20:54.94,0:20:59.82,Gen_Main,Hoko,0,0,0,,Es mi única oportunidad de expiarlo.\NPor favor, usa mi vida.
+Dialogue: 0,0:21:03.66,0:21:05.18,Gen_Main,Mei,0,0,0,,No era una mentira.
+Dialogue: 0,0:21:05.74,0:21:08.75,Gen_Main,Mei,0,0,0,,Era como un verdadero hogar.
+Dialogue: 0,0:21:11.08,0:21:13.13,Gen_Main,Mei,0,0,0,,Parecíamos padre e hija.
+Dialogue: 0,0:21:39.91,0:21:42.71,Gen_Main Top,MEI,0,0,0,,{\i1}Biéle, fùqīn.{\i0}\N(Adiós, papá.)
+Dialogue: 0,0:23:10.70,0:23:15.00,Cart_A_Tre,CARTEL,0,0,0,,{\an8\fad(500,0)\fs18\bord1}Traducción: Gekokujou\NPautado: Thomas Benaissa\NEdición: Álvaro Jimeno\NControl de calidad: Nicolás Sepúlveda
+Dialogue: 0,0:23:17.29,0:23:20.97,Gen_Main,Gantetsusai,0,0,0,,¡Señorita! ¡Ha vuelto a encogerse!
+Dialogue: 0,0:23:21.05,0:23:23.55,Gen_Main,Gantetsusai,0,0,0,,Entiendo las circunstancias, pero…
+Dialogue: 0,0:23:23.80,0:23:28.17,Gen_Main,Gantetsusai,0,0,0,,¡Pero si le soy sincero, quería llevarla\Nen el hombro con esa forma!
+Dialogue: 0,0:23:28.26,0:23:30.44,Gen_Main,Nurugai,0,0,0,,Qué escandaloso. ¿Es para tanto?
+Dialogue: 0,0:23:30.51,0:23:33.08,Gen_Main,Gantetsusai,0,0,0,,Lo entenderás\Ncuando seas adulto, mocoso.
+Dialogue: 0,0:23:33.18,0:23:35.60,Gen_Main,Fuchi,0,0,0,,¿Vas a aprender esgrima de ese tipo?
+Dialogue: 0,0:23:37.81,0:23:42.19,Gen_Main,Fuchi,0,0,0,,La herida parece haberse cerrado.\NAunque quizás quede cicatriz.
+Dialogue: 0,0:23:42.28,0:23:45.00,Gen_Main,Toma/Fuchi,0,0,0,,-Gracias.\N-Ahórratelo. No confío en ti.
+Dialogue: 0,0:23:46.90,0:23:49.28,Gen_Main,Shion,0,0,0,,Sigan con lo suyo,\Npero préstenme atención.
+Dialogue: 0,0:23:49.36,0:23:50.83,Gen_Main,Nurugai/Mei,0,0,0,,-Maestro.\N-Maestro.
+Dialogue: 0,0:23:51.03,0:23:54.79,Gen_Main,Shion,0,0,0,,Gabimaru y yo hablamos\Nsobre nuestro próximo movimiento.
+Dialogue: 0,0:23:54.91,0:23:57.64,Gen_Main,Gantetsusai,0,0,0,,¡Oye, Gatomaru!\N¿Por qué decides tú?
+Dialogue: 0,0:23:57.71,0:24:01.28,Gen_Main,Gabimaru/Gantetsusai,0,0,0,,-Soy más apto que tú.\N-¡Baja esos humos!
+Dialogue: 0,0:24:01.38,0:24:04.17,Gen_Main,Shion,0,0,0,,Cielos… No logro unirlos.
+Dialogue: 0,0:24:05.76,0:24:07.05,Gen_Main,Yuzuriha,0,0,0,,¿Eh? ¿Qué pasa?
+Dialogue: 0,0:24:08.05,0:24:09.80,Gen_Main,Mei,0,0,0,,Llegó alguien.
+Dialogue: 0,0:24:10.05,0:24:11.44,Gen_Main,Mei,0,0,0,,Del mar…
+Dialogue: 0,0:24:11.51,0:24:15.35,Gen_Main,Mei,0,0,0,,Tao, muy grandes y muchos.
+Dialogue: 0,0:24:15.43,0:24:17.06,Gen_Main,Yuzuriha,0,0,0,,¿Es un grupo grande?
+Dialogue: 0,0:24:17.14,0:24:19.60,Gen_Main,Mei,0,0,0,,No lo sé, pero…
+Dialogue: 0,0:24:21.81,0:24:24.18,Gen_Main,Mei,0,0,0,,Es muy fuerte.
