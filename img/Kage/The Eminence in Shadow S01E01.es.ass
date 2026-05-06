@@ -29,10 +29,10 @@ Style: Style,Arial,24,&H00FFFFFF,&H00000000,&H00000000,&H37000000,0,0,0,0,100,10
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:23.53,0:00:25.86,Gen_Main,,0,0,0,,Debo haberme quedado dormida.
-Dialogue: 0,0:00:27.36,0:00:27.41,Style,,0,0,0,,{\be1\fs33.333\fnGabriola\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(131.81,144.763)}Buscando a Darwin
-Dialogue: 0,0:00:27.41,0:00:27.53,Style,,0,0,0,,{\be1\fs33.333\fnGabriola\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(137.523,146.667)}Buscando a Darwin
-Dialogue: 0,0:00:27.53,0:00:27.66,Style,,0,0,0,,{\be1\fs33.333\fnGabriola\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(140.19,147.81)}Buscando a Darwin
-Dialogue: 0,0:00:27.66,0:00:29.91,Style,,0,0,0,,{\be1\fs33.333\fnGabriola\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(140.253,149.653)}Buscando a Darwin
+Dialogue: 0,0:00:27.36,0:00:27.41,Style,,0,0,0,,{\be1\fs33.333\fnArial\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(131.81,144.763)}Buscando a Darwin
+Dialogue: 0,0:00:27.41,0:00:27.53,Style,,0,0,0,,{\be1\fs33.333\fnArial\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(137.523,146.667)}Buscando a Darwin
+Dialogue: 0,0:00:27.53,0:00:27.66,Style,,0,0,0,,{\be1\fs33.333\fnArial\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(140.19,147.81)}Buscando a Darwin
+Dialogue: 0,0:00:27.66,0:00:29.91,Style,,0,0,0,,{\be1\fs33.333\fnArial\org(42,78)\fry2.26\frx2.34\frz16.00\c&H654521&\pos(140.253,149.653)}Buscando a Darwin
 Dialogue: 0,0:01:11.90,0:01:12.90,Gen_Main,,0,0,0,,¿Señorita?
 Dialogue: 0,0:01:20.94,0:01:22.15,Gen_Main,,0,0,0,,No es nada.
 Dialogue: 0,0:01:24.65,0:01:25.86,Gen_Main,,0,0,0,,Vamos.
