@@ -17,217 +17,217 @@ Video Position: 19847
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,61,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,110,0,0,1,3.75001,0,2,51,51,38,1
+Style: Des_Main,Arial,72,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,40,40,60,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.99,0:00:04.74,Default,,0,0,0,,Ugh... No puedo moverme...
-Dialogue: 0,0:00:06.08,0:00:08.20,Default,,0,0,0,,No sirve, no sirve.
-Dialogue: 0,0:00:08.20,0:00:09.99,Default,,0,0,0,,Ya no puedes escapar.
-Dialogue: 0,0:00:10.03,0:00:11.70,Default,,0,0,0,,Tú...
-Dialogue: 0,0:00:11.70,0:00:12.74,Default,,0,0,0,,¡Duele!
-Dialogue: 0,0:00:12.99,0:00:14.87,Default,,0,0,0,,Lima Grimalkin.
-Dialogue: 0,0:00:14.87,0:00:17.78,Default,,0,0,0,,Como puedes ver, soy una súcubo.
-Dialogue: 0,0:00:17.78,0:00:29.49,Default,,0,0,0,,Iku Iku Súcubo: Reeducación\NEl Diario de Estudios en el Extranjero de una Súcubo Fallida
-Dialogue: 0,0:00:29.58,0:00:36.70,Default,,0,0,0,,Como instructor, fuiste elegido por el personal de élite.
-Dialogue: 0,0:00:36.70,0:00:38.66,Default,,0,0,0,,Busujima Tanehisa.
-Dialogue: 0,0:00:38.66,0:00:41.24,Default,,0,0,0,,¿Qué? ¿Fui elegido?
-Dialogue: 0,0:00:41.24,0:00:43.24,Default,,0,0,0,,¿Por qué?
-Dialogue: 0,0:00:43.49,0:00:46.49,Default,,0,0,0,,¿No es obvio?
-Dialogue: 0,0:00:49.58,0:00:52.99,Default,,0,0,0,,¡Oye! ¡Espera!
-Dialogue: 0,0:00:52.99,0:01:00.99,Default,,0,0,0,,Hablo de tu gran pene\Ny tu vitalidad extraordinaria.
-Dialogue: 0,0:01:03.83,0:01:10.99,Default,,0,0,0,,Ya sea por tamaño, dureza o grosor,\Ntú tienes el mejor pene.
-Dialogue: 0,0:01:12.83,0:01:15.82,Default,,0,0,0,,¿Qué me estás haciendo de repente?
-Dialogue: 0,0:01:17.99,0:01:19.99,Default,,0,0,0,,No es de repente.
-Dialogue: 0,0:01:19.99,0:01:26.74,Default,,0,0,0,,Solo porque ustedes humanos no lo notaron,\Nhemos construido muchos túneles en este mundo.
-Dialogue: 0,0:01:26.74,0:01:28.95,Default,,0,0,0,,Y también en esta escuela.
-Dialogue: 0,0:01:28.99,0:01:32.12,Default,,0,0,0,,¿Qué?
-Dialogue: 0,0:01:40.99,0:01:47.24,Default,,0,0,0,,Este mundo necesita el cuerpo de una súcubo\Npara evitar la extinción.
-Dialogue: 0,0:01:47.24,0:01:54.20,Default,,0,0,0,,Necesitamos semen humano para sobrevivir.
-Dialogue: 0,0:01:54.20,0:01:58.99,Default,,0,0,0,,Ambos necesitamos lo mismo.
-Dialogue: 0,0:01:58.99,0:02:02.99,Default,,0,0,0,,En otras palabras, tenemos una relación ganar-ganar.
-Dialogue: 0,0:02:06.32,0:02:07.99,Default,,0,0,0,,¿Qué tal? ¿Cómo está?
-Dialogue: 0,0:02:07.99,0:02:11.37,Default,,0,0,0,,Mi trabajo de pies es bastante bueno.
-Dialogue: 0,0:02:11.37,0:02:15.99,Default,,0,0,0,,Deberías disfrutar mientras\Nlloras de alegría.
-Dialogue: 0,0:02:17.99,0:02:19.99,Default,,0,0,0,,Espera, espera, espera.
-Dialogue: 0,0:02:19.99,0:02:23.82,Default,,0,0,0,,¡No lo hagas tan fuerte!
-Dialogue: 0,0:02:25.99,0:02:26.99,Default,,0,0,0,,Vamos, vamos.
-Dialogue: 0,0:02:26.99,0:02:29.99,Default,,0,0,0,,¡Estás tan disciplinado!
-Dialogue: 0,0:02:29.99,0:02:32.99,Default,,0,0,0,,¡Tu pene está tan caliente!
-Dialogue: 0,0:02:33.99,0:02:39.99,Default,,0,0,0,,Sigues tan enérgico después de correrte tanto.
-Dialogue: 0,0:02:39.99,0:02:41.99,Default,,0,0,0,,¿¡Qué le hiciste a mi pene?!
-Dialogue: 0,0:02:41.99,0:02:43.82,Default,,0,0,0,,Ten más cuidado.
-Dialogue: 0,0:02:43.82,0:02:45.95,Default,,0,0,0,,Relájate.
-Dialogue: 0,0:02:45.99,0:02:52.07,Default,,0,0,0,,Tu pene fue elegido como el instructor\Nde la Súcubo Fallida.
-Dialogue: 0,0:02:52.07,0:02:54.99,Default,,0,0,0,,No es tan fácil escapar.
-Dialogue: 0,0:02:54.99,0:02:57.28,Default,,0,0,0,,¿S-Súcubo Fallida?
-Dialogue: 0,0:02:57.28,0:02:57.99,Default,,0,0,0,,Sí.
-Dialogue: 0,0:02:57.99,0:03:03.45,Default,,0,0,0,,Son las que tienen el conocimiento,\Nla experiencia y la conciencia de una súcubo.
-Dialogue: 0,0:03:03.45,0:03:09.99,Default,,0,0,0,,Están bendecidas con estas cualidades, pero nunca\Nhan absorbido la energía del semen humano.
-Dialogue: 0,0:03:09.99,0:03:13.24,Default,,0,0,0,,En otras palabras, vírgenes.
-Dialogue: 0,0:03:13.24,0:03:14.99,Default,,0,0,0,,Exacto.
-Dialogue: 0,0:03:14.99,0:03:18.99,Default,,0,0,0,,Estoy tan emocionada de tener tu pene.
-Dialogue: 0,0:03:18.99,0:03:23.99,Default,,0,0,0,,Tu misión es enseñarles a estas\Nchicas la alegría del pene.
-Dialogue: 0,0:03:23.99,0:03:28.12,Default,,0,0,0,,Y hacer que disfrutes la alegría\Nde exprimir el semen.
-Dialogue: 0,0:03:28.12,0:03:29.99,Default,,0,0,0,,Entiendo.
-Dialogue: 0,0:03:29.99,0:03:33.45,Default,,0,0,0,,Entonces, eres una súcubo.
-Dialogue: 0,0:03:33.45,0:03:35.91,Default,,0,0,0,,¡Estás palpitando otra vez!
-Dialogue: 0,0:03:35.99,0:03:38.99,Default,,0,0,0,,Tal como esperaba.
-Dialogue: 0,0:03:39.99,0:03:42.99,Default,,0,0,0,,¡Ese pene se ve delicioso!
-Dialogue: 0,0:03:42.99,0:03:46.99,Default,,0,0,0,,Si eres tan grande, mi vagina te devorará.
-Dialogue: 0,0:03:46.99,0:03:50.99,Default,,0,0,0,,¡Me estás usando como juguete sexual!
-Dialogue: 0,0:03:50.99,0:03:56.99,Default,,0,0,0,,Si mi vagina te devora,\N¡podrías perder tu pene!
-Dialogue: 0,0:03:56.99,0:04:02.99,Default,,0,0,0,,Estoy tan excitada que mi vagina\Nte va a tragar entero. ¡No lo soporto!
-Dialogue: 0,0:04:05.99,0:04:08.87,Default,,0,0,0,,¡Corriéndome!
-Dialogue: 0,0:04:08.87,0:04:13.87,Default,,0,0,0,,La vagina de una súcubo podría valerlo todo.
-Dialogue: 0,0:04:16.83,0:04:22.82,Default,,0,0,0,,Y así, asumí el entrenamiento de la súcubo.
-Dialogue: 0,0:04:26.70,0:04:28.99,Default,,0,0,0,,¿Eh? ¿Tú eres el instructor?
-Dialogue: 0,0:04:28.99,0:04:30.99,Default,,0,0,0,,E-Eres humano, ¿verdad?
-Dialogue: 0,0:04:30.99,0:04:32.99,Default,,0,0,0,,No me hagas reír.
-Dialogue: 0,0:04:32.99,0:04:36.99,Default,,0,0,0,,Nosotras, las súcubos, no aprendemos de humanos.
-Dialogue: 0,0:04:36.99,0:04:38.99,Default,,0,0,0,,Qué estúpido.
-Dialogue: 0,0:04:38.99,0:04:44.99,Default,,0,0,0,,Instructor, me gustaría que me mostraras\Nel Shibuya Sweets Cafe.
-Dialogue: 0,0:04:44.99,0:04:46.20,Default,,0,0,0,,¿Eh?
-Dialogue: 0,0:04:46.20,0:04:53.99,Default,,0,0,0,,Ya que estamos aquí, deberíamos aspirar a ser influencers.
-Dialogue: 0,0:04:53.99,0:05:00.16,Default,,0,0,0,,Sus cuerpos son increíbles, pero\Nambas son difíciles de manejar.
-Dialogue: 0,0:05:00.28,0:05:02.99,Default,,0,0,0,,¿Podría ser que estas dos son...?
-Dialogue: 0,0:05:02.99,0:05:06.87,Default,,0,0,0,,Exacto, Iko Baikon y Rukorux.
-Dialogue: 0,0:05:06.87,0:05:10.99,Default,,0,0,0,,Ellas son las súcubos que entrenarás.
-Dialogue: 0,0:05:12.99,0:05:17.99,Default,,0,0,0,,¡No hago esto porque me guste!
-Dialogue: 0,0:05:17.99,0:05:21.99,Default,,0,0,0,,Iko, dijiste que no eras buena con la magia.
-Dialogue: 0,0:05:21.99,0:05:23.57,Default,,0,0,0,,Tú eres igual.
-Dialogue: 0,0:05:23.58,0:05:27.99,Default,,0,0,0,,Solo estoy siendo castigada porque\Nsoy hija de un orco.
-Dialogue: 0,0:05:27.99,0:05:30.99,Default,,0,0,0,,Oh, qué excusa tan terrible.
-Dialogue: 0,0:05:30.99,0:05:34.99,Default,,0,0,0,,La familia Baikon es tan astuta.
-Dialogue: 0,0:05:34.99,0:05:36.99,Default,,0,0,0,,¿Qué es esto?
-Dialogue: 0,0:05:36.99,0:05:38.99,Default,,0,0,0,,¡Eres tan falsa!
-Dialogue: 0,0:05:38.99,0:05:40.99,Default,,0,0,0,,¿No vas a mostrar tu verdadero rostro?
-Dialogue: 0,0:05:40.99,0:05:41.99,Default,,0,0,0,,Vaya, vaya.
-Dialogue: 0,0:05:41.99,0:05:44.99,Default,,0,0,0,,No hay remedio.
-Dialogue: 0,0:05:45.28,0:05:46.28,Default,,0,0,0,,Entonces...
-Dialogue: 0,0:05:53.99,0:05:55.99,Default,,0,0,0,,¿Q-Qué es esto?
-Dialogue: 0,0:05:55.99,0:05:58.99,Default,,0,0,0,,¡Es un disfraz humano!
-Dialogue: 0,0:05:58.99,0:06:03.12,Default,,0,0,0,,¡Esto es tan ajustado, qué diseño!
-Dialogue: 0,0:06:03.12,0:06:04.99,Default,,0,0,0,,¡Muy bien, chicos!
-Dialogue: 0,0:06:04.99,0:06:08.99,Default,,0,0,0,,Tendrán que vestirse así\Ndurante este periodo de estudios en el extranjero.
-Dialogue: 0,0:06:08.99,0:06:10.78,Default,,0,0,0,,¡De ninguna manera!
-Dialogue: 0,0:06:10.78,0:06:17.99,Default,,0,0,0,,Escuchen, ustedes tienen grandes cualidades,\Npero aún no pueden usar la magia correctamente.
-Dialogue: 0,0:06:17.99,0:06:19.91,Default,,0,0,0,,Qué presumidas.
-Dialogue: 0,0:06:19.99,0:06:26.91,Default,,0,0,0,,¡Estos estudios en el extranjero son necesarios\Npara despertar su talento dormido!
-Dialogue: 0,0:06:26.91,0:06:30.82,Default,,0,0,0,,Oye, ¿qué es esa campana?
-Dialogue: 0,0:06:30.83,0:06:31.91,Default,,0,0,0,,Es una campana azul.
-Dialogue: 0,0:06:31.99,0:06:33.91,Default,,0,0,0,,¿Campana azul?
-Dialogue: 0,0:06:33.91,0:06:39.74,Default,,0,0,0,,Si usas magia con esto, ninguna\Nsúcubo puede resistirse.
-Dialogue: 0,0:06:39.74,0:06:43.70,Default,,0,0,0,,Esto es algo especial que preparé para ustedes dos.
-Dialogue: 0,0:06:43.70,0:06:45.78,Default,,0,0,0,,Toma.
-Dialogue: 0,0:06:45.78,0:06:49.99,Default,,0,0,0,,Oye, si es algo tan bueno, yo...
-Dialogue: 0,0:06:49.99,0:06:53.87,Default,,0,0,0,,Por supuesto, lo preparé para ti.
-Dialogue: 0,0:06:53.87,0:06:58.99,Default,,0,0,0,,Si no, un humano no podría\Ninstruir a súcubos.
-Dialogue: 0,0:06:58.99,0:07:03.87,Default,,0,0,0,,¡Maldita sea! ¡No juegues conmigo!
-Dialogue: 0,0:07:03.87,0:07:06.99,Default,,0,0,0,,No te perdonaré por tu\Nrebelión. Esto es una orden.
-Dialogue: 0,0:07:06.99,0:07:10.99,Default,,0,0,0,,¡M-Maldita sea!
-Dialogue: 0,0:07:10.99,0:07:16.62,Default,,0,0,0,,Entonces, si tengo esto, ¿harás lo que quiera?
-Dialogue: 0,0:07:16.62,0:07:18.99,Default,,0,0,0,,No lo soporto.
-Dialogue: 0,0:07:19.03,0:07:23.49,Default,,0,0,0,,Espero que ustedes dos no busquen vengarse después.
-Dialogue: 0,0:07:23.49,0:07:26.99,Default,,0,0,0,,Entonces, comencemos la lección.
-Dialogue: 0,0:07:27.20,0:07:29.99,Default,,0,0,0,,Iko Baikon.
-Dialogue: 0,0:07:29.99,0:07:33.99,Default,,0,0,0,,¡Ah! ¡Para! ¡No!
-Dialogue: 0,0:07:33.99,0:07:37.99,Default,,0,0,0,,¡Maldita sea! ¡No puedo! ¡No puedo\Nponer fuerza en mi cuerpo!
-Dialogue: 0,0:07:37.99,0:07:41.99,Default,,0,0,0,,¡Una súcubo está siendo atacada por un humano!
-Dialogue: 0,0:07:41.99,0:07:43.95,Default,,0,0,0,,Qué erótica eres.
-Dialogue: 0,0:07:43.95,0:07:48.99,Default,,0,0,0,,Es difícil respirar con este uniforme, ¿verdad?
-Dialogue: 0,0:07:48.99,0:07:54.99,Default,,0,0,0,,¡Suéltame! ¡Suéltame! ¿No sientes este pezón?
-Dialogue: 0,0:07:54.99,0:07:56.99,Default,,0,0,0,,¡De ninguna manera!
-Dialogue: 0,0:07:56.99,0:08:01.78,Default,,0,0,0,,¡Maldita sea! ¡No siento nada con esto!
-Dialogue: 0,0:08:01.78,0:08:04.74,Default,,0,0,0,,¿Es así?
-Dialogue: 0,0:08:04.74,0:08:07.99,Default,,0,0,0,,Entonces, ¿por qué están tus pezones tan duros?
-Dialogue: 0,0:08:07.99,0:08:10.37,Default,,0,0,0,,¡No juegues conmigo!
-Dialogue: 0,0:08:10.37,0:08:13.62,Default,,0,0,0,,Ya no lo soporto.
-Dialogue: 0,0:08:13.62,0:08:16.70,Default,,0,0,0,,Oye, Iko, vas a acariciar mi pene.
-Dialogue: 0,0:08:16.70,0:08:20.99,Default,,0,0,0,,¡Ah! ¡Idiota! ¡No haré eso!
-Dialogue: 0,0:08:20.99,0:08:22.99,Default,,0,0,0,,Te di una orden.
-Dialogue: 0,0:08:22.99,0:08:26.62,Default,,0,0,0,,Puedo tocar la campana otra vez.
-Dialogue: 0,0:08:26.62,0:08:28.99,Default,,0,0,0,,Eso es...
-Dialogue: 0,0:08:28.99,0:08:30.66,Default,,0,0,0,,Sucio.
-Dialogue: 0,0:08:33.03,0:08:37.28,Default,,0,0,0,,Eres tan buena tocándome\Naunque es tu primera vez.
-Dialogue: 0,0:08:37.28,0:08:40.87,Default,,0,0,0,,Te haré pagar por esto después.
-Dialogue: 0,0:08:40.87,0:08:42.49,Default,,0,0,0,,Recuérdalo.
-Dialogue: 0,0:08:42.49,0:08:46.62,Default,,0,0,0,,¿Cuánto tiempo puedes seguir siendo tan dura?
-Dialogue: 0,0:08:46.62,0:08:50.24,Default,,0,0,0,,¡P-Para! ¡No me toques!
-Dialogue: 0,0:08:50.24,0:08:53.82,Default,,0,0,0,,Oye, oye, qué sucia eres.
-Dialogue: 0,0:08:53.82,0:08:55.99,Default,,0,0,0,,¡No, no! Para.
-Dialogue: 0,0:08:56.03,0:08:58.99,Default,,0,0,0,,¿Quién querría estar\Ncon un viejo feo como tú?
-Dialogue: 0,0:08:58.99,0:09:02.99,Default,,0,0,0,,¿Por qué odias tanto el sexo?
-Dialogue: 0,0:09:02.99,0:09:04.45,Default,,0,0,0,,¿Tienes miedo?
-Dialogue: 0,0:09:04.45,0:09:06.99,Default,,0,0,0,,¡No, no!
-Dialogue: 0,0:09:10.49,0:09:11.99,Default,,0,0,0,,Estás tan mojada.
-Dialogue: 0,0:09:11.99,0:09:15.70,Default,,0,0,0,,Debes amar el sexo.
-Dialogue: 0,0:09:15.70,0:09:17.87,Default,,0,0,0,,¡No, no!
-Dialogue: 0,0:09:23.57,0:09:27.57,Default,,0,0,0,,Vamos, saca la lengua.
-Dialogue: 0,0:09:28.99,0:09:33.99,Default,,0,0,0,,¿Qué harás? Retuerce más tu lengua.
-Dialogue: 0,0:09:33.99,0:09:37.99,Default,,0,0,0,,Excítame besando como si fueras mi amante.
-Dialogue: 0,0:09:37.99,0:09:40.66,Default,,0,0,0,,¿De qué estás hablando?
-Dialogue: 0,0:09:40.66,0:09:43.78,Default,,0,0,0,,Para. Eso es pervertido.
-Dialogue: 0,0:09:43.78,0:09:45.99,Default,,0,0,0,,¿Pervertido?
-Dialogue: 0,0:09:45.99,0:09:48.66,Default,,0,0,0,,Ya veo.
-Dialogue: 0,0:09:48.66,0:09:55.99,Default,,0,0,0,,¿Para una súcubo, ser amante o tener\Namor puro parece pervertido?
-Dialogue: 0,0:09:55.99,0:09:58.99,Default,,0,0,0,,Esto es interesante.
-Dialogue: 0,0:10:03.07,0:10:04.16,Default,,0,0,0,,¡No!
-Dialogue: 0,0:10:04.20,0:10:07.20,Default,,0,0,0,,No arruines mi cuerpo.
-Dialogue: 0,0:10:07.20,0:10:09.99,Default,,0,0,0,,Mi pene es grande.
-Dialogue: 0,0:10:09.99,0:10:13.12,Default,,0,0,0,,Tengo que aflojarlo.
-Dialogue: 0,0:10:13.12,0:10:17.37,Default,,0,0,0,,Mira, mira, se está aflojando.
-Dialogue: 0,0:10:17.37,0:10:20.99,Default,,0,0,0,,Puedo sentir tus entrañas con las yemas de los dedos.
-Dialogue: 0,0:10:20.99,0:10:24.95,Default,,0,0,0,,¡No!
-Dialogue: 0,0:10:24.95,0:10:26.99,Default,,0,0,0,,Bien, estás lista.
-Dialogue: 0,0:10:26.99,0:10:29.70,Default,,0,0,0,,Empecemos el entrenamiento.
-Dialogue: 0,0:10:31.82,0:10:37.99,Default,,0,0,0,,No, está tan caliente, mi vagina está tan caliente.
-Dialogue: 0,0:10:37.99,0:10:40.78,Default,,0,0,0,,¡No, no! Saca eso.
-Dialogue: 0,0:10:40.78,0:10:43.82,Default,,0,0,0,,¡No metas tu pene!
-Dialogue: 0,0:10:43.82,0:10:45.99,Default,,0,0,0,,¡No lo sacaré!
-Dialogue: 0,0:10:45.99,0:10:48.37,Default,,0,0,0,,¡Seré yo quien haga esta vagina mía!
-Dialogue: 0,0:10:48.37,0:10:50.20,Default,,0,0,0,,¿De qué estás hablando?
-Dialogue: 0,0:10:50.20,0:10:53.74,Default,,0,0,0,,No voy a ser tuya.
-Dialogue: 0,0:10:53.74,0:10:57.74,Default,,0,0,0,,¡Maldito pervertido! ¡No!
-Dialogue: 0,0:10:58.57,0:11:00.12,Default,,0,0,0,,¿Qué estás haciendo?
-Dialogue: 0,0:11:00.12,0:11:02.99,Default,,0,0,0,,Estás gritando bastante.
-Dialogue: 0,0:11:02.99,0:11:07.41,Default,,0,0,0,,Estás sintiendo mi pene, ¿verdad?
-Dialogue: 0,0:11:07.41,0:11:09.82,Default,,0,0,0,,Esto es malo, muy malo.
-Dialogue: 0,0:11:09.82,0:11:11.66,Default,,0,0,0,,¡No hagas esto a mi vagina!
-Dialogue: 0,0:11:11.66,0:11:13.82,Default,,0,0,0,,Idiota.
-Dialogue: 0,0:11:19.70,0:11:23.99,Default,,0,0,0,,¡La punta de tu pene se está haciendo aún más grande!
-Dialogue: 0,0:11:23.99,0:11:31.99,Default,,0,0,0,,¡Es increíble, tan increíble,\Nmi vagina se está volviendo loca!
-Dialogue: 0,0:11:31.99,0:11:35.99,Default,,0,0,0,,¡Voy a hacer que nunca pienses\Nen otro pene que no sea el mío!
-Dialogue: 0,0:11:35.99,0:11:39.41,Default,,0,0,0,,¡Voy a convertirte en una súcubo pervertida!
-Dialogue: 0,0:11:39.41,0:11:42.87,Default,,0,0,0,,¡No, para! ¡Para!
-Dialogue: 0,0:11:42.87,0:11:47.70,Default,,0,0,0,,¡Vas a convertirme en una pervertida con ese pene!
-Dialogue: 0,0:11:47.70,0:11:49.99,Default,,0,0,0,,¿De qué estás hablando?
-Dialogue: 0,0:11:49.99,0:11:55.53,Default,,0,0,0,,¡En realidad amas este sexo pervertido\Nde amantes, ¿verdad?!
-Dialogue: 0,0:11:55.53,0:11:58.45,Default,,0,0,0,,No, no es así.
-Dialogue: 0,0:11:58.45,0:12:04.07,Default,,0,0,0,,¡Soy una persona orgullosa, no caería\Npor unas perversiones!
-Dialogue: 0,0:12:05.99,0:12:09.99,Default,,0,0,0,,¿Por qué? ¿Qué debo hacer? Esto es malo.
-Dialogue: 0,0:12:09.99,0:12:15.28,Default,,0,0,0,,¡Esto no está bien, no!
-Dialogue: 0,0:12:17.32,0:12:23.99,Default,,0,0,0,,Lo has dicho un millón de veces. ¡Entonces hagámoslo!
-Dialogue: 0,0:12:23.99,0:12:27.78,Default,,0,0,0,,¡Lo tienes, tienes razón, soy una amante pervertida!
-Dialogue: 0,0:12:27.78,0:12:32.99,Default,,0,0,0,,¡Voy a seguir corriéndome!
-Dialogue: 0,0:12:32.99,0:12:34.99,Default,,0,0,0,,La próxima vez te correrás conmigo.
-Dialogue: 0,0:12:34.99,0:12:37.53,Default,,0,0,0,,Como si fueras mi novia.
-Dialogue: 0,0:12:37.53,0:12:42.78,Default,,0,0,0,,Un amante así es demasiado pervertido.
-Dialogue: 0,0:12:44.99,0:12:52.07,Default,,0,0,0,,Exacto. ¡Mi pene va a crear una pervertida total!
-Dialogue: 0,0:12:52.07,0:12:54.49,Default,,0,0,0,,¡No!
-Dialogue: 0,0:12:54.49,0:13:01.57,Default,,0,0,0,,¡Voy a correrme otra vez! ¡Mi vagina\Nse siente demasiado bien, me estoy corriendo!
-Dialogue: 0,0:13:05.57,0:13:11.07,Default,,0,0,0,,Oh no, el sexo se siente demasiado bien.
-Dialogue: 0,0:13:13.53,0:13:17.53,Default,,0,0,0,,Eso es malo, tal vez me emocioné un poco demasiado.
-Dialogue: 0,0:13:17.57,0:13:23.99,Default,,0,0,0,,Pero eres una súcubo, ¿realmente estás tan cansada?
-Dialogue: 0,0:13:46.70,0:13:53.66,Default,,0,0,0,,Vamos, más, ¡más, más! Vierte\Ntu semen en mi cuerpo.
-Dialogue: 0,0:13:53.66,0:13:58.62,Default,,0,0,0,,Aunque estás durmiendo,\Ntodavía estás erecto así.
-Dialogue: 0,0:13:58.62,0:14:03.49,Default,,0,0,0,,Quieres estar en mi vagina, ¿verdad?
-Dialogue: 0,0:14:03.49,0:14:05.99,Default,,0,0,0,,¿Qué pasa con esa mirada de dolor?
-Dialogue: 0,0:14:05.99,0:14:08.32,Default,,0,0,0,,Te gusta que froten tu pene, ¿verdad?
-Dialogue: 0,0:14:08.32,0:14:09.95,Default,,0,0,0,,Se siente bien, ¿no?
-Dialogue: 0,0:14:09.99,0:14:14.70,Default,,0,0,0,,¡Entonces lo haré más emocionante!
-Dialogue: 0,0:14:16.57,0:14:17.82,Default,,0,0,0,,Eso es genial.
-Dialogue: 0,0:14:17.82,0:14:20.66,Default,,0,0,0,,Eso es lo mejor.
-Dialogue: 0,0:14:20.99,0:14:21.99,Default,,0,0,0,,Exacto.
-Dialogue: 0,0:14:21.99,0:14:26.99,Default,,0,0,0,,Así es como expulsas tu semen.
-Dialogue: 0,0:14:27.03,0:14:29.87,Default,,0,0,0,,No puedo parar.
+Dialogue: 0,0:00:00.99,0:00:04.74,Des_Main,,0,0,0,,Ugh... No puedo moverme...
+Dialogue: 0,0:00:06.08,0:00:08.20,Des_Main,,0,0,0,,No sirve, no sirve.
+Dialogue: 0,0:00:08.20,0:00:09.99,Des_Main,,0,0,0,,Ya no puedes escapar.
+Dialogue: 0,0:00:10.03,0:00:11.70,Des_Main,,0,0,0,,Tú...
+Dialogue: 0,0:00:11.70,0:00:12.74,Des_Main,,0,0,0,,¡Duele!
+Dialogue: 0,0:00:12.99,0:00:14.87,Des_Main,,0,0,0,,Lima Grimalkin.
+Dialogue: 0,0:00:14.87,0:00:17.78,Des_Main,,0,0,0,,Como puedes ver, soy una súcubo.
+Dialogue: 0,0:00:17.78,0:00:29.49,Des_Main,,0,0,0,,Iku Iku Súcubo: Reeducación\NEl Diario de Estudios en el Extranjero de una Súcubo Fallida
+Dialogue: 0,0:00:29.58,0:00:36.70,Des_Main,,0,0,0,,Como instructor, fuiste elegido por el personal de élite.
+Dialogue: 0,0:00:36.70,0:00:38.66,Des_Main,,0,0,0,,Busujima Tanehisa.
+Dialogue: 0,0:00:38.66,0:00:41.24,Des_Main,,0,0,0,,¿Qué? ¿Fui elegido?
+Dialogue: 0,0:00:41.24,0:00:43.24,Des_Main,,0,0,0,,¿Por qué?
+Dialogue: 0,0:00:43.49,0:00:46.49,Des_Main,,0,0,0,,¿No es obvio?
+Dialogue: 0,0:00:49.58,0:00:52.99,Des_Main,,0,0,0,,¡Oye! ¡Espera!
+Dialogue: 0,0:00:52.99,0:01:00.99,Des_Main,,0,0,0,,Hablo de tu gran pene\Ny tu vitalidad extraordinaria.
+Dialogue: 0,0:01:03.83,0:01:10.99,Des_Main,,0,0,0,,Ya sea por tamaño, dureza o grosor,\Ntú tienes el mejor pene.
+Dialogue: 0,0:01:12.83,0:01:15.82,Des_Main,,0,0,0,,¿Qué me estás haciendo de repente?
+Dialogue: 0,0:01:17.99,0:01:19.99,Des_Main,,0,0,0,,No es de repente.
+Dialogue: 0,0:01:19.99,0:01:26.74,Des_Main,,0,0,0,,Solo porque ustedes humanos no lo notaron,\Nhemos construido muchos túneles en este mundo.
+Dialogue: 0,0:01:26.74,0:01:28.95,Des_Main,,0,0,0,,Y también en esta escuela.
+Dialogue: 0,0:01:28.99,0:01:32.12,Des_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:01:40.99,0:01:47.24,Des_Main,,0,0,0,,Este mundo necesita el cuerpo de una súcubo\Npara evitar la extinción.
+Dialogue: 0,0:01:47.24,0:01:54.20,Des_Main,,0,0,0,,Necesitamos semen humano para sobrevivir.
+Dialogue: 0,0:01:54.20,0:01:58.99,Des_Main,,0,0,0,,Ambos necesitamos lo mismo.
+Dialogue: 0,0:01:58.99,0:02:02.99,Des_Main,,0,0,0,,En otras palabras, tenemos una relación ganar-ganar.
+Dialogue: 0,0:02:06.32,0:02:07.99,Des_Main,,0,0,0,,¿Qué tal? ¿Cómo está?
+Dialogue: 0,0:02:07.99,0:02:11.37,Des_Main,,0,0,0,,Mi trabajo de pies es bastante bueno.
+Dialogue: 0,0:02:11.37,0:02:15.99,Des_Main,,0,0,0,,Deberías disfrutar mientras\Nlloras de alegría.
+Dialogue: 0,0:02:17.99,0:02:19.99,Des_Main,,0,0,0,,Espera, espera, espera.
+Dialogue: 0,0:02:19.99,0:02:23.82,Des_Main,,0,0,0,,¡No lo hagas tan fuerte!
+Dialogue: 0,0:02:25.99,0:02:26.99,Des_Main,,0,0,0,,Vamos, vamos.
+Dialogue: 0,0:02:26.99,0:02:29.99,Des_Main,,0,0,0,,¡Estás tan disciplinado!
+Dialogue: 0,0:02:29.99,0:02:32.99,Des_Main,,0,0,0,,¡Tu pene está tan caliente!
+Dialogue: 0,0:02:33.99,0:02:39.99,Des_Main,,0,0,0,,Sigues tan enérgico después de correrte tanto.
+Dialogue: 0,0:02:39.99,0:02:41.99,Des_Main,,0,0,0,,¿¡Qué le hiciste a mi pene?!
+Dialogue: 0,0:02:41.99,0:02:43.82,Des_Main,,0,0,0,,Ten más cuidado.
+Dialogue: 0,0:02:43.82,0:02:45.95,Des_Main,,0,0,0,,Relájate.
+Dialogue: 0,0:02:45.99,0:02:52.07,Des_Main,,0,0,0,,Tu pene fue elegido como el instructor\Nde la Súcubo Fallida.
+Dialogue: 0,0:02:52.07,0:02:54.99,Des_Main,,0,0,0,,No es tan fácil escapar.
+Dialogue: 0,0:02:54.99,0:02:57.28,Des_Main,,0,0,0,,¿S-Súcubo Fallida?
+Dialogue: 0,0:02:57.28,0:02:57.99,Des_Main,,0,0,0,,Sí.
+Dialogue: 0,0:02:57.99,0:03:03.45,Des_Main,,0,0,0,,Son las que tienen el conocimiento,\Nla experiencia y la conciencia de una súcubo.
+Dialogue: 0,0:03:03.45,0:03:09.99,Des_Main,,0,0,0,,Están bendecidas con estas cualidades, pero nunca\Nhan absorbido la energía del semen humano.
+Dialogue: 0,0:03:09.99,0:03:13.24,Des_Main,,0,0,0,,En otras palabras, vírgenes.
+Dialogue: 0,0:03:13.24,0:03:14.99,Des_Main,,0,0,0,,Exacto.
+Dialogue: 0,0:03:14.99,0:03:18.99,Des_Main,,0,0,0,,Estoy tan emocionada de tener tu pene.
+Dialogue: 0,0:03:18.99,0:03:23.99,Des_Main,,0,0,0,,Tu misión es enseñarles a estas\Nchicas la alegría del pene.
+Dialogue: 0,0:03:23.99,0:03:28.12,Des_Main,,0,0,0,,Y hacer que disfrutes la alegría\Nde exprimir el semen.
+Dialogue: 0,0:03:28.12,0:03:29.99,Des_Main,,0,0,0,,Entiendo.
+Dialogue: 0,0:03:29.99,0:03:33.45,Des_Main,,0,0,0,,Entonces, eres una súcubo.
+Dialogue: 0,0:03:33.45,0:03:35.91,Des_Main,,0,0,0,,¡Estás palpitando otra vez!
+Dialogue: 0,0:03:35.99,0:03:38.99,Des_Main,,0,0,0,,Tal como esperaba.
+Dialogue: 0,0:03:39.99,0:03:42.99,Des_Main,,0,0,0,,¡Ese pene se ve delicioso!
+Dialogue: 0,0:03:42.99,0:03:46.99,Des_Main,,0,0,0,,Si eres tan grande, mi vagina te devorará.
+Dialogue: 0,0:03:46.99,0:03:50.99,Des_Main,,0,0,0,,¡Me estás usando como juguete sexual!
+Dialogue: 0,0:03:50.99,0:03:56.99,Des_Main,,0,0,0,,Si mi vagina te devora,\N¡podrías perder tu pene!
+Dialogue: 0,0:03:56.99,0:04:02.99,Des_Main,,0,0,0,,Estoy tan excitada que mi vagina\Nte va a tragar entero. ¡No lo soporto!
+Dialogue: 0,0:04:05.99,0:04:08.87,Des_Main,,0,0,0,,¡Corriéndome!
+Dialogue: 0,0:04:08.87,0:04:13.87,Des_Main,,0,0,0,,La vagina de una súcubo podría valerlo todo.
+Dialogue: 0,0:04:16.83,0:04:22.82,Des_Main,,0,0,0,,Y así, asumí el entrenamiento de la súcubo.
+Dialogue: 0,0:04:26.70,0:04:28.99,Des_Main,,0,0,0,,¿Eh? ¿Tú eres el instructor?
+Dialogue: 0,0:04:28.99,0:04:30.99,Des_Main,,0,0,0,,E-Eres humano, ¿verdad?
+Dialogue: 0,0:04:30.99,0:04:32.99,Des_Main,,0,0,0,,No me hagas reír.
+Dialogue: 0,0:04:32.99,0:04:36.99,Des_Main,,0,0,0,,Nosotras, las súcubos, no aprendemos de humanos.
+Dialogue: 0,0:04:36.99,0:04:38.99,Des_Main,,0,0,0,,Qué estúpido.
+Dialogue: 0,0:04:38.99,0:04:44.99,Des_Main,,0,0,0,,Instructor, me gustaría que me mostraras\Nel Shibuya Sweets Cafe.
+Dialogue: 0,0:04:44.99,0:04:46.20,Des_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:04:46.20,0:04:53.99,Des_Main,,0,0,0,,Ya que estamos aquí, deberíamos aspirar a ser influencers.
+Dialogue: 0,0:04:53.99,0:05:00.16,Des_Main,,0,0,0,,Sus cuerpos son increíbles, pero\Nambas son difíciles de manejar.
+Dialogue: 0,0:05:00.28,0:05:02.99,Des_Main,,0,0,0,,¿Podría ser que estas dos son...?
+Dialogue: 0,0:05:02.99,0:05:06.87,Des_Main,,0,0,0,,Exacto, Iko Baikon y Rukorux.
+Dialogue: 0,0:05:06.87,0:05:10.99,Des_Main,,0,0,0,,Ellas son las súcubos que entrenarás.
+Dialogue: 0,0:05:12.99,0:05:17.99,Des_Main,,0,0,0,,¡No hago esto porque me guste!
+Dialogue: 0,0:05:17.99,0:05:21.99,Des_Main,,0,0,0,,Iko, dijiste que no eras buena con la magia.
+Dialogue: 0,0:05:21.99,0:05:23.57,Des_Main,,0,0,0,,Tú eres igual.
+Dialogue: 0,0:05:23.58,0:05:27.99,Des_Main,,0,0,0,,Solo estoy siendo castigada porque\Nsoy hija de un orco.
+Dialogue: 0,0:05:27.99,0:05:30.99,Des_Main,,0,0,0,,Oh, qué excusa tan terrible.
+Dialogue: 0,0:05:30.99,0:05:34.99,Des_Main,,0,0,0,,La familia Baikon es tan astuta.
+Dialogue: 0,0:05:34.99,0:05:36.99,Des_Main,,0,0,0,,¿Qué es esto?
+Dialogue: 0,0:05:36.99,0:05:38.99,Des_Main,,0,0,0,,¡Eres tan falsa!
+Dialogue: 0,0:05:38.99,0:05:40.99,Des_Main,,0,0,0,,¿No vas a mostrar tu verdadero rostro?
+Dialogue: 0,0:05:40.99,0:05:41.99,Des_Main,,0,0,0,,Vaya, vaya.
+Dialogue: 0,0:05:41.99,0:05:44.99,Des_Main,,0,0,0,,No hay remedio.
+Dialogue: 0,0:05:45.28,0:05:46.28,Des_Main,,0,0,0,,Entonces...
+Dialogue: 0,0:05:53.99,0:05:55.99,Des_Main,,0,0,0,,¿Q-Qué es esto?
+Dialogue: 0,0:05:55.99,0:05:58.99,Des_Main,,0,0,0,,¡Es un disfraz humano!
+Dialogue: 0,0:05:58.99,0:06:03.12,Des_Main,,0,0,0,,¡Esto es tan ajustado, qué diseño!
+Dialogue: 0,0:06:03.12,0:06:04.99,Des_Main,,0,0,0,,¡Muy bien, chicos!
+Dialogue: 0,0:06:04.99,0:06:08.99,Des_Main,,0,0,0,,Tendrán que vestirse así\Ndurante este periodo de estudios en el extranjero.
+Dialogue: 0,0:06:08.99,0:06:10.78,Des_Main,,0,0,0,,¡De ninguna manera!
+Dialogue: 0,0:06:10.78,0:06:17.99,Des_Main,,0,0,0,,Escuchen, ustedes tienen grandes cualidades,\Npero aún no pueden usar la magia correctamente.
+Dialogue: 0,0:06:17.99,0:06:19.91,Des_Main,,0,0,0,,Qué presumidas.
+Dialogue: 0,0:06:19.99,0:06:26.91,Des_Main,,0,0,0,,¡Estos estudios en el extranjero son necesarios\Npara despertar su talento dormido!
+Dialogue: 0,0:06:26.91,0:06:30.82,Des_Main,,0,0,0,,Oye, ¿qué es esa campana?
+Dialogue: 0,0:06:30.83,0:06:31.91,Des_Main,,0,0,0,,Es una campana azul.
+Dialogue: 0,0:06:31.99,0:06:33.91,Des_Main,,0,0,0,,¿Campana azul?
+Dialogue: 0,0:06:33.91,0:06:39.74,Des_Main,,0,0,0,,Si usas magia con esto, ninguna\Nsúcubo puede resistirse.
+Dialogue: 0,0:06:39.74,0:06:43.70,Des_Main,,0,0,0,,Esto es algo especial que preparé para ustedes dos.
+Dialogue: 0,0:06:43.70,0:06:45.78,Des_Main,,0,0,0,,Toma.
+Dialogue: 0,0:06:45.78,0:06:49.99,Des_Main,,0,0,0,,Oye, si es algo tan bueno, yo...
+Dialogue: 0,0:06:49.99,0:06:53.87,Des_Main,,0,0,0,,Por supuesto, lo preparé para ti.
+Dialogue: 0,0:06:53.87,0:06:58.99,Des_Main,,0,0,0,,Si no, un humano no podría\Ninstruir a súcubos.
+Dialogue: 0,0:06:58.99,0:07:03.87,Des_Main,,0,0,0,,¡Maldita sea! ¡No juegues conmigo!
+Dialogue: 0,0:07:03.87,0:07:06.99,Des_Main,,0,0,0,,No te perdonaré por tu\Nrebelión. Esto es una orden.
+Dialogue: 0,0:07:06.99,0:07:10.99,Des_Main,,0,0,0,,¡M-Maldita sea!
+Dialogue: 0,0:07:10.99,0:07:16.62,Des_Main,,0,0,0,,Entonces, si tengo esto, ¿harás lo que quiera?
+Dialogue: 0,0:07:16.62,0:07:18.99,Des_Main,,0,0,0,,No lo soporto.
+Dialogue: 0,0:07:19.03,0:07:23.49,Des_Main,,0,0,0,,Espero que ustedes dos no busquen vengarse después.
+Dialogue: 0,0:07:23.49,0:07:26.99,Des_Main,,0,0,0,,Entonces, comencemos la lección.
+Dialogue: 0,0:07:27.20,0:07:29.99,Des_Main,,0,0,0,,Iko Baikon.
+Dialogue: 0,0:07:29.99,0:07:33.99,Des_Main,,0,0,0,,¡Ah! ¡Para! ¡No!
+Dialogue: 0,0:07:33.99,0:07:37.99,Des_Main,,0,0,0,,¡Maldita sea! ¡No puedo! ¡No puedo\Nponer fuerza en mi cuerpo!
+Dialogue: 0,0:07:37.99,0:07:41.99,Des_Main,,0,0,0,,¡Una súcubo está siendo atacada por un humano!
+Dialogue: 0,0:07:41.99,0:07:43.95,Des_Main,,0,0,0,,Qué erótica eres.
+Dialogue: 0,0:07:43.95,0:07:48.99,Des_Main,,0,0,0,,Es difícil respirar con este uniforme, ¿verdad?
+Dialogue: 0,0:07:48.99,0:07:54.99,Des_Main,,0,0,0,,¡Suéltame! ¡Suéltame! ¿No sientes este pezón?
+Dialogue: 0,0:07:54.99,0:07:56.99,Des_Main,,0,0,0,,¡De ninguna manera!
+Dialogue: 0,0:07:56.99,0:08:01.78,Des_Main,,0,0,0,,¡Maldita sea! ¡No siento nada con esto!
+Dialogue: 0,0:08:01.78,0:08:04.74,Des_Main,,0,0,0,,¿Es así?
+Dialogue: 0,0:08:04.74,0:08:07.99,Des_Main,,0,0,0,,Entonces, ¿por qué están tus pezones tan duros?
+Dialogue: 0,0:08:07.99,0:08:10.37,Des_Main,,0,0,0,,¡No juegues conmigo!
+Dialogue: 0,0:08:10.37,0:08:13.62,Des_Main,,0,0,0,,Ya no lo soporto.
+Dialogue: 0,0:08:13.62,0:08:16.70,Des_Main,,0,0,0,,Oye, Iko, vas a acariciar mi pene.
+Dialogue: 0,0:08:16.70,0:08:20.99,Des_Main,,0,0,0,,¡Ah! ¡Idiota! ¡No haré eso!
+Dialogue: 0,0:08:20.99,0:08:22.99,Des_Main,,0,0,0,,Te di una orden.
+Dialogue: 0,0:08:22.99,0:08:26.62,Des_Main,,0,0,0,,Puedo tocar la campana otra vez.
+Dialogue: 0,0:08:26.62,0:08:28.99,Des_Main,,0,0,0,,Eso es...
+Dialogue: 0,0:08:28.99,0:08:30.66,Des_Main,,0,0,0,,Sucio.
+Dialogue: 0,0:08:33.03,0:08:37.28,Des_Main,,0,0,0,,Eres tan buena tocándome\Naunque es tu primera vez.
+Dialogue: 0,0:08:37.28,0:08:40.87,Des_Main,,0,0,0,,Te haré pagar por esto después.
+Dialogue: 0,0:08:40.87,0:08:42.49,Des_Main,,0,0,0,,Recuérdalo.
+Dialogue: 0,0:08:42.49,0:08:46.62,Des_Main,,0,0,0,,¿Cuánto tiempo puedes seguir siendo tan dura?
+Dialogue: 0,0:08:46.62,0:08:50.24,Des_Main,,0,0,0,,¡P-Para! ¡No me toques!
+Dialogue: 0,0:08:50.24,0:08:53.82,Des_Main,,0,0,0,,Oye, oye, qué sucia eres.
+Dialogue: 0,0:08:53.82,0:08:55.99,Des_Main,,0,0,0,,¡No, no! Para.
+Dialogue: 0,0:08:56.03,0:08:58.99,Des_Main,,0,0,0,,¿Quién querría estar\Ncon un viejo feo como tú?
+Dialogue: 0,0:08:58.99,0:09:02.99,Des_Main,,0,0,0,,¿Por qué odias tanto el sexo?
+Dialogue: 0,0:09:02.99,0:09:04.45,Des_Main,,0,0,0,,¿Tienes miedo?
+Dialogue: 0,0:09:04.45,0:09:06.99,Des_Main,,0,0,0,,¡No, no!
+Dialogue: 0,0:09:10.49,0:09:11.99,Des_Main,,0,0,0,,Estás tan mojada.
+Dialogue: 0,0:09:11.99,0:09:15.70,Des_Main,,0,0,0,,Debes amar el sexo.
+Dialogue: 0,0:09:15.70,0:09:17.87,Des_Main,,0,0,0,,¡No, no!
+Dialogue: 0,0:09:23.57,0:09:27.57,Des_Main,,0,0,0,,Vamos, saca la lengua.
+Dialogue: 0,0:09:28.99,0:09:33.99,Des_Main,,0,0,0,,¿Qué harás? Retuerce más tu lengua.
+Dialogue: 0,0:09:33.99,0:09:37.99,Des_Main,,0,0,0,,Excítame besando como si fueras mi amante.
+Dialogue: 0,0:09:37.99,0:09:40.66,Des_Main,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:09:40.66,0:09:43.78,Des_Main,,0,0,0,,Para. Eso es pervertido.
+Dialogue: 0,0:09:43.78,0:09:45.99,Des_Main,,0,0,0,,¿Pervertido?
+Dialogue: 0,0:09:45.99,0:09:48.66,Des_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:09:48.66,0:09:55.99,Des_Main,,0,0,0,,¿Para una súcubo, ser amante o tener\Namor puro parece pervertido?
+Dialogue: 0,0:09:55.99,0:09:58.99,Des_Main,,0,0,0,,Esto es interesante.
+Dialogue: 0,0:10:03.07,0:10:04.16,Des_Main,,0,0,0,,¡No!
+Dialogue: 0,0:10:04.20,0:10:07.20,Des_Main,,0,0,0,,No arruines mi cuerpo.
+Dialogue: 0,0:10:07.20,0:10:09.99,Des_Main,,0,0,0,,Mi pene es grande.
+Dialogue: 0,0:10:09.99,0:10:13.12,Des_Main,,0,0,0,,Tengo que aflojarlo.
+Dialogue: 0,0:10:13.12,0:10:17.37,Des_Main,,0,0,0,,Mira, mira, se está aflojando.
+Dialogue: 0,0:10:17.37,0:10:20.99,Des_Main,,0,0,0,,Puedo sentir tus entrañas con las yemas de los dedos.
+Dialogue: 0,0:10:20.99,0:10:24.95,Des_Main,,0,0,0,,¡No!
+Dialogue: 0,0:10:24.95,0:10:26.99,Des_Main,,0,0,0,,Bien, estás lista.
+Dialogue: 0,0:10:26.99,0:10:29.70,Des_Main,,0,0,0,,Empecemos el entrenamiento.
+Dialogue: 0,0:10:31.82,0:10:37.99,Des_Main,,0,0,0,,No, está tan caliente, mi vagina está tan caliente.
+Dialogue: 0,0:10:37.99,0:10:40.78,Des_Main,,0,0,0,,¡No, no! Saca eso.
+Dialogue: 0,0:10:40.78,0:10:43.82,Des_Main,,0,0,0,,¡No metas tu pene!
+Dialogue: 0,0:10:43.82,0:10:45.99,Des_Main,,0,0,0,,¡No lo sacaré!
+Dialogue: 0,0:10:45.99,0:10:48.37,Des_Main,,0,0,0,,¡Seré yo quien haga esta vagina mía!
+Dialogue: 0,0:10:48.37,0:10:50.20,Des_Main,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:10:50.20,0:10:53.74,Des_Main,,0,0,0,,No voy a ser tuya.
+Dialogue: 0,0:10:53.74,0:10:57.74,Des_Main,,0,0,0,,¡Maldito pervertido! ¡No!
+Dialogue: 0,0:10:58.57,0:11:00.12,Des_Main,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 0,0:11:00.12,0:11:02.99,Des_Main,,0,0,0,,Estás gritando bastante.
+Dialogue: 0,0:11:02.99,0:11:07.41,Des_Main,,0,0,0,,Estás sintiendo mi pene, ¿verdad?
+Dialogue: 0,0:11:07.41,0:11:09.82,Des_Main,,0,0,0,,Esto es malo, muy malo.
+Dialogue: 0,0:11:09.82,0:11:11.66,Des_Main,,0,0,0,,¡No hagas esto a mi vagina!
+Dialogue: 0,0:11:11.66,0:11:13.82,Des_Main,,0,0,0,,Idiota.
+Dialogue: 0,0:11:19.70,0:11:23.99,Des_Main,,0,0,0,,¡La punta de tu pene se está haciendo aún más grande!
+Dialogue: 0,0:11:23.99,0:11:31.99,Des_Main,,0,0,0,,¡Es increíble, tan increíble,\Nmi vagina se está volviendo loca!
+Dialogue: 0,0:11:31.99,0:11:35.99,Des_Main,,0,0,0,,¡Voy a hacer que nunca pienses\Nen otro pene que no sea el mío!
+Dialogue: 0,0:11:35.99,0:11:39.41,Des_Main,,0,0,0,,¡Voy a convertirte en una súcubo pervertida!
+Dialogue: 0,0:11:39.41,0:11:42.87,Des_Main,,0,0,0,,¡No, para! ¡Para!
+Dialogue: 0,0:11:42.87,0:11:47.70,Des_Main,,0,0,0,,¡Vas a convertirme en una pervertida con ese pene!
+Dialogue: 0,0:11:47.70,0:11:49.99,Des_Main,,0,0,0,,¿De qué estás hablando?
+Dialogue: 0,0:11:49.99,0:11:55.53,Des_Main,,0,0,0,,¡En realidad amas este sexo pervertido\Nde amantes, ¿verdad?!
+Dialogue: 0,0:11:55.53,0:11:58.45,Des_Main,,0,0,0,,No, no es así.
+Dialogue: 0,0:11:58.45,0:12:04.07,Des_Main,,0,0,0,,¡Soy una persona orgullosa, no caería\Npor unas perversiones!
+Dialogue: 0,0:12:05.99,0:12:09.99,Des_Main,,0,0,0,,¿Por qué? ¿Qué debo hacer? Esto es malo.
+Dialogue: 0,0:12:09.99,0:12:15.28,Des_Main,,0,0,0,,¡Esto no está bien, no!
+Dialogue: 0,0:12:17.32,0:12:23.99,Des_Main,,0,0,0,,Lo has dicho un millón de veces. ¡Entonces hagámoslo!
+Dialogue: 0,0:12:23.99,0:12:27.78,Des_Main,,0,0,0,,¡Lo tienes, tienes razón, soy una amante pervertida!
+Dialogue: 0,0:12:27.78,0:12:32.99,Des_Main,,0,0,0,,¡Voy a seguir corriéndome!
+Dialogue: 0,0:12:32.99,0:12:34.99,Des_Main,,0,0,0,,La próxima vez te correrás conmigo.
+Dialogue: 0,0:12:34.99,0:12:37.53,Des_Main,,0,0,0,,Como si fueras mi novia.
+Dialogue: 0,0:12:37.53,0:12:42.78,Des_Main,,0,0,0,,Un amante así es demasiado pervertido.
+Dialogue: 0,0:12:44.99,0:12:52.07,Des_Main,,0,0,0,,Exacto. ¡Mi pene va a crear una pervertida total!
+Dialogue: 0,0:12:52.07,0:12:54.49,Des_Main,,0,0,0,,¡No!
+Dialogue: 0,0:12:54.49,0:13:01.57,Des_Main,,0,0,0,,¡Voy a correrme otra vez! ¡Mi vagina\Nse siente demasiado bien, me estoy corriendo!
+Dialogue: 0,0:13:05.57,0:13:11.07,Des_Main,,0,0,0,,Oh no, el sexo se siente demasiado bien.
+Dialogue: 0,0:13:13.53,0:13:17.53,Des_Main,,0,0,0,,Eso es malo, tal vez me emocioné un poco demasiado.
+Dialogue: 0,0:13:17.57,0:13:23.99,Des_Main,,0,0,0,,Pero eres una súcubo, ¿realmente estás tan cansada?
+Dialogue: 0,0:13:46.70,0:13:53.66,Des_Main,,0,0,0,,Vamos, más, ¡más, más! Vierte\Ntu semen en mi cuerpo.
+Dialogue: 0,0:13:53.66,0:13:58.62,Des_Main,,0,0,0,,Aunque estás durmiendo,\Ntodavía estás erecto así.
+Dialogue: 0,0:13:58.62,0:14:03.49,Des_Main,,0,0,0,,Quieres estar en mi vagina, ¿verdad?
+Dialogue: 0,0:14:03.49,0:14:05.99,Des_Main,,0,0,0,,¿Qué pasa con esa mirada de dolor?
+Dialogue: 0,0:14:05.99,0:14:08.32,Des_Main,,0,0,0,,Te gusta que froten tu pene, ¿verdad?
+Dialogue: 0,0:14:08.32,0:14:09.95,Des_Main,,0,0,0,,Se siente bien, ¿no?
+Dialogue: 0,0:14:09.99,0:14:14.70,Des_Main,,0,0,0,,¡Entonces lo haré más emocionante!
+Dialogue: 0,0:14:16.57,0:14:17.82,Des_Main,,0,0,0,,Eso es genial.
+Dialogue: 0,0:14:17.82,0:14:20.66,Des_Main,,0,0,0,,Eso es lo mejor.
+Dialogue: 0,0:14:20.99,0:14:21.99,Des_Main,,0,0,0,,Exacto.
+Dialogue: 0,0:14:21.99,0:14:26.99,Des_Main,,0,0,0,,Así es como expulsas tu semen.
+Dialogue: 0,0:14:27.03,0:14:29.87,Des_Main,,0,0,0,,No puedo parar.
