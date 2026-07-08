@@ -1,0 +1,906 @@
+[Script Info]
+Title: SPE_Chainsawmanthemovierezearc_11511126_FE_ES-419_FULL_RLI-12774880
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Gen_Main,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,18,1
+Style: Gen_Main_Up,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Gen_Italics_top,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,8,10,10,18,1
+Style: Cart_A_Tre,Trebuchet MS,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Nota,Trebuchet MS,20,&H00000000,&H000000FF,&H00262626,&H00505050,0,0,0,0,100,100,0,0,1,0,0,5,10,10,18,1
+Style: Cart_C_Tre,Trebuchet MS,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Tim,Times New Roman,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_C_Tim,Times New Roman,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_A_Verd,Verdana,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,110,0,0,1,2,0,8,20,20,20,1
+Style: Cart_Serieslogo,Verdana,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,1,0,1,0,0,5,5,5,0,1
+Style: Cart_C_Verd,Verdana,20,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,0,8,20,20,20,1
+Style: Cart_TitleEp,Verdana,22,&H00484848,&H000000FF,&H00EBEBEB,&H00000000,-1,0,0,0,100,110,0,0,1,1,0,2,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:37.68,0:00:41.48,Cart_A_Tre,,0,0,0,,OBRA ORIGINAL: TATSUKI FUJIMOTO\N(PUBLICADA EN SHONEN JUMP+ DE SHUEISHA)
+Dialogue: 0,0:01:07.38,0:01:09.26,Gen_Main,,0,0,0,,{\i1}Es el sueño de siempre.
+Dialogue: 0,0:01:09.92,0:01:13.33,Gen_Main,,0,0,0,,{\i1}El que siempre tengo…\N{\i1}y el que siempre olvido.
+Dialogue: 0,0:01:21.23,0:01:22.30,Gen_Main,,0,0,0,,Denji.
+Dialogue: 0,0:01:24.73,0:01:25.97,Gen_Main,,0,0,0,,¡Pochita!
+Dialogue: 0,0:01:26.61,0:01:28.43,Gen_Main,,0,0,0,,Sal de ahí, Pochita.
+Dialogue: 0,0:01:28.86,0:01:31.28,Gen_Main,,0,0,0,,Al menos déjame acariciarte en mis sueños.
+Dialogue: 0,0:01:31.36,0:01:32.53,Gen_Main,,0,0,0,,Denji…
+Dialogue: 0,0:01:38.62,0:01:40.29,Gen_Main,,0,0,0,,No abras por nada del mundo.
+Dialogue: 0,0:02:01.10,0:02:03.81,Gen_Main,,0,0,0,,¿Por qué tanto alboroto?
+Dialogue: 0,0:02:05.98,0:02:07.57,Gen_Main,,0,0,0,,Tuve una pesadilla.
+Dialogue: 0,0:02:17.20,0:02:18.33,Gen_Main,,0,0,0,,¿O sigo soñando?
+Dialogue: 0,0:02:18.78,0:02:20.36,Gen_Main,,0,0,0,,Déjate de balbucear.
+Dialogue: 0,0:02:27.63,0:02:29.13,Gen_Main,,0,0,0,,¿Qué pasa?
+Dialogue: 0,0:02:29.21,0:02:32.38,Gen_Main,,0,0,0,,¿De dónde saqué tanta fuerza?
+Dialogue: 0,0:02:33.76,0:02:36.12,Gen_Main,,0,0,0,,No es un sueño…
+Dialogue: 0,0:02:57.53,0:02:58.03,Cart_A_Tre,,0,0,0,,CHAINSAW MAN
+Dialogue: 0,0:05:05.58,0:05:08.79,Cart_A_Verd,,0,0,0,,CHAINSAW MAN - LA PELÍCULA:\NARCO DE REZE
+Dialogue: 0,0:05:11.54,0:05:14.04,Cart_A_Tim,,0,0,0,,{\pos(320,245.714)\bord1\blur2}Cuartel General de los Devil Hunters, Tokio
+Dialogue: 0,0:05:18.38,0:05:20.05,Gen_Main,,0,0,0,,A juzgar por tus cuernos,
+Dialogue: 0,0:05:20.13,0:05:23.30,Gen_Main,,0,0,0,,bebiste demasiada sangre, ¿verdad?
+Dialogue: 0,0:05:23.93,0:05:27.06,Gen_Main,,0,0,0,,¿Tal vez durante\Nla pelea contra los zombis?
+Dialogue: 0,0:05:27.77,0:05:30.68,Gen_Main,,0,0,0,,- Habrá que drenarte sangre.\N- ¡Sí!
+Dialogue: 0,0:05:31.27,0:05:32.48,Gen_Main,,0,0,0,,¿Drenársela?
+Dialogue: 0,0:05:32.56,0:05:35.09,Gen_Main,,0,0,0,,Le drenamos la sangre periódicamente.
+Dialogue: 0,0:05:35.81,0:05:40.19,Gen_Main,,0,0,0,,Si no, se vuelve un demonio\Naún más orgulloso de lo que ya es.
+Dialogue: 0,0:05:40.86,0:05:42.82,Gen_Main,,0,0,0,,Por lo cual, Denji…
+Dialogue: 0,0:05:42.91,0:05:45.23,Gen_Main,,0,0,0,,¿Me la puedo llevar un tiempo?
+Dialogue: 0,0:05:51.62,0:05:53.24,Gen_Main,,0,0,0,,Todo el tiempo que quiera.
+Dialogue: 0,0:05:55.29,0:05:57.96,Gen_Main,,0,0,0,,En cuanto a tu compañero en su ausencia,
+Dialogue: 0,0:05:58.59,0:06:00.99,Gen_Main,,0,0,0,,él dice que quiere trabajar contigo.
+Dialogue: 0,0:06:06.14,0:06:08.54,Gen_Main,,0,0,0,,¡Lord Chainsaw! ¡Lord Chainsaw!
+Dialogue: 0,0:06:13.14,0:06:17.14,Gen_Main,,0,0,0,,- ¿Y quién es este?\N- El Poseído de los Tiburones.
+Dialogue: 0,0:06:17.65,0:06:20.57,Gen_Main,,0,0,0,,Suele ser tan violento\Nque no se le puede ni hablar,
+Dialogue: 0,0:06:20.65,0:06:22.90,Gen_Main,,0,0,0,,pero dice que hará
+Dialogue: 0,0:06:22.99,0:06:25.94,Gen_Main,,0,0,0,,- todo lo que le digas.\N- ¿Todo lo que le diga?
+Dialogue: 0,0:06:26.41,0:06:30.45,Gen_Main,,0,0,0,,- ¿Por qué?\N- No lo sé. ¿Porque sus caras se parecen?
+Dialogue: 0,0:06:30.54,0:06:33.46,Gen_Main,,0,0,0,,¡Lord Chainsaw! ¡Haré lo que usted diga!
+Dialogue: 0,0:06:33.54,0:06:36.46,Gen_Main,,0,0,0,,¡Lord Chainsaw es lo máximo! ¡El mejor!
+Dialogue: 0,0:06:36.54,0:06:39.12,Gen_Main,,0,0,0,,¡No me toques!\NNo me gustan los hombres.
+Dialogue: 0,0:06:45.18,0:06:47.58,Gen_Main,,0,0,0,,Te noto algo desanimado.
+Dialogue: 0,0:06:49.76,0:06:51.72,Gen_Main,,0,0,0,,No podría estar mejor.
+Dialogue: 0,0:06:55.81,0:06:57.56,Gen_Main,,0,0,0,,Si estás tan animado,
+Dialogue: 0,0:06:57.65,0:07:00.48,Gen_Main,,0,0,0,,¿no te gustaría tener\Nuna cita conmigo mañana?
+Dialogue: 0,0:07:01.40,0:07:02.51,Gen_Main,,0,0,0,,¿Una cita?
+Dialogue: 0,0:07:06.53,0:07:09.99,Gen_Main,,0,0,0,,¡Qué bien! ¡Qué bien!
+Dialogue: 0,0:07:11.45,0:07:13.78,Gen_Main,,0,0,0,,¿Eh? ¿Ya estabas aquí, Denji?
+Dialogue: 0,0:07:14.33,0:07:16.40,Gen_Main,,0,0,0,,Todavía falta una hora.
+Dialogue: 0,0:07:19.67,0:07:22.13,Gen_Main,,0,0,0,,{\i1}¡Qué linda!
+Dialogue: 0,0:07:22.21,0:07:23.88,Gen_Main,,0,0,0,,¡Ay, qué linda!
+Dialogue: 0,0:07:24.42,0:07:26.55,Gen_Main,,0,0,0,,Denji, ¿a qué hora llegaste?
+Dialogue: 0,0:07:26.63,0:07:29.12,Gen_Main,,0,0,0,,Como no podía dormir,\Nllegué a las 5:00 a.m.
+Dialogue: 0,0:07:29.64,0:07:32.13,Gen_Main,,0,0,0,,¿Cuál es el plan para la cita de hoy?
+Dialogue: 0,0:07:32.97,0:07:36.27,Gen_Main,,0,0,0,,Es que nunca había salido con nadie.
+Dialogue: 0,0:07:37.06,0:07:42.52,Gen_Main,,0,0,0,,Vamos a ver películas hasta la medianoche.
+Dialogue: 0,0:07:43.73,0:07:44.78,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,0:07:53.99,0:07:55.04,Gen_Main,,0,0,0,,{\i1}Esto…
+Dialogue: 0,0:07:55.12,0:07:57.49,Gen_Main,,0,0,0,,{\i1}no es lo que me esperaba.
+Dialogue: 0,0:08:01.17,0:08:02.92,Gen_Main,,0,0,0,,{\i1}Todos se ríen.
+Dialogue: 0,0:08:03.00,0:08:05.45,Gen_Main,,0,0,0,,{\i1}Pero yo no le veo el chiste.
+Dialogue: 0,0:08:10.51,0:08:12.83,Gen_Main,,0,0,0,,{\i1}La señorita Makima tampoco se ríe.
+Dialogue: 0,0:08:13.51,0:08:15.18,Gen_Main,,0,0,0,,{\i1}Es tan linda.
+Dialogue: 0,0:08:17.31,0:08:19.01,Gen_Main,,0,0,0,,No me gustó mucho.
+Dialogue: 0,0:08:19.44,0:08:21.15,Gen_Main,,0,0,0,,No estuvo tan buena.
+Dialogue: 0,0:08:21.23,0:08:24.19,Gen_Main,,0,0,0,,Y eso que tenían mucho presupuesto.
+Dialogue: 0,0:08:25.65,0:08:28.10,Gen_Main,,0,0,0,,Bueno, vayamos a la siguiente.
+Dialogue: 0,0:08:38.87,0:08:40.07,Gen_Main,,0,0,0,,{\i1}Todos están llorando.
+Dialogue: 0,0:08:42.88,0:08:44.75,Gen_Main,,0,0,0,,{\i1}Pero ella no.
+Dialogue: 0,0:08:44.84,0:08:45.87,Gen_Main,,0,0,0,,{\i1}Qué linda es.
+Dialogue: 0,0:08:47.13,0:08:49.17,Gen_Main,,0,0,0,,Tampoco me gustó.
+Dialogue: 0,0:08:49.26,0:08:52.97,Gen_Main,,0,0,0,,Me molestó que intentaran\Nhacer llorar a la audiencia.
+Dialogue: 0,0:08:57.06,0:08:59.23,Gen_Main,,0,0,0,,La música era buena.
+Dialogue: 0,0:09:01.56,0:09:03.86,Gen_Main,,0,0,0,,Qué trama tan forzada.
+Dialogue: 0,0:09:08.74,0:09:10.86,Gen_Main,,0,0,0,,Estuvo bastante regular.
+Dialogue: 0,0:09:11.45,0:09:13.24,Gen_Main,,0,0,0,,La siguiente será la última.
+Dialogue: 0,0:09:13.32,0:09:18.25,Gen_Main,,0,0,0,,CINE
+Dialogue: 0,0:09:14.37,0:09:17.73,Gen_Main,,0,0,0,,Todos dicen que es difícil de entender.
+Dialogue: 0,0:09:18.79,0:09:20.49,Gen_Main,,0,0,0,,¿También quieres verla?
+Dialogue: 0,0:09:22.92,0:09:26.25,Gen_Main,,0,0,0,,La verdad es que no me gustó ninguna.
+Dialogue: 0,0:09:26.34,0:09:29.16,Gen_Main,,0,0,0,,¿Será que no las entiendo?
+Dialogue: 0,0:09:29.88,0:09:34.58,Gen_Main,,0,0,0,,A mí solo me gusta una\Nde cada diez películas que veo.
+Dialogue: 0,0:09:35.89,0:09:40.27,Gen_Main,,0,0,0,,Pero son justamente esas\Nlas que te pueden cambiar la vida.
+Dialogue: 0,0:10:29.44,0:10:32.10,Gen_Main,,0,0,0,,{\i1}Pero si es una escena de lo más normal.
+Dialogue: 0,0:10:32.65,0:10:35.14,Gen_Main,,0,0,0,,{\i1}¡No quiero que me vea llorar!
+Dialogue: 0,0:10:53.26,0:10:57.09,Gen_Main,,0,0,0,,Recordaré esa última escena de por vida.
+Dialogue: 0,0:10:57.18,0:10:58.35,Gen_Main,,0,0,0,,Yo también.
+Dialogue: 0,0:10:58.43,0:11:01.21,Gen_Main,,0,0,0,,Compensó todo lo que nos gastamos hoy.
+Dialogue: 0,0:11:05.14,0:11:08.97,Gen_Main,,0,0,0,,Señorita Makima,\N¿usted cree que yo tenga corazón?
+Dialogue: 0,0:11:10.15,0:11:12.22,Gen_Main,,0,0,0,,¿Por qué lo preguntas?
+Dialogue: 0,0:11:13.57,0:11:14.68,Gen_Main,,0,0,0,,Curiosidad.
+Dialogue: 0,0:11:38.30,0:11:39.37,Gen_Main,,0,0,0,,Sí tienes.
+Dialogue: 0,0:11:40.72,0:11:41.76,Gen_Main,,0,0,0,,Sí…
+Dialogue: 0,0:11:42.72,0:11:44.21,Gen_Main,,0,0,0,,Sí tengo.
+Dialogue: 0,0:12:12.34,0:12:13.71,Gen_Main,,0,0,0,,{\i1}Ya veo.
+Dialogue: 0,0:12:13.80,0:12:17.97,Gen_Main,,0,0,0,,{\i1}No me podría emocionar\N{\i1}si no tuviera corazón, ¿o sí?
+Dialogue: 0,0:12:18.05,0:12:19.22,Gen_Main,,0,0,0,,¡Donen, por favor!
+Dialogue: 0,0:12:19.30,0:12:21.05,Gen_Main,,0,0,0,,- ¡Por favor!\N- ¡Cooperen!
+Dialogue: 0,0:12:21.14,0:12:25.05,Gen_Main,,0,0,0,,Juntamos dinero para los niños\Nafectados por los demonios.
+Dialogue: 0,0:12:25.60,0:12:27.14,Gen_Main,,0,0,0,,¡Ayúdenos!
+Dialogue: 0,0:12:27.23,0:12:30.06,Gen_Main,,0,0,0,,Como tengo corazón, puedo donar.
+Dialogue: 0,0:12:31.52,0:12:32.81,Gen_Main,,0,0,0,,¡Muchísimas gracias!
+Dialogue: 0,0:12:33.40,0:12:36.57,Gen_Main,,0,0,0,,Les damos flores a todos los que cooperan.
+Dialogue: 0,0:12:39.49,0:12:40.56,Gen_Main,,0,0,0,,Qué bonita.
+Dialogue: 0,0:12:47.41,0:12:51.86,Gen_Main,,0,0,0,,{\i1}Aprecio la belleza de la flor\N{\i1}porque tengo corazón.
+Dialogue: 0,0:12:54.80,0:12:56.84,Gen_Main,,0,0,0,,{\i1}Todo gracias a la señorita Makima.
+Dialogue: 0,0:12:57.92,0:13:00.71,Gen_Main,,0,0,0,,{\i1}Me siento mejor después\N{\i1}de haber hablado con ella.
+Dialogue: 0,0:13:02.55,0:13:08.14,Gen_Main,,0,0,0,,{\i1}Me cumplirá un deseo si reúno los trozos\N{\i1}del Demonio de las Armas de Fuego.
+Dialogue: 0,0:13:08.23,0:13:12.13,Gen_Main,,0,0,0,,{\i1}Y creo que le pediré que sea mi novia.
+Dialogue: 0,0:13:21.24,0:13:24.57,Gen_Main,,0,0,0,,{\i1}Siempre que tengo un rato libre,\N{\i1}pienso en ella.
+Dialogue: 0,0:13:24.66,0:13:28.29,Gen_Main,,0,0,0,,{\i1}He besado a otras chicas\N{\i1}y hasta tocado sus pechos,
+Dialogue: 0,0:13:28.37,0:13:31.24,Gen_Main,,0,0,0,,{\i1}pero mi corazón\N{\i1}solo le pertenece a ella.
+Dialogue: 0,0:13:31.79,0:13:34.88,Gen_Main,,0,0,0,,{\i1}¡Nunca me enamoraré de nadie más!
+Dialogue: 0,0:13:39.46,0:13:41.13,Gen_Main,,0,0,0,,¡Corran!
+Dialogue: 0,0:13:42.26,0:13:43.55,Gen_Main,,0,0,0,,¡Yuju!
+Dialogue: 0,0:13:43.64,0:13:44.85,Gen_Main,,0,0,0,,¡Agua! ¡Agua!
+Dialogue: 0,0:13:44.93,0:13:47.54,Gen_Main,,0,0,0,,¡Cae agua!
+Dialogue: 0,0:13:50.06,0:13:52.60,Gen_Main,,0,0,0,,¡Beam, te dije que te escondieras!
+Dialogue: 0,0:13:52.69,0:13:55.69,Gen_Main,,0,0,0,,Si alguien te ve, no podré caminar en paz.
+Dialogue: 0,0:13:55.77,0:13:56.80,Gen_Main,,0,0,0,,¡Bien!
+Dialogue: 0,0:13:58.86,0:14:02.23,Gen_Main,,0,0,0,,¿Por qué todos los poseídos\Ntienen nombres tan raros?
+Dialogue: 0,0:14:14.54,0:14:17.17,Gen_Main,,0,0,0,,Debí haber traído un paraguas.
+Dialogue: 0,0:14:31.27,0:14:32.76,Gen_Main,,0,0,0,,Hola, disculpa.
+Dialogue: 0,0:14:33.27,0:14:35.44,Gen_Main,,0,0,0,,Sí que llueve, ¿eh?
+Dialogue: 0,0:14:38.98,0:14:41.01,Gen_Main,,0,0,0,,En el pronóstico del tiempo…
+Dialogue: 0,0:14:48.20,0:14:49.69,Gen_Main,,0,0,0,,¿Eh? ¿Qué pasa?
+Dialogue: 0,0:14:50.12,0:14:52.03,Gen_Main,,0,0,0,,Ay, perdón…
+Dialogue: 0,0:14:53.37,0:14:54.95,Gen_Main,,0,0,0,,¿Qué te pasa?
+Dialogue: 0,0:14:59.67,0:15:02.38,Gen_Main,,0,0,0,,¿Por qué estás llorando?
+Dialogue: 0,0:15:02.46,0:15:04.12,Gen_Main,,0,0,0,,Lo siento.
+Dialogue: 0,0:15:04.80,0:15:06.08,Gen_Main,,0,0,0,,Es que tu cara…
+Dialogue: 0,0:15:06.59,0:15:09.13,Gen_Main,,0,0,0,,me recuerda a mi perrito que murió.
+Dialogue: 0,0:15:10.10,0:15:12.35,Gen_Main,,0,0,0,,¿Tengo cara de perro?
+Dialogue: 0,0:15:12.43,0:15:15.01,Gen_Main,,0,0,0,,¡Perdón! ¡Perdón!
+Dialogue: 0,0:15:20.23,0:15:21.36,Gen_Main,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:15:27.99,0:15:30.52,Gen_Main,,0,0,0,,¡Espera, tengo un pañuelo!
+Dialogue: 0,0:15:33.04,0:15:34.83,Gen_Main,,0,0,0,,¡Tarán!
+Dialogue: 0,0:15:35.46,0:15:38.08,Gen_Main,,0,0,0,,¿Qué?\N¿Un truco de magia?
+Dialogue: 0,0:15:38.71,0:15:40.07,Gen_Main,,0,0,0,,¡Qué locura!
+Dialogue: 0,0:15:40.84,0:15:43.41,Gen_Main,,0,0,0,,Y sin trucos de por medio.
+Dialogue: 0,0:15:47.13,0:15:48.42,Gen_Main,,0,0,0,,Gracias.
+Dialogue: 0,0:16:02.61,0:16:04.48,Gen_Main,,0,0,0,,¡Ya dejó de llover!
+Dialogue: 0,0:16:05.86,0:16:09.24,Gen_Main,,0,0,0,,Trabajo en el café Encrucijada\Nque está por aquí cerca.
+Dialogue: 0,0:16:09.32,0:16:11.49,Gen_Main,,0,0,0,,Si vas, te invito algo.
+Dialogue: 0,0:16:12.58,0:16:14.11,Gen_Main,,0,0,0,,Te estaré esperando.
+Dialogue: 0,0:16:55.99,0:16:57.04,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:16:57.62,0:17:00.67,Gen_Main,,0,0,0,,Llegas tarde.\NTe lo descontaré del sueldo.
+Dialogue: 0,0:17:00.75,0:17:01.79,Gen_Main,,0,0,0,,¡Tacaño!
+Dialogue: 0,0:17:02.38,0:17:04.17,Gen_Main,,0,0,0,,Lleva agua a la mesa cuatro.
+Dialogue: 0,0:17:04.25,0:17:06.95,Gen_Main,,0,0,0,,¡Tacaño! ¡Tacaño! ¡Tacaño!
+Dialogue: 0,0:17:11.63,0:17:13.30,Gen_Main,,0,0,0,,¡Qué rápido!
+Dialogue: 0,0:17:13.39,0:17:16.85,Gen_Main,,0,0,0,,¿Qué? ¡Llegaste antes que yo!
+Dialogue: 0,0:17:16.93,0:17:18.96,Gen_Main,,0,0,0,,Ahora que lo pienso, sí.
+Dialogue: 0,0:17:20.39,0:17:22.56,Gen_Main,,0,0,0,,Solo vine por lo que me dijiste.
+Dialogue: 0,0:17:28.69,0:17:30.82,Gen_Main,,0,0,0,,Pues sentémonos juntos.
+Dialogue: 0,0:17:30.90,0:17:34.48,Gen_Main,,0,0,0,,Oiga, jefe, ¿nos sirve café?
+Dialogue: 0,0:17:35.20,0:17:37.08,Gen_Main,,0,0,0,,Pero si tú trabajas aquí.
+Dialogue: 0,0:17:37.16,0:17:39.08,Gen_Main,,0,0,0,,¿Qué importa?
+Dialogue: 0,0:17:39.16,0:17:41.95,Gen_Main,,0,0,0,,Solo tenemos clientes por la mañana.
+Dialogue: 0,0:17:44.08,0:17:45.41,Gen_Main,,0,0,0,,Está bien…
+Dialogue: 0,0:17:46.80,0:17:48.84,Gen_Main,,0,0,0,,Un café de agradecimiento.
+Dialogue: 0,0:17:49.71,0:17:50.87,Gen_Main,,0,0,0,,¿Bebes café?
+Dialogue: 0,0:17:51.47,0:17:52.66,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:17:58.10,0:18:01.18,Gen_Main,,0,0,0,,¿Y esa cara?\NTe lo bebiste obligado.
+Dialogue: 0,0:18:01.27,0:18:03.35,Gen_Main,,0,0,0,,Porque sabe horrible.
+Dialogue: 0,0:18:03.44,0:18:05.36,Gen_Main,,0,0,0,,Como agua de alcantarilla.
+Dialogue: 0,0:18:08.48,0:18:10.28,Gen_Main,,0,0,0,,Suenas como un niño.
+Dialogue: 0,0:18:12.28,0:18:16.02,Gen_Main,,0,0,0,,{\i1}Me está tocando mucho\N{\i1}y se ríe de lo que digo.
+Dialogue: 0,0:18:16.45,0:18:17.78,Gen_Main,,0,0,0,,{\i1}¿No será que…
+Dialogue: 0,0:18:18.54,0:18:20.19,Gen_Main,,0,0,0,,{\i1}le gusto o algo así?
+Dialogue: 0,0:18:21.79,0:18:23.40,Gen_Main,,0,0,0,,Me llamo Reze.
+Dialogue: 0,0:18:23.83,0:18:24.92,Gen_Main,,0,0,0,,¿Y tú?
+Dialogue: 0,0:18:25.88,0:18:27.03,Gen_Main,,0,0,0,,Denji.
+Dialogue: 0,0:18:27.88,0:18:28.92,Gen_Main,,0,0,0,,¿Denji?
+Dialogue: 0,0:18:29.71,0:18:31.13,Gen_Main,,0,0,0,,Denji…
+Dialogue: 0,0:18:35.26,0:18:38.63,Gen_Main,,0,0,0,,Denji, nunca había conocido\Na alguien tan interesante.
+Dialogue: 0,0:18:42.43,0:18:44.80,Gen_Main,,0,0,0,,{\i1}Estoy seguro. Le gusto.
+Dialogue: 0,0:18:46.19,0:18:47.69,Gen_Main,,0,0,0,,{\i1}¿Qué hago?
+Dialogue: 0,0:18:48.27,0:18:50.93,Gen_Main,,0,0,0,,{\i1}Me gusta la gente\N{\i1}a la que le gusto.
+Dialogue: 0,0:18:52.07,0:18:54.23,Gen_Main,,0,0,0,,{\i1}Auxilio, señorita Makima…
+Dialogue: 0,0:18:55.24,0:18:58.31,Gen_Main,,0,0,0,,{\i1}Puede que me enamore de esta chica.
+Dialogue: 0,0:19:14.38,0:19:16.97,Gen_Main,,0,0,0,,Ya te comiste tres. Son suficientes.
+Dialogue: 0,0:19:17.05,0:19:18.47,Gen_Main,,0,0,0,,Vámonos a patrullar.
+Dialogue: 0,0:19:20.31,0:19:22.81,Gen_Main,,0,0,0,,Comer helado me cansó.
+Dialogue: 0,0:19:22.89,0:19:25.38,Gen_Main,,0,0,0,,Dicen que comer consume energía.
+Dialogue: 0,0:19:30.73,0:19:33.23,Gen_Main,,0,0,0,,Ya no quiero trabajar hoy.
+Dialogue: 0,0:19:34.07,0:19:37.24,Gen_Main,,0,0,0,,Habrá una campaña para acabar\Ncon el Demonio de las Armas de Fuego.
+Dialogue: 0,0:19:37.32,0:19:42.15,Gen_Main,,0,0,0,,Para que me dejen participar,\Ndebo vencer a más demonios poderosos.
+Dialogue: 0,0:19:42.83,0:19:46.25,Gen_Main,,0,0,0,,Y para eso debo encontrar más demonios.
+Dialogue: 0,0:19:46.33,0:19:49.41,Gen_Main,,0,0,0,,Como tu compañero, te pido que me ayudes.
+Dialogue: 0,0:19:59.30,0:20:02.10,Gen_Main,,0,0,0,,¿Y si lo pienso\Ndespués de comerme otro helado?
+Dialogue: 0,0:20:03.64,0:20:04.67,Gen_Main,,0,0,0,,Levántate.
+Dialogue: 0,0:20:05.10,0:20:07.73,Gen_Main,,0,0,0,,Si reporto a los jefes que no sirves,
+Dialogue: 0,0:20:07.81,0:20:10.94,Gen_Main,,0,0,0,,te pondrán a dormir como demonio.\N¿Prefieres eso?
+Dialogue: 0,0:20:18.66,0:20:21.62,Gen_Main,,0,0,0,,Tal vez prefiera morir\Na tener que trabajar.
+Dialogue: 0,0:20:24.91,0:20:28.75,Gen_Main,,0,0,0,,{\i1}Después del capitán Kishibe,\N{\i1}es el más fuerte en la 4.ª Sección.
+Dialogue: 0,0:20:30.08,0:20:32.82,Gen_Main,,0,0,0,,O lo sería si no fuera tan holgazán.
+Dialogue: 0,0:20:33.59,0:20:36.84,Gen_Main,,0,0,0,,Si quieres participar en la campaña,
+Dialogue: 0,0:20:36.92,0:20:39.71,Gen_Main,,0,0,0,,te recomiendo aprender a manipularlo.
+Dialogue: 0,0:20:40.97,0:20:43.58,Gen_Main,,0,0,0,,No sé si me lleve bien con un demonio.
+Dialogue: 0,0:20:44.18,0:20:47.09,Gen_Main,,0,0,0,,Pero te llevas bien con Power, ¿no?
+Dialogue: 0,0:20:47.56,0:20:50.63,Gen_Main,,0,0,0,,Nos peleamos a puños esta mañana.
+Dialogue: 0,0:20:52.56,0:20:55.35,Gen_Main,,0,0,0,,Tampoco es que tengan que ser amigos.
+Dialogue: 0,0:20:56.03,0:20:58.99,Gen_Main,,0,0,0,,Basta con que lo uses\Npara nuestro beneficio.
+Dialogue: 0,0:20:59.53,0:21:04.20,Gen_Main,,0,0,0,,Él mató a todos los aldeanos\Ndel lugar donde nació.
+Dialogue: 0,0:21:04.28,0:21:05.74,Gen_Main,,0,0,0,,O, para ser más precisos,
+Dialogue: 0,0:21:06.41,0:21:09.50,Gen_Main,,0,0,0,,absorbió su fuerza vital\Ny la transformó en un arma.
+Dialogue: 0,0:21:10.21,0:21:11.25,Gen_Main,,0,0,0,,¿En un arma?
+Dialogue: 0,0:21:11.79,0:21:15.59,Gen_Main,,0,0,0,,Convierte la vida de los que toca\Nen armas.
+Dialogue: 0,0:21:15.67,0:21:19.51,Gen_Main,,0,0,0,,La katana que llevas es una de ellas.
+Dialogue: 0,0:21:19.59,0:21:23.09,Gen_Main,,0,0,0,,Sus armas poseen cualidades muy variadas,
+Dialogue: 0,0:21:23.18,0:21:25.51,Gen_Main,,0,0,0,,como cortar fantasmas intangibles.
+Dialogue: 0,0:21:27.31,0:21:30.44,Gen_Main,,0,0,0,,Solo tienes que fingir\Nllevarte bien con él.
+Dialogue: 0,0:21:30.52,0:21:33.05,Gen_Main,,0,0,0,,Te aseguro que te será de utilidad.
+Dialogue: 0,0:21:54.29,0:21:55.95,Gen_Main,,0,0,0,,¡Ya vencimos al demonio!
+Dialogue: 0,0:21:56.38,0:21:59.99,Gen_Main,,0,0,0,,¡Procuren no tocar\Nsu carne o su sangre!
+Dialogue: 0,0:22:06.68,0:22:08.96,Gen_Main,,0,0,0,,Qué apetitoso se ve.
+Dialogue: 0,0:22:11.02,0:22:12.69,Gen_Main,,0,0,0,,Oye, humanito.
+Dialogue: 0,0:22:12.77,0:22:14.30,Gen_Main,,0,0,0,,Ven a ver.
+Dialogue: 0,0:22:15.40,0:22:18.40,Gen_Main,,0,0,0,,Este parece un Devil Hunter civil.
+Dialogue: 0,0:22:18.48,0:22:20.94,Gen_Main,,0,0,0,,Me imagino que se lo tragó.
+Dialogue: 0,0:22:21.03,0:22:24.23,Gen_Main,,0,0,0,,Pero le falta medio cuerpo\Ny está moribundo.
+Dialogue: 0,0:22:29.83,0:22:32.96,Gen_Main,,0,0,0,,Maten… Mátenme…
+Dialogue: 0,0:22:33.54,0:22:36.33,Gen_Main,,0,0,0,,Tu poder podría darle una muerte indolora.
+Dialogue: 0,0:22:36.42,0:22:37.87,Gen_Main,,0,0,0,,Mátalo de una vez.
+Dialogue: 0,0:22:38.29,0:22:39.71,Gen_Main,,0,0,0,,¿Qué? No quiero.
+Dialogue: 0,0:22:40.34,0:22:42.72,Gen_Main,,0,0,0,,Soy tanto ángel como demonio.
+Dialogue: 0,0:22:43.38,0:22:46.21,Gen_Main,,0,0,0,,Y creo que los humanos\Nhan de morir sufriendo.
+Dialogue: 0,0:23:05.28,0:23:07.87,Gen_Main,,0,0,0,,No me llevaré bien contigo ni fingiendo.
+Dialogue: 0,0:23:09.08,0:23:10.15,Gen_Main,,0,0,0,,Supongo.
+Dialogue: 0,0:23:13.70,0:23:17.03,Gen_Main,,0,0,0,,{\i1}La señorita Makima encontró mi corazón.
+Dialogue: 0,0:23:17.54,0:23:21.41,Gen_Main,,0,0,0,,{\i1}Y, por eso, mi corazón\N{\i1}le pertenece solo a ella.
+Dialogue: 0,0:23:22.84,0:23:25.38,Gen_Main,,0,0,0,,{\i1}Pero… mi cuerpo…
+Dialogue: 0,0:23:25.47,0:23:27.00,Gen_Main,,0,0,0,,{\i1}se mueve solo.
+Dialogue: 0,0:23:29.10,0:23:31.26,Gen_Main,,0,0,0,,¡Ah, un cliente!
+Dialogue: 0,0:23:31.35,0:23:32.89,Gen_Main,,0,0,0,,Vine a almorzar.
+Dialogue: 0,0:23:33.93,0:23:38.01,Gen_Main,,0,0,0,,La comida no es tan buena como para\Nvenir a diario una semana entera.
+Dialogue: 0,0:23:38.56,0:23:39.90,Gen_Main,,0,0,0,,Sí lo es.
+Dialogue: 0,0:23:39.98,0:23:41.52,Gen_Main,,0,0,0,,Sí es buena.
+Dialogue: 0,0:23:41.61,0:23:43.51,Gen_Main,,0,0,0,,Tienen mal gusto.
+Dialogue: 0,0:23:44.61,0:23:46.02,Gen_Main,,0,0,0,,Veamos…
+Dialogue: 0,0:23:46.49,0:23:49.45,Gen_Main,,0,0,0,,Quiero curry y helado.
+Dialogue: 0,0:23:49.53,0:23:50.78,Gen_Main,,0,0,0,,¡Y arroz frito!
+Dialogue: 0,0:23:50.87,0:23:54.70,Gen_Main,,0,0,0,,¿No quieres comer en esta mesa?
+Dialogue: 0,0:23:54.79,0:23:55.79,Gen_Main,,0,0,0,,Aquí estoy bien.
+Dialogue: 0,0:23:55.87,0:23:59.04,Gen_Main,,0,0,0,,Además, estás estudiando.\NAunque estás trabajando.
+Dialogue: 0,0:23:59.13,0:24:01.84,Gen_Main,,0,0,0,,Tú no vas a la escuela, ¿o sí?
+Dialogue: 0,0:24:01.92,0:24:03.80,Gen_Main,,0,0,0,,Aunque tienes 16 años.
+Dialogue: 0,0:24:06.63,0:24:10.26,Gen_Main,,0,0,0,,Tu caso es mucho peor que el mío.
+Dialogue: 0,0:24:10.34,0:24:12.22,Gen_Main,,0,0,0,,¿Sí? ¿Tú crees?
+Dialogue: 0,0:24:12.31,0:24:13.56,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:24:13.64,0:24:18.94,Gen_Main,,0,0,0,,Es raro que trabajes de Devil Hunter\Nsin siquiera haber ido a la escuela.
+Dialogue: 0,0:24:24.44,0:24:27.40,Gen_Main,,0,0,0,,Voy a estudiar acá.
+Dialogue: 0,0:24:27.49,0:24:28.95,Gen_Main,,0,0,0,,Hazte para allá.
+Dialogue: 0,0:24:33.12,0:24:35.50,Gen_Main,,0,0,0,,Me gustaría aprender a leer kanji.
+Dialogue: 0,0:24:35.58,0:24:37.21,Gen_Main,,0,0,0,,¿No sabes leer kanji?
+Dialogue: 0,0:24:37.75,0:24:39.45,Gen_Main,,0,0,0,,¡Pues yo te enseño!
+Dialogue: 0,0:24:40.46,0:24:41.71,Gen_Main,,0,0,0,,Responde.
+Dialogue: 0,0:24:42.25,0:24:43.34,Gen_Main,,0,0,0,,¡Tarán!
+Dialogue: 0,0:24:43.42,0:24:45.30,Gen_Main,,0,0,0,,¿Cómo se lee esto?
+Dialogue: 0,0:24:45.38,0:24:47.84,Gen_Main,,0,0,0,,¡Ahí dice "testículos", cochina!
+Dialogue: 0,0:24:47.92,0:24:50.22,Gen_Main,,0,0,0,,Pues sí sabes leerlos.
+Dialogue: 0,0:24:50.76,0:24:53.50,Gen_Main,,0,0,0,,Eso es lo único que sé leer.
+Dialogue: 0,0:24:57.39,0:24:58.92,Gen_Main,,0,0,0,,Qué raro eres.
+Dialogue: 0,0:25:04.40,0:25:07.57,Gen_Main,,0,0,0,,Me habría gustado ir a la escuela contigo.
+Dialogue: 0,0:25:07.65,0:25:09.23,Gen_Main,,0,0,0,,Habría sido divertido.
+Dialogue: 0,0:25:14.91,0:25:16.82,Gen_Main,,0,0,0,,{\i1}¿Qué estoy diciendo?
+Dialogue: 0,0:25:21.04,0:25:22.79,Gen_Main,,0,0,0,,¿Quieres ir conmigo?
+Dialogue: 0,0:25:22.88,0:25:24.75,Gen_Main,,0,0,0,,- De noche.\N- ¿De noche?
+Dialogue: 0,0:25:25.34,0:25:28.88,Gen_Main,,0,0,0,,¿Vamos a explorar la escuela de noche?
+Dialogue: 0,0:25:32.93,0:25:34.00,Gen_Main,,0,0,0,,Voy.
+Dialogue: 0,0:25:34.97,0:25:37.14,Gen_Main,,0,0,0,,{\i1}¡Mi corazón es de la señorita Makima,
+Dialogue: 0,0:25:38.14,0:25:41.13,Gen_Main,,0,0,0,,{\i1}pero mi cuerpo no me hace caso!
+Dialogue: 0,0:25:52.07,0:25:53.44,Gen_Main,,0,0,0,,Tifón.
+Dialogue: 0,0:25:54.07,0:25:55.12,Gen_Main,,0,0,0,,¿Qué quieres?
+Dialogue: 0,0:25:55.70,0:26:00.36,Gen_Main,,0,0,0,,¿Por qué los demonios van\Ntras el corazón de Chainsaw?
+Dialogue: 0,0:26:01.96,0:26:03.58,Gen_Main,,0,0,0,,No necesitas saberlo.
+Dialogue: 0,0:26:03.67,0:26:07.37,Gen_Main,,0,0,0,,Tú preocúpate de cumplir\Ntu parte de nuestro contrato.
+Dialogue: 0,0:26:08.30,0:26:11.17,Gen_Main,,0,0,0,,Creo que trabajaremos juntos\Npor mucho tiempo.
+Dialogue: 0,0:26:11.26,0:26:13.46,Gen_Main,,0,0,0,,Deberíamos llevarnos mejor,
+Dialogue: 0,0:26:14.84,0:26:17.39,Gen_Main,,0,0,0,,Demonio de los Tifones.
+Dialogue: 0,0:26:20.56,0:26:25.56,Gen_Main,,0,0,0,,Según el contrato, si te consigo\Nel corazón de Chainsaw,
+Dialogue: 0,0:26:25.65,0:26:27.80,Gen_Main,,0,0,0,,podré usar tu poder para siempre.
+Dialogue: 0,0:26:28.23,0:26:29.44,Gen_Main,,0,0,0,,Ten cuidado.
+Dialogue: 0,0:26:29.53,0:26:34.41,Gen_Main,,0,0,0,,Quien porta el corazón de Chainsaw\Nha matado a muchos demonios.
+Dialogue: 0,0:26:34.95,0:26:38.41,Gen_Main,,0,0,0,,Porque los demonios no son muy listos.
+Dialogue: 0,0:26:41.70,0:26:46.42,Gen_Main,,0,0,0,,Una vez maté a un Devil Hunter\Nen China por un encargo.
+Dialogue: 0,0:26:46.50,0:26:51.70,Gen_Main,,0,0,0,,Decían que era cruel y despiadado.\NUn Devil Hunter desprovisto de emociones.
+Dialogue: 0,0:26:52.51,0:26:54.41,Gen_Main,,0,0,0,,¿Y cómo lo mataste?
+Dialogue: 0,0:27:01.77,0:27:04.84,Gen_Main,,0,0,0,,Buscando algo que le importara.
+Dialogue: 0,0:27:05.27,0:27:08.15,Gen_Main,,0,0,0,,Secuestré a su esposa e hija.
+Dialogue: 0,0:27:08.23,0:27:11.23,Gen_Main,,0,0,0,,Y, al mostrarle la piel\Nque les arranqué,
+Dialogue: 0,0:27:11.32,0:27:13.31,Gen_Main,,0,0,0,,se dejó matar como si nada.
+Dialogue: 0,0:27:28.04,0:27:29.46,Gen_Main,,0,0,0,,¿No te da miedo, Denji?
+Dialogue: 0,0:27:30.50,0:27:34.26,Gen_Main,,0,0,0,,No, más que darme miedo,
+Dialogue: 0,0:27:34.34,0:27:35.87,Gen_Main,,0,0,0,,se siente extraño.
+Dialogue: 0,0:27:37.39,0:27:38.97,Gen_Main,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:27:44.93,0:27:47.23,Gen_Main,,0,0,0,,Yo sí tengo algo de miedo.
+Dialogue: 0,0:27:47.98,0:27:49.59,Gen_Main,,0,0,0,,¿Puedo tomarte la mano?
+Dialogue: 0,0:27:59.57,0:28:01.16,Gen_Main,,0,0,0,,{\i1}Señorita Makima,
+Dialogue: 0,0:28:01.24,0:28:03.98,Gen_Main,,0,0,0,,{\i1}le juro que no quiero tomarla de la mano.
+Dialogue: 0,0:28:05.71,0:28:08.40,Gen_Main,,0,0,0,,{\i1}Pero es que mi cuerpo…
+Dialogue: 0,0:28:13.21,0:28:15.76,Gen_Main,,0,0,0,,¿Hay alguien que sepa la respuesta?
+Dialogue: 0,0:28:15.84,0:28:17.34,Gen_Main,,0,0,0,,¡Yo! ¡Yo! ¡Yo!
+Dialogue: 0,0:28:17.43,0:28:18.72,Gen_Main,,0,0,0,,¡Dos! ¡Es Dos!
+Dialogue: 0,0:28:18.80,0:28:20.37,Gen_Main,,0,0,0,,¡Correcto! ¡Eres un genio!
+Dialogue: 0,0:28:21.60,0:28:25.39,Gen_Main,,0,0,0,,- ¿Qué significa esto en español?\N- ¡No sé!
+Dialogue: 0,0:28:25.47,0:28:27.94,Gen_Main,,0,0,0,,Significa "trasero enorme".
+Dialogue: 0,0:28:28.02,0:28:29.40,Gen_Main,,0,0,0,,¡Cochina!
+Dialogue: 0,0:28:30.44,0:28:33.61,Gen_Main,,0,0,0,,Conque así es la escuela, ¿eh?
+Dialogue: 0,0:28:33.69,0:28:35.28,Gen_Main,,0,0,0,,Creo que ya entendí.
+Dialogue: 0,0:28:36.86,0:28:40.28,Gen_Main,,0,0,0,,Oye, ¿es cierto que ni siquiera\Nfuiste a la primaria?
+Dialogue: 0,0:28:40.36,0:28:41.85,Gen_Main,,0,0,0,,¿Eh? Sí.
+Dialogue: 0,0:28:42.41,0:28:46.91,Gen_Main,,0,0,0,,Pues no creo que eso esté bien.
+Dialogue: 0,0:28:47.00,0:28:48.41,Gen_Main,,0,0,0,,¿Es malo?
+Dialogue: 0,0:28:49.25,0:28:50.74,Gen_Main,,0,0,0,,Más que malo…
+Dialogue: 0,0:28:51.33,0:28:52.54,Gen_Main,,0,0,0,,no es normal.
+Dialogue: 0,0:28:54.63,0:28:57.45,Gen_Main,,0,0,0,,A los 16 sigues siendo un niño.
+Dialogue: 0,0:28:57.88,0:29:00.18,Gen_Main,,0,0,0,,Deberías estudiar para tus exámenes,
+Dialogue: 0,0:29:00.26,0:29:03.80,Gen_Main,,0,0,0,,asistir a algún club\Ny salir con tus amigos.
+Dialogue: 0,0:29:04.39,0:29:08.76,Gen_Main,,0,0,0,,Pero tú matas demonios\Nponiendo tu vida en peligro.
+Dialogue: 0,0:29:09.23,0:29:13.26,Gen_Main,,0,0,0,,¿Crees que Seguridad Pública\Nsea el lugar más indicado para ti?
+Dialogue: 0,0:29:14.90,0:29:17.72,Gen_Main,,0,0,0,,A mí me parece un buen lugar.
+Dialogue: 0,0:29:18.36,0:29:20.20,Gen_Main,,0,0,0,,Puedo comer tres veces al día.
+Dialogue: 0,0:29:20.28,0:29:21.94,Gen_Main,,0,0,0,,Y duermo en un futón.
+Dialogue: 0,0:29:23.70,0:29:27.11,Gen_Main,,0,0,0,,Pero eso es lo básico\Npara cualquiera en Japón.
+Dialogue: 0,0:29:27.54,0:29:29.57,Gen_Main,,0,0,0,,Es de lo más normal.
+Dialogue: 0,0:29:33.46,0:29:36.33,Gen_Main,,0,0,0,,Se me calentó el cerebro de tanto pensar.
+Dialogue: 0,0:29:38.88,0:29:39.92,Gen_Main,,0,0,0,,Entonces…
+Dialogue: 0,0:29:41.43,0:29:43.37,Gen_Main,,0,0,0,,¿Vamos a refrescarnos?
+Dialogue: 0,0:29:55.15,0:29:56.80,Gen_Main,,0,0,0,,¡Qué fría está!
+Dialogue: 0,0:30:04.70,0:30:07.23,Gen_Main,,0,0,0,,Yo casi no sé nadar.
+Dialogue: 0,0:30:16.71,0:30:19.24,Gen_Main,,0,0,0,,Pues yo te enseñaré a nadar.
+Dialogue: 0,0:30:30.31,0:30:33.77,Gen_Main,,0,0,0,,Quítate la ropa.\NSi te metes vestido, te hundes más.
+Dialogue: 0,0:30:33.85,0:30:35.77,Gen_Main,,0,0,0,,Esto es demasiado sexy.
+Dialogue: 0,0:30:35.86,0:30:38.40,Gen_Main,,0,0,0,,¿No quieres aprender a nadar?
+Dialogue: 0,0:30:40.15,0:30:41.97,Gen_Main,,0,0,0,,Me dieron ganas de aprender.
+Dialogue: 0,0:30:47.32,0:30:49.57,Gen_Main,,0,0,0,,Desnúdate tú también.
+Dialogue: 0,0:30:50.83,0:30:53.40,Gen_Main,,0,0,0,,Está oscuro. No se ve nada.
+Dialogue: 0,0:30:54.62,0:30:56.54,Gen_Main,,0,0,0,,{\i1}- ¡Cálmate!\N{\i1}- ¡Se le ve todo!
+Dialogue: 0,0:30:56.63,0:31:00.62,Gen_Main,,0,0,0,,{\i1}¡Nunca había visto pezones!\N{\i1}Si me desnudo, estaré siendo infiel.
+Dialogue: 0,0:31:05.97,0:31:07.17,Gen_Main,,0,0,0,,{\i1}¡Maldición!
+Dialogue: 0,0:31:13.14,0:31:16.43,Gen_Main,,0,0,0,,¡Vamos! ¡Métete tú también!
+Dialogue: 0,0:31:17.40,0:31:21.57,Gen_Main,,0,0,0,,{\i1}¡No lo hagas!\N{\i1}¡Si vas, tu corazón será suyo!
+Dialogue: 0,0:31:22.53,0:31:23.82,Gen_Main,,0,0,0,,Ya entiendo.
+Dialogue: 0,0:31:23.90,0:31:26.95,Gen_Main,,0,0,0,,Te da miedo meterte porque no sabes nadar.
+Dialogue: 0,0:31:30.03,0:31:31.45,Gen_Main,,0,0,0,,¡Vamos!
+Dialogue: 0,0:31:31.54,0:31:32.75,Gen_Main,,0,0,0,,¡Se siente genial!
+Dialogue: 0,0:31:34.08,0:31:35.50,Gen_Main,,0,0,0,,¡Date prisa!
+Dialogue: 0,0:32:55.33,0:32:56.57,Gen_Main,,0,0,0,,Déjame enseñarte.
+Dialogue: 0,0:32:58.00,0:33:01.92,Gen_Main,,0,0,0,,Lo que no sepas\No lo que no puedas hacer.
+Dialogue: 0,0:33:02.96,0:33:06.16,Gen_Main,,0,0,0,,Yo te lo enseñaré todo.
+Dialogue: 0,0:33:12.39,0:33:14.68,Gen_Main,,0,0,0,,¡Denji! ¡Respira! ¡Respira!
+Dialogue: 0,0:33:28.86,0:33:30.28,Gen_Main,,0,0,0,,¡Está lloviendo!
+Dialogue: 0,0:33:30.36,0:33:31.44,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:33:54.76,0:33:56.71,Gen_Main,,0,0,0,,No para de llover, ¿eh?
+Dialogue: 0,0:34:04.69,0:34:06.30,Gen_Main,,0,0,0,,Denji…
+Dialogue: 0,0:34:06.86,0:34:12.11,Gen_Main,,0,0,0,,¿Preferirías ser el ratón del campo\No el ratón de la ciudad?
+Dialogue: 0,0:34:12.99,0:34:14.35,Gen_Main,,0,0,0,,¿De qué hablas?
+Dialogue: 0,0:34:15.49,0:34:17.52,Gen_Main,,0,0,0,,Es una fábula de Esopo.
+Dialogue: 0,0:34:20.37,0:34:23.29,Gen_Main,,0,0,0,,El ratón del campo vive seguro,
+Dialogue: 0,0:34:23.37,0:34:25.74,Gen_Main,,0,0,0,,pero sin la rica comida de la ciudad.
+Dialogue: 0,0:34:26.59,0:34:29.88,Gen_Main,,0,0,0,,Y aunque el ratón de la ciudad\Ncome muy bien,
+Dialogue: 0,0:34:29.96,0:34:32.63,Gen_Main,,0,0,0,,siempre podría matarlo\Nun gato o un humano.
+Dialogue: 0,0:34:37.01,0:34:39.55,Gen_Main,,0,0,0,,Yo preferiría ser el ratón del campo.
+Dialogue: 0,0:34:40.72,0:34:45.55,Gen_Main,,0,0,0,,Pero Makima me atrapó\Ny me trajo a la ciudad.
+Dialogue: 0,0:34:50.15,0:34:52.47,Gen_Main,,0,0,0,,Mi corazón se quedó en el campo.
+Dialogue: 0,0:34:52.99,0:34:56.40,Gen_Main,,0,0,0,,No me gusta correr peligro\Nandando con un citadino como tú.
+Dialogue: 0,0:34:58.20,0:34:59.28,Gen_Main,,0,0,0,,Escucha…
+Dialogue: 0,0:35:03.50,0:35:06.17,Gen_Main,,0,0,0,,Prefiero ser el ratón de la ciudad.
+Dialogue: 0,0:35:06.25,0:35:07.29,Gen_Main,,0,0,0,,¿Qué?
+Dialogue: 0,0:35:07.38,0:35:09.96,Gen_Main,,0,0,0,,Pero si es mejor ser el del campo.
+Dialogue: 0,0:35:10.05,0:35:12.17,Gen_Main,,0,0,0,,No hay nada como la paz.
+Dialogue: 0,0:35:12.26,0:35:14.30,Gen_Main,,0,0,0,,Pero la ciudad tiene comida rica.
+Dialogue: 0,0:35:14.38,0:35:15.62,Gen_Main,,0,0,0,,Y es más divertida.
+Dialogue: 0,0:35:16.72,0:35:19.85,Gen_Main,,0,0,0,,¿Te conformas comiendo y divirtiéndote?
+Dialogue: 0,0:35:19.93,0:35:21.22,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:35:24.56,0:35:28.15,Gen_Main,,0,0,0,,En ese caso, mañana habrá\Nun festival por aquí cerca.
+Dialogue: 0,0:35:28.23,0:35:31.73,Gen_Main,,0,0,0,,¿Quieres ir?\NHabrá comida y diversión.
+Dialogue: 0,0:35:33.94,0:35:36.36,Gen_Main,,0,0,0,,Solo puedo ir después del trabajo.
+Dialogue: 0,0:35:36.45,0:35:39.87,Gen_Main,,0,0,0,,¡Viva! ¡Qué bien!\NEs una promesa, ¿eh?
+Dialogue: 0,0:35:42.45,0:35:45.08,Gen_Main,,0,0,0,,Iré al baño y vuelvo.
+Dialogue: 0,0:35:51.34,0:35:53.08,Gen_Main,,0,0,0,,Es superlinda.
+Dialogue: 0,0:37:01.57,0:37:02.85,Gen_Main,,0,0,0,,¿Denji?
+Dialogue: 0,0:37:07.70,0:37:11.17,Gen_Main,,0,0,0,,Sí, sí. Soy Denji.
+Dialogue: 0,0:37:12.33,0:37:16.70,Gen_Main,,0,0,0,,Yo también quería ir al baño.
+Dialogue: 0,0:37:21.05,0:37:23.46,Gen_Main,,0,0,0,,¿Por qué no vamos juntos?
+Dialogue: 0,0:37:24.18,0:37:25.59,Gen_Main,,0,0,0,,¿Sí?
+Dialogue: 0,0:37:35.57,0:37:36.64,Gen_Main,,0,0,0,,Pochita.
+Dialogue: 0,0:37:37.15,0:37:39.39,Gen_Main,,0,0,0,,Me gustan dos chicas.
+Dialogue: 0,0:37:40.95,0:37:42.48,Gen_Main,,0,0,0,,¿Quiénes crees que son?
+Dialogue: 0,0:37:43.78,0:37:45.56,Gen_Main,,0,0,0,,{\i1}No hablo del ángel ese.
+Dialogue: 0,0:37:46.20,0:37:47.87,Gen_Main,,0,0,0,,{\i1}Dicen que es hombre.
+Dialogue: 0,0:37:54.33,0:37:57.21,Gen_Main,,0,0,0,,{\i1}La pequeñita no es fea de cara,
+Dialogue: 0,0:37:57.30,0:37:59.58,Gen_Main,,0,0,0,,{\i1}pero intentó matarme.
+Dialogue: 0,0:38:01.97,0:38:03.64,Gen_Main,,0,0,0,,¡Vamos!
+Dialogue: 0,0:38:04.22,0:38:07.64,Gen_Main,,0,0,0,,{\i1}Power también intenta matarme\N{\i1}de vez en cuando.
+Dialogue: 0,0:38:07.72,0:38:12.17,Gen_Main,,0,0,0,,{\i1}Es narcisista, egoísta,\N{\i1}mentirosa compulsiva y discriminadora.
+Dialogue: 0,0:38:13.81,0:38:15.90,Gen_Main,,0,0,0,,¿Por qué huyes?
+Dialogue: 0,0:38:15.98,0:38:18.78,Gen_Main,,0,0,0,,¡Prometiste que irías al baño conmigo!
+Dialogue: 0,0:38:23.78,0:38:25.35,Gen_Main,,0,0,0,,{\i1}¿Qué hago?
+Dialogue: 0,0:38:26.91,0:38:29.86,Gen_Main,,0,0,0,,{\i1}¡Al cerrar los ojos, las veo a las dos!
+Dialogue: 0,0:38:32.16,0:38:34.03,Gen_Main,,0,0,0,,{\i1}Pochita, ¿a cuál escogerías tú?
+Dialogue: 0,0:38:57.73,0:38:59.19,Gen_Main,,0,0,0,,¡Hola, hola!
+Dialogue: 0,0:39:00.28,0:39:02.97,Gen_Main,,0,0,0,,¿Quieres mear en la azotea?
+Dialogue: 0,0:39:03.40,0:39:05.89,Gen_Main,,0,0,0,,¿Quién eres tú?
+Dialogue: 0,0:39:09.03,0:39:10.70,Gen_Main,,0,0,0,,Bien que me preguntas eso,
+Dialogue: 0,0:39:10.79,0:39:13.49,Gen_Main,,0,0,0,,pero ¿acaso sabes quién eres tú?
+Dialogue: 0,0:39:14.25,0:39:16.71,Gen_Main,,0,0,0,,Yo lo sé bien.
+Dialogue: 0,0:39:16.79,0:39:18.78,Gen_Main,,0,0,0,,Eres el queso.
+Dialogue: 0,0:39:19.29,0:39:22.49,Gen_Main,,0,0,0,,El trozo de queso que hará salir al ratón.
+Dialogue: 0,0:39:22.92,0:39:25.71,Gen_Main,,0,0,0,,¿De qué hablas? ¡Ya déjame en paz!
+Dialogue: 0,0:39:27.09,0:39:32.43,Gen_Main,,0,0,0,,¡Te arrancaré la cara, te sacaré los ojos\Ny se los mostraré a Chainsaw!
+Dialogue: 0,0:39:32.52,0:39:34.42,Gen_Main,,0,0,0,,Entonces, le diré:
+Dialogue: 0,0:39:35.44,0:39:39.61,Gen_Main,,0,0,0,,"La chica que amas sigue viva".
+Dialogue: 0,0:39:42.86,0:39:44.49,Gen_Main,,0,0,0,,Cuando hago eso,
+Dialogue: 0,0:39:44.57,0:39:47.91,Gen_Main,,0,0,0,,todos se vuelven muy obedientes.
+Dialogue: 0,0:39:47.99,0:39:49.99,Gen_Main,,0,0,0,,Y solo restará matarlo.
+Dialogue: 0,0:39:50.08,0:39:54.11,Gen_Main,,0,0,0,,Lo único que quiero de tu cuerpo\Nson tus ojos y tu piel.
+Dialogue: 0,0:39:55.16,0:39:58.28,Gen_Main,,0,0,0,,¡No necesito quitarte la vida!
+Dialogue: 0,0:40:37.46,0:40:41.04,Gen_Main,,0,0,0,,{\i1}Hoy tengo una cita con Jane
+Dialogue: 0,0:40:41.13,0:40:43.00,Gen_Main,,0,0,0,,{\i1}Todo está listo
+Dialogue: 0,0:40:43.09,0:40:48.16,Gen_Main,,0,0,0,,{\i1}Iremos juntos a la iglesia por la mañana
+Dialogue: 0,0:40:48.80,0:40:52.67,Gen_Main,,0,0,0,,{\i1}Beberemos café
+Dialogue: 0,0:40:54.14,0:40:58.22,Gen_Main,,0,0,0,,{\i1}Y comeremos omelets en una cafetería
+Dialogue: 0,0:40:59.60,0:41:03.36,Gen_Main,,0,0,0,,{\i1}Luego de dar un paseo
+Dialogue: 0,0:41:03.44,0:41:08.10,Gen_Main,,0,0,0,,{\i1}por el parque
+Dialogue: 0,0:41:09.03,0:41:12.90,Gen_Main,,0,0,0,,{\i1}Iremos a un acuario
+Dialogue: 0,0:41:14.62,0:41:18.40,Gen_Main,,0,0,0,,{\i1}Veremos a los delfines y pingüinos
+Dialogue: 0,0:41:19.87,0:41:24.74,Gen_Main,,0,0,0,,{\i1}Que tanto le encantan a Jane
+Dialogue: 0,0:41:25.21,0:41:28.67,Gen_Main,,0,0,0,,{\i1}Descansaremos tras almorzar
+Dialogue: 0,0:41:28.76,0:41:34.13,Gen_Main,,0,0,0,,{\i1}Pero ¿qué fue lo que hicimos\N{\i1}por la mañana?
+Dialogue: 0,0:41:34.76,0:41:38.80,Gen_Main,,0,0,0,,{\i1}Hablaremos sobre ello
+Dialogue: 0,0:41:40.14,0:41:44.05,Gen_Main,,0,0,0,,{\i1}Hasta recordarlo
+Dialogue: 0,0:41:45.44,0:41:49.52,Gen_Main,,0,0,0,,{\i1}No nos acordaremos
+Dialogue: 0,0:41:50.49,0:41:55.61,Gen_Main,,0,0,0,,{\i1}Y nos iremos a dormir\N{\i1}a la iglesia por la noche
+Dialogue: 0,0:42:24.85,0:42:29.19,Gen_Main,,0,0,0,,Tú nos encerraste en la escuela\Ncon la tormenta, ¿no es así, Tifón?
+Dialogue: 0,0:42:30.03,0:42:32.77,Gen_Main,,0,0,0,,No sabía que estaba aquí, señorita Reze.
+Dialogue: 0,0:42:33.53,0:42:35.82,Gen_Main,,0,0,0,,Haré la vista gorda por hoy.
+Dialogue: 0,0:42:35.91,0:42:38.45,Gen_Main,,0,0,0,,Pero tendrás que obedecerme por un tiempo.
+Dialogue: 0,0:42:38.54,0:42:41.28,Gen_Main,,0,0,0,,Deshazte del cadáver de ese hombre.
+Dialogue: 0,0:43:14.74,0:43:16.02,Gen_Main,,0,0,0,,¡Bu!
+Dialogue: 0,0:44:48.08,0:44:52.09,Gen_Main,,0,0,0,,El jefe de la cafetería\Nme habló de este lugar.
+Dialogue: 0,0:44:52.17,0:44:57.08,Gen_Main,,0,0,0,,Es ideal para ver los fuegos artificiales.\NNadie más vendrá. Es un lugar secreto.
+Dialogue: 0,0:45:14.02,0:45:15.36,Gen_Main,,0,0,0,,Oye, Denji.
+Dialogue: 0,0:45:15.98,0:45:18.10,Gen_Main,,0,0,0,,Llevo un tiempo pensándolo…
+Dialogue: 0,0:45:19.03,0:45:22.37,Gen_Main,,0,0,0,,Y de verdad creo\Nque tu situación no es normal.
+Dialogue: 0,0:45:22.45,0:45:25.33,Gen_Main,,0,0,0,,Que no te envíen\Na la escuela teniendo 16 años
+Dialogue: 0,0:45:25.41,0:45:30.00,Gen_Main,,0,0,0,,y que te hagan matar demonios\Nno es algo que el Gobierno deba permitir.
+Dialogue: 0,0:45:36.59,0:45:39.50,Gen_Main,,0,0,0,,¿Por qué no renuncias\Ny te escapas conmigo?
+Dialogue: 0,0:45:40.01,0:45:42.97,Gen_Main,,0,0,0,,Te haré feliz.
+Dialogue: 0,0:45:43.72,0:45:45.59,Gen_Main,,0,0,0,,Y te protegeré de por vida.
+Dialogue: 0,0:45:46.89,0:45:48.13,Gen_Main,,0,0,0,,Por favor.
+Dialogue: 0,0:45:53.69,0:45:56.39,Gen_Main,,0,0,0,,¿Escapar? ¿Adónde?
+Dialogue: 0,0:45:57.15,0:45:58.99,Gen_Main,,0,0,0,,Si le pregunto a un conocido,
+Dialogue: 0,0:45:59.07,0:46:02.45,Gen_Main,,0,0,0,,me dirá dónde encontrar un sitio\Ndonde Seguridad Pública no te encuentre.
+Dialogue: 0,0:46:02.53,0:46:06.56,Gen_Main,,0,0,0,,Y, aunque no será enseguida,\Nalgún día podremos estudiar juntos.
+Dialogue: 0,0:46:07.70,0:46:09.57,Gen_Main,,0,0,0,,¿Por qué harías tanto por mí?
+Dialogue: 0,0:46:10.91,0:46:12.65,Gen_Main,,0,0,0,,Porque…
+Dialogue: 0,0:46:13.37,0:46:15.32,Gen_Main,,0,0,0,,me gustas, Denji.
+Dialogue: 0,0:46:25.35,0:46:27.63,Gen_Main,,0,0,0,,¿Por qué te cuesta tanto decidir?
+Dialogue: 0,0:46:28.52,0:46:30.27,Gen_Main,,0,0,0,,¿Acaso me odias?
+Dialogue: 0,0:46:30.77,0:46:32.13,Gen_Main,,0,0,0,,¡Sí me gustas!
+Dialogue: 0,0:46:33.48,0:46:34.52,Gen_Main,,0,0,0,,Pero…
+Dialogue: 0,0:46:35.02,0:46:38.10,Gen_Main,,0,0,0,,Por fin empezaban\Na apreciarme en mi trabajo.
+Dialogue: 0,0:46:38.69,0:46:41.52,Gen_Main,,0,0,0,,Y puedo ir más lejos sin que me vigilen.
+Dialogue: 0,0:46:42.45,0:46:46.40,Gen_Main,,0,0,0,,Y aprendí a lidiar con mi compañera\Nque tiene un carácter de porquería.
+Dialogue: 0,0:46:47.78,0:46:51.61,Gen_Main,,0,0,0,,También me llevo mejor\Ncon el superior que me caía mal.
+Dialogue: 0,0:46:52.66,0:46:55.20,Gen_Main,,0,0,0,,Y encontré algo así como un objetivo.
+Dialogue: 0,0:46:55.92,0:46:58.41,Gen_Main,,0,0,0,,Estaba empezando a disfrutarlo.
+Dialogue: 0,0:46:59.75,0:47:03.79,Gen_Main,,0,0,0,,¿No podemos seguir viéndonos\Nmientras sigo trabajando?
+Dialogue: 0,0:47:07.01,0:47:09.56,Gen_Main,,0,0,0,,¡El espectáculo pirotécnico va a comenzar!
+Dialogue: 0,0:47:12.35,0:47:13.55,Gen_Main,,0,0,0,,Ya veo.
+Dialogue: 0,0:47:14.14,0:47:15.26,Gen_Main,,0,0,0,,Entiendo.
+Dialogue: 0,0:47:17.77,0:47:18.82,Gen_Main,,0,0,0,,Denji.
+Dialogue: 0,0:47:19.57,0:47:23.36,Gen_Main,,0,0,0,,Te gusta otra aparte de mí, ¿verdad?
+Dialogue: 0,0:48:46.24,0:48:47.48,Gen_Main,,0,0,0,,Te dolió, ¿verdad?
+Dialogue: 0,0:48:47.90,0:48:49.49,Gen_Main,,0,0,0,,Perdóname.
+Dialogue: 0,0:48:57.37,0:49:00.88,Gen_Main,,0,0,0,,Me llevaré tu corazón, ¿sí?
+Dialogue: 0,0:49:07.42,0:49:09.41,Gen_Main,,0,0,0,,¡A volar!
+Dialogue: 0,0:49:18.31,0:49:20.81,Gen_Main,,0,0,0,,¡Corre, corre, corre!\N¡Qué miedo, qué miedo!
+Dialogue: 0,0:49:21.06,0:49:24.15,Gen_Main,,0,0,0,,¿Cómo no me di cuenta por el olor?
+Dialogue: 0,0:49:24.23,0:49:26.65,Gen_Main,,0,0,0,,¡Esa tipa es peligrosa, Lord Chainsaw!
+Dialogue: 0,0:49:26.73,0:49:29.56,Gen_Main,,0,0,0,,Ese olor… ¡Esa chica…!
+Dialogue: 0,0:49:30.15,0:49:33.94,Gen_Main,,0,0,0,,¡Es Bomb!
+Dialogue: 0,0:49:37.95,0:49:39.36,Gen_Main,,0,0,0,,¡Bum!
+Dialogue: 0,0:50:05.15,0:50:06.22,Gen_Main,,0,0,0,,Ladrón.
+Dialogue: 0,0:50:34.18,0:50:35.54,Gen_Main,,0,0,0,,¡Lord Chainsaw!
+Dialogue: 0,0:50:49.61,0:50:52.32,Gen_Main,,0,0,0,,¿Tú también eres de la 4.ª Sección?
+Dialogue: 0,0:50:52.40,0:50:55.27,Gen_Main,,0,0,0,,Te dejaré ir si me entregas a Denji.
+Dialogue: 0,0:51:03.04,0:51:04.83,Gen_Main,,0,0,0,,Oh, ya veo.
+Dialogue: 0,0:51:34.57,0:51:38.02,Gen_Main,,0,0,0,,Maldita sea. Quería ir al festival.
+Dialogue: 0,0:51:38.45,0:51:40.66,Gen_Main,,0,0,0,,Parece que mató algo.
+Dialogue: 0,0:51:40.74,0:51:43.25,Gen_Main,,0,0,0,,Hallamos a un demonio cerca del festival.
+Dialogue: 0,0:51:44.12,0:51:46.25,Gen_Main,,0,0,0,,A las 20:34.
+Dialogue: 0,0:51:46.83,0:51:48.66,Gen_Main,,0,0,0,,Iniciando combate.
+Dialogue: 0,0:51:49.34,0:51:51.75,Gen_Main,,0,0,0,,¿Son Devil Hunters civiles?
+Dialogue: 0,0:51:51.84,0:51:53.80,Gen_Main,,0,0,0,,Oigan, puede hablar.
+Dialogue: 0,0:51:53.88,0:51:55.91,Gen_Main,,0,0,0,,Va a ser bastante fuerte.
+Dialogue: 0,0:52:16.86,0:52:18.44,Gen_Main,,0,0,0,,¡Qué rápido corren!
+Dialogue: 0,0:52:19.53,0:52:21.53,Cart_A_Tim,,0,0,0,,{\pos(320,245.714)\bord1\blur2}Centro de entrenamiento, 2.ª Sección
+Dialogue: 0,0:52:33.50,0:52:34.70,Gen_Main,,0,0,0,,¡Fin del combate!
+Dialogue: 0,0:52:35.26,0:52:37.05,Gen_Main,,0,0,0,,Muchas gracias.
+Dialogue: 0,0:52:39.26,0:52:42.05,Gen_Main,,0,0,0,,Gracias por la lección.
+Dialogue: 0,0:52:43.35,0:52:44.75,Gen_Main,,0,0,0,,Aki.
+Dialogue: 0,0:52:45.56,0:52:48.35,Gen_Main,,0,0,0,,Gracias por venir.
+Dialogue: 0,0:52:48.44,0:52:50.44,Gen_Main,,0,0,0,,No puedo decirle que no.
+Dialogue: 0,0:52:50.52,0:52:54.78,Gen_Main,,0,0,0,,Vaya, ¿en serio?\NPues vuelve a la 2.ª Sección.
+Dialogue: 0,0:52:54.86,0:52:58.40,Gen_Main,,0,0,0,,Solo oímos historias grotescas\Nde la Sección Especial.
+Dialogue: 0,0:52:58.49,0:53:02.53,Gen_Main,,0,0,0,,Si me sigue yendo bien,\Nseré teniente en cinco años.
+Dialogue: 0,0:53:02.62,0:53:05.16,Gen_Main,,0,0,0,,Cuando pase, te mandaré llamar.
+Dialogue: 0,0:53:06.87,0:53:08.41,Gen_Main,,0,0,0,,Se lo agradezco.
+Dialogue: 0,0:53:11.54,0:53:12.67,Gen_Main,,0,0,0,,{\i1}Oye.
+Dialogue: 0,0:53:13.21,0:53:15.74,Gen_Main,,0,0,0,,¿No le has dicho\Nque no vivirás cinco años?
+Dialogue: 0,0:53:16.84,0:53:19.43,Gen_Main,,0,0,0,,¿Quién te lo contó?
+Dialogue: 0,0:53:19.51,0:53:20.93,Gen_Main,,0,0,0,,Power.
+Dialogue: 0,0:53:21.47,0:53:23.00,Gen_Main,,0,0,0,,Demonio de mierda…
+Dialogue: 0,0:53:24.43,0:53:26.05,Gen_Main,,0,0,0,,No se lo digas a nadie.
+Dialogue: 0,0:53:27.68,0:53:29.52,Gen_Main,,0,0,0,,Cómo te envidio.
+Dialogue: 0,0:53:29.60,0:53:31.72,Gen_Main,,0,0,0,,Yo también quiero morirme pronto.
+Dialogue: 0,0:53:32.81,0:53:35.57,Gen_Main,,0,0,0,,Vivir implica tener que esforzarse.
+Dialogue: 0,0:53:35.65,0:53:37.77,Gen_Main,,0,0,0,,Si me muero, se acabó.
+Dialogue: 0,0:53:39.28,0:53:43.73,Gen_Main,,0,0,0,,Casi lo olvido. Tienes un contrato\Ncon el Demonio del Futuro, ¿verdad?
+Dialogue: 0,0:53:44.16,0:53:45.95,Gen_Main,,0,0,0,,¿Y si le preguntas?
+Dialogue: 0,0:53:46.04,0:53:47.73,Gen_Main,,0,0,0,,Que cuándo moriré.
+Dialogue: 0,0:53:48.91,0:53:50.19,Gen_Main,,0,0,0,,Olvídalo.
+Dialogue: 0,0:53:51.71,0:53:54.59,Gen_Main,,0,0,0,,¡Aki! ¡Baja ahora mismo!
+Dialogue: 0,0:53:56.34,0:53:59.29,Gen_Main,,0,0,0,,Apareció diciendo\Nque es de la Sección Especial.
+Dialogue: 0,0:54:00.22,0:54:02.97,Gen_Main,,0,0,0,,¿De verdad es compañero tuyo?
+Dialogue: 0,0:54:03.05,0:54:04.46,Gen_Main,,0,0,0,,Sí.
+Dialogue: 0,0:54:04.89,0:54:08.22,Gen_Main,,0,0,0,,¿Un demonio le hizo esto a Denji?
+Dialogue: 0,0:54:09.23,0:54:12.09,Gen_Main,,0,0,0,,Viene Bomb… Bomb…
+Dialogue: 0,0:54:12.65,0:54:15.36,Gen_Main,,0,0,0,,¡Es una aliada del Demonio\Nde las Armas de Fuego!
+Dialogue: 0,0:54:17.36,0:54:19.74,Gen_Main,,0,0,0,,¿Y cómo sabes eso?
+Dialogue: 0,0:54:22.07,0:54:23.24,Gen_Main,,0,0,0,,Responde.
+Dialogue: 0,0:54:23.78,0:54:26.49,Gen_Main,,0,0,0,,Podría matarte aquí mismo si quisiera.
+Dialogue: 0,0:54:27.49,0:54:29.58,Gen_Main,,0,0,0,,Si digo algo, me matarán.
+Dialogue: 0,0:54:29.66,0:54:31.50,Gen_Main,,0,0,0,,Se lo prometí a Makima.
+Dialogue: 0,0:54:31.58,0:54:33.00,Gen_Main,,0,0,0,,¿A Makima?
+Dialogue: 0,0:54:34.50,0:54:36.74,Gen_Main,,0,0,0,,¡Allí está! ¡Ya llegó Bomb!
+Dialogue: 0,0:54:44.47,0:54:45.93,Gen_Main,,0,0,0,,Oye, lindura.
+Dialogue: 0,0:54:46.47,0:54:48.54,Gen_Main,,0,0,0,,No te acerques más.
+Dialogue: 0,0:54:48.97,0:54:51.73,Gen_Main,,0,0,0,,Estas son instalaciones de la 2.ª Sección.
+Dialogue: 0,0:54:51.81,0:54:54.59,Gen_Main,,0,0,0,,Los civiles tienen prohibida la entrada.
+Dialogue: 0,0:54:56.31,0:54:58.76,Gen_Main,,0,0,0,,¡Discúlpenme!
+Dialogue: 0,0:55:00.23,0:55:01.36,Gen_Main,,0,0,0,,Reze…
+Dialogue: 0,0:55:01.44,0:55:02.74,Gen_Main,,0,0,0,,¿Reze?
+Dialogue: 0,0:55:02.82,0:55:05.24,Gen_Main,,0,0,0,,¡Ayúdenme, por favor!
+Dialogue: 0,0:55:05.32,0:55:07.99,Gen_Main,,0,0,0,,¡Un demonio me está atacando!
+Dialogue: 0,0:55:09.54,0:55:12.29,Gen_Main,,0,0,0,,Vaya víctima tan risueña, ¿eh?
+Dialogue: 0,0:55:12.37,0:55:14.25,Gen_Main,,0,0,0,,- Nomo.\N- Sí.
+Dialogue: 0,0:55:14.33,0:55:16.46,Gen_Main,,0,0,0,,Llévate a tus amigos atrás.
+Dialogue: 0,0:55:16.54,0:55:17.71,Gen_Main,,0,0,0,,Bien.
+Dialogue: 0,0:55:17.79,0:55:21.63,Gen_Main,,0,0,0,,Llama al cuartel y al teniente.\NQue venga toda la 2.ª Sección.
+Dialogue: 0,0:55:21.71,0:55:23.17,Gen_Main,,0,0,0,,¡Bien!
+Dialogue: 0,0:55:23.26,0:55:24.38,Gen_Main,,0,0,0,,Y también…
+Dialogue: 0,0:55:24.97,0:55:27.76,Gen_Main,,0,0,0,,¿No has visto a esa preciosura antes?
+Dialogue: 0,0:55:28.26,0:55:30.77,Gen_Main,,0,0,0,,No es el momento para ligar.
+Dialogue: 0,0:55:30.85,0:55:33.27,Gen_Main,,0,0,0,,No, hablo en serio.
+Dialogue: 0,0:55:36.48,0:55:39.65,Gen_Main,,0,0,0,,No, lo dudo. No puede ser.
+Dialogue: 0,0:55:39.73,0:55:42.40,Gen_Main,,0,0,0,,Gracias. Dejo el resto en sus manos.
+Dialogue: 0,0:55:42.49,0:55:43.77,Gen_Main,,0,0,0,,Me debes una.
+Dialogue: 0,0:55:45.61,0:55:47.31,Gen_Main,,0,0,0,,¡Kato! ¡Tanabe!
+Dialogue: 0,0:55:48.07,0:55:50.70,Gen_Main,,0,0,0,,Si la matan, los invito a cenar.
+Dialogue: 0,0:55:50.79,0:55:53.79,Gen_Main,,0,0,0,,Ignoren su apariencia.\NSe trata de un demonio.
+Dialogue: 0,0:55:54.33,0:55:57.08,Gen_Main,,0,0,0,,Parece que no funcionó.
+Dialogue: 0,0:55:57.17,0:55:58.67,Gen_Main,,0,0,0,,No, no funcionó.
+Dialogue: 0,0:55:59.88,0:56:01.66,Gen_Main,,0,0,0,,Pues no me dejan opción.
+Dialogue: 0,0:56:03.71,0:56:06.05,Gen_Main,,0,0,0,,Los mataré a todos.
+Dialogue: 0,0:56:12.31,0:56:13.52,Gen_Main,,0,0,0,,¿Sangre?
+Dialogue: 0,0:56:13.60,0:56:16.22,Gen_Main,,0,0,0,,Hicimos crecer moho\Nen su corazón e intestinos.
+Dialogue: 0,0:56:16.64,0:56:19.31,Gen_Main,,0,0,0,,Vomita sangre. Está funcionando.
+Dialogue: 0,0:56:19.40,0:56:22.32,Gen_Main,,0,0,0,,Aunque se regenere bebiendo sangre,\Nel moho no se irá.
+Dialogue: 0,0:56:23.15,0:56:25.32,Gen_Main,,0,0,0,,Solo queda ganar tiempo.
+Dialogue: 0,0:56:32.66,0:56:33.94,Gen_Main,,0,0,0,,¿Se mató?
+Dialogue: 0,0:56:36.87,0:56:40.87,Gen_Main,,0,0,0,,- ¿Pueden atacar su cerebro?\N- Solo si el objetivo está vivo.
+Dialogue: 0,0:56:50.51,0:56:51.43,Gen_Main,,0,0,0,,¡Bu!
+Dialogue: 0,0:56:59.48,0:57:01.90,Gen_Main,,0,0,0,,¡Un demonio! ¡Nos atacan!
+Dialogue: 0,0:57:01.98,0:57:04.73,Gen_Main,,0,0,0,,¡Fue a la derecha!\N¡Que no alcance a Aki!
+Dialogue: 0,0:57:04.82,0:57:06.49,Gen_Main,,0,0,0,,¡Nomo! ¡A su espalda!
+Dialogue: 0,0:57:27.72,0:57:30.54,Gen_Main,,0,0,0,,¡Allí está! ¡Es el demonio!
+Dialogue: 0,0:57:33.93,0:57:36.56,Gen_Main,,0,0,0,,¡Solicito permiso para disparar!
+Dialogue: 0,0:57:36.64,0:57:37.84,Gen_Main,,0,0,0,,¡Concedido!
+Dialogue: 0,0:57:49.32,0:57:51.66,Gen_Main,,0,0,0,,¿En Japón se necesita\Npermiso para disparar?
+Dialogue: 0,0:57:52.91,0:57:53.98,Gen_Main,,0,0,0,,¡Zorro!
+Dialogue: 0,0:57:59.91,0:58:01.99,Gen_Main,,0,0,0,,Tú no te rindes, ¿eh?
+Dialogue: 0,0:58:03.00,0:58:05.92,Gen_Main,,0,0,0,,Eres todo un deleite para la vista.
+Dialogue: 0,0:58:11.43,0:58:12.75,Gen_Main,,0,0,0,,Zorro.
+Dialogue: 0,0:58:19.56,0:58:21.56,Gen_Main,,0,0,0,,Con permiso.
+Dialogue: 0,0:58:21.64,0:58:23.31,Gen_Main,,0,0,0,,¡Teniente!
+Dialogue: 0,0:58:23.40,0:58:26.39,Gen_Main,,0,0,0,,Qué cerca estuvo, ¿eh?
+Dialogue: 0,0:58:28.11,0:58:30.19,Gen_Main,,0,0,0,,¿Qué es este sabor?
+Dialogue: 0,0:58:31.11,0:58:34.73,Gen_Main,,0,0,0,,Es asqueroso. Me largo.
+Dialogue: 0,0:58:39.33,0:58:41.86,Gen_Main,,0,0,0,,Hoy debía ir a una cita grupal.
+Dialogue: 0,0:58:42.29,0:58:45.11,Gen_Main,,0,0,0,,Invíteme para la próxima.
+Dialogue: 0,0:58:47.00,0:58:50.41,Gen_Main,,0,0,0,,Yo conduzco. Dales de tu sangre.
+Dialogue: 0,0:58:52.01,0:58:53.71,Gen_Main,,0,0,0,,Si tú lo dices…
+Dialogue: 0,0:58:57.26,0:58:59.68,Gen_Main,,0,0,0,,¿Por qué no echas a andar el auto?
+Dialogue: 0,0:59:00.43,0:59:01.93,Gen_Main,,0,0,0,,Maldición.
+Dialogue: 0,0:59:02.43,0:59:05.44,Gen_Main,,0,0,0,,Me mostró un futuro que prefiero evitar.
+Dialogue: 0,0:59:17.70,0:59:19.45,Gen_Main,,0,0,0,,Monstruo asqueroso.
+Dialogue: 0,0:59:19.54,0:59:23.16,Gen_Main,,0,0,0,,Los maté para demostrarles mi fuerza.
+Dialogue: 0,0:59:23.25,0:59:25.57,Gen_Main,,0,0,0,,De ser posible, no quiero matar más.
+Dialogue: 0,0:59:26.92,0:59:29.91,Gen_Main,,0,0,0,,Bajen a Denji del auto y váyanse.
+Dialogue: 0,0:59:44.94,0:59:48.73,Gen_Main,,0,0,0,,Si ataco el auto, la gasolina\Ndejará todo hecho cenizas.
+Dialogue: 0,0:59:52.82,0:59:55.15,Gen_Main,,0,0,0,,Pero qué fastidio.
+Dialogue: 0,0:59:56.61,0:59:58.32,Gen_Main,,0,0,0,,¡Toma!
+Dialogue: 0,1:00:02.87,1:00:06.12,Gen_Main,,0,0,0,,Qué suerte que llamamos\Na la Sección Especial.
+Dialogue: 0,1:00:12.71,1:00:14.16,Gen_Main,,0,0,0,,¿En serio?
+Dialogue: 0,1:00:15.63,1:00:18.68,Gen_Main,,0,0,0,,¡Pateé con todas mis fuerzas!
+Dialogue: 0,1:00:19.55,1:00:21.21,Gen_Main,,0,0,0,,Buena patada.
+Dialogue: 0,1:00:24.73,1:00:26.06,Gen_Main,,0,0,0,,¿Peleamos?
+Dialogue: 0,1:00:27.52,1:00:30.69,Gen_Main,,0,0,0,,¡Kobeni! ¡Cambio de estrategia!
+Dialogue: 0,1:00:32.02,1:00:35.11,Gen_Main,,0,0,0,,¡Esta es mucho más fuerte que nosotros!
+Dialogue: 0,1:00:35.19,1:00:37.40,Gen_Main,,0,0,0,,¡Retirada estratégica!
+Dialogue: 0,1:00:37.95,1:00:39.48,Gen_Main,,0,0,0,,Ya me voy, ¿sí?
+Dialogue: 0,1:00:44.66,1:00:47.29,Gen_Main,,0,0,0,,Mis piernas… Ay, mis piernas…
+Dialogue: 0,1:00:47.37,1:00:49.17,Gen_Main,,0,0,0,,No me responden…
+Dialogue: 0,1:00:50.29,1:00:53.17,Gen_Main,,0,0,0,,Mis piernas…
+Dialogue: 0,1:00:58.18,1:01:01.14,Gen_Main,,0,0,0,,¡Perdóname!
+Dialogue: 0,1:01:01.22,1:01:04.00,Gen_Main,,0,0,0,,¡Renunciaré! ¡Perdóname la vida!
+Dialogue: 0,1:01:24.54,1:01:25.58,Gen_Main,,0,0,0,,¡Ya viene!
+Dialogue: 0,1:01:33.29,1:01:36.96,Gen_Main,,0,0,0,,Oye, el chico Motosierra ya despertó,
+Dialogue: 0,1:01:37.05,1:01:39.50,Gen_Main,,0,0,0,,pero la chica bomba ya nos alcanzó.
+Dialogue: 0,1:01:41.05,1:01:43.10,Gen_Main,,0,0,0,,¡Maldita sea!
+Dialogue: 0,1:01:43.18,1:01:45.64,Gen_Main,,0,0,0,,¡Y el transmisor se averió!
+Dialogue: 0,1:01:47.43,1:01:49.17,Gen_Main,,0,0,0,,¿Qué le pasa a este auto?
+Dialogue: 0,1:01:50.23,1:01:53.11,Gen_Main,,0,0,0,,¡Cuando lo amerite,\Nle echaré el auto encima!
+Dialogue: 0,1:01:53.19,1:01:56.07,Gen_Main,,0,0,0,,¡No puede llevarse a Denji!
+Dialogue: 0,1:01:58.57,1:02:01.31,Gen_Main,,0,0,0,,- ¿Qué pasa?\N- ¡Está cortando el techo del auto!
+Dialogue: 0,1:02:05.58,1:02:06.91,Gen_Main,,0,0,0,,¡Para, Denji!
+Dialogue: 0,1:02:06.99,1:02:08.94,Gen_Main,,0,0,0,,¡No has bebido sangre suficiente!
+Dialogue: 0,1:02:10.08,1:02:13.17,Gen_Main,,0,0,0,,Me dolió tanto que pensé que moriría.
+Dialogue: 0,1:02:13.25,1:02:19.17,Gen_Main,,0,0,0,,Y me di cuenta de algo mientras mi cerebro\Nme hacía recordar todo mi pasado:
+Dialogue: 0,1:02:20.26,1:02:26.85,Gen_Main,,0,0,0,,¡Todas las mujeres que conozco\Nintentan matarme tarde o temprano!
+Dialogue: 0,1:02:27.35,1:02:31.14,Gen_Main,,0,0,0,,Todo el mundo quiere\Nel corazón de Chainsaw,
+Dialogue: 0,1:02:31.23,1:02:34.51,Gen_Main,,0,0,0,,pero ¿qué hay del corazón de Denji?
+Dialogue: 0,1:02:35.44,1:02:39.11,Gen_Main,,0,0,0,,Yo sí estoy enamorada de ti, Denji.
+Dialogue: 0,1:02:40.49,1:02:41.64,Gen_Main,,0,0,0,,¿De veras?
+Dialogue: 0,1:02:43.70,1:02:47.02,Gen_Main,,0,0,0,,¡No escuches al enemigo!\N¡Te pasas de ingenuo!
+Dialogue: 0,1:02:49.33,1:02:52.87,Gen_Main,,0,0,0,,¡Eso estuvo cerca!\N¡Por poco me engañas!
+Dialogue: 0,1:02:53.37,1:02:58.91,Gen_Main,,0,0,0,,No sé por qué quieres matarme,\Npero no podría importarme menos.
+Dialogue: 0,1:02:59.51,1:03:01.63,Gen_Main,,0,0,0,,¡Tengo a la señorita Makima!
+Dialogue: 0,1:03:02.38,1:03:03.88,Gen_Main,,0,0,0,,¿Makima?
+Dialogue: 0,1:03:03.97,1:03:08.47,Gen_Main,,0,0,0,,Denji, no sabía que esa bruja\Nte tuviera en la palma de su mano.
+Dialogue: 0,1:03:08.56,1:03:11.64,Gen_Main,,0,0,0,,Lo de escapar juntos\Njamás habría funcionado.
+Dialogue: 0,1:03:13.31,1:03:15.30,Gen_Main,,0,0,0,,¡Desearía no haberte besado!
+Dialogue: 0,1:03:19.78,1:03:24.10,Gen_Main,,0,0,0,,Si alguien más muere por mi culpa,\Nme costará dormir por las noches.
+Dialogue: 0,1:03:25.24,1:03:27.91,Gen_Main,,0,0,0,,¡Así que te voy a arrestar!
+Dialogue: 0,1:03:27.99,1:03:29.87,Gen_Main,,0,0,0,,Ven aquí, Denji.
+Dialogue: 0,1:03:29.95,1:03:33.66,Gen_Main,,0,0,0,,Te voy a enseñar\Ncómo peleamos los demonios.
+Dialogue: 0,1:03:33.75,1:03:36.36,Gen_Main,,0,0,0,,¡Enséñame, pues!
+Dialogue: 0,1:03:59.23,1:04:02.32,Gen_Main,,0,0,0,,Denji, no sabes usar lo que tienes.
+Dialogue: 0,1:04:02.40,1:04:05.15,Gen_Main,,0,0,0,,No basta con mover\Nlas motosierras a lo loco.
+Dialogue: 0,1:04:05.24,1:04:07.98,Gen_Main,,0,0,0,,Tienes que comprender tu propio poder.
+Dialogue: 0,1:04:12.66,1:04:13.78,Gen_Main,,0,0,0,,Bum.
+Dialogue: 0,1:05:07.67,1:05:09.16,Gen_Main,,0,0,0,,¿Te regeneras?
+Dialogue: 0,1:05:10.01,1:05:12.88,Gen_Main,,0,0,0,,¿Echaste a andar el motor\Nantes de recibir la patada?
+Dialogue: 0,1:05:48.22,1:05:49.63,Gen_Main,,0,0,0,,Maldito demonio…
+Dialogue: 0,1:06:09.70,1:06:12.03,Gen_Main,,0,0,0,,{\i1}Si cometo el más mínimo error, moriré.
+Dialogue: 0,1:06:12.61,1:06:16.19,Gen_Main,,0,0,0,,{\i1}Aunque veo el futuro,\N{\i1}solo son pocos segundos.
+Dialogue: 0,1:06:16.66,1:06:19.12,Gen_Main,,0,0,0,,{\i1}Mi cuerpo podría tardar en reaccionar.
+Dialogue: 0,1:06:25.00,1:06:26.71,Gen_Main,,0,0,0,,{\i1}Toma la mejor decisión.
+Dialogue: 0,1:06:31.93,1:06:33.29,Gen_Main,,0,0,0,,{\i1}La mejor decisión.
+Dialogue: 0,1:06:35.18,1:06:37.04,Gen_Main,,0,0,0,,{\i1}La mejor decisión.
+Dialogue: 0,1:06:42.77,1:06:44.26,Gen_Main,,0,0,0,,{\i1}La mejor…
+Dialogue: 0,1:06:51.65,1:06:52.95,Gen_Main,,0,0,0,,¡Qué cerca estuvo!
+Dialogue: 0,1:06:53.78,1:06:55.95,Gen_Main,,0,0,0,,Disculpa la demora.
+Dialogue: 0,1:06:56.45,1:06:59.12,Gen_Main,,0,0,0,,Nunca antes había querido\Ntener un amigo demonio.
+Dialogue: 0,1:06:59.20,1:07:00.45,Gen_Main,,0,0,0,,Bajemos.
+Dialogue: 0,1:07:03.87,1:07:06.08,Gen_Main,,0,0,0,,¡Esperen! ¡Tiempo! ¡Tiempo!
+Dialogue: 0,1:07:06.17,1:07:08.92,Gen_Main,,0,0,0,,Me falta sangre y estoy semidesnuda.
+Dialogue: 0,1:07:09.00,1:07:11.21,Gen_Main,,0,0,0,,Y es injusto que sean dos.
+Dialogue: 0,1:07:11.30,1:07:14.72,Gen_Main,,0,0,0,,Tiene razón. ¿Le damos un respiro?
+Dialogue: 0,1:07:14.80,1:07:16.05,Gen_Main,,0,0,0,,Olvídalo.
+Dialogue: 0,1:07:16.14,1:07:18.22,Gen_Main,,0,0,0,,¡Ya oíste! ¡Perdón!
+Dialogue: 0,1:07:18.31,1:07:19.42,Gen_Main,,0,0,0,,¡Continuemos!
+Dialogue: 0,1:07:25.56,1:07:29.85,Gen_Main,,0,0,0,,¡Señorita Reze!\N¡Tifón ya está aquí!
+Dialogue: 0,1:07:30.98,1:07:32.94,Gen_Main,,0,0,0,,¡Qué tramposa!
+Dialogue: 0,1:07:51.88,1:07:53.04,Gen_Main,,0,0,0,,Descuida.
+Dialogue: 0,1:07:53.80,1:07:55.79,Gen_Main,,0,0,0,,Vas a irte al cielo.
+Dialogue: 0,1:08:00.97,1:08:02.85,Gen_Main,,0,0,0,,Voy a usar tu sangre.
+Dialogue: 0,1:08:02.93,1:08:04.09,Gen_Main,,0,0,0,,Discúlpame.
+Dialogue: 0,1:08:25.21,1:08:28.08,Gen_Main,,0,0,0,,Un demonio normal ya habría muerto.
+Dialogue: 0,1:08:28.17,1:08:31.24,Gen_Main,,0,0,0,,¡Ese es mi Lord Chainsaw! ¡Es el mejor!
+Dialogue: 0,1:08:32.09,1:08:35.05,Gen_Main,,0,0,0,,Tu novia ya mató a demasiada gente.
+Dialogue: 0,1:08:35.13,1:08:38.50,Gen_Main,,0,0,0,,Si no hacemos nada, matará a muchos más.
+Dialogue: 0,1:08:39.39,1:08:42.14,Gen_Main,,0,0,0,,Chico motosierra, tienes que elegir.
+Dialogue: 0,1:08:42.22,1:08:46.14,Gen_Main,,0,0,0,,{\i1}O dejas que te mate\N{\i1}para que no cause más daños
+Dialogue: 0,1:08:46.23,1:08:47.97,Gen_Main,,0,0,0,,{\i1}o la matas.
+Dialogue: 0,1:08:50.02,1:08:53.35,Gen_Main,,0,0,0,,Es una decisión bastante sencilla.
+Dialogue: 0,1:08:54.40,1:08:56.93,Gen_Main,,0,0,0,,Eso sí, Reze es muy fuerte.
+Dialogue: 0,1:08:58.95,1:09:02.44,Gen_Main,,0,0,0,,Tú sabes del Demonio\Nde las Motosierras, ¿no?
+Dialogue: 0,1:09:02.95,1:09:06.53,Gen_Main,,0,0,0,,Si no quieres morir hoy,\Ncuéntanos todo lo que sepas.
+Dialogue: 0,1:09:08.46,1:09:11.67,Gen_Main,,0,0,0,,¡Lord Chainsaw corre superrápido!
+Dialogue: 0,1:09:11.75,1:09:16.51,Gen_Main,,0,0,0,,Pero… ¡no se desplaza solo con los pies!
+Dialogue: 0,1:09:16.59,1:09:19.22,Gen_Main,,0,0,0,,¡También usa sus cadenas!
+Dialogue: 0,1:09:19.30,1:09:23.18,Gen_Main,,0,0,0,,¡Las lanza para engancharse\Ny viajar de edificio en edificio!
+Dialogue: 0,1:09:23.26,1:09:27.56,Gen_Main,,0,0,0,,¡Claro! ¡Samurai Sword\Nse desplazaba usando sus katanas!
+Dialogue: 0,1:09:27.64,1:09:30.23,Gen_Main,,0,0,0,,Y Reze usa sus explosiones.
+Dialogue: 0,1:09:30.31,1:09:32.52,Gen_Main,,0,0,0,,¡Yo también usaré mis poderes!
+Dialogue: 0,1:09:32.61,1:09:35.90,Gen_Main,,0,0,0,,¡Lord Chainsaw es un genio!\N¡Lord Chainsaw es un genio!
+Dialogue: 0,1:09:35.98,1:09:40.60,Gen_Main,,0,0,0,,Así que debo usar mis cadenas, ¿no?\N¡Muy bien!
+Dialogue: 0,1:09:42.28,1:09:45.16,Gen_Main,,0,0,0,,¡Eso mismo! ¡Así mismo!
+Dialogue: 0,1:09:45.24,1:09:47.00,Gen_Main,,0,0,0,,¡Lo voy a intentar!
+Dialogue: 0,1:09:47.08,1:09:49.99,Gen_Main,,0,0,0,,- ¡Beam! ¡Conviértete en tiburón!\N- ¡Sí, señor!
+Dialogue: 0,1:09:54.42,1:09:56.95,Gen_Main,,0,0,0,,Así era, ¿no?
+Dialogue: 0,1:09:58.26,1:10:03.35,Gen_Main,,0,0,0,,¡Yo te domo con mis cadenas\Ny tú corres como mi leal corcel!
+Dialogue: 0,1:10:05.14,1:10:07.31,Gen_Main,,0,0,0,,No, así no era…
+Dialogue: 0,1:10:07.39,1:10:10.44,Gen_Main,,0,0,0,,¿Estás seguro?\NNo creo que fuera así.
+Dialogue: 0,1:10:10.52,1:10:15.07,Gen_Main,,0,0,0,,¿No debías lanzar tus cadenas\Ny engancharlas en los edificios?
+Dialogue: 0,1:10:16.02,1:10:18.65,Gen_Main,,0,0,0,,¡Esta es la manera correcta!\N¿No, Beam?
+Dialogue: 0,1:10:18.90,1:10:20.95,Gen_Main,,0,0,0,,¡Sí, señor! ¡Sí, señor!
+Dialogue: 0,1:10:21.03,1:10:23.45,Gen_Main,,0,0,0,,¡Muy bien!\N¡Arre, Beam!
+Dialogue: 0,1:10:23.53,1:10:25.11,Gen_Main,,0,0,0,,¡Sí, señor!
+Dialogue: 0,1:10:36.96,1:10:38.46,Gen_Main,,0,0,0,,Pero, ¿que hacen?
+Dialogue: 0,1:10:39.26,1:10:40.58,Gen_Main,,0,0,0,,¡Denji!
+Dialogue: 0,1:10:41.22,1:10:43.43,Gen_Main,,0,0,0,,¡Allí estás, Chainsaw!
+Dialogue: 0,1:10:43.72,1:10:47.29,Gen_Main,,0,0,0,,¡Denji, haré que te arrepientas\Nde haber vuelto a la vida!
+Dialogue: 0,1:10:48.56,1:10:52.81,Gen_Main,,0,0,0,,¡Beam, no hagas que me arrepienta!
+Dialogue: 0,1:10:52.89,1:10:54.15,Gen_Main,,0,0,0,,¡No, señor!
+Dialogue: 0,1:10:56.27,1:10:58.31,Gen_Main,,0,0,0,,¡Maldición! ¿Qué hacen?
+Dialogue: 0,1:10:58.78,1:11:03.15,Gen_Main,,0,0,0,,¡Una batalla de monstruos gigantes!\N¡Será mejor mirar desde lejos!
+Dialogue: 0,1:11:16.04,1:11:19.13,Gen_Main,,0,0,0,,¡No dejas de fallar!
+Dialogue: 0,1:11:19.21,1:11:20.91,Gen_Main,,0,0,0,,Pareces una cucaracha.
+Dialogue: 0,1:11:21.97,1:11:24.13,Gen_Main,,0,0,0,,¡No más explosiones!
+Dialogue: 0,1:11:24.22,1:11:26.39,Gen_Main,,0,0,0,,¡Chainsaw!
+Dialogue: 0,1:11:37.15,1:11:39.19,Gen_Main,,0,0,0,,- ¡Toma!\N- ¡Ay!
+Dialogue: 0,1:11:41.28,1:11:43.57,Gen_Main,,0,0,0,,Qué desperdicio.
+Dialogue: 0,1:11:43.65,1:11:46.24,Gen_Main,,0,0,0,,Dejé a una belleza sin una pierna.
+Dialogue: 0,1:11:46.32,1:11:49.52,Gen_Main,,0,0,0,,¡Señorita Reze, tome de mi sangre!
+Dialogue: 0,1:11:55.46,1:11:56.92,Gen_Main,,0,0,0,,¡Menos mal!
+Dialogue: 0,1:11:57.00,1:11:58.41,Gen_Main,,0,0,0,,¡No, muy mal!
+Dialogue: 0,1:11:58.88,1:12:01.80,Gen_Main,,0,0,0,,Esto es una locura.
+Dialogue: 0,1:12:12.47,1:12:14.10,Gen_Main,,0,0,0,,¡Sujétate a algo!
+Dialogue: 0,1:12:14.77,1:12:17.23,Gen_Main,,0,0,0,,¡No puedo!
+Dialogue: 0,1:12:26.40,1:12:27.45,Gen_Main,,0,0,0,,Déjame.
+Dialogue: 0,1:12:29.03,1:12:31.95,Gen_Main,,0,0,0,,¡Hazlo! ¡Puedes soltarme!
+Dialogue: 0,1:12:32.04,1:12:35.94,Gen_Main,,0,0,0,,¡Todos morimos algún día!\N¡Y parece que me toca hoy!
+Dialogue: 0,1:12:36.50,1:12:37.95,Gen_Main,,0,0,0,,No te preocupes.
+Dialogue: 0,1:12:38.58,1:12:41.21,Gen_Main,,0,0,0,,Siempre estuve preparado para morir.
+Dialogue: 0,1:13:08.45,1:13:09.60,Gen_Main,,0,0,0,,¿Por qué?
+Dialogue: 0,1:13:10.57,1:13:12.41,Gen_Main,,0,0,0,,¿Por qué tocaste mi mano?
+Dialogue: 0,1:13:12.49,1:13:15.28,Gen_Main,,0,0,0,,- ¿Quieres morir?\N- ¡Por supuesto que no!
+Dialogue: 0,1:13:19.75,1:13:22.74,Gen_Main,,0,0,0,,¿Cuánto tiempo de vida perdí con eso?
+Dialogue: 0,1:13:26.26,1:13:27.45,Gen_Main,,0,0,0,,Unos dos meses.
+Dialogue: 0,1:13:34.68,1:13:38.02,Gen_Main,,0,0,0,,Si quieres morir, hazlo lejos de mí.
+Dialogue: 0,1:13:38.98,1:13:41.09,Gen_Main,,0,0,0,,No quiero ver a más compañeros…
+Dialogue: 0,1:13:41.73,1:13:43.43,Gen_Main,,0,0,0,,muriendo delante de mí.
+Dialogue: 0,1:14:04.42,1:14:06.99,Gen_Main,,0,0,0,,¡Lord Chainsaw, estamos en problemas!
+Dialogue: 0,1:14:07.71,1:14:09.58,Gen_Main,,0,0,0,,¡Lord Chain…!
+Dialogue: 0,1:14:15.14,1:14:16.26,Gen_Main,,0,0,0,,¿Eh?
+Dialogue: 0,1:14:39.66,1:14:41.82,Gen_Main,,0,0,0,,¡Lord Chainsaw!
+Dialogue: 0,1:15:55.07,1:15:56.95,Gen_Main,,0,0,0,,Aguantaste bastante tiempo.
+Dialogue: 0,1:15:58.58,1:15:59.86,Gen_Main,,0,0,0,,Pero creo…
+Dialogue: 0,1:16:02.41,1:16:04.00,Gen_Main,,0,0,0,,que esto se acabó.
+Dialogue: 0,1:16:15.22,1:16:17.25,Gen_Main,,0,0,0,,¡Eso estuvo cerca!
+Dialogue: 0,1:16:18.34,1:16:19.51,Gen_Main,,0,0,0,,¡Beam!
+Dialogue: 0,1:16:19.60,1:16:23.02,Gen_Main,,0,0,0,,¡Lord Chainsaw!\N¡Juro que no se arrepentirá!
+Dialogue: 0,1:16:33.53,1:16:35.28,Gen_Main,,0,0,0,,¡Oye, esto es malo!
+Dialogue: 0,1:16:35.36,1:16:37.74,Gen_Main,,0,0,0,,¡Triturará la ciudad entera!
+Dialogue: 0,1:16:37.82,1:16:41.58,Gen_Main,,0,0,0,,¡Beam, primero tenemos\Nque acabar con el grandulón!
+Dialogue: 0,1:16:41.66,1:16:42.77,Gen_Main,,0,0,0,,¡Sí, señor!
+Dialogue: 0,1:16:54.01,1:16:56.09,Gen_Main,,0,0,0,,¡Te encontré!
+Dialogue: 0,1:17:02.01,1:17:05.59,Gen_Main,,0,0,0,,¡Muere, Chainsaw!
+Dialogue: 0,1:17:34.46,1:17:35.87,Gen_Main,,0,0,0,,¡Muy bien!
+Dialogue: 0,1:17:36.46,1:17:39.09,Gen_Main,,0,0,0,,¡Beam, mándame a volar!
+Dialogue: 0,1:17:39.88,1:17:41.08,Gen_Main,,0,0,0,,¡Sí, señor!
+Dialogue: 0,1:17:48.60,1:17:51.35,Gen_Main,,0,0,0,,¡Qué fácil me lo pones!
+Dialogue: 0,1:17:51.65,1:17:54.48,Gen_Main,,0,0,0,,Basta con que mueva las motosierras…
+Dialogue: 0,1:17:55.23,1:17:58.43,Gen_Main,,0,0,0,,¡a lo loco!
+Dialogue: 0,1:18:05.12,1:18:07.33,Gen_Main,,0,0,0,,¡Beam!
+Dialogue: 0,1:18:07.41,1:18:10.19,Gen_Main,,0,0,0,,¡Lord Chainsaw!
+Dialogue: 0,1:18:28.56,1:18:30.97,Gen_Main,,0,0,0,,¡No te me acerques!
+Dialogue: 0,1:18:34.61,1:18:35.76,Gen_Main,,0,0,0,,¡Vamos!
+Dialogue: 0,1:19:11.64,1:19:13.64,Gen_Main,,0,0,0,,¡Lo hicimos, Beam!
+Dialogue: 0,1:19:13.73,1:19:15.26,Gen_Main,,0,0,0,,¿Dónde está Reze?
+Dialogue: 0,1:19:17.36,1:19:18.43,Gen_Main,,0,0,0,,¡Lord Chainsaw!
+Dialogue: 0,1:21:05.09,1:21:06.51,Gen_Main,,0,0,0,,¡Me dolió!
+Dialogue: 0,1:21:06.59,1:21:08.16,Gen_Main,,0,0,0,,Me salvaste, Beam.
+Dialogue: 0,1:21:11.30,1:21:14.97,Gen_Main,,0,0,0,,Denji, ¿no va siendo hora\Nde que te rindas?
+Dialogue: 0,1:21:17.69,1:21:18.73,Gen_Main,,0,0,0,,No.
+Dialogue: 0,1:21:39.25,1:21:43.24,Gen_Main,,0,0,0,,Ya me estás hartando.\N¿Y si te mueres de una vez?
+Dialogue: 0,1:21:43.79,1:21:49.12,Gen_Main,,0,0,0,,¡Pues debiste haberme matado\Ncuando me conociste!
+Dialogue: 0,1:21:51.18,1:21:52.76,Gen_Main,,0,0,0,,Ya no tienes escapatoria.
+Dialogue: 0,1:21:53.43,1:21:54.76,Gen_Main,,0,0,0,,Ya lo veremos.
+Dialogue: 0,1:21:55.31,1:21:58.97,Gen_Main,,0,0,0,,No debiste enseñarme a nadar.
+Dialogue: 0,1:21:59.85,1:22:01.72,Gen_Main,,0,0,0,,¿Vas a nadar?
+Dialogue: 0,1:22:31.09,1:22:32.51,Gen_Main,,0,0,0,,¿Cadenas?
+Dialogue: 0,1:22:51.95,1:22:55.99,Gen_Main,,0,0,0,,¿Puedes explotar cubierta de agua?
+Dialogue: 0,1:24:43.93,1:24:45.46,Gen_Main,,0,0,0,,No lo puedo creer.
+Dialogue: 0,1:24:46.44,1:24:48.93,Gen_Main,,0,0,0,,¿Por qué me reviviste?
+Dialogue: 0,1:24:51.23,1:24:54.06,Gen_Main,,0,0,0,,Tengo una vida maravillosa.
+Dialogue: 0,1:24:54.65,1:24:58.70,Gen_Main,,0,0,0,,Por mucho que me peguen,\Nmaltraten o me maten,
+Dialogue: 0,1:24:58.78,1:25:02.82,Gen_Main,,0,0,0,,si como algo rico al otro día,\Npuedo olvidarme de todo.
+Dialogue: 0,1:25:03.74,1:25:04.79,Gen_Main,,0,0,0,,Pero…
+Dialogue: 0,1:25:06.16,1:25:09.20,Gen_Main,,0,0,0,,Si te entregara a Seguridad Pública,
+Dialogue: 0,1:25:09.71,1:25:13.70,Gen_Main,,0,0,0,,me sentiría como con una espina\Nde pescado atorada en la garganta.
+Dialogue: 0,1:25:17.80,1:25:20.47,Gen_Main,,0,0,0,,Aunque tuviera una buena vida,
+Dialogue: 0,1:25:20.55,1:25:23.88,Gen_Main,,0,0,0,,esa espina en la garganta\Nno me dejaría en paz.
+Dialogue: 0,1:25:29.23,1:25:32.82,Gen_Main,,0,0,0,,¿Podrías decir lo mismo\Nsi te matara ahora mismo?
+Dialogue: 0,1:25:34.57,1:25:38.32,Gen_Main,,0,0,0,,"Si han de matarme, que sea una belleza".\NEs mi frase favorita.
+Dialogue: 0,1:25:52.13,1:25:57.29,Gen_Main,,0,0,0,,Dime, ¿de verdad crees\Nque estoy enamorada de ti?
+Dialogue: 0,1:25:58.34,1:26:02.79,Gen_Main,,0,0,0,,Todas mis expresiones y veces\Nque me ruboricé fueron una farsa.
+Dialogue: 0,1:26:03.64,1:26:05.71,Gen_Main,,0,0,0,,Eso se aprende entrenando.
+Dialogue: 0,1:26:07.18,1:26:09.26,Gen_Main,,0,0,0,,Fracasé.
+Dialogue: 0,1:26:09.73,1:26:12.55,Gen_Main,,0,0,0,,Me demoré demasiado en pelear contra ti.
+Dialogue: 0,1:26:14.19,1:26:16.51,Gen_Main,,0,0,0,,Me daré a la fuga.
+Dialogue: 0,1:26:23.20,1:26:24.65,Gen_Main,,0,0,0,,¿Y si huimos juntos?
+Dialogue: 0,1:26:28.12,1:26:31.24,Gen_Main,,0,0,0,,Yo también puedo pelear.\NTe será más fácil escapar.
+Dialogue: 0,1:26:33.21,1:26:36.00,Gen_Main,,0,0,0,,Maté a un montón de gente.
+Dialogue: 0,1:26:36.09,1:26:41.00,Gen_Main,,0,0,0,,Si me ayudas a escapar,\Nserás el cómplice de una asesina.
+Dialogue: 0,1:26:41.43,1:26:43.04,Gen_Main,,0,0,0,,¿Lo entiendes?
+Dialogue: 0,1:26:45.76,1:26:48.17,Gen_Main,,0,0,0,,Sé que no debería, pero quiero hacerlo.
+Dialogue: 0,1:26:48.60,1:26:50.21,Gen_Main,,0,0,0,,Me sigues gustando.
+Dialogue: 0,1:26:51.27,1:26:56.30,Gen_Main,,0,0,0,,Dijiste que todo fue mentira,\Npero sí me enseñaste a nadar, ¿verdad?
+Dialogue: 0,1:27:38.40,1:27:39.65,Gen_Main,,0,0,0,,¡Oye!
+Dialogue: 0,1:27:39.73,1:27:42.65,Gen_Main,,0,0,0,,Mejor aprende a ser menos ingenuo.
+Dialogue: 0,1:27:42.74,1:27:45.31,Gen_Main,,0,0,0,,¡Reze! ¡Oye, Reze!
+Dialogue: 0,1:27:51.00,1:27:55.42,Gen_Main,,0,0,0,,¡Te estaré esperando en el café\Na la hora del almuerzo!
+Dialogue: 0,1:27:55.50,1:27:57.11,Gen_Main,,0,0,0,,¡Así que…!
+Dialogue: 0,1:28:01.17,1:28:04.16,Gen_Main,,0,0,0,,¡Despierta, Beam!\N¡No puedo mover las manos!
+Dialogue: 0,1:28:05.26,1:28:07.04,Gen_Main,,0,0,0,,¡Echa a andar mi motor!
+Dialogue: 0,1:28:51.56,1:28:56.10,Gen_Main,,0,0,0,,{\i1}Las madres de la Unión Soviética asustan\N{\i1}a sus hijos con cierto cuento de hadas.
+Dialogue: 0,1:28:57.14,1:29:03.61,Gen_Main,,0,0,0,,{\i1}En una armería del ejército\N{\i1}se encuentra un cuarto secreto
+Dialogue: 0,1:29:03.69,1:29:05.60,Gen_Main,,0,0,0,,que está lleno de huérfanos.
+Dialogue: 0,1:29:08.74,1:29:12.94,Gen_Main,,0,0,0,,Los niños están encerrados\Ny privados de toda libertad.
+Dialogue: 0,1:29:13.87,1:29:15.45,Gen_Main,,0,0,0,,Los tratan como objetos
+Dialogue: 0,1:29:15.54,1:29:18.49,Gen_Main,,0,0,0,,y experimentan con sus cuerpos\Nhasta que mueren.
+Dialogue: 0,1:29:19.00,1:29:21.62,Gen_Main,,0,0,0,,Se suponía que eran puros cuentos,
+Dialogue: 0,1:29:22.04,1:29:26.33,Gen_Main,,0,0,0,,pero, un día, un periódico confirmó\Nque el cuarto existía de verdad.
+Dialogue: 0,1:29:27.22,1:29:31.21,Gen_Main,,0,0,0,,{\i1}Un periodista estadounidense lo descubrió\N{\i1}y ocasionó mucho revuelo.
+Dialogue: 0,1:29:31.64,1:29:35.17,Gen_Main,,0,0,0,,{\i1}Y aunque se publicaron fotos\N{\i1}de los niños involucrados,
+Dialogue: 0,1:29:35.60,1:29:37.46,Gen_Main,,0,0,0,,{\i1}el interés público duró poco.
+Dialogue: 0,1:29:37.98,1:29:41.26,Gen_Main,,0,0,0,,{\i1}La chica que atrajo a Denji\N{\i1}era una de ellos.
+Dialogue: 0,1:29:40.65,1:29:43.90,Cart_A_Tre,,0,0,0,,COLECTA POR DAÑOS CAUSADOS\NPOR EL DEMONIO DE LOS TIFONES
+Dialogue: 0,1:29:44.90,1:29:48.65,Gen_Main,,0,0,0,,Soldados creados para servir\Na la Unión Soviética.
+Dialogue: 0,1:29:52.49,1:29:55.98,Gen_Main,,0,0,0,,{\i1}O también llamados\N{\i1}"conejillos de Indias".
+Dialogue: 0,1:29:58.87,1:30:03.37,Gen_Main,,0,0,0,,{\i1}El tren con destino a Sendai\N{\i1}saldrá pronto desde el andén 12.
+Dialogue: 0,1:30:04.09,1:30:06.13,Gen_Main,,0,0,0,,{\i1}Próxima parada: Ueno.
+Dialogue: 0,1:30:06.21,1:30:07.30,Gen_Main,,0,0,0,,{\i1}Partiendo.
+Dialogue: 0,1:30:07.38,1:30:09.33,Gen_Main,,0,0,0,,{\i1}Tren con destino a Sendai.
+Dialogue: 0,1:30:09.80,1:30:12.39,Gen_Main,,0,0,0,,{\i1}Partiendo. Cerrando puertas.
+Dialogue: 0,1:30:12.47,1:30:14.50,Gen_Main,,0,0,0,,{\i1}Aléjense de las puertas.
+Dialogue: 0,1:31:27.13,1:31:28.20,Gen_Main,,0,0,0,,Yo también.
+Dialogue: 0,1:31:30.84,1:31:33.41,Gen_Main,,0,0,0,,Yo también prefiero al ratón del campo.
+Dialogue: 0,1:31:35.97,1:31:39.34,Gen_Main,,0,0,0,,Un buen amigo mío\Ntiene un huerto en el campo.
+Dialogue: 0,1:31:40.14,1:31:44.05,Gen_Main,,0,0,0,,Cada año, en otoño,\Nvoy a ayudar con la cosecha.
+Dialogue: 0,1:31:45.27,1:31:50.06,Gen_Main,,0,0,0,,Bajo la tierra se esconden los ratones\Nque se comen y arruinan los cultivos.
+Dialogue: 0,1:31:50.90,1:31:55.10,Gen_Main,,0,0,0,,Hay que exterminarlos antes\Nde que el suelo se cubra de nieve.
+Dialogue: 0,1:31:55.61,1:32:01.16,Gen_Main,,0,0,0,,Así que escarbamos la tierra para\Nque los perros puedan entrar y matarlos.
+Dialogue: 0,1:32:02.29,1:32:03.57,Gen_Main,,0,0,0,,¿Por qué será
+Dialogue: 0,1:32:04.33,1:32:05.99,Gen_Main,,0,0,0,,que ver aquello
+Dialogue: 0,1:32:07.33,1:32:08.92,Gen_Main,,0,0,0,,me reconforta tanto?
+Dialogue: 0,1:32:14.30,1:32:16.62,Gen_Main,,0,0,0,,Por eso prefiero al ratón del campo.
+Dialogue: 0,1:32:52.21,1:32:53.38,Gen_Main,,0,0,0,,{\i1}¿Por qué
+Dialogue: 0,1:32:54.34,1:32:57.87,Gen_Main,,0,0,0,,{\i1}no lo maté cuando lo conocí?
+Dialogue: 0,1:32:59.22,1:33:02.25,Gen_Main,,0,0,0,,{\i1}Denji, a decir verdad…
+Dialogue: 0,1:33:03.93,1:33:07.09,Gen_Main,,0,0,0,,{\i1}yo tampoco pude asistir a la escuela.
+Dialogue: 0,1:33:20.16,1:33:23.32,Gen_Main,,0,0,0,,Te dije que vinieras con Hayakawa.
+Dialogue: 0,1:33:23.74,1:33:27.41,Gen_Main,,0,0,0,,Pero no querías que él\Nmatara a la chica, ¿verdad?
+Dialogue: 0,1:33:28.29,1:33:29.82,Gen_Main,,0,0,0,,Qué bueno eres.
+Dialogue: 0,1:33:30.50,1:33:32.95,Gen_Main,,0,0,0,,Es que soy un ángel.
+Dialogue: 0,1:33:44.14,1:33:45.18,Gen_Main,,0,0,0,,Dime,
+Dialogue: 0,1:33:46.02,1:33:48.26,Gen_Main,,0,0,0,,¿es un buen lugar la ciudad?
+Dialogue: 0,1:37:55.43,1:37:58.47,Gen_Main,,0,0,0,,Denji, ya voy a cerrar.
+Dialogue: 0,1:37:59.98,1:38:01.89,Gen_Main,,0,0,0,,Era demasiado linda para ti.
+Dialogue: 0,1:38:02.48,1:38:04.43,Gen_Main,,0,0,0,,Eran de mundos diferentes.
+Dialogue: 0,1:38:06.15,1:38:10.02,Gen_Main,,0,0,0,,Algún día encontrarás\Na la chica perfecta para ti.
+Dialogue: 0,1:38:21.08,1:38:22.75,Gen_Main,,0,0,0,,RECOMENDACIONES
+Dialogue: 0,1:38:36.51,1:38:39.27,Gen_Main,,0,0,0,,¡Po-Po-Po-Power!
+Dialogue: 0,1:38:40.85,1:38:45.39,Gen_Main,,0,0,0,,¡Ya estoy de vuelta!\NTe rastreé siguiendo tu olor.
+Dialogue: 0,1:38:46.27,1:38:48.77,Gen_Main,,0,0,0,,¡Qué local tan pequeño!
+Dialogue: 0,1:38:58.20,1:39:00.12,Gen_Main,,0,0,0,,¿Y esas flores?
+Dialogue: 0,1:39:00.21,1:39:03.74,Gen_Main,,0,0,0,,¡Son perfectas para mí!\N¡Dámelas!
+Dialogue: 0,1:39:18.18,1:39:22.56,Gen_Main,,0,0,0,,¡No te las comas!\N¡Son mías, canalla!
+Dialogue: 0,1:39:22.64,1:39:24.60,Gen_Main,,0,0,0,,¡Ya vas a ver!
+Dialogue: 0,1:39:24.69,1:39:26.43,Gen_Main,,0,0,0,,¡Escúpelas de una vez!
+Dialogue: 0,1:39:26.86,1:39:30.77,Gen_Main,,0,0,0,,¡Escupe! ¡Escúpelas!\N¡Que las escupas!
+Dialogue: 0,1:39:39.54,1:39:41.61,Gen_Main,,0,0,0,,TRADUCCIÓN: NICOLÁS SEPÚLVEDA
