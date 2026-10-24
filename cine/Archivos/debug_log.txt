@@ -1,18 +1,14 @@
-app      403    5628 server=cloudflare cf=challenge https://veohentai.com/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5542 server=cloudflare cf=challenge https://veohentai.com/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5584 server=cloudflare cf=challenge https://veohentai.com/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-app      403    5730 server=cloudflare cf=challenge https://veohentai.com/explorar/?orden=vistas  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5644 server=cloudflare cf=challenge https://veohentai.com/explorar/?orden=vistas  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5708 server=cloudflare cf=challenge https://veohentai.com/explorar/?orden=vistas  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-app      403    5655 server=cloudflare cf=challenge https://veohentai.com/explorar/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5569 server=cloudflare cf=challenge https://veohentai.com/explorar/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5633 server=cloudflare cf=challenge https://veohentai.com/explorar/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-app      403    5718 server=cloudflare cf=challenge https://veohentai.com/explorar/?pagina=2  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5632 server=cloudflare cf=challenge https://veohentai.com/explorar/?pagina=2  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5675 server=cloudflare cf=challenge https://veohentai.com/explorar/?pagina=2  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-app      403    5652 server=cloudflare cf=challenge https://veohentai.com/generos/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5566 server=cloudflare cf=challenge https://veohentai.com/generos/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5630 server=cloudflare cf=challenge https://veohentai.com/generos/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-app      403    5703 server=cloudflare cf=challenge https://veohentai.com/genero/hentai-ntr/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-soloUA   403    5617 server=cloudflare cf=challenge https://veohentai.com/genero/hentai-ntr/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
-desktop  403    5660 server=cloudflare cf=challenge https://veohentai.com/genero/hentai-ntr/  '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta htt'
+requests          403 cf=challenge https://veohentai.com/explorar/
+requests          403 cf=challenge https://veohentai.com/generos/
+curl_cffi chrome     200 cf= https://veohentai.com/explorar/ len=289229
+curl_cffi chrome     200 cf= https://veohentai.com/generos/ len=183047
+curl_cffi chrome124  403 cf=challenge https://veohentai.com/explorar/ len=5868
+curl_cffi chrome124  403 cf=challenge https://veohentai.com/generos/ len=5865
+curl_cffi chrome110  403 cf=challenge https://veohentai.com/explorar/ len=5847
+curl_cffi chrome110  403 cf=challenge https://veohentai.com/generos/ len=5844
+curl_cffi safari17_0 200 cf= https://veohentai.com/explorar/ len=289229
+curl_cffi safari17_0 200 cf= https://veohentai.com/generos/ len=183047
+curl_cffi edge101    403 cf=challenge https://veohentai.com/explorar/ len=5889
+curl_cffi edge101    403 cf=challenge https://veohentai.com/generos/ len=5886
+curl_cffi sesión+headers 200 cf= len=289229 initial=False
+curl_cffi sesión pág2 200 initial=False
