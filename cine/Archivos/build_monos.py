@@ -8,6 +8,8 @@ Arma, para el modo normal de Nimaru (MonosChinos), tres JSON ya listos para desc
   cine/Archivos/monos_generos.json     La lista de géneros del filtro de /animes y, para cada género, su primera página.
   cine/Archivos/monos_calendario.json  El calendario (lunes a domingo) y, para cada serie, su póster vertical (el que
                                        la app hoy busca serie por serie al abrir el calendario).
+  cine/Archivos/monos_series.json      Las fichas (episodios + sinopsis/géneros) de las series del Home (últimos
+                                       episodios y series recientes) y del calendario, para que abran al instante.
 
 Es un calco de MonoschinosScraper (parseSeriesGrid, fetchGenres, parseCalendario, fetchSeriesPoster): mismas
 expresiones regulares, mismos límites, para que la app muestre exactamente lo que armaría ella misma.
@@ -16,7 +18,7 @@ Si MonosChinos no responde (o Cloudflare no deja pasar), NO se escribe nada: se 
 y la app, pasadas 24 h sin renovarse, vuelve sola a pedir en vivo (y a su respaldo AnimeAV1) como siempre.
 
 Uso:  python cine/Archivos/build_monos.py                 (lo corre GitHub Actions)
-      python cine/Archivos/build_monos.py --carpeta cine/Archivos --solo catalogo|generos|calendario
+      python cine/Archivos/build_monos.py --carpeta cine/Archivos --solo catalogo|generos|calendario|series
 """
 import argparse
 import html as _html
@@ -46,6 +48,7 @@ UA = ("Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like 
 TIMEOUT = 30
 PARALELO = 4
 MAX_PAGINAS = 400
+PAGE_BATCH = 3                 # páginas de episodios que se piden a la vez en series largas (como la app)
 REESCRIBIR_CADA_MS = 12 * 60 * 60 * 1000
 
 CALENDAR_DAYS = [("lunes", "Lunes"), ("martes", "Martes"), ("miercoles", "Miércoles"), ("jueves", "Jueves"),
@@ -221,6 +224,279 @@ def parse_series_poster(html):
     return poster if poster and poster.strip() else None
 
 
+def post_ajax(url, page, referer, csrf):
+    """postAjax() de la app: POST p=<página> (+ _token y X-CSRF-TOKEN) con cabeceras AJAX. None si no es 2xx o falla."""
+    data = {"p": str(page)}
+    headers = {"Accept": "text/html, */*; q=0.01", "Accept-Language": "es-ES,es;q=0.9", "Referer": referer,
+               "X-Requested-With": "XMLHttpRequest", "Origin": BASE,
+               "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin"}
+    if csrf:
+        data["_token"] = csrf
+        headers["X-CSRF-TOKEN"] = csrf
+    try:
+        r = _session().post(url, data=data, headers=headers, timeout=TIMEOUT)
+        if 200 <= r.status_code < 300:
+            return r.text
+        print(f"  AJAX POST HTTP {r.status_code} en {url} (p={page})", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"  AJAX POST falló {url}: {e}", file=sys.stderr)
+        return None
+
+
+# ── Ficha de una serie (calco de scrapeSeriesEpisodesMonos / parseSeriesInfo) ───────────────────────────────────
+
+_SUFIJOS = ("-sub-espanol", "-latino", "-espanol")
+
+
+def base_slug_of(slug):
+    for suf in _SUFIJOS:                       # removeSuffix en cadena, en el mismo orden que la app
+        if slug.endswith(suf):
+            slug = slug[: -len(suf)]
+    return slug
+
+
+def detail_slug(slug):
+    """MonosIds.slugOf(): el slug con el que la app abre la ficha (lleva -sub-espanol salvo latino/español)."""
+    s = slug[len("monos_"):] if slug.startswith("monos_") else slug
+    return s if (s.endswith("-latino") or s.endswith("-espanol")) else s + "-sub-espanol"
+
+
+def _clean_html_text(raw):
+    """clean() de parseSeriesInfo: Html.fromHtml(...).toString(), sin NBSP, espacios colapsados."""
+    t = re.sub(r"(?i)<br\s*/?>|</?(?:p|div|li|ul|ol|h[1-6]|tr|td|th|table|section|article|blockquote)\b[^>]*>", " ", raw or "")
+    t = re.sub(r"<[^>]*>", "", t)
+    t = _html.unescape(t).replace("\u00a0", " ")
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def parse_series_info(html):
+    syns = [_clean_html_text(m.group(1)) for m in re.finditer(r'<p[^>]*class="[^"]*text-white/75[^"]*"[^>]*>([\s\S]*?)</p>', html, re.I)]
+    syns = [x for x in syns if x.strip()]
+    synopsis = max(syns, key=len) if syns else ""
+    if not synopsis.strip():
+        m = re.search(r'<meta[^>]+name="description"[^>]+content="([^"]*)"', html, re.I)
+        if m:
+            d = _clean_html_text(m.group(1))
+            d = d.split("MonosChinos. ", 1)[1] if "MonosChinos. " in d else d
+            suf = " Mira todos los episodios en HD."
+            if d.endswith(suf):
+                d = d[: -len(suf)]
+            synopsis = d.strip()
+    genres = {}
+    for m in re.finditer(r'<a[^>]+href="https://monoschinos\.st/genero/([^"/]+)"[^>]*>\s*([^<]+?)\s*</a>', html, re.I):
+        genres.setdefault(m.group(1), _clean_html_text(m.group(2)))
+    m = re.search(r'<div class="font-mono text-\[12px\] text-white/45[^"]*">\s*([^<]+?)\s*</div>', html)
+    alt = _clean_html_text(m.group(1)) if m else ""
+    poster = _g1(_POSTER_DATA, html) or _g1(_OG_IMAGE, html) or ""
+    return {"s": synopsis, "g": [g for g in genres.values() if g.strip()], "a": alt, "p": poster}
+
+
+def _ep(series_title, num, thumb, url, slug):
+    """McEpisode como lista compacta (el mismo orden que guarda MonosSeriesCache en disco)."""
+    return [f"{series_title} - Episodio {num}", series_title, num, thumb, url, slug]
+
+
+def fetch_ep_thumbs(ajax_id, page_url, csrf):
+    """fetchEpThumbs(): ep → (thumb, url real) desde /ajax/caplist/<id> (JSON; si no, HTML)."""
+    body = post_ajax(f"{BASE}/ajax/caplist/{ajax_id}", 1, page_url, csrf)
+    if body is None:
+        return {}
+    out = {}
+    try:
+        caps = json.loads(body).get("caps")
+        if isinstance(caps, list) and caps:
+            for cap in caps:
+                try:
+                    ep = int(cap.get("episodio", -1))
+                except (TypeError, ValueError):
+                    ep = -1
+                thumb = str(cap.get("thumb") or "")
+                real = str(cap.get("url") or "").strip() or None
+                if ep > 0 and (thumb.strip() or real):
+                    out[str(ep)] = (thumb, real)
+            return out
+    except Exception:
+        pass
+    for li in re.finditer(r"<li[^>]*>([\s\S]{0,2000}?)</li>", body, re.I):
+        block = li.group(1)
+        m = re.search(r"episodio-(\d+)", block, re.I)
+        if not m:
+            continue
+        thumb = _g1(re.compile(r'(?:data-src|src)="(https://monoschinos\.st/assets/img/serie/episodio/[^"]+)"', re.I), block) or ""
+        real = _g1(re.compile(r'href="(https://monoschinos\.st/ver/[^"]+)"', re.I), block)
+        if not thumb.strip() and real is None:
+            continue
+        out[m.group(1)] = (thumb, real)
+    if not out:
+        for m in re.finditer(r'episodio-(\d+)[\s\S]{0,500}?assets/img/serie/episodio/([^"\s]+)', body, re.I):
+            out[m.group(1)] = (f"{BASE}/assets/img/serie/episodio/{m.group(2)}", None)
+    return out
+
+
+def parse_ajax_json_episodes(text, series_title, series_thumb, base_slug, ep_thumb_id, thumb_map, matched):
+    out = []
+    for m in re.finditer(r'"num"\s*:\s*(\d+)', text):
+        num = m.group(1)
+        cap = thumb_map.get(num)
+        real = cap[1] if cap else None
+        slug = None
+        if real:
+            after = real.split(f"{BASE}/ver/", 1)[1] if f"{BASE}/ver/" in real else ""
+            slug = after if after.strip() else None
+        if slug is None:
+            slug = f"{base_slug}-episodio-{num}"
+        if slug in matched:
+            continue
+        matched.add(slug)
+        if cap and cap[0].strip():
+            thumb = cap[0]
+        elif ep_thumb_id:
+            thumb = f"{BASE}/assets/img/serie/episodio/{base_slug}-{num}-{ep_thumb_id}.jpg"
+        else:
+            thumb = series_thumb
+        url = real or f"{BASE}/ver/{slug}"
+        out.append(_ep(series_title, num, thumb, url, slug))
+    return out
+
+
+def parse_episodes_from_html(html, series_title, series_thumb, base_slug):
+    eps, matched = [], set()
+    rx = re.compile(r'href="(https://monoschinos\.st/ver/([^"]*' + re.escape(base_slug) + r'[^"]*episodio-(\d+)[^"]*))"', re.I)
+    for m in rx.finditer(html):
+        url, slug, num = m.group(1).strip(), m.group(2).strip(), m.group(3).strip()
+        if slug in matched:
+            continue
+        matched.add(slug)
+        eps.append(_ep(series_title, num, series_thumb, url, slug))
+    if not eps:
+        for m in re.finditer(r'href="(https://monoschinos\.st/ver/([^"]+episodio-(\d+)[^"]*))"', html, re.I):
+            url, slug, num = m.group(1).strip(), m.group(2).strip(), m.group(3).strip()
+            if slug in matched:
+                continue
+            matched.add(slug)
+            eps.append(_ep(series_title, num, series_thumb, url, slug))
+    return sorted(eps, key=lambda e: int(e[2]) if e[2].isdigit() else 0)
+
+
+def _ep_num_key(e):
+    return int(e[2]) if re.fullmatch(r"[+-]?\d+", e[2] or "") else 0
+
+
+def scrape_series(slug):
+    """scrapeSeriesEpisodesMonos(slug) + parseSeriesInfo: (episodios, info) o None si la página no respondió."""
+    url = slug if slug.startswith("http") else f"{BASE}/anime/{slug}"
+    html = get(url)
+    if html is None:
+        return None
+    base_slug = base_slug_of(slug)
+    m = re.search(r'<h1[^>]*class="[^"]*text-light[^"]*"[^>]*>\s*([^<]+)\s*</h1>', html, re.I)
+    series_title = m.group(1).strip() if m else (lambda t: t[:1].upper() + t[1:])(base_slug.replace("-", " "))
+    series_thumb = (_g1(_POSTER_DATA, html) or _g1(_SERIE_DATA, html)
+                    or _not_placeholder(_g1(_POSTER_SRC, html)) or _g1(_OG_IMAGE, html) or "")
+    m = re.search(r'assets/img/serie/episodio/[^"\']*?-(\d{8,12})\.jpg', html, re.I)
+    ep_thumb_id = m.group(1).strip() if m else ""
+    info = parse_series_info(html)
+
+    m = re.search(r'data-ajax="https://monoschinos\.st/ajax/ajax_pagination/(\d+)"', html, re.I)
+    if not m:
+        return parse_episodes_from_html(html, series_title, series_thumb, base_slug), info
+    ajax_id = m.group(1).strip()
+    csrf = _g1(re.compile(r'<meta[^>]+name="csrf-token"[^>]+content="([^"]+)"', re.I), html)
+    ajax_url = f"{BASE}/ajax/ajax_pagination/{ajax_id}"
+
+    thumb_map = fetch_ep_thumbs(ajax_id, url, csrf)
+    episodes, matched, page = [], set(), 1
+    responses = [post_ajax(ajax_url, 1, url, csrf)]
+    done = False
+    while not done:
+        for resp in responses:
+            if resp is None:
+                done = True
+                break
+            found = parse_ajax_json_episodes(resp, series_title, series_thumb, base_slug, ep_thumb_id, thumb_map, matched)
+            episodes.extend(found)
+            pm = re.search(r'"perpage"\s*:\s*(\d+)', resp)
+            perpage = int(pm.group(1)) if pm else 50
+            if not found or len(found) < perpage:
+                done = True
+                break
+            page += 1
+            if page > 50:
+                done = True
+                break
+        if done:
+            break
+        frm, to = page, min(page + PAGE_BATCH - 1, 50)
+        responses = [post_ajax(ajax_url, p, url, csrf) or post_ajax(ajax_url, p, url, csrf) for p in range(frm, to + 1)]
+    if not episodes:
+        from_html = parse_episodes_from_html(html, series_title, series_thumb, base_slug)
+        if from_html:
+            return from_html, info
+    return sorted(episodes, key=_ep_num_key), info
+
+
+# ── Home: últimos episodios (para saber qué series pre-resolver) ─────────────────────────────────────────────────
+
+def parse_latest_episode_slugs(html):
+    """Los slugs de episodio de la portada (parseLatestEpisodes), en orden y sin repetir (máximo 30)."""
+    out, seen = [], set()
+    for am in _ARTICLE.finditer(html):
+        block = am.group(1)
+        h = re.search(r'href="(https://monoschinos\.st/ver/([^"]+))"', block, re.I)
+        if not h or "/ver/" not in h.group(1):
+            continue
+        slug = h.group(2).strip()
+        if slug in seen:
+            continue
+        seen.add(slug)
+        out.append(slug)
+        if len(out) >= 30:
+            break
+    return out
+
+
+def series_slug_of_episode(ep_slug):
+    return re.sub(r"-episodio-\d+(-\d+)?$", "", ep_slug)
+
+
+def build_series(calendario):
+    """Las fichas de las series del Home y del calendario. Devuelve la lista de entradas (o None si no hay portada)."""
+    home = get(BASE)
+    if home is None:
+        print("Fichas: la portada no respondió", file=sys.stderr)
+        return None
+    pedidos = []
+    for ep in parse_latest_episode_slugs(home):
+        pedidos.append(detail_slug(series_slug_of_episode(ep)))
+    for s in parse_series_grid(home, 20):
+        pedidos.append(detail_slug(s["slug"]))
+    for items in (calendario or {}).values():
+        for it in items:
+            pedidos.append(detail_slug(it["slug"]))
+    pedidos = list(dict.fromkeys(pedidos))
+    print(f"Fichas: {len(pedidos)} series a resolver")
+
+    def una(slug):
+        try:
+            r = scrape_series(slug)
+        except Exception as e:
+            print(f"  '{slug}': error {e}", file=sys.stderr)
+            return None
+        if r is None:
+            return None
+        eps, info = r
+        if not eps:
+            print(f"  '{slug}': sin episodios", file=sys.stderr)
+            return None
+        return {"slug": slug, "ts": int(time.time() * 1000), "eps": eps, "info": info}
+
+    with ThreadPoolExecutor(max_workers=PARALELO) as pool:
+        results = [r for r in pool.map(una, pedidos) if r is not None]
+    print(f"Fichas: {len(results)} resueltas de {len(pedidos)}")
+    return results
+
+
 # ── Armado ───────────────────────────────────────────────────────────────────────────────────────────────────────
 
 def _fetch_page(page, intentos=3):
@@ -362,7 +638,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--carpeta", default="cine/Archivos")
     ap.add_argument("--max-paginas", type=int, default=MAX_PAGINAS)
-    ap.add_argument("--solo", choices=["catalogo", "generos", "calendario"], default=None)
+    ap.add_argument("--solo", choices=["catalogo", "generos", "calendario", "series"], default=None)
     args = ap.parse_args()
 
     get(BASE)   # la portada primero: deja la cookie de sesión, como hace la app
@@ -381,11 +657,24 @@ def main():
         if gen is not None:
             write_if_changed(os.path.join(args.carpeta, "monos_generos.json"), "items", gen)
             ok += 1
-    if args.solo in (None, "calendario"):
+    cal = None
+    if args.solo in (None, "calendario", "series"):
         print("== Calendario ==")
         cal = build_calendario()
-        if cal is not None:
+        if cal is not None and args.solo != "series":
             write_if_changed(os.path.join(args.carpeta, "monos_calendario.json"), "dias", cal)
+            ok += 1
+    if args.solo in (None, "series"):
+        print("== Fichas de series ==")
+        ser = build_series(cal)
+        if ser:
+            doc = {"generado": datetime.now(timezone.utc).isoformat(timespec="seconds"), "ts": int(time.time() * 1000),
+                   "total": len(ser), "items": ser}
+            path = os.path.join(args.carpeta, "monos_series.json")
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(doc, f, ensure_ascii=False, separators=(",", ":"))
+                f.write("\n")
+            print(f"  Escrito {path} ({len(ser)} fichas)")
             ok += 1
     print(f"Listo en {time.time() - t0:.0f} s ({ok} archivos armados)")
     if ok == 0:

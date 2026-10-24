@@ -3,8 +3,9 @@
 #   cine/Archivos/monos_catalogo.json    todas las páginas de monoschinos.st/animes
 #   cine/Archivos/monos_generos.json     los géneros del filtro y la primera página de cada uno
 #   cine/Archivos/monos_calendario.json  el calendario semanal con el póster de cada serie
+#   cine/Archivos/monos_series.json      las fichas (episodios + sinopsis) de las series del Home y del calendario
 # GitHub Pages los sirve en https://noads-hue.github.io/noads/cine/Archivos/ y la app solo los descarga
-# (config/urls/monos_catalogo, monos_generos y monos_calendario en Firebase).
+# (config/urls/monos_catalogo, monos_generos, monos_calendario y monos_series en Firebase).
 #
 # Solo se suben si cambiaron (o cada 12 h para renovar la fecha). Si MonosChinos no responde, se conservan los anteriores.
 # Para cambiar cada cuánto corre, toca solo la línea del cron (hora UTC; Lima = UTC-5).
@@ -52,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json; do
+          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json cine/Archivos/monos_series.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then
