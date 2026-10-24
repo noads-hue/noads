@@ -60,4 +60,5 @@ jobs:
             exit 0
           fi
           git commit -m "Catálogo y géneros: actualización automática ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+          git pull --rebase -q origin main || true
           git push
