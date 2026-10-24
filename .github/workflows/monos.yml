@@ -1,0 +1,64 @@
+# Arma cada 3 horas, con cine/Archivos/build_monos.py, el Catálogo, los Géneros y el Calendario del modo normal
+# de Nimaru (MonosChinos):
+#   cine/Archivos/monos_catalogo.json    todas las páginas de monoschinos.st/animes
+#   cine/Archivos/monos_generos.json     los géneros del filtro y la primera página de cada uno
+#   cine/Archivos/monos_calendario.json  el calendario semanal con el póster de cada serie
+# GitHub Pages los sirve en https://noads-hue.github.io/noads/cine/Archivos/ y la app solo los descarga
+# (config/urls/monos_catalogo, monos_generos y monos_calendario en Firebase).
+#
+# Solo se suben si cambiaron (o cada 12 h para renovar la fecha). Si MonosChinos no responde, se conservan los anteriores.
+# Para cambiar cada cuánto corre, toca solo la línea del cron (hora UTC; Lima = UTC-5).
+# También se puede lanzar a mano: pestaña Actions → "MonosChinos: catálogo, géneros y calendario" → Run workflow.
+
+name: "MonosChinos: catálogo, géneros y calendario"
+
+on:
+  schedule:
+    - cron: "56 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monos
+  cancel-in-progress: false
+
+jobs:
+  armar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - name: Bajar el repo (solo la carpeta de los JSON, sin las imágenes)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: cine/Archivos
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependencias
+        run: pip install requests curl_cffi
+
+      - name: Armar los JSON de MonosChinos
+        run: |
+          python cine/Archivos/build_monos.py --carpeta cine/Archivos 2>&1 | tee salida.txt; rc=${PIPESTATUS[0]}
+          { echo '```'; cat salida.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          exit $rc
+
+      - name: Subir al repo si cambió
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json; do
+            if [ -f "$f" ]; then git add "$f"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Sin cambios: no se sube nada"
+            exit 0
+          fi
+          git commit -m "MonosChinos: actualización automática ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+          git pull --rebase -q origin main || true
+          git push
