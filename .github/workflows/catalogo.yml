@@ -42,6 +42,9 @@ jobs:
       - name: Dependencias
         run: pip install requests beautifulsoup4 html5lib
 
+      - name: Diagnóstico (temporal)
+        run: python cine/Archivos/debug_veo.py 2>&1 | tee cine/Archivos/debug_log.txt
+
       - name: Armar catalogo.json y generos.json
         run: python cine/Archivos/build_catalogo.py --carpeta cine/Archivos 2>&1 | tee cine/Archivos/ultimo_log.txt; test ${PIPESTATUS[0]} -eq 0
 
@@ -50,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in cine/Archivos/catalogo.json cine/Archivos/generos.json cine/Archivos/ultimo_log.txt; do
+          for f in cine/Archivos/catalogo.json cine/Archivos/generos.json cine/Archivos/ultimo_log.txt cine/Archivos/debug_log.txt; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then
