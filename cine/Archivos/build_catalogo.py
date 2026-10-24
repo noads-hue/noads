@@ -29,6 +29,25 @@ from datetime import datetime, timezone
 
 import requests
 
+# Cloudflare le pone un reto ("Just a moment…") a las peticiones hechas con la librería normal desde los servidores
+# de GitHub. curl_cffi se presenta con la misma huella TLS que Chrome y pasa sin reto; si no está instalada, se usa requests.
+try:
+    from curl_cffi import requests as curl_requests
+    _CURL = True
+except ImportError:
+    _CURL = False
+import threading
+_tls = threading.local()
+
+
+def _curl_session():
+    s = getattr(_tls, "curl", None)
+    if s is None:
+        s = curl_requests.Session(impersonate="chrome")
+        _tls.curl = s
+    return s
+
+
 UA = ("Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) "
       "Chrome/124.0.0.0 Mobile Safari/537.36")
 TIMEOUT = 30
@@ -79,7 +98,12 @@ def _get_text_page(url, headers, referer=None):
         h["Referer"] = referer
     for intento in range(2):
         try:
-            r = s.get(url, headers=h, timeout=TIMEOUT)
+            if _CURL:
+                # Con la huella de Chrome: solo se agregan idioma y Referer (el User-Agent lo pone curl_cffi, acorde a la huella)
+                hc = {k: v for k, v in h.items() if k in ("Accept-Language", "Referer")}
+                r = _curl_session().get(url, headers=hc, timeout=TIMEOUT)
+            else:
+                r = s.get(url, headers=h, timeout=TIMEOUT)
             if r.status_code in (429, 503):
                 print(f"  HTTP {r.status_code} en {url} (intento {intento + 1})", file=sys.stderr)
                 time.sleep(3 + 3 * intento)
@@ -91,7 +115,7 @@ def _get_text_page(url, headers, referer=None):
                 print(f"  Cloudflare pide verificación en {url}", file=sys.stderr)
                 return None
             return r.text if r.text.strip() else None
-        except requests.RequestException as e:
+        except Exception as e:
             print(f"  GET falló {url}: {e}", file=sys.stderr)
             time.sleep(2)
     return None
