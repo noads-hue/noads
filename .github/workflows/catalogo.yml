@@ -40,7 +40,7 @@ jobs:
           python-version: "3.12"
 
       - name: Dependencias
-        run: pip install requests beautifulsoup4 html5lib
+        run: pip install requests beautifulsoup4 html5lib curl_cffi
 
       - name: Diagnóstico (temporal)
         run: python cine/Archivos/debug_veo.py 2>&1 | tee cine/Archivos/debug_log.txt
