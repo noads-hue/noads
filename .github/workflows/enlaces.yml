@@ -1,6 +1,6 @@
 # Arma cada 3 horas, con cine/Archivos/build_enlaces.py, el archivo cine/Archivos/enlaces.json: para cada serie del
 # Top 10, Más vistos y el Catálogo (VeoHentai) deja ya resuelta su serie en MuchoHentai con todos sus episodios,
-# tal como la calcularía la app al tocarla. Cada corrida resuelve hasta 60 series (primero el Home, luego el catálogo
+# tal como la calcularía la app al tocarla. Cada corrida resuelve hasta 100 series (primero el Home, luego el catálogo
 # que falte) y conserva lo ya resuelto. GitHub Pages lo sirve en https://noads-hue.github.io/noads/cine/Archivos/enlaces.json
 # (config/urls/enlaces en Firebase).
 #

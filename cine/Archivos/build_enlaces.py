@@ -48,7 +48,7 @@ LISTAS_HOME = {
     "top10": "https://todesvip.github.io/visor-manga/cine/Archivos/top10.json",
     "mas_vistos": "https://todesvip.github.io/visor-manga/cine/Archivos/mas_vistos.json",
 }
-PRESUPUESTO = 60                                  # series a resolver por corrida
+PRESUPUESTO = 100                                 # series a resolver por corrida (unos 6 min)
 REFRESCO_HOME_MS = 12 * 60 * 60 * 1000            # Top 10 / Más vistos: se vuelven a resolver cada 12 h
 REFRESCO_CATALOGO_MS = 7 * 24 * 60 * 60 * 1000    # catálogo: cada 7 días
 REFRESCO_SIN_RESULTADO_MS = 3 * 24 * 60 * 60 * 1000   # lo que no se encontró se reintenta a los 3 días
