@@ -57,7 +57,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json cine/Archivos/monos_series.json cine/Archivos/debug_monos_log.txt; do
+          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json cine/Archivos/monos_series.json cine/Archivos/debug_monos_log.txt cine/Archivos/debug_ficha.html cine/Archivos/debug_ep.html; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then

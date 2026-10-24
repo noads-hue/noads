@@ -225,7 +225,11 @@ def parse_series_poster(html):
 
 
 def post_ajax(url, page, referer, csrf):
-    """postAjax() de la app: POST p=<página> (+ _token y X-CSRF-TOKEN) con cabeceras AJAX. None si no es 2xx o falla."""
+    """postAjax() de la app: p=<página> (+ _token y X-CSRF-TOKEN) con cabeceras AJAX. None si no es 2xx o falla.
+
+    Desde GitHub, Cloudflare desafía toda POST a /ajax/ (403 "Just a moment...") pero deja pasar las GET, y el
+    servidor contesta lo mismo con ?p=<página>; por eso aquí se pide primero por GET y, si no es 2xx, con la POST
+    original de la app."""
     data = {"p": str(page)}
     headers = {"Accept": "text/html, */*; q=0.01", "Accept-Language": "es-ES,es;q=0.9", "Referer": referer,
                "X-Requested-With": "XMLHttpRequest", "Origin": BASE,
@@ -233,8 +237,16 @@ def post_ajax(url, page, referer, csrf):
     if csrf:
         data["_token"] = csrf
         headers["X-CSRF-TOKEN"] = csrf
+    s = _session()
     try:
-        r = _session().post(url, data=data, headers=headers, timeout=TIMEOUT)
+        r = s.get(f"{url}?p={page}", headers=headers, timeout=TIMEOUT)
+        if 200 <= r.status_code < 300:
+            return r.text
+        print(f"  AJAX GET HTTP {r.status_code} en {url} (p={page}); se intenta POST", file=sys.stderr)
+    except Exception as e:
+        print(f"  AJAX GET falló {url}: {e}; se intenta POST", file=sys.stderr)
+    try:
+        r = s.post(url, data=data, headers=headers, timeout=TIMEOUT)
         if 200 <= r.status_code < 300:
             return r.text
         print(f"  AJAX POST HTTP {r.status_code} en {url} (p={page})", file=sys.stderr)
