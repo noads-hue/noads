@@ -43,9 +43,6 @@ jobs:
       - name: Dependencias
         run: pip install requests curl_cffi
 
-      - name: Diagnóstico (temporal)
-        run: python cine/Archivos/debug_monos.py 2>&1 | tee cine/Archivos/debug_monos_log.txt
-
       - name: Armar los JSON de MonosChinos
         run: |
           python cine/Archivos/build_monos.py --carpeta cine/Archivos 2>&1 | tee salida.txt; rc=${PIPESTATUS[0]}
@@ -53,11 +50,10 @@ jobs:
           exit $rc
 
       - name: Subir al repo si cambió
-        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json cine/Archivos/monos_series.json cine/Archivos/debug_monos_log.txt cine/Archivos/debug_ficha.html cine/Archivos/debug_ep.html; do
+          for f in cine/Archivos/monos_catalogo.json cine/Archivos/monos_generos.json cine/Archivos/monos_calendario.json cine/Archivos/monos_series.json; do
             if [ -f "$f" ]; then git add "$f"; fi
           done
           if git diff --cached --quiet; then
