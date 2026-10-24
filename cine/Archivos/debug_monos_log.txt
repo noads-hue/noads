@@ -1,0 +1,15 @@
+chrome                 200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
+   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+   caplist : 403 6192 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
+chrome+UA movil        200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
+   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+   caplist : 403 6192 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
+chrome_android         200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
+   ajax p=1: 403 6215 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+   caplist : 403 6191 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
+chrome131_android      200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
+   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+   caplist : 403 6213 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
+chrome99_android       200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
+   ajax p=1: 403 6236 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
+   caplist : 403 6191 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
