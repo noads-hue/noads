@@ -1,15 +1,69 @@
-chrome                 200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
-   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-   caplist : 403 6192 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
-chrome+UA movil        200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
-   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-   caplist : 403 6192 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
-chrome_android         200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
-   ajax p=1: 403 6215 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-   caplist : 403 6191 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
-chrome131_android      200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
-   ajax p=1: 403 6237 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-   caplist : 403 6213 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
-chrome99_android       200   23740 {'h1light': False, 'data-ajax': True, 'csrf': True, 'p75': 8, 'caplist': True, 'ver-links': 1}
-   ajax p=1: 403 6236 nums=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/htm'
-   caplist : 403 6191 caps=0 '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Typ'
+curl_cffi ?
+0) defaults chrome: {"user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36", "sec-ch-ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Google Chrome\";v=\"150\"", "sec-ch-ua-mobile": "?0", "sec-ch-ua-platform": "\"macOS\"", "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7", "accept-language": "en-US,en;q=0.9", "sec-fetch-mode": "navigate", "upgrade-insecure-requests": "1", "priority": "u=0, i"}
+1) chrome + cabeceras de post_ajax (lo que hace el script)
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST baseline                          -> 403 cf-mitigated=challenge len=6258 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST baseline sin Origin               -> 403 cf-mitigated=challenge len=6215 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   GET ?p=1 (cabeceras ajax)              -> 200 cf-mitigated=- len=125 nums=4 | '{"paginate_url":"https:\\/\\/monoschinos.st\\/ajax\\/caplist\\/63'
+   GET ?p=1 (navegación)                  -> 200 cf-mitigated=- len=125 nums=4 | '{"paginate_url":"https:\\/\\/monoschinos.st\\/ajax\\/caplist\\/63'
+   enviado (baseline): {"Accept": "text/html, */*; q=0.01", "Accept-Encoding": "gzip, deflate, br, zstd", "Accept-Language": "es-ES,es;q=0.9", "Content-Length": "3", "Content-Type": "application/x-www-form-urlencoded", "Host": "httpbin.org", "Origin": "https://monoschinos.st", "Priority": "u=0, i", "Referer": "https://monoschinos.st/anime/tokyo-revengers-santen-sensou-hen-sub-espanol", "Sec-Ch-Ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Google Chrome\";v=\"150\"", "Sec-Ch-Ua-Mobile": "?0", "Sec-Ch-Ua-Platform": "\"macOS\"", "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin", "Sec-Fetch-User": "?1", "Upgrade-Insecure-Requests": "1", "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36", "X-Amzn-Trace-Id": "Root=1-6adc76ac-465d4cbe6dec59eb404ee8a3", "X-Csrf-Token": "Mf1kLpWW2DQkjVxe9k4U8
+2) chrome, default_headers=False, XHR calcado
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado accept */*            -> 403 cf-mitigated=challenge len=6194 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST XHR accept text/html              -> 403 cf-mitigated=challenge len=6215 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST XHR sin priority                  -> 403 cf-mitigated=challenge len=6194 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST XHR sin Origin                    -> 403 cf-mitigated=challenge len=6173 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST XHR sin X-Requested-With          -> 403 cf-mitigated=challenge len=6173 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST XHR HTTP/1.1                      -> 403 cf-mitigated=challenge len=6215 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   enviado (XHR calcado): {"Accept": "*/*", "Accept-Encoding": "gzip, deflate, br, zstd", "Accept-Language": "es-ES,es;q=0.9", "Content-Length": "3", "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8", "Host": "httpbin.org", "Origin": "https://monoschinos.st", "Priority": "u=1, i", "Referer": "https://monoschinos.st/anime/tokyo-revengers-santen-sensou-hen-sub-espanol", "Sec-Ch-Ua": "\"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"150\", \"Google Chrome\";v=\"150\"", "Sec-Ch-Ua-Mobile": "?0", "Sec-Ch-Ua-Platform": "\"macOS\"", "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin", "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36", "X-Amzn-Trace-Id": "Root=1-6adc76ad-1ea9c8234f59c525010e6707", "X-Csrf-Token": "SdZoTvX1KavlA3xBeWTPMP2fQvJplzJg8I5FpeFJ", "X-Requested-With": "XMLHttpRequest"}
+3) huella safari17_0
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6066 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6066 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella safari18_0
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6066 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6087 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella safari17_2_ios
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6108 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6108 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella firefox
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6044 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6044 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella firefox135
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6044 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6044 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella chrome_android
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6237 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6215 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella edge101
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6280 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6280 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella chrome110
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6236 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6236 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+3) huella chrome99
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST XHR calcado                       -> 403 cf-mitigated=challenge len=6236 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6236 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+4) sin impersonate, UA de la app
+   GET ficha: 200 23740B ajax_id=6317 csrf=sí cookies=['XSRF-TOKEN', 'monoschinos_session']
+   POST cabeceras post_ajax               -> 403 cf-mitigated=challenge len=6087 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+   POST post_ajax HTTP/1.1                -> 403 cf-mitigated=challenge len=6109 nums=0 | '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment'
+5) página del episodio 1
+   200 46569B /ver/ links=10 únicos=9 select=True option=5 data-ajax=False caplist=False
+   primeros: ['https://monoschinos.st/ver/tokyo-revengers-santen-sensou-hen-episodio-1', 'https://monoschinos.st/ver/lucky-star-episodio-1', 'https://monoschinos.st/ver/kakumeiki-valvrave-episodio-1'] últimos: ['https://monoschinos.st/ver/munto-toki-no-kabe-wo-koete-episodio-1', 'https://monoschinos.st/ver/evangelion-3010-thrice-upon-a-time-episodio-1', 'https://monoschinos.st/ver/tokyo-revengers-santen-sensou-hen-episodio-2']
+   ...episodio-2: 'er gap-2 shrink-0"> <a href="https://monoschinos.st/ver/tokyo-revengers-santen-sensou-hen-episodio-2" class="inline-flex items-center gap-2 h-10 px-5 rounded-full text-[13px] font-semibold text-[#1a0d00] bg-brand hover:bg-brand-hover transition"> '
+   ...lista: ' para comentar. </span> </div> </div> <div id="comentarios-lista"></div> <button id="comentarios-cargar-mas" class="w-100 border-0 py-3 mt-3 fw-semibold rounded-3 comentarios-cargar-mas-btn" style="display:none;fon'
+   ...Lista: 'e-linecap="round" stroke-linejoin="round"><path d="M8 6h13M8 12h13M8 18h13M3 6h.01M3 12h.01M3 18h.01"/></svg> Lista de capítulos </a> <button type="button" id="report-open" class="inline-flex items-center gap-2 h-9 px-4 rounded-full text-[12.5px] font-me'
+   ...ajax: 'r-1"> <form autocomplete="off" action="https://monoschinos.st/buscar" method="get" id="search" class="form_search_ajax flex items-center gap-2.5 bg-white/[0.04] border border-white/[0.08] rounded-full px-4 h-[38px] transition-all duration-200 text-white/60 focus-within:bg-w'
+6) sitemap
+   https://monoschinos.st/sitemap.xml -> 200 5630B '<sitemapindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="ht'
+   https://monoschinos.st/sitemap_index.xml -> 404 13941B '<!doctype html> <html lang="es"><head> <meta charset="utf-8"> <link rel="icon" type="image/x-icon" href="https://monoschinos.st/favicon.ico?v=4.72"> <link rel="shortcut icon" href="https://monoschinos'
+   https://monoschinos.st/robots.txt -> 200 255B 'User-agent: * Disallow: /buscar Disallow: /reproductor Disallow: /mi-perfil Disallow: /login Disallow: /register Disallow: /comentarios Disallow: /panel Allow: / Sitemap: https://monoschinos.st/sitem'
