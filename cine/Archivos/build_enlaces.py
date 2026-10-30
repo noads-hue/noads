@@ -6,7 +6,13 @@ su serie en MuchoHentai con TODOS sus episodios y enlaces, exactamente como la c
 (MuchoHentaiSearcher.search → findBestMatch → fetchFullSeriesEpisodes → applyEpisodes). Así, al tocar, la app abre
 la ficha al instante en vez de buscar en ese momento.
 
-Entradas: top10.json y mas_vistos.json (publicados por la otra cuenta en GitHub Pages) y catalogo.json (este repo).
+Entradas: top10.json, mas_vistos.json y catalogo.json, publicados por la otra cuenta (visor-manga) en GitHub Pages.
+Si el catálogo no se pudiera leer, las series del catálogo ya resueltas se conservan tal cual.
+
+MuchoHentai exige que TODAS las palabras de la búsqueda aparezcan: «Himawari ga Yoru ni Saku» no encuentra «Himawari wa
+Yoru ni Saku» ni «Kowaremono Risa The Animation» a «Kowaremono: Risa». Por eso, si con el título completo no sale nada, se
+vuelve a buscar sin «The Animation»/«OVA»/signos y luego sin las partículas japonesas (ga, wa, no, ni…), y de esos
+resultados solo se aceptan los que se parezcan de verdad al título (la misma comparación que usa la app).
 Cada corrida resuelve como mucho PRESUPUESTO series (primero las del Home que ya pasaron de 12 h, luego el catálogo
 que falte o tenga más de 7 días), y conserva todo lo ya resuelto: el catálogo completo se va llenando corrida a corrida.
 
@@ -48,6 +54,7 @@ LISTAS_HOME = {
     "top10": "https://todesvip.github.io/visor-manga/cine/Archivos/top10.json",
     "mas_vistos": "https://todesvip.github.io/visor-manga/cine/Archivos/mas_vistos.json",
 }
+CATALOGO_URL = "https://todesvip.github.io/visor-manga/cine/Archivos/catalogo.json"   # el catálogo (Hentaila) lo arma visor-manga
 PRESUPUESTO = 100                                 # series a resolver por corrida (unos 6 min)
 REFRESCO_HOME_MS = 12 * 60 * 60 * 1000            # Top 10 / Más vistos: se vuelven a resolver cada 12 h
 REFRESCO_CATALOGO_MS = 7 * 24 * 60 * 60 * 1000    # catálogo: cada 7 días
@@ -488,14 +495,48 @@ def _split_hits(hits):
             [h for h in hits if h["lang"] == ES], [h for h in hits if h["lang"] == PV])
 
 
+_EXTRAS_RE = re.compile(r"(?i)\b(the\s+animation|the\s+motion\s+anime|animation|ova)\b")
+_SIGNOS_RE = re.compile(r"[^\w\s]")
+_PARTICULAS = {"ga", "wa", "no", "ni", "to", "wo", "o", "de", "e", "mo", "ka", "ne", "ya", "na", "he"}
+
+
+def consultas_alternativas(title):
+    """MuchoHentaiSearcher.consultasAlternativas(): con qué volver a buscar cuando el título completo no da nada.
+    1) sin «The Animation» / «OVA» / «The Motion Anime» y sin signos; 2) además sin las partículas japonesas y las
+    letras sueltas (si quedan al menos 2 palabras). Nunca repite el título original."""
+    base = series_title_from_title(extract_series_name(title))
+    out = []
+    sin_extras = re.sub(r"\s+", " ", _SIGNOS_RE.sub(" ", _EXTRAS_RE.sub(" ", base))).strip()
+    if sin_extras and sin_extras.lower() != base.lower():
+        out.append(sin_extras)
+    palabras = [w for w in sin_extras.split(" ") if (len(w) > 1 or w.isdigit()) and w.lower() not in _PARTICULAS]
+    sin_particulas = " ".join(palabras)
+    if len(palabras) >= 2 and sin_particulas.lower() not in (base.lower(), sin_extras.lower()):
+        out.append(sin_particulas)
+    return out
+
+
 def search(pool, query, max_pages=5, fill_gaps=False):
-    """MuchoHentaiSearcher.search(query, maxPages, fillGaps)."""
+    """MuchoHentaiSearcher.search(query, maxPages, fillGaps). Si no sale nada, se vuelve a buscar con las consultas
+    alternativas y de ahí solo valen las series que se parezcan de verdad a lo buscado."""
     q = query.strip()
     if not q:
         return []
     hits = [h for h in (classify(x) for x in search_all_pages(pool, (q,), max_pages)[q]) if h]
     raw, eng, es, pv = _split_hits(hits)
-    return build_animes(pool, raw, eng, es, pv, fill_gaps=fill_gaps, fetch_eng_subs=True)
+    built = build_animes(pool, raw, eng, es, pv, fill_gaps=fill_gaps, fetch_eng_subs=True)
+    if built:
+        return built
+    key = fuzzy_alnum_key(q)
+    for alt in consultas_alternativas(q):
+        hits = [h for h in (classify(x) for x in search_all_pages(pool, (alt,), min(max_pages, 3))[alt]) if h]
+        raw, eng, es, pv = _split_hits(hits)
+        parecidas = [a for a in build_animes(pool, raw, eng, es, pv, fill_gaps=fill_gaps, fetch_eng_subs=True)
+                     if is_fuzzy_same_series(fuzzy_alnum_key(a["titulo"]), key)]
+        if parecidas:
+            print(f"  '{q}': nada con el título completo; con '{alt}' salieron {len(parecidas)} parecidas")
+            return parecidas
+    return []
 
 
 def find_best_match(title, candidates):
@@ -621,11 +662,17 @@ def main():
                 pedidos[clave(t)] = (t, fuente)
     n_home = len(pedidos)
     if not args.solo_home:
-        cat = _load_json(os.path.join(args.carpeta, "catalogo.json")) or {}
-        for it in cat.get("items") or []:
-            t = series_title_item(it)
-            if t and clave(t) not in pedidos:
-                pedidos[clave(t)] = (t, "catalogo")
+        cat = _fetch_json(CATALOGO_URL) or {}
+        if cat.get("items"):
+            for it in cat["items"]:
+                t = series_title_item(it)
+                if t and clave(t) not in pedidos:
+                    pedidos[clave(t)] = (t, "catalogo")
+        else:                                   # sin catálogo esta vez: se conservan las series del catálogo ya resueltas
+            print("El catálogo no se pudo leer: se conservan las series del catálogo que ya estaban", file=sys.stderr)
+            for e in prev.values():
+                if e.get("fuente") == "catalogo" and e.get("titulo") and e["clave"] not in pedidos:
+                    pedidos[e["clave"]] = (e["titulo"], "catalogo")
     print(f"Series a cubrir: {len(pedidos)} ({n_home} del Home, {len(pedidos) - n_home} del catálogo)")
 
     def necesita(k, fuente):
