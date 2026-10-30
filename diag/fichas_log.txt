@@ -12,8 +12,8 @@ Fichas: 67 resueltas de 67
   gattaishin-series-sub-espanol: AniList 213068 (Juuоu Mujin Dandivine)
   shikin-on-myao-bou-sub-espanol: AniList 166443 (Zi Jin: Yu Miao Fang)
   majikku-naito-reiasu-sub-espanol: AniList 435 (Magic Knight Rayearth)
-  tantei-wa-mo-shindeiru-temporada-2-sub-espanol: AniList 128712 (Tantei wa mou, Shindeiru.)
-  sasaki-to-p-chan-temporada-2-sub-espanol: AniList 152682 (Sasaki to Pii-chan)
+  tantei-wa-mo-shindeiru-temporada-2-sub-espanol: AniList 152677 (Tantei wa mou, Shindeiru. Season 2)
+  sasaki-to-p-chan-temporada-2-sub-espanol: AniList 176314 (Sasaki to Pii-chan Season 2)
   sekai-saikyou-no-majo-hajimemashita-sub-espanol: AniList 211778 (Sekai Saikyou no Majo, Hajimemashita)
   mahou-shoujo-ikusei-keikaku-restart-sub-espanol: AniList 160803 (Mahou Shoujo Ikusei Keikaku: restart)
   dark-machine-the-animation-sub-espanol: AniList 179876 (DARK MACHINE: The Animation)
@@ -27,7 +27,7 @@ Fichas: 67 resueltas de 67
   tensei-goblin-dakedo-shitsumon-aru-sub-espanol: AniList 209219 (Tensei Goblin Dakedo Shitsumon Aru?)
   psyren-sub-espanol: AniList 204011 (PSYЯEN)
   doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-sub-espanol: AniList 207191 (Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.)
-  watashi-no-shiawase-na-kekkon-s2-sub-espanol: no está en AniList
+  watashi-no-shiawase-na-kekkon-s2-sub-espanol: AniList 169441 (Watashi no Shiawase na Kekkon 2nd Season)
   saibapanku-edjirannazu-cyberpunk-edgerunners-2-sub-espanol: no está en AniList
   your-letter-sub-espanol: AniList 163788 (Yeonui Pyeonji)
   dreamland-sub-espanol: AniList 114466 (DREAMLAND)
@@ -36,11 +36,10 @@ Fichas: 67 resueltas de 67
   marronnier-okoku-no-shichinin-no-kishi-sub-espanol: AniList 212799 (Marronnier Oukoku no Shichinin no Kishi)
   kyoufu-collector-sub-espanol: AniList 203473 (Kyoufu Collector)
   shuiro-no-kamen-sub-espanol: AniList 195571 (Shuiro no Kamen)
-  AniList: límite alcanzado, se espera 60 s
-  rezero-kara-hajimeru-break-time-s4-sub-espanol: no está en AniList
+  rezero-kara-hajimeru-break-time-s4-sub-espanol: AniList 210687 (Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season)
   reiwa-no-dara-san-sub-espanol: AniList 203880 (Reiwa no Dara-san)
   mebius-dust-sub-espanol: AniList 108992 (Mebius Dust)
-  hyoken-no-majutsushi-ga-sekai-wo-suberu-sekai-saikyo-no-majutsushi-de-aru-shonen-wa-majutsu-gakuin-ga-nyugaku-suru-temporada-2-sub-espanol: AniList 148116 (Hyouken no Majutsushi ga Sekai wo Suberu)
+  hyoken-no-majutsushi-ga-sekai-wo-suberu-sekai-saikyo-no-majutsushi-de-aru-shonen-wa-majutsu-gakuin-ga-nyugaku-suru-temporada-2-sub-espanol: AniList 212503 (Hyouken no Majutsushi ga Sekai wo Suberu II)
   uchi-no-ototo-domo-ga-sumimasen-sub-espanol: AniList 203490 (Uchi no Otouto-domo ga Sumimasen)
   shiguang-dailiren-link-click-3-sub-espanol: no está en AniList
   togen-anki-nikko-kegon-falls-arc-sub-espanol: AniList 177474 (Tougen Anki)
@@ -61,7 +60,7 @@ Fichas: 67 resueltas de 67
   yozakura-san-chi-no-daisakusen-temporada-2-sub-espanol: AniList 182578 (Yozakura-san Chi no Daisakusen 2nd Season)
   star-detective-precure-sub-espanol: AniList 202957 (Meitantei Precure!)
   tempal-item-no-chikara-sub-espanol: AniList 212888 (Tempal: Item no Chikara)
-  tensei-kizoku-kantei-skill-de-nariagaru-s3-sub-espanol: no está en AniList
+  tensei-kizoku-kantei-skill-de-nariagaru-s3-sub-espanol: AniList 185756 (Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season)
   mezametara-saikyo-sobi-to-uchusen-mochi-datta-no-de-ikkodate-mezashite-yohei-toshite-jiyu-ni-ikitai-sub-espanol: AniList 186541 (Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai)
   ojisan-wa-kawaii-mono-ga-osuki-sub-espanol: AniList 202079 (Oji-san wa Kawaii Mono ga Osuki.)
   yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-sub-espanol: no está en AniList
@@ -72,6 +71,6 @@ Fichas: 67 resueltas de 67
   kanata-kara-sub-espanol: AniList 209463 (Kanata Kara)
   dark-summoner-to-dekiteiru-sub-espanol: AniList 208025 (Dark Summoner to Dekiteiru)
   kanojo-no-tomodachi-sub-espanol: AniList 211877 (Kanojo no Tomodachi)
-  59 de 67 series en AniList (8 no), 59 con datos; 1698 episodios con título/descripción: 0 textos en español, 3351 aún en inglés; 102 consultas a AniList, 0 pedidos a Claude
+  62 de 67 series en AniList (5 no), 62 con datos; 1712 episodios con título/descripción: 0 textos en español, 3379 aún en inglés; 109 consultas a AniList, 0 pedidos a Claude
   Escrito cine/Archivos/monos_series.json (67 fichas)
-Listo en 257 s (1 archivos armados)
+Listo en 269 s (1 archivos armados)
