@@ -1,6 +1,8 @@
 # TEMPORAL (rama diag-miruro): lee unas páginas de Miruro desde GitHub y las sube a la rama para estudiar su formato.
 name: "diag: Miruro"
 on:
+  push:
+    branches: [diag-miruro]
   workflow_dispatch:
 permissions:
   contents: write
