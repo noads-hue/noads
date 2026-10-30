@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests curl_cffi
-      - run: python diag/diag_miruro.py
+      - run: python diag/diag_anilist.py 2>&1 | tee diag/anilist_log.txt
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
