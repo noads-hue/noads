@@ -10,6 +10,9 @@ Arma, para el modo normal de Nimaru (MonosChinos), tres JSON ya listos para desc
                                        la app hoy busca serie por serie al abrir el calendario).
   cine/Archivos/monos_series.json      Las fichas (episodios + sinopsis/géneros) de las series del Home (últimos
                                        episodios y series recientes) y del calendario, para que abran al instante.
+                                       Se completan con el título, la descripción y la miniatura de cada episodio y el
+                                       logo de la serie (AniList + ani.zip), traducidos al español con Claude: ver
+                                       complemento.py (la clave llega en la variable de entorno CLAUDE_KEY).
 
 Es un calco de MonoschinosScraper (parseSeriesGrid, fetchGenres, parseCalendario, fetchSeriesPoster): mismas
 expresiones regulares, mismos límites, para que la app muestre exactamente lo que armaría ella misma.
@@ -680,6 +683,15 @@ def main():
         print("== Fichas de series ==")
         ser = build_series(cal)
         if ser:
+            print("== Complemento (AniList + ani.zip + traducción) ==")
+            try:
+                import complemento
+                res = complemento.complementar(ser, args.carpeta, os.environ.get("CLAUDE_KEY") or None)
+                print(f"  {res['encontradas']} de {res['series']} series en AniList ({res['sin_anilist']} no), {res['con_datos']} con datos; "
+                      f"{res['episodios']} episodios con título/descripción: {res['traducidos']} textos en español, {res['en_ingles']} aún en inglés; "
+                      f"{res['consultas_anilist']} consultas a AniList, {res['pedidos_claude']} pedidos a Claude")
+            except Exception as e:
+                print(f"  El complemento falló ({type(e).__name__}: {str(e)[:120]}); las fichas salen como las da MonosChinos", file=sys.stderr)
             doc = {"generado": datetime.now(timezone.utc).isoformat(timespec="seconds"), "ts": int(time.time() * 1000),
                    "total": len(ser), "items": ser}
             path = os.path.join(args.carpeta, "monos_series.json")

@@ -16,10 +16,12 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests curl_cffi
-      - run: python diag/diag_anilist.py 2>&1 | tee diag/anilist_log.txt
+      - env:
+          CLAUDE_KEY: ${{ secrets.CLAUDE_KEY }}
+        run: python cine/Archivos/build_monos.py --carpeta cine/Archivos --solo series 2>&1 | tee diag/fichas_log.txt
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add diag/
+          git add diag/ cine/Archivos/
           git commit -m "diag: páginas de Miruro" || exit 0
           git push
