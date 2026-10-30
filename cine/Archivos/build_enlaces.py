@@ -12,7 +12,9 @@ Si el catálogo no se pudiera leer, las series del catálogo ya resueltas se con
 MuchoHentai exige que TODAS las palabras de la búsqueda aparezcan: «Himawari ga Yoru ni Saku» no encuentra «Himawari wa
 Yoru ni Saku» ni «Kowaremono Risa The Animation» a «Kowaremono: Risa». Por eso, si con el título completo no sale nada, se
 vuelve a buscar sin «The Animation»/«OVA»/signos y luego sin las partículas japonesas (ga, wa, no, ni…), y de esos
-resultados solo se aceptan los que se parezcan de verdad al título (la misma comparación que usa la app).
+resultados solo se aceptan los que se parezcan de verdad al título (la misma comparación que usa la app). Y si tampoco
+así sale nada (el buscador del sitio no encuentra «Kowaremono: Risa» ni buscando «Kowaremono Risa»), se prueba la página
+de la serie, /series/<nombre-con-guiones>, que lista todos sus posts con el mismo formato que el buscador.
 Cada corrida resuelve como mucho PRESUPUESTO series (primero las del Home que ya pasaron de 12 h, luego el catálogo
 que falte o tenga más de 7 días), y conserva todo lo ya resuelto: el catálogo completo se va llenando corrida a corrida.
 
@@ -516,9 +518,51 @@ def consultas_alternativas(title):
     return out
 
 
+def slug_serie(nombre):
+    """El nombre como lo pone WordPress en /series/<slug>: minúsculas, sin acentos ni signos, guiones entre palabras."""
+    s = unicodedata.normalize("NFKD", nombre).encode("ascii", "ignore").decode("ascii").lower()
+    return re.sub(r"-{2,}", "-", re.sub(r"[^a-z0-9]+", "-", s)).strip("-")
+
+
+def slugs_posibles(title):
+    """Los slugs de serie que vale la pena probar para un título: el del título y los de sus consultas alternativas."""
+    base = series_title_from_title(extract_series_name(title))
+    out = []
+    for nombre in [base] + consultas_alternativas(title):
+        sl = slug_serie(nombre)
+        if sl and sl not in out:
+            out.append(sl)
+    return out
+
+
+def serie_page(slug, page=1):
+    """Los posts de la página `page` de /series/<slug> (mismo formato que el buscador). [] si no existe."""
+    key = ("series/" + slug, page)
+    if key in _page_cache:
+        return _page_cache[key]
+    url = f"{BASE}/series/{slug}" if page <= 1 else f"{BASE}/series/{slug}/page/{page}"
+    html = http_get(url)
+    res = parse_results(html) if html and len(html) >= 500 else []
+    _page_cache[key] = res
+    return res
+
+
+def serie_all_pages(pool, slug, max_pages):
+    pages = list(pool.map(lambda p: serie_page(slug, p), range(1, max_pages + 1)))
+    return [r for res in pages for r in res]
+
+
+def _armar_parecidas(pool, resultados, key, fill_gaps):
+    hits = [h for h in (classify(x) for x in resultados) if h]
+    raw, eng, es, pv = _split_hits(hits)
+    return [a for a in build_animes(pool, raw, eng, es, pv, fill_gaps=fill_gaps, fetch_eng_subs=True)
+            if is_fuzzy_same_series(fuzzy_alnum_key(a["titulo"]), key)]
+
+
 def search(pool, query, max_pages=5, fill_gaps=False):
     """MuchoHentaiSearcher.search(query, maxPages, fillGaps). Si no sale nada, se vuelve a buscar con las consultas
-    alternativas y de ahí solo valen las series que se parezcan de verdad a lo buscado."""
+    alternativas y, si tampoco, con la página de la serie (/series/<slug>); de ahí solo valen las series que se parezcan
+    de verdad a lo buscado."""
     q = query.strip()
     if not q:
         return []
@@ -529,12 +573,14 @@ def search(pool, query, max_pages=5, fill_gaps=False):
         return built
     key = fuzzy_alnum_key(q)
     for alt in consultas_alternativas(q):
-        hits = [h for h in (classify(x) for x in search_all_pages(pool, (alt,), min(max_pages, 3))[alt]) if h]
-        raw, eng, es, pv = _split_hits(hits)
-        parecidas = [a for a in build_animes(pool, raw, eng, es, pv, fill_gaps=fill_gaps, fetch_eng_subs=True)
-                     if is_fuzzy_same_series(fuzzy_alnum_key(a["titulo"]), key)]
+        parecidas = _armar_parecidas(pool, search_all_pages(pool, (alt,), min(max_pages, 3))[alt], key, fill_gaps)
         if parecidas:
             print(f"  '{q}': nada con el título completo; con '{alt}' salieron {len(parecidas)} parecidas")
+            return parecidas
+    for slug in slugs_posibles(q):
+        parecidas = _armar_parecidas(pool, serie_all_pages(pool, slug, min(max_pages, 3)), key, fill_gaps)
+        if parecidas:
+            print(f"  '{q}': el buscador no la encuentra; en /series/{slug} salieron {len(parecidas)} parecidas")
             return parecidas
     return []
 
