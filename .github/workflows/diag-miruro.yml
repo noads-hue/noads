@@ -1,0 +1,23 @@
+# TEMPORAL (rama diag-miruro): lee unas páginas de Miruro desde GitHub y las sube a la rama para estudiar su formato.
+name: "diag: Miruro"
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  diag:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests curl_cffi
+      - run: python diag/diag_miruro.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add diag/
+          git commit -m "diag: páginas de Miruro" || exit 0
+          git push
