@@ -18,7 +18,9 @@ jobs:
       - run: pip install requests curl_cffi
       - env:
           CLAUDE_KEY: ${{ secrets.CLAUDE_KEY }}
-        run: python cine/Archivos/build_monos.py --carpeta cine/Archivos --solo series 2>&1 | tee diag/fichas_log.txt
+        run: |
+          rm -f cine/Archivos/anilist_series.json
+          python cine/Archivos/build_monos.py --carpeta cine/Archivos --solo series 2>&1 | tee diag/fichas_log.txt
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

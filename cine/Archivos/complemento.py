@@ -86,25 +86,34 @@ def parecido(q, cand):
         return 60 + 40 * len(corto) // len(largo)
     a, b = set(q.split()), set(cand.split())
     comunes, total = len(a & b), len(a | b)
+    if comunes >= 2 and comunes * 10 >= total * 8:          # casi todas las palabras (romanizaciones distintas: "reijo"/"reijou")
+        return 60 + 40 * comunes // total
     return 40 * comunes // total if comunes >= 2 and comunes * 10 >= total * 6 else 0
 
 
 _ORDINAL = {"second": 2, "third": 3, "fourth": 4, "fifth": 5, "sixth": 6, "seventh": 7, "eighth": 8, "ninth": 9, "tenth": 10,
             "segunda": 2, "tercera": 3, "cuarta": 4, "quinta": 5, "sexta": 6, "septima": 7, "octava": 8, "novena": 9, "decima": 10}
+_ROMANOS = {"ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7, "viii": 8, "ix": 9}
 _TEMPORADA = re.compile(
     r"\b(?:(?:temporada|season|parte|part|cour)\s*(\d{1,2})|(\d{1,2})\s*(?:nd|rd|th|st|a|ra|da|era)?\s*(?:season|temporada|parte|part|cour)"
-    r"|(" + "|".join(_ORDINAL) + r")\s*(?:season|temporada|parte|part|cour))\b")
+    r"|(" + "|".join(_ORDINAL) + r")\s*(?:season|temporada|parte|part|cour)|s(\d{1,2}))\b")
+_TEMPORADA_FINAL = re.compile(r"\s(?:([2-9])|(" + "|".join(_ROMANOS) + r"))$")   # "… 2", "… III" al final
 
 
 def temporada_de(titulo):
-    """("título sin la marca", número de temporada): "X temporada 2" → ("x", 2); "X 2nd Season" → ("x", 2); sin marca → ("x", 1).
-    El título devuelto ya está normalizado."""
+    """("título sin la marca", número de temporada): "X temporada 2" → ("x", 2); "X 2nd Season", "X S2", "X 2", "X II" → ("x", 2);
+    sin marca → ("x", 1). El título devuelto ya está normalizado."""
     t = normalizar(titulo)
     n = 1
     m = _TEMPORADA.search(t)
     if m:
-        n = int(m.group(1) or m.group(2) or _ORDINAL[m.group(3)])
+        n = int(m.group(1) or m.group(2) or m.group(4) or _ORDINAL[m.group(3)])
         t = " ".join((t[: m.start()] + " " + t[m.end():]).split())
+    else:
+        m = _TEMPORADA_FINAL.search(t)
+        if m and len(t[: m.start()]) >= 4:
+            n = int(m.group(1)) if m.group(1) else _ROMANOS[m.group(2)]
+            t = t[: m.start()].strip()
     return t, n
 
 
@@ -231,13 +240,20 @@ def resumen_de(media):
     }
 
 
+def _orden(media, puntos):
+    """Para desempatar: primero el parecido, luego que sea una serie (no OVA ni película) y la que más episodios tiene."""
+    return (puntos, 1 if media.get("format") in FORMATOS_SERIE else 0, media.get("episodes") or 0)
+
+
 def resolver(anilist, titulos):
     """La serie de AniList que corresponde a los [titulos] de una serie de MonosChinos ([titulos_de]), o None si ninguna se
-    parece lo suficiente. Las temporadas ("X temporada 2") se buscan como tales y, si AniList no las encuentra por título,
-    siguiendo las secuelas desde la primera temporada. None también si se agotaron las consultas de la corrida."""
-    mejor, puntos = None, 0
+    parece lo suficiente. La temporada es la mayor que digan los títulos o el slug ("X temporada 2", "x-2"): se busca como
+    tal y, si AniList no la encuentra por título, siguiendo las secuelas desde la primera temporada. None también si se
+    agotaron las consultas de la corrida."""
+    n = max((temporada_de(t)[1] for t in titulos), default=1)
+    mejor, orden = None, (0, 0, 0)
     for t in titulos:
-        base, n = temporada_de(t)
+        base, _ = temporada_de(t)
         if not base:
             continue
         consultas = [t]
@@ -250,20 +266,20 @@ def resolver(anilist, titulos):
                     return None
                 continue
             for m in encontradas:
-                p = puntuar(m, base, n)
-                if p > puntos:
-                    mejor, puntos = m, p
-            if puntos >= PUNTOS_MINIMOS:
+                o = _orden(m, puntuar(m, base, n))
+                if o > orden:
+                    mejor, orden = m, o
+            if orden[0] >= PUNTOS_MINIMOS:
                 return resumen_de(mejor)
         if n > 1:
             # por las secuelas: la primera temporada y de ahí n-1 secuelas
-            primera, pp = None, 0
+            primera, op = None, (0, 0, 0)
             encontradas = anilist.buscar(base) or []
             for m in encontradas:
-                p = puntuar(m, base, 1)
-                if p > pp:
-                    primera, pp = m, p
-            if primera is not None and pp >= PUNTOS_MINIMOS:
+                o = _orden(m, puntuar(m, base, 1))
+                if o > op:
+                    primera, op = m, o
+            if primera is not None and op[0] >= PUNTOS_MINIMOS:
                 actual = primera
                 for _ in range(n - 1):
                     actual = anilist.secuela(actual["id"])
@@ -432,10 +448,9 @@ class Traducciones:
 
 
 def interpretar(texto, cantidad):
-    """La lista de traducciones que viene en la respuesta (un arreglo JSON, con o sin bloque de código); None si no hay un
-    arreglo de [cantidad] textos."""
-    s = (texto or "").strip()
-    s = re.sub(r"^```[a-z]*\s*|\s*```$", "", s)
+    """La lista de traducciones que viene en la respuesta (un arreglo JSON, aunque venga con texto o un bloque de código
+    alrededor); None si no hay un arreglo de [cantidad] textos."""
+    s = texto or ""
     i, j = s.find("["), s.rfind("]")
     if i < 0 or j <= i:
         return None
