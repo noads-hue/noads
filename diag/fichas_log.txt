@@ -36,6 +36,7 @@ Fichas: 67 resueltas de 67
   marronnier-okoku-no-shichinin-no-kishi-sub-espanol: AniList 212799 (Marronnier Oukoku no Shichinin no Kishi)
   kyoufu-collector-sub-espanol: AniList 203473 (Kyoufu Collector)
   shuiro-no-kamen-sub-espanol: AniList 195571 (Shuiro no Kamen)
+  AniList: límite alcanzado, se espera 60 s
   rezero-kara-hajimeru-break-time-s4-sub-espanol: AniList 210687 (Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season)
   reiwa-no-dara-san-sub-espanol: AniList 203880 (Reiwa no Dara-san)
   mebius-dust-sub-espanol: AniList 108992 (Mebius Dust)
@@ -48,7 +49,7 @@ Fichas: 67 resueltas de 67
   black-clover-sub-espanol: AniList 97940 (Black Clover)
   yasei-no-last-boss-ga-arawareta-temporada-2-sub-espanol: AniList 204389 (Yasei no Last Boss ga Arawareta! 2nd Season)
   romelia-senki-sub-espanol: AniList 180894 (Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita)
-  keroro-gunso-sub-espanol: AniList 11299 (Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!)
+  keroro-gunso-sub-espanol: AniList 516 (Keroro Gunsou)
   tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-sub-espanol: AniList 187402 (Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu)
   zombie-sagashitemasu-sub-espanol: AniList 199007 (#Zombie Sagashitemasu)
   seitokai-ni-mo-ana-wa-aru-sub-espanol: AniList 191656 (Seitokai ni mo Ana wa Aru!)
@@ -71,6 +72,6 @@ Fichas: 67 resueltas de 67
   kanata-kara-sub-espanol: AniList 209463 (Kanata Kara)
   dark-summoner-to-dekiteiru-sub-espanol: AniList 208025 (Dark Summoner to Dekiteiru)
   kanojo-no-tomodachi-sub-espanol: AniList 211877 (Kanojo no Tomodachi)
-  62 de 67 series en AniList (5 no), 62 con datos; 1712 episodios con título/descripción: 0 textos en español, 3379 aún en inglés; 109 consultas a AniList, 0 pedidos a Claude
+  62 de 67 series en AniList (5 no), 62 con datos; 1716 episodios con título/descripción: 0 textos en español, 3387 aún en inglés; 105 consultas a AniList, 0 pedidos a Claude
   Escrito cine/Archivos/monos_series.json (67 fichas)
-Listo en 269 s (1 archivos armados)
+Listo en 285 s (1 archivos armados)
