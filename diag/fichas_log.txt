@@ -1,0 +1,77 @@
+== Calendario ==
+Calendario: 62 series en 7 días, 62 con póster
+== Fichas de series ==
+Fichas: 67 series a resolver
+Fichas: 67 resueltas de 67
+== Complemento (AniList + ani.zip + traducción) ==
+  tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-sub-espanol: AniList 180136 (Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru)
+  rompiendo-el-hielo-sub-espanol: AniList 186497 (Koori no Jouheki)
+  shin-tennis-no-ouji-sama-u-17-world-cup-final-member-selection-match-sub-espanol: AniList 140187 (Shin Tennis no Ouji-sama: U-17 WORLD CUP)
+  fx-fighter-kurumichan-sub-espanol: AniList 206401 (FX Senshi Kurumi-chan)
+  kikansha-no-mahou-wa-tokubetsu-desu-temporada-2-sub-espanol: AniList 172192 (Kikansha no Mahou wa Tokubetsu desu 2nd Season)
+  gattaishin-series-sub-espanol: AniList 213068 (Juuоu Mujin Dandivine)
+  shikin-on-myao-bou-sub-espanol: AniList 166443 (Zi Jin: Yu Miao Fang)
+  majikku-naito-reiasu-sub-espanol: AniList 435 (Magic Knight Rayearth)
+  tantei-wa-mo-shindeiru-temporada-2-sub-espanol: AniList 128712 (Tantei wa mou, Shindeiru.)
+  sasaki-to-p-chan-temporada-2-sub-espanol: AniList 152682 (Sasaki to Pii-chan)
+  sekai-saikyou-no-majo-hajimemashita-sub-espanol: AniList 211778 (Sekai Saikyou no Majo, Hajimemashita)
+  mahou-shoujo-ikusei-keikaku-restart-sub-espanol: AniList 160803 (Mahou Shoujo Ikusei Keikaku: restart)
+  dark-machine-the-animation-sub-espanol: AniList 179876 (DARK MACHINE: The Animation)
+  sora-wa-akai-kawa-no-hotori-sub-espanol: AniList 207809 (Sora wa Akai Kawa no Hotori)
+  chitose-kun-wa-ramune-bin-no-naka-sub-espanol: AniList 180082 (Chitose-kun wa Ramune Bin no Naka)
+  battle-spirits-re-zekkai-no-sora-sub-espanol: AniList 187990 (Battle Spirits [Re] Zekkai no Kuu)
+  shiotaio-no-sato-san-ga-ore-ni-dake-amai-sub-espanol: AniList 209502 (Shiotaiou no Satou-san ga Ore ni dake Amai)
+  choujun-choujou-senpai-sub-espanol: AniList 200294 (Choujun! Choujou Senpai)
+  chii-fuyo-sub-espanol: AniList 207329 (Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?)
+  bleach-sennen-kessen-hen-sub-espanol: AniList 116674 (BLEACH: Sennen Kessen-hen)
+  tensei-goblin-dakedo-shitsumon-aru-sub-espanol: AniList 209219 (Tensei Goblin Dakedo Shitsumon Aru?)
+  psyren-sub-espanol: AniList 204011 (PSYЯEN)
+  doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-sub-espanol: AniList 207191 (Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.)
+  watashi-no-shiawase-na-kekkon-s2-sub-espanol: no está en AniList
+  saibapanku-edjirannazu-cyberpunk-edgerunners-2-sub-espanol: no está en AniList
+  your-letter-sub-espanol: AniList 163788 (Yeonui Pyeonji)
+  dreamland-sub-espanol: AniList 114466 (DREAMLAND)
+  doragon-boru-supa-birusu-sub-espanol: no está en AniList
+  shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-sub-espanol: AniList 205896 (Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku)
+  marronnier-okoku-no-shichinin-no-kishi-sub-espanol: AniList 212799 (Marronnier Oukoku no Shichinin no Kishi)
+  kyoufu-collector-sub-espanol: AniList 203473 (Kyoufu Collector)
+  shuiro-no-kamen-sub-espanol: AniList 195571 (Shuiro no Kamen)
+  AniList: límite alcanzado, se espera 60 s
+  rezero-kara-hajimeru-break-time-s4-sub-espanol: no está en AniList
+  reiwa-no-dara-san-sub-espanol: AniList 203880 (Reiwa no Dara-san)
+  mebius-dust-sub-espanol: AniList 108992 (Mebius Dust)
+  hyoken-no-majutsushi-ga-sekai-wo-suberu-sekai-saikyo-no-majutsushi-de-aru-shonen-wa-majutsu-gakuin-ga-nyugaku-suru-temporada-2-sub-espanol: AniList 148116 (Hyouken no Majutsushi ga Sekai wo Suberu)
+  uchi-no-ototo-domo-ga-sumimasen-sub-espanol: AniList 203490 (Uchi no Otouto-domo ga Sumimasen)
+  shiguang-dailiren-link-click-3-sub-espanol: no está en AniList
+  togen-anki-nikko-kegon-falls-arc-sub-espanol: AniList 177474 (Tougen Anki)
+  to-aru-anbu-no-item-sub-espanol: AniList 186742 (Toaru Anbu no ITEM)
+  hotaru-no-yomeiri-sub-espanol: AniList 205909 (Hotaru no Yomeiri)
+  black-clover-sub-espanol: AniList 97940 (Black Clover)
+  yasei-no-last-boss-ga-arawareta-temporada-2-sub-espanol: AniList 204389 (Yasei no Last Boss ga Arawareta! 2nd Season)
+  romelia-senki-sub-espanol: AniList 180894 (Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita)
+  keroro-gunso-sub-espanol: AniList 11299 (Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!)
+  tensei-shita-daiseijo-wa-seijo-de-aru-koto-wo-hitakakusu-sub-espanol: AniList 187402 (Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu)
+  zombie-sagashitemasu-sub-espanol: AniList 199007 (#Zombie Sagashitemasu)
+  seitokai-ni-mo-ana-wa-aru-sub-espanol: AniList 191656 (Seitokai ni mo Ana wa Aru!)
+  vertex-force-sub-espanol: AniList 209562 (Vertex Force)
+  ranma-nibun-no-ichi-sub-espanol: no está en AniList
+  magicalexplorer-sub-espanol: AniList 169581 (Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru)
+  one-piece-sub-espanol: AniList 21 (ONE PIECE)
+  diamond-no-ace-act-ii-second-season-sub-espanol: AniList 177634 (Diamond no Ace act II: Second Season)
+  yozakura-san-chi-no-daisakusen-temporada-2-sub-espanol: AniList 182578 (Yozakura-san Chi no Daisakusen 2nd Season)
+  star-detective-precure-sub-espanol: AniList 202957 (Meitantei Precure!)
+  tempal-item-no-chikara-sub-espanol: AniList 212888 (Tempal: Item no Chikara)
+  tensei-kizoku-kantei-skill-de-nariagaru-s3-sub-espanol: no está en AniList
+  mezametara-saikyo-sobi-to-uchusen-mochi-datta-no-de-ikkodate-mezashite-yohei-toshite-jiyu-ni-ikitai-sub-espanol: AniList 186541 (Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai)
+  ojisan-wa-kawaii-mono-ga-osuki-sub-espanol: AniList 202079 (Oji-san wa Kawaii Mono ga Osuki.)
+  yowaki-max-reijo-nanoni-ratsuwan-konyakusha-sama-no-kake-ni-notte-shimatta-sub-espanol: no está en AniList
+  ao-no-hako-sub-espanol: AniList 170942 (Ao no Hako)
+  tank-chair-sensha-isu-sub-espanol: AniList 209499 (TANK CHAIR: Sensha Isu)
+  ao-ashi-temporada-2-sub-espanol: AniList 191788 (Aoashi 2nd Season)
+  hotel-inhumans-temporada-2-sub-espanol: AniList 199426 (Hotel Inhumans 2nd Season)
+  kanata-kara-sub-espanol: AniList 209463 (Kanata Kara)
+  dark-summoner-to-dekiteiru-sub-espanol: AniList 208025 (Dark Summoner to Dekiteiru)
+  kanojo-no-tomodachi-sub-espanol: AniList 211877 (Kanojo no Tomodachi)
+  59 de 67 series en AniList (8 no), 59 con datos; 1698 episodios con título/descripción: 0 textos en español, 3351 aún en inglés; 102 consultas a AniList, 0 pedidos a Claude
+  Escrito cine/Archivos/monos_series.json (67 fichas)
+Listo en 257 s (1 archivos armados)
