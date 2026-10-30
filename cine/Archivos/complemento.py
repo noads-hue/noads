@@ -74,9 +74,16 @@ def normalizar(t):
     return " ".join(re.sub(r"[^a-z0-9]+", " ", t).split())
 
 
+def plegar(t):
+    """Iguala las romanizaciones del japonés con y sin vocal larga ("gunsou"/"gunso", "reijou"/"reijo", "juukishi"/"jukishi")."""
+    return re.sub(r"([aeiou])\1|ou", lambda m: "o" if m.group(0) == "ou" else m.group(1), t)
+
+
 def parecido(q, cand):
-    """Qué tanto se parecen dos títulos ya normalizados (el mismo cálculo que MiruroScraper en la app): 100 iguales; 60–100 si
-    uno contiene al otro como palabras completas; 24–40 si comparten casi todas las palabras; 0 si no se parecen."""
+    """Qué tanto se parecen dos títulos ya normalizados (el mismo cálculo que MiruroScraper en la app, más [plegar]): 100
+    iguales; 60–100 si uno contiene al otro como palabras completas, o si comparten casi todas las palabras; 24–40 si
+    comparten la mayoría; 0 si no se parecen."""
+    q, cand = plegar(q), plegar(cand)
     if not q or not cand:
         return 0
     if q == cand:
